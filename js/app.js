@@ -518,6 +518,7 @@
     loadLS();
     el("bookTitle").textContent = META.title || "法语单词随身背";
     el("bookAuthor").textContent = META.author || "";
+    el("bookAuthor").style.display = META.author ? "" : "none";
     renderToc();
 
     el("toc").addEventListener("click", function (e) {
