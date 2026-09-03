@@ -238,6 +238,7 @@
         });
       };
     });
+    observeAudio();   // 可视区音频预热：滚动到的词条提前填充 HTTP 缓存
   }
 
   function navigate(dir) {
@@ -356,12 +357,16 @@
   }
 
   function preloadNext() {
-    var nx = P.list[P.i + 1];
-    if (!nx) return;
+    // 连播时预热后续若干条（填充 HTTP 缓存），跳转/快进不卡网络
+    var WIN = 4;
+    for (var k = 1; k <= WIN; k++) {
+      var nxw = P.list[P.i + k];
+      if (nxw) warmCache(nxw.src); else break;
+    }
     try {
       if (!P.pre) P.pre = new Audio();
       P.pre.preload = "auto";
-      P.pre.src = nx.src;      // 独立对象，不绑定任何回调
+      if (P.list[P.i + 1]) P.pre.src = P.list[P.i + 1].src;   // 独立对象，解码预载下一条
     } catch (e) { }
   }
 
@@ -445,12 +450,56 @@
     else { highlight(target); updateProgress(); }
   }
 
+  /* ---------- 音频缓存与预热（提升点读/连播效率） ---------- */
+  var audioCache = new Map();   // src -> HTMLAudioElement（LRU 复用，避免重复创建/解码）
+  var audioWarmed = new Set();  // 已预热（填充浏览器 HTTP 缓存）的 src，避免重复请求
+  var audioIO = null;
+
+  function warmCache(src) {
+    if (!src || audioWarmed.has(src)) return;
+    audioWarmed.add(src);
+    try { fetch(src, { cache: "force-cache" }).catch(function () {}); }
+    catch (e) { }
+  }
+
+  function observeAudio() {
+    if (!audioIO) {
+      audioIO = new IntersectionObserver(function (ents) {
+        ents.forEach(function (en) {
+          if (en.isIntersecting) {
+            var a = en.target.getAttribute("data-a");
+            if (a) warmCache(a);
+            audioIO.unobserve(en.target);
+          }
+        });
+      }, { root: null, rootMargin: "400px 0px", threshold: 0.01 });
+    } else {
+      audioIO.disconnect();
+    }
+    document.querySelectorAll("#content [data-a]").forEach(function (n) { audioIO.observe(n); });
+  }
+
   function say(src, btn) {
-    var a = new Audio(src);
+    var a;
+    if (audioCache.has(src)) {
+      a = audioCache.get(src);
+    } else {
+      a = new Audio(src);
+      audioCache.set(src, a);
+      if (audioCache.size > 120) {   // LRU 淘汰：跳过正在播放的元素，避免误掐断
+        for (var ki = audioCache.keys(), kx = ki.next(); !kx.done; kx = ki.next()) {
+          var ec = audioCache.get(kx.value);
+          if (ec && ec.paused) { audioCache.delete(kx.value); break; }
+        }
+      }
+    }
+    try { a.currentTime = 0; } catch (e) { }
     a.playbackRate = rate();
     if (btn) {
       btn.classList.add("on");
       a.onended = a.onerror = function () { btn.classList.remove("on"); };
+    } else {
+      a.onended = a.onerror = null;
     }
     var pr = a.play();
     if (pr && pr.catch) pr.catch(function () { if (btn) btn.classList.remove("on"); });
@@ -653,6 +702,12 @@
       var fi = flatIndex();
       for (var k = 1; k <= 2; k++) if (FLAT[fi + k]) loadParte(FLAT[fi + k].gid, function () { });
     }, 1200);
+
+    // 悬停预取：鼠标移到词条即预热其音频，点击即时出声
+    document.addEventListener("mouseover", function (e) {
+      var t = e.target && e.target.closest ? e.target.closest("[data-a]") : null;
+      if (t) { var s = t.getAttribute("data-a"); if (s) warmCache(s); }
+    });
 
     initStudy();
     render();
