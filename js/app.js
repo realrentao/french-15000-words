@@ -173,14 +173,14 @@
       var id = uid(gid, sno, kind, i);
       h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
         + '<div class="body"><div class="line-es">'
-        + '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>'
+        + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
         + (it[6] ? '<span class="ipa pron" title="法语音标">/' + esc(it[6]) + '/</span>' : '')
         + '<span class="pos">' + esc(it[2]) + '</span></div>'
-        + '<div class="zh" data-a="' + AUDIO + it[4] + '">' + esc(it[0]) + '</div>'
+        + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + esc(it[0]) + '</div>' : '<div class="zh">' + esc(it[0]) + '</div>')
         + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
         + '</div>'
-        + '<button class="spk" data-a="' + AUDIO + it[3] + '" title="法语发音">🔊</button>'
-        + '<button class="spk" data-a="' + AUDIO + it[4] + '" title="中文发音">汉</button></div>';
+        + (it[3] ? '<button class="spk" data-a="' + AUDIO + it[3] + '" title="法语发音">🔊</button>' : '')
+        + (it[4] ? '<button class="spk" data-a="' + AUDIO + it[4] + '" title="中文发音">汉</button>' : '') + '</div>';
     });
     return h + '</div>';
   }
@@ -193,9 +193,9 @@
     arr.forEach(function (it, i) {
       var id = uid(gid, sno, kind, i);
       h += '<div class="sent" id="' + id + '">'
-        + '<div class="s-es" data-a="' + AUDIO + it[3] + '">' + esc(it[0]) + '</div>'
+        + (it[3] ? '<div class="s-es" data-a="' + AUDIO + it[3] + '">' + esc(it[0]) + '</div>' : '<div class="s-es">' + esc(it[0]) + '</div>')
         + (it[6] ? '<div class="s-ipa pron">/' + esc(it[6]) + '/</div>' : '')
-        + '<div class="s-zh" data-a="' + AUDIO + it[4] + '">' + esc(it[1]) + '</div>'
+        + (it[4] ? '<div class="s-zh" data-a="' + AUDIO + it[4] + '">' + esc(it[1]) + '</div>' : '<div class="s-zh">' + esc(it[1]) + '</div>')
         + (it[5] ? '<div class="s-py pron">' + esc(it[5]) + '</div>' : '')
         + (it[2] ? '<div class="s-src">' + esc(it[2]) + '</div>' : '') + '</div>';
     });
@@ -299,18 +299,16 @@
 
   function expand() {
     var m = mode(), L = [];
+    var pushFr = function (u) { if (u.ae) L.push({ src: AUDIO + u.ae, uid: u.id, lang: "fr" }); };
+    var pushZh = function (u) { if (u.az) L.push({ src: AUDIO + u.az, uid: u.id, lang: "zh" }); };
     if (m === "fr-zh") {
-      P.units.forEach(function (u) {
-        L.push({ src: AUDIO + u.ae, uid: u.id, lang: "fr" });
-        L.push({ src: AUDIO + u.az, uid: u.id, lang: "zh" });
-      });
+      P.units.forEach(function (u) { pushFr(u); pushZh(u); });
     } else if (m === "all-fr-zh") {
-      P.units.forEach(function (u) { L.push({ src: AUDIO + u.ae, uid: u.id, lang: "fr" }); });
-      P.units.forEach(function (u) { L.push({ src: AUDIO + u.az, uid: u.id, lang: "zh" }); });
+      P.units.forEach(pushFr); P.units.forEach(pushZh);
     } else if (m === "fr-only") {
-      P.units.forEach(function (u) { L.push({ src: AUDIO + u.ae, uid: u.id, lang: "fr" }); });
+      P.units.forEach(pushFr);
     } else {
-      P.units.forEach(function (u) { L.push({ src: AUDIO + u.az, uid: u.id, lang: "zh" }); });
+      P.units.forEach(pushZh);
     }
     P.list = L; P.i = 0;
   }
@@ -743,9 +741,9 @@
 
   function renderCard(it, body, foot) {
     body.innerHTML = '<div class="card-face front">'
-      + '<div class="cf-es">' + esc(it.es) + '</div>'
+      + '<div class="cf-es">' + esc(it.es || it.zh) + '</div>'
       + (it.ipa ? '<div class="cf-ipa">/' + esc(it.ipa) + '/</div>' : '')
-      + '<button class="cf-spk spk" data-a="' + AUDIO + it.ae + '" title="法语发音">🔊 法语</button>'
+      + (it.ae ? '<button class="cf-spk spk" data-a="' + AUDIO + it.ae + '" title="法语发音">🔊 法语</button>' : '')
       + '<div class="cf-hint">点击卡片或按空格翻面</div></div>';
     body.onclick = function (e) { if (e.target.closest(".spk")) return; flipCard(it, body, foot); };
     foot.innerHTML = '<div class="study-prog">' + (study.i + 1) + ' / ' + study.total + '</div>'
@@ -757,7 +755,7 @@
     body.innerHTML = '<div class="card-face back">'
       + '<div class="cf-zh">' + esc(it.zh) + '</div>'
       + (it.py ? '<div class="cf-py">' + esc(it.py) + '</div>' : '')
-      + '<button class="cf-spk spk" data-a="' + AUDIO + it.az + '" title="中文发音">🔊 中文</button>'
+      + (it.az ? '<button class="cf-spk spk" data-a="' + AUDIO + it.az + '" title="中文发音">🔊 中文</button>' : '')
       + (it.kind === "s" && it.src ? '<div class="cf-src">' + esc(it.src) + '</div>' : '')
       + '</div>';
     foot.innerHTML = '<div class="study-prog">' + (study.i + 1) + ' / ' + study.total + '</div>'
@@ -773,24 +771,24 @@
     shuffle(pool);
     var seen = {}, opts = [];
     function add(o) { if (!seen[o]) { seen[o] = 1; opts.push(o); } }
-    add(it.es);
+    add(it.es || it.zh);
     for (var k = 0; k < pool.length && opts.length < 4; k++) add(pool[k].es);
     shuffle(opts);
     body.innerHTML = '<div class="quiz-prompt"><div class="qp-zh">' + esc(it.zh) + '</div>'
       + (it.py ? '<div class="qp-py">' + esc(it.py) + '</div>' : '')
-      + '<button class="cf-spk spk" data-a="' + AUDIO + it.az + '" title="中文发音">🔊 中文</button></div>'
+      + (it.az ? '<button class="cf-spk spk" data-a="' + AUDIO + it.az + '" title="中文发音">🔊 中文</button>' : '') + '</div>'
       + '<div class="quiz-opts">' + opts.map(function (o) {
         return '<button class="qopt" data-es="' + esc(o) + '">' + esc(o) + '</button>';
       }).join("") + '</div>';
     body.querySelectorAll(".qopt").forEach(function (b) {
       b.onclick = function () {
-        var chosen = b.getAttribute("data-es"), correct = (chosen === it.es);
+        var chosen = b.getAttribute("data-es"), correct = (chosen === (it.es || it.zh));
         body.querySelectorAll(".qopt").forEach(function (x) {
           x.disabled = true;
           if (x.getAttribute("data-es") === it.es) x.classList.add("correct");
           else if (x === b) x.classList.add("wrong");
         });
-        say(AUDIO + it.ae, null);
+        if (it.ae) say(AUDIO + it.ae, null);
         grade(correct);
         setTimeout(renderStudy, 1200);
       };
