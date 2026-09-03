@@ -136,6 +136,8 @@ button{cursor:pointer;background:none;border:none}
   border:1px solid var(--line);border-radius:4px;padding:0 5px;flex:0 0 auto}
 .row .zh{font-size:13.5px;color:var(--tx2);margin-top:2px;cursor:pointer;word-break:break-word}
 .row .zh:hover{color:var(--red)}
+.row .zh .pos-inline{font-size:11px;color:var(--tx3);background:var(--bg);
+  border:1px solid var(--line);border-radius:4px;padding:0 5px;margin-left:2px;white-space:nowrap}
 .row .spk{width:26px;height:26px;border-radius:6px;display:grid;place-items:center;
   color:var(--tx3);font-size:13px;flex:0 0 auto}
 .row .spk:hover{background:var(--bg);color:var(--red)}

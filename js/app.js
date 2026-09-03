@@ -171,12 +171,13 @@
       + '<button class="mini-play" data-playblock="' + kind + '">▶ 连播本组</button></div>';
     arr.forEach(function (it, i) {
       var id = uid(gid, sno, kind, i);
+      var zhHtml = esc(it[0]) + (it[2] ? ' <span class="pos-inline">' + esc(it[2]) + '</span>' : '');
       h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
         + '<div class="body"><div class="line-es">'
         + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
         + (it[6] ? '<span class="ipa pron" title="法语音标">/' + esc(it[6]) + '/</span>' : '')
         + '<span class="pos">' + esc(it[2]) + '</span></div>'
-        + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + esc(it[0]) + '</div>' : '<div class="zh">' + esc(it[0]) + '</div>')
+        + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + zhHtml + '</div>' : '<div class="zh">' + zhHtml + '</div>')
         + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
         + '</div>'
         + (it[3] ? '<button class="spk" data-a="' + AUDIO + it[3] + '" title="法语发音">🔊</button>' : '')
@@ -259,13 +260,13 @@
   function unitsOf(gid, sec) {
     var out = [];
     sec.w.forEach(function (it, i) {
-      out.push({ id: uid(gid, sec.no, "w", i), kind: "w", es: it[1], zh: it[0], ae: it[3], az: it[4] });
+      out.push({ id: uid(gid, sec.no, "w", i), kind: "w", es: it[1], zh: it[0], pos: it[2], ae: it[3], az: it[4] });
     });
     sec.s.forEach(function (it, i) {
       out.push({ id: uid(gid, sec.no, "s", i), kind: "s", es: it[0], zh: it[1], ae: it[3], az: it[4] });
     });
     sec.e.forEach(function (it, i) {
-      out.push({ id: uid(gid, sec.no, "e", i), kind: "e", es: it[1], zh: it[0], ae: it[3], az: it[4] });
+      out.push({ id: uid(gid, sec.no, "e", i), kind: "e", es: it[1], zh: it[0], pos: it[2], ae: it[3], az: it[4] });
     });
     return out;
   }
@@ -696,6 +697,7 @@
             out.push({
               uid: uid(p.gid, p.sec.no, kind, i), kind: kind,
               es: it[(kind === "s" ? 0 : 1)], zh: it[(kind === "s" ? 1 : 0)],
+              pos: (kind === "s" ? null : it[2]),
               ae: it[3], az: it[4], py: it[5], ipa: it[6]
             });
           });
@@ -753,7 +755,7 @@
   function flipCard(it, body, foot) {
     body.onclick = null;
     body.innerHTML = '<div class="card-face back">'
-      + '<div class="cf-zh">' + esc(it.zh) + '</div>'
+      + '<div class="cf-zh">' + esc(it.zh) + (it.pos ? ' <span class="pos-inline">' + esc(it.pos) + '</span>' : '') + '</div>'
       + (it.py ? '<div class="cf-py">' + esc(it.py) + '</div>' : '')
       + (it.az ? '<button class="cf-spk spk" data-a="' + AUDIO + it.az + '" title="中文发音">🔊 中文</button>' : '')
       + (it.kind === "s" && it.src ? '<div class="cf-src">' + esc(it.src) + '</div>' : '')
