@@ -1,3 +1,4 @@
+window.BOOK_DATA=window.BOOK_DATA||{};
 window.BOOK_DATA[26]={
  "gid": 26,
  "no": "2",
