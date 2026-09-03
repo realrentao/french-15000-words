@@ -1,1 +1,3761 @@
-window.BOOK_DATA=window.BOOK_DATA||{};window.BOOK_DATA[26]={"gid": 26, "no": "2", "name": "学校设置", "gname": "学习教育", "secs": [{"no": 1, "name": "学校各个科室", "w": [["办公室", "bureau", "m.", "fr/04366.mp3", "zh/04366.mp3", "bàn gōng shì", "byro"], ["注册", "enregistrer", "", "fr/04367.mp3", "zh/04367.mp3", "zhù cè", "árzistre"], ["行政", "iadministration /", "", "fr/04368.mp3", "zh/04368.mp3", "xíng zhèng", "administra(a)sj5"], ["财务室", "Bureau des finances", "m.", "fr/04369.mp3", "zh/04369.mp3", "cái wù shì", "byro de fina:s"], ["校长室", "direction /.", "", "fr/04370.mp3", "zh/04370.mp3", "xiào zhǎng shì", "direksj5"], ["副校长室", "KBureau du vice-president", "m.", "fr/04371.mp3", "zh/04371.mp3", "fù xiào zhǎng shì", "byro dy vis prezidá"], ["副教授室", "Bureau du professeur adjoint y.", "", "fr/04372.mp3", "zh/04372.mp3", "fù jiào shòu shì", "byro dy profesar adzwa"], ["教授办公室", "Bureau du professeur", "m.", "fr/04373.mp3", "zh/04373.mp3", "jiào shòu bàn gōng shì", "byro dy profesar"], ["讲师办公室", "bureau de I'instructeur", "m.", "fr/04374.mp3", "zh/04374.mp3", "jiǎng shī bàn gōng shì", "byro d(a) léstryktæ:r"], ["档案室", "archives /.", "", "fr/04375.mp3", "zh/04375.mp3", "dàng àn shì", "arfi:v"], ["招生办", "Bureau des admissions", "m.", "fr/04376.mp3", "zh/04376.mp3", "zhāo shēng bàn", "byro de admisj5"], ["本科生办公室", "Bureau du premier cycle", "m.", "fr/04377.mp3", "zh/04377.mp3", "běn kē shēng bàn gōng shì", "byro dy pramje sikl"], ["研究生办公室", "Bureau des etudes supérieures", "m.", "fr/04378.mp3", "zh/04378.mp3", "yán jiū shēng bàn gōng shì", "byro de etyd sype(e)rjæ:r"], ["专业", "k spécialite", "", "fr/04601.mp3", "zh/04601.mp3", "zhuān yè", "spesjalite"], ["课程", "courskur]", "m.", "fr/04602.mp3", "zh/04602.mp3", "kè chéng", ""], ["学分", "unité de valeur /.", "", "fr/04603.mp3", "zh/04603.mp3", "xué fēn", "ynite da valer"], ["学校的", "scolaire", "", "fr/04604.mp3", "zh/04604.mp3", "xué xiào de", "skoler"], ["选课", "cours d'option", "m.", "fr/04605.mp3", "zh/04605.mp3", "xuǎn kè", "kur dopsj5"], ["学年", "annee scolaire /.", "", "fr/04606.mp3", "zh/04606.mp3", "xué nián", "ane skoler"], ["学期", "semestre", "m.", "fr/04607.mp3", "zh/04607.mp3", "xué qī", "s(a)mestr"], ["课程表", "horaire des cours", "m.", "fr/04608.mp3", "zh/04608.mp3", "kè chéng biǎo", "brer de kur"], ["学科", "discipline /", "", "fr/04609.mp3", "zh/04609.mp3", "xué kē", "disiplin"], ["实验作业", "travail expe rimental", "m.", "fr/04610.mp3", "zh/04610.mp3", "shí yàn zuò yè", "travaj eks- perimátal"], ["实习", "stage", "m.", "fr/04611.mp3", "zh/04611.mp3", "shí xí", "sta3"], ["必修的", "obligatoire", "", "fr/04612.mp3", "zh/04612.mp3", "bì xiū de", "nbligatwar"], ["选择的", "selectif,ive", "", "fr/04613.mp3", "zh/04613.mp3", "xuǎn zé de", "selektif, iv"], ["大学英语", "anglais d'université", "m.", "fr/04614.mp3", "zh/04614.mp3", "dà xué yīng yǔ", "ägle dyniversite"], ["高等数学", "mathe matiques supé rieures", "m.", "fr/04615.mp3", "zh/04615.mp3", "gāo děng shù xué", "matematik syperjcer"], ["体育", "sport", "m", "fr/04616.mp3", "zh/04616.mp3", "tǐ yù", "spor"], ["办公室", "bureau", "m.", "fr/05524.mp3", "zh/05524.mp3", "bàn gōng shì", "byro"], ["办公室家具", "mobilier de bureau", "m.", "fr/05525.mp3", "zh/05525.mp3", "bàn gōng shì jiā jù", "mobilje da byro"], ["办公设备", "matériel de bureau", "m.", "fr/05526.mp3", "zh/05526.mp3", "bàn gōng shè bèi", "materjel da byro"], ["公告", "annonce", "f", "fr/05527.mp3", "zh/05527.mp3", "gōng gào", "an5s"], ["布告", "bulletin", "m.", "fr/05528.mp3", "zh/05528.mp3", "bù gào", "bylt"], ["职员", "employé", "m.", "fr/05529.mp3", "zh/05529.mp3", "zhí yuán", "áplwaje"], ["文件柜", "classeur", "m.", "fr/05530.mp3", "zh/05530.mp3", "wén jiàn guì", "klascer"], ["文件夹", "carton", "m.", "fr/05531.mp3", "zh/05531.mp3", "wén jiàn jiā", "kart,"], ["白领", "col blanc", "m.", "fr/05532.mp3", "zh/05532.mp3", "bái lǐng", "kol bla"], ["金领", "col or", "m", "fr/05533.mp3", "zh/05533.mp3", "jīn lǐng", "kol or"], ["职业的", "professionnel.le", "", "fr/05534.mp3", "zh/05534.mp3", "zhí yè de", "profesjonel"], ["废纸篓", "déchet", "m.", "fr/05535.mp3", "zh/05535.mp3", "fèi zhǐ lǒu", "defe"], ["纯净水", "eau pure o py:r]", "f", "fr/05536.mp3", "zh/05536.mp3", "chún jìng shuǐ", ""], ["整齐的", "régulierere", "", "fr/05537.mp3", "zh/05537.mp3", "zhěng qí de", "regylje,er"], ["办公桌", "bureau", "m.", "fr/05538.mp3", "zh/05538.mp3", "bàn gōng zhuō", "byro"], ["噪音", "bruit", "m.", "fr/05539.mp3", "zh/05539.mp3", "zào yīn", "bryi"], ["清洁的", "propre", "", "fr/05540.mp3", "zh/05540.mp3", "qīng jié de", "propr"], ["办公桌", "Section 2", "", "fr/05551.mp3", "zh/05551.mp3", "bàn gōng zhuō", ""], ["台灯", "lampe de table", "", "fr/05552.mp3", "zh/05552.mp3", "tái dēng", "läp da tabl"], ["备忘录", "aide-mémoire", "m", "fr/05553.mp3", "zh/05553.mp3", "bèi wàng lù", "ed memwar"], ["便签本", "bloc-notes", "m.", "fr/05554.mp3", "zh/05554.mp3", "biàn qiān běn", "blok not"], ["评注", "remarque ].", "", "fr/05555.mp3", "zh/05555.mp3", "píng zhù", "r(a)mark"], ["信息", "information", "", "fr/05556.mp3", "zh/05556.mp3", "xìn xī", "Eformasj5"], ["夹子", "pince", "", "fr/05557.mp3", "zh/05557.mp3", "jiā zi", "ps"], ["文件", "document", "m.", "fr/05558.mp3", "zh/05558.mp3", "wén jiàn", "dokymá"], ["笔记本电脑", "ordinateur portatif", "m.", "fr/05559.mp3", "zh/05559.mp3", "bǐ jì běn diàn nǎo", "ordinatxr portatif"], ["笔尖", "pointe du pinceau", "m.", "fr/05560.mp3", "zh/05560.mp3", "bǐ jiān", "pwét dy p&so"], ["耳机", "écouteur", "m.", "fr/05561.mp3", "zh/05561.mp3", "ěr jī", "ekuter"], ["鱼缸", "I aquarium", "m.", "fr/05562.mp3", "zh/05562.mp3", "yú gāng", "akwarjom"], ["门铃", "carillon", "m", "fr/05563.mp3", "zh/05563.mp3", "mén líng", "karij5"], ["地球仪", "globe terrestre", "m.", "fr/05564.mp3", "zh/05564.mp3", "dì qiú yí", "glob terestr"], ["台灯", "contexte T lampede table", "", "fr/05565.mp3", "zh/05565.mp3", "tái dēng", "ktekst"]], "s": [["Mais les grandes nou- velles de ce matin est que la reine écran est allé s'inscrire a l'université de New York. Il travaille aux archives. I Quelque vite que le profes seur parle,les éleves sont ca pables de tout noter. F.", "但今天早上的大消息却是荧幕女王去纽约大学报到了。他在档案馆工作不管老师说得多快，学生们都能记下来", "一《维闻女孩》", "fr/04379.mp3", "zh/04379.mp3", "dàn jīn tiān zǎo shàng de dà xiāo xī què shì yíng mù nǚ wáng qù niǔ yuē dà xué bào dào le tā zài dàng àn guǎn gōng zuò bù guǎn lǎo shī shuō dé duō kuài xué shēng men dōu néng jì xià lái", ""], ["51% veulent envoyer leurs enfants aux Etats-Unis pour leurs études supérieures. 51%", "的家长想要送孩子去美国以便能接受到最高等的教育。", "", "fr/04380.mp3", "zh/04380.mp3", "de jiā zhǎng xiǎng yào sòng hái zi qù měi guó yǐ biàn néng jiē shòu dào zuì gāo děng de jiào yù", ""], ["Quel est le lien entre votre spécialite en Chine et votre spécialité en France?", "您在国内的专业和在法国的专业有什么联系？", "", "fr/04617.mp3", "zh/04617.mp3", "nín zài guó nèi de zhuān yè hé zài fǎ guó de zhuān yè yǒu shén me lián xì", ""], ["Lassouplissement de la carte scolaire:comment de- mander des dérogations?", "法国“学区分配”制度松动：如何申请“破例录取”？", "", "fr/04618.mp3", "zh/04618.mp3", "fǎ guó xué qū fēn pèi zhì dù sōng dòng rú hé shēn qǐng pò lì lù qǔ", ""], ["Je vais faire un stage dans une entreprise pendant les va- cances.", "假期里我要去一家公司实习。", "", "fr/04619.mp3", "zh/04619.mp3", "jià qī lǐ wǒ yào qù yī jiā gōng sī shí xí", ""], ["En France,Iécole est obli gatoire jusqua16 ans. 16X", "在法国实行的是年义务教育制度", "", "fr/04620.mp3", "zh/04620.mp3", "zài fǎ guó shí xíng de shì nián yì wù jiào yù zhì dù", ""], ["La mémoire,elle non plus, n'est pas comprehensible sans une approche mathématique.", "如果不从数学的途径来研究，记忆也是无法理解的。", "", "fr/04621.mp3", "zh/04621.mp3", "rú guǒ bù cóng shù xué de tú jìng lái yán jiū jì yì yě shì wú fǎ lǐ jiě de", ""], ["Mon bureau se loge dans un immeuble de trente étages.", "我的办公室坐落在一栋三十层的高楼里。", "", "fr/05541.mp3", "zh/05541.mp3", "wǒ de bàn gōng shì zuò luò zài yī dòng sān shí céng de gāo lóu lǐ", ""], ["Feuilletez réguliérement votre ciasseur,relisez ce que vous y avez mis. X+ +x", "定期翻阅你的文件柜重新读下存入其中的文件", "", "fr/05542.mp3", "zh/05542.mp3", "dìng qī fān yuè nǐ de wén jiàn guì chóng xīn dú xià cún rù qí zhōng de wén jiàn", ""], ["Irange les dossiers dans le carton du bureau. X+.", "他把文件资料整理放进了文件夹", "", "fr/05543.mp3", "zh/05543.mp3", "tā bǎ wén jiàn zī liào zhěng lǐ fàng jìn le wén jiàn jiā", ""], ["Il sefforce de concilier sa vie professionnelle et sa vie fa- miliale.", "他努力把自己的工作和家庭生活协调起来。", "", "fr/05544.mp3", "zh/05544.mp3", "tā nǔ lì bǎ zì jǐ de gōng zuò hé jiā tíng shēng huó xié tiáo qǐ lái", ""], ["70% des cols blancs sont des archétypes de ces cadres qui travaillent trop, soit plus de 10 heures par jour. I", "七成白领成过劳模平均每天工作超10小时。", "", "fr/05545.mp3", "zh/05545.mp3", "qī chéng bái lǐng chéng guò láo mó píng jūn měi tiān gōng zuò chāo xiǎo shí", ""], ["Toutes les transactions et les documents connexes sont écrits sur l'ordinateur portable rouge dans le sac.F", "所有的交易记录和相关文件都记在那个旅行包的红色笔记本里。", "", "fr/05566.mp3", "zh/05566.mp3", "suǒ yǒu de jiāo yì jì lù hé xiāng guān wén jiàn dōu jì zài nà ge lǚ xíng bāo de hóng sè bǐ jì běn lǐ", ""], ["Les citoyens de l'Union Européenne qui désirent aller en Angleterre n'ont pas besoin d'aucun document particulier a part leur carte d'identité. XT.", "意思是，只要你是欧盟公民，你拥有身份证，就不需要英国签证了", "", "fr/05567.mp3", "zh/05567.mp3", "yì si shì zhǐ yào nǐ shì ōu méng gōng mín nǐ yōng yǒu shēn fèn zhèng jiù bù xū yào yīng guó qiān zhèng le", ""], ["Ce journal qui présente l'actualite avec des mots simples et explique les événe- ments dans leur contexte pour rendre l'information en fran- cais accessible a tous.i", "这是一份以简单的单词来叙述和解释时事新闻和重大事件的报纸。", "", "fr/05568.mp3", "zh/05568.mp3", "zhè shì yī fèn yǐ jiǎn dān de dān cí lái xù shù hé jiě shì shí shì xīn wén hé zhòng dà shì jiàn de bào zhǐ", ""]], "e": [["银幕", "écran", "n.m.", "fr/04381.mp3", "zh/04381.mp3", "yín mù", "ekra"], ["", "capable", "adj", "fr/04382.mp3", "zh/04382.mp3", "", "kapabl"], ["能干的", "T", "", "fr/04383.mp3", "zh/04383.mp3", "néng gàn de", ""], ["标出", "noter v.", "", "fr/04384.mp3", "zh/04384.mp3", "biāo chū", "note"], ["美国", "tats-Unis", "", "fr/04385.mp3", "zh/04385.mp3", "měi guó", ""], ["", "assouplissement", "", "fr/04622.mp3", "zh/04622.mp3", "", ""], ["温和柔软", "", "", "fr/04623.mp3", "zh/04623.mp3", "wēn hé róu ruǎn", ""], ["", "compréhensible", "", "fr/04624.mp3", "zh/04624.mp3", "", ""], ["理解的", "", "adj.", "fr/04625.mp3", "zh/04625.mp3", "lǐ jiě de", "kpreäsibl"], ["", "approche n", "", "fr/04626.mp3", "zh/04626.mp3", "", "apro"], ["靠近", "#ll", "", "fr/04627.mp3", "zh/04627.mp3", "kào jìn", ""], ["层", "étageeta3l", "n.m", "fr/05546.mp3", "zh/05546.mp3", "céng", ""], ["翻闯", "feuilleter", "vt.", "fr/05547.mp3", "zh/05547.mp3", "fān chuǎng", "fjte"], ["案卷", "dossier", "n.m.", "fr/05548.mp3", "zh/05548.mp3", "àn juàn", "dosje"], ["努力", "efforcer vpr", "", "fr/05549.mp3", "zh/05549.mp3", "nǔ lì", "eforse"], ["协调", "concilier vt.t", "", "fr/05550.mp3", "zh/05550.mp3", "xié tiáo", "ksilje"], ["", "transaction", "", "fr/05569.mp3", "zh/05569.mp3", "", "trázaksj5"], ["交易", "", "nf.", "fr/05570.mp3", "zh/05570.mp3", "jiāo yì", ""], ["", "actualité", "nf.", "fr/05571.mp3", "zh/05571.mp3", "", "aktyalite"], ["现实事实", "", "", "fr/05572.mp3", "zh/05572.mp3", "xiàn shí shì shí", ""], ["上下文", "FX", "", "fr/05573.mp3", "zh/05573.mp3", "shàng xià wén", ""], ["", "accessible", "", "fr/05574.mp3", "zh/05574.mp3", "", "aksee)sibl"], ["可接近的", "", "adj", "fr/05575.mp3", "zh/05575.mp3", "kě jiē jìn de", ""]]}, {"no": 2, "name": "教室", "w": [["教室", "classe", "", "fr/04386.mp3", "zh/04386.mp3", "jiào shì", "kla:as"], ["黑板", "tableau noir", "m.", "fr/04387.mp3", "zh/04387.mp3", "hēi bǎn", "tablo nwa:r"], ["粉笔", "craie", "", "fr/04388.mp3", "zh/04388.mp3", "fěn bǐ", "kre"], ["黑板架", "chevalet dun tableau noir avale d tablo nwa:r]", "m.", "fr/04389.mp3", "zh/04389.mp3", "hēi bǎn jià", ""], ["课桌", "pupitre", "m.", "fr/04390.mp3", "zh/04390.mp3", "kè zhuō", "pypitr"], ["凳子", "escabeau", "m.", "fr/04391.mp3", "zh/04391.mp3", "dèng zi", "eskabo"], ["幕布", "rideau", "m.", "fr/04392.mp3", "zh/04392.mp3", "mù bù", "rido"], ["讲台", "estrade", "", "fr/04393.mp3", "zh/04393.mp3", "jiǎng tái", "estrad"], ["讲台", "chaireer", "", "fr/04394.mp3", "zh/04394.mp3", "jiǎng tái", ""], ["教鞭", "baguette du tableau noir", "f.", "fr/04395.mp3", "zh/04395.mp3", "jiào biān", "baget dy tablo nwair"], ["投影仪", "projecteur /.", "", "fr/04396.mp3", "zh/04396.mp3", "tóu yǐng yí", "prozektær"], ["日光灯", "T lampea fluorescence /.", "", "fr/04397.mp3", "zh/04397.mp3", "rì guāng dēng", "läxp a flyore(e)sá:s"], ["教科书", "manuel", "m.", "fr/04398.mp3", "zh/04398.mp3", "jiào kē shū", "manyel"], ["电风扇", "ventilateur", "m", "fr/04399.mp3", "zh/04399.mp3", "diàn fēng shàn", "vátilatcr"], ["阶梯教室", "amphi théatre", "m", "fr/04400.mp3", "zh/04400.mp3", "jiē tī jiào shì", "áfitea:tr"]], "s": [["Dans une classe, il y a tou- jours des éléves qui créent le desordre.", "教室里总有捣乱的学生。", "", "fr/04401.mp3", "zh/04401.mp3", "jiào shì lǐ zǒng yǒu dǎo luàn de xué shēng", ""], ["Au meme moment,les trompettes des Prussiens qui revenaient de l'exercice écla terent sous nos fenetres...M. Hamel se leva, tout pale,dans sa chaire. HTET,", "与此同时普鲁士战士的练完回营的号声正在我们的窗户下回响阿麦尔教师从椅子上站了起来面色非常惨白。", "", "fr/04402.mp3", "zh/04402.mp3", "yǔ cǐ tóng shí pǔ lǔ shì zhàn shì de liàn wán huí yíng de hào shēng zhèng zài wǒ men de chuāng hù xià huí xiǎng ā mài ěr jiào shī cóng yǐ zi shàng zhàn le qǐ lái miàn sè fēi cháng cǎn bái", ""], ["Soulevez le dictionnaire, le manuel est en dessous.", "把词典拿起来，教科书就在下面。", "", "fr/04403.mp3", "zh/04403.mp3", "bǎ cí diǎn ná qǐ lái jiào kē shū jiù zài xià miàn", ""], ["Ouvrez les fenetres et mettez en marche le ventilateur pour rafraichir la chambre. P", "把窗户打开把电扇也打开使房间凉快一点。", "", "fr/04404.mp3", "zh/04404.mp3", "bǎ chuāng hù dǎ kāi bǎ diàn shàn yě dǎ kāi shǐ fáng jiān liáng kuài yì diǎn", ""]], "e": [["号兵", "trompette", "m", "fr/04405.mp3", "zh/04405.mp3", "hào bīng", "trpet"], ["", "dictionnaire", "", "fr/04406.mp3", "zh/04406.mp3", "", "diksjoner"], ["词典", "", "n.m.", "fr/04407.mp3", "zh/04407.mp3", "cí diǎn", ""], ["", "rafraichirw", "", "fr/04408.mp3", "zh/04408.mp3", "", "rafreeJi:r"], ["使凉快", "#", "", "fr/04409.mp3", "zh/04409.mp3", "shǐ liáng kuài", ""], ["黑板", "tableau noir", "", "fr/04410.mp3", "zh/04410.mp3", "hēi bǎn", ""]]}, {"no": 3, "name": "操场", "w": [["客操场", "terrain dexercices", "m.", "fr/04411.mp3", "zh/04411.mp3", "kè cāo chǎng", "terdegzersis"], ["场地", "terrain", "m", "fr/04412.mp3", "zh/04412.mp3", "chǎng dì", "ter"], ["地面", "surface de la terre", "f.", "fr/04413.mp3", "zh/04413.mp3", "dì miàn", "syrfas dala te:r"], ["猴杆儿", "tiges de singe .", "", "fr/04414.mp3", "zh/04414.mp3", "hóu gān ér", "ti3 das13"], ["篮球场", "terrain de basketball", "m.", "fr/04415.mp3", "zh/04415.mp3", "lán qiú chǎng", "ter&da basketbol"], ["秋千", "balancoire /.", "", "fr/04416.mp3", "zh/04416.mp3", "qiū qiān", "baläswair"], ["观众", "spectateur", "m.", "fr/04417.mp3", "zh/04417.mp3", "guān zhòng", "spektatæ:r"], ["双杠", "I barres paralleles", "f.", "fr/04418.mp3", "zh/04418.mp3", "shuāng gàng", "ba:r paralel"], ["吊环", "anneaux pl", "", "fr/04419.mp3", "zh/04419.mp3", "diào huán", "ano"], ["鞍马", "cheval darcons", "m.", "fr/04420.mp3", "zh/04420.mp3", "ān mǎ", "val dars5"], ["跑步", "couriri", "", "fr/04421.mp3", "zh/04421.mp3", "pǎo bù", "kurir"], ["单杠", "I barre fixebar fiks]", "f.", "fr/04422.mp3", "zh/04422.mp3", "dān gàng", ""], ["高低杠", "Ibarres asy métriques.", "", "fr/04423.mp3", "zh/04423.mp3", "gāo dī gàng", "ba:r asimetrik"], ["最高点", "summum", "m.", "fr/04424.mp3", "zh/04424.mp3", "zuì gāo diǎn", "som(mm"], ["跳绳", "sauter a la corde .", "", "fr/04425.mp3", "zh/04425.mp3", "tiào shéng", "sote a la kord"], ["跳绳用的绳子", "cordea sauter .", "", "fr/04426.mp3", "zh/04426.mp3", "tiào shéng yòng de shéng zi", "kord a sote"], ["乒乓球台", "table de ping pong /", "", "fr/04427.mp3", "zh/04427.mp3", "pīng pāng qiú tái", "tabl da pinp5g"], ["计算器", "calculatrice /.", "", "fr/05576.mp3", "zh/05576.mp3", "jì suàn qì", "kalkylatris"], ["光盘", "disque", "m.", "fr/05577.mp3", "zh/05577.mp3", "guāng pán", "disk"], ["电脑", "ordinateur", "m.", "fr/05578.mp3", "zh/05578.mp3", "diàn nǎo", "ordinatcer"], ["胶水", "k colle", "", "fr/05579.mp3", "zh/05579.mp3", "jiāo shuǐ", "kol"], ["橡皮", "gomme", "m", "fr/05580.mp3", "zh/05580.mp3", "xiàng pí", "gom"], ["静止的", "dormante", "", "fr/05581.mp3", "zh/05581.mp3", "jìng zhǐ de", "dorma,t"], ["笔记本", "icalepin", "m.", "fr/05582.mp3", "zh/05582.mp3", "bǐ jì běn", "kalpa"], ["回形针", "trombone", "m.", "fr/05583.mp3", "zh/05583.mp3", "huí xíng zhēn", "trbon"], ["大头针", "épingle /", "", "fr/05584.mp3", "zh/05584.mp3", "dà tóu zhēn", "ep&gl"], ["尺子", "R regle", "", "fr/05585.mp3", "zh/05585.mp3", "chǐ zi", "regl"], ["订书机", "agrafeuse /.", "", "fr/05586.mp3", "zh/05586.mp3", "dìng shū jī", "agrafoz"], ["使锋利", "aiguiser", "", "fr/05587.mp3", "zh/05587.mp3", "shǐ fēng lì", "egize"], ["设备", "équipement", "m.", "fr/05588.mp3", "zh/05588.mp3", "shè bèi", "ekipmá"], ["咖啡机", "machinea café /", "", "fr/05589.mp3", "zh/05589.mp3", "kā fēi jī", "mafin a kafe"], ["剪刀", "] ciseaux", "m.", "fr/05590.mp3", "zh/05590.mp3", "jiǎn dāo", "sizo"], ["文件卡剪力", "carte-document / 7ciseaux", "", "fr/05591.mp3", "zh/05591.mp3", "wén jiàn kǎ jiǎn lì", "kart dokymá"]], "s": [["Sur le terrain,chacun s'efforce de donner le meilleur de soi-meme.", "在场上每个人都会尽自己的最大努力。", "", "fr/04428.mp3", "zh/04428.mp3", "zài chǎng shàng měi gè rén dū huì jǐn zì jǐ de zuì dà nǔ lì", ""], ["En juin,le soleil dardait ses rayons rouges sur la sur- face deleau.", "六月火红的太阳照射着水面。", "", "fr/04429.mp3", "zh/04429.mp3", "liù yuè huǒ hóng de tài yáng zhào shè zhe shuǐ miàn", ""], ["La Balancoire,1876, huile sur toile, Musée d'Orsay,", "年，帆布油画，法国巴黎奥塞美术馆典藏。", "Paris,France.《荡秋千》，1876", "fr/04430.mp3", "zh/04430.mp3", "nián fān bù yóu huà fǎ guó bā lí ào sāi měi shù guǎn diǎn cáng", ""], ["Il ne faut pas courir deux lievres a la fois.", "同时追两兔一一落空。", "", "fr/04431.mp3", "zh/04431.mp3", "tóng shí zhuī liǎng tù yī yī luò kōng", ""], ["Tu regardes tout comme un spectateur qui regarde cette piece de théatre.", "你看着一切，就像一个观众在看戏。", "", "fr/04432.mp3", "zh/04432.mp3", "nǐ kàn zhe yī qiè jiù xiàng yí gè guān zhòng zài kàn xì", ""], ["Il faut remettre á jour le logiciel intégré de son ordina ter.++", "他电脑的计算机软件需要更新。", "", "fr/05592.mp3", "zh/05592.mp3", "tā diàn nǎo de jì suàn jī ruǎn jiàn xū yào gēng xīn", ""], ["Par la fenetre ouverte,je voyais mes camarades déja ranges a leurs places, et M. Hamel, qui passait et repassait avec la terrible regle en fer sous le bras. T.", "从打开的窗子里我看见同学们都坐在位子上，整整齐齐地；阿迈尔先生胳膊夹着那把吓人的铁戒尺来回跛着步子", "", "fr/05593.mp3", "zh/05593.mp3", "cóng dǎ kāi de chuāng zi lǐ wǒ kàn jiàn tóng xué men dōu zuò zài wèi zi shàng zhěng zhěng qí qí dì ā mài ěr xiān shēng gē bó jiā zhe nà bǎ xià rén de tiě jiè chǐ lái huí bǒ zhe bù zi", ""], ["Je faisais semblant dem prunter l'agrafeuse et I'a volée sur son titoir.", "我是假装借订书器从他抽屉里偷拿的。", "", "fr/05594.mp3", "zh/05594.mp3", "wǒ shì jiǎ zhuāng jiè dìng shū qì cóng tā chōu tì lǐ tōu ná de", ""], ["Je lui donne mieux que des ciseaux,repondit Grandet.", "我给她的东西比金剪子还金贵，”格朗台说。", "", "fr/05595.mp3", "zh/05595.mp3", "wǒ gěi tā de dōng xī bǐ jīn jiǎn zi hái jīn guì gé lǎng tái shuō", ""]], "e": [["", "s'efforcerv.pr", "", "fr/04433.mp3", "zh/04433.mp3", "", "seforse"], ["用力使劲", ".", "", "fr/04434.mp3", "zh/04434.mp3", "yòng lì shǐ jìn", ""], ["光芒", "rayon", "n.m.", "fr/04435.mp3", "zh/04435.mp3", "guāng máng", "rej5"], ["博物馆", "musée", "nm.", "fr/04436.mp3", "zh/04436.mp3", "bó wù guǎn", "myze"], ["野兔", "livre", "nm.", "fr/04437.mp3", "zh/04437.mp3", "yě tù", "ljevr"], ["戏剧", "théatre", "n.m.", "fr/04438.mp3", "zh/04438.mp3", "xì jù", "teatr"], ["", "camarade", "", "fr/05596.mp3", "zh/05596.mp3", "", "kamarad"], ["同伴朋友", ".", "", "fr/05597.mp3", "zh/05597.mp3", "tóng bàn péng yǒu", ""]]}, {"no": 4, "name": "宿舍", "w": [["宿舍", "dortoir", "m.", "fr/04439.mp3", "zh/04439.mp3", "sù shè", "dortwa:r"], ["宿舍", "logement", "m", "fr/04440.mp3", "zh/04440.mp3", "sù shè", "l3má"], ["提供住宿", "lacces a des lozmá]", "m.", "fr/04441.mp3", "zh/04441.mp3", "tí gōng zhù sù", ""], ["单人床", "lita une place", "m", "fr/04442.mp3", "zh/04442.mp3", "dān rén chuáng", "li a yn plac"], ["上下铺", "lits superposés", "m.", "fr/04443.mp3", "zh/04443.mp3", "shàng xià pù", "li syperpoze"], ["晾衣绳", "corde a linge", "", "fr/04444.mp3", "zh/04444.mp3", "liàng yī shéng", "kord a l:3"], ["冒的原因吧总是睡不醒", "", "", "fr/04445.mp3", "zh/04445.mp3", "mào de yuán yīn ba zǒng shì shuì bù xǐng", ""], ["困乏的", "somnolent", "", "fr/04446.mp3", "zh/04446.mp3", "kùn fá de", "somnolá"], ["衣柜", "commode /.", "", "fr/04447.mp3", "zh/04447.mp3", "yī guì", "komod"], ["通风", "aérer", "", "fr/04448.mp3", "zh/04448.mp3", "tōng fēng", "aere"], ["拖鞋", "pantoufles /.", "", "fr/04449.mp3", "zh/04449.mp3", "tuō xié", "pátufl"], ["刷子", "brosse", "", "fr/04450.mp3", "zh/04450.mp3", "shuā zi", "bros"], ["广播", "radiodiffuser", "", "fr/04451.mp3", "zh/04451.mp3", "guǎng bō", "radjodifyze"], ["抽屉", "tiroir", "m", "fr/04452.mp3", "zh/04452.mp3", "chōu tì", "tirwar"], ["被子", "couverturekuver ty:r]:", "", "fr/04453.mp3", "zh/04453.mp3", "bèi zi", ""], ["床单", "drap", "m", "fr/04454.mp3", "zh/04454.mp3", "chuáng dān", "dra"], ["枕头", "oreillerDreje]", "m", "fr/04455.mp3", "zh/04455.mp3", "zhěn tou", ""], ["电热毯", "couverture chauffante/.", "", "fr/04456.mp3", "zh/04456.mp3", "diàn rè tǎn", "kuvertyr Sofät"], ["会议", "conférence /.", "", "fr/05598.mp3", "zh/05598.mp3", "huì yì", "koferás"], ["会议", "réunion .", "", "fr/05599.mp3", "zh/05599.mp3", "huì yì", "reynj5"], ["会议室", "auditorium", "m.", "fr/05600.mp3", "zh/05600.mp3", "huì yì shì", "oditorjom"], ["主持人", "pre sentateur,trice", "", "fr/05601.mp3", "zh/05601.mp3", "zhǔ chí rén", "prezätatxr,tris"], ["演示", "présenter", "", "fr/05602.mp3", "zh/05602.mp3", "yǎn shì", "prezáte"], ["受欢迎者", "bienvenu", "", "fr/05603.mp3", "zh/05603.mp3", "shòu huān yíng zhě", "bj&vny"], ["出席", "assister a .", "", "fr/05604.mp3", "zh/05604.mp3", "chū xí", "asiste a"], ["参加", "participer", "", "fr/05605.mp3", "zh/05605.mp3", "cān jiā", "partisipe"], ["参加者", "congressiste", "m.", "fr/05606.mp3", "zh/05606.mp3", "cān jiā zhě", "kgresist"], ["参与", "prendre parta", "", "fr/05607.mp3", "zh/05607.mp3", "cān yù", "prädr par a"], ["缺席的", "défaillante", "", "fr/05608.mp3", "zh/05608.mp3", "quē xí de", "defaja,t"], ["主题", "sujet", "m", "fr/05609.mp3", "zh/05609.mp3", "zhǔ tí", "sy3e"], ["完成", "accomplir", "", "fr/05610.mp3", "zh/05610.mp3", "wán chéng", "akšplir"], ["结束", "finir", "", "fr/05611.mp3", "zh/05611.mp3", "jié shù", "finir"], ["意见一致", "-etredac cord", "", "fr/05612.mp3", "zh/05612.mp3", "yì jiàn yí zhì", "etr dakor"], ["议事单", "procedure unique f:", "", "fr/05613.mp3", "zh/05613.mp3", "yì shì dān", "prosedyr ynik"]], "s": [["Flaubert a été vivant dans un dortoir des six étages unique, la salle est tres simple, les murs vides,le mobilier est tresfaible. logementslaksc ade- tiRy.", "那时福楼拜住在六层楼的一个单身宿舍里屋子很简陋，墙上空空的，家具也很少", "", "fr/04457.mp3", "zh/04457.mp3", "nà shí fú lóu bài zhù zài liù céng lóu de yí gè dān shēn sù shè lǐ wū zi hěn jiǎn lòu qiáng shàng kōng kōng de jiā jù yě hěn shǎo", ""], ["Récemment en raison de la froide.Je toujours ne pour- rais pas se réveiller, ai réveillé toujours somnolent TX. Jai fait ouvrir les fenetres de bonne heure ce matin,pour aerer un peu. i.", "最近因为醒了又总是困大清早我就叫人打开窗户，好让室内空气流通", "", "fr/04458.mp3", "zh/04458.mp3", "zuì jìn yīn wèi xǐng le yòu zǒng shì kùn dà qīng zǎo wǒ jiù jiào rén dǎ kāi chuāng hù hǎo ràng shì nèi kōng qì liú tōng", ""], ["Holmes examinait a la loupe la couverture du carnet.", "福尔摩斯用他的放大镜检查小册子的封皮。", "", "fr/04459.mp3", "zh/04459.mp3", "fú ěr mó sī yòng tā de fàng dà jìng jiǎn chá xiǎo cè zi de fēng pí", ""], ["Bienvenu a Iinstitut confucius.Je suis tres heureux dc vous voir. 1X", "欢迎来到孔子学院很高兴见到大家", "", "fr/05614.mp3", "zh/05614.mp3", "huān yíng lái dào kǒng zi xué yuàn hěn gāo xìng jiàn dào dà jiā", ""], ["Si je veux assister a cette réunion,jai besoin d'une carte dinvitation AX-.", "如果想参加这次会议我需要一份邀请函", "", "fr/05615.mp3", "zh/05615.mp3", "rú guǒ xiǎng cān jiā zhè cì huì yì wǒ xū yào yī fèn yāo qǐng hán", ""], ["Nous avons seulement be- soin de 16 enfants pour parti ciper.167", "我们只需要个孩子参与就够了。", "", "fr/05616.mp3", "zh/05616.mp3", "wǒ men zhǐ xū yào gè hái zi cān yù jiù gòu le", ""], ["Largent est un sujet tres sensible.- W.", "钱是一个很敏感的话题", "", "fr/05617.mp3", "zh/05617.mp3", "qián shì yí gè hěn mǐn gǎn de huà tí", ""], ["La magie du premier amour,cest dignorer quil puisse finir un jour.", "初恋的魔力在于我们从未意识到会有结束的一天。", "", "fr/05618.mp3", "zh/05618.mp3", "chū liàn de mó lì zài yú wǒ men cóng wèi yì shí dào huì yǒu jié shù de yī tiān", ""]], "e": [["", "mobilier .", "m", "fr/04460.mp3", "zh/04460.mp3", "", "mobilje"], ["家具", "RA", "", "fr/04461.mp3", "zh/04461.mp3", "jiā jù", ""], ["", "récemment", "", "fr/04462.mp3", "zh/04462.mp3", "", "resamä"], ["最近最新", "ad", "", "fr/04463.mp3", "zh/04463.mp3", "zuì jìn zuì xīn", ""], ["", "réveiller wt.", "", "fr/04464.mp3", "zh/04464.mp3", "", "reveje"], ["唤醒", "", "", "fr/04465.mp3", "zh/04465.mp3", "huàn xǐng", ""], ["放大镜", "loupe.", "", "fr/04466.mp3", "zh/04466.mp3", "fàng dà jìng", "lup"], ["小本子", "carnet", "n.m.", "fr/04467.mp3", "zh/04467.mp3", "xiǎo běn zi", "karne"], ["", "confuciusn", "", "fr/05619.mp3", "zh/05619.mp3", "", "kfykus"], ["孔子学院", "", "", "fr/05620.mp3", "zh/05620.mp3", "kǒng zi xué yuàn", ""], ["", "seulement ad", "", "fr/05621.mp3", "zh/05621.mp3", "", "sclmä"], ["只仅仅", "", "", "fr/05622.mp3", "zh/05622.mp3", "zhǐ jǐn jǐn", ""], ["意见一致", "étredaccord", "", "fr/05623.mp3", "zh/05623.mp3", "yì jiàn yí zhì", ""]]}, {"no": 5, "name": "画室", "w": [["画家", "peintre", "m", "fr/04468.mp3", "zh/04468.mp3", "huà jiā", "ptr"], ["艺术家", "artiste", "", "fr/04469.mp3", "zh/04469.mp3", "yì shù jiā", "artist"], ["画", "dessiner", "", "fr/04470.mp3", "zh/04470.mp3", "huà", "desine"], ["画", "peindre", "", "fr/04471.mp3", "zh/04471.mp3", "huà", "p&dr"], ["画画", "faire de la pein turet.", "", "fr/04472.mp3", "zh/04472.mp3", "huà huà", "feir dala p&:tyr"], ["人物", "personnage", "m.", "fr/04473.mp3", "zh/04473.mp3", "rén wù", "personai3"], ["模特", "mannequin", "m.", "fr/04474.mp3", "zh/04474.mp3", "mó tè", "mank&"], ["水粉画", "kgouache [gwa", "f.", "fr/04475.mp3", "zh/04475.mp3", "shuǐ fěn huà", ""], ["风景画", "paysage", "m.", "fr/04476.mp3", "zh/04476.mp3", "fēng jǐng huà", "peiza:3"], ["油画", "peintureal'huile", "f", "fr/04477.mp3", "zh/04477.mp3", "yóu huà", "péty:r a luil"], ["水彩画", "kaquarelle /.", "", "fr/04478.mp3", "zh/04478.mp3", "shuǐ cǎi huà", "akwarel"], ["画架", "chevalet (a)vale]", "m.", "fr/04479.mp3", "zh/04479.mp3", "huà jià", ""], ["画夹", "carto", "nm", "fr/04480.mp3", "zh/04480.mp3", "huà jiā", "kart"], ["画笔", "brosse", "", "fr/04481.mp3", "zh/04481.mp3", "huà bǐ", "bros"], ["素描", "esquisse", "", "fr/04482.mp3", "zh/04482.mp3", "sù miáo", "eskis"], ["橡皮", "gomme", "m", "fr/04483.mp3", "zh/04483.mp3", "xiàng pí", "gom"], ["颜料画画", "pigment faire de la peinture", "", "fr/04484.mp3", "zh/04484.mp3", "yán liào huà huà", "pigmá"], ["取消", "supprimer", "", "fr/05624.mp3", "zh/05624.mp3", "qǔ xiāo", "syprime"], ["粘贴除去这阴影的勇气都没有动复制", "cotler. copier", "", "fr/05625.mp3", "zh/05625.mp3", "zhān tiē chú qù zhè yīn yǐng de yǒng qì dōu méi yǒu dòng fù zhì", "kole"], ["剪切", "cisailler", "", "fr/05626.mp3", "zh/05626.mp3", "jiǎn qiè", "sizaje"], ["点击", "cliquer", "", "fr/05627.mp3", "zh/05627.mp3", "diǎn jī", "klike"], ["双击", "double-cliquer i.", "", "fr/05628.mp3", "zh/05628.mp3", "shuāng jī", "dubl klike"], ["回车", "entrer i.", "", "fr/05629.mp3", "zh/05629.mp3", "huí chē", "ätre"], ["打字", "Tfrappe", "", "fr/05630.mp3", "zh/05630.mp3", "dǎ zì", "frap"], ["空格", "espace", "m.", "fr/05631.mp3", "zh/05631.mp3", "kòng gé", "espas"], ["关机", "fermeture /.", "", "fr/05632.mp3", "zh/05632.mp3", "guān jī", "fermatyr"], ["睡眠", "sommeil", "m.", "fr/05633.mp3", "zh/05633.mp3", "shuì mián", "somej"], ["播放", "émettre", "", "fr/05634.mp3", "zh/05634.mp3", "bō fàng", "emetr"], ["连接", "lier", "", "fr/05635.mp3", "zh/05635.mp3", "lián jiē", "lje"], ["下载", "télécharger", "", "fr/05636.mp3", "zh/05636.mp3", "xià zài", "telefarze"], ["存储", "mmorisation ].", "", "fr/05637.mp3", "zh/05637.mp3", "cún chǔ", "memorizasj5"], ["删除", "enlever", "", "fr/05638.mp3", "zh/05638.mp3", "shān chú", "älve"], ["锁定", "fixer", "", "fr/05639.mp3", "zh/05639.mp3", "suǒ dìng", "fikse"]], "s": [["Lartiste passionné juste mentionné est ma femme. Un sourire se dessina sur ses lvres.- ill. Cet auteur caractérise bien ses personnages. Personne n imaginerait que ce jeune mannequin nest qu'une écoliere agée de 10 ans.", "刚提到的狂热艺术家是我的妻子。一丝微笑浮现在他唇边这个作家善于刻画人物的特点。没人能想象到这名嫩模只是个小学生，年仅10岁。", "《闻女孩》", "fr/04485.mp3", "zh/04485.mp3", "gāng tí dào de kuáng rè yì shù jiā shì wǒ de qī zǐ yī sī wēi xiào fú xiàn zài tā chún biān zhè ge zuò jiā shàn yú kè huà rén wù de tè diǎn méi rén néng xiǎng xiàng dào zhè míng nèn mó zhǐ shì gè xiǎo xué shēng nián jǐn suì", ""], ["Les paysages y sont aussi beaux que ceux du paradis.", "景色像天堂一样美。", "", "fr/04486.mp3", "zh/04486.mp3", "jǐng sè xiàng tiān táng yī yàng měi", ""], ["Regarde bien les tiroirs pour trouver ta gomme.", "你仔细查看一下抽屉看能不能找到你的橡皮。", "", "fr/04487.mp3", "zh/04487.mp3", "nǐ zǐ xì chá kàn yī xià chōu tì kàn néng bù néng zhǎo dào nǐ de xiàng pí", ""], ["Sil le na pas le courage de supprimer cette ombre,il est vraiment désespérée.", "如果连那就真的是无药可救了。", "", "fr/05640.mp3", "zh/05640.mp3", "rú guǒ lián nà jiù zhēn de shì wú yào kě jiù le", ""], ["Merci de cliquer sur la Société, sil vous plait lire les informations. X.", "谢谢你点击本公司欢迎阅读有关信息", "", "fr/05641.mp3", "zh/05641.mp3", "xiè xiè nǐ diǎn jī běn gōng sī huān yíng yuè dú yǒu guān xìn xī", ""], ["Je préfere acheter et telécharger des albums sur Internet. FH", "我更喜欢在网上购买和下载唱片集", "", "fr/05642.mp3", "zh/05642.mp3", "wǒ gèng xǐ huān zài wǎng shàng gòu mǎi hé xià zài chàng piàn jí", ""], ["II ny a que vous pour dé- cider ou vous voulez aller, pour fixer votre but et pour manifester-votre volonté de réussir. Tenez mordicus a vos eves", "只有你自己才能决定自己的道路，确定自己的目标，表现出取得成功的决心。执著你的梦想吧！", "", "fr/05643.mp3", "zh/05643.mp3", "zhǐ yǒu nǐ zì jǐ cái néng jué dìng zì jǐ de dào lù què dìng zì jǐ de mù biāo biǎo xiàn chū qǔ dé chéng gōng de jué xīn zhí zhuó nǐ de mèng xiǎng ba", ""]], "e": [["", "passionnée", "", "fr/04488.mp3", "zh/04488.mp3", "", ""], ["热情的", "", "adj.", "fr/04489.mp3", "zh/04489.mp3", "rè qíng de", "pa(asjone"], ["嘴唇", "levre", "", "fr/04490.mp3", "zh/04490.mp3", "zuǐ chún", "lvr"], ["", "caractériser", "", "fr/04491.mp3", "zh/04491.mp3", "", "karakterize"], ["显示特征", "", "", "fr/04492.mp3", "zh/04492.mp3", "xiǎn shì tè zhēng", ""], ["", "écolier,ere", "", "fr/04493.mp3", "zh/04493.mp3", "", "ekolje,er"], ["小学生", "n.", "", "fr/04494.mp3", "zh/04494.mp3", "xiǎo xué shēng", ""], ["影", "ombre 5:br] n.", "", "fr/05644.mp3", "zh/05644.mp3", "yǐng", ""], ["", "désespéré,e", "", "fr/05645.mp3", "zh/05645.mp3", "", ""], ["失望的", "", "adj.", "fr/05646.mp3", "zh/05646.mp3", "shī wàng de", "dezespere"], ["唱片", "album", "n.m", "fr/05647.mp3", "zh/05647.mp3", "chàng piàn", "albom"], ["", "manifester", "", "fr/05648.mp3", "zh/05648.mp3", "", "manifeste"], ["表现表达", "VL..", "", "fr/05649.mp3", "zh/05649.mp3", "biǎo xiàn biǎo dá", ""]]}, {"no": 6, "name": "实验室", "w": [["实验室", "laboratoire", "m.", "fr/04495.mp3", "zh/04495.mp3", "shí yàn shì", "laboratwarr"], ["实验室", "labora toire d'expériences", "m.", "fr/04496.mp3", "zh/04496.mp3", "shí yàn shì", "laboratwa:r deks- perjás"], ["试管", "éprouvette /", "", "fr/04497.mp3", "zh/04497.mp3", "shì guǎn", "epruvet"], ["烧杯", "becher", "m.", "fr/04498.mp3", "zh/04498.mp3", "shāo bēi", "beee"], ["酒精灯励培养", "lampe a alcool / cultiver", "", "fr/04499.mp3", "zh/04499.mp3", "jiǔ jīng dēng lì péi yǎng", "lásp a alkol"], ["搅拌励收集", "mélanger t. collectionner", "", "fr/04500.mp3", "zh/04500.mp3", "jiǎo bàn lì shōu jí", "meláze"], ["研究", "étudier", "", "fr/04501.mp3", "zh/04501.mp3", "yán jiū", "etydje"], ["实验", "expérimentation /", "", "fr/04502.mp3", "zh/04502.mp3", "shí yàn", "eksperimáta(a)sj5"], ["方法", "méthode", "f.", "fr/04503.mp3", "zh/04503.mp3", "fāng fǎ", "metod"], ["微生物", "micro organisme", "m.", "fr/04504.mp3", "zh/04504.mp3", "wēi shēng wù", "mikroorganism"], ["书馆", "", "", "fr/04505.mp3", "zh/04505.mp3", "shū guǎn", ""], ["显微镜", "microscope", "m.", "fr/04506.mp3", "zh/04506.mp3", "xiǎn wēi jìng", "mikroskop"], ["稀释", "diluer", "", "fr/04507.mp3", "zh/04507.mp3", "xī shì", "dilue"], ["液态的", "liquide", "", "fr/04508.mp3", "zh/04508.mp3", "yè tài de", "likid"], ["固态的", "solide", "", "fr/04509.mp3", "zh/04509.mp3", "gù tài de", "solid"], ["气态的", "aériforme", "", "fr/04510.mp3", "zh/04510.mp3", "qì tài de", "aerifom"], ["氧气", "oxygene", "m.", "fr/04511.mp3", "zh/04511.mp3", "yǎng qì", "Dksizen"], ["扫描仪短用传真机传送", "scanneur transmis par fax", "", "fr/05650.mp3", "zh/05650.mp3", "sǎo miáo yí duǎn yòng chuán zhēn jī chuán sòng", "skancr"], ["传真机", "fax machine", "", "fr/05651.mp3", "zh/05651.mp3", "chuán zhēn jī", "faks mafin"], ["传真号码", "numéro de fax", "m.", "fr/05652.mp3", "zh/05652.mp3", "chuán zhēn hào mǎ", "nymero da faks"], ["使模糊", "brouiller t.", "", "fr/05653.mp3", "zh/05653.mp3", "shǐ mó hú", "bruje"], ["看不清的", "trouble", "", "fr/05654.mp3", "zh/05654.mp3", "kàn bù qīng de", "trubl"], ["模糊的", "estompé", "", "fr/05655.mp3", "zh/05655.mp3", "mó hú de", "est5pe"], ["副本", "extrait", "m", "fr/05656.mp3", "zh/05656.mp3", "fù běn", "ekstre"], ["着色剂", "toner[toncer", "m", "fr/05657.mp3", "zh/05657.mp3", "zhuó sè jì", ""], ["丢失的", "perdu a(m)", "", "fr/05658.mp3", "zh/05658.mp3", "diū shī de", "perdy"], ["拨号", "composer le numéro", "m.", "fr/05659.mp3", "zh/05659.mp3", "bō hào", "kpoze la nymero"], ["安装", "installer", "", "fr/05660.mp3", "zh/05660.mp3", "ān zhuāng", "&stale"], ["线路故障", "défaut de ligne", "f", "fr/05661.mp3", "zh/05661.mp3", "xiàn lù gù zhàng", "defo da lin"], ["图像", "imageima3]", "", "fr/05662.mp3", "zh/05662.mp3", "tú xiàng", ""]], "s": [["Il est fréquemment tres oc- cupe, court parfois a la biblio- théque,travaille parfois au la boratoire. I Il semble qu'il vaudrait mieux changer de methode.", "他经常忙忙禄碌有时候跑图书馆，有时候去实验室工作看来最好换个方法。", "", "fr/04512.mp3", "zh/04512.mp3", "tā jīng cháng máng máng lù lù yǒu shí hòu pǎo tú shū guǎn yǒu shí hòu qù shí yàn shì gōng zuò kàn lái zuì hǎo huàn gè fāng fǎ", ""], ["On ne choisit pas oublier choisir collectionner, et col- lectionner dans l'abime de Iame.", "如果不能继续不用选择忘记，请选择收藏，收藏在心灵深处。", "", "fr/04513.mp3", "zh/04513.mp3", "rú guǒ bù néng jì xù bù yòng xuǎn zé wàng jì qǐng xuǎn zé shōu cáng shōu cáng zài xīn líng shēn chù", ""], ["Je peux vous entendre ins- pirer de l'oxygene et expirer le dioxyde de carbone.", "我可以听到你们在吸入氧气，呼出二氧化碳。", "《生活大爆炸》", "fr/04514.mp3", "zh/04514.mp3", "wǒ kě yǐ tīng dào nǐ men zài xī rù yǎng qì hū chū èr yǎng huà tàn", ""], ["Il nous faut une photocop- ieuse et un faxmachine.", "我们需要一台复印机和一台传真机。", "", "fr/05663.mp3", "zh/05663.mp3", "wǒ men xū yào yī tái fù yìn jī hé yī tái chuán zhēn jī", ""], ["Je fais appel au service de reproduction de la bibliotheque pour photocopier certains documents.", "我求助于图书馆的复印部，复印一些资料。", "", "fr/05664.mp3", "zh/05664.mp3", "wǒ qiú zhù yú tú shū guǎn de fù yìn bù fù yìn yī xiē zī liào", ""], ["] La buée brouille les verres demes lunettes.", "水汽使我的眼镜片模糊不清。", "", "fr/05665.mp3", "zh/05665.mp3", "shuǐ qì shǐ wǒ de yǎn jìng piàn mó hú bù qīng", ""], ["C'est un extrait de roman. -A-", "这是一本小说的一段摘录", "", "fr/05666.mp3", "zh/05666.mp3", "zhè shì yī běn xiǎo shuō de yī duàn zhāi lù", ""], ["Bonjour,vous composez le numero de téléphone est vide s'il vous plait vérifier puis de composition.", "您好您拔打的电话是空号，请查证后再拨。", "", "fr/05667.mp3", "zh/05667.mp3", "nín hǎo nín bá dǎ dī diàn huà shì kōng hào qǐng chá zhèng hòu zài bō", ""]], "e": [["", "bibliotheque", "", "fr/04515.mp3", "zh/04515.mp3", "", "biblijtek"], ["深渊", "abime", "n.m.", "fr/04516.mp3", "zh/04516.mp3", "shēn yuān", "abim"], ["意见见解", "amen.m..", "", "fr/04517.mp3", "zh/04517.mp3", "yì jiàn jiàn jiě", "am"], ["碳", "carbone .", "m.", "fr/04518.mp3", "zh/04518.mp3", "tàn", "karbon"], ["酒精灯", "T lampe a alcool", "", "fr/04519.mp3", "zh/04519.mp3", "jiǔ jīng dēng", ""], ["水汽", "buéek", "", "fr/05668.mp3", "zh/05668.mp3", "shuǐ qì", "bye"], ["", "composition", "", "fr/05669.mp3", "zh/05669.mp3", "", "kpozisj"], ["拨打", "n.", "", "fr/05670.mp3", "zh/05670.mp3", "bō dǎ", ""]]}, {"no": 7, "name": "校园人员", "w": [["学生", "étudiant,e", "", "fr/04520.mp3", "zh/04520.mp3", "xué shēng", "etydä, t"], ["同学", "camarade", "", "fr/04521.mp3", "zh/04521.mp3", "tóng xué", "kamarad"], ["同学", "condisciple", "m.", "fr/04522.mp3", "zh/04522.mp3", "tóng xué", "kšdisipl"], ["男生", "écolier", "m.", "fr/04523.mp3", "zh/04523.mp3", "nán shēng", "ekolje"], ["女生", "écoliere", "f.", "fr/04524.mp3", "zh/04524.mp3", "nǚ shēng", "ekolje:r"], ["旁听生", "auditeur libre", "m.", "fr/04525.mp3", "zh/04525.mp3", "páng tīng shēng", "oditxer libr"], ["教授", "professeur", "m.", "fr/04526.mp3", "zh/04526.mp3", "jiào shòu", "profee)sc:r"], ["授课", "enseigner", "", "fr/04527.mp3", "zh/04527.mp3", "shòu kè", "äse(ene"], ["助教", "assistant", "", "fr/04528.mp3", "zh/04528.mp3", "zhù jiào", "asista,át"], ["校长", "directeur trice", "", "fr/04529.mp3", "zh/04529.mp3", "xiào zhǎng", "direktr,tris"], ["副手", "seconde", "m", "fr/04530.mp3", "zh/04530.mp3", "fù shǒu", "sa)g5,5:d"], ["代理的", "intérimaire", "", "fr/04531.mp3", "zh/04531.mp3", "dài lǐ de", "&terime:r"], ["校长", "présidente", "", "fr/04532.mp3", "zh/04532.mp3", "xiào zhǎng", "prezida,át"], ["院长", "doyenne", "", "fr/04533.mp3", "zh/04533.mp3", "yuàn zhǎng", "dwaj, cn"], ["导师", "éducateur,trice", "m.", "fr/04534.mp3", "zh/04534.mp3", "dǎo shī", "dykatr,tris"], ["行政人员", "personne administrative /", "", "fr/04535.mp3", "zh/04535.mp3", "xíng zhèng rén yuán", "person administrativ"], ["转校生", "eleves de transfert", "", "fr/04536.mp3", "zh/04536.mp3", "zhuǎn xiào shēng", "elexv d trásfe:r"]], "s": [["La carte détudiant donne droit a une réduction pour le voyage en train.", "凭学生证可买到减价的火车票旅行。", "", "fr/04537.mp3", "zh/04537.mp3", "píng xué shēng zhèng kě mǎi dào jiǎn jià de huǒ chē piào lǚ xíng", ""], ["Le professeur doit en courager les éleves a penser dcux-memes. Le directeur trouve l'ang lais plus primordialque le chinois. XIX.", "老师应该鼓励学生独立思考。校长认为英语比语文重要", "", "fr/04538.mp3", "zh/04538.mp3", "lǎo shī yīng gāi gǔ lì xué shēng dú lì sī kǎo xiào zhǎng rèn wéi yīng yǔ bǐ yǔ wén zhòng yào", ""]], "e": [["", "réduction", "nf.", "fr/04539.mp3", "zh/04539.mp3", "", "redyksjö"], ["减少", "", "F", "fr/04540.mp3", "zh/04540.mp3", "jiǎn shǎo", ""], ["", "encourager", "", "fr/04541.mp3", "zh/04541.mp3", "", "äkuraze"], ["鼓励", ".", "", "fr/04542.mp3", "zh/04542.mp3", "gǔ lì", ""], ["", "primordial,e,aux", "", "fr/04543.mp3", "zh/04543.mp3", "", ""], ["原始的", "a.", "", "fr/04544.mp3", "zh/04544.mp3", "yuán shǐ de", "primordjal,o"], ["最初的", "", "", "fr/04545.mp3", "zh/04545.mp3", "zuì chū de", ""], ["学生", "etudiant.e", "", "fr/04546.mp3", "zh/04546.mp3", "xué shēng", ""]]}, {"no": 8, "name": "常见院系", "w": [["教育学", "pédagogie /", "", "fr/04547.mp3", "zh/04547.mp3", "jiào yù xué", "pedago3i"], ["计算机系", "Départe ment d'lnformatique", "m.", "fr/04548.mp3", "zh/04548.mp3", "jì suàn jī xì", "departamä dafor- matik"], ["艺术", "art", "m.", "fr/04549.mp3", "zh/04549.mp3", "yì shù", "ar"], ["海洋科学", "sciences de la mer", "f.", "fr/04550.mp3", "zh/04550.mp3", "hǎi yáng kē xué", "sjäs dala me:r"], ["海洋技术", "technologie marine /.", "", "fr/04551.mp3", "zh/04551.mp3", "hǎi yáng jì shù", "teknolozi marin"], ["自动化", "automatisation /.", "", "fr/04552.mp3", "zh/04552.mp3", "zì dòng huà", "(o)tomatiza(a)sj5"], ["电子", "électron", "m.", "fr/04553.mp3", "zh/04553.mp3", "diàn zi", "elektr5"], ["交通", "transport", "m.", "fr/04554.mp3", "zh/04554.mp3", "jiāo tōng", "trasporr"], ["化学", "chimieimi]", "f.", "fr/04555.mp3", "zh/04555.mp3", "huà xué", ""], ["物理", "physique /", "", "fr/04556.mp3", "zh/04556.mp3", "wù lǐ", "fizik"], ["航天", "aérospatial,e", "", "fr/04557.mp3", "zh/04557.mp3", "háng tiān", "aerospasjal"], ["光学", "optique", "", "fr/04558.mp3", "zh/04558.mp3", "guāng xué", "ptik"], ["生物", "biologie", "", "fr/04559.mp3", "zh/04559.mp3", "shēng wù", "bjolo3i"], ["管理", "management", "m.", "fr/04560.mp3", "zh/04560.mp3", "guǎn lǐ", "manazmá"], ["语言", "languelagl", "f", "fr/04561.mp3", "zh/04561.mp3", "yǔ yán", ""], ["财务", "finances .", "", "fr/04562.mp3", "zh/04562.mp3", "cái wù", "finás"], ["营销", "marketing", "m.", "fr/04563.mp3", "zh/04563.mp3", "yíng xiāo", "marketin"], ["人力资源", "ressources humainesy:", "", "fr/04564.mp3", "zh/04564.mp3", "rén lì zī yuán", "r(a)surs ymen"]], "s": [["Le Musée d'art moderne se trouve au Centre Pom- pidou.C'est le plus grand musée d'art moderne du monde.T +HE", "现代艺术博物馆位于莲皮杜中心这是世界上最大的现代艺术博物馆。", "", "fr/04565.mp3", "zh/04565.mp3", "xiàn dài yì shù bó wù guǎn wèi yú lián pí dù zhōng xīn zhè shì shì jiè shàng zuì dà de xiàn dài yì shù bó wù guǎn", ""], ["Nous allons dans les pro- chaines années pour parvenir a une automatisation de la production, axée sur la popu- lation, renforcer la gestion, la cooperation sincere avec la clientele, main dans la main!", "我们将在未来几年内实现全面自动化生产，以人为本，加强管理，与客户真诚合作，携手共进！", "", "fr/04566.mp3", "zh/04566.mp3", "wǒ men jiāng zài wèi lái jǐ nián nèi shí xiàn quán miàn zì dòng huà shēng chǎn yǐ rén wéi běn jiā qiáng guǎn lǐ yǔ kè hù zhēn chéng hé zuò xié shǒu gòng jìn", ""], ["La gravité de la mort d'une langue ne consiste pas a cette chose en soi, mais consiste a ce qu'elle pouvait apporter. THE x#+", "一种语言灭亡的严重性不在于这件事情本身而在于它的灭亡带来了什么冲击", "", "fr/04567.mp3", "zh/04567.mp3", "yī zhǒng yǔ yán miè wáng de yán zhòng xìng bù zài yú zhè jiàn shì qíng běn shēn ér zài yú tā de miè wáng dài lái le shén me chōng jī", ""]], "e": [["", "renforcer", "vt", "fr/04568.mp3", "zh/04568.mp3", "", "räforse"], ["加强", "", "", "fr/04569.mp3", "zh/04569.mp3", "jiā qiáng", ""], ["", "coopération", "", "fr/04570.mp3", "zh/04570.mp3", "", ""], ["合作", "", "nf.", "fr/04571.mp3", "zh/04571.mp3", "hé zuò", "koperaasj5"], ["顾客", "clientele", "f.", "fr/04572.mp3", "zh/04572.mp3", "gù kè", "klijátel"], ["招致", "apporter v.", "", "fr/04573.mp3", "zh/04573.mp3", "zhāo zhì", "aporte"]]}, {"no": 9, "name": "图书馆", "w": [["图书馆", "bibliotheque", "", "fr/04574.mp3", "zh/04574.mp3", "tú shū guǎn", "biblijotek"], ["借", "emprunter t", "", "fr/04575.mp3", "zh/04575.mp3", "jiè", "áprate"], ["借", "preter", "", "fr/04576.mp3", "zh/04576.mp3", "jiè", "preete"], ["目录", "catalogue", "m.", "fr/04577.mp3", "zh/04577.mp3", "mù lù", "katalog"], ["租赁期限", "durée du bail", "f.", "fr/04578.mp3", "zh/04578.mp3", "zū lìn qī xiàn", "dyre dy baj"], ["搜索", "rechercher", "", "fr/04579.mp3", "zh/04579.mp3", "sōu suǒ", "raerfe"], ["预约", "souscrire .", "", "fr/04580.mp3", "zh/04580.mp3", "yù yuē", "suskrir"], ["书架", "étagere /", "", "fr/04581.mp3", "zh/04581.mp3", "shū jià", "etazeir"], ["安静的", "silencieuxse", "", "fr/04582.mp3", "zh/04582.mp3", "ān jìng de", "siläsja, :z"], ["寂静的", "calme", "", "fr/04583.mp3", "zh/04583.mp3", "jì jìng de", "kalm"], ["到期的", "échéante", "", "fr/04584.mp3", "zh/04584.mp3", "dào qī de", "efea,t"], ["过期的", "périmé,e", "", "fr/04585.mp3", "zh/04585.mp3", "guò qī de", "perime"], ["借阅部", "Département de pret", "m.", "fr/04586.mp3", "zh/04586.mp3", "jiè yuè bù", "departamä da pre"], ["盖印记", "Couverture d'empreinte", "f.", "fr/04587.mp3", "zh/04587.mp3", "gài yìn jì", "kuvertyer daprt:t"], ["扫描机", "scanner", "m.", "fr/04588.mp3", "zh/04588.mp3", "sǎo miáo jī", "skane"], ["阅览室", "salle de la lecture/:", "", "fr/04589.mp3", "zh/04589.mp3", "yuè lǎn shì", "sal dala lekty:r"], ["分类", "classifier .", "", "fr/04590.mp3", "zh/04590.mp3", "fēn lèi", "kla(a)sifje"]], "s": [["Une bibliotheque,cest le carrefour de tous les réves de 1humanite.-+", "一座图书馆即是人类通往所有梦想的十字路口。", "", "fr/04591.mp3", "zh/04591.mp3", "yī zuò tú shū guǎn jí shì rén lèi tōng wǎng suǒ yǒu mèng xiǎng de shí zì lù kǒu", ""], ["Le chomage de longue durée reste exceptionnelle- ment élevé,tandis que les abandons de recherche d'em ploi se multiplient. K", "随着缀学求职的人越来越多长期失业的情况出人意料地增加了。", "", "fr/04592.mp3", "zh/04592.mp3", "suí zhe zhuì xué qiú zhí de rén yuè lái yuè duō cháng qī shī yè de qíng kuàng chū rén yì liào dì zēng jiā le", ""], ["]N'avait pas choisi son so- leil etle recherchait. Le dictionnaire dont nous avons besoin n'est pas dans la salle de lecture.", "没有选择寻觅阳光的照耀。我们需要的字典不在阅览室。", "", "fr/04593.mp3", "zh/04593.mp3", "méi yǒu xuǎn zé xún mì yáng guāng de zhào yào wǒ men xū yào de zì diǎn bù zài yuè lǎn shì", ""], ["multiplier [myltiplie] v. dictionnaire [diksjone:r] nm.", "外地使增加辞典", "", "fr/04600.mp3", "zh/04600.mp3", "wài dì shǐ zēng jiā cí diǎn", ""]], "e": [["", "carrefour", "n.m.", "fr/04594.mp3", "zh/04594.mp3", "", "karfu:r"], ["十字路口", "", "", "fr/04595.mp3", "zh/04595.mp3", "shí zì lù kǒu", ""], ["", "chömage", "n.m.", "fr/04596.mp3", "zh/04596.mp3", "", "oma:3"], ["失业", "k", "", "fr/04597.mp3", "zh/04597.mp3", "shī yè", ""], ["", "exceptionnellement", "", "fr/04598.mp3", "zh/04598.mp3", "", ""], ["", "ady", "", "fr/04599.mp3", "zh/04599.mp3", "", "eksepsjonelma"]]}]};
+window.BOOK_DATA[26]={
+ "gid": 26,
+ "no": "2",
+ "name": "学校设置",
+ "gname": "学习教育",
+ "secs": [
+  {
+   "no": 1,
+   "name": "学校各个科室",
+   "w": [
+    [
+     "办公室",
+     "bureau",
+     "m.",
+     "fr/04366.mp3",
+     "zh/04366.mp3",
+     "bàn gōng shì",
+     "byro"
+    ],
+    [
+     "注册",
+     "enregistrer",
+     "",
+     "fr/04367.mp3",
+     "zh/04367.mp3",
+     "zhù cè",
+     "árzistre"
+    ],
+    [
+     "行政",
+     "iadministration /",
+     "",
+     "fr/04368.mp3",
+     "zh/04368.mp3",
+     "xíng zhèng",
+     "administra(a)sj5"
+    ],
+    [
+     "财务室",
+     "Bureau des finances",
+     "m.",
+     "fr/04369.mp3",
+     "zh/04369.mp3",
+     "cái wù shì",
+     "byro de fina:s"
+    ],
+    [
+     "校长室",
+     "direction /.",
+     "",
+     "fr/04370.mp3",
+     "zh/04370.mp3",
+     "xiào zhǎng shì",
+     "direksj5"
+    ],
+    [
+     "副校长室",
+     "KBureau du vice-president",
+     "m.",
+     "fr/04371.mp3",
+     "zh/04371.mp3",
+     "fù xiào zhǎng shì",
+     "byro dy vis prezidá"
+    ],
+    [
+     "副教授室",
+     "Bureau du professeur adjoint y.",
+     "",
+     "fr/04372.mp3",
+     "zh/04372.mp3",
+     "fù jiào shòu shì",
+     "byro dy profesar adzwa"
+    ],
+    [
+     "教授办公室",
+     "Bureau du professeur",
+     "m.",
+     "fr/04373.mp3",
+     "zh/04373.mp3",
+     "jiào shòu bàn gōng shì",
+     "byro dy profesar"
+    ],
+    [
+     "讲师办公室",
+     "bureau de I'instructeur",
+     "m.",
+     "fr/04374.mp3",
+     "zh/04374.mp3",
+     "jiǎng shī bàn gōng shì",
+     "byro d(a) léstryktæ:r"
+    ],
+    [
+     "档案室",
+     "archives /.",
+     "",
+     "fr/04375.mp3",
+     "zh/04375.mp3",
+     "dàng àn shì",
+     "arfi:v"
+    ],
+    [
+     "招生办",
+     "Bureau des admissions",
+     "m.",
+     "fr/04376.mp3",
+     "zh/04376.mp3",
+     "zhāo shēng bàn",
+     "byro de admisj5"
+    ],
+    [
+     "本科生办公室",
+     "Bureau du premier cycle",
+     "m.",
+     "fr/04377.mp3",
+     "zh/04377.mp3",
+     "běn kē shēng bàn gōng shì",
+     "byro dy pramje sikl"
+    ],
+    [
+     "研究生办公室",
+     "Bureau des etudes supérieures",
+     "m.",
+     "fr/04378.mp3",
+     "zh/04378.mp3",
+     "yán jiū shēng bàn gōng shì",
+     "byro de etyd sype(e)rjæ:r"
+    ],
+    [
+     "专业",
+     "k spécialite",
+     "",
+     "fr/04601.mp3",
+     "zh/04601.mp3",
+     "zhuān yè",
+     "spesjalite"
+    ],
+    [
+     "课程",
+     "courskur]",
+     "m.",
+     "fr/04602.mp3",
+     "zh/04602.mp3",
+     "kè chéng",
+     ""
+    ],
+    [
+     "学分",
+     "unité de valeur /.",
+     "",
+     "fr/04603.mp3",
+     "zh/04603.mp3",
+     "xué fēn",
+     "ynite da valer"
+    ],
+    [
+     "学校的",
+     "scolaire",
+     "",
+     "fr/04604.mp3",
+     "zh/04604.mp3",
+     "xué xiào de",
+     "skoler"
+    ],
+    [
+     "选课",
+     "cours d'option",
+     "m.",
+     "fr/04605.mp3",
+     "zh/04605.mp3",
+     "xuǎn kè",
+     "kur dopsj5"
+    ],
+    [
+     "学年",
+     "annee scolaire /.",
+     "",
+     "fr/04606.mp3",
+     "zh/04606.mp3",
+     "xué nián",
+     "ane skoler"
+    ],
+    [
+     "学期",
+     "semestre",
+     "m.",
+     "fr/04607.mp3",
+     "zh/04607.mp3",
+     "xué qī",
+     "s(a)mestr"
+    ],
+    [
+     "课程表",
+     "horaire des cours",
+     "m.",
+     "fr/04608.mp3",
+     "zh/04608.mp3",
+     "kè chéng biǎo",
+     "brer de kur"
+    ],
+    [
+     "学科",
+     "discipline /",
+     "",
+     "fr/04609.mp3",
+     "zh/04609.mp3",
+     "xué kē",
+     "disiplin"
+    ],
+    [
+     "实验作业",
+     "travail expe rimental",
+     "m.",
+     "fr/04610.mp3",
+     "zh/04610.mp3",
+     "shí yàn zuò yè",
+     "travaj eks- perimátal"
+    ],
+    [
+     "实习",
+     "stage",
+     "m.",
+     "fr/04611.mp3",
+     "zh/04611.mp3",
+     "shí xí",
+     "sta3"
+    ],
+    [
+     "必修的",
+     "obligatoire",
+     "",
+     "fr/04612.mp3",
+     "zh/04612.mp3",
+     "bì xiū de",
+     "nbligatwar"
+    ],
+    [
+     "选择的",
+     "selectif,ive",
+     "",
+     "fr/04613.mp3",
+     "zh/04613.mp3",
+     "xuǎn zé de",
+     "selektif, iv"
+    ],
+    [
+     "大学英语",
+     "anglais d'université",
+     "m.",
+     "fr/04614.mp3",
+     "zh/04614.mp3",
+     "dà xué yīng yǔ",
+     "ägle dyniversite"
+    ],
+    [
+     "高等数学",
+     "mathe matiques supé rieures",
+     "m.",
+     "fr/04615.mp3",
+     "zh/04615.mp3",
+     "gāo děng shù xué",
+     "matematik syperjcer"
+    ],
+    [
+     "体育",
+     "sport",
+     "m",
+     "fr/04616.mp3",
+     "zh/04616.mp3",
+     "tǐ yù",
+     "spor"
+    ],
+    [
+     "办公室",
+     "bureau",
+     "m.",
+     "fr/05524.mp3",
+     "zh/05524.mp3",
+     "bàn gōng shì",
+     "byro"
+    ],
+    [
+     "办公室家具",
+     "mobilier de bureau",
+     "m.",
+     "fr/05525.mp3",
+     "zh/05525.mp3",
+     "bàn gōng shì jiā jù",
+     "mobilje da byro"
+    ],
+    [
+     "办公设备",
+     "matériel de bureau",
+     "m.",
+     "fr/05526.mp3",
+     "zh/05526.mp3",
+     "bàn gōng shè bèi",
+     "materjel da byro"
+    ],
+    [
+     "公告",
+     "annonce",
+     "f",
+     "fr/05527.mp3",
+     "zh/05527.mp3",
+     "gōng gào",
+     "an5s"
+    ],
+    [
+     "布告",
+     "bulletin",
+     "m.",
+     "fr/05528.mp3",
+     "zh/05528.mp3",
+     "bù gào",
+     "bylt"
+    ],
+    [
+     "职员",
+     "employé",
+     "m.",
+     "fr/05529.mp3",
+     "zh/05529.mp3",
+     "zhí yuán",
+     "áplwaje"
+    ],
+    [
+     "文件柜",
+     "classeur",
+     "m.",
+     "fr/05530.mp3",
+     "zh/05530.mp3",
+     "wén jiàn guì",
+     "klascer"
+    ],
+    [
+     "文件夹",
+     "carton",
+     "m.",
+     "fr/05531.mp3",
+     "zh/05531.mp3",
+     "wén jiàn jiā",
+     "kart,"
+    ],
+    [
+     "白领",
+     "col blanc",
+     "m.",
+     "fr/05532.mp3",
+     "zh/05532.mp3",
+     "bái lǐng",
+     "kol bla"
+    ],
+    [
+     "金领",
+     "col or",
+     "m",
+     "fr/05533.mp3",
+     "zh/05533.mp3",
+     "jīn lǐng",
+     "kol or"
+    ],
+    [
+     "职业的",
+     "professionnel.le",
+     "",
+     "fr/05534.mp3",
+     "zh/05534.mp3",
+     "zhí yè de",
+     "profesjonel"
+    ],
+    [
+     "废纸篓",
+     "déchet",
+     "m.",
+     "fr/05535.mp3",
+     "zh/05535.mp3",
+     "fèi zhǐ lǒu",
+     "defe"
+    ],
+    [
+     "纯净水",
+     "eau pure o py:r]",
+     "f",
+     "fr/05536.mp3",
+     "zh/05536.mp3",
+     "chún jìng shuǐ",
+     ""
+    ],
+    [
+     "整齐的",
+     "régulierere",
+     "",
+     "fr/05537.mp3",
+     "zh/05537.mp3",
+     "zhěng qí de",
+     "regylje,er"
+    ],
+    [
+     "办公桌",
+     "bureau",
+     "m.",
+     "fr/05538.mp3",
+     "zh/05538.mp3",
+     "bàn gōng zhuō",
+     "byro"
+    ],
+    [
+     "噪音",
+     "bruit",
+     "m.",
+     "fr/05539.mp3",
+     "zh/05539.mp3",
+     "zào yīn",
+     "bryi"
+    ],
+    [
+     "清洁的",
+     "propre",
+     "",
+     "fr/05540.mp3",
+     "zh/05540.mp3",
+     "qīng jié de",
+     "propr"
+    ],
+    [
+     "办公桌",
+     "Section 2",
+     "",
+     "fr/05551.mp3",
+     "zh/05551.mp3",
+     "bàn gōng zhuō",
+     ""
+    ],
+    [
+     "台灯",
+     "lampe de table",
+     "",
+     "fr/05552.mp3",
+     "zh/05552.mp3",
+     "tái dēng",
+     "läp da tabl"
+    ],
+    [
+     "备忘录",
+     "aide-mémoire",
+     "m",
+     "fr/05553.mp3",
+     "zh/05553.mp3",
+     "bèi wàng lù",
+     "ed memwar"
+    ],
+    [
+     "便签本",
+     "bloc-notes",
+     "m.",
+     "fr/05554.mp3",
+     "zh/05554.mp3",
+     "biàn qiān běn",
+     "blok not"
+    ],
+    [
+     "评注",
+     "remarque ].",
+     "",
+     "fr/05555.mp3",
+     "zh/05555.mp3",
+     "píng zhù",
+     "r(a)mark"
+    ],
+    [
+     "信息",
+     "information",
+     "",
+     "fr/05556.mp3",
+     "zh/05556.mp3",
+     "xìn xī",
+     "Eformasj5"
+    ],
+    [
+     "夹子",
+     "pince",
+     "",
+     "fr/05557.mp3",
+     "zh/05557.mp3",
+     "jiā zi",
+     "ps"
+    ],
+    [
+     "文件",
+     "document",
+     "m.",
+     "fr/05558.mp3",
+     "zh/05558.mp3",
+     "wén jiàn",
+     "dokymá"
+    ],
+    [
+     "笔记本电脑",
+     "ordinateur portatif",
+     "m.",
+     "fr/05559.mp3",
+     "zh/05559.mp3",
+     "bǐ jì běn diàn nǎo",
+     "ordinatxr portatif"
+    ],
+    [
+     "笔尖",
+     "pointe du pinceau",
+     "m.",
+     "fr/05560.mp3",
+     "zh/05560.mp3",
+     "bǐ jiān",
+     "pwét dy p&so"
+    ],
+    [
+     "耳机",
+     "écouteur",
+     "m.",
+     "fr/05561.mp3",
+     "zh/05561.mp3",
+     "ěr jī",
+     "ekuter"
+    ],
+    [
+     "鱼缸",
+     "I aquarium",
+     "m.",
+     "fr/05562.mp3",
+     "zh/05562.mp3",
+     "yú gāng",
+     "akwarjom"
+    ],
+    [
+     "门铃",
+     "carillon",
+     "m",
+     "fr/05563.mp3",
+     "zh/05563.mp3",
+     "mén líng",
+     "karij5"
+    ],
+    [
+     "地球仪",
+     "globe terrestre",
+     "m.",
+     "fr/05564.mp3",
+     "zh/05564.mp3",
+     "dì qiú yí",
+     "glob terestr"
+    ],
+    [
+     "台灯",
+     "contexte T lampede table",
+     "",
+     "fr/05565.mp3",
+     "zh/05565.mp3",
+     "tái dēng",
+     "ktekst"
+    ]
+   ],
+   "s": [
+    [
+     "Mais les grandes nou- velles de ce matin est que la reine écran est allé s'inscrire a l'université de New York. Il travaille aux archives. I Quelque vite que le profes seur parle,les éleves sont ca pables de tout noter. F.",
+     "但今天早上的大消息却是荧幕女王去纽约大学报到了。他在档案馆工作不管老师说得多快，学生们都能记下来",
+     "一《维闻女孩》",
+     "fr/04379.mp3",
+     "zh/04379.mp3",
+     "dàn jīn tiān zǎo shàng de dà xiāo xī què shì yíng mù nǚ wáng qù niǔ yuē dà xué bào dào le tā zài dàng àn guǎn gōng zuò bù guǎn lǎo shī shuō dé duō kuài xué shēng men dōu néng jì xià lái",
+     ""
+    ],
+    [
+     "51% veulent envoyer leurs enfants aux Etats-Unis pour leurs études supérieures. 51%",
+     "的家长想要送孩子去美国以便能接受到最高等的教育。",
+     "",
+     "fr/04380.mp3",
+     "zh/04380.mp3",
+     "de jiā zhǎng xiǎng yào sòng hái zi qù měi guó yǐ biàn néng jiē shòu dào zuì gāo děng de jiào yù",
+     ""
+    ],
+    [
+     "Quel est le lien entre votre spécialite en Chine et votre spécialité en France?",
+     "您在国内的专业和在法国的专业有什么联系？",
+     "",
+     "fr/04617.mp3",
+     "zh/04617.mp3",
+     "nín zài guó nèi de zhuān yè hé zài fǎ guó de zhuān yè yǒu shén me lián xì",
+     ""
+    ],
+    [
+     "Lassouplissement de la carte scolaire:comment de- mander des dérogations?",
+     "法国“学区分配”制度松动：如何申请“破例录取”？",
+     "",
+     "fr/04618.mp3",
+     "zh/04618.mp3",
+     "fǎ guó xué qū fēn pèi zhì dù sōng dòng rú hé shēn qǐng pò lì lù qǔ",
+     ""
+    ],
+    [
+     "Je vais faire un stage dans une entreprise pendant les va- cances.",
+     "假期里我要去一家公司实习。",
+     "",
+     "fr/04619.mp3",
+     "zh/04619.mp3",
+     "jià qī lǐ wǒ yào qù yī jiā gōng sī shí xí",
+     ""
+    ],
+    [
+     "En France,Iécole est obli gatoire jusqua16 ans. 16X",
+     "在法国实行的是年义务教育制度",
+     "",
+     "fr/04620.mp3",
+     "zh/04620.mp3",
+     "zài fǎ guó shí xíng de shì nián yì wù jiào yù zhì dù",
+     ""
+    ],
+    [
+     "La mémoire,elle non plus, n'est pas comprehensible sans une approche mathématique.",
+     "如果不从数学的途径来研究，记忆也是无法理解的。",
+     "",
+     "fr/04621.mp3",
+     "zh/04621.mp3",
+     "rú guǒ bù cóng shù xué de tú jìng lái yán jiū jì yì yě shì wú fǎ lǐ jiě de",
+     ""
+    ],
+    [
+     "Mon bureau se loge dans un immeuble de trente étages.",
+     "我的办公室坐落在一栋三十层的高楼里。",
+     "",
+     "fr/05541.mp3",
+     "zh/05541.mp3",
+     "wǒ de bàn gōng shì zuò luò zài yī dòng sān shí céng de gāo lóu lǐ",
+     ""
+    ],
+    [
+     "Feuilletez réguliérement votre ciasseur,relisez ce que vous y avez mis. X+ +x",
+     "定期翻阅你的文件柜重新读下存入其中的文件",
+     "",
+     "fr/05542.mp3",
+     "zh/05542.mp3",
+     "dìng qī fān yuè nǐ de wén jiàn guì chóng xīn dú xià cún rù qí zhōng de wén jiàn",
+     ""
+    ],
+    [
+     "Irange les dossiers dans le carton du bureau. X+.",
+     "他把文件资料整理放进了文件夹",
+     "",
+     "fr/05543.mp3",
+     "zh/05543.mp3",
+     "tā bǎ wén jiàn zī liào zhěng lǐ fàng jìn le wén jiàn jiā",
+     ""
+    ],
+    [
+     "Il sefforce de concilier sa vie professionnelle et sa vie fa- miliale.",
+     "他努力把自己的工作和家庭生活协调起来。",
+     "",
+     "fr/05544.mp3",
+     "zh/05544.mp3",
+     "tā nǔ lì bǎ zì jǐ de gōng zuò hé jiā tíng shēng huó xié tiáo qǐ lái",
+     ""
+    ],
+    [
+     "70% des cols blancs sont des archétypes de ces cadres qui travaillent trop, soit plus de 10 heures par jour. I",
+     "七成白领成过劳模平均每天工作超10小时。",
+     "",
+     "fr/05545.mp3",
+     "zh/05545.mp3",
+     "qī chéng bái lǐng chéng guò láo mó píng jūn měi tiān gōng zuò chāo xiǎo shí",
+     ""
+    ],
+    [
+     "Toutes les transactions et les documents connexes sont écrits sur l'ordinateur portable rouge dans le sac.F",
+     "所有的交易记录和相关文件都记在那个旅行包的红色笔记本里。",
+     "",
+     "fr/05566.mp3",
+     "zh/05566.mp3",
+     "suǒ yǒu de jiāo yì jì lù hé xiāng guān wén jiàn dōu jì zài nà ge lǚ xíng bāo de hóng sè bǐ jì běn lǐ",
+     ""
+    ],
+    [
+     "Les citoyens de l'Union Européenne qui désirent aller en Angleterre n'ont pas besoin d'aucun document particulier a part leur carte d'identité. XT.",
+     "意思是，只要你是欧盟公民，你拥有身份证，就不需要英国签证了",
+     "",
+     "fr/05567.mp3",
+     "zh/05567.mp3",
+     "yì si shì zhǐ yào nǐ shì ōu méng gōng mín nǐ yōng yǒu shēn fèn zhèng jiù bù xū yào yīng guó qiān zhèng le",
+     ""
+    ],
+    [
+     "Ce journal qui présente l'actualite avec des mots simples et explique les événe- ments dans leur contexte pour rendre l'information en fran- cais accessible a tous.i",
+     "这是一份以简单的单词来叙述和解释时事新闻和重大事件的报纸。",
+     "",
+     "fr/05568.mp3",
+     "zh/05568.mp3",
+     "zhè shì yī fèn yǐ jiǎn dān de dān cí lái xù shù hé jiě shì shí shì xīn wén hé zhòng dà shì jiàn de bào zhǐ",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "银幕",
+     "écran",
+     "n.m.",
+     "fr/04381.mp3",
+     "zh/04381.mp3",
+     "yín mù",
+     "ekra"
+    ],
+    [
+     "",
+     "capable",
+     "adj",
+     "fr/04382.mp3",
+     "zh/04382.mp3",
+     "",
+     "kapabl"
+    ],
+    [
+     "能干的",
+     "",
+     "",
+     "",
+     "zh/04383.mp3",
+     "néng gàn de",
+     ""
+    ],
+    [
+     "标出",
+     "noter v.",
+     "",
+     "fr/04384.mp3",
+     "zh/04384.mp3",
+     "biāo chū",
+     "note"
+    ],
+    [
+     "美国",
+     "tats-Unis",
+     "",
+     "fr/04385.mp3",
+     "zh/04385.mp3",
+     "měi guó",
+     ""
+    ],
+    [
+     "",
+     "assouplissement",
+     "",
+     "fr/04622.mp3",
+     "zh/04622.mp3",
+     "",
+     ""
+    ],
+    [
+     "温和柔软",
+     "",
+     "",
+     "",
+     "zh/04623.mp3",
+     "wēn hé róu ruǎn",
+     ""
+    ],
+    [
+     "",
+     "compréhensible",
+     "",
+     "fr/04624.mp3",
+     "zh/04624.mp3",
+     "",
+     ""
+    ],
+    [
+     "理解的",
+     "",
+     "adj.",
+     "",
+     "zh/04625.mp3",
+     "lǐ jiě de",
+     "kpreäsibl"
+    ],
+    [
+     "",
+     "approche n",
+     "",
+     "fr/04626.mp3",
+     "zh/04626.mp3",
+     "",
+     "apro"
+    ],
+    [
+     "靠近",
+     "#ll",
+     "",
+     "fr/04627.mp3",
+     "zh/04627.mp3",
+     "kào jìn",
+     ""
+    ],
+    [
+     "层",
+     "étageeta3l",
+     "n.m",
+     "fr/05546.mp3",
+     "zh/05546.mp3",
+     "céng",
+     ""
+    ],
+    [
+     "翻闯",
+     "feuilleter",
+     "vt.",
+     "fr/05547.mp3",
+     "zh/05547.mp3",
+     "fān chuǎng",
+     "fjte"
+    ],
+    [
+     "案卷",
+     "dossier",
+     "n.m.",
+     "fr/05548.mp3",
+     "zh/05548.mp3",
+     "àn juàn",
+     "dosje"
+    ],
+    [
+     "努力",
+     "efforcer vpr",
+     "",
+     "fr/05549.mp3",
+     "zh/05549.mp3",
+     "nǔ lì",
+     "eforse"
+    ],
+    [
+     "协调",
+     "concilier vt.t",
+     "",
+     "fr/05550.mp3",
+     "zh/05550.mp3",
+     "xié tiáo",
+     "ksilje"
+    ],
+    [
+     "",
+     "transaction",
+     "",
+     "fr/05569.mp3",
+     "zh/05569.mp3",
+     "",
+     "trázaksj5"
+    ],
+    [
+     "交易",
+     "",
+     "nf.",
+     "",
+     "zh/05570.mp3",
+     "jiāo yì",
+     ""
+    ],
+    [
+     "",
+     "actualité",
+     "nf.",
+     "fr/05571.mp3",
+     "zh/05571.mp3",
+     "",
+     "aktyalite"
+    ],
+    [
+     "现实事实",
+     "",
+     "",
+     "",
+     "zh/05572.mp3",
+     "xiàn shí shì shí",
+     ""
+    ],
+    [
+     "上下文",
+     "FX",
+     "",
+     "fr/05573.mp3",
+     "zh/05573.mp3",
+     "shàng xià wén",
+     ""
+    ],
+    [
+     "",
+     "accessible",
+     "",
+     "fr/05574.mp3",
+     "zh/05574.mp3",
+     "",
+     "aksee)sibl"
+    ],
+    [
+     "可接近的",
+     "",
+     "adj",
+     "",
+     "zh/05575.mp3",
+     "kě jiē jìn de",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 2,
+   "name": "教室",
+   "w": [
+    [
+     "教室",
+     "classe",
+     "",
+     "fr/04386.mp3",
+     "zh/04386.mp3",
+     "jiào shì",
+     "kla:as"
+    ],
+    [
+     "黑板",
+     "tableau noir",
+     "m.",
+     "fr/04387.mp3",
+     "zh/04387.mp3",
+     "hēi bǎn",
+     "tablo nwa:r"
+    ],
+    [
+     "粉笔",
+     "craie",
+     "",
+     "fr/04388.mp3",
+     "zh/04388.mp3",
+     "fěn bǐ",
+     "kre"
+    ],
+    [
+     "黑板架",
+     "chevalet dun tableau noir avale d tablo nwa:r]",
+     "m.",
+     "fr/04389.mp3",
+     "zh/04389.mp3",
+     "hēi bǎn jià",
+     ""
+    ],
+    [
+     "课桌",
+     "pupitre",
+     "m.",
+     "fr/04390.mp3",
+     "zh/04390.mp3",
+     "kè zhuō",
+     "pypitr"
+    ],
+    [
+     "凳子",
+     "escabeau",
+     "m.",
+     "fr/04391.mp3",
+     "zh/04391.mp3",
+     "dèng zi",
+     "eskabo"
+    ],
+    [
+     "幕布",
+     "rideau",
+     "m.",
+     "fr/04392.mp3",
+     "zh/04392.mp3",
+     "mù bù",
+     "rido"
+    ],
+    [
+     "讲台",
+     "estrade",
+     "",
+     "fr/04393.mp3",
+     "zh/04393.mp3",
+     "jiǎng tái",
+     "estrad"
+    ],
+    [
+     "讲台",
+     "chaireer",
+     "",
+     "fr/04394.mp3",
+     "zh/04394.mp3",
+     "jiǎng tái",
+     ""
+    ],
+    [
+     "教鞭",
+     "baguette du tableau noir",
+     "f.",
+     "fr/04395.mp3",
+     "zh/04395.mp3",
+     "jiào biān",
+     "baget dy tablo nwair"
+    ],
+    [
+     "投影仪",
+     "projecteur /.",
+     "",
+     "fr/04396.mp3",
+     "zh/04396.mp3",
+     "tóu yǐng yí",
+     "prozektær"
+    ],
+    [
+     "日光灯",
+     "T lampea fluorescence /.",
+     "",
+     "fr/04397.mp3",
+     "zh/04397.mp3",
+     "rì guāng dēng",
+     "läxp a flyore(e)sá:s"
+    ],
+    [
+     "教科书",
+     "manuel",
+     "m.",
+     "fr/04398.mp3",
+     "zh/04398.mp3",
+     "jiào kē shū",
+     "manyel"
+    ],
+    [
+     "电风扇",
+     "ventilateur",
+     "m",
+     "fr/04399.mp3",
+     "zh/04399.mp3",
+     "diàn fēng shàn",
+     "vátilatcr"
+    ],
+    [
+     "阶梯教室",
+     "amphi théatre",
+     "m",
+     "fr/04400.mp3",
+     "zh/04400.mp3",
+     "jiē tī jiào shì",
+     "áfitea:tr"
+    ]
+   ],
+   "s": [
+    [
+     "Dans une classe, il y a tou- jours des éléves qui créent le desordre.",
+     "教室里总有捣乱的学生。",
+     "",
+     "fr/04401.mp3",
+     "zh/04401.mp3",
+     "jiào shì lǐ zǒng yǒu dǎo luàn de xué shēng",
+     ""
+    ],
+    [
+     "Au meme moment,les trompettes des Prussiens qui revenaient de l'exercice écla terent sous nos fenetres...M. Hamel se leva, tout pale,dans sa chaire. HTET,",
+     "与此同时普鲁士战士的练完回营的号声正在我们的窗户下回响阿麦尔教师从椅子上站了起来面色非常惨白。",
+     "",
+     "fr/04402.mp3",
+     "zh/04402.mp3",
+     "yǔ cǐ tóng shí pǔ lǔ shì zhàn shì de liàn wán huí yíng de hào shēng zhèng zài wǒ men de chuāng hù xià huí xiǎng ā mài ěr jiào shī cóng yǐ zi shàng zhàn le qǐ lái miàn sè fēi cháng cǎn bái",
+     ""
+    ],
+    [
+     "Soulevez le dictionnaire, le manuel est en dessous.",
+     "把词典拿起来，教科书就在下面。",
+     "",
+     "fr/04403.mp3",
+     "zh/04403.mp3",
+     "bǎ cí diǎn ná qǐ lái jiào kē shū jiù zài xià miàn",
+     ""
+    ],
+    [
+     "Ouvrez les fenetres et mettez en marche le ventilateur pour rafraichir la chambre. P",
+     "把窗户打开把电扇也打开使房间凉快一点。",
+     "",
+     "fr/04404.mp3",
+     "zh/04404.mp3",
+     "bǎ chuāng hù dǎ kāi bǎ diàn shàn yě dǎ kāi shǐ fáng jiān liáng kuài yì diǎn",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "号兵",
+     "trompette",
+     "m",
+     "fr/04405.mp3",
+     "zh/04405.mp3",
+     "hào bīng",
+     "trpet"
+    ],
+    [
+     "",
+     "dictionnaire",
+     "",
+     "fr/04406.mp3",
+     "zh/04406.mp3",
+     "",
+     "diksjoner"
+    ],
+    [
+     "词典",
+     "",
+     "n.m.",
+     "",
+     "zh/04407.mp3",
+     "cí diǎn",
+     ""
+    ],
+    [
+     "",
+     "rafraichirw",
+     "",
+     "fr/04408.mp3",
+     "zh/04408.mp3",
+     "",
+     "rafreeJi:r"
+    ],
+    [
+     "使凉快",
+     "",
+     "",
+     "",
+     "zh/04409.mp3",
+     "shǐ liáng kuài",
+     ""
+    ],
+    [
+     "黑板",
+     "tableau noir",
+     "",
+     "fr/04410.mp3",
+     "zh/04410.mp3",
+     "hēi bǎn",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 3,
+   "name": "操场",
+   "w": [
+    [
+     "客操场",
+     "terrain dexercices",
+     "m.",
+     "fr/04411.mp3",
+     "zh/04411.mp3",
+     "kè cāo chǎng",
+     "terdegzersis"
+    ],
+    [
+     "场地",
+     "terrain",
+     "m",
+     "fr/04412.mp3",
+     "zh/04412.mp3",
+     "chǎng dì",
+     "ter"
+    ],
+    [
+     "地面",
+     "surface de la terre",
+     "f.",
+     "fr/04413.mp3",
+     "zh/04413.mp3",
+     "dì miàn",
+     "syrfas dala te:r"
+    ],
+    [
+     "猴杆儿",
+     "tiges de singe .",
+     "",
+     "fr/04414.mp3",
+     "zh/04414.mp3",
+     "hóu gān ér",
+     "ti3 das13"
+    ],
+    [
+     "篮球场",
+     "terrain de basketball",
+     "m.",
+     "fr/04415.mp3",
+     "zh/04415.mp3",
+     "lán qiú chǎng",
+     "ter&da basketbol"
+    ],
+    [
+     "秋千",
+     "balancoire /.",
+     "",
+     "fr/04416.mp3",
+     "zh/04416.mp3",
+     "qiū qiān",
+     "baläswair"
+    ],
+    [
+     "观众",
+     "spectateur",
+     "m.",
+     "fr/04417.mp3",
+     "zh/04417.mp3",
+     "guān zhòng",
+     "spektatæ:r"
+    ],
+    [
+     "双杠",
+     "I barres paralleles",
+     "f.",
+     "fr/04418.mp3",
+     "zh/04418.mp3",
+     "shuāng gàng",
+     "ba:r paralel"
+    ],
+    [
+     "吊环",
+     "anneaux pl",
+     "",
+     "fr/04419.mp3",
+     "zh/04419.mp3",
+     "diào huán",
+     "ano"
+    ],
+    [
+     "鞍马",
+     "cheval darcons",
+     "m.",
+     "fr/04420.mp3",
+     "zh/04420.mp3",
+     "ān mǎ",
+     "val dars5"
+    ],
+    [
+     "跑步",
+     "couriri",
+     "",
+     "fr/04421.mp3",
+     "zh/04421.mp3",
+     "pǎo bù",
+     "kurir"
+    ],
+    [
+     "单杠",
+     "I barre fixebar fiks]",
+     "f.",
+     "fr/04422.mp3",
+     "zh/04422.mp3",
+     "dān gàng",
+     ""
+    ],
+    [
+     "高低杠",
+     "Ibarres asy métriques.",
+     "",
+     "fr/04423.mp3",
+     "zh/04423.mp3",
+     "gāo dī gàng",
+     "ba:r asimetrik"
+    ],
+    [
+     "最高点",
+     "summum",
+     "m.",
+     "fr/04424.mp3",
+     "zh/04424.mp3",
+     "zuì gāo diǎn",
+     "som(mm"
+    ],
+    [
+     "跳绳",
+     "sauter a la corde .",
+     "",
+     "fr/04425.mp3",
+     "zh/04425.mp3",
+     "tiào shéng",
+     "sote a la kord"
+    ],
+    [
+     "跳绳用的绳子",
+     "cordea sauter .",
+     "",
+     "fr/04426.mp3",
+     "zh/04426.mp3",
+     "tiào shéng yòng de shéng zi",
+     "kord a sote"
+    ],
+    [
+     "乒乓球台",
+     "table de ping pong /",
+     "",
+     "fr/04427.mp3",
+     "zh/04427.mp3",
+     "pīng pāng qiú tái",
+     "tabl da pinp5g"
+    ],
+    [
+     "计算器",
+     "calculatrice /.",
+     "",
+     "fr/05576.mp3",
+     "zh/05576.mp3",
+     "jì suàn qì",
+     "kalkylatris"
+    ],
+    [
+     "光盘",
+     "disque",
+     "m.",
+     "fr/05577.mp3",
+     "zh/05577.mp3",
+     "guāng pán",
+     "disk"
+    ],
+    [
+     "电脑",
+     "ordinateur",
+     "m.",
+     "fr/05578.mp3",
+     "zh/05578.mp3",
+     "diàn nǎo",
+     "ordinatcer"
+    ],
+    [
+     "胶水",
+     "k colle",
+     "",
+     "fr/05579.mp3",
+     "zh/05579.mp3",
+     "jiāo shuǐ",
+     "kol"
+    ],
+    [
+     "橡皮",
+     "gomme",
+     "m",
+     "fr/05580.mp3",
+     "zh/05580.mp3",
+     "xiàng pí",
+     "gom"
+    ],
+    [
+     "静止的",
+     "dormante",
+     "",
+     "fr/05581.mp3",
+     "zh/05581.mp3",
+     "jìng zhǐ de",
+     "dorma,t"
+    ],
+    [
+     "笔记本",
+     "icalepin",
+     "m.",
+     "fr/05582.mp3",
+     "zh/05582.mp3",
+     "bǐ jì běn",
+     "kalpa"
+    ],
+    [
+     "回形针",
+     "trombone",
+     "m.",
+     "fr/05583.mp3",
+     "zh/05583.mp3",
+     "huí xíng zhēn",
+     "trbon"
+    ],
+    [
+     "大头针",
+     "épingle /",
+     "",
+     "fr/05584.mp3",
+     "zh/05584.mp3",
+     "dà tóu zhēn",
+     "ep&gl"
+    ],
+    [
+     "尺子",
+     "R regle",
+     "",
+     "fr/05585.mp3",
+     "zh/05585.mp3",
+     "chǐ zi",
+     "regl"
+    ],
+    [
+     "订书机",
+     "agrafeuse /.",
+     "",
+     "fr/05586.mp3",
+     "zh/05586.mp3",
+     "dìng shū jī",
+     "agrafoz"
+    ],
+    [
+     "使锋利",
+     "aiguiser",
+     "",
+     "fr/05587.mp3",
+     "zh/05587.mp3",
+     "shǐ fēng lì",
+     "egize"
+    ],
+    [
+     "设备",
+     "équipement",
+     "m.",
+     "fr/05588.mp3",
+     "zh/05588.mp3",
+     "shè bèi",
+     "ekipmá"
+    ],
+    [
+     "咖啡机",
+     "machinea café /",
+     "",
+     "fr/05589.mp3",
+     "zh/05589.mp3",
+     "kā fēi jī",
+     "mafin a kafe"
+    ],
+    [
+     "剪刀",
+     "] ciseaux",
+     "m.",
+     "fr/05590.mp3",
+     "zh/05590.mp3",
+     "jiǎn dāo",
+     "sizo"
+    ],
+    [
+     "文件卡剪力",
+     "carte-document / 7ciseaux",
+     "",
+     "fr/05591.mp3",
+     "zh/05591.mp3",
+     "wén jiàn kǎ jiǎn lì",
+     "kart dokymá"
+    ]
+   ],
+   "s": [
+    [
+     "Sur le terrain,chacun s'efforce de donner le meilleur de soi-meme.",
+     "在场上每个人都会尽自己的最大努力。",
+     "",
+     "fr/04428.mp3",
+     "zh/04428.mp3",
+     "zài chǎng shàng měi gè rén dū huì jǐn zì jǐ de zuì dà nǔ lì",
+     ""
+    ],
+    [
+     "En juin,le soleil dardait ses rayons rouges sur la sur- face deleau.",
+     "六月火红的太阳照射着水面。",
+     "",
+     "fr/04429.mp3",
+     "zh/04429.mp3",
+     "liù yuè huǒ hóng de tài yáng zhào shè zhe shuǐ miàn",
+     ""
+    ],
+    [
+     "La Balancoire,1876, huile sur toile, Musée d'Orsay,",
+     "年，帆布油画，法国巴黎奥塞美术馆典藏。",
+     "Paris,France.《荡秋千》，1876",
+     "fr/04430.mp3",
+     "zh/04430.mp3",
+     "nián fān bù yóu huà fǎ guó bā lí ào sāi měi shù guǎn diǎn cáng",
+     ""
+    ],
+    [
+     "Il ne faut pas courir deux lievres a la fois.",
+     "同时追两兔一一落空。",
+     "",
+     "fr/04431.mp3",
+     "zh/04431.mp3",
+     "tóng shí zhuī liǎng tù yī yī luò kōng",
+     ""
+    ],
+    [
+     "Tu regardes tout comme un spectateur qui regarde cette piece de théatre.",
+     "你看着一切，就像一个观众在看戏。",
+     "",
+     "fr/04432.mp3",
+     "zh/04432.mp3",
+     "nǐ kàn zhe yī qiè jiù xiàng yí gè guān zhòng zài kàn xì",
+     ""
+    ],
+    [
+     "Il faut remettre á jour le logiciel intégré de son ordina ter.++",
+     "他电脑的计算机软件需要更新。",
+     "",
+     "fr/05592.mp3",
+     "zh/05592.mp3",
+     "tā diàn nǎo de jì suàn jī ruǎn jiàn xū yào gēng xīn",
+     ""
+    ],
+    [
+     "Par la fenetre ouverte,je voyais mes camarades déja ranges a leurs places, et M. Hamel, qui passait et repassait avec la terrible regle en fer sous le bras. T.",
+     "从打开的窗子里我看见同学们都坐在位子上，整整齐齐地；阿迈尔先生胳膊夹着那把吓人的铁戒尺来回跛着步子",
+     "",
+     "fr/05593.mp3",
+     "zh/05593.mp3",
+     "cóng dǎ kāi de chuāng zi lǐ wǒ kàn jiàn tóng xué men dōu zuò zài wèi zi shàng zhěng zhěng qí qí dì ā mài ěr xiān shēng gē bó jiā zhe nà bǎ xià rén de tiě jiè chǐ lái huí bǒ zhe bù zi",
+     ""
+    ],
+    [
+     "Je faisais semblant dem prunter l'agrafeuse et I'a volée sur son titoir.",
+     "我是假装借订书器从他抽屉里偷拿的。",
+     "",
+     "fr/05594.mp3",
+     "zh/05594.mp3",
+     "wǒ shì jiǎ zhuāng jiè dìng shū qì cóng tā chōu tì lǐ tōu ná de",
+     ""
+    ],
+    [
+     "Je lui donne mieux que des ciseaux,repondit Grandet.",
+     "我给她的东西比金剪子还金贵，”格朗台说。",
+     "",
+     "fr/05595.mp3",
+     "zh/05595.mp3",
+     "wǒ gěi tā de dōng xī bǐ jīn jiǎn zi hái jīn guì gé lǎng tái shuō",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "s'efforcerv.pr",
+     "",
+     "fr/04433.mp3",
+     "zh/04433.mp3",
+     "",
+     "seforse"
+    ],
+    [
+     "用力使劲",
+     "",
+     "",
+     "",
+     "zh/04434.mp3",
+     "yòng lì shǐ jìn",
+     ""
+    ],
+    [
+     "光芒",
+     "rayon",
+     "n.m.",
+     "fr/04435.mp3",
+     "zh/04435.mp3",
+     "guāng máng",
+     "rej5"
+    ],
+    [
+     "博物馆",
+     "musée",
+     "nm.",
+     "fr/04436.mp3",
+     "zh/04436.mp3",
+     "bó wù guǎn",
+     "myze"
+    ],
+    [
+     "野兔",
+     "livre",
+     "nm.",
+     "fr/04437.mp3",
+     "zh/04437.mp3",
+     "yě tù",
+     "ljevr"
+    ],
+    [
+     "戏剧",
+     "théatre",
+     "n.m.",
+     "fr/04438.mp3",
+     "zh/04438.mp3",
+     "xì jù",
+     "teatr"
+    ],
+    [
+     "",
+     "camarade",
+     "",
+     "fr/05596.mp3",
+     "zh/05596.mp3",
+     "",
+     "kamarad"
+    ],
+    [
+     "同伴朋友",
+     "",
+     "",
+     "",
+     "zh/05597.mp3",
+     "tóng bàn péng yǒu",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 4,
+   "name": "宿舍",
+   "w": [
+    [
+     "宿舍",
+     "dortoir",
+     "m.",
+     "fr/04439.mp3",
+     "zh/04439.mp3",
+     "sù shè",
+     "dortwa:r"
+    ],
+    [
+     "宿舍",
+     "logement",
+     "m",
+     "fr/04440.mp3",
+     "zh/04440.mp3",
+     "sù shè",
+     "l3má"
+    ],
+    [
+     "提供住宿",
+     "lacces a des lozmá]",
+     "m.",
+     "fr/04441.mp3",
+     "zh/04441.mp3",
+     "tí gōng zhù sù",
+     ""
+    ],
+    [
+     "单人床",
+     "lita une place",
+     "m",
+     "fr/04442.mp3",
+     "zh/04442.mp3",
+     "dān rén chuáng",
+     "li a yn plac"
+    ],
+    [
+     "上下铺",
+     "lits superposés",
+     "m.",
+     "fr/04443.mp3",
+     "zh/04443.mp3",
+     "shàng xià pù",
+     "li syperpoze"
+    ],
+    [
+     "晾衣绳",
+     "corde a linge",
+     "",
+     "fr/04444.mp3",
+     "zh/04444.mp3",
+     "liàng yī shéng",
+     "kord a l:3"
+    ],
+    [
+     "困乏的",
+     "somnolent",
+     "",
+     "fr/04446.mp3",
+     "zh/04446.mp3",
+     "kùn fá de",
+     "somnolá"
+    ],
+    [
+     "衣柜",
+     "commode /.",
+     "",
+     "fr/04447.mp3",
+     "zh/04447.mp3",
+     "yī guì",
+     "komod"
+    ],
+    [
+     "通风",
+     "aérer",
+     "",
+     "fr/04448.mp3",
+     "zh/04448.mp3",
+     "tōng fēng",
+     "aere"
+    ],
+    [
+     "拖鞋",
+     "pantoufles /.",
+     "",
+     "fr/04449.mp3",
+     "zh/04449.mp3",
+     "tuō xié",
+     "pátufl"
+    ],
+    [
+     "刷子",
+     "brosse",
+     "",
+     "fr/04450.mp3",
+     "zh/04450.mp3",
+     "shuā zi",
+     "bros"
+    ],
+    [
+     "广播",
+     "radiodiffuser",
+     "",
+     "fr/04451.mp3",
+     "zh/04451.mp3",
+     "guǎng bō",
+     "radjodifyze"
+    ],
+    [
+     "抽屉",
+     "tiroir",
+     "m",
+     "fr/04452.mp3",
+     "zh/04452.mp3",
+     "chōu tì",
+     "tirwar"
+    ],
+    [
+     "被子",
+     "couverturekuver ty:r]:",
+     "",
+     "fr/04453.mp3",
+     "zh/04453.mp3",
+     "bèi zi",
+     ""
+    ],
+    [
+     "床单",
+     "drap",
+     "m",
+     "fr/04454.mp3",
+     "zh/04454.mp3",
+     "chuáng dān",
+     "dra"
+    ],
+    [
+     "枕头",
+     "oreillerDreje]",
+     "m",
+     "fr/04455.mp3",
+     "zh/04455.mp3",
+     "zhěn tou",
+     ""
+    ],
+    [
+     "电热毯",
+     "couverture chauffante/.",
+     "",
+     "fr/04456.mp3",
+     "zh/04456.mp3",
+     "diàn rè tǎn",
+     "kuvertyr Sofät"
+    ],
+    [
+     "会议",
+     "conférence /.",
+     "",
+     "fr/05598.mp3",
+     "zh/05598.mp3",
+     "huì yì",
+     "koferás"
+    ],
+    [
+     "会议",
+     "réunion .",
+     "",
+     "fr/05599.mp3",
+     "zh/05599.mp3",
+     "huì yì",
+     "reynj5"
+    ],
+    [
+     "会议室",
+     "auditorium",
+     "m.",
+     "fr/05600.mp3",
+     "zh/05600.mp3",
+     "huì yì shì",
+     "oditorjom"
+    ],
+    [
+     "主持人",
+     "pre sentateur,trice",
+     "",
+     "fr/05601.mp3",
+     "zh/05601.mp3",
+     "zhǔ chí rén",
+     "prezätatxr,tris"
+    ],
+    [
+     "演示",
+     "présenter",
+     "",
+     "fr/05602.mp3",
+     "zh/05602.mp3",
+     "yǎn shì",
+     "prezáte"
+    ],
+    [
+     "受欢迎者",
+     "bienvenu",
+     "",
+     "fr/05603.mp3",
+     "zh/05603.mp3",
+     "shòu huān yíng zhě",
+     "bj&vny"
+    ],
+    [
+     "出席",
+     "assister a .",
+     "",
+     "fr/05604.mp3",
+     "zh/05604.mp3",
+     "chū xí",
+     "asiste a"
+    ],
+    [
+     "参加",
+     "participer",
+     "",
+     "fr/05605.mp3",
+     "zh/05605.mp3",
+     "cān jiā",
+     "partisipe"
+    ],
+    [
+     "参加者",
+     "congressiste",
+     "m.",
+     "fr/05606.mp3",
+     "zh/05606.mp3",
+     "cān jiā zhě",
+     "kgresist"
+    ],
+    [
+     "参与",
+     "prendre parta",
+     "",
+     "fr/05607.mp3",
+     "zh/05607.mp3",
+     "cān yù",
+     "prädr par a"
+    ],
+    [
+     "缺席的",
+     "défaillante",
+     "",
+     "fr/05608.mp3",
+     "zh/05608.mp3",
+     "quē xí de",
+     "defaja,t"
+    ],
+    [
+     "主题",
+     "sujet",
+     "m",
+     "fr/05609.mp3",
+     "zh/05609.mp3",
+     "zhǔ tí",
+     "sy3e"
+    ],
+    [
+     "完成",
+     "accomplir",
+     "",
+     "fr/05610.mp3",
+     "zh/05610.mp3",
+     "wán chéng",
+     "akšplir"
+    ],
+    [
+     "结束",
+     "finir",
+     "",
+     "fr/05611.mp3",
+     "zh/05611.mp3",
+     "jié shù",
+     "finir"
+    ],
+    [
+     "意见一致",
+     "-etredac cord",
+     "",
+     "fr/05612.mp3",
+     "zh/05612.mp3",
+     "yì jiàn yí zhì",
+     "etr dakor"
+    ],
+    [
+     "议事单",
+     "procedure unique f:",
+     "",
+     "fr/05613.mp3",
+     "zh/05613.mp3",
+     "yì shì dān",
+     "prosedyr ynik"
+    ]
+   ],
+   "s": [
+    [
+     "Flaubert a été vivant dans un dortoir des six étages unique, la salle est tres simple, les murs vides,le mobilier est tresfaible. logementslaksc ade- tiRy.",
+     "那时福楼拜住在六层楼的一个单身宿舍里屋子很简陋，墙上空空的，家具也很少",
+     "",
+     "fr/04457.mp3",
+     "zh/04457.mp3",
+     "nà shí fú lóu bài zhù zài liù céng lóu de yí gè dān shēn sù shè lǐ wū zi hěn jiǎn lòu qiáng shàng kōng kōng de jiā jù yě hěn shǎo",
+     ""
+    ],
+    [
+     "Récemment en raison de la froide.Je toujours ne pour- rais pas se réveiller, ai réveillé toujours somnolent TX. Jai fait ouvrir les fenetres de bonne heure ce matin,pour aerer un peu. i.",
+     "最近因为醒了又总是困大清早我就叫人打开窗户，好让室内空气流通",
+     "",
+     "fr/04458.mp3",
+     "zh/04458.mp3",
+     "zuì jìn yīn wèi xǐng le yòu zǒng shì kùn dà qīng zǎo wǒ jiù jiào rén dǎ kāi chuāng hù hǎo ràng shì nèi kōng qì liú tōng",
+     ""
+    ],
+    [
+     "Holmes examinait a la loupe la couverture du carnet.",
+     "福尔摩斯用他的放大镜检查小册子的封皮。",
+     "",
+     "fr/04459.mp3",
+     "zh/04459.mp3",
+     "fú ěr mó sī yòng tā de fàng dà jìng jiǎn chá xiǎo cè zi de fēng pí",
+     ""
+    ],
+    [
+     "Bienvenu a Iinstitut confucius.Je suis tres heureux dc vous voir. 1X",
+     "欢迎来到孔子学院很高兴见到大家",
+     "",
+     "fr/05614.mp3",
+     "zh/05614.mp3",
+     "huān yíng lái dào kǒng zi xué yuàn hěn gāo xìng jiàn dào dà jiā",
+     ""
+    ],
+    [
+     "Si je veux assister a cette réunion,jai besoin d'une carte dinvitation AX-.",
+     "如果想参加这次会议我需要一份邀请函",
+     "",
+     "fr/05615.mp3",
+     "zh/05615.mp3",
+     "rú guǒ xiǎng cān jiā zhè cì huì yì wǒ xū yào yī fèn yāo qǐng hán",
+     ""
+    ],
+    [
+     "Nous avons seulement be- soin de 16 enfants pour parti ciper.167",
+     "我们只需要个孩子参与就够了。",
+     "",
+     "fr/05616.mp3",
+     "zh/05616.mp3",
+     "wǒ men zhǐ xū yào gè hái zi cān yù jiù gòu le",
+     ""
+    ],
+    [
+     "Largent est un sujet tres sensible.- W.",
+     "钱是一个很敏感的话题",
+     "",
+     "fr/05617.mp3",
+     "zh/05617.mp3",
+     "qián shì yí gè hěn mǐn gǎn de huà tí",
+     ""
+    ],
+    [
+     "La magie du premier amour,cest dignorer quil puisse finir un jour.",
+     "初恋的魔力在于我们从未意识到会有结束的一天。",
+     "",
+     "fr/05618.mp3",
+     "zh/05618.mp3",
+     "chū liàn de mó lì zài yú wǒ men cóng wèi yì shí dào huì yǒu jié shù de yī tiān",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "mobilier .",
+     "m",
+     "fr/04460.mp3",
+     "zh/04460.mp3",
+     "",
+     "mobilje"
+    ],
+    [
+     "家具",
+     "RA",
+     "",
+     "fr/04461.mp3",
+     "zh/04461.mp3",
+     "jiā jù",
+     ""
+    ],
+    [
+     "",
+     "récemment",
+     "",
+     "fr/04462.mp3",
+     "zh/04462.mp3",
+     "",
+     "resamä"
+    ],
+    [
+     "最近最新",
+     "ad",
+     "",
+     "fr/04463.mp3",
+     "zh/04463.mp3",
+     "zuì jìn zuì xīn",
+     ""
+    ],
+    [
+     "",
+     "réveiller wt.",
+     "",
+     "fr/04464.mp3",
+     "zh/04464.mp3",
+     "",
+     "reveje"
+    ],
+    [
+     "唤醒",
+     "",
+     "",
+     "",
+     "zh/04465.mp3",
+     "huàn xǐng",
+     ""
+    ],
+    [
+     "放大镜",
+     "loupe.",
+     "",
+     "fr/04466.mp3",
+     "zh/04466.mp3",
+     "fàng dà jìng",
+     "lup"
+    ],
+    [
+     "小本子",
+     "carnet",
+     "n.m.",
+     "fr/04467.mp3",
+     "zh/04467.mp3",
+     "xiǎo běn zi",
+     "karne"
+    ],
+    [
+     "",
+     "confuciusn",
+     "",
+     "fr/05619.mp3",
+     "zh/05619.mp3",
+     "",
+     "kfykus"
+    ],
+    [
+     "孔子学院",
+     "",
+     "",
+     "",
+     "zh/05620.mp3",
+     "kǒng zi xué yuàn",
+     ""
+    ],
+    [
+     "",
+     "seulement ad",
+     "",
+     "fr/05621.mp3",
+     "zh/05621.mp3",
+     "",
+     "sclmä"
+    ],
+    [
+     "只仅仅",
+     "",
+     "",
+     "",
+     "zh/05622.mp3",
+     "zhǐ jǐn jǐn",
+     ""
+    ],
+    [
+     "意见一致",
+     "étredaccord",
+     "",
+     "fr/05623.mp3",
+     "zh/05623.mp3",
+     "yì jiàn yí zhì",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 5,
+   "name": "画室",
+   "w": [
+    [
+     "画家",
+     "peintre",
+     "m",
+     "fr/04468.mp3",
+     "zh/04468.mp3",
+     "huà jiā",
+     "ptr"
+    ],
+    [
+     "艺术家",
+     "artiste",
+     "",
+     "fr/04469.mp3",
+     "zh/04469.mp3",
+     "yì shù jiā",
+     "artist"
+    ],
+    [
+     "画",
+     "dessiner",
+     "",
+     "fr/04470.mp3",
+     "zh/04470.mp3",
+     "huà",
+     "desine"
+    ],
+    [
+     "画",
+     "peindre",
+     "",
+     "fr/04471.mp3",
+     "zh/04471.mp3",
+     "huà",
+     "p&dr"
+    ],
+    [
+     "画画",
+     "faire de la pein turet.",
+     "",
+     "fr/04472.mp3",
+     "zh/04472.mp3",
+     "huà huà",
+     "feir dala p&:tyr"
+    ],
+    [
+     "人物",
+     "personnage",
+     "m.",
+     "fr/04473.mp3",
+     "zh/04473.mp3",
+     "rén wù",
+     "personai3"
+    ],
+    [
+     "模特",
+     "mannequin",
+     "m.",
+     "fr/04474.mp3",
+     "zh/04474.mp3",
+     "mó tè",
+     "mank&"
+    ],
+    [
+     "水粉画",
+     "kgouache [gwa",
+     "f.",
+     "fr/04475.mp3",
+     "zh/04475.mp3",
+     "shuǐ fěn huà",
+     ""
+    ],
+    [
+     "风景画",
+     "paysage",
+     "m.",
+     "fr/04476.mp3",
+     "zh/04476.mp3",
+     "fēng jǐng huà",
+     "peiza:3"
+    ],
+    [
+     "油画",
+     "peintureal'huile",
+     "f",
+     "fr/04477.mp3",
+     "zh/04477.mp3",
+     "yóu huà",
+     "péty:r a luil"
+    ],
+    [
+     "水彩画",
+     "kaquarelle /.",
+     "",
+     "fr/04478.mp3",
+     "zh/04478.mp3",
+     "shuǐ cǎi huà",
+     "akwarel"
+    ],
+    [
+     "画架",
+     "chevalet (a)vale]",
+     "m.",
+     "fr/04479.mp3",
+     "zh/04479.mp3",
+     "huà jià",
+     ""
+    ],
+    [
+     "画夹",
+     "carto",
+     "nm",
+     "fr/04480.mp3",
+     "zh/04480.mp3",
+     "huà jiā",
+     "kart"
+    ],
+    [
+     "画笔",
+     "brosse",
+     "",
+     "fr/04481.mp3",
+     "zh/04481.mp3",
+     "huà bǐ",
+     "bros"
+    ],
+    [
+     "素描",
+     "esquisse",
+     "",
+     "fr/04482.mp3",
+     "zh/04482.mp3",
+     "sù miáo",
+     "eskis"
+    ],
+    [
+     "橡皮",
+     "gomme",
+     "m",
+     "fr/04483.mp3",
+     "zh/04483.mp3",
+     "xiàng pí",
+     "gom"
+    ],
+    [
+     "颜料画画",
+     "pigment faire de la peinture",
+     "",
+     "fr/04484.mp3",
+     "zh/04484.mp3",
+     "yán liào huà huà",
+     "pigmá"
+    ],
+    [
+     "取消",
+     "supprimer",
+     "",
+     "fr/05624.mp3",
+     "zh/05624.mp3",
+     "qǔ xiāo",
+     "syprime"
+    ],
+    [
+     "粘贴除去这阴影的勇气都没有动复制",
+     "cotler. copier",
+     "",
+     "fr/05625.mp3",
+     "zh/05625.mp3",
+     "zhān tiē chú qù zhè yīn yǐng de yǒng qì dōu méi yǒu dòng fù zhì",
+     "kole"
+    ],
+    [
+     "剪切",
+     "cisailler",
+     "",
+     "fr/05626.mp3",
+     "zh/05626.mp3",
+     "jiǎn qiè",
+     "sizaje"
+    ],
+    [
+     "点击",
+     "cliquer",
+     "",
+     "fr/05627.mp3",
+     "zh/05627.mp3",
+     "diǎn jī",
+     "klike"
+    ],
+    [
+     "双击",
+     "double-cliquer i.",
+     "",
+     "fr/05628.mp3",
+     "zh/05628.mp3",
+     "shuāng jī",
+     "dubl klike"
+    ],
+    [
+     "回车",
+     "entrer i.",
+     "",
+     "fr/05629.mp3",
+     "zh/05629.mp3",
+     "huí chē",
+     "ätre"
+    ],
+    [
+     "打字",
+     "Tfrappe",
+     "",
+     "fr/05630.mp3",
+     "zh/05630.mp3",
+     "dǎ zì",
+     "frap"
+    ],
+    [
+     "空格",
+     "espace",
+     "m.",
+     "fr/05631.mp3",
+     "zh/05631.mp3",
+     "kòng gé",
+     "espas"
+    ],
+    [
+     "关机",
+     "fermeture /.",
+     "",
+     "fr/05632.mp3",
+     "zh/05632.mp3",
+     "guān jī",
+     "fermatyr"
+    ],
+    [
+     "睡眠",
+     "sommeil",
+     "m.",
+     "fr/05633.mp3",
+     "zh/05633.mp3",
+     "shuì mián",
+     "somej"
+    ],
+    [
+     "播放",
+     "émettre",
+     "",
+     "fr/05634.mp3",
+     "zh/05634.mp3",
+     "bō fàng",
+     "emetr"
+    ],
+    [
+     "连接",
+     "lier",
+     "",
+     "fr/05635.mp3",
+     "zh/05635.mp3",
+     "lián jiē",
+     "lje"
+    ],
+    [
+     "下载",
+     "télécharger",
+     "",
+     "fr/05636.mp3",
+     "zh/05636.mp3",
+     "xià zài",
+     "telefarze"
+    ],
+    [
+     "存储",
+     "mmorisation ].",
+     "",
+     "fr/05637.mp3",
+     "zh/05637.mp3",
+     "cún chǔ",
+     "memorizasj5"
+    ],
+    [
+     "删除",
+     "enlever",
+     "",
+     "fr/05638.mp3",
+     "zh/05638.mp3",
+     "shān chú",
+     "älve"
+    ],
+    [
+     "锁定",
+     "fixer",
+     "",
+     "fr/05639.mp3",
+     "zh/05639.mp3",
+     "suǒ dìng",
+     "fikse"
+    ]
+   ],
+   "s": [
+    [
+     "Lartiste passionné juste mentionné est ma femme. Un sourire se dessina sur ses lvres.- ill. Cet auteur caractérise bien ses personnages. Personne n imaginerait que ce jeune mannequin nest qu'une écoliere agée de 10 ans.",
+     "刚提到的狂热艺术家是我的妻子。一丝微笑浮现在他唇边这个作家善于刻画人物的特点。没人能想象到这名嫩模只是个小学生，年仅10岁。",
+     "《闻女孩》",
+     "fr/04485.mp3",
+     "zh/04485.mp3",
+     "gāng tí dào de kuáng rè yì shù jiā shì wǒ de qī zǐ yī sī wēi xiào fú xiàn zài tā chún biān zhè ge zuò jiā shàn yú kè huà rén wù de tè diǎn méi rén néng xiǎng xiàng dào zhè míng nèn mó zhǐ shì gè xiǎo xué shēng nián jǐn suì",
+     ""
+    ],
+    [
+     "Les paysages y sont aussi beaux que ceux du paradis.",
+     "景色像天堂一样美。",
+     "",
+     "fr/04486.mp3",
+     "zh/04486.mp3",
+     "jǐng sè xiàng tiān táng yī yàng měi",
+     ""
+    ],
+    [
+     "Regarde bien les tiroirs pour trouver ta gomme.",
+     "你仔细查看一下抽屉看能不能找到你的橡皮。",
+     "",
+     "fr/04487.mp3",
+     "zh/04487.mp3",
+     "nǐ zǐ xì chá kàn yī xià chōu tì kàn néng bù néng zhǎo dào nǐ de xiàng pí",
+     ""
+    ],
+    [
+     "Sil le na pas le courage de supprimer cette ombre,il est vraiment désespérée.",
+     "如果连那就真的是无药可救了。",
+     "",
+     "fr/05640.mp3",
+     "zh/05640.mp3",
+     "rú guǒ lián nà jiù zhēn de shì wú yào kě jiù le",
+     ""
+    ],
+    [
+     "Merci de cliquer sur la Société, sil vous plait lire les informations. X.",
+     "谢谢你点击本公司欢迎阅读有关信息",
+     "",
+     "fr/05641.mp3",
+     "zh/05641.mp3",
+     "xiè xiè nǐ diǎn jī běn gōng sī huān yíng yuè dú yǒu guān xìn xī",
+     ""
+    ],
+    [
+     "Je préfere acheter et telécharger des albums sur Internet. FH",
+     "我更喜欢在网上购买和下载唱片集",
+     "",
+     "fr/05642.mp3",
+     "zh/05642.mp3",
+     "wǒ gèng xǐ huān zài wǎng shàng gòu mǎi hé xià zài chàng piàn jí",
+     ""
+    ],
+    [
+     "II ny a que vous pour dé- cider ou vous voulez aller, pour fixer votre but et pour manifester-votre volonté de réussir. Tenez mordicus a vos eves",
+     "只有你自己才能决定自己的道路，确定自己的目标，表现出取得成功的决心。执著你的梦想吧！",
+     "",
+     "fr/05643.mp3",
+     "zh/05643.mp3",
+     "zhǐ yǒu nǐ zì jǐ cái néng jué dìng zì jǐ de dào lù què dìng zì jǐ de mù biāo biǎo xiàn chū qǔ dé chéng gōng de jué xīn zhí zhuó nǐ de mèng xiǎng ba",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "passionnée",
+     "",
+     "fr/04488.mp3",
+     "zh/04488.mp3",
+     "",
+     ""
+    ],
+    [
+     "热情的",
+     "",
+     "adj.",
+     "",
+     "zh/04489.mp3",
+     "rè qíng de",
+     "pa(asjone"
+    ],
+    [
+     "嘴唇",
+     "levre",
+     "",
+     "fr/04490.mp3",
+     "zh/04490.mp3",
+     "zuǐ chún",
+     "lvr"
+    ],
+    [
+     "",
+     "caractériser",
+     "",
+     "fr/04491.mp3",
+     "zh/04491.mp3",
+     "",
+     "karakterize"
+    ],
+    [
+     "显示特征",
+     "",
+     "",
+     "",
+     "zh/04492.mp3",
+     "xiǎn shì tè zhēng",
+     ""
+    ],
+    [
+     "",
+     "écolier,ere",
+     "",
+     "fr/04493.mp3",
+     "zh/04493.mp3",
+     "",
+     "ekolje,er"
+    ],
+    [
+     "小学生",
+     "",
+     "",
+     "",
+     "zh/04494.mp3",
+     "xiǎo xué shēng",
+     ""
+    ],
+    [
+     "影",
+     "ombre 5:br] n.",
+     "",
+     "fr/05644.mp3",
+     "zh/05644.mp3",
+     "yǐng",
+     ""
+    ],
+    [
+     "",
+     "désespéré,e",
+     "",
+     "fr/05645.mp3",
+     "zh/05645.mp3",
+     "",
+     ""
+    ],
+    [
+     "失望的",
+     "",
+     "adj.",
+     "",
+     "zh/05646.mp3",
+     "shī wàng de",
+     "dezespere"
+    ],
+    [
+     "唱片",
+     "album",
+     "n.m",
+     "fr/05647.mp3",
+     "zh/05647.mp3",
+     "chàng piàn",
+     "albom"
+    ],
+    [
+     "",
+     "manifester",
+     "",
+     "fr/05648.mp3",
+     "zh/05648.mp3",
+     "",
+     "manifeste"
+    ],
+    [
+     "表现表达",
+     "VL..",
+     "",
+     "fr/05649.mp3",
+     "zh/05649.mp3",
+     "biǎo xiàn biǎo dá",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 6,
+   "name": "实验室",
+   "w": [
+    [
+     "实验室",
+     "laboratoire",
+     "m.",
+     "fr/04495.mp3",
+     "zh/04495.mp3",
+     "shí yàn shì",
+     "laboratwarr"
+    ],
+    [
+     "实验室",
+     "labora toire d'expériences",
+     "m.",
+     "fr/04496.mp3",
+     "zh/04496.mp3",
+     "shí yàn shì",
+     "laboratwa:r deks- perjás"
+    ],
+    [
+     "试管",
+     "éprouvette /",
+     "",
+     "fr/04497.mp3",
+     "zh/04497.mp3",
+     "shì guǎn",
+     "epruvet"
+    ],
+    [
+     "烧杯",
+     "becher",
+     "m.",
+     "fr/04498.mp3",
+     "zh/04498.mp3",
+     "shāo bēi",
+     "beee"
+    ],
+    [
+     "酒精灯励培养",
+     "lampe a alcool / cultiver",
+     "",
+     "fr/04499.mp3",
+     "zh/04499.mp3",
+     "jiǔ jīng dēng lì péi yǎng",
+     "lásp a alkol"
+    ],
+    [
+     "搅拌励收集",
+     "mélanger t. collectionner",
+     "",
+     "fr/04500.mp3",
+     "zh/04500.mp3",
+     "jiǎo bàn lì shōu jí",
+     "meláze"
+    ],
+    [
+     "研究",
+     "étudier",
+     "",
+     "fr/04501.mp3",
+     "zh/04501.mp3",
+     "yán jiū",
+     "etydje"
+    ],
+    [
+     "实验",
+     "expérimentation /",
+     "",
+     "fr/04502.mp3",
+     "zh/04502.mp3",
+     "shí yàn",
+     "eksperimáta(a)sj5"
+    ],
+    [
+     "方法",
+     "méthode",
+     "f.",
+     "fr/04503.mp3",
+     "zh/04503.mp3",
+     "fāng fǎ",
+     "metod"
+    ],
+    [
+     "微生物",
+     "micro organisme",
+     "m.",
+     "fr/04504.mp3",
+     "zh/04504.mp3",
+     "wēi shēng wù",
+     "mikroorganism"
+    ],
+    [
+     "显微镜",
+     "microscope",
+     "m.",
+     "fr/04506.mp3",
+     "zh/04506.mp3",
+     "xiǎn wēi jìng",
+     "mikroskop"
+    ],
+    [
+     "稀释",
+     "diluer",
+     "",
+     "fr/04507.mp3",
+     "zh/04507.mp3",
+     "xī shì",
+     "dilue"
+    ],
+    [
+     "液态的",
+     "liquide",
+     "",
+     "fr/04508.mp3",
+     "zh/04508.mp3",
+     "yè tài de",
+     "likid"
+    ],
+    [
+     "固态的",
+     "solide",
+     "",
+     "fr/04509.mp3",
+     "zh/04509.mp3",
+     "gù tài de",
+     "solid"
+    ],
+    [
+     "气态的",
+     "aériforme",
+     "",
+     "fr/04510.mp3",
+     "zh/04510.mp3",
+     "qì tài de",
+     "aerifom"
+    ],
+    [
+     "氧气",
+     "oxygene",
+     "m.",
+     "fr/04511.mp3",
+     "zh/04511.mp3",
+     "yǎng qì",
+     "Dksizen"
+    ],
+    [
+     "扫描仪短用传真机传送",
+     "scanneur transmis par fax",
+     "",
+     "fr/05650.mp3",
+     "zh/05650.mp3",
+     "sǎo miáo yí duǎn yòng chuán zhēn jī chuán sòng",
+     "skancr"
+    ],
+    [
+     "传真机",
+     "fax machine",
+     "",
+     "fr/05651.mp3",
+     "zh/05651.mp3",
+     "chuán zhēn jī",
+     "faks mafin"
+    ],
+    [
+     "传真号码",
+     "numéro de fax",
+     "m.",
+     "fr/05652.mp3",
+     "zh/05652.mp3",
+     "chuán zhēn hào mǎ",
+     "nymero da faks"
+    ],
+    [
+     "使模糊",
+     "brouiller t.",
+     "",
+     "fr/05653.mp3",
+     "zh/05653.mp3",
+     "shǐ mó hú",
+     "bruje"
+    ],
+    [
+     "看不清的",
+     "trouble",
+     "",
+     "fr/05654.mp3",
+     "zh/05654.mp3",
+     "kàn bù qīng de",
+     "trubl"
+    ],
+    [
+     "模糊的",
+     "estompé",
+     "",
+     "fr/05655.mp3",
+     "zh/05655.mp3",
+     "mó hú de",
+     "est5pe"
+    ],
+    [
+     "副本",
+     "extrait",
+     "m",
+     "fr/05656.mp3",
+     "zh/05656.mp3",
+     "fù běn",
+     "ekstre"
+    ],
+    [
+     "着色剂",
+     "toner[toncer",
+     "m",
+     "fr/05657.mp3",
+     "zh/05657.mp3",
+     "zhuó sè jì",
+     ""
+    ],
+    [
+     "丢失的",
+     "perdu a(m)",
+     "",
+     "fr/05658.mp3",
+     "zh/05658.mp3",
+     "diū shī de",
+     "perdy"
+    ],
+    [
+     "拨号",
+     "composer le numéro",
+     "m.",
+     "fr/05659.mp3",
+     "zh/05659.mp3",
+     "bō hào",
+     "kpoze la nymero"
+    ],
+    [
+     "安装",
+     "installer",
+     "",
+     "fr/05660.mp3",
+     "zh/05660.mp3",
+     "ān zhuāng",
+     "&stale"
+    ],
+    [
+     "线路故障",
+     "défaut de ligne",
+     "f",
+     "fr/05661.mp3",
+     "zh/05661.mp3",
+     "xiàn lù gù zhàng",
+     "defo da lin"
+    ],
+    [
+     "图像",
+     "imageima3]",
+     "",
+     "fr/05662.mp3",
+     "zh/05662.mp3",
+     "tú xiàng",
+     ""
+    ]
+   ],
+   "s": [
+    [
+     "Il est fréquemment tres oc- cupe, court parfois a la biblio- théque,travaille parfois au la boratoire. I Il semble qu'il vaudrait mieux changer de methode.",
+     "他经常忙忙禄碌有时候跑图书馆，有时候去实验室工作看来最好换个方法。",
+     "",
+     "fr/04512.mp3",
+     "zh/04512.mp3",
+     "tā jīng cháng máng máng lù lù yǒu shí hòu pǎo tú shū guǎn yǒu shí hòu qù shí yàn shì gōng zuò kàn lái zuì hǎo huàn gè fāng fǎ",
+     ""
+    ],
+    [
+     "On ne choisit pas oublier choisir collectionner, et col- lectionner dans l'abime de Iame.",
+     "如果不能继续不用选择忘记，请选择收藏，收藏在心灵深处。",
+     "",
+     "fr/04513.mp3",
+     "zh/04513.mp3",
+     "rú guǒ bù néng jì xù bù yòng xuǎn zé wàng jì qǐng xuǎn zé shōu cáng shōu cáng zài xīn líng shēn chù",
+     ""
+    ],
+    [
+     "Je peux vous entendre ins- pirer de l'oxygene et expirer le dioxyde de carbone.",
+     "我可以听到你们在吸入氧气，呼出二氧化碳。",
+     "《生活大爆炸》",
+     "fr/04514.mp3",
+     "zh/04514.mp3",
+     "wǒ kě yǐ tīng dào nǐ men zài xī rù yǎng qì hū chū èr yǎng huà tàn",
+     ""
+    ],
+    [
+     "Il nous faut une photocop- ieuse et un faxmachine.",
+     "我们需要一台复印机和一台传真机。",
+     "",
+     "fr/05663.mp3",
+     "zh/05663.mp3",
+     "wǒ men xū yào yī tái fù yìn jī hé yī tái chuán zhēn jī",
+     ""
+    ],
+    [
+     "Je fais appel au service de reproduction de la bibliotheque pour photocopier certains documents.",
+     "我求助于图书馆的复印部，复印一些资料。",
+     "",
+     "fr/05664.mp3",
+     "zh/05664.mp3",
+     "wǒ qiú zhù yú tú shū guǎn de fù yìn bù fù yìn yī xiē zī liào",
+     ""
+    ],
+    [
+     "] La buée brouille les verres demes lunettes.",
+     "水汽使我的眼镜片模糊不清。",
+     "",
+     "fr/05665.mp3",
+     "zh/05665.mp3",
+     "shuǐ qì shǐ wǒ de yǎn jìng piàn mó hú bù qīng",
+     ""
+    ],
+    [
+     "C'est un extrait de roman. -A-",
+     "这是一本小说的一段摘录",
+     "",
+     "fr/05666.mp3",
+     "zh/05666.mp3",
+     "zhè shì yī běn xiǎo shuō de yī duàn zhāi lù",
+     ""
+    ],
+    [
+     "Bonjour,vous composez le numero de téléphone est vide s'il vous plait vérifier puis de composition.",
+     "您好您拔打的电话是空号，请查证后再拨。",
+     "",
+     "fr/05667.mp3",
+     "zh/05667.mp3",
+     "nín hǎo nín bá dǎ dī diàn huà shì kōng hào qǐng chá zhèng hòu zài bō",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "bibliotheque",
+     "",
+     "fr/04515.mp3",
+     "zh/04515.mp3",
+     "",
+     "biblijtek"
+    ],
+    [
+     "深渊",
+     "abime",
+     "n.m.",
+     "fr/04516.mp3",
+     "zh/04516.mp3",
+     "shēn yuān",
+     "abim"
+    ],
+    [
+     "意见见解",
+     "amen.m..",
+     "",
+     "fr/04517.mp3",
+     "zh/04517.mp3",
+     "yì jiàn jiàn jiě",
+     "am"
+    ],
+    [
+     "碳",
+     "carbone .",
+     "m.",
+     "fr/04518.mp3",
+     "zh/04518.mp3",
+     "tàn",
+     "karbon"
+    ],
+    [
+     "酒精灯",
+     "T lampe a alcool",
+     "",
+     "fr/04519.mp3",
+     "zh/04519.mp3",
+     "jiǔ jīng dēng",
+     ""
+    ],
+    [
+     "水汽",
+     "buéek",
+     "",
+     "fr/05668.mp3",
+     "zh/05668.mp3",
+     "shuǐ qì",
+     "bye"
+    ],
+    [
+     "",
+     "composition",
+     "",
+     "fr/05669.mp3",
+     "zh/05669.mp3",
+     "",
+     "kpozisj"
+    ],
+    [
+     "拨打",
+     "",
+     "",
+     "",
+     "zh/05670.mp3",
+     "bō dǎ",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 7,
+   "name": "校园人员",
+   "w": [
+    [
+     "学生",
+     "étudiant,e",
+     "",
+     "fr/04520.mp3",
+     "zh/04520.mp3",
+     "xué shēng",
+     "etydä, t"
+    ],
+    [
+     "同学",
+     "camarade",
+     "",
+     "fr/04521.mp3",
+     "zh/04521.mp3",
+     "tóng xué",
+     "kamarad"
+    ],
+    [
+     "同学",
+     "condisciple",
+     "m.",
+     "fr/04522.mp3",
+     "zh/04522.mp3",
+     "tóng xué",
+     "kšdisipl"
+    ],
+    [
+     "男生",
+     "écolier",
+     "m.",
+     "fr/04523.mp3",
+     "zh/04523.mp3",
+     "nán shēng",
+     "ekolje"
+    ],
+    [
+     "女生",
+     "écoliere",
+     "f.",
+     "fr/04524.mp3",
+     "zh/04524.mp3",
+     "nǚ shēng",
+     "ekolje:r"
+    ],
+    [
+     "旁听生",
+     "auditeur libre",
+     "m.",
+     "fr/04525.mp3",
+     "zh/04525.mp3",
+     "páng tīng shēng",
+     "oditxer libr"
+    ],
+    [
+     "教授",
+     "professeur",
+     "m.",
+     "fr/04526.mp3",
+     "zh/04526.mp3",
+     "jiào shòu",
+     "profee)sc:r"
+    ],
+    [
+     "授课",
+     "enseigner",
+     "",
+     "fr/04527.mp3",
+     "zh/04527.mp3",
+     "shòu kè",
+     "äse(ene"
+    ],
+    [
+     "助教",
+     "assistant",
+     "",
+     "fr/04528.mp3",
+     "zh/04528.mp3",
+     "zhù jiào",
+     "asista,át"
+    ],
+    [
+     "校长",
+     "directeur trice",
+     "",
+     "fr/04529.mp3",
+     "zh/04529.mp3",
+     "xiào zhǎng",
+     "direktr,tris"
+    ],
+    [
+     "副手",
+     "seconde",
+     "m",
+     "fr/04530.mp3",
+     "zh/04530.mp3",
+     "fù shǒu",
+     "sa)g5,5:d"
+    ],
+    [
+     "代理的",
+     "intérimaire",
+     "",
+     "fr/04531.mp3",
+     "zh/04531.mp3",
+     "dài lǐ de",
+     "&terime:r"
+    ],
+    [
+     "校长",
+     "présidente",
+     "",
+     "fr/04532.mp3",
+     "zh/04532.mp3",
+     "xiào zhǎng",
+     "prezida,át"
+    ],
+    [
+     "院长",
+     "doyenne",
+     "",
+     "fr/04533.mp3",
+     "zh/04533.mp3",
+     "yuàn zhǎng",
+     "dwaj, cn"
+    ],
+    [
+     "导师",
+     "éducateur,trice",
+     "m.",
+     "fr/04534.mp3",
+     "zh/04534.mp3",
+     "dǎo shī",
+     "dykatr,tris"
+    ],
+    [
+     "行政人员",
+     "personne administrative /",
+     "",
+     "fr/04535.mp3",
+     "zh/04535.mp3",
+     "xíng zhèng rén yuán",
+     "person administrativ"
+    ],
+    [
+     "转校生",
+     "eleves de transfert",
+     "",
+     "fr/04536.mp3",
+     "zh/04536.mp3",
+     "zhuǎn xiào shēng",
+     "elexv d trásfe:r"
+    ]
+   ],
+   "s": [
+    [
+     "La carte détudiant donne droit a une réduction pour le voyage en train.",
+     "凭学生证可买到减价的火车票旅行。",
+     "",
+     "fr/04537.mp3",
+     "zh/04537.mp3",
+     "píng xué shēng zhèng kě mǎi dào jiǎn jià de huǒ chē piào lǚ xíng",
+     ""
+    ],
+    [
+     "Le professeur doit en courager les éleves a penser dcux-memes. Le directeur trouve l'ang lais plus primordialque le chinois. XIX.",
+     "老师应该鼓励学生独立思考。校长认为英语比语文重要",
+     "",
+     "fr/04538.mp3",
+     "zh/04538.mp3",
+     "lǎo shī yīng gāi gǔ lì xué shēng dú lì sī kǎo xiào zhǎng rèn wéi yīng yǔ bǐ yǔ wén zhòng yào",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "réduction",
+     "nf.",
+     "fr/04539.mp3",
+     "zh/04539.mp3",
+     "",
+     "redyksjö"
+    ],
+    [
+     "减少",
+     "",
+     "F",
+     "",
+     "zh/04540.mp3",
+     "jiǎn shǎo",
+     ""
+    ],
+    [
+     "",
+     "encourager",
+     "",
+     "fr/04541.mp3",
+     "zh/04541.mp3",
+     "",
+     "äkuraze"
+    ],
+    [
+     "鼓励",
+     "",
+     "",
+     "",
+     "zh/04542.mp3",
+     "gǔ lì",
+     ""
+    ],
+    [
+     "",
+     "primordial,e,aux",
+     "",
+     "fr/04543.mp3",
+     "zh/04543.mp3",
+     "",
+     ""
+    ],
+    [
+     "原始的",
+     "",
+     "",
+     "",
+     "zh/04544.mp3",
+     "yuán shǐ de",
+     "primordjal,o"
+    ],
+    [
+     "最初的",
+     "",
+     "",
+     "",
+     "zh/04545.mp3",
+     "zuì chū de",
+     ""
+    ],
+    [
+     "学生",
+     "etudiant.e",
+     "",
+     "fr/04546.mp3",
+     "zh/04546.mp3",
+     "xué shēng",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 8,
+   "name": "常见院系",
+   "w": [
+    [
+     "教育学",
+     "pédagogie /",
+     "",
+     "fr/04547.mp3",
+     "zh/04547.mp3",
+     "jiào yù xué",
+     "pedago3i"
+    ],
+    [
+     "计算机系",
+     "Départe ment d'lnformatique",
+     "m.",
+     "fr/04548.mp3",
+     "zh/04548.mp3",
+     "jì suàn jī xì",
+     "departamä dafor- matik"
+    ],
+    [
+     "艺术",
+     "art",
+     "m.",
+     "fr/04549.mp3",
+     "zh/04549.mp3",
+     "yì shù",
+     "ar"
+    ],
+    [
+     "海洋科学",
+     "sciences de la mer",
+     "f.",
+     "fr/04550.mp3",
+     "zh/04550.mp3",
+     "hǎi yáng kē xué",
+     "sjäs dala me:r"
+    ],
+    [
+     "海洋技术",
+     "technologie marine /.",
+     "",
+     "fr/04551.mp3",
+     "zh/04551.mp3",
+     "hǎi yáng jì shù",
+     "teknolozi marin"
+    ],
+    [
+     "自动化",
+     "automatisation /.",
+     "",
+     "fr/04552.mp3",
+     "zh/04552.mp3",
+     "zì dòng huà",
+     "(o)tomatiza(a)sj5"
+    ],
+    [
+     "电子",
+     "électron",
+     "m.",
+     "fr/04553.mp3",
+     "zh/04553.mp3",
+     "diàn zi",
+     "elektr5"
+    ],
+    [
+     "交通",
+     "transport",
+     "m.",
+     "fr/04554.mp3",
+     "zh/04554.mp3",
+     "jiāo tōng",
+     "trasporr"
+    ],
+    [
+     "化学",
+     "chimieimi]",
+     "f.",
+     "fr/04555.mp3",
+     "zh/04555.mp3",
+     "huà xué",
+     ""
+    ],
+    [
+     "物理",
+     "physique /",
+     "",
+     "fr/04556.mp3",
+     "zh/04556.mp3",
+     "wù lǐ",
+     "fizik"
+    ],
+    [
+     "航天",
+     "aérospatial,e",
+     "",
+     "fr/04557.mp3",
+     "zh/04557.mp3",
+     "háng tiān",
+     "aerospasjal"
+    ],
+    [
+     "光学",
+     "optique",
+     "",
+     "fr/04558.mp3",
+     "zh/04558.mp3",
+     "guāng xué",
+     "ptik"
+    ],
+    [
+     "生物",
+     "biologie",
+     "",
+     "fr/04559.mp3",
+     "zh/04559.mp3",
+     "shēng wù",
+     "bjolo3i"
+    ],
+    [
+     "管理",
+     "management",
+     "m.",
+     "fr/04560.mp3",
+     "zh/04560.mp3",
+     "guǎn lǐ",
+     "manazmá"
+    ],
+    [
+     "语言",
+     "languelagl",
+     "f",
+     "fr/04561.mp3",
+     "zh/04561.mp3",
+     "yǔ yán",
+     ""
+    ],
+    [
+     "财务",
+     "finances .",
+     "",
+     "fr/04562.mp3",
+     "zh/04562.mp3",
+     "cái wù",
+     "finás"
+    ],
+    [
+     "营销",
+     "marketing",
+     "m.",
+     "fr/04563.mp3",
+     "zh/04563.mp3",
+     "yíng xiāo",
+     "marketin"
+    ],
+    [
+     "人力资源",
+     "ressources humainesy:",
+     "",
+     "fr/04564.mp3",
+     "zh/04564.mp3",
+     "rén lì zī yuán",
+     "r(a)surs ymen"
+    ]
+   ],
+   "s": [
+    [
+     "Le Musée d'art moderne se trouve au Centre Pom- pidou.C'est le plus grand musée d'art moderne du monde.T +HE",
+     "现代艺术博物馆位于莲皮杜中心这是世界上最大的现代艺术博物馆。",
+     "",
+     "fr/04565.mp3",
+     "zh/04565.mp3",
+     "xiàn dài yì shù bó wù guǎn wèi yú lián pí dù zhōng xīn zhè shì shì jiè shàng zuì dà de xiàn dài yì shù bó wù guǎn",
+     ""
+    ],
+    [
+     "Nous allons dans les pro- chaines années pour parvenir a une automatisation de la production, axée sur la popu- lation, renforcer la gestion, la cooperation sincere avec la clientele, main dans la main!",
+     "我们将在未来几年内实现全面自动化生产，以人为本，加强管理，与客户真诚合作，携手共进！",
+     "",
+     "fr/04566.mp3",
+     "zh/04566.mp3",
+     "wǒ men jiāng zài wèi lái jǐ nián nèi shí xiàn quán miàn zì dòng huà shēng chǎn yǐ rén wéi běn jiā qiáng guǎn lǐ yǔ kè hù zhēn chéng hé zuò xié shǒu gòng jìn",
+     ""
+    ],
+    [
+     "La gravité de la mort d'une langue ne consiste pas a cette chose en soi, mais consiste a ce qu'elle pouvait apporter. THE x#+",
+     "一种语言灭亡的严重性不在于这件事情本身而在于它的灭亡带来了什么冲击",
+     "",
+     "fr/04567.mp3",
+     "zh/04567.mp3",
+     "yī zhǒng yǔ yán miè wáng de yán zhòng xìng bù zài yú zhè jiàn shì qíng běn shēn ér zài yú tā de miè wáng dài lái le shén me chōng jī",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "renforcer",
+     "vt",
+     "fr/04568.mp3",
+     "zh/04568.mp3",
+     "",
+     "räforse"
+    ],
+    [
+     "加强",
+     "",
+     "",
+     "",
+     "zh/04569.mp3",
+     "jiā qiáng",
+     ""
+    ],
+    [
+     "",
+     "coopération",
+     "",
+     "fr/04570.mp3",
+     "zh/04570.mp3",
+     "",
+     ""
+    ],
+    [
+     "合作",
+     "",
+     "nf.",
+     "",
+     "zh/04571.mp3",
+     "hé zuò",
+     "koperaasj5"
+    ],
+    [
+     "顾客",
+     "clientele",
+     "f.",
+     "fr/04572.mp3",
+     "zh/04572.mp3",
+     "gù kè",
+     "klijátel"
+    ],
+    [
+     "招致",
+     "apporter v.",
+     "",
+     "fr/04573.mp3",
+     "zh/04573.mp3",
+     "zhāo zhì",
+     "aporte"
+    ]
+   ]
+  },
+  {
+   "no": 9,
+   "name": "图书馆",
+   "w": [
+    [
+     "图书馆",
+     "bibliotheque",
+     "",
+     "fr/04574.mp3",
+     "zh/04574.mp3",
+     "tú shū guǎn",
+     "biblijotek"
+    ],
+    [
+     "借",
+     "emprunter t",
+     "",
+     "fr/04575.mp3",
+     "zh/04575.mp3",
+     "jiè",
+     "áprate"
+    ],
+    [
+     "借",
+     "preter",
+     "",
+     "fr/04576.mp3",
+     "zh/04576.mp3",
+     "jiè",
+     "preete"
+    ],
+    [
+     "目录",
+     "catalogue",
+     "m.",
+     "fr/04577.mp3",
+     "zh/04577.mp3",
+     "mù lù",
+     "katalog"
+    ],
+    [
+     "租赁期限",
+     "durée du bail",
+     "f.",
+     "fr/04578.mp3",
+     "zh/04578.mp3",
+     "zū lìn qī xiàn",
+     "dyre dy baj"
+    ],
+    [
+     "搜索",
+     "rechercher",
+     "",
+     "fr/04579.mp3",
+     "zh/04579.mp3",
+     "sōu suǒ",
+     "raerfe"
+    ],
+    [
+     "预约",
+     "souscrire .",
+     "",
+     "fr/04580.mp3",
+     "zh/04580.mp3",
+     "yù yuē",
+     "suskrir"
+    ],
+    [
+     "书架",
+     "étagere /",
+     "",
+     "fr/04581.mp3",
+     "zh/04581.mp3",
+     "shū jià",
+     "etazeir"
+    ],
+    [
+     "安静的",
+     "silencieuxse",
+     "",
+     "fr/04582.mp3",
+     "zh/04582.mp3",
+     "ān jìng de",
+     "siläsja, :z"
+    ],
+    [
+     "寂静的",
+     "calme",
+     "",
+     "fr/04583.mp3",
+     "zh/04583.mp3",
+     "jì jìng de",
+     "kalm"
+    ],
+    [
+     "到期的",
+     "échéante",
+     "",
+     "fr/04584.mp3",
+     "zh/04584.mp3",
+     "dào qī de",
+     "efea,t"
+    ],
+    [
+     "过期的",
+     "périmé,e",
+     "",
+     "fr/04585.mp3",
+     "zh/04585.mp3",
+     "guò qī de",
+     "perime"
+    ],
+    [
+     "借阅部",
+     "Département de pret",
+     "m.",
+     "fr/04586.mp3",
+     "zh/04586.mp3",
+     "jiè yuè bù",
+     "departamä da pre"
+    ],
+    [
+     "盖印记",
+     "Couverture d'empreinte",
+     "f.",
+     "fr/04587.mp3",
+     "zh/04587.mp3",
+     "gài yìn jì",
+     "kuvertyer daprt:t"
+    ],
+    [
+     "扫描机",
+     "scanner",
+     "m.",
+     "fr/04588.mp3",
+     "zh/04588.mp3",
+     "sǎo miáo jī",
+     "skane"
+    ],
+    [
+     "阅览室",
+     "salle de la lecture/:",
+     "",
+     "fr/04589.mp3",
+     "zh/04589.mp3",
+     "yuè lǎn shì",
+     "sal dala lekty:r"
+    ],
+    [
+     "分类",
+     "classifier .",
+     "",
+     "fr/04590.mp3",
+     "zh/04590.mp3",
+     "fēn lèi",
+     "kla(a)sifje"
+    ]
+   ],
+   "s": [
+    [
+     "Une bibliotheque,cest le carrefour de tous les réves de 1humanite.-+",
+     "一座图书馆即是人类通往所有梦想的十字路口。",
+     "",
+     "fr/04591.mp3",
+     "zh/04591.mp3",
+     "yī zuò tú shū guǎn jí shì rén lèi tōng wǎng suǒ yǒu mèng xiǎng de shí zì lù kǒu",
+     ""
+    ],
+    [
+     "Le chomage de longue durée reste exceptionnelle- ment élevé,tandis que les abandons de recherche d'em ploi se multiplient. K",
+     "随着缀学求职的人越来越多长期失业的情况出人意料地增加了。",
+     "",
+     "fr/04592.mp3",
+     "zh/04592.mp3",
+     "suí zhe zhuì xué qiú zhí de rén yuè lái yuè duō cháng qī shī yè de qíng kuàng chū rén yì liào dì zēng jiā le",
+     ""
+    ],
+    [
+     "]N'avait pas choisi son so- leil etle recherchait. Le dictionnaire dont nous avons besoin n'est pas dans la salle de lecture.",
+     "没有选择寻觅阳光的照耀。我们需要的字典不在阅览室。",
+     "",
+     "fr/04593.mp3",
+     "zh/04593.mp3",
+     "méi yǒu xuǎn zé xún mì yáng guāng de zhào yào wǒ men xū yào de zì diǎn bù zài yuè lǎn shì",
+     ""
+    ],
+    [
+     "multiplier [myltiplie] v. dictionnaire [diksjone:r] nm.",
+     "外地使增加辞典",
+     "",
+     "fr/04600.mp3",
+     "zh/04600.mp3",
+     "wài dì shǐ zēng jiā cí diǎn",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "carrefour",
+     "n.m.",
+     "fr/04594.mp3",
+     "zh/04594.mp3",
+     "",
+     "karfu:r"
+    ],
+    [
+     "十字路口",
+     "",
+     "",
+     "",
+     "zh/04595.mp3",
+     "shí zì lù kǒu",
+     ""
+    ],
+    [
+     "",
+     "chömage",
+     "n.m.",
+     "fr/04596.mp3",
+     "zh/04596.mp3",
+     "",
+     "oma:3"
+    ],
+    [
+     "失业",
+     "",
+     "",
+     "",
+     "zh/04597.mp3",
+     "shī yè",
+     ""
+    ],
+    [
+     "",
+     "exceptionnellement",
+     "",
+     "fr/04598.mp3",
+     "zh/04598.mp3",
+     "",
+     ""
+    ],
+    [
+     "",
+     "ady",
+     "",
+     "fr/04599.mp3",
+     "zh/04599.mp3",
+     "",
+     "eksepsjonelma"
+    ]
+   ]
+  }
+ ]
+}

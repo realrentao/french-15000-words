@@ -1,1 +1,4237 @@
-window.BOOK_DATA=window.BOOK_DATA||{};window.BOOK_DATA[12]={"gid": 12, "no": "8", "name": "流行比赛", "gname": "休闲娱乐", "secs": [{"no": 1, "name": "第1节", "w": [["球类运动", "balle", "", "fr/07595.mp3", "zh/07595.mp3", "qiú lèi yùn dòng", "bal"], ["曲棍球", "hockey Dke]", "m", "fr/07596.mp3", "zh/07596.mp3", "qū gùn qiú", ""], ["网球", "tennis", "m.", "fr/07597.mp3", "zh/07597.mp3", "wǎng qiú", "teenis"], ["足球", "foot-ball", "m", "fr/07598.mp3", "zh/07598.mp3", "zú qiú", "futbol"], ["橄榄球", "rugbyrygbi]", "m", "fr/07599.mp3", "zh/07599.mp3", "gǎn lǎn qiú", ""], ["橄榄球", "ballon ovale", "m.", "fr/07600.mp3", "zh/07600.mp3", "gǎn lǎn qiú", "bal5 oval"], ["篮球", "basketball", "m.", "fr/07601.mp3", "zh/07601.mp3", "lán qiú", "basketbol"], ["排球", "volley-ball", "m.", "fr/07602.mp3", "zh/07602.mp3", "pái qiú", "volebol"], ["员打出擦网球", ".", "", "fr/07603.mp3", "zh/07603.mp3", "yuán dǎ chū cā wǎng qiú", ""], ["板球", "cricket", "m", "fr/07604.mp3", "zh/07604.mp3", "bǎn qiú", "kriket"], ["冰球", "khockey sur glace", "m.", "fr/07605.mp3", "zh/07605.mp3", "bīng qiú", "Dke syr glas"], ["棒球", "base-ball", "m.", "fr/07606.mp3", "zh/07606.mp3", "bàng qiú", "bezbol"], ["滚球", "boule pl.", "", "fr/07607.mp3", "zh/07607.mp3", "gǔn qiú", "bul"], ["马球足球", "polo foot-ball", "", "fr/07608.mp3", "zh/07608.mp3", "mǎ qiú zú qiú", "polo"], ["地球", "terre", "", "fr/07832.mp3", "zh/07832.mp3", "dì qiú", "ter"], ["地球", "giobe", "m.", "fr/07833.mp3", "zh/07833.mp3", "dì qiú", "glb"], ["半球", "hemisphere", "m.", "fr/07834.mp3", "zh/07834.mp3", "bàn qiú", "emisfer"], ["轴线", "axe", "m.", "fr/07835.mp3", "zh/07835.mp3", "zhóu xiàn", "aks"], ["经度", "longitude", "f.", "fr/07836.mp3", "zh/07836.mp3", "jīng dù", "153ityd"], ["纬度", "latitude", "", "fr/07837.mp3", "zh/07837.mp3", "wěi dù", "latityd"], ["北极圈", "tcercie arctique", "m.", "fr/07838.mp3", "zh/07838.mp3", "běi jí quān", "serkl arktik"], ["南极圈", "cercle antarc- tique", "m", "fr/07839.mp3", "zh/07839.mp3", "nán jí quān", "serklátarktik"], ["赤道", "équateur", "m.", "fr/07840.mp3", "zh/07840.mp3", "chì dào", "ekwater"], ["大洲", "continent", "m", "fr/07841.mp3", "zh/07841.mp3", "dà zhōu", "kština"], ["欧洲", "urope", "", "fr/07842.mp3", "zh/07842.mp3", "ōu zhōu", "rop"], ["亚洲", "Asie", "", "fr/07843.mp3", "zh/07843.mp3", "yà zhōu", "azi"], ["非洲", "Afrique", "", "fr/07844.mp3", "zh/07844.mp3", "fēi zhōu", "afrik"], ["大洋洲", "Oceanie y.", "", "fr/07845.mp3", "zh/07845.mp3", "dà yáng zhōu", "bseani"], ["南极洲", "continent antarctique", "m.", "fr/07846.mp3", "zh/07846.mp3", "nán jí zhōu", "ktinä átarktik"], ["北美洲", "tAmérique du nord", "", "fr/07847.mp3", "zh/07847.mp3", "běi měi zhōu", "amerik dy nor"], ["南美洲", "Amérique du sud", "", "fr/07848.mp3", "zh/07848.mp3", "nán měi zhōu", "amerik dy syd"]], "s": [["Les médias russes ont dif- fusé des images de l'actuel Pre mier ministre russe,Vladimir Poutine,en train de s'entrainer avec les plus grandes figures du hockey.", "俄罗斯媒体发布了现任总理普京与曲棍球大腕明星在一起训练的图像。", "", "fr/07609.mp3", "zh/07609.mp3", "é luó sī méi tǐ fā bù le xiàn rèn zǒng lǐ pǔ jīng yǔ qū gùn qiú dà wàn míng xīng zài yì qǐ xùn liàn de tú xiàng", ""], ["Un joueur de tennis en- voie ses balles de telle sorte quelles rasent le filet.", "网球运", "", "fr/07610.mp3", "zh/07610.mp3", "wǎng qiú yùn", ""], ["Ce soir il y aura un match de rugby de la France et I'An- gleterre,mais le probleme est je sois occupé par autre chose et je ne peux pas y aller. *T7.", "今天晚上又一场法国队和英国队的橄榄球比赛，可问题是我有事去不了", "", "fr/07611.mp3", "zh/07611.mp3", "jīn tiān wǎn shàng yòu yī cháng fǎ guó duì hé yīng guó duì de gǎn lǎn qiú bǐ sài kě wèn tí shì wǒ yǒu shì qù bù liǎo", ""], ["Lart de vivre.La vie est quelque chose de merveilleux; comme la lumiere qui brille sur la terre.. -L", "生活的艺术生命是一种奇妙的玩意儿犹如娇丽的光芒普照大地。", "", "fr/07849.mp3", "zh/07849.mp3", "shēng huó de yì shù shēng mìng shì yī zhǒng qí miào de wán yì ér yóu rú jiāo lì de guāng máng pǔ zhào dà dì", ""], ["Les<climatsnexistaient pas encore, et une chaleur tor- ride se répandait a la surface entiere du globe,égale al'équa- teur et aux ples.F", "所谓的气候”还不存在，酷热弥漫着地球的整个表面，在赤道和两极没有什么不同的感觉。", "", "fr/07850.mp3", "zh/07850.mp3", "suǒ wèi de qì hòu hái bù cún zài kù rè mí màn zhe dì qiú de zhěng gè biǎo miàn zài chì dào hé liǎng jí méi yǒu shén me bù tóng de gǎn jué", ""]], "e": [["传媒", "média", "n.m.", "fr/07612.mp3", "zh/07612.mp3", "chuán méi", "medja"], ["", "joueur,se n", "", "fr/07613.mp3", "zh/07613.mp3", "", "zwxrz"], ["玩要者", "", "", "fr/07614.mp3", "zh/07614.mp3", "wán yào zhě", ""], ["细线", "filet", "n.m.", "fr/07615.mp3", "zh/07615.mp3", "xì xiàn", "file"], ["别的", "autre", "adj.", "fr/07616.mp3", "zh/07616.mp3", "bié de", "otr"], ["冰球", "khockey sur giace", "", "fr/07617.mp3", "zh/07617.mp3", "bīng qiú", ""], ["", "merveilleux,euse", "", "fr/07851.mp3", "zh/07851.mp3", "", ""], ["绝妙的", "", "adj.", "fr/07852.mp3", "zh/07852.mp3", "jué miào de", "mervejz"], ["炎热的", "torride", "adj.", "fr/07853.mp3", "zh/07853.mp3", "yán rè de", "torid"], ["地球", "globe", "", "fr/07854.mp3", "zh/07854.mp3", "dì qiú", ""]]}, {"no": 2, "name": "第2节", "w": [["乒乓球", "tennis de table", "m.", "fr/07618.mp3", "zh/07618.mp3", "pīng pāng qiú", "tenis da tabl"], ["手球", "hand-ball", "m.", "fr/07619.mp3", "zh/07619.mp3", "shǒu qiú", "'ädbal"], ["壁球", "squash [skwa", "m", "fr/07620.mp3", "zh/07620.mp3", "bì qiú", ""], ["羽毛球", "badminton", "m.", "fr/07621.mp3", "zh/07621.mp3", "yǔ máo qiú", "badminton"], ["篮球", "basket-ball", "m.", "fr/07622.mp3", "zh/07622.mp3", "lán qiú", "basketbol"], ["台球", "billiard", "", "fr/07623.mp3", "zh/07623.mp3", "tái qiú", "biljar"], ["落袋台球", "billard de poche[biljar da ledd", "", "fr/07624.mp3", "zh/07624.mp3", "luò dài tái qiú", ""], ["台球杆球袋", "queuef sac", "m", "fr/07625.mp3", "zh/07625.mp3", "tái qiú gān qiú dài", "k"], ["台球桌", "table de billard", "", "fr/07626.mp3", "zh/07626.mp3", "tái qiú zhuō", "tabl da biljar"], ["沙滩球", "ballon de plage", "m.", "fr/07627.mp3", "zh/07627.mp3", "shā tān qiú", "bals dapla:3"], ["某种游戏", "certains jeux", "m.", "fr/07628.mp3", "zh/07628.mp3", "mǒu zhǒng yóu xì", "sert& 30"], ["体育新闻", "actualité sportive", "f.", "fr/07629.mp3", "zh/07629.mp3", "tǐ yù xīn wén", "aktualite sporti:v"], ["体育用品", "articles de sport", "m.", "fr/07630.mp3", "zh/07630.mp3", "tǐ yù yòng pǐn", "artikl da spo:r"]], "s": [["Zhang Yining,membre de léquipe chinoise de tennis de table,va preter serment au nom de tous les athletes.", "中国乒乓球运动员张怡宁代表全体运动员宣暂。", "", "fr/07631.mp3", "zh/07631.mp3", "zhōng guó pīng pāng qiú yùn dòng yuán zhāng yí níng dài biǎo quán tǐ yùn dòng yuán xuān zàn", ""], ["Moi, ce que j'aime faire, cest le handball,le velo et la pechc.", "我的兴趣爱好包括手球、骑自行车和钓鱼。", "", "fr/07632.mp3", "zh/07632.mp3", "wǒ de xìng qù ài hào bāo kuò shǒu qiú qí zì xíng chē hé diào yú", ""], ["Il aime bien jouer au bad minton avec ses amis. M-.", "他喜欢和朋友一起打羽毛球", "", "fr/07633.mp3", "zh/07633.mp3", "tā xǐ huān hé péng yǒu yì qǐ dǎ yǔ máo qiú", ""]], "e": [["运动员", "athlete", "n.m.", "fr/07634.mp3", "zh/07634.mp3", "yùn dòng yuán", "atlet"], ["自行车", "vélo", "n.m.", "fr/07635.mp3", "zh/07635.mp3", "zì xíng chē", "velo"], ["爱喜欢", "aimer", "vt.", "fr/07636.mp3", "zh/07636.mp3", "ài xǐ huān", "eame"], ["体育用品", "articles de sport", "", "fr/07637.mp3", "zh/07637.mp3", "tǐ yù yòng pǐn", ""]]}, {"no": 3, "name": "第3节", "w": [["球场", "stade", "m.", "fr/07638.mp3", "zh/07638.mp3", "qiú chǎng", "stad"], ["篮球场", "terrain de basketball[terda)", "", "fr/07639.mp3", "zh/07639.mp3", "lán qiú chǎng", ""], ["将会增加一倍", "-1 basketbol]", "m.", "fr/07640.mp3", "zh/07640.mp3", "jiāng huì zēng jiā yí bèi", ""], ["室内篮球场", "Intérieur Cour de basket-ball", "f.", "fr/07641.mp3", "zh/07641.mp3", "shì nèi lán qiú chǎng", "&terjæxr kusrda basketbol"], ["室外篮球场", "xterieur Cour de basket-ball", "f.", "fr/07642.mp3", "zh/07642.mp3", "shì wài lán qiú chǎng", "eksterje:r kusr d(a basketbol"], ["篮筐", "panier", "m", "fr/07643.mp3", "zh/07643.mp3", "lán kuāng", "panje"], ["篮网", "net net]", "m.", "fr/07644.mp3", "zh/07644.mp3", "lán wǎng", ""], ["柱子", "pilier", "m.", "fr/07645.mp3", "zh/07645.mp3", "zhù zi", "pilje"], ["场地线", "ligne del'es- pace", "", "fr/07646.mp3", "zh/07646.mp3", "chǎng dì xiàn", "lin d(a lespas"], ["三分线", "=ligne des trois points", "f.", "fr/07647.mp3", "zh/07647.mp3", "sān fēn xiàn", "lin de trwa pw&"], ["扔", "lancer t", "", "fr/07648.mp3", "zh/07648.mp3", "rēng", "läse"], ["记录台", "station d'enre gistrement", "f.", "fr/07649.mp3", "zh/07649.mp3", "jì lù tái", "sta(a)sj dárzistramá"], ["看台", "stand", "m.", "fr/07650.mp3", "zh/07650.mp3", "kàn tái", "stad"], ["中间的", "mitoyen", "", "fr/07651.mp3", "zh/07651.mp3", "zhōng jiān de", "mitwajδ"], ["前面", "devant", "m", "fr/07652.mp3", "zh/07652.mp3", "qián miàn", "dava"]], "s": [["La capacité de ce stade va tredoubléc.", "这座体育场的容", "", "fr/07653.mp3", "zh/07653.mp3", "zhè zuò tǐ yù chǎng de róng", ""], ["J'adore le basketball Quand je suis sur le terrain, je m'en fiche de la guerre.Je n'entends pas les coups de feu, seulement les acclamations de la foule. T", "我爱篮球打球的时候就算周围打仗也无所谓，我根本听不到炮火只能听到观众的欢呼声。", "", "fr/07654.mp3", "zh/07654.mp3", "wǒ ài lán qiú dǎ qiú de shí hòu jiù suàn zhōu wéi dǎ zhàng yě wú suǒ wèi wǒ gēn běn tīng bú dào pào huǒ zhǐ néng tīng dào guān zhòng de huān hū shēng", ""], ["A cette époque on ne sa vait pas que I'enfant est né, ce que cela signifie pour le basketball chinois.", "当时没有人知道这个孩子的降生，对于中国篮球究竞意味着什么。", "", "fr/07655.mp3", "zh/07655.mp3", "dāng shí méi yǒu rén zhī dào zhè ge hái zi de jiàng shēng duì yú zhōng guó lán qiú jiū jìng yì wèi zhe shén me", ""], ["Ne mettez pas tous vos ufs dans le meme panier.", "不要把所有的鸡蛋都放进同个篮子里。", "", "fr/07656.mp3", "zh/07656.mp3", "bú yào bǎ suǒ yǒu de jī dàn dōu fàng jìn tóng gè lán zi lǐ", ""]], "e": [["", "capacité n./", "", "fr/07657.mp3", "zh/07657.mp3", "", "kapasite"], ["容量", "", "", "fr/07658.mp3", "zh/07658.mp3", "róng liàng", ""], ["", "acclamation", "", "fr/07659.mp3", "zh/07659.mp3", "", "aklama(a)sjδ"], ["欢呼喝彩", ".", "", "fr/07660.mp3", "zh/07660.mp3", "huān hū hè cǎi", ""], ["", "exploitation", "", "fr/07661.mp3", "zh/07661.mp3", "", ""], ["开发", "", "", "fr/07662.mp3", "zh/07662.mp3", "kāi fā", ""]]}, {"no": 4, "name": "第4节", "w": [["比赛", "ttmatch", "m", "fr/07663.mp3", "zh/07663.mp3", "bǐ sài", "matf"], ["观众", "spectateurtrice", "m.", "fr/07664.mp3", "zh/07664.mp3", "guān zhòng", "spektatr,tris"], ["欢呼声", "hurrah", "m", "fr/07665.mp3", "zh/07665.mp3", "huān hū shēng", "ura"], ["锦标赛", "championnat", "m.", "fr/07666.mp3", "zh/07666.mp3", "jǐn biāo sài", "ápjona"], ["比赛的一场", "jeu tournoi", "m.", "fr/07667.mp3", "zh/07667.mp3", "bǐ sài de yī cháng", "3o turnwa"], ["预选赛", "qualification", "f.", "fr/07668.mp3", "zh/07668.mp3", "yù xuǎn sài", "kalifikasj5"], ["预赛", "éliminatoire /.", "", "fr/07669.mp3", "zh/07669.mp3", "yù sài", "eliminatwa:r"], ["决赛", "finalefinal]", "f", "fr/07670.mp3", "zh/07670.mp3", "jué sài", ""], ["半决赛", "demi-finale /.", "", "fr/07671.mp3", "zh/07671.mp3", "bàn jué sài", "d(a)mi final"], ["球队", "équipe", "f", "fr/07672.mp3", "zh/07672.mp3", "qiú duì", "ekip"], ["运动员", "sportif,ve", "", "fr/07673.mp3", "zh/07673.mp3", "yùn dòng yuán", "sportif,ixv"], ["训练", "exercice", "m.", "fr/07674.mp3", "zh/07674.mp3", "xùn liàn", "egzersis"], ["军成为了本次传递活动", "", "", "fr/07675.mp3", "zh/07675.mp3", "jūn chéng wéi le běn cì chuán dì huó dòng", ""], ["裁判", "jugement", "m.", "fr/07676.mp3", "zh/07676.mp3", "cái pàn", "3y3ma"], ["冠军", "champion", "", "fr/07677.mp3", "zh/07677.mp3", "guàn jūn", "ápjon"], ["亚军", "titre de second", "", "fr/07678.mp3", "zh/07678.mp3", "yà jūn", "titr dasa)g:d"], ["第三名", "=troisieme", "", "fr/07679.mp3", "zh/07679.mp3", "dì sān míng", "trwa(a)zjem"]], "s": [["Ce soir il y aura un match de rugby entre la France et IAngleterre,mais le probleme est que je sois occupé par autre chose et je ne peux pas y aller.", "今天晚上又一场法国队和英国队的橄榄球比赛，可问题是我有事去不了。", "", "fr/07680.mp3", "zh/07680.mp3", "jīn tiān wǎn shàng yòu yī cháng fǎ guó duì hé yīng guó duì de gǎn lǎn qiú bǐ sài kě wèn tí shì wǒ yǒu shì qù bù liǎo", ""], ["Avant elle, aucune Chinoise n'avait jamais atteint les quarts de finale a Roland-Garros.", "在她之前，从未有中国女选手进入到法网的四分之一决赛。", "", "fr/07681.mp3", "zh/07681.mp3", "zài tā zhī qián cóng wèi yǒu zhōng guó nǚ xuǎn shǒu jìn rù dào fǎ wǎng de sì fēn zhī yī jué sài", ""], ["Le premier champion chinois des JO dhiver,la star du patinage de vitesse Yang Yang,a été le premier a porter la torche a Sanya. +-A", "速滑明星杨扬中国第一个冬季奥运会的第一棒火炬手。", "", "fr/07682.mp3", "zh/07682.mp3", "sù huá míng xīng yáng yáng zhōng guó dì yí gè dōng jì ào yùn huì de dì yī bàng huǒ jù shǒu", ""], ["Il est tres content detre championdu monde. X.", "成为世界冠军让他非常高兴", "", "fr/07683.mp3", "zh/07683.mp3", "chéng wéi shì jiè guàn jūn ràng tā fēi cháng gāo xìng", ""]], "e": [["", "patinage", "n.m.", "fr/07684.mp3", "zh/07684.mp3", "", "patina:3"], ["滑冰", "k", "", "fr/07685.mp3", "zh/07685.mp3", "huá bīng", ""], ["速度", "vitesse n", "", "fr/07686.mp3", "zh/07686.mp3", "sù dù", "vites"]]}, {"no": 5, "name": "第5节", "w": [["职业的", "profession nel,le", "", "fr/07687.mp3", "zh/07687.mp3", "zhí yè de", "profesjonel"], ["明星", "vedette", "f", "fr/07688.mp3", "zh/07688.mp3", "míng xīng", "vadet"], ["前锋", "avant-garde", "f.", "fr/07689.mp3", "zh/07689.mp3", "qián fēng", "avá gard"], ["小前锋", "Jailier", "m.", "fr/07690.mp3", "zh/07690.mp3", "xiǎo qián fēng", "clje"], ["中锋客后卫", "avant-centre garde", "m.", "fr/07691.mp3", "zh/07691.mp3", "zhōng fēng kè hòu wèi", "avásátr"], ["队长", "chef déquipe", "m.", "fr/07692.mp3", "zh/07692.mp3", "duì zhǎng", "e dekip"], ["客队", "équipe invitée", "f", "fr/07693.mp3", "zh/07693.mp3", "kè duì", "ekip &vite"], ["成员替补队员", "membre remplacant,e", "", "fr/07694.mp3", "zh/07694.mp3", "chéng yuán tì bǔ duì yuán", "ma:br"], ["边锋队员", "joueur winger", "m.", "fr/07695.mp3", "zh/07695.mp3", "biān fēng duì yuán", "3wer wina"], ["代表队", "équipe", "", "fr/07696.mp3", "zh/07696.mp3", "dài biǎo duì", "ekip"], ["后卫", "derrieres d'une armée", "", "fr/07697.mp3", "zh/07697.mp3", "hòu wèi", "derjeir dyn arme"], ["领队", "commander un groupe t", "", "fr/07698.mp3", "zh/07698.mp3", "lǐng duì", "komäde grup"], ["随队人员", "personnel del'équipe", "m.", "fr/07699.mp3", "zh/07699.mp3", "suí duì rén yuán", "personel da lekip"]], "s": [["Les gens regardent dans la voiture pour voir leur vedette préfére", "人们注视着车子想自赌他们喜爱的明星。在这里听得到他们的欢呼声。", "", "fr/07700.mp3", "zh/07700.mp3", "rén men zhù shì zhe chē zi xiǎng zì dǔ tā men xǐ ài de míng xīng zài zhè lǐ tīng de dào tā men de huān hū shēng", ""], ["Lailier droit anglais sem- pare du ballon,et le diverge vers le centre par une passe courte. E", "英国队右边锋截到球以后用短传把它踢到中场", "", "fr/07701.mp3", "zh/07701.mp3", "yīng guó duì yòu biān fēng jié dào qiú yǐ hòu yòng duǎn chuán bǎ tā tī dào zhōng chǎng", ""], ["Les remplacants et les spec tateurs encouragent ensemble Iéquipe.", "替补队员和观众一起为之加油。", "", "fr/07702.mp3", "zh/07702.mp3", "tì bǔ duì yuán hé guān zhòng yì qǐ wèi zhī jiā yóu", ""], ["Un bon esprit déquipe permet a un groupe de travailler efficacement. -IF", "优良的团队精神可以让一个团队高效工作", "", "fr/07703.mp3", "zh/07703.mp3", "yōu liáng de tuán duì jīng shén kě yǐ ràng yí gè tuán duì gāo xiào gōng zuò", ""], ["Ce défenseur se révele bien dans le match. +T", "这个后卫在比赛中表现得非常不错", "", "fr/07704.mp3", "zh/07704.mp3", "zhè ge hòu wèi zài bǐ sài zhōng biǎo xiàn dé fēi cháng bù cuò", ""]], "e": [["发散", "diverge", "vi.", "fr/07705.mp3", "zh/07705.mp3", "fā sàn", "diverze"], ["短的", "courte", "adj.", "fr/07706.mp3", "zh/07706.mp3", "duǎn de", "kur,kurt"], ["", "efficacement", "", "fr/07707.mp3", "zh/07707.mp3", "", "efikasmä"], ["有效地", "", "adv", "fr/07708.mp3", "zh/07708.mp3", "yǒu xiào dì", ""]]}, {"no": 6, "name": "第6节", "w": [["组织", "organisation", "f.", "fr/07709.mp3", "zh/07709.mp3", "zǔ zhī", "brganiza(a)sj5"], ["终止", "terminer .", "", "fr/07710.mp3", "zh/07710.mp3", "zhōng zhǐ", "termine"], ["敏锐的", "perspicace", "", "fr/07711.mp3", "zh/07711.mp3", "mǐn ruì de", "perspikas"], ["轮流", "alternativement", "", "fr/07712.mp3", "zh/07712.mp3", "lún liú", "alternativmä"], ["传球", "passe", "", "fr/07713.mp3", "zh/07713.mp3", "chuán qiú", "paas"], ["长传", "longue passe", "", "fr/07714.mp3", "zh/07714.mp3", "zhǎng chuán", "15:g pa:as"], ["跑动传球", "I'exécution de la balle", "f.", "fr/07715.mp3", "zh/07715.mp3", "pǎo dòng chuán qiú", "legzekysj5 d(a la bal"], ["失利", "échouer", "", "fr/07716.mp3", "zh/07716.mp3", "shī lì", "efwe"], ["绕过", "contourner .", "", "fr/07717.mp3", "zh/07717.mp3", "rào guò", "kšturne"], ["抓住", "agrippage", "m.", "fr/07718.mp3", "zh/07718.mp3", "zhuā zhù", "agripaz"], ["未接住", "aucune prise t.", "", "fr/07719.mp3", "zh/07719.mp3", "wèi jiē zhù", "okyn pris"], ["运球", "dribble", "m.", "fr/07720.mp3", "zh/07720.mp3", "yùn qiú", "dribl"], ["篮下投篮", "panier de tournage", "", "fr/07721.mp3", "zh/07721.mp3", "lán xià tóu lán", "panje d(a) turna:3"]], "s": [["Sur la communication desprit,il y a souvent des inspirations plus profondes. La question est qu'on puisse faire comment pour maintenir un cur perspicace dans un monde tellement tumultueux. TNAE", "于心灵的沟通上常有更完全的感应，问题是我们怎样在这个纷杂器携的世界中，保持一颗敏锐的心。", "", "fr/07722.mp3", "zh/07722.mp3", "yú xīn líng de gōu tōng shàng cháng yǒu gèng wán quán de gǎn yìng wèn tí shì wǒ men zěn yàng zài zhè ge fēn zá qì xié de shì jiè zhōng bǎo chí yī kē mǐn ruì de xīn", ""], ["Pour ce faire,les joueurs doivent progresser en portant le ballon a la main,et réalisant des passes uniquement a un joueur situderriere lui. RTE", "传球的过程中球员必须用手抱球并只能传给位于自己身后的球员。", "", "fr/07723.mp3", "zh/07723.mp3", "chuán qiú de guò chéng zhōng qiú yuán bì xū yòng shǒu bào qiú bìng zhǐ néng chuán gěi wèi yú zì jǐ shēn hòu de qiú yuán", ""], ["Comme il a échoué dans ce match,il se decourage.", "因为他在这次比赛中失败，他灰心了。", "", "fr/07724.mp3", "zh/07724.mp3", "yīn wèi tā zài zhè cì bǐ sài zhōng shī bài tā huī xīn le", ""]], "e": [["", "communication", "", "fr/07725.mp3", "zh/07725.mp3", "", ""], ["", ".", "f.", "fr/07726.mp3", "zh/07726.mp3", "", "komynika(a)sj5"], ["联系交往", "X", "", "fr/07727.mp3", "zh/07727.mp3", "lián xì jiāo wǎng", ""], ["", "tumultueux", "", "fr/07728.mp3", "zh/07728.mp3", "", "tymyltyo"], ["噜杂的", "", "adj.", "fr/07729.mp3", "zh/07729.mp3", "lū zá de", ""], ["", "progresser", "", "fr/07730.mp3", "zh/07730.mp3", "", "progre(e)se"], ["前进", "i.", "", "fr/07731.mp3", "zh/07731.mp3", "qián jìn", ""], ["", "uniquement", "", "fr/07732.mp3", "zh/07732.mp3", "", "ynikmä"], ["仅仅地", "ad", "", "fr/07733.mp3", "zh/07733.mp3", "jǐn jǐn dì", ""], ["", "décourage", "", "fr/07734.mp3", "zh/07734.mp3", "", "dekuraze"], ["使灰心", "V", "", "fr/07735.mp3", "zh/07735.mp3", "shǐ huī xīn", ""]]}, {"no": 7, "name": "第7节", "w": [["技术", "technique ].", "", "fr/07736.mp3", "zh/07736.mp3", "jì shù", "teknik"], ["合作", "coopérer .", "", "fr/07737.mp3", "zh/07737.mp3", "hé zuò", "koopere"], ["集体精神", "esprit d'équipe", "m.", "fr/07738.mp3", "zh/07738.mp3", "jí tǐ jīng shén", "espri dekip"], ["外围的", "périphérique", "", "fr/07739.mp3", "zh/07739.mp3", "wài wéi de", "periferik"], ["迁回行进", "Voyage Cir- cuit", "m.", "fr/07740.mp3", "zh/07740.mp3", "qiān huí xíng jìn", "vwaja:3 sirkyi"], ["伴攻", "feindre", "", "fr/07741.mp3", "zh/07741.mp3", "bàn gōng", "frdr"], ["假装", "simuler", "", "fr/07742.mp3", "zh/07742.mp3", "jiǎ zhuāng", "simyle"], ["运动", "sport", "m.", "fr/07743.mp3", "zh/07743.mp3", "yùn dòng", "spor"], ["过度", "excessi", "f", "fr/07744.mp3", "zh/07744.mp3", "guò dù", "ekse(e)sif"], ["拖延", "différer", "", "fr/07745.mp3", "zh/07745.mp3", "tuō yán", "difere"], ["进攻", "attaquer", "", "fr/07746.mp3", "zh/07746.mp3", "jìn gōng", "atake"], ["防守", "défendre", "", "fr/07747.mp3", "zh/07747.mp3", "fáng shǒu", "defä:dr"], ["控制", "controler .", "", "fr/07748.mp3", "zh/07748.mp3", "kòng zhì", "kštrole"], ["掩护运动", "mettre a couvert sport", "", "fr/07749.mp3", "zh/07749.mp3", "yǎn hù yùn dòng", "metr a kuvert"]], "s": [["La compagnie Walt Disney a toujours attache de l'impor- tance a coopérer avec la so- ciete et la culture locales,au lieu d'imiter aveuglement le style occidental. XA -x", "迪士尼公司一直以来都认为与当地社会和文化融合是非常重要的而不是一味地模仿西式风格", "", "fr/07750.mp3", "zh/07750.mp3", "dí shì ní gōng sī yì zhí yǐ lái dōu rèn wéi yǔ dāng dì shè huì hé wén huà róng hé shì fēi cháng zhòng yào de ér bú shì yī wèi dì mó fǎng xī shì fēng gé", ""], ["La pression nait d'un at- tachement excessif au monde extérieur et d'une attention ex cessive a I'opinion d'autrui.", "压力通常来自对身外事物过于在意，同时也过于在意他人的评断。", "", "fr/07751.mp3", "zh/07751.mp3", "yā lì tōng cháng lái zì duì shēn wài shì wù guò yú zài yì tóng shí yě guò yú zài yì tā rén de píng duàn", ""], ["Il profite de son service pour lancer une attaque.", "他利用发球抢攻。", "", "fr/07752.mp3", "zh/07752.mp3", "tā lì yòng fā qiú qiǎng gōng", ""], ["Un équipier de la défense a remonte le terrain.", "防守队员庆祝重新夺回了场地。", "", "fr/07753.mp3", "zh/07753.mp3", "fáng shǒu duì yuán qìng zhù chóng xīn duó huí le chǎng dì", ""]], "e": [["社团", "l société nf.tt", "", "fr/07754.mp3", "zh/07754.mp3", "shè tuán", "sosjete"], ["", "aveuglément", "", "fr/07755.mp3", "zh/07755.mp3", "", "avcglemá"], ["盲目地", "", "adv", "fr/07756.mp3", "zh/07756.mp3", "máng mù dì", ""], ["别人", "autrui", "", "fr/07757.mp3", "zh/07757.mp3", "bié rén", "otryi"]]}, {"no": 8, "name": "第8节", "w": [["抱着", "tenir", "vt", "fr/07758.mp3", "zh/07758.mp3", "bào zhe", "tanir"], ["混战", "melée", "", "fr/07759.mp3", "zh/07759.mp3", "hùn zhàn", "meele"], ["犯规行为", "faute de comportement", "m.", "fr/07760.mp3", "zh/07760.mp3", "fàn guī xíng wéi", "fo:t dakšportamá"], ["恶意犯规", "faute flagrante/", "", "fr/07761.mp3", "zh/07761.mp3", "è yì fàn guī", "fo:t flagrát"], ["违反", "violer", "", "fr/07762.mp3", "zh/07762.mp3", "wéi fǎn", "vjole"], ["违反", "transgresser", "", "fr/07763.mp3", "zh/07763.mp3", "wéi fǎn", "träsgree)se"], ["计时器", "calculagraphe", "m.", "fr/07764.mp3", "zh/07764.mp3", "jì shí qì", "kalkylagraf"], ["吹哨", "siffler", "", "fr/07765.mp3", "zh/07765.mp3", "chuī shào", "sifle"], ["蜂鸣器", "vibrateur", "m.", "fr/07766.mp3", "zh/07766.mp3", "fēng míng qì", "vibratcr"], ["加时赛", "heures sup plémentaires", "f.", "fr/07767.mp3", "zh/07767.mp3", "jiā shí sài", "x:r syplemáte:r"], ["换人", "substitution", "", "fr/07768.mp3", "zh/07768.mp3", "huàn rén", "sypstitysj"], ["停止出赛", "arreter la course", "", "fr/07769.mp3", "zh/07769.mp3", "tíng zhǐ chū sài", "arete la kurs"], ["进攻违例", "infraction offensive ofásiv]", "f.", "fr/07770.mp3", "zh/07770.mp3", "jìn gōng wéi lì", "&fraksj"], ["防守违例", "infractions défensives", "f.", "fr/07771.mp3", "zh/07771.mp3", "fáng shǒu wéi lì", "efraksj5 defásiv"], ["警告", "avertir", "", "fr/07772.mp3", "zh/07772.mp3", "jǐng gào", "avertir"], ["警告", "admonition", "f.", "fr/07773.mp3", "zh/07773.mp3", "jǐng gào", "admonisj5"], ["天气", "temps", "m.", "fr/08584.mp3", "zh/08584.mp3", "tiān qì", "ta"], ["天气预报", "prevision météorologique /", "", "fr/08585.mp3", "zh/08585.mp3", "tiān qì yù bào", "previzjmeteorolzik"], ["气象报告员", "rapporteur demétéo", "m", "fr/08586.mp3", "zh/08586.mp3", "qì xiàng bào gào yuán", "raportxer da meteo"], ["受影响的", "affectée", "", "fr/08587.mp3", "zh/08587.mp3", "shòu yǐng xiǎng de", "afekte"], ["气候", "climatklima]", "m", "fr/08588.mp3", "zh/08588.mp3", "qì hòu", ""], ["气候的", "climatique", "", "fr/08589.mp3", "zh/08589.mp3", "qì hòu de", "klimatik"], ["气候学", "climatologie .", "", "fr/08590.mp3", "zh/08590.mp3", "qì hòu xué", "klimatolozi"], ["大气", "atmosphere /.", "", "fr/08591.mp3", "zh/08591.mp3", "dà qì", "atmosfe:r"], ["气象学", "météorologie /.", "", "fr/08592.mp3", "zh/08592.mp3", "qì xiàng xué", "meteorolozi"], ["寒冷的", "froid", "", "fr/08593.mp3", "zh/08593.mp3", "hán lěng de", "frwaa),a(a:)d"], ["晴朗的", "clair,e", "", "fr/08594.mp3", "zh/08594.mp3", "qíng lǎng de", "kler"], ["温暖的", "tempere,e", "", "fr/08595.mp3", "zh/08595.mp3", "wēn nuǎn de", "täpere"], ["刮风的", "venteuxse", "", "fr/08596.mp3", "zh/08596.mp3", "guā fēng de", "vát,z"], ["霜", "givre", "m.", "fr/08597.mp3", "zh/08597.mp3", "shuāng", "zivr"], ["温带", "one tempérée /", "", "fr/08598.mp3", "zh/08598.mp3", "wēn dài", "zon täpere"], ["热带", "tropiques pl.", "", "fr/08599.mp3", "zh/08599.mp3", "rè dài", "tropik"]], "s": [["Larbitre siffle la fin du match.", "裁判吹响了比赛结束的哨子。", "", "fr/07774.mp3", "zh/07774.mp3", "cái pàn chuī xiǎng le bǐ sài jié shù de shào zi", ""], ["Seul le gardien de cette équipe et un poursuiveur de I'équipe adverse sont alors au- torisés a jouer sur ce penalty.", "罚球时，只有这个队伍的守门员和对方的一名追球手对峙。", "", "fr/07775.mp3", "zh/07775.mp3", "fá qiú shí zhǐ yǒu zhè ge duì wǔ de shǒu mén yuán hé duì fāng de yī míng zhuī qiú shǒu duì zhì", ""], ["Avec une défense dans cet état, il y a toutes les chances que nous prenions des buts.#", "用有这样的防守，我们就会有很多的射门机会。", "", "fr/07776.mp3", "zh/07776.mp3", "yòng yǒu zhè yàng de fáng shǒu wǒ men jiù huì yǒu hěn duō de shè mén jī huì", ""], ["Larbitre peut déclarer un penalty contre une équipe.", "裁判可以判一支球队罚球。", "", "fr/07777.mp3", "zh/07777.mp3", "cái pàn kě yǐ pàn yī zhī qiú duì fá qiú", ""], ["Avec une défense dans cet état, il y a toutes les chances que nous prenions des buts.#", "拥有这样的防守，我们就会有很多的射门机会。", "", "fr/07778.mp3", "zh/07778.mp3", "yōng yǒu zhè yàng de fáng shǒu wǒ men jiù huì yǒu hěn duō de shè mén jī huì", ""], ["En mars,le temps est sou- vent changeant. II fait plus doux aujourdhui grace au climat marin.Par la fenetre du café,je trouve quelques-uns qui travaillent en prenant du maillot a manches courtes. ItF.", "三月的天气经常多变。海洋性气候让快进入冬天的日子突然转暖起来。咖啡馆外竟有人穿着短袖在工作", "", "fr/08600.mp3", "zh/08600.mp3", "sān yuè de tiān qì jīng cháng duō biàn hǎi yáng xìng qì hòu ràng kuài jìn rù dōng tiān de rì zi tū rán zhuǎn nuǎn qǐ lái kā fēi guǎn wài jìng yǒu rén chuān zhe duǎn xiù zài gōng zuò", ""], ["Le climat y est tempéré, avec des variations locales:il fait plus humide a l'ouest, plus froid a l'est, plus chaud et plus sec au sud, surtout au bord de laMediterranee. A", "法国气候总体温和，由于区域的不同有少许差异：相对来说西部潮湿东部寒冷南部尤其是在地中海沿岸炎热而且干燥。", "", "fr/08601.mp3", "zh/08601.mp3", "fǎ guó qì hòu zǒng tǐ wēn hé yóu yú qū yù de bù tóng yǒu shǎo xǔ chā yì xiāng duì lái shuō xī bù cháo shī dōng bù hán lěng nán bù yóu qí shì zài dì zhōng hǎi yán àn yán rè ér qiě gān zào", ""]], "e": [["裁判", "arbitre", "n.m.", "fr/07779.mp3", "zh/07779.mp3", "cái pàn", "arbitr"], ["敌对", "adverse a.", "", "fr/07780.mp3", "zh/07780.mp3", "dí duì", "advers"], ["的对手的", ".", "", "fr/07781.mp3", "zh/07781.mp3", "de duì shǒu de", ""], ["球门", "but", "n.m.", "fr/07782.mp3", "zh/07782.mp3", "qiú mén", "byt"], ["队", "équipenfB", "", "fr/07783.mp3", "zh/07783.mp3", "duì", "ekip"], ["情形", "état", "n.m.", "fr/07784.mp3", "zh/07784.mp3", "qíng xíng", "eta"], ["海的", "marin,e ad.", "", "fr/08602.mp3", "zh/08602.mp3", "hǎi de", "mar,in"], ["汗衫", "maillot", "n.m.", "fr/08603.mp3", "zh/08603.mp3", "hàn shān", "majo"], ["", "variation", "nf.", "fr/08604.mp3", "zh/08604.mp3", "", "varjaa)sj5"], ["变动", "", "", "fr/08605.mp3", "zh/08605.mp3", "biàn dòng", ""], ["", "Méditerranée", "", "fr/08606.mp3", "zh/08606.mp3", "", ""], ["地中海", "", "", "fr/08607.mp3", "zh/08607.mp3", "dì zhōng hǎi", "mediterane"]]}, {"no": 9, "name": "第9节", "w": [["场地", "terrain", "m", "fr/08414.mp3", "zh/08414.mp3", "chǎng dì", "ter"], ["足球场比赛", "terrain de foot ball ttmatch", "m", "fr/08415.mp3", "zh/08415.mp3", "zú qiú chǎng bǐ sài", "ter da futbo:l"], ["足球鞋", "chaussures de foot", "", "fr/08416.mp3", "zh/08416.mp3", "zú qiú xié", "osyxr dafut"], ["开球", "coup d'envoi", "m.", "fr/08417.mp3", "zh/08417.mp3", "kāi qiú", "kup dávwa"], ["球门", "goal", "m", "fr/08418.mp3", "zh/08418.mp3", "qiú mén", "gol"], ["球门球", "filet", "m", "fr/08419.mp3", "zh/08419.mp3", "qiú mén qiú", "file"], ["球门口", "porte ball [port bally:", "", "fr/08420.mp3", "zh/08420.mp3", "qiú mén kǒu", ""], ["球门线", "ligne de but", "f", "fr/08421.mp3", "zh/08421.mp3", "qiú mén xiàn", "lin da but"], ["零比零", "ttzéro zérozero zero]", "", "fr/08422.mp3", "zh/08422.mp3", "líng bǐ líng", ""], ["比", "tt comparer", "", "fr/08423.mp3", "zh/08423.mp3", "bǐ", "kpare"], ["假动作", "feint", "", "fr/08424.mp3", "zh/08424.mp3", "jiǎ dòng zuò", "f"], ["红牌", "carton rouge", "m", "fr/08425.mp3", "zh/08425.mp3", "hóng pái", "kartš ru:3"], ["黄牌", "carton jaune", "m", "fr/08426.mp3", "zh/08426.mp3", "huáng pái", "kart530:n"], ["败球门", "défaiteécrasante . goal", "", "fr/08427.mp3", "zh/08427.mp3", "bài qiú mén", "defet ekrazä:t"]], "s": [["Sur le terrain chacun s'ef- force de donner le meilleur de soi-mme.", "场上每个人都会尽自己的最大努力。", "", "fr/08428.mp3", "zh/08428.mp3", "chǎng shàng měi gè rén dū huì jǐn zì jǐ de zuì dà nǔ lì", ""], ["La joueuse tricolore a gagne son premier match international.", "这个法国女运动员赢得了她的第一个国际比赛。", "", "fr/08429.mp3", "zh/08429.mp3", "zhè ge fǎ guó nǚ yùn dòng yuán yíng dé le tā de dì yí gè guó jì bǐ sài", ""], ["Et quel est donc le titre de ce merveilleux volume? de- mandai-je avec un empresse- ment trop enthousiaste pour ntre pas feint.", "这本奇妙无比的书的书名是什么？”我热情洋溢地间道，这热情显然是装出来的。", "", "fr/08430.mp3", "zh/08430.mp3", "zhè běn qí miào wú bǐ de shū de shū míng shì shén me wǒ rè qíng yáng yì dì jiàn dào zhè rè qíng xiǎn rán shì zhuāng chū lái de", ""]], "e": [["", "meilleur", "adj.", "fr/08431.mp3", "zh/08431.mp3", "", "mee)jx:r"], ["较好的", "", "", "fr/08432.mp3", "zh/08432.mp3", "jiào hǎo de", ""], ["法", "tricolore", "adj.", "fr/08433.mp3", "zh/08433.mp3", "fǎ", "advers"], ["国的", "", "", "fr/08434.mp3", "zh/08434.mp3", "guó de", ""], ["书", "volume", "n.m.", "fr/08435.mp3", "zh/08435.mp3", "shū", "volym"]]}, {"no": 10, "name": "第10节", "w": [["足球运动员", "joueur de football", "m.", "fr/07785.mp3", "zh/07785.mp3", "zú qiú yùn dòng yuán", "zwx:r d(a) futborl"], ["足球运动员", "foot balleur,euse", "", "fr/07786.mp3", "zh/07786.mp3", "zú qiú yùn dòng yuán", "futbolr,a"], ["足球的前锋", "atta quant de football", "m", "fr/07787.mp3", "zh/07787.mp3", "zú qiú de qián fēng", "atakä da futbo:l"], ["中锋", "avant-centre", "m.", "fr/07788.mp3", "zh/07788.mp3", "zhōng fēng", "avä sátr"], ["前卫", "avant-garde", "f.", "fr/07789.mp3", "zh/07789.mp3", "qián wèi", "avá gard"], ["得分手", "buteur", "m.", "fr/07790.mp3", "zh/07790.mp3", "dé fēn shǒu", "bytir"], ["左内锋", "inter gauche", "", "fr/07791.mp3", "zh/07791.mp3", "zuǒ nèi fēng", "&teir go:"], ["右内锋", "inter droit", "m.", "fr/07792.mp3", "zh/07792.mp3", "yòu nèi fēng", "&terr drwa"], ["左边锋", "ailier gauche", "m.", "fr/07793.mp3", "zh/07793.mp3", "zuǒ biān fēng", "aje go:"], ["右边锋", "ailier droit", "m.", "fr/07794.mp3", "zh/07794.mp3", "yòu biān fēng", "aje drwa"], ["守门员", "portierere", "", "fr/07795.mp3", "zh/07795.mp3", "shǒu mén yuán", "portje,er"], ["后卫足球运动员", "garde joueur defootball", "", "fr/07796.mp3", "zh/07796.mp3", "hòu wèi zú qiú yùn dòng yuán", "gard"]], "s": [["Un homme inintelligent ou simplement lent dans sa compréhension ne deviendra jamais un bon footballeur.", "个不聪明，或者理解能力差的人永远不可能成为一名好的足球运动员。", "", "fr/07797.mp3", "zh/07797.mp3", "gè bù cōng míng huò zhě lǐ jiě néng lì chà de rén yǒng yuǎn bù kě néng chéng wéi yī míng hǎo de zú qiú yùn dòng yuán", ""], ["] Le Brésilien, déja buteur á deux reprises,espere feter ses retrouvailles avec son ancien club de la plus belle des ma- nieres. Grace a ce portier,Iéquipe francais a gagné ce match.", "巴西前锋已经为球队打进过两球，希望他能够在重新面对老东家的时候能够有庆祝的机会。多亏了这个守门员，法国队赢得了这次比赛。", "", "fr/07798.mp3", "zh/07798.mp3", "bā xī qián fēng yǐ jīng wèi qiú duì dǎ jìn guò liǎng qiú xī wàng tā néng gòu zài chóng xīn miàn duì lǎo dōng jiā de shí hòu néng gòu yǒu qìng zhù de jī huì duō kuī le zhè ge shǒu mén yuán fǎ guó duì yíng dé le zhè cì bǐ sài", ""]], "e": [["", "inintelligente", "", "fr/07799.mp3", "zh/07799.mp3", "", ""], ["", "ad", "", "fr/07800.mp3", "zh/07800.mp3", "", "inéteeliza,a:t"], ["不聪明的", "", "", "fr/07801.mp3", "zh/07801.mp3", "bù cōng míng de", ""], ["", "compréhension [kpre", "", "fr/07802.mp3", "zh/07802.mp3", "", ""], ["时理解力", "asj5]", "nf", "fr/07803.mp3", "zh/07803.mp3", "shí lǐ jiě lì", ""], ["", "retrouvaille", "", "fr/07804.mp3", "zh/07804.mp3", "", "r(a)truvaj"], ["重逢", "nf.pl.", "", "fr/07805.mp3", "zh/07805.mp3", "chóng féng", ""], ["队", "équipe", "nf", "fr/07806.mp3", "zh/07806.mp3", "duì", "ekip"]]}, {"no": 11, "name": "第11节", "w": [["带球", "dribbler", "", "fr/08436.mp3", "zh/08436.mp3", "dài qiú", "drible"], ["截球", "interception", "", "fr/08437.mp3", "zh/08437.mp3", "jié qiú", "&tersepsj5"], ["传球", "passe", "f", "fr/08438.mp3", "zh/08438.mp3", "chuán qiú", "paas"], ["射门", "shoot", "m", "fr/08439.mp3", "zh/08439.mp3", "shè mén", "[ut"], ["踢", "jouer t.", "", "fr/08440.mp3", "zh/08440.mp3", "tī", "3we"], ["角球", "corner", "", "fr/08441.mp3", "zh/08441.mp3", "jiǎo qiú", "korne"], ["头球", "tete", "", "fr/08442.mp3", "zh/08442.mp3", "tóu qiú", "tet"], ["任意球", "coup de pied", "m.", "fr/08443.mp3", "zh/08443.mp3", "rèn yì qiú", "ku da pje"], ["直接任意球", "coup franc direct", "m.", "fr/08444.mp3", "zh/08444.mp3", "zhí jiē rèn yì qiú", "ku frä direkt"], ["间接任意球", "coup franc indirect", "m.", "fr/08445.mp3", "zh/08445.mp3", "jiàn jiē rèn yì qiú", "ku frä Edirekt"], ["罚任意球", "penalty", "m.", "fr/08446.mp3", "zh/08446.mp3", "fá rèn yì qiú", "penalti"], ["罚球区", "surfaces de réparation /", "", "fr/08447.mp3", "zh/08447.mp3", "fá qiú qū", "syrfas da repara(a)sj5"], ["罚球点", "point de penalty", "m.", "fr/08448.mp3", "zh/08448.mp3", "fá qiú diǎn", "pw&da penalti"], ["得分", "score", "m.", "fr/08449.mp3", "zh/08449.mp3", "dé fēn", "skor"], ["分", "note", "", "fr/08450.mp3", "zh/08450.mp3", "fēn", "not"], ["一局", "-partie", "", "fr/08451.mp3", "zh/08451.mp3", "yī jú", "parti"], ["救球", "enregistre", "", "fr/08452.mp3", "zh/08452.mp3", "jiù qiú", "árzistr"], ["越位的球员", "oueur horsjeu", "m.", "fr/08453.mp3", "zh/08453.mp3", "yuè wèi de qiú yuán", "zwcirr 30"]], "s": [["1062étudiants tentent de battre le record du Guinness Word du plus grand nombre de personnes dribblant avec un ballon, a Yanbian, dans la pro- vince chinoise de Jilin,le 10 juillet.710", "月日吉林省延边市1062名大学生尝试打破颠球人数之最的吉尼斯世界纪录。", "", "fr/08454.mp3", "zh/08454.mp3", "yuè rì jí lín shěng yán biān shì míng dà xué shēng cháng shì dǎ pò diān qiú rén shù zhī zuì de jí ní sī shì jiè jì lù", ""], ["Seul le gardien de cette équipe et un poursuiveur de I'équipe adverse sont alors au- torisés a jouer sur ce penalty.", "罚球时，只有这个队伍的守门员和对方的一名追球手对峙。", "", "fr/08455.mp3", "zh/08455.mp3", "fá qiú shí zhǐ yǒu zhè ge duì wǔ de shǒu mén yuán hé duì fāng de yī míng zhuī qiú shǒu duì zhì", ""], ["L'équipe de Beijing a gagné avec le score de 2-1.t", "北京队以二比一取胜。", "", "fr/08456.mp3", "zh/08456.mp3", "běi jīng duì yǐ èr bǐ yī qǔ shèng", ""], ["Larbitre a accordé a I équipe anglaise un coup de pe nalty.", "裁判判英国队罚点球", "", "fr/08457.mp3", "zh/08457.mp3", "cái pàn pàn yīng guó duì fá diǎn qiú", ""]], "e": [["打战胜", "battre[batrt.", "", "fr/08458.mp3", "zh/08458.mp3", "dǎ zhàn shèng", ""], ["", "gardien,ne", "", "fr/08459.mp3", "zh/08459.mp3", "", "gardjen"], ["守门员", "nmnA", "", "fr/08460.mp3", "zh/08460.mp3", "shǒu mén yuán", ""], ["在上", "sur", "prep", "fr/08461.mp3", "zh/08461.mp3", "zài shàng", "syr"], ["给予", "accorder", "vt.", "fr/08462.mp3", "zh/08462.mp3", "jǐ yǔ", "akorde"]]}, {"no": 12, "name": "第12节", "w": [["棒球场", "champ de base-ball ä da bezbol]", "m.", "fr/08463.mp3", "zh/08463.mp3", "bàng qiú chǎng", ""], ["击球员", "batteur", "m", "fr/08464.mp3", "zh/08464.mp3", "jī qiú yuán", "batcexr"], ["接球手", "receveur", "m.", "fr/08465.mp3", "zh/08465.mp3", "jiē qiú shǒu", "resavcr"], ["击球", "frappe[frapl", "", "fr/08466.mp3", "zh/08466.mp3", "jī qiú", ""], ["投球手", "lanceur", "m.", "fr/08467.mp3", "zh/08467.mp3", "tóu qiú shǒu", "lásxer"], ["守队", "Béquipe défensive /", "", "fr/08468.mp3", "zh/08468.mp3", "shǒu duì", "ekip defäsi:v"], ["垒", "construire", "", "fr/08469.mp3", "zh/08469.mp3", "lěi", "kšstrui:r"], ["一垒", "-une baseyn ba:(az]/.", "", "fr/08470.mp3", "zh/08470.mp3", "yī lěi", ""], ["二垒", "secondebase", "f", "fr/08471.mp3", "zh/08471.mp3", "èr lěi", "sag5d ba:az"], ["三垒", "=troisleme base/", "", "fr/08472.mp3", "zh/08472.mp3", "sān lěi", "trwaa)zjem bax(a)z"], ["本垒板", "plaque dac cueil", "", "fr/08473.mp3", "zh/08473.mp3", "běn lěi bǎn", "plak dakxj"], ["分", "fraction", "", "fr/08474.mp3", "zh/08474.mp3", "fēn", "fraksj"], ["本垒打", "Thomereomer]", "", "fr/08475.mp3", "zh/08475.mp3", "běn lěi dǎ", ""], ["局", "jeu", "m", "fr/08476.mp3", "zh/08476.mp3", "jú", "30"]], "s": [["Le rle des batteurs est de protéger les joueurs de leur équipe des attaques des Co- gnards et de les renvoyer dans le camp den face. Le base-ball prend parfois des allures deball-trap.", "击球手负责保护同队队员免于游走球的攻击，并将游走球击打到对方阵营。棒球有时看起来会像飞碟射击。", "", "fr/08477.mp3", "zh/08477.mp3", "jī qiú shǒu fù zé bǎo hù tóng duì duì yuán miǎn yú yóu zǒu qiú de gōng jī bìng jiāng yóu zǒu qiú jī dǎ dào duì fāng zhèn yíng bàng qiú yǒu shí kàn qǐ lái huì xiàng fēi dié shè jī", ""], ["La confiance est comme un chateau de sable, difficile a construire, mais facile a dé- truire.x- X.", "对一个人的信任就如同沙子垒成的城堡。很难建成但又很容易塌", "", "fr/08478.mp3", "zh/08478.mp3", "duì yí gè rén de xìn rèn jiù rú tóng shā zi lěi chéng de chéng bǎo hěn nán jiàn chéng dàn yòu hěn róng yì tā", ""], ["Et on ne parle pas quand quelquun tape une balle.", "而耳在有人击球的时候不能讲话。", "", "fr/08479.mp3", "zh/08479.mp3", "ér ěr zài yǒu rén jī qiú de shí hòu bù néng jiǎng huà", ""], ["Léquipe a fourni un jeu remarquable.-", "球队这一局踢得很精彩。", "", "fr/08480.mp3", "zh/08480.mp3", "qiú duì zhè yī jú tī dé hěn jīng cǎi", ""]], "e": [["有", "parfois", "adv", "fr/08481.mp3", "zh/08481.mp3", "yǒu", "parfwa"], ["时偶尔", "B.", "", "fr/08482.mp3", "zh/08482.mp3", "shí ǒu ěr", ""], ["城堡", "chateau", "nm.", "fr/08483.mp3", "zh/08483.mp3", "chéng bǎo", "ato"], ["讲话", "parler wi.", "", "fr/08484.mp3", "zh/08484.mp3", "jiǎng huà", "parle"], ["", "remarquable", "", "fr/08485.mp3", "zh/08485.mp3", "", ""], ["卓越的", "", "adj.", "fr/08486.mp3", "zh/08486.mp3", "zhuó yuè de", "ramarkabl"]]}, {"no": 13, "name": "第13节", "w": [["双打", "double", "m.", "fr/08487.mp3", "zh/08487.mp3", "shuāng dǎ", "dubl"], ["发球", "service", "m", "fr/08488.mp3", "zh/08488.mp3", "fā qiú", "servis"], ["接球", "rattraper la balle .", "", "fr/08489.mp3", "zh/08489.mp3", "jiē qiú", "ratrape la bal"], ["发球踏线", "manquer son service t.", "", "fr/08490.mp3", "zh/08490.mp3", "fā qiú tà xiàn", "mäke s servis"], ["网球场", "jeu de paume", "m.", "fr/08491.mp3", "zh/08491.mp3", "wǎng qiú chǎng", "3 d(a) po:m"], ["网球规则", "regle du tennis/.", "", "fr/08492.mp3", "zh/08492.mp3", "wǎng qiú guī zé", "regl dy te(e)nis"], ["经理", "manager", "m.", "fr/08493.mp3", "zh/08493.mp3", "jīng lǐ", "manadzxr"], ["训练", "entrainement", "m.", "fr/08494.mp3", "zh/08494.mp3", "xùn liàn", "átrenmá"], ["球场", "stade", "m", "fr/08495.mp3", "zh/08495.mp3", "qiú chǎng", "stad"], ["击球手", "batteur", "m.", "fr/08496.mp3", "zh/08496.mp3", "jī qiú shǒu", "batcer"], ["三柱门", "=guichet", "m", "fr/08497.mp3", "zh/08497.mp3", "sān zhù mén", "gife"]], "s": [["Fort de ce double héri tage, il apporte un regard lu- cide sur la réalité du monde qui l'entoure.", "有这两种文化传承的优点，他用敏锐的目光来观察发生在他周围的事情。", "", "fr/08498.mp3", "zh/08498.mp3", "yǒu zhè liǎng zhǒng wén huà chuán chéng de yōu diǎn tā yòng mǐn ruì de mù guāng lái guān chá fā shēng zài tā zhōu wéi de shì qíng", ""], ["La vraie vie quoi, loin des coups de téléphones de mes managers et du travail acharnel", "生活是个什么玩意儿？没有经纪人电话也没有繁重任务的生活才是真正的生活！", "", "fr/08499.mp3", "zh/08499.mp3", "shēng huó shì gè shén me wán yì ér méi yǒu jīng jì rén diàn huà yě méi yǒu fán zhòng rèn wù de shēng huó cái shì zhēn zhèng de shēng huó", ""], ["Les spectateurs applau- dissent chaque délégation qui arrive dans le stade.", "观众向每一个进场的代表团鼓掌欢迎。", "", "fr/08500.mp3", "zh/08500.mp3", "guān zhòng xiàng měi yí gè jìn chǎng de dài biǎo tuán gǔ zhǎng huān yíng", ""]], "e": [["", "héritageerita3]", "n.m", "fr/08501.mp3", "zh/08501.mp3", "", ""], ["遗产", "", "", "fr/08502.mp3", "zh/08502.mp3", "yí chǎn", ""], ["清醒的", "lucide", "adj", "fr/08503.mp3", "zh/08503.mp3", "qīng xǐng de", "lysid"], ["", "acharné", "adj.", "fr/08504.mp3", "zh/08504.mp3", "", "afarne"], ["激烈的", "", "", "fr/08505.mp3", "zh/08505.mp3", "jī liè de", ""], ["", "spectateur,trice", "", "fr/08506.mp3", "zh/08506.mp3", "", ""], ["观众", "", "m", "fr/08507.mp3", "zh/08507.mp3", "guān zhòng", "spektatr,tris"], ["", "délégation", "", "fr/08508.mp3", "zh/08508.mp3", "", ""], ["代表团", "", "nf.", "fr/08509.mp3", "zh/08509.mp3", "dài biǎo tuán", "delegaasj5"]]}, {"no": 14, "name": "第14节", "w": [["规则", "regle", "", "fr/08510.mp3", "zh/08510.mp3", "guī zé", "regl"], ["正裁判员", "arbitre positif", "m", "fr/08511.mp3", "zh/08511.mp3", "zhèng cái pàn yuán", "arbitr pozitif"], ["副裁判员", "sous-arbitre", "m.", "fr/08512.mp3", "zh/08512.mp3", "fù cái pàn yuán", "su arbitr"], ["取胜者", "gagnant", "m.", "fr/08513.mp3", "zh/08513.mp3", "qǔ shèng zhě", "gana, t"], ["司线员", "juge de touche", "m.", "fr/08514.mp3", "zh/08514.mp3", "sī xiàn yuán", "33da tu"], ["记录员", "pointeurse", "", "fr/08515.mp3", "zh/08515.mp3", "jì lù yuán", "pwtr,az"], ["发球区", "tee", "m.", "fr/08516.mp3", "zh/08516.mp3", "fā qiú qū", "ti"], ["手势", "geste", "m.", "fr/08517.mp3", "zh/08517.mp3", "shǒu shì", "3est"], ["积分表", "classement", "m.", "fr/08518.mp3", "zh/08518.mp3", "jī fēn biǎo", "klasmá"], ["组成", "former", "", "fr/08519.mp3", "zh/08519.mp3", "zǔ chéng", "forme"], ["重击", "battre", "", "fr/08520.mp3", "zh/08520.mp3", "zhòng jī", "batr"], ["球网", "filet", "m", "fr/08521.mp3", "zh/08521.mp3", "qiú wǎng", "file"], ["羽毛球", "badminton", "m", "fr/08522.mp3", "zh/08522.mp3", "yǔ máo qiú", "badminton"], ["球拍", "raquette", "", "fr/08523.mp3", "zh/08523.mp3", "qiú pāi", "raket"], ["纪录正裁判员", "record Earbitre posii", "f", "fr/08524.mp3", "zh/08524.mp3", "jì lù zhèng cái pàn yuán", "rakor"]], "s": [["Joignons nos mains dans la création d'un gagnant-ga- gnantavenir!", "让我们携手共创双赢未来！", "", "fr/08525.mp3", "zh/08525.mp3", "ràng wǒ men xié shǒu gòng chuàng shuāng yíng wèi lái", ""], ["Les cordages de cette ra quette sont en Nylon.", "这个球拍的网线是尼龙材质的。", "", "fr/08526.mp3", "zh/08526.mp3", "zhè ge qiú pāi de wǎng xiàn shì ní lóng cái zhì dì", ""], ["Avec 31 médailles,léquipe de France atteint et dépasse meme son objectif initial. Elle bat par la meme occasion le vieux record de 30 médailles établi a Buffalo en 1993.", "收获了31枚奖牌后，法国队已经达到甚至超过了最初的目标，并且打破了在1993年布法罗大运会的30枚奖牌的记录。", "", "fr/08527.mp3", "zh/08527.mp3", "shōu huò le méi jiǎng pái hòu fǎ guó duì yǐ jīng dá dào shèn zhì chāo guò le zuì chū de mù biāo bìng qiě dǎ pò le zài nián bù fǎ luó dà yùn huì de méi jiǎng pái de jì lù", ""], ["Soft est un volley-ball de la Chine de Volley-ball Asso- ciation,désignépar la balle.", "其中软式排球是中国排球协会指定用球。", "", "fr/08528.mp3", "zh/08528.mp3", "qí zhōng ruǎn shì pái qiú shì zhōng guó pái qiú xié huì zhǐ dìng yòng qiú", ""]], "e": [["", "création", "", "fr/08529.mp3", "zh/08529.mp3", "", "kreaasjδ"], ["创造", "t", "", "fr/08530.mp3", "zh/08530.mp3", "chuàng zào", ""], ["线", "cordage", "n.m.", "fr/08531.mp3", "zh/08531.mp3", "xiàn", "korda3"], ["日", "médaille", "n.f.", "fr/08532.mp3", "zh/08532.mp3", "rì", "medaj"], ["纪念章", "CA", "", "fr/08533.mp3", "zh/08533.mp3", "jì niàn zhāng", ""], ["", "volley-ball", "n.m.", "fr/08534.mp3", "zh/08534.mp3", "", "volebo:l"], ["排球", "HEER", "", "fr/08535.mp3", "zh/08535.mp3", "pái qiú", ""]]}, {"no": 15, "name": "第15节", "w": [["体育运动", "{ sport", "m", "fr/08536.mp3", "zh/08536.mp3", "tǐ yù yùn dòng", "spor"], ["田径运动", "athlétisme", "m.", "fr/08537.mp3", "zh/08537.mp3", "tián jìng yùn dòng", "atletism"], ["短跑", "épreuve de vitesse.", "", "fr/08538.mp3", "zh/08538.mp3", "duǎn pǎo", "eprcxv da vites"], ["短跑运动员", "sprinter euse", "m", "fr/08539.mp3", "zh/08539.mp3", "duǎn pǎo yùn dòng yuán", "sprinter,az"], ["跨栏比赛", "obstacle", "m.", "fr/08540.mp3", "zh/08540.mp3", "kuà lán bǐ sài", "Dpstakl"], ["跨栏运动员", "coureur", "m.", "fr/08541.mp3", "zh/08541.mp3", "kuà lán yùn dòng yuán", "kurcer"], ["障碍赛跑", "steeple chase", "m.", "fr/08542.mp3", "zh/08542.mp3", "zhàng ài sài pǎo", "stiplatez"], ["速度竞赛", "concours de vitesse", "m.", "fr/08543.mp3", "zh/08543.mp3", "sù dù jìng sài", "kskur da vites"], ["奔跑", "courir i", "", "fr/08544.mp3", "zh/08544.mp3", "bēn pǎo", "kurir"], ["马拉松", "marathon", "m.", "fr/08545.mp3", "zh/08545.mp3", "mǎ lā sōng", "marat5"], ["跳跃", "bondir i.", "", "fr/08546.mp3", "zh/08546.mp3", "tiào yuè", "bšdir"], ["跳高", "saut en hauteur", "m.", "fr/08547.mp3", "zh/08547.mp3", "tiào gāo", "so a otxr"], ["跳远", "saut en longueur", "m.", "fr/08548.mp3", "zh/08548.mp3", "tiào yuǎn", "so á l5ger"], ["撑高跑", "course a la perche [kurs a la per", "f.", "fr/08549.mp3", "zh/08549.mp3", "chēng gāo pǎo", ""], ["标枪比赛", "ttconcurrence de javelot y.", "", "fr/08550.mp3", "zh/08550.mp3", "biāo qiāng bǐ sài", "kkyräs da 3avlo"], ["铅球", "poids", "m.", "fr/08551.mp3", "zh/08551.mp3", "qiān qiú", "pwa"]], "s": [["Les enfants francais sont de plus en plus intéressés par le sport, sous l'influence des mé- dias,des marques de vetements et d'équipement et de l'aura des grands champions sportifs. F X", "在媒体的影响下法国儿童对体育名牌、体育服饰以及体育冠军越来越感兴趣", "", "fr/08552.mp3", "zh/08552.mp3", "zài méi tǐ de yǐng xiǎng xià fǎ guó ér tóng duì tǐ yù míng pái tǐ yù fú shì yǐ jí tǐ yù guàn jūn yuè lái yuè gǎn xìng qù", ""], ["Le plus grand coureur au- tomobile francais est égale- ment un homme populaire.", "法国最伟大的赛车手同样也是一位受欢迎的男人。", "", "fr/08553.mp3", "zh/08553.mp3", "fǎ guó zuì wěi dà de sài chē shǒu tóng yàng yě shì yī wèi shòu huān yíng de nán rén", ""], ["Si vous courez un mara- thon et que vous &tes sur le point de traverser la ligne d'ar- rivée,vous ne vous arretez pas en disant:<Oh, une fois que je lai dépassée,cest fini. A", "如果你在跑马拉松当你穿过终点线时，你会不停地对自己说：“一旦我跨过终点线，就可以结束了。”", "", "fr/08554.mp3", "zh/08554.mp3", "rú guǒ nǐ zài pǎo mǎ lā sōng dāng nǐ chuān guò zhōng diǎn xiàn shí nǐ huì bù tíng dì duì zì jǐ shuō yí dàn wǒ kuà guò zhōng diǎn xiàn jiù kě yǐ jié shù le", ""]], "e": [["", "équipement", "", "fr/08555.mp3", "zh/08555.mp3", "", "ekipmá"], ["装备", "", "n.m.", "fr/08556.mp3", "zh/08556.mp3", "zhuāng bèi", ""], ["", "automobile", "", "fr/08557.mp3", "zh/08557.mp3", "", "(o)tomobil"], ["汽车", "", "nf", "fr/08558.mp3", "zh/08558.mp3", "qì chē", ""], ["", "également ady.", "", "fr/08559.mp3", "zh/08559.mp3", "", "egalmá"], ["相等地", "", "", "fr/08560.mp3", "zh/08560.mp3", "xiāng děng dì", ""]]}, {"no": 16, "name": "第16节", "w": [["拳击", "boxe", "f", "fr/08561.mp3", "zh/08561.mp3", "quán jī", "boks"], ["拳击比赛", "assaut de boxe", "m", "fr/08562.mp3", "zh/08562.mp3", "quán jī bǐ sài", "aso da boks"], ["拳击运动员", "boxeur", "m.", "fr/08563.mp3", "zh/08563.mp3", "quán jī yùn dòng yuán", "boksxr"], ["对手臂的锻炼效果更好", "W", "", "fr/08564.mp3", "zh/08564.mp3", "duì shǒu bì de duàn liàn xiào guǒ gèng hǎo", ""], ["拳击手套沙袋拳击手训练时的对手", "gantde boxe /. sac de sable Fsparring-partner", "m.", "fr/08565.mp3", "zh/08565.mp3", "quán jī shǒu tào shā dài quán jī shǒu xùn liàn shí de duì shǒu", "gá da boks"], ["上勾拳", "uppercut", "m.", "fr/08566.mp3", "zh/08566.mp3", "shàng gōu quán", "yperkyt"], ["围绳", "corde", "f", "fr/08567.mp3", "zh/08567.mp3", "wéi shéng", "kord"], ["拳击场", "ring", "m", "fr/08568.mp3", "zh/08568.mp3", "quán jī chǎng", "rin"], ["拳击家", "pugiliste", "m", "fr/08569.mp3", "zh/08569.mp3", "quán jī jiā", "pyzilist"], ["打", "Tattaquer", "", "fr/08570.mp3", "zh/08570.mp3", "dǎ", "atake"], ["晕眩", "vertige", "m", "fr/08571.mp3", "zh/08571.mp3", "yūn xuàn", "vertiz"], ["回合", "rond", "", "fr/08572.mp3", "zh/08572.mp3", "huí hé", "r"]], "s": [["En plusla boxe muscle tout le corps en douceur, avec une surenchere au niveau des bras.", "而且拳击可以温和塑", "", "fr/08573.mp3", "zh/08573.mp3", "ér qiě quán jī kě yǐ wēn hé sù", ""], ["Dans cet état, chacun se sent inférieur a peine chacun se sent-il égal.On ne cherche rait donc point a s'attaquer, et la paix serait la premiere loi naturelle.+", "在这种状态中每一个人都不会有与他人平等的感觉，而都会自认为低人一等，因此，不会存在互相攻击的危险，和平应是第一自然法。", "", "fr/08574.mp3", "zh/08574.mp3", "zài zhè zhǒng zhuàng tài zhōng měi yí gè rén dōu bú huì yǒu yǔ tā rén píng děng de gǎn jué ér dū huì zì rèn wéi dī rén yī děng yīn cǐ bú huì cún zài hù xiāng gōng jī de wēi xiǎn hé píng yīng shì dì yī zì rán fǎ", ""], ["Je sentis le centre de gra- vite se déplacer en moi et le vertige monter a ma tete comme une ivresse.", "我觉得自己的重心在移动，而且像喝醉了酒似的头晕目眩。", "", "fr/08575.mp3", "zh/08575.mp3", "wǒ jué de zì jǐ de zhòng xīn zài yí dòng ér qiě xiàng hē zuì le jiǔ shì de tóu yūn mù xuàn", ""]], "e": [["肌肉", "muscle", "m.", "fr/08576.mp3", "zh/08576.mp3", "jī ròu", "myskl"], ["", "douceur", "nf", "fr/08577.mp3", "zh/08577.mp3", "", "dusx:r"], ["温柔", "X", "", "fr/08578.mp3", "zh/08578.mp3", "wēn róu", ""], ["", "surenchere .", "", "fr/08579.mp3", "zh/08579.mp3", "", "syräfe:r"], ["不断增加", "", "", "fr/08580.mp3", "zh/08580.mp3", "bù duàn zēng jiā", ""], ["", "inférieur,e ad", "", "fr/08581.mp3", "zh/08581.mp3", "", "aferjr"], ["低等的", "", "", "fr/08582.mp3", "zh/08582.mp3", "dī děng de", ""], ["重力", "gravité", "f.", "fr/08583.mp3", "zh/08583.mp3", "zhòng lì", "gravite"]]}, {"no": 17, "name": "第17节", "w": [["赛马场", "champ de courses", "m.", "fr/07807.mp3", "zh/07807.mp3", "sài mǎ chǎng", "[ä da kurs"], ["跑道", "piste de course", "", "fr/07808.mp3", "zh/07808.mp3", "pǎo dào", "pist da kurs"], ["赛车", "course dautos", "m.", "fr/07809.mp3", "zh/07809.mp3", "sài chē", "kurs doto"], ["呼啸而过", "passer en rugissantlpase á ryzisá]", "", "fr/07810.mp3", "zh/07810.mp3", "hū xiào ér guò", ""], ["车的加速性能", "a performance d'ac célération de voi- ture .", "", "fr/07811.mp3", "zh/07811.mp3", "chē de jiā sù xìng néng", "la performäs dakselerasj5da vwatyr"], ["驾驶座", "sige du conducteur", "m.", "fr/07812.mp3", "zh/07812.mp3", "jià shǐ zuò", "sje3 dy ködykter"], ["排挡", "étagere de vitesse", "", "fr/07813.mp3", "zh/07813.mp3", "pái dǎng", "etazer da vites"], ["前进挡", "vitesse en (avant,marche avant) [vitesá(avä marfavá)l/", "", "fr/07814.mp3", "zh/07814.mp3", "qián jìn dǎng", ""], ["倒挡", "inverseur de marche", "m.", "fr/07815.mp3", "zh/07815.mp3", "dào dǎng", "averscer da mar"], ["高速挡", "vitesse supe rieure .", "", "fr/07816.mp3", "zh/07816.mp3", "gāo sù dǎng", "vites syperjcer"], ["上坡路", "chemin montant am& m5ta]", "m.", "fr/07817.mp3", "zh/07817.mp3", "shàng pō lù", ""], ["斜坡", "pente", "", "fr/07818.mp3", "zh/07818.mp3", "xié pō", "pät"], ["弯道跑道的一圈", "tournant -tour de piste", "m.", "fr/07819.mp3", "zh/07819.mp3", "wān dào pǎo dào de yī quān", "turna"], ["首位的", "premierre", "", "fr/07820.mp3", "zh/07820.mp3", "shǒu wèi de", "pramje,cr"], ["猛冲", "bomber", "", "fr/07821.mp3", "zh/07821.mp3", "měng chōng", "b3be"]], "s": [["Lavion est au bout de la piste de courseil est sur le point de décoller.", "飞机停在跑道的尽头，它就要起飞了。", "", "fr/07822.mp3", "zh/07822.mp3", "fēi jī tíng zài pǎo dào de jìn tóu tā jiù yào qǐ fēi le", ""], ["Intersection ou le conduc- teur est tenu de ceder le pas- sage aux véhicules débouchant de la ou des routes situées a sa droite.XE", "交叉路口正处在司机准备向右转车辆让行的地方。", "", "fr/07823.mp3", "zh/07823.mp3", "jiāo chā lù kǒu zhèng chù zài sī jī zhǔn bèi xiàng yòu zhuǎn chē liàng ràng xíng de dì fāng", ""], ["II fait avec soin une com- position en pente profitant de lignes courbes et entrelacées pour créer des éléments ins- tables dans la photo. X E+.", "他精心地用倾斜方式来构图，利用线条的歪斜交错刻意地制造画面中的不安定因素", "", "fr/07824.mp3", "zh/07824.mp3", "tā jīng xīn dì yòng qīng xié fāng shì lái gòu tú lì yòng xiàn tiáo de wāi xié jiāo cuò kè yì dì zhì zào huà miàn zhōng de bù ān dìng yīn sù", ""]], "e": [["起飞", "décoller", "vi", "fr/07825.mp3", "zh/07825.mp3", "qǐ fēi", "dekole"], ["", "intersection", "", "fr/07826.mp3", "zh/07826.mp3", "", "&terseksj"], ["交叉点", "n.xx", "", "fr/07827.mp3", "zh/07827.mp3", "jiāo chā diǎn", ""], ["", "composition", "", "fr/07828.mp3", "zh/07828.mp3", "", "kpozisj5"], ["组成", "", "nf.", "fr/07829.mp3", "zh/07829.mp3", "zǔ chéng", ""], ["", "instable", "adj.", "fr/07830.mp3", "zh/07830.mp3", "", "stabl"], ["不稳定的", "T", "", "fr/07831.mp3", "zh/07831.mp3", "bù wěn dìng de", ""]]}]};
+window.BOOK_DATA[12]={
+ "gid": 12,
+ "no": "8",
+ "name": "流行比赛",
+ "gname": "休闲娱乐",
+ "secs": [
+  {
+   "no": 1,
+   "name": "第1节",
+   "w": [
+    [
+     "球类运动",
+     "balle",
+     "",
+     "fr/07595.mp3",
+     "zh/07595.mp3",
+     "qiú lèi yùn dòng",
+     "bal"
+    ],
+    [
+     "曲棍球",
+     "hockey Dke]",
+     "m",
+     "fr/07596.mp3",
+     "zh/07596.mp3",
+     "qū gùn qiú",
+     ""
+    ],
+    [
+     "网球",
+     "tennis",
+     "m.",
+     "fr/07597.mp3",
+     "zh/07597.mp3",
+     "wǎng qiú",
+     "teenis"
+    ],
+    [
+     "足球",
+     "foot-ball",
+     "m",
+     "fr/07598.mp3",
+     "zh/07598.mp3",
+     "zú qiú",
+     "futbol"
+    ],
+    [
+     "橄榄球",
+     "rugbyrygbi]",
+     "m",
+     "fr/07599.mp3",
+     "zh/07599.mp3",
+     "gǎn lǎn qiú",
+     ""
+    ],
+    [
+     "橄榄球",
+     "ballon ovale",
+     "m.",
+     "fr/07600.mp3",
+     "zh/07600.mp3",
+     "gǎn lǎn qiú",
+     "bal5 oval"
+    ],
+    [
+     "篮球",
+     "basketball",
+     "m.",
+     "fr/07601.mp3",
+     "zh/07601.mp3",
+     "lán qiú",
+     "basketbol"
+    ],
+    [
+     "排球",
+     "volley-ball",
+     "m.",
+     "fr/07602.mp3",
+     "zh/07602.mp3",
+     "pái qiú",
+     "volebol"
+    ],
+    [
+     "板球",
+     "cricket",
+     "m",
+     "fr/07604.mp3",
+     "zh/07604.mp3",
+     "bǎn qiú",
+     "kriket"
+    ],
+    [
+     "冰球",
+     "khockey sur glace",
+     "m.",
+     "fr/07605.mp3",
+     "zh/07605.mp3",
+     "bīng qiú",
+     "Dke syr glas"
+    ],
+    [
+     "棒球",
+     "base-ball",
+     "m.",
+     "fr/07606.mp3",
+     "zh/07606.mp3",
+     "bàng qiú",
+     "bezbol"
+    ],
+    [
+     "滚球",
+     "boule pl.",
+     "",
+     "fr/07607.mp3",
+     "zh/07607.mp3",
+     "gǔn qiú",
+     "bul"
+    ],
+    [
+     "马球足球",
+     "polo foot-ball",
+     "",
+     "fr/07608.mp3",
+     "zh/07608.mp3",
+     "mǎ qiú zú qiú",
+     "polo"
+    ],
+    [
+     "地球",
+     "terre",
+     "",
+     "fr/07832.mp3",
+     "zh/07832.mp3",
+     "dì qiú",
+     "ter"
+    ],
+    [
+     "地球",
+     "giobe",
+     "m.",
+     "fr/07833.mp3",
+     "zh/07833.mp3",
+     "dì qiú",
+     "glb"
+    ],
+    [
+     "半球",
+     "hemisphere",
+     "m.",
+     "fr/07834.mp3",
+     "zh/07834.mp3",
+     "bàn qiú",
+     "emisfer"
+    ],
+    [
+     "轴线",
+     "axe",
+     "m.",
+     "fr/07835.mp3",
+     "zh/07835.mp3",
+     "zhóu xiàn",
+     "aks"
+    ],
+    [
+     "经度",
+     "longitude",
+     "f.",
+     "fr/07836.mp3",
+     "zh/07836.mp3",
+     "jīng dù",
+     "153ityd"
+    ],
+    [
+     "纬度",
+     "latitude",
+     "",
+     "fr/07837.mp3",
+     "zh/07837.mp3",
+     "wěi dù",
+     "latityd"
+    ],
+    [
+     "北极圈",
+     "tcercie arctique",
+     "m.",
+     "fr/07838.mp3",
+     "zh/07838.mp3",
+     "běi jí quān",
+     "serkl arktik"
+    ],
+    [
+     "南极圈",
+     "cercle antarc- tique",
+     "m",
+     "fr/07839.mp3",
+     "zh/07839.mp3",
+     "nán jí quān",
+     "serklátarktik"
+    ],
+    [
+     "赤道",
+     "équateur",
+     "m.",
+     "fr/07840.mp3",
+     "zh/07840.mp3",
+     "chì dào",
+     "ekwater"
+    ],
+    [
+     "大洲",
+     "continent",
+     "m",
+     "fr/07841.mp3",
+     "zh/07841.mp3",
+     "dà zhōu",
+     "kština"
+    ],
+    [
+     "欧洲",
+     "urope",
+     "",
+     "fr/07842.mp3",
+     "zh/07842.mp3",
+     "ōu zhōu",
+     "rop"
+    ],
+    [
+     "亚洲",
+     "Asie",
+     "",
+     "fr/07843.mp3",
+     "zh/07843.mp3",
+     "yà zhōu",
+     "azi"
+    ],
+    [
+     "非洲",
+     "Afrique",
+     "",
+     "fr/07844.mp3",
+     "zh/07844.mp3",
+     "fēi zhōu",
+     "afrik"
+    ],
+    [
+     "大洋洲",
+     "Oceanie y.",
+     "",
+     "fr/07845.mp3",
+     "zh/07845.mp3",
+     "dà yáng zhōu",
+     "bseani"
+    ],
+    [
+     "南极洲",
+     "continent antarctique",
+     "m.",
+     "fr/07846.mp3",
+     "zh/07846.mp3",
+     "nán jí zhōu",
+     "ktinä átarktik"
+    ],
+    [
+     "北美洲",
+     "tAmérique du nord",
+     "",
+     "fr/07847.mp3",
+     "zh/07847.mp3",
+     "běi měi zhōu",
+     "amerik dy nor"
+    ],
+    [
+     "南美洲",
+     "Amérique du sud",
+     "",
+     "fr/07848.mp3",
+     "zh/07848.mp3",
+     "nán měi zhōu",
+     "amerik dy syd"
+    ]
+   ],
+   "s": [
+    [
+     "Les médias russes ont dif- fusé des images de l'actuel Pre mier ministre russe,Vladimir Poutine,en train de s'entrainer avec les plus grandes figures du hockey.",
+     "俄罗斯媒体发布了现任总理普京与曲棍球大腕明星在一起训练的图像。",
+     "",
+     "fr/07609.mp3",
+     "zh/07609.mp3",
+     "é luó sī méi tǐ fā bù le xiàn rèn zǒng lǐ pǔ jīng yǔ qū gùn qiú dà wàn míng xīng zài yì qǐ xùn liàn de tú xiàng",
+     ""
+    ],
+    [
+     "Un joueur de tennis en- voie ses balles de telle sorte quelles rasent le filet.",
+     "网球运",
+     "",
+     "fr/07610.mp3",
+     "zh/07610.mp3",
+     "wǎng qiú yùn",
+     ""
+    ],
+    [
+     "Ce soir il y aura un match de rugby de la France et I'An- gleterre,mais le probleme est je sois occupé par autre chose et je ne peux pas y aller. *T7.",
+     "今天晚上又一场法国队和英国队的橄榄球比赛，可问题是我有事去不了",
+     "",
+     "fr/07611.mp3",
+     "zh/07611.mp3",
+     "jīn tiān wǎn shàng yòu yī cháng fǎ guó duì hé yīng guó duì de gǎn lǎn qiú bǐ sài kě wèn tí shì wǒ yǒu shì qù bù liǎo",
+     ""
+    ],
+    [
+     "Lart de vivre.La vie est quelque chose de merveilleux; comme la lumiere qui brille sur la terre.. -L",
+     "生活的艺术生命是一种奇妙的玩意儿犹如娇丽的光芒普照大地。",
+     "",
+     "fr/07849.mp3",
+     "zh/07849.mp3",
+     "shēng huó de yì shù shēng mìng shì yī zhǒng qí miào de wán yì ér yóu rú jiāo lì de guāng máng pǔ zhào dà dì",
+     ""
+    ],
+    [
+     "Les<climatsnexistaient pas encore, et une chaleur tor- ride se répandait a la surface entiere du globe,égale al'équa- teur et aux ples.F",
+     "所谓的气候”还不存在，酷热弥漫着地球的整个表面，在赤道和两极没有什么不同的感觉。",
+     "",
+     "fr/07850.mp3",
+     "zh/07850.mp3",
+     "suǒ wèi de qì hòu hái bù cún zài kù rè mí màn zhe dì qiú de zhěng gè biǎo miàn zài chì dào hé liǎng jí méi yǒu shén me bù tóng de gǎn jué",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "传媒",
+     "média",
+     "n.m.",
+     "fr/07612.mp3",
+     "zh/07612.mp3",
+     "chuán méi",
+     "medja"
+    ],
+    [
+     "",
+     "joueur,se n",
+     "",
+     "fr/07613.mp3",
+     "zh/07613.mp3",
+     "",
+     "zwxrz"
+    ],
+    [
+     "玩要者",
+     "",
+     "",
+     "",
+     "zh/07614.mp3",
+     "wán yào zhě",
+     ""
+    ],
+    [
+     "细线",
+     "filet",
+     "n.m.",
+     "fr/07615.mp3",
+     "zh/07615.mp3",
+     "xì xiàn",
+     "file"
+    ],
+    [
+     "别的",
+     "autre",
+     "adj.",
+     "fr/07616.mp3",
+     "zh/07616.mp3",
+     "bié de",
+     "otr"
+    ],
+    [
+     "冰球",
+     "khockey sur giace",
+     "",
+     "fr/07617.mp3",
+     "zh/07617.mp3",
+     "bīng qiú",
+     ""
+    ],
+    [
+     "",
+     "merveilleux,euse",
+     "",
+     "fr/07851.mp3",
+     "zh/07851.mp3",
+     "",
+     ""
+    ],
+    [
+     "绝妙的",
+     "",
+     "adj.",
+     "",
+     "zh/07852.mp3",
+     "jué miào de",
+     "mervejz"
+    ],
+    [
+     "炎热的",
+     "torride",
+     "adj.",
+     "fr/07853.mp3",
+     "zh/07853.mp3",
+     "yán rè de",
+     "torid"
+    ],
+    [
+     "地球",
+     "globe",
+     "",
+     "fr/07854.mp3",
+     "zh/07854.mp3",
+     "dì qiú",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 2,
+   "name": "第2节",
+   "w": [
+    [
+     "乒乓球",
+     "tennis de table",
+     "m.",
+     "fr/07618.mp3",
+     "zh/07618.mp3",
+     "pīng pāng qiú",
+     "tenis da tabl"
+    ],
+    [
+     "手球",
+     "hand-ball",
+     "m.",
+     "fr/07619.mp3",
+     "zh/07619.mp3",
+     "shǒu qiú",
+     "'ädbal"
+    ],
+    [
+     "壁球",
+     "squash [skwa",
+     "m",
+     "fr/07620.mp3",
+     "zh/07620.mp3",
+     "bì qiú",
+     ""
+    ],
+    [
+     "羽毛球",
+     "badminton",
+     "m.",
+     "fr/07621.mp3",
+     "zh/07621.mp3",
+     "yǔ máo qiú",
+     "badminton"
+    ],
+    [
+     "篮球",
+     "basket-ball",
+     "m.",
+     "fr/07622.mp3",
+     "zh/07622.mp3",
+     "lán qiú",
+     "basketbol"
+    ],
+    [
+     "台球",
+     "billiard",
+     "",
+     "fr/07623.mp3",
+     "zh/07623.mp3",
+     "tái qiú",
+     "biljar"
+    ],
+    [
+     "落袋台球",
+     "billard de poche[biljar da ledd",
+     "",
+     "fr/07624.mp3",
+     "zh/07624.mp3",
+     "luò dài tái qiú",
+     ""
+    ],
+    [
+     "台球杆球袋",
+     "queuef sac",
+     "m",
+     "fr/07625.mp3",
+     "zh/07625.mp3",
+     "tái qiú gān qiú dài",
+     "k"
+    ],
+    [
+     "台球桌",
+     "table de billard",
+     "",
+     "fr/07626.mp3",
+     "zh/07626.mp3",
+     "tái qiú zhuō",
+     "tabl da biljar"
+    ],
+    [
+     "沙滩球",
+     "ballon de plage",
+     "m.",
+     "fr/07627.mp3",
+     "zh/07627.mp3",
+     "shā tān qiú",
+     "bals dapla:3"
+    ],
+    [
+     "某种游戏",
+     "certains jeux",
+     "m.",
+     "fr/07628.mp3",
+     "zh/07628.mp3",
+     "mǒu zhǒng yóu xì",
+     "sert& 30"
+    ],
+    [
+     "体育新闻",
+     "actualité sportive",
+     "f.",
+     "fr/07629.mp3",
+     "zh/07629.mp3",
+     "tǐ yù xīn wén",
+     "aktualite sporti:v"
+    ],
+    [
+     "体育用品",
+     "articles de sport",
+     "m.",
+     "fr/07630.mp3",
+     "zh/07630.mp3",
+     "tǐ yù yòng pǐn",
+     "artikl da spo:r"
+    ]
+   ],
+   "s": [
+    [
+     "Zhang Yining,membre de léquipe chinoise de tennis de table,va preter serment au nom de tous les athletes.",
+     "中国乒乓球运动员张怡宁代表全体运动员宣暂。",
+     "",
+     "fr/07631.mp3",
+     "zh/07631.mp3",
+     "zhōng guó pīng pāng qiú yùn dòng yuán zhāng yí níng dài biǎo quán tǐ yùn dòng yuán xuān zàn",
+     ""
+    ],
+    [
+     "Moi, ce que j'aime faire, cest le handball,le velo et la pechc.",
+     "我的兴趣爱好包括手球、骑自行车和钓鱼。",
+     "",
+     "fr/07632.mp3",
+     "zh/07632.mp3",
+     "wǒ de xìng qù ài hào bāo kuò shǒu qiú qí zì xíng chē hé diào yú",
+     ""
+    ],
+    [
+     "Il aime bien jouer au bad minton avec ses amis. M-.",
+     "他喜欢和朋友一起打羽毛球",
+     "",
+     "fr/07633.mp3",
+     "zh/07633.mp3",
+     "tā xǐ huān hé péng yǒu yì qǐ dǎ yǔ máo qiú",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "运动员",
+     "athlete",
+     "n.m.",
+     "fr/07634.mp3",
+     "zh/07634.mp3",
+     "yùn dòng yuán",
+     "atlet"
+    ],
+    [
+     "自行车",
+     "vélo",
+     "n.m.",
+     "fr/07635.mp3",
+     "zh/07635.mp3",
+     "zì xíng chē",
+     "velo"
+    ],
+    [
+     "爱喜欢",
+     "aimer",
+     "vt.",
+     "fr/07636.mp3",
+     "zh/07636.mp3",
+     "ài xǐ huān",
+     "eame"
+    ],
+    [
+     "体育用品",
+     "articles de sport",
+     "",
+     "fr/07637.mp3",
+     "zh/07637.mp3",
+     "tǐ yù yòng pǐn",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 3,
+   "name": "第3节",
+   "w": [
+    [
+     "球场",
+     "stade",
+     "m.",
+     "fr/07638.mp3",
+     "zh/07638.mp3",
+     "qiú chǎng",
+     "stad"
+    ],
+    [
+     "篮球场",
+     "terrain de basketball[terda)",
+     "",
+     "fr/07639.mp3",
+     "zh/07639.mp3",
+     "lán qiú chǎng",
+     ""
+    ],
+    [
+     "将会增加一倍",
+     "-1 basketbol]",
+     "m.",
+     "fr/07640.mp3",
+     "zh/07640.mp3",
+     "jiāng huì zēng jiā yí bèi",
+     ""
+    ],
+    [
+     "室内篮球场",
+     "Intérieur Cour de basket-ball",
+     "f.",
+     "fr/07641.mp3",
+     "zh/07641.mp3",
+     "shì nèi lán qiú chǎng",
+     "&terjæxr kusrda basketbol"
+    ],
+    [
+     "室外篮球场",
+     "xterieur Cour de basket-ball",
+     "f.",
+     "fr/07642.mp3",
+     "zh/07642.mp3",
+     "shì wài lán qiú chǎng",
+     "eksterje:r kusr d(a basketbol"
+    ],
+    [
+     "篮筐",
+     "panier",
+     "m",
+     "fr/07643.mp3",
+     "zh/07643.mp3",
+     "lán kuāng",
+     "panje"
+    ],
+    [
+     "篮网",
+     "net net]",
+     "m.",
+     "fr/07644.mp3",
+     "zh/07644.mp3",
+     "lán wǎng",
+     ""
+    ],
+    [
+     "柱子",
+     "pilier",
+     "m.",
+     "fr/07645.mp3",
+     "zh/07645.mp3",
+     "zhù zi",
+     "pilje"
+    ],
+    [
+     "场地线",
+     "ligne del'es- pace",
+     "",
+     "fr/07646.mp3",
+     "zh/07646.mp3",
+     "chǎng dì xiàn",
+     "lin d(a lespas"
+    ],
+    [
+     "三分线",
+     "=ligne des trois points",
+     "f.",
+     "fr/07647.mp3",
+     "zh/07647.mp3",
+     "sān fēn xiàn",
+     "lin de trwa pw&"
+    ],
+    [
+     "扔",
+     "lancer t",
+     "",
+     "fr/07648.mp3",
+     "zh/07648.mp3",
+     "rēng",
+     "läse"
+    ],
+    [
+     "记录台",
+     "station d'enre gistrement",
+     "f.",
+     "fr/07649.mp3",
+     "zh/07649.mp3",
+     "jì lù tái",
+     "sta(a)sj dárzistramá"
+    ],
+    [
+     "看台",
+     "stand",
+     "m.",
+     "fr/07650.mp3",
+     "zh/07650.mp3",
+     "kàn tái",
+     "stad"
+    ],
+    [
+     "中间的",
+     "mitoyen",
+     "",
+     "fr/07651.mp3",
+     "zh/07651.mp3",
+     "zhōng jiān de",
+     "mitwajδ"
+    ],
+    [
+     "前面",
+     "devant",
+     "m",
+     "fr/07652.mp3",
+     "zh/07652.mp3",
+     "qián miàn",
+     "dava"
+    ]
+   ],
+   "s": [
+    [
+     "La capacité de ce stade va tredoubléc.",
+     "这座体育场的容",
+     "",
+     "fr/07653.mp3",
+     "zh/07653.mp3",
+     "zhè zuò tǐ yù chǎng de róng",
+     ""
+    ],
+    [
+     "J'adore le basketball Quand je suis sur le terrain, je m'en fiche de la guerre.Je n'entends pas les coups de feu, seulement les acclamations de la foule. T",
+     "我爱篮球打球的时候就算周围打仗也无所谓，我根本听不到炮火只能听到观众的欢呼声。",
+     "",
+     "fr/07654.mp3",
+     "zh/07654.mp3",
+     "wǒ ài lán qiú dǎ qiú de shí hòu jiù suàn zhōu wéi dǎ zhàng yě wú suǒ wèi wǒ gēn běn tīng bú dào pào huǒ zhǐ néng tīng dào guān zhòng de huān hū shēng",
+     ""
+    ],
+    [
+     "A cette époque on ne sa vait pas que I'enfant est né, ce que cela signifie pour le basketball chinois.",
+     "当时没有人知道这个孩子的降生，对于中国篮球究竞意味着什么。",
+     "",
+     "fr/07655.mp3",
+     "zh/07655.mp3",
+     "dāng shí méi yǒu rén zhī dào zhè ge hái zi de jiàng shēng duì yú zhōng guó lán qiú jiū jìng yì wèi zhe shén me",
+     ""
+    ],
+    [
+     "Ne mettez pas tous vos ufs dans le meme panier.",
+     "不要把所有的鸡蛋都放进同个篮子里。",
+     "",
+     "fr/07656.mp3",
+     "zh/07656.mp3",
+     "bú yào bǎ suǒ yǒu de jī dàn dōu fàng jìn tóng gè lán zi lǐ",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "capacité n./",
+     "",
+     "fr/07657.mp3",
+     "zh/07657.mp3",
+     "",
+     "kapasite"
+    ],
+    [
+     "容量",
+     "",
+     "",
+     "",
+     "zh/07658.mp3",
+     "róng liàng",
+     ""
+    ],
+    [
+     "",
+     "acclamation",
+     "",
+     "fr/07659.mp3",
+     "zh/07659.mp3",
+     "",
+     "aklama(a)sjδ"
+    ],
+    [
+     "欢呼喝彩",
+     "",
+     "",
+     "",
+     "zh/07660.mp3",
+     "huān hū hè cǎi",
+     ""
+    ],
+    [
+     "",
+     "exploitation",
+     "",
+     "fr/07661.mp3",
+     "zh/07661.mp3",
+     "",
+     ""
+    ],
+    [
+     "开发",
+     "",
+     "",
+     "",
+     "zh/07662.mp3",
+     "kāi fā",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 4,
+   "name": "第4节",
+   "w": [
+    [
+     "比赛",
+     "ttmatch",
+     "m",
+     "fr/07663.mp3",
+     "zh/07663.mp3",
+     "bǐ sài",
+     "matf"
+    ],
+    [
+     "观众",
+     "spectateurtrice",
+     "m.",
+     "fr/07664.mp3",
+     "zh/07664.mp3",
+     "guān zhòng",
+     "spektatr,tris"
+    ],
+    [
+     "欢呼声",
+     "hurrah",
+     "m",
+     "fr/07665.mp3",
+     "zh/07665.mp3",
+     "huān hū shēng",
+     "ura"
+    ],
+    [
+     "锦标赛",
+     "championnat",
+     "m.",
+     "fr/07666.mp3",
+     "zh/07666.mp3",
+     "jǐn biāo sài",
+     "ápjona"
+    ],
+    [
+     "比赛的一场",
+     "jeu tournoi",
+     "m.",
+     "fr/07667.mp3",
+     "zh/07667.mp3",
+     "bǐ sài de yī cháng",
+     "3o turnwa"
+    ],
+    [
+     "预选赛",
+     "qualification",
+     "f.",
+     "fr/07668.mp3",
+     "zh/07668.mp3",
+     "yù xuǎn sài",
+     "kalifikasj5"
+    ],
+    [
+     "预赛",
+     "éliminatoire /.",
+     "",
+     "fr/07669.mp3",
+     "zh/07669.mp3",
+     "yù sài",
+     "eliminatwa:r"
+    ],
+    [
+     "决赛",
+     "finalefinal]",
+     "f",
+     "fr/07670.mp3",
+     "zh/07670.mp3",
+     "jué sài",
+     ""
+    ],
+    [
+     "半决赛",
+     "demi-finale /.",
+     "",
+     "fr/07671.mp3",
+     "zh/07671.mp3",
+     "bàn jué sài",
+     "d(a)mi final"
+    ],
+    [
+     "球队",
+     "équipe",
+     "f",
+     "fr/07672.mp3",
+     "zh/07672.mp3",
+     "qiú duì",
+     "ekip"
+    ],
+    [
+     "运动员",
+     "sportif,ve",
+     "",
+     "fr/07673.mp3",
+     "zh/07673.mp3",
+     "yùn dòng yuán",
+     "sportif,ixv"
+    ],
+    [
+     "训练",
+     "exercice",
+     "m.",
+     "fr/07674.mp3",
+     "zh/07674.mp3",
+     "xùn liàn",
+     "egzersis"
+    ],
+    [
+     "裁判",
+     "jugement",
+     "m.",
+     "fr/07676.mp3",
+     "zh/07676.mp3",
+     "cái pàn",
+     "3y3ma"
+    ],
+    [
+     "冠军",
+     "champion",
+     "",
+     "fr/07677.mp3",
+     "zh/07677.mp3",
+     "guàn jūn",
+     "ápjon"
+    ],
+    [
+     "亚军",
+     "titre de second",
+     "",
+     "fr/07678.mp3",
+     "zh/07678.mp3",
+     "yà jūn",
+     "titr dasa)g:d"
+    ],
+    [
+     "第三名",
+     "=troisieme",
+     "",
+     "fr/07679.mp3",
+     "zh/07679.mp3",
+     "dì sān míng",
+     "trwa(a)zjem"
+    ]
+   ],
+   "s": [
+    [
+     "Ce soir il y aura un match de rugby entre la France et IAngleterre,mais le probleme est que je sois occupé par autre chose et je ne peux pas y aller.",
+     "今天晚上又一场法国队和英国队的橄榄球比赛，可问题是我有事去不了。",
+     "",
+     "fr/07680.mp3",
+     "zh/07680.mp3",
+     "jīn tiān wǎn shàng yòu yī cháng fǎ guó duì hé yīng guó duì de gǎn lǎn qiú bǐ sài kě wèn tí shì wǒ yǒu shì qù bù liǎo",
+     ""
+    ],
+    [
+     "Avant elle, aucune Chinoise n'avait jamais atteint les quarts de finale a Roland-Garros.",
+     "在她之前，从未有中国女选手进入到法网的四分之一决赛。",
+     "",
+     "fr/07681.mp3",
+     "zh/07681.mp3",
+     "zài tā zhī qián cóng wèi yǒu zhōng guó nǚ xuǎn shǒu jìn rù dào fǎ wǎng de sì fēn zhī yī jué sài",
+     ""
+    ],
+    [
+     "Le premier champion chinois des JO dhiver,la star du patinage de vitesse Yang Yang,a été le premier a porter la torche a Sanya. +-A",
+     "速滑明星杨扬中国第一个冬季奥运会的第一棒火炬手。",
+     "",
+     "fr/07682.mp3",
+     "zh/07682.mp3",
+     "sù huá míng xīng yáng yáng zhōng guó dì yí gè dōng jì ào yùn huì de dì yī bàng huǒ jù shǒu",
+     ""
+    ],
+    [
+     "Il est tres content detre championdu monde. X.",
+     "成为世界冠军让他非常高兴",
+     "",
+     "fr/07683.mp3",
+     "zh/07683.mp3",
+     "chéng wéi shì jiè guàn jūn ràng tā fēi cháng gāo xìng",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "patinage",
+     "n.m.",
+     "fr/07684.mp3",
+     "zh/07684.mp3",
+     "",
+     "patina:3"
+    ],
+    [
+     "滑冰",
+     "",
+     "",
+     "",
+     "zh/07685.mp3",
+     "huá bīng",
+     ""
+    ],
+    [
+     "速度",
+     "vitesse n",
+     "",
+     "fr/07686.mp3",
+     "zh/07686.mp3",
+     "sù dù",
+     "vites"
+    ]
+   ]
+  },
+  {
+   "no": 5,
+   "name": "第5节",
+   "w": [
+    [
+     "职业的",
+     "profession nel,le",
+     "",
+     "fr/07687.mp3",
+     "zh/07687.mp3",
+     "zhí yè de",
+     "profesjonel"
+    ],
+    [
+     "明星",
+     "vedette",
+     "f",
+     "fr/07688.mp3",
+     "zh/07688.mp3",
+     "míng xīng",
+     "vadet"
+    ],
+    [
+     "前锋",
+     "avant-garde",
+     "f.",
+     "fr/07689.mp3",
+     "zh/07689.mp3",
+     "qián fēng",
+     "avá gard"
+    ],
+    [
+     "小前锋",
+     "Jailier",
+     "m.",
+     "fr/07690.mp3",
+     "zh/07690.mp3",
+     "xiǎo qián fēng",
+     "clje"
+    ],
+    [
+     "中锋客后卫",
+     "avant-centre garde",
+     "m.",
+     "fr/07691.mp3",
+     "zh/07691.mp3",
+     "zhōng fēng kè hòu wèi",
+     "avásátr"
+    ],
+    [
+     "队长",
+     "chef déquipe",
+     "m.",
+     "fr/07692.mp3",
+     "zh/07692.mp3",
+     "duì zhǎng",
+     "e dekip"
+    ],
+    [
+     "客队",
+     "équipe invitée",
+     "f",
+     "fr/07693.mp3",
+     "zh/07693.mp3",
+     "kè duì",
+     "ekip &vite"
+    ],
+    [
+     "成员替补队员",
+     "membre remplacant,e",
+     "",
+     "fr/07694.mp3",
+     "zh/07694.mp3",
+     "chéng yuán tì bǔ duì yuán",
+     "ma:br"
+    ],
+    [
+     "边锋队员",
+     "joueur winger",
+     "m.",
+     "fr/07695.mp3",
+     "zh/07695.mp3",
+     "biān fēng duì yuán",
+     "3wer wina"
+    ],
+    [
+     "代表队",
+     "équipe",
+     "",
+     "fr/07696.mp3",
+     "zh/07696.mp3",
+     "dài biǎo duì",
+     "ekip"
+    ],
+    [
+     "后卫",
+     "derrieres d'une armée",
+     "",
+     "fr/07697.mp3",
+     "zh/07697.mp3",
+     "hòu wèi",
+     "derjeir dyn arme"
+    ],
+    [
+     "领队",
+     "commander un groupe t",
+     "",
+     "fr/07698.mp3",
+     "zh/07698.mp3",
+     "lǐng duì",
+     "komäde grup"
+    ],
+    [
+     "随队人员",
+     "personnel del'équipe",
+     "m.",
+     "fr/07699.mp3",
+     "zh/07699.mp3",
+     "suí duì rén yuán",
+     "personel da lekip"
+    ]
+   ],
+   "s": [
+    [
+     "Les gens regardent dans la voiture pour voir leur vedette préfére",
+     "人们注视着车子想自赌他们喜爱的明星。在这里听得到他们的欢呼声。",
+     "",
+     "fr/07700.mp3",
+     "zh/07700.mp3",
+     "rén men zhù shì zhe chē zi xiǎng zì dǔ tā men xǐ ài de míng xīng zài zhè lǐ tīng de dào tā men de huān hū shēng",
+     ""
+    ],
+    [
+     "Lailier droit anglais sem- pare du ballon,et le diverge vers le centre par une passe courte. E",
+     "英国队右边锋截到球以后用短传把它踢到中场",
+     "",
+     "fr/07701.mp3",
+     "zh/07701.mp3",
+     "yīng guó duì yòu biān fēng jié dào qiú yǐ hòu yòng duǎn chuán bǎ tā tī dào zhōng chǎng",
+     ""
+    ],
+    [
+     "Les remplacants et les spec tateurs encouragent ensemble Iéquipe.",
+     "替补队员和观众一起为之加油。",
+     "",
+     "fr/07702.mp3",
+     "zh/07702.mp3",
+     "tì bǔ duì yuán hé guān zhòng yì qǐ wèi zhī jiā yóu",
+     ""
+    ],
+    [
+     "Un bon esprit déquipe permet a un groupe de travailler efficacement. -IF",
+     "优良的团队精神可以让一个团队高效工作",
+     "",
+     "fr/07703.mp3",
+     "zh/07703.mp3",
+     "yōu liáng de tuán duì jīng shén kě yǐ ràng yí gè tuán duì gāo xiào gōng zuò",
+     ""
+    ],
+    [
+     "Ce défenseur se révele bien dans le match. +T",
+     "这个后卫在比赛中表现得非常不错",
+     "",
+     "fr/07704.mp3",
+     "zh/07704.mp3",
+     "zhè ge hòu wèi zài bǐ sài zhōng biǎo xiàn dé fēi cháng bù cuò",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "发散",
+     "diverge",
+     "vi.",
+     "fr/07705.mp3",
+     "zh/07705.mp3",
+     "fā sàn",
+     "diverze"
+    ],
+    [
+     "短的",
+     "courte",
+     "adj.",
+     "fr/07706.mp3",
+     "zh/07706.mp3",
+     "duǎn de",
+     "kur,kurt"
+    ],
+    [
+     "",
+     "efficacement",
+     "",
+     "fr/07707.mp3",
+     "zh/07707.mp3",
+     "",
+     "efikasmä"
+    ],
+    [
+     "有效地",
+     "",
+     "adv",
+     "",
+     "zh/07708.mp3",
+     "yǒu xiào dì",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 6,
+   "name": "第6节",
+   "w": [
+    [
+     "组织",
+     "organisation",
+     "f.",
+     "fr/07709.mp3",
+     "zh/07709.mp3",
+     "zǔ zhī",
+     "brganiza(a)sj5"
+    ],
+    [
+     "终止",
+     "terminer .",
+     "",
+     "fr/07710.mp3",
+     "zh/07710.mp3",
+     "zhōng zhǐ",
+     "termine"
+    ],
+    [
+     "敏锐的",
+     "perspicace",
+     "",
+     "fr/07711.mp3",
+     "zh/07711.mp3",
+     "mǐn ruì de",
+     "perspikas"
+    ],
+    [
+     "轮流",
+     "alternativement",
+     "",
+     "fr/07712.mp3",
+     "zh/07712.mp3",
+     "lún liú",
+     "alternativmä"
+    ],
+    [
+     "传球",
+     "passe",
+     "",
+     "fr/07713.mp3",
+     "zh/07713.mp3",
+     "chuán qiú",
+     "paas"
+    ],
+    [
+     "长传",
+     "longue passe",
+     "",
+     "fr/07714.mp3",
+     "zh/07714.mp3",
+     "zhǎng chuán",
+     "15:g pa:as"
+    ],
+    [
+     "跑动传球",
+     "I'exécution de la balle",
+     "f.",
+     "fr/07715.mp3",
+     "zh/07715.mp3",
+     "pǎo dòng chuán qiú",
+     "legzekysj5 d(a la bal"
+    ],
+    [
+     "失利",
+     "échouer",
+     "",
+     "fr/07716.mp3",
+     "zh/07716.mp3",
+     "shī lì",
+     "efwe"
+    ],
+    [
+     "绕过",
+     "contourner .",
+     "",
+     "fr/07717.mp3",
+     "zh/07717.mp3",
+     "rào guò",
+     "kšturne"
+    ],
+    [
+     "抓住",
+     "agrippage",
+     "m.",
+     "fr/07718.mp3",
+     "zh/07718.mp3",
+     "zhuā zhù",
+     "agripaz"
+    ],
+    [
+     "未接住",
+     "aucune prise t.",
+     "",
+     "fr/07719.mp3",
+     "zh/07719.mp3",
+     "wèi jiē zhù",
+     "okyn pris"
+    ],
+    [
+     "运球",
+     "dribble",
+     "m.",
+     "fr/07720.mp3",
+     "zh/07720.mp3",
+     "yùn qiú",
+     "dribl"
+    ],
+    [
+     "篮下投篮",
+     "panier de tournage",
+     "",
+     "fr/07721.mp3",
+     "zh/07721.mp3",
+     "lán xià tóu lán",
+     "panje d(a) turna:3"
+    ]
+   ],
+   "s": [
+    [
+     "Sur la communication desprit,il y a souvent des inspirations plus profondes. La question est qu'on puisse faire comment pour maintenir un cur perspicace dans un monde tellement tumultueux. TNAE",
+     "于心灵的沟通上常有更完全的感应，问题是我们怎样在这个纷杂器携的世界中，保持一颗敏锐的心。",
+     "",
+     "fr/07722.mp3",
+     "zh/07722.mp3",
+     "yú xīn líng de gōu tōng shàng cháng yǒu gèng wán quán de gǎn yìng wèn tí shì wǒ men zěn yàng zài zhè ge fēn zá qì xié de shì jiè zhōng bǎo chí yī kē mǐn ruì de xīn",
+     ""
+    ],
+    [
+     "Pour ce faire,les joueurs doivent progresser en portant le ballon a la main,et réalisant des passes uniquement a un joueur situderriere lui. RTE",
+     "传球的过程中球员必须用手抱球并只能传给位于自己身后的球员。",
+     "",
+     "fr/07723.mp3",
+     "zh/07723.mp3",
+     "chuán qiú de guò chéng zhōng qiú yuán bì xū yòng shǒu bào qiú bìng zhǐ néng chuán gěi wèi yú zì jǐ shēn hòu de qiú yuán",
+     ""
+    ],
+    [
+     "Comme il a échoué dans ce match,il se decourage.",
+     "因为他在这次比赛中失败，他灰心了。",
+     "",
+     "fr/07724.mp3",
+     "zh/07724.mp3",
+     "yīn wèi tā zài zhè cì bǐ sài zhōng shī bài tā huī xīn le",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "communication",
+     "",
+     "fr/07725.mp3",
+     "zh/07725.mp3",
+     "",
+     ""
+    ],
+    [
+     "",
+     "",
+     "f.",
+     "",
+     "zh/07726.mp3",
+     "",
+     "komynika(a)sj5"
+    ],
+    [
+     "联系交往",
+     "",
+     "",
+     "",
+     "zh/07727.mp3",
+     "lián xì jiāo wǎng",
+     ""
+    ],
+    [
+     "",
+     "tumultueux",
+     "",
+     "fr/07728.mp3",
+     "zh/07728.mp3",
+     "",
+     "tymyltyo"
+    ],
+    [
+     "噜杂的",
+     "",
+     "adj.",
+     "",
+     "zh/07729.mp3",
+     "lū zá de",
+     ""
+    ],
+    [
+     "",
+     "progresser",
+     "",
+     "fr/07730.mp3",
+     "zh/07730.mp3",
+     "",
+     "progre(e)se"
+    ],
+    [
+     "前进",
+     "",
+     "",
+     "",
+     "zh/07731.mp3",
+     "qián jìn",
+     ""
+    ],
+    [
+     "",
+     "uniquement",
+     "",
+     "fr/07732.mp3",
+     "zh/07732.mp3",
+     "",
+     "ynikmä"
+    ],
+    [
+     "仅仅地",
+     "ad",
+     "",
+     "fr/07733.mp3",
+     "zh/07733.mp3",
+     "jǐn jǐn dì",
+     ""
+    ],
+    [
+     "",
+     "décourage",
+     "",
+     "fr/07734.mp3",
+     "zh/07734.mp3",
+     "",
+     "dekuraze"
+    ],
+    [
+     "使灰心",
+     "",
+     "",
+     "",
+     "zh/07735.mp3",
+     "shǐ huī xīn",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 7,
+   "name": "第7节",
+   "w": [
+    [
+     "技术",
+     "technique ].",
+     "",
+     "fr/07736.mp3",
+     "zh/07736.mp3",
+     "jì shù",
+     "teknik"
+    ],
+    [
+     "合作",
+     "coopérer .",
+     "",
+     "fr/07737.mp3",
+     "zh/07737.mp3",
+     "hé zuò",
+     "koopere"
+    ],
+    [
+     "集体精神",
+     "esprit d'équipe",
+     "m.",
+     "fr/07738.mp3",
+     "zh/07738.mp3",
+     "jí tǐ jīng shén",
+     "espri dekip"
+    ],
+    [
+     "外围的",
+     "périphérique",
+     "",
+     "fr/07739.mp3",
+     "zh/07739.mp3",
+     "wài wéi de",
+     "periferik"
+    ],
+    [
+     "迁回行进",
+     "Voyage Cir- cuit",
+     "m.",
+     "fr/07740.mp3",
+     "zh/07740.mp3",
+     "qiān huí xíng jìn",
+     "vwaja:3 sirkyi"
+    ],
+    [
+     "伴攻",
+     "feindre",
+     "",
+     "fr/07741.mp3",
+     "zh/07741.mp3",
+     "bàn gōng",
+     "frdr"
+    ],
+    [
+     "假装",
+     "simuler",
+     "",
+     "fr/07742.mp3",
+     "zh/07742.mp3",
+     "jiǎ zhuāng",
+     "simyle"
+    ],
+    [
+     "运动",
+     "sport",
+     "m.",
+     "fr/07743.mp3",
+     "zh/07743.mp3",
+     "yùn dòng",
+     "spor"
+    ],
+    [
+     "过度",
+     "excessi",
+     "f",
+     "fr/07744.mp3",
+     "zh/07744.mp3",
+     "guò dù",
+     "ekse(e)sif"
+    ],
+    [
+     "拖延",
+     "différer",
+     "",
+     "fr/07745.mp3",
+     "zh/07745.mp3",
+     "tuō yán",
+     "difere"
+    ],
+    [
+     "进攻",
+     "attaquer",
+     "",
+     "fr/07746.mp3",
+     "zh/07746.mp3",
+     "jìn gōng",
+     "atake"
+    ],
+    [
+     "防守",
+     "défendre",
+     "",
+     "fr/07747.mp3",
+     "zh/07747.mp3",
+     "fáng shǒu",
+     "defä:dr"
+    ],
+    [
+     "控制",
+     "controler .",
+     "",
+     "fr/07748.mp3",
+     "zh/07748.mp3",
+     "kòng zhì",
+     "kštrole"
+    ],
+    [
+     "掩护运动",
+     "mettre a couvert sport",
+     "",
+     "fr/07749.mp3",
+     "zh/07749.mp3",
+     "yǎn hù yùn dòng",
+     "metr a kuvert"
+    ]
+   ],
+   "s": [
+    [
+     "La compagnie Walt Disney a toujours attache de l'impor- tance a coopérer avec la so- ciete et la culture locales,au lieu d'imiter aveuglement le style occidental. XA -x",
+     "迪士尼公司一直以来都认为与当地社会和文化融合是非常重要的而不是一味地模仿西式风格",
+     "",
+     "fr/07750.mp3",
+     "zh/07750.mp3",
+     "dí shì ní gōng sī yì zhí yǐ lái dōu rèn wéi yǔ dāng dì shè huì hé wén huà róng hé shì fēi cháng zhòng yào de ér bú shì yī wèi dì mó fǎng xī shì fēng gé",
+     ""
+    ],
+    [
+     "La pression nait d'un at- tachement excessif au monde extérieur et d'une attention ex cessive a I'opinion d'autrui.",
+     "压力通常来自对身外事物过于在意，同时也过于在意他人的评断。",
+     "",
+     "fr/07751.mp3",
+     "zh/07751.mp3",
+     "yā lì tōng cháng lái zì duì shēn wài shì wù guò yú zài yì tóng shí yě guò yú zài yì tā rén de píng duàn",
+     ""
+    ],
+    [
+     "Il profite de son service pour lancer une attaque.",
+     "他利用发球抢攻。",
+     "",
+     "fr/07752.mp3",
+     "zh/07752.mp3",
+     "tā lì yòng fā qiú qiǎng gōng",
+     ""
+    ],
+    [
+     "Un équipier de la défense a remonte le terrain.",
+     "防守队员庆祝重新夺回了场地。",
+     "",
+     "fr/07753.mp3",
+     "zh/07753.mp3",
+     "fáng shǒu duì yuán qìng zhù chóng xīn duó huí le chǎng dì",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "社团",
+     "l société nf.tt",
+     "",
+     "fr/07754.mp3",
+     "zh/07754.mp3",
+     "shè tuán",
+     "sosjete"
+    ],
+    [
+     "",
+     "aveuglément",
+     "",
+     "fr/07755.mp3",
+     "zh/07755.mp3",
+     "",
+     "avcglemá"
+    ],
+    [
+     "盲目地",
+     "",
+     "adv",
+     "",
+     "zh/07756.mp3",
+     "máng mù dì",
+     ""
+    ],
+    [
+     "别人",
+     "autrui",
+     "",
+     "fr/07757.mp3",
+     "zh/07757.mp3",
+     "bié rén",
+     "otryi"
+    ]
+   ]
+  },
+  {
+   "no": 8,
+   "name": "第8节",
+   "w": [
+    [
+     "抱着",
+     "tenir",
+     "vt",
+     "fr/07758.mp3",
+     "zh/07758.mp3",
+     "bào zhe",
+     "tanir"
+    ],
+    [
+     "混战",
+     "melée",
+     "",
+     "fr/07759.mp3",
+     "zh/07759.mp3",
+     "hùn zhàn",
+     "meele"
+    ],
+    [
+     "犯规行为",
+     "faute de comportement",
+     "m.",
+     "fr/07760.mp3",
+     "zh/07760.mp3",
+     "fàn guī xíng wéi",
+     "fo:t dakšportamá"
+    ],
+    [
+     "恶意犯规",
+     "faute flagrante/",
+     "",
+     "fr/07761.mp3",
+     "zh/07761.mp3",
+     "è yì fàn guī",
+     "fo:t flagrát"
+    ],
+    [
+     "违反",
+     "violer",
+     "",
+     "fr/07762.mp3",
+     "zh/07762.mp3",
+     "wéi fǎn",
+     "vjole"
+    ],
+    [
+     "违反",
+     "transgresser",
+     "",
+     "fr/07763.mp3",
+     "zh/07763.mp3",
+     "wéi fǎn",
+     "träsgree)se"
+    ],
+    [
+     "计时器",
+     "calculagraphe",
+     "m.",
+     "fr/07764.mp3",
+     "zh/07764.mp3",
+     "jì shí qì",
+     "kalkylagraf"
+    ],
+    [
+     "吹哨",
+     "siffler",
+     "",
+     "fr/07765.mp3",
+     "zh/07765.mp3",
+     "chuī shào",
+     "sifle"
+    ],
+    [
+     "蜂鸣器",
+     "vibrateur",
+     "m.",
+     "fr/07766.mp3",
+     "zh/07766.mp3",
+     "fēng míng qì",
+     "vibratcr"
+    ],
+    [
+     "加时赛",
+     "heures sup plémentaires",
+     "f.",
+     "fr/07767.mp3",
+     "zh/07767.mp3",
+     "jiā shí sài",
+     "x:r syplemáte:r"
+    ],
+    [
+     "换人",
+     "substitution",
+     "",
+     "fr/07768.mp3",
+     "zh/07768.mp3",
+     "huàn rén",
+     "sypstitysj"
+    ],
+    [
+     "停止出赛",
+     "arreter la course",
+     "",
+     "fr/07769.mp3",
+     "zh/07769.mp3",
+     "tíng zhǐ chū sài",
+     "arete la kurs"
+    ],
+    [
+     "进攻违例",
+     "infraction offensive ofásiv]",
+     "f.",
+     "fr/07770.mp3",
+     "zh/07770.mp3",
+     "jìn gōng wéi lì",
+     "&fraksj"
+    ],
+    [
+     "防守违例",
+     "infractions défensives",
+     "f.",
+     "fr/07771.mp3",
+     "zh/07771.mp3",
+     "fáng shǒu wéi lì",
+     "efraksj5 defásiv"
+    ],
+    [
+     "警告",
+     "avertir",
+     "",
+     "fr/07772.mp3",
+     "zh/07772.mp3",
+     "jǐng gào",
+     "avertir"
+    ],
+    [
+     "警告",
+     "admonition",
+     "f.",
+     "fr/07773.mp3",
+     "zh/07773.mp3",
+     "jǐng gào",
+     "admonisj5"
+    ],
+    [
+     "天气",
+     "temps",
+     "m.",
+     "fr/08584.mp3",
+     "zh/08584.mp3",
+     "tiān qì",
+     "ta"
+    ],
+    [
+     "天气预报",
+     "prevision météorologique /",
+     "",
+     "fr/08585.mp3",
+     "zh/08585.mp3",
+     "tiān qì yù bào",
+     "previzjmeteorolzik"
+    ],
+    [
+     "气象报告员",
+     "rapporteur demétéo",
+     "m",
+     "fr/08586.mp3",
+     "zh/08586.mp3",
+     "qì xiàng bào gào yuán",
+     "raportxer da meteo"
+    ],
+    [
+     "受影响的",
+     "affectée",
+     "",
+     "fr/08587.mp3",
+     "zh/08587.mp3",
+     "shòu yǐng xiǎng de",
+     "afekte"
+    ],
+    [
+     "气候",
+     "climatklima]",
+     "m",
+     "fr/08588.mp3",
+     "zh/08588.mp3",
+     "qì hòu",
+     ""
+    ],
+    [
+     "气候的",
+     "climatique",
+     "",
+     "fr/08589.mp3",
+     "zh/08589.mp3",
+     "qì hòu de",
+     "klimatik"
+    ],
+    [
+     "气候学",
+     "climatologie .",
+     "",
+     "fr/08590.mp3",
+     "zh/08590.mp3",
+     "qì hòu xué",
+     "klimatolozi"
+    ],
+    [
+     "大气",
+     "atmosphere /.",
+     "",
+     "fr/08591.mp3",
+     "zh/08591.mp3",
+     "dà qì",
+     "atmosfe:r"
+    ],
+    [
+     "气象学",
+     "météorologie /.",
+     "",
+     "fr/08592.mp3",
+     "zh/08592.mp3",
+     "qì xiàng xué",
+     "meteorolozi"
+    ],
+    [
+     "寒冷的",
+     "froid",
+     "",
+     "fr/08593.mp3",
+     "zh/08593.mp3",
+     "hán lěng de",
+     "frwaa),a(a:)d"
+    ],
+    [
+     "晴朗的",
+     "clair,e",
+     "",
+     "fr/08594.mp3",
+     "zh/08594.mp3",
+     "qíng lǎng de",
+     "kler"
+    ],
+    [
+     "温暖的",
+     "tempere,e",
+     "",
+     "fr/08595.mp3",
+     "zh/08595.mp3",
+     "wēn nuǎn de",
+     "täpere"
+    ],
+    [
+     "刮风的",
+     "venteuxse",
+     "",
+     "fr/08596.mp3",
+     "zh/08596.mp3",
+     "guā fēng de",
+     "vát,z"
+    ],
+    [
+     "霜",
+     "givre",
+     "m.",
+     "fr/08597.mp3",
+     "zh/08597.mp3",
+     "shuāng",
+     "zivr"
+    ],
+    [
+     "温带",
+     "one tempérée /",
+     "",
+     "fr/08598.mp3",
+     "zh/08598.mp3",
+     "wēn dài",
+     "zon täpere"
+    ],
+    [
+     "热带",
+     "tropiques pl.",
+     "",
+     "fr/08599.mp3",
+     "zh/08599.mp3",
+     "rè dài",
+     "tropik"
+    ]
+   ],
+   "s": [
+    [
+     "Larbitre siffle la fin du match.",
+     "裁判吹响了比赛结束的哨子。",
+     "",
+     "fr/07774.mp3",
+     "zh/07774.mp3",
+     "cái pàn chuī xiǎng le bǐ sài jié shù de shào zi",
+     ""
+    ],
+    [
+     "Seul le gardien de cette équipe et un poursuiveur de I'équipe adverse sont alors au- torisés a jouer sur ce penalty.",
+     "罚球时，只有这个队伍的守门员和对方的一名追球手对峙。",
+     "",
+     "fr/07775.mp3",
+     "zh/07775.mp3",
+     "fá qiú shí zhǐ yǒu zhè ge duì wǔ de shǒu mén yuán hé duì fāng de yī míng zhuī qiú shǒu duì zhì",
+     ""
+    ],
+    [
+     "Avec une défense dans cet état, il y a toutes les chances que nous prenions des buts.#",
+     "用有这样的防守，我们就会有很多的射门机会。",
+     "",
+     "fr/07776.mp3",
+     "zh/07776.mp3",
+     "yòng yǒu zhè yàng de fáng shǒu wǒ men jiù huì yǒu hěn duō de shè mén jī huì",
+     ""
+    ],
+    [
+     "Larbitre peut déclarer un penalty contre une équipe.",
+     "裁判可以判一支球队罚球。",
+     "",
+     "fr/07777.mp3",
+     "zh/07777.mp3",
+     "cái pàn kě yǐ pàn yī zhī qiú duì fá qiú",
+     ""
+    ],
+    [
+     "Avec une défense dans cet état, il y a toutes les chances que nous prenions des buts.#",
+     "拥有这样的防守，我们就会有很多的射门机会。",
+     "",
+     "fr/07778.mp3",
+     "zh/07778.mp3",
+     "yōng yǒu zhè yàng de fáng shǒu wǒ men jiù huì yǒu hěn duō de shè mén jī huì",
+     ""
+    ],
+    [
+     "En mars,le temps est sou- vent changeant. II fait plus doux aujourdhui grace au climat marin.Par la fenetre du café,je trouve quelques-uns qui travaillent en prenant du maillot a manches courtes. ItF.",
+     "三月的天气经常多变。海洋性气候让快进入冬天的日子突然转暖起来。咖啡馆外竟有人穿着短袖在工作",
+     "",
+     "fr/08600.mp3",
+     "zh/08600.mp3",
+     "sān yuè de tiān qì jīng cháng duō biàn hǎi yáng xìng qì hòu ràng kuài jìn rù dōng tiān de rì zi tū rán zhuǎn nuǎn qǐ lái kā fēi guǎn wài jìng yǒu rén chuān zhe duǎn xiù zài gōng zuò",
+     ""
+    ],
+    [
+     "Le climat y est tempéré, avec des variations locales:il fait plus humide a l'ouest, plus froid a l'est, plus chaud et plus sec au sud, surtout au bord de laMediterranee. A",
+     "法国气候总体温和，由于区域的不同有少许差异：相对来说西部潮湿东部寒冷南部尤其是在地中海沿岸炎热而且干燥。",
+     "",
+     "fr/08601.mp3",
+     "zh/08601.mp3",
+     "fǎ guó qì hòu zǒng tǐ wēn hé yóu yú qū yù de bù tóng yǒu shǎo xǔ chā yì xiāng duì lái shuō xī bù cháo shī dōng bù hán lěng nán bù yóu qí shì zài dì zhōng hǎi yán àn yán rè ér qiě gān zào",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "裁判",
+     "arbitre",
+     "n.m.",
+     "fr/07779.mp3",
+     "zh/07779.mp3",
+     "cái pàn",
+     "arbitr"
+    ],
+    [
+     "敌对",
+     "adverse a.",
+     "",
+     "fr/07780.mp3",
+     "zh/07780.mp3",
+     "dí duì",
+     "advers"
+    ],
+    [
+     "的对手的",
+     "",
+     "",
+     "",
+     "zh/07781.mp3",
+     "de duì shǒu de",
+     ""
+    ],
+    [
+     "球门",
+     "but",
+     "n.m.",
+     "fr/07782.mp3",
+     "zh/07782.mp3",
+     "qiú mén",
+     "byt"
+    ],
+    [
+     "队",
+     "équipenfB",
+     "",
+     "fr/07783.mp3",
+     "zh/07783.mp3",
+     "duì",
+     "ekip"
+    ],
+    [
+     "情形",
+     "état",
+     "n.m.",
+     "fr/07784.mp3",
+     "zh/07784.mp3",
+     "qíng xíng",
+     "eta"
+    ],
+    [
+     "海的",
+     "marin,e ad.",
+     "",
+     "fr/08602.mp3",
+     "zh/08602.mp3",
+     "hǎi de",
+     "mar,in"
+    ],
+    [
+     "汗衫",
+     "maillot",
+     "n.m.",
+     "fr/08603.mp3",
+     "zh/08603.mp3",
+     "hàn shān",
+     "majo"
+    ],
+    [
+     "",
+     "variation",
+     "nf.",
+     "fr/08604.mp3",
+     "zh/08604.mp3",
+     "",
+     "varjaa)sj5"
+    ],
+    [
+     "变动",
+     "",
+     "",
+     "",
+     "zh/08605.mp3",
+     "biàn dòng",
+     ""
+    ],
+    [
+     "",
+     "Méditerranée",
+     "",
+     "fr/08606.mp3",
+     "zh/08606.mp3",
+     "",
+     ""
+    ],
+    [
+     "地中海",
+     "",
+     "",
+     "",
+     "zh/08607.mp3",
+     "dì zhōng hǎi",
+     "mediterane"
+    ]
+   ]
+  },
+  {
+   "no": 9,
+   "name": "第9节",
+   "w": [
+    [
+     "场地",
+     "terrain",
+     "m",
+     "fr/08414.mp3",
+     "zh/08414.mp3",
+     "chǎng dì",
+     "ter"
+    ],
+    [
+     "足球场比赛",
+     "terrain de foot ball ttmatch",
+     "m",
+     "fr/08415.mp3",
+     "zh/08415.mp3",
+     "zú qiú chǎng bǐ sài",
+     "ter da futbo:l"
+    ],
+    [
+     "足球鞋",
+     "chaussures de foot",
+     "",
+     "fr/08416.mp3",
+     "zh/08416.mp3",
+     "zú qiú xié",
+     "osyxr dafut"
+    ],
+    [
+     "开球",
+     "coup d'envoi",
+     "m.",
+     "fr/08417.mp3",
+     "zh/08417.mp3",
+     "kāi qiú",
+     "kup dávwa"
+    ],
+    [
+     "球门",
+     "goal",
+     "m",
+     "fr/08418.mp3",
+     "zh/08418.mp3",
+     "qiú mén",
+     "gol"
+    ],
+    [
+     "球门球",
+     "filet",
+     "m",
+     "fr/08419.mp3",
+     "zh/08419.mp3",
+     "qiú mén qiú",
+     "file"
+    ],
+    [
+     "球门口",
+     "porte ball [port bally:",
+     "",
+     "fr/08420.mp3",
+     "zh/08420.mp3",
+     "qiú mén kǒu",
+     ""
+    ],
+    [
+     "球门线",
+     "ligne de but",
+     "f",
+     "fr/08421.mp3",
+     "zh/08421.mp3",
+     "qiú mén xiàn",
+     "lin da but"
+    ],
+    [
+     "零比零",
+     "ttzéro zérozero zero]",
+     "",
+     "fr/08422.mp3",
+     "zh/08422.mp3",
+     "líng bǐ líng",
+     ""
+    ],
+    [
+     "比",
+     "tt comparer",
+     "",
+     "fr/08423.mp3",
+     "zh/08423.mp3",
+     "bǐ",
+     "kpare"
+    ],
+    [
+     "假动作",
+     "feint",
+     "",
+     "fr/08424.mp3",
+     "zh/08424.mp3",
+     "jiǎ dòng zuò",
+     "f"
+    ],
+    [
+     "红牌",
+     "carton rouge",
+     "m",
+     "fr/08425.mp3",
+     "zh/08425.mp3",
+     "hóng pái",
+     "kartš ru:3"
+    ],
+    [
+     "黄牌",
+     "carton jaune",
+     "m",
+     "fr/08426.mp3",
+     "zh/08426.mp3",
+     "huáng pái",
+     "kart530:n"
+    ],
+    [
+     "败球门",
+     "défaiteécrasante . goal",
+     "",
+     "fr/08427.mp3",
+     "zh/08427.mp3",
+     "bài qiú mén",
+     "defet ekrazä:t"
+    ]
+   ],
+   "s": [
+    [
+     "Sur le terrain chacun s'ef- force de donner le meilleur de soi-mme.",
+     "场上每个人都会尽自己的最大努力。",
+     "",
+     "fr/08428.mp3",
+     "zh/08428.mp3",
+     "chǎng shàng měi gè rén dū huì jǐn zì jǐ de zuì dà nǔ lì",
+     ""
+    ],
+    [
+     "La joueuse tricolore a gagne son premier match international.",
+     "这个法国女运动员赢得了她的第一个国际比赛。",
+     "",
+     "fr/08429.mp3",
+     "zh/08429.mp3",
+     "zhè ge fǎ guó nǚ yùn dòng yuán yíng dé le tā de dì yí gè guó jì bǐ sài",
+     ""
+    ],
+    [
+     "Et quel est donc le titre de ce merveilleux volume? de- mandai-je avec un empresse- ment trop enthousiaste pour ntre pas feint.",
+     "这本奇妙无比的书的书名是什么？”我热情洋溢地间道，这热情显然是装出来的。",
+     "",
+     "fr/08430.mp3",
+     "zh/08430.mp3",
+     "zhè běn qí miào wú bǐ de shū de shū míng shì shén me wǒ rè qíng yáng yì dì jiàn dào zhè rè qíng xiǎn rán shì zhuāng chū lái de",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "meilleur",
+     "adj.",
+     "fr/08431.mp3",
+     "zh/08431.mp3",
+     "",
+     "mee)jx:r"
+    ],
+    [
+     "较好的",
+     "",
+     "",
+     "",
+     "zh/08432.mp3",
+     "jiào hǎo de",
+     ""
+    ],
+    [
+     "法",
+     "tricolore",
+     "adj.",
+     "fr/08433.mp3",
+     "zh/08433.mp3",
+     "fǎ",
+     "advers"
+    ],
+    [
+     "国的",
+     "",
+     "",
+     "",
+     "zh/08434.mp3",
+     "guó de",
+     ""
+    ],
+    [
+     "书",
+     "volume",
+     "n.m.",
+     "fr/08435.mp3",
+     "zh/08435.mp3",
+     "shū",
+     "volym"
+    ]
+   ]
+  },
+  {
+   "no": 10,
+   "name": "第10节",
+   "w": [
+    [
+     "足球运动员",
+     "joueur de football",
+     "m.",
+     "fr/07785.mp3",
+     "zh/07785.mp3",
+     "zú qiú yùn dòng yuán",
+     "zwx:r d(a) futborl"
+    ],
+    [
+     "足球运动员",
+     "foot balleur,euse",
+     "",
+     "fr/07786.mp3",
+     "zh/07786.mp3",
+     "zú qiú yùn dòng yuán",
+     "futbolr,a"
+    ],
+    [
+     "足球的前锋",
+     "atta quant de football",
+     "m",
+     "fr/07787.mp3",
+     "zh/07787.mp3",
+     "zú qiú de qián fēng",
+     "atakä da futbo:l"
+    ],
+    [
+     "中锋",
+     "avant-centre",
+     "m.",
+     "fr/07788.mp3",
+     "zh/07788.mp3",
+     "zhōng fēng",
+     "avä sátr"
+    ],
+    [
+     "前卫",
+     "avant-garde",
+     "f.",
+     "fr/07789.mp3",
+     "zh/07789.mp3",
+     "qián wèi",
+     "avá gard"
+    ],
+    [
+     "得分手",
+     "buteur",
+     "m.",
+     "fr/07790.mp3",
+     "zh/07790.mp3",
+     "dé fēn shǒu",
+     "bytir"
+    ],
+    [
+     "左内锋",
+     "inter gauche",
+     "",
+     "fr/07791.mp3",
+     "zh/07791.mp3",
+     "zuǒ nèi fēng",
+     "&teir go:"
+    ],
+    [
+     "右内锋",
+     "inter droit",
+     "m.",
+     "fr/07792.mp3",
+     "zh/07792.mp3",
+     "yòu nèi fēng",
+     "&terr drwa"
+    ],
+    [
+     "左边锋",
+     "ailier gauche",
+     "m.",
+     "fr/07793.mp3",
+     "zh/07793.mp3",
+     "zuǒ biān fēng",
+     "aje go:"
+    ],
+    [
+     "右边锋",
+     "ailier droit",
+     "m.",
+     "fr/07794.mp3",
+     "zh/07794.mp3",
+     "yòu biān fēng",
+     "aje drwa"
+    ],
+    [
+     "守门员",
+     "portierere",
+     "",
+     "fr/07795.mp3",
+     "zh/07795.mp3",
+     "shǒu mén yuán",
+     "portje,er"
+    ],
+    [
+     "后卫足球运动员",
+     "garde joueur defootball",
+     "",
+     "fr/07796.mp3",
+     "zh/07796.mp3",
+     "hòu wèi zú qiú yùn dòng yuán",
+     "gard"
+    ]
+   ],
+   "s": [
+    [
+     "Un homme inintelligent ou simplement lent dans sa compréhension ne deviendra jamais un bon footballeur.",
+     "个不聪明，或者理解能力差的人永远不可能成为一名好的足球运动员。",
+     "",
+     "fr/07797.mp3",
+     "zh/07797.mp3",
+     "gè bù cōng míng huò zhě lǐ jiě néng lì chà de rén yǒng yuǎn bù kě néng chéng wéi yī míng hǎo de zú qiú yùn dòng yuán",
+     ""
+    ],
+    [
+     "] Le Brésilien, déja buteur á deux reprises,espere feter ses retrouvailles avec son ancien club de la plus belle des ma- nieres. Grace a ce portier,Iéquipe francais a gagné ce match.",
+     "巴西前锋已经为球队打进过两球，希望他能够在重新面对老东家的时候能够有庆祝的机会。多亏了这个守门员，法国队赢得了这次比赛。",
+     "",
+     "fr/07798.mp3",
+     "zh/07798.mp3",
+     "bā xī qián fēng yǐ jīng wèi qiú duì dǎ jìn guò liǎng qiú xī wàng tā néng gòu zài chóng xīn miàn duì lǎo dōng jiā de shí hòu néng gòu yǒu qìng zhù de jī huì duō kuī le zhè ge shǒu mén yuán fǎ guó duì yíng dé le zhè cì bǐ sài",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "inintelligente",
+     "",
+     "fr/07799.mp3",
+     "zh/07799.mp3",
+     "",
+     ""
+    ],
+    [
+     "",
+     "ad",
+     "",
+     "fr/07800.mp3",
+     "zh/07800.mp3",
+     "",
+     "inéteeliza,a:t"
+    ],
+    [
+     "不聪明的",
+     "",
+     "",
+     "",
+     "zh/07801.mp3",
+     "bù cōng míng de",
+     ""
+    ],
+    [
+     "",
+     "compréhension [kpre",
+     "",
+     "fr/07802.mp3",
+     "zh/07802.mp3",
+     "",
+     ""
+    ],
+    [
+     "时理解力",
+     "asj5]",
+     "nf",
+     "fr/07803.mp3",
+     "zh/07803.mp3",
+     "shí lǐ jiě lì",
+     ""
+    ],
+    [
+     "",
+     "retrouvaille",
+     "",
+     "fr/07804.mp3",
+     "zh/07804.mp3",
+     "",
+     "r(a)truvaj"
+    ],
+    [
+     "重逢",
+     "nf.pl.",
+     "",
+     "fr/07805.mp3",
+     "zh/07805.mp3",
+     "chóng féng",
+     ""
+    ],
+    [
+     "队",
+     "équipe",
+     "nf",
+     "fr/07806.mp3",
+     "zh/07806.mp3",
+     "duì",
+     "ekip"
+    ]
+   ]
+  },
+  {
+   "no": 11,
+   "name": "第11节",
+   "w": [
+    [
+     "带球",
+     "dribbler",
+     "",
+     "fr/08436.mp3",
+     "zh/08436.mp3",
+     "dài qiú",
+     "drible"
+    ],
+    [
+     "截球",
+     "interception",
+     "",
+     "fr/08437.mp3",
+     "zh/08437.mp3",
+     "jié qiú",
+     "&tersepsj5"
+    ],
+    [
+     "传球",
+     "passe",
+     "f",
+     "fr/08438.mp3",
+     "zh/08438.mp3",
+     "chuán qiú",
+     "paas"
+    ],
+    [
+     "射门",
+     "shoot",
+     "m",
+     "fr/08439.mp3",
+     "zh/08439.mp3",
+     "shè mén",
+     "[ut"
+    ],
+    [
+     "踢",
+     "jouer t.",
+     "",
+     "fr/08440.mp3",
+     "zh/08440.mp3",
+     "tī",
+     "3we"
+    ],
+    [
+     "角球",
+     "corner",
+     "",
+     "fr/08441.mp3",
+     "zh/08441.mp3",
+     "jiǎo qiú",
+     "korne"
+    ],
+    [
+     "头球",
+     "tete",
+     "",
+     "fr/08442.mp3",
+     "zh/08442.mp3",
+     "tóu qiú",
+     "tet"
+    ],
+    [
+     "任意球",
+     "coup de pied",
+     "m.",
+     "fr/08443.mp3",
+     "zh/08443.mp3",
+     "rèn yì qiú",
+     "ku da pje"
+    ],
+    [
+     "直接任意球",
+     "coup franc direct",
+     "m.",
+     "fr/08444.mp3",
+     "zh/08444.mp3",
+     "zhí jiē rèn yì qiú",
+     "ku frä direkt"
+    ],
+    [
+     "间接任意球",
+     "coup franc indirect",
+     "m.",
+     "fr/08445.mp3",
+     "zh/08445.mp3",
+     "jiàn jiē rèn yì qiú",
+     "ku frä Edirekt"
+    ],
+    [
+     "罚任意球",
+     "penalty",
+     "m.",
+     "fr/08446.mp3",
+     "zh/08446.mp3",
+     "fá rèn yì qiú",
+     "penalti"
+    ],
+    [
+     "罚球区",
+     "surfaces de réparation /",
+     "",
+     "fr/08447.mp3",
+     "zh/08447.mp3",
+     "fá qiú qū",
+     "syrfas da repara(a)sj5"
+    ],
+    [
+     "罚球点",
+     "point de penalty",
+     "m.",
+     "fr/08448.mp3",
+     "zh/08448.mp3",
+     "fá qiú diǎn",
+     "pw&da penalti"
+    ],
+    [
+     "得分",
+     "score",
+     "m.",
+     "fr/08449.mp3",
+     "zh/08449.mp3",
+     "dé fēn",
+     "skor"
+    ],
+    [
+     "分",
+     "note",
+     "",
+     "fr/08450.mp3",
+     "zh/08450.mp3",
+     "fēn",
+     "not"
+    ],
+    [
+     "一局",
+     "-partie",
+     "",
+     "fr/08451.mp3",
+     "zh/08451.mp3",
+     "yī jú",
+     "parti"
+    ],
+    [
+     "救球",
+     "enregistre",
+     "",
+     "fr/08452.mp3",
+     "zh/08452.mp3",
+     "jiù qiú",
+     "árzistr"
+    ],
+    [
+     "越位的球员",
+     "oueur horsjeu",
+     "m.",
+     "fr/08453.mp3",
+     "zh/08453.mp3",
+     "yuè wèi de qiú yuán",
+     "zwcirr 30"
+    ]
+   ],
+   "s": [
+    [
+     "1062étudiants tentent de battre le record du Guinness Word du plus grand nombre de personnes dribblant avec un ballon, a Yanbian, dans la pro- vince chinoise de Jilin,le 10 juillet.710",
+     "月日吉林省延边市1062名大学生尝试打破颠球人数之最的吉尼斯世界纪录。",
+     "",
+     "fr/08454.mp3",
+     "zh/08454.mp3",
+     "yuè rì jí lín shěng yán biān shì míng dà xué shēng cháng shì dǎ pò diān qiú rén shù zhī zuì de jí ní sī shì jiè jì lù",
+     ""
+    ],
+    [
+     "Seul le gardien de cette équipe et un poursuiveur de I'équipe adverse sont alors au- torisés a jouer sur ce penalty.",
+     "罚球时，只有这个队伍的守门员和对方的一名追球手对峙。",
+     "",
+     "fr/08455.mp3",
+     "zh/08455.mp3",
+     "fá qiú shí zhǐ yǒu zhè ge duì wǔ de shǒu mén yuán hé duì fāng de yī míng zhuī qiú shǒu duì zhì",
+     ""
+    ],
+    [
+     "L'équipe de Beijing a gagné avec le score de 2-1.t",
+     "北京队以二比一取胜。",
+     "",
+     "fr/08456.mp3",
+     "zh/08456.mp3",
+     "běi jīng duì yǐ èr bǐ yī qǔ shèng",
+     ""
+    ],
+    [
+     "Larbitre a accordé a I équipe anglaise un coup de pe nalty.",
+     "裁判判英国队罚点球",
+     "",
+     "fr/08457.mp3",
+     "zh/08457.mp3",
+     "cái pàn pàn yīng guó duì fá diǎn qiú",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "打战胜",
+     "battre[batrt.",
+     "",
+     "fr/08458.mp3",
+     "zh/08458.mp3",
+     "dǎ zhàn shèng",
+     ""
+    ],
+    [
+     "",
+     "gardien,ne",
+     "",
+     "fr/08459.mp3",
+     "zh/08459.mp3",
+     "",
+     "gardjen"
+    ],
+    [
+     "守门员",
+     "nmnA",
+     "",
+     "fr/08460.mp3",
+     "zh/08460.mp3",
+     "shǒu mén yuán",
+     ""
+    ],
+    [
+     "在上",
+     "sur",
+     "prep",
+     "fr/08461.mp3",
+     "zh/08461.mp3",
+     "zài shàng",
+     "syr"
+    ],
+    [
+     "给予",
+     "accorder",
+     "vt.",
+     "fr/08462.mp3",
+     "zh/08462.mp3",
+     "jǐ yǔ",
+     "akorde"
+    ]
+   ]
+  },
+  {
+   "no": 12,
+   "name": "第12节",
+   "w": [
+    [
+     "棒球场",
+     "champ de base-ball ä da bezbol]",
+     "m.",
+     "fr/08463.mp3",
+     "zh/08463.mp3",
+     "bàng qiú chǎng",
+     ""
+    ],
+    [
+     "击球员",
+     "batteur",
+     "m",
+     "fr/08464.mp3",
+     "zh/08464.mp3",
+     "jī qiú yuán",
+     "batcexr"
+    ],
+    [
+     "接球手",
+     "receveur",
+     "m.",
+     "fr/08465.mp3",
+     "zh/08465.mp3",
+     "jiē qiú shǒu",
+     "resavcr"
+    ],
+    [
+     "击球",
+     "frappe[frapl",
+     "",
+     "fr/08466.mp3",
+     "zh/08466.mp3",
+     "jī qiú",
+     ""
+    ],
+    [
+     "投球手",
+     "lanceur",
+     "m.",
+     "fr/08467.mp3",
+     "zh/08467.mp3",
+     "tóu qiú shǒu",
+     "lásxer"
+    ],
+    [
+     "守队",
+     "Béquipe défensive /",
+     "",
+     "fr/08468.mp3",
+     "zh/08468.mp3",
+     "shǒu duì",
+     "ekip defäsi:v"
+    ],
+    [
+     "垒",
+     "construire",
+     "",
+     "fr/08469.mp3",
+     "zh/08469.mp3",
+     "lěi",
+     "kšstrui:r"
+    ],
+    [
+     "一垒",
+     "-une baseyn ba:(az]/.",
+     "",
+     "fr/08470.mp3",
+     "zh/08470.mp3",
+     "yī lěi",
+     ""
+    ],
+    [
+     "二垒",
+     "secondebase",
+     "f",
+     "fr/08471.mp3",
+     "zh/08471.mp3",
+     "èr lěi",
+     "sag5d ba:az"
+    ],
+    [
+     "三垒",
+     "=troisleme base/",
+     "",
+     "fr/08472.mp3",
+     "zh/08472.mp3",
+     "sān lěi",
+     "trwaa)zjem bax(a)z"
+    ],
+    [
+     "本垒板",
+     "plaque dac cueil",
+     "",
+     "fr/08473.mp3",
+     "zh/08473.mp3",
+     "běn lěi bǎn",
+     "plak dakxj"
+    ],
+    [
+     "分",
+     "fraction",
+     "",
+     "fr/08474.mp3",
+     "zh/08474.mp3",
+     "fēn",
+     "fraksj"
+    ],
+    [
+     "本垒打",
+     "Thomereomer]",
+     "",
+     "fr/08475.mp3",
+     "zh/08475.mp3",
+     "běn lěi dǎ",
+     ""
+    ],
+    [
+     "局",
+     "jeu",
+     "m",
+     "fr/08476.mp3",
+     "zh/08476.mp3",
+     "jú",
+     "30"
+    ]
+   ],
+   "s": [
+    [
+     "Le rle des batteurs est de protéger les joueurs de leur équipe des attaques des Co- gnards et de les renvoyer dans le camp den face. Le base-ball prend parfois des allures deball-trap.",
+     "击球手负责保护同队队员免于游走球的攻击，并将游走球击打到对方阵营。棒球有时看起来会像飞碟射击。",
+     "",
+     "fr/08477.mp3",
+     "zh/08477.mp3",
+     "jī qiú shǒu fù zé bǎo hù tóng duì duì yuán miǎn yú yóu zǒu qiú de gōng jī bìng jiāng yóu zǒu qiú jī dǎ dào duì fāng zhèn yíng bàng qiú yǒu shí kàn qǐ lái huì xiàng fēi dié shè jī",
+     ""
+    ],
+    [
+     "La confiance est comme un chateau de sable, difficile a construire, mais facile a dé- truire.x- X.",
+     "对一个人的信任就如同沙子垒成的城堡。很难建成但又很容易塌",
+     "",
+     "fr/08478.mp3",
+     "zh/08478.mp3",
+     "duì yí gè rén de xìn rèn jiù rú tóng shā zi lěi chéng de chéng bǎo hěn nán jiàn chéng dàn yòu hěn róng yì tā",
+     ""
+    ],
+    [
+     "Et on ne parle pas quand quelquun tape une balle.",
+     "而耳在有人击球的时候不能讲话。",
+     "",
+     "fr/08479.mp3",
+     "zh/08479.mp3",
+     "ér ěr zài yǒu rén jī qiú de shí hòu bù néng jiǎng huà",
+     ""
+    ],
+    [
+     "Léquipe a fourni un jeu remarquable.-",
+     "球队这一局踢得很精彩。",
+     "",
+     "fr/08480.mp3",
+     "zh/08480.mp3",
+     "qiú duì zhè yī jú tī dé hěn jīng cǎi",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "有",
+     "parfois",
+     "adv",
+     "fr/08481.mp3",
+     "zh/08481.mp3",
+     "yǒu",
+     "parfwa"
+    ],
+    [
+     "时偶尔",
+     "",
+     "",
+     "",
+     "zh/08482.mp3",
+     "shí ǒu ěr",
+     ""
+    ],
+    [
+     "城堡",
+     "chateau",
+     "nm.",
+     "fr/08483.mp3",
+     "zh/08483.mp3",
+     "chéng bǎo",
+     "ato"
+    ],
+    [
+     "讲话",
+     "parler wi.",
+     "",
+     "fr/08484.mp3",
+     "zh/08484.mp3",
+     "jiǎng huà",
+     "parle"
+    ],
+    [
+     "",
+     "remarquable",
+     "",
+     "fr/08485.mp3",
+     "zh/08485.mp3",
+     "",
+     ""
+    ],
+    [
+     "卓越的",
+     "",
+     "adj.",
+     "",
+     "zh/08486.mp3",
+     "zhuó yuè de",
+     "ramarkabl"
+    ]
+   ]
+  },
+  {
+   "no": 13,
+   "name": "第13节",
+   "w": [
+    [
+     "双打",
+     "double",
+     "m.",
+     "fr/08487.mp3",
+     "zh/08487.mp3",
+     "shuāng dǎ",
+     "dubl"
+    ],
+    [
+     "发球",
+     "service",
+     "m",
+     "fr/08488.mp3",
+     "zh/08488.mp3",
+     "fā qiú",
+     "servis"
+    ],
+    [
+     "接球",
+     "rattraper la balle .",
+     "",
+     "fr/08489.mp3",
+     "zh/08489.mp3",
+     "jiē qiú",
+     "ratrape la bal"
+    ],
+    [
+     "发球踏线",
+     "manquer son service t.",
+     "",
+     "fr/08490.mp3",
+     "zh/08490.mp3",
+     "fā qiú tà xiàn",
+     "mäke s servis"
+    ],
+    [
+     "网球场",
+     "jeu de paume",
+     "m.",
+     "fr/08491.mp3",
+     "zh/08491.mp3",
+     "wǎng qiú chǎng",
+     "3 d(a) po:m"
+    ],
+    [
+     "网球规则",
+     "regle du tennis/.",
+     "",
+     "fr/08492.mp3",
+     "zh/08492.mp3",
+     "wǎng qiú guī zé",
+     "regl dy te(e)nis"
+    ],
+    [
+     "经理",
+     "manager",
+     "m.",
+     "fr/08493.mp3",
+     "zh/08493.mp3",
+     "jīng lǐ",
+     "manadzxr"
+    ],
+    [
+     "训练",
+     "entrainement",
+     "m.",
+     "fr/08494.mp3",
+     "zh/08494.mp3",
+     "xùn liàn",
+     "átrenmá"
+    ],
+    [
+     "球场",
+     "stade",
+     "m",
+     "fr/08495.mp3",
+     "zh/08495.mp3",
+     "qiú chǎng",
+     "stad"
+    ],
+    [
+     "击球手",
+     "batteur",
+     "m.",
+     "fr/08496.mp3",
+     "zh/08496.mp3",
+     "jī qiú shǒu",
+     "batcer"
+    ],
+    [
+     "三柱门",
+     "=guichet",
+     "m",
+     "fr/08497.mp3",
+     "zh/08497.mp3",
+     "sān zhù mén",
+     "gife"
+    ]
+   ],
+   "s": [
+    [
+     "Fort de ce double héri tage, il apporte un regard lu- cide sur la réalité du monde qui l'entoure.",
+     "有这两种文化传承的优点，他用敏锐的目光来观察发生在他周围的事情。",
+     "",
+     "fr/08498.mp3",
+     "zh/08498.mp3",
+     "yǒu zhè liǎng zhǒng wén huà chuán chéng de yōu diǎn tā yòng mǐn ruì de mù guāng lái guān chá fā shēng zài tā zhōu wéi de shì qíng",
+     ""
+    ],
+    [
+     "La vraie vie quoi, loin des coups de téléphones de mes managers et du travail acharnel",
+     "生活是个什么玩意儿？没有经纪人电话也没有繁重任务的生活才是真正的生活！",
+     "",
+     "fr/08499.mp3",
+     "zh/08499.mp3",
+     "shēng huó shì gè shén me wán yì ér méi yǒu jīng jì rén diàn huà yě méi yǒu fán zhòng rèn wù de shēng huó cái shì zhēn zhèng de shēng huó",
+     ""
+    ],
+    [
+     "Les spectateurs applau- dissent chaque délégation qui arrive dans le stade.",
+     "观众向每一个进场的代表团鼓掌欢迎。",
+     "",
+     "fr/08500.mp3",
+     "zh/08500.mp3",
+     "guān zhòng xiàng měi yí gè jìn chǎng de dài biǎo tuán gǔ zhǎng huān yíng",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "héritageerita3]",
+     "n.m",
+     "fr/08501.mp3",
+     "zh/08501.mp3",
+     "",
+     ""
+    ],
+    [
+     "遗产",
+     "",
+     "",
+     "",
+     "zh/08502.mp3",
+     "yí chǎn",
+     ""
+    ],
+    [
+     "清醒的",
+     "lucide",
+     "adj",
+     "fr/08503.mp3",
+     "zh/08503.mp3",
+     "qīng xǐng de",
+     "lysid"
+    ],
+    [
+     "",
+     "acharné",
+     "adj.",
+     "fr/08504.mp3",
+     "zh/08504.mp3",
+     "",
+     "afarne"
+    ],
+    [
+     "激烈的",
+     "",
+     "",
+     "",
+     "zh/08505.mp3",
+     "jī liè de",
+     ""
+    ],
+    [
+     "",
+     "spectateur,trice",
+     "",
+     "fr/08506.mp3",
+     "zh/08506.mp3",
+     "",
+     ""
+    ],
+    [
+     "观众",
+     "",
+     "m",
+     "",
+     "zh/08507.mp3",
+     "guān zhòng",
+     "spektatr,tris"
+    ],
+    [
+     "",
+     "délégation",
+     "",
+     "fr/08508.mp3",
+     "zh/08508.mp3",
+     "",
+     ""
+    ],
+    [
+     "代表团",
+     "",
+     "nf.",
+     "",
+     "zh/08509.mp3",
+     "dài biǎo tuán",
+     "delegaasj5"
+    ]
+   ]
+  },
+  {
+   "no": 14,
+   "name": "第14节",
+   "w": [
+    [
+     "规则",
+     "regle",
+     "",
+     "fr/08510.mp3",
+     "zh/08510.mp3",
+     "guī zé",
+     "regl"
+    ],
+    [
+     "正裁判员",
+     "arbitre positif",
+     "m",
+     "fr/08511.mp3",
+     "zh/08511.mp3",
+     "zhèng cái pàn yuán",
+     "arbitr pozitif"
+    ],
+    [
+     "副裁判员",
+     "sous-arbitre",
+     "m.",
+     "fr/08512.mp3",
+     "zh/08512.mp3",
+     "fù cái pàn yuán",
+     "su arbitr"
+    ],
+    [
+     "取胜者",
+     "gagnant",
+     "m.",
+     "fr/08513.mp3",
+     "zh/08513.mp3",
+     "qǔ shèng zhě",
+     "gana, t"
+    ],
+    [
+     "司线员",
+     "juge de touche",
+     "m.",
+     "fr/08514.mp3",
+     "zh/08514.mp3",
+     "sī xiàn yuán",
+     "33da tu"
+    ],
+    [
+     "记录员",
+     "pointeurse",
+     "",
+     "fr/08515.mp3",
+     "zh/08515.mp3",
+     "jì lù yuán",
+     "pwtr,az"
+    ],
+    [
+     "发球区",
+     "tee",
+     "m.",
+     "fr/08516.mp3",
+     "zh/08516.mp3",
+     "fā qiú qū",
+     "ti"
+    ],
+    [
+     "手势",
+     "geste",
+     "m.",
+     "fr/08517.mp3",
+     "zh/08517.mp3",
+     "shǒu shì",
+     "3est"
+    ],
+    [
+     "积分表",
+     "classement",
+     "m.",
+     "fr/08518.mp3",
+     "zh/08518.mp3",
+     "jī fēn biǎo",
+     "klasmá"
+    ],
+    [
+     "组成",
+     "former",
+     "",
+     "fr/08519.mp3",
+     "zh/08519.mp3",
+     "zǔ chéng",
+     "forme"
+    ],
+    [
+     "重击",
+     "battre",
+     "",
+     "fr/08520.mp3",
+     "zh/08520.mp3",
+     "zhòng jī",
+     "batr"
+    ],
+    [
+     "球网",
+     "filet",
+     "m",
+     "fr/08521.mp3",
+     "zh/08521.mp3",
+     "qiú wǎng",
+     "file"
+    ],
+    [
+     "羽毛球",
+     "badminton",
+     "m",
+     "fr/08522.mp3",
+     "zh/08522.mp3",
+     "yǔ máo qiú",
+     "badminton"
+    ],
+    [
+     "球拍",
+     "raquette",
+     "",
+     "fr/08523.mp3",
+     "zh/08523.mp3",
+     "qiú pāi",
+     "raket"
+    ],
+    [
+     "纪录正裁判员",
+     "record Earbitre posii",
+     "f",
+     "fr/08524.mp3",
+     "zh/08524.mp3",
+     "jì lù zhèng cái pàn yuán",
+     "rakor"
+    ]
+   ],
+   "s": [
+    [
+     "Joignons nos mains dans la création d'un gagnant-ga- gnantavenir!",
+     "让我们携手共创双赢未来！",
+     "",
+     "fr/08525.mp3",
+     "zh/08525.mp3",
+     "ràng wǒ men xié shǒu gòng chuàng shuāng yíng wèi lái",
+     ""
+    ],
+    [
+     "Les cordages de cette ra quette sont en Nylon.",
+     "这个球拍的网线是尼龙材质的。",
+     "",
+     "fr/08526.mp3",
+     "zh/08526.mp3",
+     "zhè ge qiú pāi de wǎng xiàn shì ní lóng cái zhì dì",
+     ""
+    ],
+    [
+     "Avec 31 médailles,léquipe de France atteint et dépasse meme son objectif initial. Elle bat par la meme occasion le vieux record de 30 médailles établi a Buffalo en 1993.",
+     "收获了31枚奖牌后，法国队已经达到甚至超过了最初的目标，并且打破了在1993年布法罗大运会的30枚奖牌的记录。",
+     "",
+     "fr/08527.mp3",
+     "zh/08527.mp3",
+     "shōu huò le méi jiǎng pái hòu fǎ guó duì yǐ jīng dá dào shèn zhì chāo guò le zuì chū de mù biāo bìng qiě dǎ pò le zài nián bù fǎ luó dà yùn huì de méi jiǎng pái de jì lù",
+     ""
+    ],
+    [
+     "Soft est un volley-ball de la Chine de Volley-ball Asso- ciation,désignépar la balle.",
+     "其中软式排球是中国排球协会指定用球。",
+     "",
+     "fr/08528.mp3",
+     "zh/08528.mp3",
+     "qí zhōng ruǎn shì pái qiú shì zhōng guó pái qiú xié huì zhǐ dìng yòng qiú",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "création",
+     "",
+     "fr/08529.mp3",
+     "zh/08529.mp3",
+     "",
+     "kreaasjδ"
+    ],
+    [
+     "创造",
+     "",
+     "",
+     "",
+     "zh/08530.mp3",
+     "chuàng zào",
+     ""
+    ],
+    [
+     "线",
+     "cordage",
+     "n.m.",
+     "fr/08531.mp3",
+     "zh/08531.mp3",
+     "xiàn",
+     "korda3"
+    ],
+    [
+     "日",
+     "médaille",
+     "n.f.",
+     "fr/08532.mp3",
+     "zh/08532.mp3",
+     "rì",
+     "medaj"
+    ],
+    [
+     "纪念章",
+     "CA",
+     "",
+     "fr/08533.mp3",
+     "zh/08533.mp3",
+     "jì niàn zhāng",
+     ""
+    ],
+    [
+     "",
+     "volley-ball",
+     "n.m.",
+     "fr/08534.mp3",
+     "zh/08534.mp3",
+     "",
+     "volebo:l"
+    ],
+    [
+     "排球",
+     "HEER",
+     "",
+     "fr/08535.mp3",
+     "zh/08535.mp3",
+     "pái qiú",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 15,
+   "name": "第15节",
+   "w": [
+    [
+     "体育运动",
+     "{ sport",
+     "m",
+     "fr/08536.mp3",
+     "zh/08536.mp3",
+     "tǐ yù yùn dòng",
+     "spor"
+    ],
+    [
+     "田径运动",
+     "athlétisme",
+     "m.",
+     "fr/08537.mp3",
+     "zh/08537.mp3",
+     "tián jìng yùn dòng",
+     "atletism"
+    ],
+    [
+     "短跑",
+     "épreuve de vitesse.",
+     "",
+     "fr/08538.mp3",
+     "zh/08538.mp3",
+     "duǎn pǎo",
+     "eprcxv da vites"
+    ],
+    [
+     "短跑运动员",
+     "sprinter euse",
+     "m",
+     "fr/08539.mp3",
+     "zh/08539.mp3",
+     "duǎn pǎo yùn dòng yuán",
+     "sprinter,az"
+    ],
+    [
+     "跨栏比赛",
+     "obstacle",
+     "m.",
+     "fr/08540.mp3",
+     "zh/08540.mp3",
+     "kuà lán bǐ sài",
+     "Dpstakl"
+    ],
+    [
+     "跨栏运动员",
+     "coureur",
+     "m.",
+     "fr/08541.mp3",
+     "zh/08541.mp3",
+     "kuà lán yùn dòng yuán",
+     "kurcer"
+    ],
+    [
+     "障碍赛跑",
+     "steeple chase",
+     "m.",
+     "fr/08542.mp3",
+     "zh/08542.mp3",
+     "zhàng ài sài pǎo",
+     "stiplatez"
+    ],
+    [
+     "速度竞赛",
+     "concours de vitesse",
+     "m.",
+     "fr/08543.mp3",
+     "zh/08543.mp3",
+     "sù dù jìng sài",
+     "kskur da vites"
+    ],
+    [
+     "奔跑",
+     "courir i",
+     "",
+     "fr/08544.mp3",
+     "zh/08544.mp3",
+     "bēn pǎo",
+     "kurir"
+    ],
+    [
+     "马拉松",
+     "marathon",
+     "m.",
+     "fr/08545.mp3",
+     "zh/08545.mp3",
+     "mǎ lā sōng",
+     "marat5"
+    ],
+    [
+     "跳跃",
+     "bondir i.",
+     "",
+     "fr/08546.mp3",
+     "zh/08546.mp3",
+     "tiào yuè",
+     "bšdir"
+    ],
+    [
+     "跳高",
+     "saut en hauteur",
+     "m.",
+     "fr/08547.mp3",
+     "zh/08547.mp3",
+     "tiào gāo",
+     "so a otxr"
+    ],
+    [
+     "跳远",
+     "saut en longueur",
+     "m.",
+     "fr/08548.mp3",
+     "zh/08548.mp3",
+     "tiào yuǎn",
+     "so á l5ger"
+    ],
+    [
+     "撑高跑",
+     "course a la perche [kurs a la per",
+     "f.",
+     "fr/08549.mp3",
+     "zh/08549.mp3",
+     "chēng gāo pǎo",
+     ""
+    ],
+    [
+     "标枪比赛",
+     "ttconcurrence de javelot y.",
+     "",
+     "fr/08550.mp3",
+     "zh/08550.mp3",
+     "biāo qiāng bǐ sài",
+     "kkyräs da 3avlo"
+    ],
+    [
+     "铅球",
+     "poids",
+     "m.",
+     "fr/08551.mp3",
+     "zh/08551.mp3",
+     "qiān qiú",
+     "pwa"
+    ]
+   ],
+   "s": [
+    [
+     "Les enfants francais sont de plus en plus intéressés par le sport, sous l'influence des mé- dias,des marques de vetements et d'équipement et de l'aura des grands champions sportifs. F X",
+     "在媒体的影响下法国儿童对体育名牌、体育服饰以及体育冠军越来越感兴趣",
+     "",
+     "fr/08552.mp3",
+     "zh/08552.mp3",
+     "zài méi tǐ de yǐng xiǎng xià fǎ guó ér tóng duì tǐ yù míng pái tǐ yù fú shì yǐ jí tǐ yù guàn jūn yuè lái yuè gǎn xìng qù",
+     ""
+    ],
+    [
+     "Le plus grand coureur au- tomobile francais est égale- ment un homme populaire.",
+     "法国最伟大的赛车手同样也是一位受欢迎的男人。",
+     "",
+     "fr/08553.mp3",
+     "zh/08553.mp3",
+     "fǎ guó zuì wěi dà de sài chē shǒu tóng yàng yě shì yī wèi shòu huān yíng de nán rén",
+     ""
+    ],
+    [
+     "Si vous courez un mara- thon et que vous &tes sur le point de traverser la ligne d'ar- rivée,vous ne vous arretez pas en disant:<Oh, une fois que je lai dépassée,cest fini. A",
+     "如果你在跑马拉松当你穿过终点线时，你会不停地对自己说：“一旦我跨过终点线，就可以结束了。”",
+     "",
+     "fr/08554.mp3",
+     "zh/08554.mp3",
+     "rú guǒ nǐ zài pǎo mǎ lā sōng dāng nǐ chuān guò zhōng diǎn xiàn shí nǐ huì bù tíng dì duì zì jǐ shuō yí dàn wǒ kuà guò zhōng diǎn xiàn jiù kě yǐ jié shù le",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "",
+     "équipement",
+     "",
+     "fr/08555.mp3",
+     "zh/08555.mp3",
+     "",
+     "ekipmá"
+    ],
+    [
+     "装备",
+     "",
+     "n.m.",
+     "",
+     "zh/08556.mp3",
+     "zhuāng bèi",
+     ""
+    ],
+    [
+     "",
+     "automobile",
+     "",
+     "fr/08557.mp3",
+     "zh/08557.mp3",
+     "",
+     "(o)tomobil"
+    ],
+    [
+     "汽车",
+     "",
+     "nf",
+     "",
+     "zh/08558.mp3",
+     "qì chē",
+     ""
+    ],
+    [
+     "",
+     "également ady.",
+     "",
+     "fr/08559.mp3",
+     "zh/08559.mp3",
+     "",
+     "egalmá"
+    ],
+    [
+     "相等地",
+     "",
+     "",
+     "",
+     "zh/08560.mp3",
+     "xiāng děng dì",
+     ""
+    ]
+   ]
+  },
+  {
+   "no": 16,
+   "name": "第16节",
+   "w": [
+    [
+     "拳击",
+     "boxe",
+     "f",
+     "fr/08561.mp3",
+     "zh/08561.mp3",
+     "quán jī",
+     "boks"
+    ],
+    [
+     "拳击比赛",
+     "assaut de boxe",
+     "m",
+     "fr/08562.mp3",
+     "zh/08562.mp3",
+     "quán jī bǐ sài",
+     "aso da boks"
+    ],
+    [
+     "拳击运动员",
+     "boxeur",
+     "m.",
+     "fr/08563.mp3",
+     "zh/08563.mp3",
+     "quán jī yùn dòng yuán",
+     "boksxr"
+    ],
+    [
+     "拳击手套沙袋拳击手训练时的对手",
+     "gantde boxe /. sac de sable Fsparring-partner",
+     "m.",
+     "fr/08565.mp3",
+     "zh/08565.mp3",
+     "quán jī shǒu tào shā dài quán jī shǒu xùn liàn shí de duì shǒu",
+     "gá da boks"
+    ],
+    [
+     "上勾拳",
+     "uppercut",
+     "m.",
+     "fr/08566.mp3",
+     "zh/08566.mp3",
+     "shàng gōu quán",
+     "yperkyt"
+    ],
+    [
+     "围绳",
+     "corde",
+     "f",
+     "fr/08567.mp3",
+     "zh/08567.mp3",
+     "wéi shéng",
+     "kord"
+    ],
+    [
+     "拳击场",
+     "ring",
+     "m",
+     "fr/08568.mp3",
+     "zh/08568.mp3",
+     "quán jī chǎng",
+     "rin"
+    ],
+    [
+     "拳击家",
+     "pugiliste",
+     "m",
+     "fr/08569.mp3",
+     "zh/08569.mp3",
+     "quán jī jiā",
+     "pyzilist"
+    ],
+    [
+     "打",
+     "Tattaquer",
+     "",
+     "fr/08570.mp3",
+     "zh/08570.mp3",
+     "dǎ",
+     "atake"
+    ],
+    [
+     "晕眩",
+     "vertige",
+     "m",
+     "fr/08571.mp3",
+     "zh/08571.mp3",
+     "yūn xuàn",
+     "vertiz"
+    ],
+    [
+     "回合",
+     "rond",
+     "",
+     "fr/08572.mp3",
+     "zh/08572.mp3",
+     "huí hé",
+     "r"
+    ]
+   ],
+   "s": [
+    [
+     "En plusla boxe muscle tout le corps en douceur, avec une surenchere au niveau des bras.",
+     "而且拳击可以温和塑",
+     "",
+     "fr/08573.mp3",
+     "zh/08573.mp3",
+     "ér qiě quán jī kě yǐ wēn hé sù",
+     ""
+    ],
+    [
+     "Dans cet état, chacun se sent inférieur a peine chacun se sent-il égal.On ne cherche rait donc point a s'attaquer, et la paix serait la premiere loi naturelle.+",
+     "在这种状态中每一个人都不会有与他人平等的感觉，而都会自认为低人一等，因此，不会存在互相攻击的危险，和平应是第一自然法。",
+     "",
+     "fr/08574.mp3",
+     "zh/08574.mp3",
+     "zài zhè zhǒng zhuàng tài zhōng měi yí gè rén dōu bú huì yǒu yǔ tā rén píng děng de gǎn jué ér dū huì zì rèn wéi dī rén yī děng yīn cǐ bú huì cún zài hù xiāng gōng jī de wēi xiǎn hé píng yīng shì dì yī zì rán fǎ",
+     ""
+    ],
+    [
+     "Je sentis le centre de gra- vite se déplacer en moi et le vertige monter a ma tete comme une ivresse.",
+     "我觉得自己的重心在移动，而且像喝醉了酒似的头晕目眩。",
+     "",
+     "fr/08575.mp3",
+     "zh/08575.mp3",
+     "wǒ jué de zì jǐ de zhòng xīn zài yí dòng ér qiě xiàng hē zuì le jiǔ shì de tóu yūn mù xuàn",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "肌肉",
+     "muscle",
+     "m.",
+     "fr/08576.mp3",
+     "zh/08576.mp3",
+     "jī ròu",
+     "myskl"
+    ],
+    [
+     "",
+     "douceur",
+     "nf",
+     "fr/08577.mp3",
+     "zh/08577.mp3",
+     "",
+     "dusx:r"
+    ],
+    [
+     "温柔",
+     "",
+     "",
+     "",
+     "zh/08578.mp3",
+     "wēn róu",
+     ""
+    ],
+    [
+     "",
+     "surenchere .",
+     "",
+     "fr/08579.mp3",
+     "zh/08579.mp3",
+     "",
+     "syräfe:r"
+    ],
+    [
+     "不断增加",
+     "",
+     "",
+     "",
+     "zh/08580.mp3",
+     "bù duàn zēng jiā",
+     ""
+    ],
+    [
+     "",
+     "inférieur,e ad",
+     "",
+     "fr/08581.mp3",
+     "zh/08581.mp3",
+     "",
+     "aferjr"
+    ],
+    [
+     "低等的",
+     "",
+     "",
+     "",
+     "zh/08582.mp3",
+     "dī děng de",
+     ""
+    ],
+    [
+     "重力",
+     "gravité",
+     "f.",
+     "fr/08583.mp3",
+     "zh/08583.mp3",
+     "zhòng lì",
+     "gravite"
+    ]
+   ]
+  },
+  {
+   "no": 17,
+   "name": "第17节",
+   "w": [
+    [
+     "赛马场",
+     "champ de courses",
+     "m.",
+     "fr/07807.mp3",
+     "zh/07807.mp3",
+     "sài mǎ chǎng",
+     "[ä da kurs"
+    ],
+    [
+     "跑道",
+     "piste de course",
+     "",
+     "fr/07808.mp3",
+     "zh/07808.mp3",
+     "pǎo dào",
+     "pist da kurs"
+    ],
+    [
+     "赛车",
+     "course dautos",
+     "m.",
+     "fr/07809.mp3",
+     "zh/07809.mp3",
+     "sài chē",
+     "kurs doto"
+    ],
+    [
+     "呼啸而过",
+     "passer en rugissantlpase á ryzisá]",
+     "",
+     "fr/07810.mp3",
+     "zh/07810.mp3",
+     "hū xiào ér guò",
+     ""
+    ],
+    [
+     "车的加速性能",
+     "a performance d'ac célération de voi- ture .",
+     "",
+     "fr/07811.mp3",
+     "zh/07811.mp3",
+     "chē de jiā sù xìng néng",
+     "la performäs dakselerasj5da vwatyr"
+    ],
+    [
+     "驾驶座",
+     "sige du conducteur",
+     "m.",
+     "fr/07812.mp3",
+     "zh/07812.mp3",
+     "jià shǐ zuò",
+     "sje3 dy ködykter"
+    ],
+    [
+     "排挡",
+     "étagere de vitesse",
+     "",
+     "fr/07813.mp3",
+     "zh/07813.mp3",
+     "pái dǎng",
+     "etazer da vites"
+    ],
+    [
+     "前进挡",
+     "vitesse en (avant,marche avant) [vitesá(avä marfavá)l/",
+     "",
+     "fr/07814.mp3",
+     "zh/07814.mp3",
+     "qián jìn dǎng",
+     ""
+    ],
+    [
+     "倒挡",
+     "inverseur de marche",
+     "m.",
+     "fr/07815.mp3",
+     "zh/07815.mp3",
+     "dào dǎng",
+     "averscer da mar"
+    ],
+    [
+     "高速挡",
+     "vitesse supe rieure .",
+     "",
+     "fr/07816.mp3",
+     "zh/07816.mp3",
+     "gāo sù dǎng",
+     "vites syperjcer"
+    ],
+    [
+     "上坡路",
+     "chemin montant am& m5ta]",
+     "m.",
+     "fr/07817.mp3",
+     "zh/07817.mp3",
+     "shàng pō lù",
+     ""
+    ],
+    [
+     "斜坡",
+     "pente",
+     "",
+     "fr/07818.mp3",
+     "zh/07818.mp3",
+     "xié pō",
+     "pät"
+    ],
+    [
+     "弯道跑道的一圈",
+     "tournant -tour de piste",
+     "m.",
+     "fr/07819.mp3",
+     "zh/07819.mp3",
+     "wān dào pǎo dào de yī quān",
+     "turna"
+    ],
+    [
+     "首位的",
+     "premierre",
+     "",
+     "fr/07820.mp3",
+     "zh/07820.mp3",
+     "shǒu wèi de",
+     "pramje,cr"
+    ],
+    [
+     "猛冲",
+     "bomber",
+     "",
+     "fr/07821.mp3",
+     "zh/07821.mp3",
+     "měng chōng",
+     "b3be"
+    ]
+   ],
+   "s": [
+    [
+     "Lavion est au bout de la piste de courseil est sur le point de décoller.",
+     "飞机停在跑道的尽头，它就要起飞了。",
+     "",
+     "fr/07822.mp3",
+     "zh/07822.mp3",
+     "fēi jī tíng zài pǎo dào de jìn tóu tā jiù yào qǐ fēi le",
+     ""
+    ],
+    [
+     "Intersection ou le conduc- teur est tenu de ceder le pas- sage aux véhicules débouchant de la ou des routes situées a sa droite.XE",
+     "交叉路口正处在司机准备向右转车辆让行的地方。",
+     "",
+     "fr/07823.mp3",
+     "zh/07823.mp3",
+     "jiāo chā lù kǒu zhèng chù zài sī jī zhǔn bèi xiàng yòu zhuǎn chē liàng ràng xíng de dì fāng",
+     ""
+    ],
+    [
+     "II fait avec soin une com- position en pente profitant de lignes courbes et entrelacées pour créer des éléments ins- tables dans la photo. X E+.",
+     "他精心地用倾斜方式来构图，利用线条的歪斜交错刻意地制造画面中的不安定因素",
+     "",
+     "fr/07824.mp3",
+     "zh/07824.mp3",
+     "tā jīng xīn dì yòng qīng xié fāng shì lái gòu tú lì yòng xiàn tiáo de wāi xié jiāo cuò kè yì dì zhì zào huà miàn zhōng de bù ān dìng yīn sù",
+     ""
+    ]
+   ],
+   "e": [
+    [
+     "起飞",
+     "décoller",
+     "vi",
+     "fr/07825.mp3",
+     "zh/07825.mp3",
+     "qǐ fēi",
+     "dekole"
+    ],
+    [
+     "",
+     "intersection",
+     "",
+     "fr/07826.mp3",
+     "zh/07826.mp3",
+     "",
+     "&terseksj"
+    ],
+    [
+     "交叉点",
+     "n.xx",
+     "",
+     "fr/07827.mp3",
+     "zh/07827.mp3",
+     "jiāo chā diǎn",
+     ""
+    ],
+    [
+     "",
+     "composition",
+     "",
+     "fr/07828.mp3",
+     "zh/07828.mp3",
+     "",
+     "kpozisj5"
+    ],
+    [
+     "组成",
+     "",
+     "nf.",
+     "",
+     "zh/07829.mp3",
+     "zǔ chéng",
+     ""
+    ],
+    [
+     "",
+     "instable",
+     "adj.",
+     "fr/07830.mp3",
+     "zh/07830.mp3",
+     "",
+     "stabl"
+    ],
+    [
+     "不稳定的",
+     "",
+     "",
+     "",
+     "zh/07831.mp3",
+     "bù wěn dìng de",
+     ""
+    ]
+   ]
+  }
+ ]
+}
