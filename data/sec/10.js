@@ -1,452 +1,452 @@
-window.BOOK_DATA=window.BOOK_DATA||{};
-window.BOOK_DATA[10]={
- "gid": 10,
- "no": "6",
- "name": "出版刊物",
- "gname": "休闲娱乐",
- "secs": [
-  {
-   "no": 2,
-   "name": "第2节",
-   "w": [
-    [
-     "日报",
-     "quotidien",
-     "m.",
-     "fr/07339.mp3",
-     "zh/07339.mp3",
-     "rì bào",
-     "kotidje"
-    ],
-    [
-     "晨报",
-     "journauxdu matin",
-     "",
-     "fr/07340.mp3",
-     "zh/07340.mp3",
-     "chén bào",
-     "3urno dy mat&"
-    ],
-    [
-     "晚报",
-     "journal du soir",
-     "",
-     "fr/07342.mp3",
-     "zh/07342.mp3",
-     "wǎn bào",
-     "3urnal dy swar"
-    ],
-    [
-     "提前出版的",
-     "publié avant",
-     "",
-     "fr/07343.mp3",
-     "zh/07343.mp3",
-     "tí qián chū bǎn de",
-     "pyblije avá"
-    ],
-    [
-     "新闻",
-     "nouvelle",
-     "",
-     "fr/07344.mp3",
-     "zh/07344.mp3",
-     "xīn wén",
-     "nuvel"
-    ],
-    [
-     "新闻体",
-     "style journalis tique",
-     "",
-     "fr/07345.mp3",
-     "zh/07345.mp3",
-     "xīn wén tǐ",
-     "stil zurnalistik"
-    ],
-    [
-     "评论员",
-     "com- mentateur,trice",
-     "",
-     "fr/07346.mp3",
-     "zh/07346.mp3",
-     "píng lùn yuán",
-     "komátatr,tris"
-    ],
-    [
-     "常驻记者",
-     "corres pondant perma- nent a(m)",
-     "",
-     "fr/07347.mp3",
-     "zh/07347.mp3",
-     "cháng zhù jì zhě",
-     "koresp5dä permaná"
-    ],
-    [
-     "特派记者",
-     "envoyé spe cial",
-     "",
-     "fr/07348.mp3",
-     "zh/07348.mp3",
-     "tè pài jì zhě",
-     "ávwaje spesjal"
-    ],
-    [
-     "文摘",
-     "Xabrégé",
-     "m.",
-     "fr/07349.mp3",
-     "zh/07349.mp3",
-     "wén zhāi",
-     "abre3e"
-    ],
-    [
-     "周刊",
-     "hebdomadaire",
-     "m.",
-     "fr/07350.mp3",
-     "zh/07350.mp3",
-     "zhōu kān",
-     "ebdomader"
-    ],
-    [
-     "社论",
-     "iéditorial",
-     "m.",
-     "fr/07351.mp3",
-     "zh/07351.mp3",
-     "shè lùn",
-     "editorjal"
-    ],
-    [
-     "半月刊",
-     "revue bimen- suelle",
-     "",
-     "fr/07352.mp3",
-     "zh/07352.mp3",
-     "bàn yuè kān",
-     "r(a)vy bimásyel"
-    ],
-    [
-     "月刊",
-     "publication men- suelle",
-     "",
-     "fr/07353.mp3",
-     "zh/07353.mp3",
-     "yuè kān",
-     "pyblikasj mäsyel"
-    ],
-    [
-     "季刊",
-     "revue tri- mestrielle",
-     "",
-     "fr/07354.mp3",
-     "zh/07354.mp3",
-     "jì kān",
-     "ra)vy trimestrijel"
-    ],
-    [
-     "年刊",
-     "annuaire",
-     "m",
-     "fr/07355.mp3",
-     "zh/07355.mp3",
-     "nián kān",
-     "anyer"
-    ]
-   ],
-   "s": [
-    [
-     "Je vous présente ma femme,elle est journaliste au Quotidien du Peuple",
-     "我给您",
-     "民日报》的记者。",
-     "fr/07356.mp3",
-     "zh/07356.mp3",
-     "wǒ gěi nín",
-     ""
-    ],
-    [
-     "Cest un long abrégé de mon ouvrage. K.",
-     "这是拙著的个允长摘要",
-     "",
-     "fr/07357.mp3",
-     "zh/07357.mp3",
-     "zhè shì zhuō zhù de gè yǔn zhǎng zhāi yào",
-     ""
-    ],
-    [
-     "Pas de nouvelle,bonne nouvelle",
-     "没有新消息就是好消息！",
-     "",
-     "fr/07358.mp3",
-     "zh/07358.mp3",
-     "méi yǒu xīn xiāo xī jiù shì hǎo xiāo xī",
-     ""
-    ],
-    [
-     "Pour connaitre la valeur d'une semaine, demande a un editeur d'un hebdomadaire",
-     "为了知道一个星期的价值，问一问周刊的编辑。",
-     "",
-     "fr/07359.mp3",
-     "zh/07359.mp3",
-     "wèi le zhī dào yí gè xīng qī de jià zhí wèn yī wèn zhōu kān de biān jí",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "妻子太太",
-     "femme nf.7.",
-     "",
-     "fr/07360.mp3",
-     "zh/07360.mp3",
-     "qī zǐ tài tài",
-     "fam"
-    ],
-    [
-     "作品",
-     "ouvrage",
-     "n.m.",
-     "fr/07361.mp3",
-     "zh/07361.mp3",
-     "zuò pǐn",
-     "uvra3"
-    ],
-    [
-     "星期",
-     "semaine",
-     "n.f.",
-     "fr/07362.mp3",
-     "zh/07362.mp3",
-     "xīng qī",
-     "samen"
-    ],
-    [
-     "日报",
-     "quotidien",
-     "",
-     "fr/07363.mp3",
-     "zh/07363.mp3",
-     "rì bào",
-     ""
-    ]
-   ]
-  },
-  {
-   "no": 3,
-   "name": "第3节",
-   "w": [
-    [
-     "专栏",
-     "rubrique",
-     "f",
-     "fr/07364.mp3",
-     "zh/07364.mp3",
-     "zhuān lán",
-     "rybrik"
-    ],
-    [
-     "插图",
-     "illustration /",
-     "",
-     "fr/07365.mp3",
-     "zh/07365.mp3",
-     "chā tú",
-     "ilystrasj5"
-    ],
-    [
-     "封面",
-     "couverture /.",
-     "",
-     "fr/07366.mp3",
-     "zh/07366.mp3",
-     "fēng miàn",
-     "kuvertyr"
-    ],
-    [
-     "独家新闻",
-     "repor tage exclusi",
-     "f",
-     "fr/07367.mp3",
-     "zh/07367.mp3",
-     "dú jiā xīn wén",
-     "r(a)porta3 eksklyzif"
-    ],
-    [
-     "通讯社",
-     "agence de presse",
-     "",
-     "fr/07368.mp3",
-     "zh/07368.mp3",
-     "tōng xùn shè",
-     "azäs da pres"
-    ],
-    [
-     "记者招待会",
-     "confe rence de press",
-     "",
-     "fr/07369.mp3",
-     "zh/07369.mp3",
-     "jì zhě zhāo dài huì",
-     "kferäs da pres"
-    ],
-    [
-     "趣闻轶事",
-     "anecdote",
-     "f",
-     "fr/07370.mp3",
-     "zh/07370.mp3",
-     "qù wén yì shì",
-     "anekdot"
-    ],
-    [
-     "夸张",
-     "K emphase",
-     "f",
-     "fr/07371.mp3",
-     "zh/07371.mp3",
-     "kuā zhāng",
-     "äfaz"
-    ],
-    [
-     "大标题",
-     "titretitr]",
-     "m",
-     "fr/07372.mp3",
-     "zh/07372.mp3",
-     "dà biāo tí",
-     ""
-    ],
-    [
-     "揭露",
-     "dévoiler 1.",
-     "",
-     "fr/07373.mp3",
-     "zh/07373.mp3",
-     "jiē lù",
-     "devwale"
-    ],
-    [
-     "丑闻",
-     "scandale",
-     "m.",
-     "fr/07374.mp3",
-     "zh/07374.mp3",
-     "chǒu wén",
-     "skädal"
-    ],
-    [
-     "新闻正文",
-     "texte nou- velles",
-     "",
-     "fr/07375.mp3",
-     "zh/07375.mp3",
-     "xīn wén zhèng wén",
-     "tekst nuvel"
-    ],
-    [
-     "特写",
-     "reportage spécial",
-     "",
-     "fr/07376.mp3",
-     "zh/07376.mp3",
-     "tè xiě",
-     "r(a)porta3 spesjal"
-    ],
-    [
-     "说明文字",
-     "légende",
-     "f.",
-     "fr/07377.mp3",
-     "zh/07377.mp3",
-     "shuō míng wén zì",
-     "lezád"
-    ],
-    [
-     "漫画",
-     "caricature",
-     "",
-     "fr/07378.mp3",
-     "zh/07378.mp3",
-     "màn huà",
-     "karikatyr"
-    ]
-   ],
-   "s": [
-    [
-     "Linfluence est-elle 'illus- tration de la pensée?",
-     "影响就是思维的具体描写吗？",
-     "",
-     "fr/07379.mp3",
-     "zh/07379.mp3",
-     "yǐng xiǎng jiù shì sī wéi de jù tǐ miáo xiě ma",
-     ""
-    ],
-    [
-     "Le titre du film est le metro du printemps, c'est tres",
-     "",
-     "bon.电影的名字是《春天的 地铁》，真好。",
-     "fr/07380.mp3",
-     "zh/07380.mp3",
-     "",
-     ""
-    ],
-    [
-     "La légende millénaire,ra conte l'amour de mille ans im mortel. T.",
-     "千年传说说了千年不变的爱",
-     "",
-     "fr/07381.mp3",
-     "zh/07381.mp3",
-     "qiān nián chuán shuō shuō le qiān nián bù biàn de ài",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "",
-     "millénaire",
-     "adj.",
-     "fr/07382.mp3",
-     "zh/07382.mp3",
-     "",
-     "milener"
-    ],
-    [
-     "千年的",
-     "",
-     "",
-     "",
-     "zh/07383.mp3",
-     "qiān nián de",
-     ""
-    ],
-    [
-     "",
-     "immortel,le",
-     "",
-     "fr/07384.mp3",
-     "zh/07384.mp3",
-     "",
-     "imortel"
-    ],
-    [
-     "不灭的",
-     "",
-     "adj.",
-     "",
-     "zh/07385.mp3",
-     "bù miè de",
-     ""
-    ],
-    [
-     "插图",
-     "illustration",
-     "",
-     "fr/07386.mp3",
-     "zh/07386.mp3",
-     "chā tú",
-     ""
-    ]
-   ]
-  }
- ]
-}
+window.BOOK_DATA = window.BOOK_DATA || {};
+window.BOOK_DATA[10] = {
+  "gid": 10,
+  "no": "6",
+  "name": "出版刊物",
+  "gname": "休闲娱乐",
+  "secs": [
+    {
+      "no": 2,
+      "name": "第2节",
+      "w": [
+        [
+          "日报",
+          "quotidien",
+          "m.",
+          "fr/07339.mp3",
+          "zh/07339.mp3",
+          "rì bào",
+          "kotidje"
+        ],
+        [
+          "晨报",
+          "journauxdu matin",
+          "",
+          "fr/07340.mp3",
+          "zh/07340.mp3",
+          "chén bào",
+          "3urno dy mat&"
+        ],
+        [
+          "晚报",
+          "journal du soir",
+          "",
+          "fr/07342.mp3",
+          "zh/07342.mp3",
+          "wǎn bào",
+          "3urnal dy swar"
+        ],
+        [
+          "提前出版的",
+          "publié avant",
+          "",
+          "fr/07343.mp3",
+          "zh/07343.mp3",
+          "tí qián chū bǎn de",
+          "pyblije avá"
+        ],
+        [
+          "新闻",
+          "nouvelle",
+          "",
+          "fr/07344.mp3",
+          "zh/07344.mp3",
+          "xīn wén",
+          "nuvel"
+        ],
+        [
+          "新闻体",
+          "style journalis tique",
+          "",
+          "fr/07345.mp3",
+          "zh/07345.mp3",
+          "xīn wén tǐ",
+          "stil zurnalistik"
+        ],
+        [
+          "评论员",
+          "com- mentateur,trice",
+          "",
+          "fr/07346.mp3",
+          "zh/07346.mp3",
+          "píng lùn yuán",
+          "komátatr,tris"
+        ],
+        [
+          "常驻记者",
+          "corres pondant perma- nent a(m)",
+          "",
+          "fr/07347.mp3",
+          "zh/07347.mp3",
+          "cháng zhù jì zhě",
+          "koresp5dä permaná"
+        ],
+        [
+          "特派记者",
+          "envoyé spe cial",
+          "",
+          "fr/07348.mp3",
+          "zh/07348.mp3",
+          "tè pài jì zhě",
+          "ávwaje spesjal"
+        ],
+        [
+          "文摘",
+          "Xabrégé",
+          "m.",
+          "fr/07349.mp3",
+          "zh/07349.mp3",
+          "wén zhāi",
+          "abre3e"
+        ],
+        [
+          "周刊",
+          "hebdomadaire",
+          "m.",
+          "fr/07350.mp3",
+          "zh/07350.mp3",
+          "zhōu kān",
+          "ebdomader"
+        ],
+        [
+          "社论",
+          "iéditorial",
+          "m.",
+          "fr/07351.mp3",
+          "zh/07351.mp3",
+          "shè lùn",
+          "editorjal"
+        ],
+        [
+          "半月刊",
+          "revue bimen- suelle",
+          "",
+          "fr/07352.mp3",
+          "zh/07352.mp3",
+          "bàn yuè kān",
+          "r(a)vy bimásyel"
+        ],
+        [
+          "月刊",
+          "publication men- suelle",
+          "",
+          "fr/07353.mp3",
+          "zh/07353.mp3",
+          "yuè kān",
+          "pyblikasj mäsyel"
+        ],
+        [
+          "季刊",
+          "revue tri- mestrielle",
+          "",
+          "fr/07354.mp3",
+          "zh/07354.mp3",
+          "jì kān",
+          "ra)vy trimestrijel"
+        ],
+        [
+          "年刊",
+          "annuaire",
+          "m",
+          "fr/07355.mp3",
+          "zh/07355.mp3",
+          "nián kān",
+          "anyer"
+        ]
+      ],
+      "s": [
+        [
+          "Je vous présente ma femme,elle est journaliste au Quotidien du Peuple",
+          "我给您",
+          "民日报》的记者。",
+          "fr/07356.mp3",
+          "zh/07356.mp3",
+          "wǒ gěi nín",
+          ""
+        ],
+        [
+          "Cest un long abrégé de mon ouvrage. K.",
+          "这是拙著的个允长摘要",
+          "",
+          "fr/07357.mp3",
+          "zh/07357.mp3",
+          "zhè shì zhuō zhù de gè yǔn zhǎng zhāi yào",
+          ""
+        ],
+        [
+          "Pas de nouvelle,bonne nouvelle",
+          "没有新消息就是好消息！",
+          "",
+          "fr/07358.mp3",
+          "zh/07358.mp3",
+          "méi yǒu xīn xiāo xī jiù shì hǎo xiāo xī",
+          ""
+        ],
+        [
+          "Pour connaitre la valeur d'une semaine, demande a un editeur d'un hebdomadaire",
+          "为了知道一个星期的价值，问一问周刊的编辑。",
+          "",
+          "fr/07359.mp3",
+          "zh/07359.mp3",
+          "wèi le zhī dào yí gè xīng qī de jià zhí wèn yī wèn zhōu kān de biān jí",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "妻子太太",
+          "femme nf.7.",
+          "",
+          "fr/07360.mp3",
+          "zh/07360.mp3",
+          "qī zǐ tài tài",
+          "fam"
+        ],
+        [
+          "作品",
+          "ouvrage",
+          "n.m.",
+          "fr/07361.mp3",
+          "zh/07361.mp3",
+          "zuò pǐn",
+          "uvra3"
+        ],
+        [
+          "星期",
+          "semaine",
+          "n.f.",
+          "fr/07362.mp3",
+          "zh/07362.mp3",
+          "xīng qī",
+          "samen"
+        ],
+        [
+          "日报",
+          "quotidien",
+          "",
+          "fr/07363.mp3",
+          "zh/07363.mp3",
+          "rì bào",
+          ""
+        ]
+      ]
+    },
+    {
+      "no": 3,
+      "name": "第3节",
+      "w": [
+        [
+          "专栏",
+          "rubrique",
+          "f",
+          "fr/07364.mp3",
+          "zh/07364.mp3",
+          "zhuān lán",
+          "rybrik"
+        ],
+        [
+          "插图",
+          "illustration /",
+          "",
+          "fr/07365.mp3",
+          "zh/07365.mp3",
+          "chā tú",
+          "ilystrasj5"
+        ],
+        [
+          "封面",
+          "couverture /.",
+          "",
+          "fr/07366.mp3",
+          "zh/07366.mp3",
+          "fēng miàn",
+          "kuvertyr"
+        ],
+        [
+          "独家新闻",
+          "repor tage exclusi",
+          "f",
+          "fr/07367.mp3",
+          "zh/07367.mp3",
+          "dú jiā xīn wén",
+          "r(a)porta3 eksklyzif"
+        ],
+        [
+          "通讯社",
+          "agence de presse",
+          "",
+          "fr/07368.mp3",
+          "zh/07368.mp3",
+          "tōng xùn shè",
+          "azäs da pres"
+        ],
+        [
+          "记者招待会",
+          "confe rence de press",
+          "",
+          "fr/07369.mp3",
+          "zh/07369.mp3",
+          "jì zhě zhāo dài huì",
+          "kferäs da pres"
+        ],
+        [
+          "趣闻轶事",
+          "anecdote",
+          "f",
+          "fr/07370.mp3",
+          "zh/07370.mp3",
+          "qù wén yì shì",
+          "anekdot"
+        ],
+        [
+          "夸张",
+          "K emphase",
+          "f",
+          "fr/07371.mp3",
+          "zh/07371.mp3",
+          "kuā zhāng",
+          "äfaz"
+        ],
+        [
+          "大标题",
+          "titretitr]",
+          "m",
+          "fr/07372.mp3",
+          "zh/07372.mp3",
+          "dà biāo tí",
+          ""
+        ],
+        [
+          "揭露",
+          "dévoiler 1.",
+          "",
+          "fr/07373.mp3",
+          "zh/07373.mp3",
+          "jiē lù",
+          "devwale"
+        ],
+        [
+          "丑闻",
+          "scandale",
+          "m.",
+          "fr/07374.mp3",
+          "zh/07374.mp3",
+          "chǒu wén",
+          "skädal"
+        ],
+        [
+          "新闻正文",
+          "texte nou- velles",
+          "",
+          "fr/07375.mp3",
+          "zh/07375.mp3",
+          "xīn wén zhèng wén",
+          "tekst nuvel"
+        ],
+        [
+          "特写",
+          "reportage spécial",
+          "",
+          "fr/07376.mp3",
+          "zh/07376.mp3",
+          "tè xiě",
+          "r(a)porta3 spesjal"
+        ],
+        [
+          "说明文字",
+          "légende",
+          "f.",
+          "fr/07377.mp3",
+          "zh/07377.mp3",
+          "shuō míng wén zì",
+          "lezád"
+        ],
+        [
+          "漫画",
+          "caricature",
+          "",
+          "fr/07378.mp3",
+          "zh/07378.mp3",
+          "màn huà",
+          "karikatyr"
+        ]
+      ],
+      "s": [
+        [
+          "Linfluence est-elle 'illus- tration de la pensée?",
+          "影响就是思维的具体描写吗？",
+          "",
+          "fr/07379.mp3",
+          "zh/07379.mp3",
+          "yǐng xiǎng jiù shì sī wéi de jù tǐ miáo xiě ma",
+          ""
+        ],
+        [
+          "Le titre du film est le metro du printemps, c'est tres",
+          "",
+          "bon.电影的名字是《春天的 地铁》，真好。",
+          "fr/07380.mp3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "La légende millénaire,ra conte l'amour de mille ans im mortel. T.",
+          "千年传说说了千年不变的爱",
+          "",
+          "fr/07381.mp3",
+          "zh/07381.mp3",
+          "qiān nián chuán shuō shuō le qiān nián bù biàn de ài",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "",
+          "millénaire",
+          "adj.",
+          "fr/07382.mp3",
+          "",
+          "",
+          "milener"
+        ],
+        [
+          "千年的",
+          "",
+          "",
+          "",
+          "zh/07383.mp3",
+          "qiān nián de",
+          ""
+        ],
+        [
+          "",
+          "immortel,le",
+          "",
+          "fr/07384.mp3",
+          "",
+          "",
+          "imortel"
+        ],
+        [
+          "不灭的",
+          "",
+          "adj.",
+          "",
+          "zh/07385.mp3",
+          "bù miè de",
+          ""
+        ],
+        [
+          "插图",
+          "illustration",
+          "",
+          "fr/07386.mp3",
+          "zh/07386.mp3",
+          "chā tú",
+          ""
+        ]
+      ]
+    }
+  ]
+};

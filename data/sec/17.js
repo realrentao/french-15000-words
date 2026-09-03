@@ -1,1878 +1,1878 @@
-window.BOOK_DATA=window.BOOK_DATA||{};
-window.BOOK_DATA[17]={
- "gid": 17,
- "no": "4",
- "name": "住",
- "gname": "社会",
- "secs": [
-  {
-   "no": 2,
-   "name": "宗教活动",
-   "w": [
-    [
-     "宗教的",
-     "religieuxse",
-     "",
-     "fr/10271.mp3",
-     "zh/10271.mp3",
-     "zōng jiào de",
-     "r(alizj,z"
-    ],
-    [
-     "宗教活动",
-     "activités religieuses",
-     "f.",
-     "fr/10272.mp3",
-     "zh/10272.mp3",
-     "zōng jiào huó dòng",
-     "aktivite ralizjoz"
-    ],
-    [
-     "洗礼",
-     "bapteme",
-     "m.",
-     "fr/10273.mp3",
-     "zh/10273.mp3",
-     "xǐ lǐ",
-     "batem"
-    ],
-    [
-     "废除",
-     "abolition ].",
-     "",
-     "fr/10274.mp3",
-     "zh/10274.mp3",
-     "fèi chú",
-     "abolisjö"
-    ],
-    [
-     "仪式",
-     "cérémonie",
-     "f.",
-     "fr/10275.mp3",
-     "zh/10275.mp3",
-     "yí shì",
-     "seremoni"
-    ],
-    [
-     "教义做礼拜",
-     "Xdogmem. aller aléglise",
-     "",
-     "fr/10276.mp3",
-     "zh/10276.mp3",
-     "jiào yì zuò lǐ bài",
-     "dagm"
-    ],
-    [
-     "崇拜",
-     "dévotion",
-     "f.",
-     "fr/10277.mp3",
-     "zh/10277.mp3",
-     "chóng bài",
-     "devosj3"
-    ],
-    [
-     "号召",
-     "appel",
-     "m.",
-     "fr/10278.mp3",
-     "zh/10278.mp3",
-     "hào zhào",
-     "apel"
-    ],
-    [
-     "征募",
-     "recruter t.",
-     "",
-     "fr/10279.mp3",
-     "zh/10279.mp3",
-     "zhēng mù",
-     "rakryte"
-    ],
-    [
-     "传福音",
-     "évangelisme",
-     "m.",
-     "fr/10280.mp3",
-     "zh/10280.mp3",
-     "chuán fú yīn",
-     "evázelism"
-    ],
-    [
-     "孝道",
-     "piété filialepjete filjal]",
-     "f.",
-     "fr/10281.mp3",
-     "zh/10281.mp3",
-     "xiào dào",
-     ""
-    ],
-    [
-     "国教",
-     "religion d'Etat",
-     "f.",
-     "fr/10282.mp3",
-     "zh/10282.mp3",
-     "guó jiào",
-     "ralizj5 deta"
-    ],
-    [
-     "教规",
-     "cano",
-     "nm",
-     "fr/10283.mp3",
-     "zh/10283.mp3",
-     "jiào guī",
-     "kan"
-    ],
-    [
-     "虔诚的",
-     "dévote",
-     "",
-     "fr/10284.mp3",
-     "zh/10284.mp3",
-     "qián chéng de",
-     "de,t"
-    ],
-    [
-     "该罚的",
-     "punissable",
-     "",
-     "fr/10285.mp3",
-     "zh/10285.mp3",
-     "gāi fá de",
-     "pynisabl"
-    ],
-    [
-     "主人",
-     "maitren.",
-     "",
-     "fr/10286.mp3",
-     "zh/10286.mp3",
-     "zhǔ rén",
-     "metr"
-    ],
-    [
-     "抢掠",
-     "pillage",
-     "m",
-     "fr/11142.mp3",
-     "zh/11142.mp3",
-     "qiǎng lüè",
-     "pijaz"
-    ],
-    [
-     "抢劫",
-     "saccager .",
-     "",
-     "fr/11143.mp3",
-     "zh/11143.mp3",
-     "qiǎng jié",
-     "saka3e"
-    ],
-    [
-     "抢劫",
-     "voler",
-     "",
-     "fr/11144.mp3",
-     "zh/11144.mp3",
-     "qiǎng jié",
-     "vole"
-    ],
-    [
-     "强盗行为",
-     "banditisme",
-     "m.",
-     "fr/11145.mp3",
-     "zh/11145.mp3",
-     "qiáng dào xíng wéi",
-     "báditism"
-    ],
-    [
-     "匪徒",
-     "bandit",
-     "m.",
-     "fr/11146.mp3",
-     "zh/11146.mp3",
-     "fěi tú",
-     "bädi"
-    ],
-    [
-     "盗匪",
-     "brigand",
-     "m",
-     "fr/11147.mp3",
-     "zh/11147.mp3",
-     "dào fěi",
-     "briga"
-    ],
-    [
-     "盗窃犯",
-     "voleur,euse",
-     "m.",
-     "fr/11148.mp3",
-     "zh/11148.mp3",
-     "dào qiè fàn",
-     "volr,z"
-    ],
-    [
-     "盗用",
-     "détourner .",
-     "",
-     "fr/11149.mp3",
-     "zh/11149.mp3",
-     "dào yòng",
-     "deturne"
-    ],
-    [
-     "添加剂",
-     "additif",
-     "m",
-     "fr/11150.mp3",
-     "zh/11150.mp3",
-     "tiān jiā jì",
-     "aditif"
-    ],
-    [
-     "武装抢劫",
-     "volamain armée /.",
-     "",
-     "fr/11151.mp3",
-     "zh/11151.mp3",
-     "wǔ zhuāng qiǎng jié",
-     "vol a m arme"
-    ],
-    [
-     "同伙",
-     "complice",
-     "m.",
-     "fr/11152.mp3",
-     "zh/11152.mp3",
-     "tóng huǒ",
-     "kšplis"
-    ],
-    [
-     "行凶抢劫",
-     "agression /.",
-     "",
-     "fr/11153.mp3",
-     "zh/11153.mp3",
-     "xíng xiōng qiǎng jié",
-     "agresj5"
-    ],
-    [
-     "贼赃",
-     "fauche[fo",
-     "",
-     "fr/11154.mp3",
-     "zh/11154.mp3",
-     "zéi zāng",
-     ""
-    ],
-    [
-     "偷来的",
-     "dérobé,e",
-     "",
-     "fr/11155.mp3",
-     "zh/11155.mp3",
-     "tōu lái de",
-     "derobe"
-    ],
-    [
-     "盗窃行为",
-     "cambriolage",
-     "m.",
-     "fr/11156.mp3",
-     "zh/11156.mp3",
-     "dào qiè xíng wéi",
-     "kábrijola3"
-    ]
-   ],
-   "s": [
-    [
-     "Au cæur de l'humanité, avec un équilibre parfait,il est la seule clé pour les travail- leurs, seulement payer le sang et la sueur pour obtenir leur bapteme.+",
-     "在人类的心灵中有着一架分毫不差的天平，它是劳动者唯一的法门，只有付出了血和汗，才能得到它们的洗礼。",
-     "",
-     "fr/10287.mp3",
-     "zh/10287.mp3",
-     "zài rén lèi de xīn líng zhōng yǒu zhe yī jià fēn háo bù chā de tiān píng tā shì láo dòng zhě wéi yī de fǎ mén zhǐ yǒu fù chū le xuè hé hàn cái néng dé dào tā men de xǐ lǐ",
-     ""
-    ],
-    [
-     "La terre et l'eau semblaient etre a la dévotion de son maitre.",
-     "陆地和海洋似乎都是忠诚地在为它们的主人效劳",
-     "",
-     "fr/10288.mp3",
-     "zh/10288.mp3",
-     "lù dì hé hǎi yáng sì hū dōu shì zhōng chéng dì zài wèi tā men de zhǔ rén xiào láo",
-     ""
-    ],
-    [
-     "Les organisations humani- taires lancent un appel en fa- veur des victimes et avancent le chiffre de 500 morts et de 5millions devacués. C'est samedi de Paques, beaucoup ont revétus leurs plus beaux atours pour aller a lamesse.",
-     "人道主义组织为帮助受灾者发起号召，并统计出约有500人死亡，500万人已撤离灾区。今天是周六适逢复活节，很多人穿上礼服去做礼拜。",
-     "",
-     "fr/10289.mp3",
-     "zh/10289.mp3",
-     "rén dào zhǔ yì zǔ zhī wèi bāng zhù shòu zāi zhě fā qǐ hào zhào bìng tǒng jì chū yuē yǒu rén sǐ wáng wàn rén yǐ chè lí zāi qū jīn tiān shì zhōu liù shì féng fù huó jié hěn duō rén chuān shàng lǐ fú qù zuò lǐ bài",
-     ""
-    ],
-    [
-     "Si vous avez le temps de saccager le jardin d'autrui, vous feriez mieux de faire éclore vos propres fleures!",
-     "有时间破坏别人的花园，不如让自己的花开吧！",
-     "",
-     "fr/11157.mp3",
-     "zh/11157.mp3",
-     "yǒu shí jiān pò huài bié rén de huā yuán bù rú ràng zì jǐ de huā kāi ba",
-     ""
-    ],
-    [
-     "Monsieur,vous avez des manieres de bandit!",
-     "先生你简直是强盗的逻辑！",
-     "",
-     "fr/11158.mp3",
-     "zh/11158.mp3",
-     "xiān shēng nǐ jiǎn zhí shì qiáng dào de luó jí",
-     ""
-    ],
-    [
-     "Le voleur s'enfuyait a toutesjambes.",
-     "那小偷撤腿就跑。",
-     "",
-     "fr/11159.mp3",
-     "zh/11159.mp3",
-     "nà xiǎo tōu chè tuǐ jiù pǎo",
-     ""
-    ],
-    [
-     "Si lennemi ose se livrer a une agression, il recevra un chatiment sévere. X.",
-     "敌人胆敢进犯必将遭到严厉的惩罚",
-     "",
-     "fr/11160.mp3",
-     "zh/11160.mp3",
-     "dí rén dǎn gǎn jìn fàn bì jiāng zāo dào yán lì de chéng fá",
-     ""
-    ],
-    [
-     "Le prisonnier a vendu ses complices a la police.",
-     "罪犯向警察坦白，出卖了他的同伙。",
-     "",
-     "fr/11161.mp3",
-     "zh/11161.mp3",
-     "zuì fàn xiàng jǐng chá tǎn bái chū mài le tā de tóng huǒ",
-     ""
-    ],
-    [
-     "Un responsable de la mu- nicipalité de Shanghai cité par le China Daily expliquait éga- lement que les issues de se cours des logements sont sou- vent verrouillées par crainte de cambriolages.",
-     "上海市政当局由于害怕偷窃，很多住户都将安全逃生口封堵了。",
-     "的一位负责人在接受《中国 日报》采访时这样解释道，",
-     "fr/11162.mp3",
-     "zh/11162.mp3",
-     "shàng hǎi shì zhèng dāng jú yóu yú hài pà tōu qiè hěn duō zhù hù dōu jiāng ān quán táo shēng kǒu fēng dǔ le",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "",
-     "équilibre",
-     "n.m.",
-     "fr/10290.mp3",
-     "zh/10290.mp3",
-     "",
-     "ekilibr"
-    ],
-    [
-     "平衡",
-     "",
-     "",
-     "",
-     "zh/10291.mp3",
-     "píng héng",
-     ""
-    ],
-    [
-     "汗出汗",
-     "sueur",
-     "nf.",
-     "fr/10292.mp3",
-     "zh/10292.mp3",
-     "hàn chū hàn",
-     "sr"
-    ],
-    [
-     "脱壳而出",
-     "éclorei.",
-     "",
-     "fr/11163.mp3",
-     "zh/11163.mp3",
-     "tuō ké ér chū",
-     "ekr"
-    ],
-    [
-     "方法",
-     "maniere",
-     "",
-     "fr/11164.mp3",
-     "zh/11164.mp3",
-     "fāng fǎ",
-     "manjer"
-    ],
-    [
-     "",
-     "chatimentJatimä].",
-     "m.",
-     "fr/11165.mp3",
-     "zh/11165.mp3",
-     "",
-     ""
-    ],
-    [
-     "惩罚",
-     "",
-     "",
-     "",
-     "zh/11166.mp3",
-     "chéng fá",
-     ""
-    ],
-    [
-     "",
-     "prisonnier",
-     "",
-     "fr/11167.mp3",
-     "zh/11167.mp3",
-     "",
-     "prizonje,er"
-    ],
-    [
-     "罪犯",
-     "",
-     "",
-     "",
-     "zh/11168.mp3",
-     "zuì fàn",
-     ""
-    ]
-   ]
-  },
-  {
-   "no": 1,
-   "name": "雕塑",
-   "w": [
-    [
-     "雕刻师",
-     "sculpteur",
-     "m.",
-     "fr/10293.mp3",
-     "zh/10293.mp3",
-     "diāo kè shī",
-     "skyltxr"
-    ],
-    [
-     "雕刻",
-     "sculpter",
-     "",
-     "fr/10294.mp3",
-     "zh/10294.mp3",
-     "diāo kè",
-     "skylte"
-    ],
-    [
-     "人像",
-     "effigie",
-     "",
-     "fr/10295.mp3",
-     "zh/10295.mp3",
-     "rén xiàng",
-     "efizi"
-    ],
-    [
-     "画像",
-     "figure",
-     "",
-     "fr/10296.mp3",
-     "zh/10296.mp3",
-     "huà xiàng",
-     "figyr"
-    ],
-    [
-     "女像柱",
-     "cariatide .",
-     "",
-     "fr/10297.mp3",
-     "zh/10297.mp3",
-     "nǚ xiàng zhù",
-     "karjatid"
-    ],
-    [
-     "浮雕",
-     "ciselant",
-     "",
-     "fr/10298.mp3",
-     "zh/10298.mp3",
-     "fú diāo",
-     "sizlä"
-    ],
-    [
-     "模子",
-     "moule",
-     "m.",
-     "fr/10299.mp3",
-     "zh/10299.mp3",
-     "mú zi",
-     "mul"
-    ],
-    [
-     "模型",
-     "modele",
-     "m",
-     "fr/10300.mp3",
-     "zh/10300.mp3",
-     "mó xíng",
-     "model"
-    ],
-    [
-     "工作间",
-     "I cabinet de travail",
-     "m.",
-     "fr/10301.mp3",
-     "zh/10301.mp3",
-     "gōng zuò jiān",
-     "kabine d(a travaj"
-    ],
-    [
-     "雕刻",
-     "graver",
-     "",
-     "fr/10302.mp3",
-     "zh/10302.mp3",
-     "diāo kè",
-     "grave"
-    ],
-    [
-     "雕刻雕刻术",
-     "ciseler gravure",
-     "",
-     "fr/10303.mp3",
-     "zh/10303.mp3",
-     "diāo kè diāo kè shù",
-     "sizle"
-    ],
-    [
-     "切开",
-     "découpage",
-     "m.",
-     "fr/10304.mp3",
-     "zh/10304.mp3",
-     "qiè kāi",
-     "dekupa:3"
-    ],
-    [
-     "雕塑",
-     "statue[statyl.",
-     "",
-     "fr/10305.mp3",
-     "zh/10305.mp3",
-     "diāo sù",
-     ""
-    ],
-    [
-     "凿",
-     "appareiller 1.",
-     "",
-     "fr/10306.mp3",
-     "zh/10306.mp3",
-     "záo",
-     "apare(e)je"
-    ],
-    [
-     "刀子",
-     "schlass",
-     "m",
-     "fr/10307.mp3",
-     "zh/10307.mp3",
-     "dāo zi",
-     "las"
-    ],
-    [
-     "科技",
-     "science et technologie",
-     "",
-     "fr/10848.mp3",
-     "zh/10848.mp3",
-     "kē jì",
-     "sjäs e teknolozi"
-    ],
-    [
-     "科学",
-     "science",
-     "",
-     "fr/10849.mp3",
-     "zh/10849.mp3",
-     "kē xué",
-     "sjas"
-    ],
-    [
-     "科学地",
-     "scientifique ment",
-     "",
-     "fr/10850.mp3",
-     "zh/10850.mp3",
-     "kē xué dì",
-     "sjátifikmä"
-    ],
-    [
-     "技术",
-     "technique /.",
-     "",
-     "fr/10851.mp3",
-     "zh/10851.mp3",
-     "jì shù",
-     "teknik"
-    ],
-    [
-     "工程学",
-     "ingénierie /",
-     "",
-     "fr/10852.mp3",
-     "zh/10852.mp3",
-     "gōng chéng xué",
-     "&zenjari"
-    ],
-    [
-     "科学论派",
-     "scientologie /.",
-     "",
-     "fr/10853.mp3",
-     "zh/10853.mp3",
-     "kē xué lùn pài",
-     "sjátolzi"
-    ],
-    [
-     "航空技术",
-     "aérotech nique",
-     "",
-     "fr/10854.mp3",
-     "zh/10854.mp3",
-     "háng kōng jì shù",
-     "aeroteknik"
-    ],
-    [
-     "纳米理论",
-     "nanometre théorie[teori",
-     "",
-     "fr/10855.mp3",
-     "zh/10855.mp3",
-     "nà mǐ lǐ lùn",
-     "nanometr"
-    ],
-    [
-     "研究",
-     "étudier",
-     "",
-     "fr/10856.mp3",
-     "zh/10856.mp3",
-     "yán jiū",
-     "etydje"
-    ],
-    [
-     "实验",
-     "expérimentation /",
-     "",
-     "fr/10857.mp3",
-     "zh/10857.mp3",
-     "shí yàn",
-     "eksperimäta(a)sj5"
-    ],
-    [
-     "有机的",
-     "organique",
-     "",
-     "fr/10858.mp3",
-     "zh/10858.mp3",
-     "yǒu jī de",
-     "organik"
-    ],
-    [
-     "发现",
-     "découvrir .",
-     "",
-     "fr/10859.mp3",
-     "zh/10859.mp3",
-     "fā xiàn",
-     "dekuvrir"
-    ],
-    [
-     "机器人机器人",
-     "robotm srobot",
-     "",
-     "fr/10860.mp3",
-     "zh/10860.mp3",
-     "jī qì rén jī qì rén",
-     "robo"
-    ]
-   ],
-   "s": [
-    [
-     "Lhomme ne peut pas se retrouver sans souffrir,car il est a la fois le marbre et aussi son propre sculpteur.",
-     "不经历痛苦就无法找到自己，人就像一块大理石，同时也是自已的雕刻家。",
-     "",
-     "fr/10308.mp3",
-     "zh/10308.mp3",
-     "bù jīng lì tòng kǔ jiù wú fǎ zhǎo dào zì jǐ rén jiù xiàng yī kuài dà lǐ shí tóng shí yě shì zì yǐ de diāo kè jiā",
-     ""
-    ],
-    [
-     "La lune a dégagé son disque de la masse des nuages,et ca- resse avec ses pales rayons cette douce figure d'adolescent.",
-     "月亮从云中露出圆轮，苍白的光线轻抚着少年柔嫩的脸庞。",
-     "",
-     "fr/10309.mp3",
-     "zh/10309.mp3",
-     "yuè liàng cóng yún zhōng lù chū yuán lún cāng bái de guāng xiàn qīng fǔ zhe shào nián róu nèn de liǎn páng",
-     ""
-    ],
-    [
-     "IIs participent ensemble a toutes les activités: la peinture, la gravure et meme la sculpture EE.",
-     "他们一起参加了各种活动：油画版画甚至雕塑",
-     "",
-     "fr/10310.mp3",
-     "zh/10310.mp3",
-     "tā men yì qǐ cān jiā le gè zhǒng huó dòng yóu huà bǎn huà shèn zhì diāo sù",
-     ""
-    ],
-    [
-     "Si I'amour est une statue, mes mains lont burine.",
-     "如果爱情是件雕塑，我的双手把它塑造。",
-     "",
-     "fr/10311.mp3",
-     "zh/10311.mp3",
-     "rú guǒ ài qíng shì jiàn diāo sù wǒ de shuāng shǒu bǎ tā sù zào",
-     ""
-    ],
-    [
-     "Cest que toutes les théo ries de la science démontrent qu'une pareille entreprise est impraticable!F",
-     "因为所有的科学理论都证实这种事情是不可能的！",
-     "",
-     "fr/10861.mp3",
-     "zh/10861.mp3",
-     "yīn wèi suǒ yǒu de kē xué lǐ lùn dōu zhèng shí zhè zhǒng shì qíng shì bù kě néng de",
-     ""
-    ],
-    [
-     "Pour la spécialité de Iéconomie,je pense que les Chinois ont tendance a I'édu- cation de la théorie,et les Francais sont enclins a celle de la pratique. T La France est un peu ar- rivée elle aussi sur Mars lundi puisque deux instruments du robot ont été construits par des ingenieurs francais. A I",
-     "对于经济学的这个专业来说，我认为，中国比较倾向于理论的教育而法国则比较倾向于实践。周一法国也在登陆火星上有小小成就因为机器人的两部设备是由法国工程师建造的",
-     "",
-     "fr/10862.mp3",
-     "zh/10862.mp3",
-     "duì yú jīng jì xué de zhè ge zhuān yè lái shuō wǒ rèn wéi zhōng guó bǐ jiào qīng xiàng yú lǐ lùn de jiào yù ér fǎ guó zé bǐ jiào qīng xiàng yú shí jiàn zhōu yī fǎ guó yě zài dēng lù huǒ xīng shàng yǒu xiǎo xiǎo chéng jiù yīn wèi jī qì rén de liǎng bù shè bèi shì yóu fǎ guó gōng chéng shī jiàn zào de",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "受苦",
-     "souffrir",
-     "vi.",
-     "fr/10312.mp3",
-     "zh/10312.mp3",
-     "shòu kǔ",
-     "sufrir"
-    ],
-    [
-     "圆盘",
-     "disque",
-     "n.m.",
-     "fr/10313.mp3",
-     "zh/10313.mp3",
-     "yuán pán",
-     "disk"
-    ],
-    [
-     "",
-     "adolescent,e",
-     "",
-     "fr/10314.mp3",
-     "zh/10314.mp3",
-     "",
-     ""
-    ],
-    [
-     "青少年",
-     "",
-     "",
-     "",
-     "zh/10315.mp3",
-     "qīng shào nián",
-     "adleesaat"
-    ],
-    [
-     "活动",
-     "activité",
-     "nf.",
-     "fr/10316.mp3",
-     "zh/10316.mp3",
-     "huó dòng",
-     "aktivite"
-    ],
-    [
-     "雕刻",
-     "buriné",
-     "vt.",
-     "fr/10317.mp3",
-     "zh/10317.mp3",
-     "diāo kè",
-     "byrine"
-    ],
-    [
-     "相同的",
-     "pareille",
-     "adj.",
-     "fr/10863.mp3",
-     "zh/10863.mp3",
-     "xiāng tóng de",
-     "parej"
-    ],
-    [
-     "",
-     "impraticable",
-     "",
-     "fr/10864.mp3",
-     "zh/10864.mp3",
-     "",
-     "&pratikabl"
-    ],
-    [
-     "难以实行的",
-     "",
-     "adj",
-     "",
-     "zh/10865.mp3",
-     "nán yǐ shí xíng de",
-     ""
-    ],
-    [
-     "",
-     "enclin,e",
-     "adj.",
-     "fr/10866.mp3",
-     "zh/10866.mp3",
-     "",
-     "äkl,in"
-    ],
-    [
-     "倾向于的",
-     "",
-     "",
-     "",
-     "zh/10867.mp3",
-     "qīng xiàng yú de",
-     ""
-    ],
-    [
-     "",
-     "ingénieur",
-     "n.m",
-     "fr/10868.mp3",
-     "zh/10868.mp3",
-     "",
-     "&zenjcr"
-    ],
-    [
-     "工程师",
-     "",
-     "",
-     "",
-     "zh/10869.mp3",
-     "gōng chéng shī",
-     ""
-    ]
-   ]
-  },
-  {
-   "no": 3,
-   "name": "火灾现场",
-   "w": [
-    [
-     "火灾",
-     "incendiesádi]",
-     "m.",
-     "fr/11170.mp3",
-     "zh/11170.mp3",
-     "huǒ zāi",
-     ""
-    ],
-    [
-     "烧焦",
-     "carboniser",
-     "",
-     "fr/11171.mp3",
-     "zh/11171.mp3",
-     "shāo jiāo",
-     "karbonize"
-    ],
-    [
-     "烧焦",
-     "bruler",
-     "",
-     "fr/11172.mp3",
-     "zh/11172.mp3",
-     "shāo jiāo",
-     "bryle"
-    ],
-    [
-     "残余",
-     "survivance ].",
-     "",
-     "fr/11173.mp3",
-     "zh/11173.mp3",
-     "cán yú",
-     "syrviväs"
-    ],
-    [
-     "灭火器",
-     "appareils extincteurs",
-     "m.",
-     "fr/11174.mp3",
-     "zh/11174.mp3",
-     "miè huǒ qì",
-     "aparej ekstekter"
-    ],
-    [
-     "扑灭",
-     "éteindre",
-     "",
-     "fr/11175.mp3",
-     "zh/11175.mp3",
-     "pū miè",
-     "et&dr"
-    ],
-    [
-     "口罩",
-     "masque ope ratoire",
-     "m.",
-     "fr/11176.mp3",
-     "zh/11176.mp3",
-     "kǒu zhào",
-     "mask operatwar"
-    ],
-    [
-     "安全帽",
-     "casque de protection",
-     "m.",
-     "fr/11177.mp3",
-     "zh/11177.mp3",
-     "ān quán mào",
-     "kask da proteksj5"
-    ],
-    [
-     "警报",
-     "alerte",
-     "",
-     "fr/11178.mp3",
-     "zh/11178.mp3",
-     "jǐng bào",
-     "alert"
-    ],
-    [
-     "灰爆",
-     "cendre",
-     "",
-     "fr/11179.mp3",
-     "zh/11179.mp3",
-     "huī bào",
-     "sädr"
-    ],
-    [
-     "灰爆",
-     "braise",
-     "",
-     "fr/11180.mp3",
-     "zh/11180.mp3",
-     "huī bào",
-     "brez"
-    ],
-    [
-     "防火带",
-     "coupe-feu",
-     "m.",
-     "fr/11181.mp3",
-     "zh/11181.mp3",
-     "fáng huǒ dài",
-     "kup fo"
-    ],
-    [
-     "防火的",
-     "ingifugeant",
-     "",
-     "fr/11182.mp3",
-     "zh/11182.mp3",
-     "fáng huǒ de",
-     "&3ifyzá"
-    ],
-    [
-     "防火壁",
-     "pare-feu",
-     "inv",
-     "fr/11183.mp3",
-     "zh/11183.mp3",
-     "fáng huǒ bì",
-     "par fo"
-    ]
-   ],
-   "s": [
-    [
-     "Ce lac est tres utile contre les incendies.",
-     "这湖泊在发生火灾的时候发挥了作用。",
-     "",
-     "fr/11184.mp3",
-     "zh/11184.mp3",
-     "zhè hú pō zài fā shēng huǒ zāi de shí hòu fā huī le zuò yòng",
-     ""
-    ],
-    [
-     "Un incendie a causé de légers dommages a un im- meuble. T.",
-     "火灾对这栋居民楼造成了轻微损害",
-     "",
-     "fr/11185.mp3",
-     "zh/11185.mp3",
-     "huǒ zāi duì zhè dòng jū mín lóu zào chéng le qīng wēi sǔn hài",
-     ""
-    ],
-    [
-     "Au cours de l'incendie,la scierie a flambé comme une torche.kk",
-     "火灾时锯木厂像火把一样烧了起来。",
-     "",
-     "fr/11186.mp3",
-     "zh/11186.mp3",
-     "huǒ zāi shí jù mù chǎng xiàng huǒ bǎ yī yàng shāo le qǐ lái",
-     ""
-    ],
-    [
-     "Grace a l'arrivée des pom- piers sans tarder,l'incendie a étémaitrise. Les conditions climatiques rigoureuses poussent le bu- reau météorologique a émettre une alerte jaune.",
-     "多亏消防员及时赶到，火灾在第一时间被控制住了。极端的天气状况促使气象部门发布黄色预警信号。",
-     "",
-     "fr/11187.mp3",
-     "zh/11187.mp3",
-     "duō kuī xiāo fáng yuán jí shí gǎn dào huǒ zāi zài dì yī shí jiān bèi kòng zhì zhù le jí duān de tiān qì zhuàng kuàng cù shǐ qì xiàng bù mén fā bù huáng sè yù jǐng xìn hào",
-     ""
-    ],
-    [
-     "Tombe en cendre ou vole en fumee.",
-     "灰飞烟灭",
-     "",
-     "fr/11188.mp3",
-     "zh/11188.mp3",
-     "huī fēi yān miè",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "锯木厂",
-     "scierie",
-     "n.f.",
-     "fr/11189.mp3",
-     "zh/11189.mp3",
-     "jù mù chǎng",
-     "siri"
-    ],
-    [
-     "赶到",
-     "tarderi.",
-     "",
-     "fr/11190.mp3",
-     "zh/11190.mp3",
-     "gǎn dào",
-     "tarde"
-    ],
-    [
-     "",
-     "rigoureuse",
-     "adj",
-     "fr/11191.mp3",
-     "zh/11191.mp3",
-     "",
-     "rigura"
-    ],
-    [
-     "严峻的",
-     "",
-     "",
-     "",
-     "zh/11192.mp3",
-     "yán jùn de",
-     ""
-    ]
-   ]
-  },
-  {
-   "no": 4,
-   "name": "命案现场",
-   "w": [
-    [
-     "户体",
-     "Pcadavre",
-     "m.",
-     "fr/11193.mp3",
-     "zh/11193.mp3",
-     "hù tǐ",
-     "kadavr"
-    ],
-    [
-     "血迹",
-     "traces de sang",
-     "",
-     "fr/11194.mp3",
-     "zh/11194.mp3",
-     "xuè jì",
-     "tras da sá"
-    ],
-    [
-     "痕迹",
-     "empreinte /",
-     "",
-     "fr/11195.mp3",
-     "zh/11195.mp3",
-     "hén jì",
-     "áprtt"
-    ],
-    [
-     "现场",
-     "lieu",
-     "m",
-     "fr/11196.mp3",
-     "zh/11196.mp3",
-     "xiàn chǎng",
-     "lj"
-    ],
-    [
-     "指纹",
-     "dactylogramme",
-     "m.",
-     "fr/11197.mp3",
-     "zh/11197.mp3",
-     "zhǐ wén",
-     "daktilogram"
-    ],
-    [
-     "不在场证明",
-     "alibi",
-     "m.",
-     "fr/11198.mp3",
-     "zh/11198.mp3",
-     "bù zài chǎng zhèng míng",
-     "alibi"
-    ],
-    [
-     "谋杀",
-     "meurtre",
-     "m",
-     "fr/11199.mp3",
-     "zh/11199.mp3",
-     "móu shā",
-     "mcertr"
-    ],
-    [
-     "自杀",
-     "suicider vpr",
-     "",
-     "fr/11200.mp3",
-     "zh/11200.mp3",
-     "zì shā",
-     "syiside"
-    ],
-    [
-     "上吊",
-     "se pendrel.",
-     "",
-     "fr/11201.mp3",
-     "zh/11201.mp3",
-     "shàng diào",
-     "s pádr"
-    ],
-    [
-     "溺水",
-     "noyade /.",
-     "",
-     "fr/11202.mp3",
-     "zh/11202.mp3",
-     "nì shuǐ",
-     "nwajad"
-    ],
-    [
-     "警戒线",
-     "cte dalerte /",
-     "",
-     "fr/11203.mp3",
-     "zh/11203.mp3",
-     "jǐng jiè xiàn",
-     "kot dalert"
-    ],
-    [
-     "可疑的",
-     "suspecte",
-     "",
-     "fr/11204.mp3",
-     "zh/11204.mp3",
-     "kě yí de",
-     "syspe(kt), kt"
-    ],
-    [
-     "调查",
-     "enqueter",
-     "",
-     "fr/11205.mp3",
-     "zh/11205.mp3",
-     "diào chá",
-     "äkete"
-    ],
-    [
-     "凶手",
-     "meurtrier",
-     "m.",
-     "fr/11206.mp3",
-     "zh/11206.mp3",
-     "xiōng shǒu",
-     "mcertrije"
-    ],
-    [
-     "审问",
-     "interroger",
-     "",
-     "fr/11207.mp3",
-     "zh/11207.mp3",
-     "shěn wèn",
-     "Eter3e"
-    ]
-   ],
-   "s": [
-    [
-     "Pour repécher son cadavre intact.les riverains auraient eu l'idée de jeter dans l'eau de la nourriture pour les poissons sous forme de riz emballe dans des feuilles de bambou. P +I+",
-     "为了完好无损地打捞上他的户体两岸的居民把裹着竹叶的米团投入江中喂鱼",
-     "",
-     "fr/11208.mp3",
-     "zh/11208.mp3",
-     "wèi le wán hǎo wú sǔn dì dǎ lāo shàng tā de hù tǐ liǎng àn de jū mín bǎ guǒ zhe zhú yè de mǐ tuán tóu rù jiāng zhōng wèi yú",
-     ""
-    ],
-    [
-     "Au cours de la prise d'otages, il a réclamé une arme a feu pour se suicider.",
-     "在整个的人质危机过程中，他声称拥有火器用于自杀。",
-     "",
-     "fr/11209.mp3",
-     "zh/11209.mp3",
-     "zài zhěng gè de rén zhì wēi jī guò chéng zhōng tā shēng chēng yōng yǒu huǒ qì yòng yú zì shā",
-     ""
-    ],
-    [
-     "Une personne a découvert un sac suspect devant l'am bassade,il s'est apercu qu'il s'agissait d'une bombe artisa- nale et l'a déplacé d'une dizaine de metres avant de prendre la fuite.",
-     "有人发现了大使馆前的可疑包裹，意识到此物为一枚人造炸弹，将其移至十儿米远处，然后逃离了。",
-     "",
-     "fr/11210.mp3",
-     "zh/11210.mp3",
-     "yǒu rén fā xiàn le dà shǐ guǎn qián de kě yí bāo guǒ yì shí dào cǐ wù wèi yī méi rén zào zhà dàn jiāng qí yí zhì shí ér mǐ yuǎn chù rán hòu táo lí le",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "",
-     "emballé,e",
-     "adj",
-     "fr/11211.mp3",
-     "zh/11211.mp3",
-     "",
-     "äbale"
-    ],
-    [
-     "打包的",
-     "",
-     "",
-     "",
-     "zh/11212.mp3",
-     "dǎ bāo de",
-     ""
-    ],
-    [
-     "人质",
-     "otage",
-     "m.",
-     "fr/11213.mp3",
-     "zh/11213.mp3",
-     "rén zhì",
-     "ta3"
-    ],
-    [
-     "",
-     "ambassade",
-     "nf.",
-     "fr/11214.mp3",
-     "zh/11214.mp3",
-     "",
-     "äbasad"
-    ],
-    [
-     "大使馆",
-     "",
-     "",
-     "",
-     "zh/11215.mp3",
-     "dà shǐ guǎn",
-     ""
-    ]
-   ]
-  },
-  {
-   "no": 5,
-   "name": "恐怖主义",
-   "w": [
-    [
-     "恐怖主义",
-     "terrorisme",
-     "m.",
-     "fr/11216.mp3",
-     "zh/11216.mp3",
-     "kǒng bù zhǔ yì",
-     "terorism"
-    ],
-    [
-     "极端主义",
-     "Xactivisme",
-     "m",
-     "fr/11217.mp3",
-     "zh/11217.mp3",
-     "jí duān zhǔ yì",
-     "aktivism"
-    ],
-    [
-     "分裂主义",
-     "Xsécession nisme",
-     "m.",
-     "fr/11218.mp3",
-     "zh/11218.mp3",
-     "fēn liè zhǔ yì",
-     "sesesjonism"
-    ],
-    [
-     "反恐的",
-     "antiterroriste",
-     "",
-     "fr/11219.mp3",
-     "zh/11219.mp3",
-     "fǎn kǒng de",
-     ""
-    ],
-    [
-     "黑名单",
-     "liste noirelist nwarl",
-     "f.",
-     "fr/11221.mp3",
-     "zh/11221.mp3",
-     "hēi míng dān",
-     ""
-    ],
-    [
-     "人质",
-     "otage",
-     "m",
-     "fr/11222.mp3",
-     "zh/11222.mp3",
-     "rén zhì",
-     "ta3"
-    ],
-    [
-     "杀死",
-     "tuer",
-     "",
-     "fr/11223.mp3",
-     "zh/11223.mp3",
-     "shā sǐ",
-     "tye"
-    ],
-    [
-     "恐慌的",
-     "panique",
-     "",
-     "fr/11224.mp3",
-     "zh/11224.mp3",
-     "kǒng huāng de",
-     "panik"
-    ],
-    [
-     "恐吓",
-     "intimider",
-     "",
-     "fr/11225.mp3",
-     "zh/11225.mp3",
-     "kǒng hè",
-     "&timide"
-    ],
-    [
-     "恐怖分子",
-     "terroriste",
-     "",
-     "fr/11226.mp3",
-     "zh/11226.mp3",
-     "kǒng bù fèn zi",
-     "terorist"
-    ],
-    [
-     "恐惧",
-     "crainte",
-     "",
-     "fr/11227.mp3",
-     "zh/11227.mp3",
-     "kǒng jù",
-     "krat"
-    ],
-    [
-     "爆炸",
-     "dynamitage",
-     "m.",
-     "fr/11228.mp3",
-     "zh/11228.mp3",
-     "bào zhà",
-     "dinamitaz"
-    ],
-    [
-     "炸药",
-     "explosif",
-     "m.",
-     "fr/11230.mp3",
-     "zh/11230.mp3",
-     "zhà yào",
-     "eksplozif"
-    ],
-    [
-     "武器",
-     "arme",
-     "f",
-     "fr/11231.mp3",
-     "zh/11231.mp3",
-     "wǔ qì",
-     "arm"
-    ]
-   ],
-   "s": [
-    [
-     "La France et la Chine condamnent le terrorisme sous toutes ses formes. -X.",
-     "中法两国遣责一切形式的恐怖主义",
-     "",
-     "fr/11232.mp3",
-     "zh/11232.mp3",
-     "zhōng fǎ liǎng guó qiǎn zé yī qiè xíng shì de kǒng bù zhǔ yì",
-     ""
-    ],
-    [
-     "20 gendarmes sont retenus comme otage par les terroristes.",
-     "人质。",
-     "",
-     "fr/11233.mp3",
-     "zh/11233.mp3",
-     "rén zhì",
-     ""
-    ],
-    [
-     "Bien que je ne connais pas la raison pour vous tuer,mais je sais, c'est pas une raison pour sauver. Il envisageait en fait dat taquer le Pentagone et le Congres,et ce a l'aide d'avions téléguidés bourrés d'explosifs.",
-     "我虽然不知道杀你的理由，但是我知道，救人是不需要理由的。当时，此人正筹划袭击五角大楼和国会大厦，手段是借撞击。",
-     "",
-     "fr/11234.mp3",
-     "zh/11234.mp3",
-     "wǒ suī rán bù zhī dào shā nǐ de lǐ yóu dàn shì wǒ zhī dào jiù rén shì bù xū yào lǐ yóu dí dàng shí cǐ rén zhèng chóu huà xí jī wǔ jiǎo dà lóu hé guó huì dà shà shǒu duàn shì jiè zhuàng jī",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "",
-     "condamner wt",
-     "",
-     "fr/11235.mp3",
-     "zh/11235.mp3",
-     "",
-     "kdane"
-    ],
-    [
-     "判决",
-     "",
-     "",
-     "",
-     "zh/11236.mp3",
-     "pàn jué",
-     ""
-    ],
-    [
-     "",
-     "gendarme",
-     "n.m.",
-     "fr/11237.mp3",
-     "zh/11237.mp3",
-     "",
-     "zädarm"
-    ],
-    [
-     "警宗",
-     "",
-     "",
-     "",
-     "zh/11238.mp3",
-     "jǐng zōng",
-     ""
-    ],
-    [
-     "",
-     "Pentagone",
-     "",
-     "fr/11239.mp3",
-     "zh/11239.mp3",
-     "",
-     "p&tagon"
-    ],
-    [
-     "五角大楼",
-     "",
-     "n.m.",
-     "",
-     "zh/11240.mp3",
-     "wǔ jiǎo dà lóu",
-     ""
-    ]
-   ]
-  },
-  {
-   "no": 6,
-   "name": "战争",
-   "w": [
-    [
-     "战争",
-     "guerre",
-     "f",
-     "fr/11241.mp3",
-     "zh/11241.mp3",
-     "zhàn zhēng",
-     "ger"
-    ],
-    [
-     "爆发",
-     "éclater",
-     "",
-     "fr/11242.mp3",
-     "zh/11242.mp3",
-     "bào fā",
-     "eklate"
-    ],
-    [
-     "世界大战",
-     "La Guerre mondiale",
-     "f.",
-     "fr/11243.mp3",
-     "zh/11243.mp3",
-     "shì jiè dà zhàn",
-     "la ge:r m5djal"
-    ],
-    [
-     "导致",
-     "mener a",
-     "",
-     "fr/11244.mp3",
-     "zh/11244.mp3",
-     "dǎo zhì",
-     "mane a"
-    ],
-    [
-     "战争期间",
-     "pendant la guerre",
-     "",
-     "fr/11245.mp3",
-     "zh/11245.mp3",
-     "zhàn zhēng qī jiān",
-     "pádä la gerr"
-    ],
-    [
-     "拆毁客调堡",
-     "detruire blockhaus",
-     "m.",
-     "fr/11246.mp3",
-     "zh/11246.mp3",
-     "chāi huǐ kè diào bǎo",
-     "detryir"
-    ],
-    [
-     "炸药",
-     "dynamite",
-     "f.",
-     "fr/11247.mp3",
-     "zh/11247.mp3",
-     "zhà yào",
-     "dinamit"
-    ],
-    [
-     "交战",
-     "faire la guerre /.",
-     "",
-     "fr/11248.mp3",
-     "zh/11248.mp3",
-     "jiāo zhàn",
-     "fer la ge:r"
-    ],
-    [
-     "交战的",
-     "belligerante [belizera át",
-     "",
-     "fr/11249.mp3",
-     "zh/11249.mp3",
-     "jiāo zhàn de",
-     ""
-    ],
-    [
-     "结盟客战场",
-     "s'allier champ de bataille",
-     "m",
-     "fr/11250.mp3",
-     "zh/11250.mp3",
-     "jié méng kè zhàn chǎng",
-     "salje"
-    ],
-    [
-     "激烈地",
-     "véhémente ment",
-     "",
-     "fr/11251.mp3",
-     "zh/11251.mp3",
-     "jī liè dì",
-     "veemätmä"
-    ],
-    [
-     "突袭",
-     "surprendre",
-     "",
-     "fr/11252.mp3",
-     "zh/11252.mp3",
-     "tū xí",
-     "syrprádr"
-    ],
-    [
-     "无尽的",
-     "interminable",
-     "",
-     "fr/11253.mp3",
-     "zh/11253.mp3",
-     "wú jìn de",
-     "&terminabl"
-    ],
-    [
-     "",
-     "tSChapitre 9 LCAE learn or",
-     "",
-     "fr/11266.mp3",
-     "zh/11266.mp3",
-     "",
-     ""
-    ],
-    [
-     "时尚热词安慰奖暗箱操作八宝饭八卦扒窃把关白手起家拜金主义拜年班车办公室恋情半成品包茯包销协议报喜不报忧爆料背黑锅奔丧本命年",
-     "prix de consolation F opérations secretes B du riz glutineux aux huit trésors les huit trigrammes piquer la poche de qn garder la passe faire sa fortune a la force du poignet culte de largent souhaiter la bonne année autobus régulier la romance de bureau semi-produit @balluchon X accord de garan- tie de placement ne dit que les biens mais pas les mals casser les nouvelles encourir un blame par la faute d'un autre revenir en hate chez soi pour les funérailles de son pere ou de sa mere l'année de son signe astrologique chinois",
-     "",
-     "fr/11267.mp3",
-     "zh/11267.mp3",
-     "shí shàng rè cí ān wèi jiǎng àn xiāng cāo zuò bā bǎo fàn bā guà pá qiè bǎ guān bái shǒu qǐ jiā bài jīn zhǔ yì bài nián bān chē bàn gōng shì liàn qíng bàn chéng pǐn bāo fú bāo xiāo xié yì bào xǐ bú bào yōu bào liào bēi hēi guō bēn sāng běn mìng nián",
-     ""
-    ],
-    [
-     "时尚热词淡妆浓抹挡箭牌倒计时地方保护主义第一夫人电灯泡电话会议电脑迷电视直播车电影版权费电影预告片电子宠物电子词典电子货币电子银行垫付吊胃口跌足",
-     "le maquillage léger et lourd des femmes protecteur + comptage décrois- sant le protec- tionnisme local premiere dame Tampoule électrique conférence par téléphone ventilateurs d'ordinateurs car-régie redevances de cinéma bande-annonce tamagotchi dictionnaire élec- tronique monnaie électron- ique services bancaires électroniques somme avancée séduire frapper du pied",
-     "",
-     "fr/11268.mp3",
-     "zh/11268.mp3",
-     "shí shàng rè cí dàn zhuāng nóng mǒ dǎng jiàn pái dào jì shí dì fāng bǎo hù zhǔ yì dì yī fū rén diàn dēng pào diàn huà huì yì diàn nǎo mí diàn shì zhí bō chē diàn yǐng bǎn quán fèi diàn yǐng yù gào piàn diàn zi chǒng wù diàn zǐ cí diǎn diàn zi huò bì diàn zi yín háng diàn fù diào wèi kǒu diē zú",
-     ""
-    ],
-    [
-     "课老师定心丸东道主独家代理独生子女独资经营",
-     "i une institutrice qch.capable de mettre qn a l'aise lhote représentant exclusif enfant unique opération dun",
-     "",
-     "fr/11269.mp3",
-     "zh/11269.mp3",
-     "kè lǎo shī dìng xīn wán dōng dào zhǔ dú jiā dài lǐ dú shēng zǐ nǚ dú zī jīng yíng",
-     ""
-    ],
-    [
-     "时尚热词短期债务短信短暂停留对口味儿童心理学二百五二手货发案率翻老账翻两倍方便食品房地产放行单非法收人非婚生子女分公司分行扶贫扶贫办公室服务器附加税复合型人才",
-     "seul investisseur dette a court terme message court séjour convenir au gout de qn E Lpsychologie des enfants iniais Farticle doccasion tauxde criminalité régler un vieux compte doubler les aliments de commodité propriétés immobil- iéres sortir un single revenuillicite adultérine succursale aider les pauvres bureau de lutte contre la pauvreté serveur fimpöt additionnel talent complexe",
-     "",
-     "fr/11270.mp3",
-     "zh/11270.mp3",
-     "shí shàng rè cí duǎn qī zhài wù duǎn xìn duǎn zàn tíng liú duì kǒu wèi ér tóng xīn lǐ xué èr bǎi wǔ èr shǒu huò fā àn lǜ fān lǎo zhàng fān liǎng bèi fāng biàn shí pǐn fáng dì chǎn fàng xíng dān fēi fǎ shōu rén fēi hūn shēng zǐ nǚ fēn gōng sī fēn háng fú pín fú pín bàn gōng shì fú wù qì fù jiā shuì fù hé xíng rén cái",
-     ""
-    ],
-    [
-     "时尚热词广告词广告代理行广域网规避滚雪球国事访间国书过度放牧过度开垦过渡期豪赌好马不吃回头草好球和谈核心力量黑帮黑车黑社会黑厘子黑眼圈红领巾呼叫转移狐狸精互惠贸易",
-     "annonce agence de publicité réseau de zone large faux-fuyant faire boule de neige visite officielle lettre de créance surpaissance defrichage exces- sif la période de transi- tion H jouer gros un bon cheval ne sera jamais demi-tour a manger un ancien paturage. une belle balle négociation de la paix force du noyau bande sinistre voiture noire le Milieu boite noire cerne foulard rouge transférer un ap- pel femme séduisante commerce récip",
-     "",
-     "fr/11271.mp3",
-     "zh/11271.mp3",
-     "shí shàng rè cí guǎng gào cí guǎng gào dài lǐ xíng guǎng yù wǎng guī bì gǔn xuě qiú guó shì fǎng jiān guó shū guò dù fàng mù guò dù kāi kěn guò dù qī háo dǔ hǎo mǎ bù chī huí tóu cǎo hǎo qiú hé tán hé xīn lì liàng hēi bāng hēi chē hēi shè huì hēi lí zi hēi yǎn quān hóng lǐng jīn hū jiào zhuǎn yí hú lí jīng hù huì mào yì",
-     ""
-    ],
-    [
-     "时尚热词户籍证明户薄户主还俗还愿环太平洋的缓刑换岗换届黄昏恋黄金市场黄金行情黄土高原会考婚前同居婚前协议活动板房货到付款饥寒交迫基本工资吉祥物极限运动集思广益",
-     "roque Eacte de létat civil registres détat civil chef d'un foyer etre réduit a létat laic tenir les promesses auprés du dieu circumpacifique sursis relever un poste changer de terme of ficiel crépuscule amour marché de lor cours de l'or plateau de lss concours cohabitation avant le mariage iX accord prénuptial activités du con seil payement a l'arrivée i souffrir du froid et de la faim Tsalaire de base mascotte sports extremes mettre a profit la sagesse collective",
-     "",
-     "fr/11272.mp3",
-     "zh/11272.mp3",
-     "shí shàng rè cí hù jí zhèng míng hù báo hù zhǔ huán sú huán yuàn huán tài píng yáng de huǎn xíng huàn gǎng huàn jiè huáng hūn liàn huáng jīn shì chǎng huáng jīn háng qíng huáng tǔ gāo yuán huì kǎo hūn qián tóng jū hūn qián xié yì huó dòng bǎn fáng huò dào fù kuǎn jī hán jiāo pò jī běn gōng zī jí xiáng wù jí xiàn yùn dòng jí sī guǎng yì",
-     ""
-    ],
-    [
-     "时尚热词聚赌军备竞赛开工令开光开门红看跌者康复中心考核制度考勤考勤制度靠山科普客串孔雀石恐怖分子口碑口头禅哭穷苦果跨国公司快餐",
-     "l'emploi parier en groupe course aux arme- ment K .T.ordre de service ouvrir les lumieres commencer le mois avec succes avoir un bon début baissier,ere centre de conva- lescence systeme des exa mens et de vérification contröle de présence systeme de con- tröle de présence ll protecteur vulgarisation des sci- ences amateur bois de corail terroriste jugement formule habituelle de qn pleurer misere mauvais résultat entreprise multi- nationale léger repas",
-     "",
-     "fr/11273.mp3",
-     "zh/11273.mp3",
-     "shí shàng rè cí jù dǔ jūn bèi jìng sài kāi gōng lìng kāi guāng kāi mén hóng kàn diē zhě kāng fù zhōng xīn kǎo hé zhì dù kǎo qín kǎo qín zhì dù kào shān kē pǔ kè chuàn kǒng què shí kǒng bù fèn zi kǒu bēi kǒu tóu chán kū qióng kǔ guǒ kuà guó gōng sī kuài cān",
-     ""
-    ],
-    [
-     "时尚热词快递马大哈马屁精马赛克漫游美容院庙会抹黑南北对话闹情绪泥石流年夜饭娘娘腔农业税浓妆拍板拍马屁攀亲盘点炮灰跑车跑龙套",
-     "exprs M négligent le flatteur mosaique faire un voyage d'agrément institut de beauté foire noircir N t dialogue Nord-Sud etre maussade écoulement du sol causé par un torrent réveillon poule mouillée l taxe agricole un maquillagefort P battre la mesure avec deux planchettes lécher les bottes de qn prétendre a la main inventorier chair a canon voitwre de course jouer un rle de",
-     "",
-     "fr/11274.mp3",
-     "zh/11274.mp3",
-     "shí shàng rè cí kuài dì mǎ dà hā mǎ pì jīng mǎ sài kè màn yóu měi róng yuàn miào huì mǒ hēi nán běi duì huà nào qíng xù ní shí liú nián yè fàn niáng niáng qiāng nóng yè shuì nóng zhuāng pāi bǎn pāi mǎ pì pān qīn pán diǎn pào huī pǎo chē pǎo lóng tào",
-     ""
-    ],
-    [
-     "时尚热词热岛效应热线人才外流人道主义人口密度人口普查人口学人力资源人身攻击人事调动人寿保险人头税荣誉称号人场人股人乡随俗软盘傻帽山寨试婚瘦肉",
-     "effet dile chaude hotline fuite des cerveaux AiffXhumanitarisme densitéde la population recensement général démographie tressources hu- maines offense a qn mutation du per- sonne assurance-vie capitation distinctions hon- orifiques entrée faire un apport de capital iobserver les us- ages du pays ou l'on arrive floppydisc conconne i@fortin dans la mon- tagne mariage d'essai viande maigre",
-     "",
-     "fr/11275.mp3",
-     "zh/11275.mp3",
-     "shí shàng rè cí rè dǎo xiào yìng rè xiàn rén cái wài liú rén dào zhǔ yì rén kǒu mì dù rén kǒu pǔ chá rén kǒu xué rén lì zī yuán rén shēn gōng jī rén shì diào dòng rén shòu bǎo xiǎn rén tóu shuì róng yù chēng hào rén chǎng rén gǔ rén xiāng suí sú ruǎn pán shǎ mào shān zhài shì hūn shòu ròu",
-     ""
-    ],
-    [
-     "时尚热词抬杠体罚铁饭碗铁杆粉丝土特产脱手脱销挖墙脚外卖网虫网络空间网络营销网民网上冲浪者网友旺季",
-     "porter a l'aide d'une barre chatiment corporel bol de riz en fer inconditionnels spécialité locale échapper des mains vendre tout son stock de marchandises W sape vendre au dehors cybernaute cyberespace maketing sur Internet internaute internaute cybercopain pleine saison",
-     "",
-     "fr/11276.mp3",
-     "zh/11276.mp3",
-     "shí shàng rè cí tái gàng tǐ fá tiě fàn wǎn tiě gǎn fěn sī tǔ tè chǎn tuō shǒu tuō xiāo wā qiáng jiǎo wài mài wǎng chóng wǎng luò kōng jiān wǎng luò yíng xiāo wǎng mín wǎng shàng chōng làng zhě wǎng yǒu wàng jì",
-     ""
-    ]
-   ],
-   "s": [
-    [
-     "Il y a une chose appelée l'amour,dit une légende loin taine,qui peut mettre fin a cetteguerre.",
-     "根据一个遥远的传说，说有一种东西叫爱情可以彻底地终结这场战争。",
-     "",
-     "fr/11254.mp3",
-     "zh/11254.mp3",
-     "gēn jù yí gè yáo yuǎn de chuán shuō shuō yǒu yī zhǒng dōng xī jiào ài qíng kě yǐ chè dǐ dì zhōng jié zhè chǎng zhàn zhēng",
-     ""
-    ],
-    [
-     "Beaucoup d'écoles ont été endommagées pendant la guerre et il faudra des re- ssources supplémentaires pour les reconstruire.",
-     "由于很多学校在战争中遭到破坏，因此需要提供更多的重建资金。",
-     "",
-     "fr/11255.mp3",
-     "zh/11255.mp3",
-     "yóu yú hěn duō xué xiào zài zhàn zhēng zhōng zāo dào pò huài yīn cǐ xū yào tí gōng gèng duō de chóng jiàn zī jīn",
-     ""
-    ],
-    [
-     "A la pensée qu'on pourrait la surprendre, il eut un mo- ment dinquietude.",
-     "一想到有人突然袭击她，他就感到一阵阵不安。",
-     "",
-     "fr/11256.mp3",
-     "zh/11256.mp3",
-     "yī xiǎng dào yǒu rén tū rán xí jī tā tā jiù gǎn dào yī zhèn zhèn bù ān",
-     ""
-    ],
-    [
-     "Cest un affrontement vraiement étrange oü tous les généraux sont morts. -X",
-     "这的确是一场难以理解的战役交战中所有的将军都战死了。",
-     "",
-     "fr/11257.mp3",
-     "zh/11257.mp3",
-     "zhè dí què shì yī cháng nán yǐ lǐ jiě de zhàn yì jiāo zhàn zhōng suǒ yǒu de jiāng jūn dōu zhàn sǐ le",
-     ""
-    ]
-   ],
-   "e": [
-    [
-     "",
-     "lointaine",
-     "adj",
-     "fr/11258.mp3",
-     "zh/11258.mp3",
-     "",
-     "lwétê"
-    ],
-    [
-     "遥远的",
-     "",
-     "",
-     "",
-     "zh/11259.mp3",
-     "yáo yuǎn de",
-     ""
-    ],
-    [
-     "",
-     "reconstruire",
-     "",
-     "fr/11260.mp3",
-     "zh/11260.mp3",
-     "",
-     "rakstryir"
-    ],
-    [
-     "重建",
-     "",
-     "",
-     "",
-     "zh/11261.mp3",
-     "chóng jiàn",
-     ""
-    ],
-    [
-     "",
-     "inquiétude",
-     "nf",
-     "fr/11262.mp3",
-     "zh/11262.mp3",
-     "",
-     "kjetyd"
-    ],
-    [
-     "不安",
-     "",
-     "",
-     "",
-     "zh/11263.mp3",
-     "bù ān",
-     ""
-    ],
-    [
-     "",
-     "affrontement",
-     "",
-     "fr/11264.mp3",
-     "zh/11264.mp3",
-     "",
-     "afr5tmá"
-    ],
-    [
-     "冲突战役",
-     "n.m..",
-     "",
-     "fr/11265.mp3",
-     "zh/11265.mp3",
-     "chōng tū zhàn yì",
-     ""
-    ]
-   ]
-  }
- ]
-}
+window.BOOK_DATA = window.BOOK_DATA || {};
+window.BOOK_DATA[17] = {
+  "gid": 17,
+  "no": "4",
+  "name": "住",
+  "gname": "社会",
+  "secs": [
+    {
+      "no": 2,
+      "name": "宗教活动",
+      "w": [
+        [
+          "宗教的",
+          "religieuxse",
+          "",
+          "fr/10271.mp3",
+          "zh/10271.mp3",
+          "zōng jiào de",
+          "r(alizj,z"
+        ],
+        [
+          "宗教活动",
+          "activités religieuses",
+          "f.",
+          "fr/10272.mp3",
+          "zh/10272.mp3",
+          "zōng jiào huó dòng",
+          "aktivite ralizjoz"
+        ],
+        [
+          "洗礼",
+          "bapteme",
+          "m.",
+          "fr/10273.mp3",
+          "zh/10273.mp3",
+          "xǐ lǐ",
+          "batem"
+        ],
+        [
+          "废除",
+          "abolition ].",
+          "",
+          "fr/10274.mp3",
+          "zh/10274.mp3",
+          "fèi chú",
+          "abolisjö"
+        ],
+        [
+          "仪式",
+          "cérémonie",
+          "f.",
+          "fr/10275.mp3",
+          "zh/10275.mp3",
+          "yí shì",
+          "seremoni"
+        ],
+        [
+          "教义做礼拜",
+          "Xdogmem. aller aléglise",
+          "",
+          "fr/10276.mp3",
+          "zh/10276.mp3",
+          "jiào yì zuò lǐ bài",
+          "dagm"
+        ],
+        [
+          "崇拜",
+          "dévotion",
+          "f.",
+          "fr/10277.mp3",
+          "zh/10277.mp3",
+          "chóng bài",
+          "devosj3"
+        ],
+        [
+          "号召",
+          "appel",
+          "m.",
+          "fr/10278.mp3",
+          "zh/10278.mp3",
+          "hào zhào",
+          "apel"
+        ],
+        [
+          "征募",
+          "recruter t.",
+          "",
+          "fr/10279.mp3",
+          "zh/10279.mp3",
+          "zhēng mù",
+          "rakryte"
+        ],
+        [
+          "传福音",
+          "évangelisme",
+          "m.",
+          "fr/10280.mp3",
+          "zh/10280.mp3",
+          "chuán fú yīn",
+          "evázelism"
+        ],
+        [
+          "孝道",
+          "piété filialepjete filjal]",
+          "f.",
+          "fr/10281.mp3",
+          "zh/10281.mp3",
+          "xiào dào",
+          ""
+        ],
+        [
+          "国教",
+          "religion d'Etat",
+          "f.",
+          "fr/10282.mp3",
+          "zh/10282.mp3",
+          "guó jiào",
+          "ralizj5 deta"
+        ],
+        [
+          "教规",
+          "cano",
+          "nm",
+          "fr/10283.mp3",
+          "zh/10283.mp3",
+          "jiào guī",
+          "kan"
+        ],
+        [
+          "虔诚的",
+          "dévote",
+          "",
+          "fr/10284.mp3",
+          "zh/10284.mp3",
+          "qián chéng de",
+          "de,t"
+        ],
+        [
+          "该罚的",
+          "punissable",
+          "",
+          "fr/10285.mp3",
+          "zh/10285.mp3",
+          "gāi fá de",
+          "pynisabl"
+        ],
+        [
+          "主人",
+          "maitren.",
+          "",
+          "fr/10286.mp3",
+          "zh/10286.mp3",
+          "zhǔ rén",
+          "metr"
+        ],
+        [
+          "抢掠",
+          "pillage",
+          "m",
+          "fr/11142.mp3",
+          "zh/11142.mp3",
+          "qiǎng lüè",
+          "pijaz"
+        ],
+        [
+          "抢劫",
+          "saccager .",
+          "",
+          "fr/11143.mp3",
+          "zh/11143.mp3",
+          "qiǎng jié",
+          "saka3e"
+        ],
+        [
+          "抢劫",
+          "voler",
+          "",
+          "fr/11144.mp3",
+          "zh/11144.mp3",
+          "qiǎng jié",
+          "vole"
+        ],
+        [
+          "强盗行为",
+          "banditisme",
+          "m.",
+          "fr/11145.mp3",
+          "zh/11145.mp3",
+          "qiáng dào xíng wéi",
+          "báditism"
+        ],
+        [
+          "匪徒",
+          "bandit",
+          "m.",
+          "fr/11146.mp3",
+          "zh/11146.mp3",
+          "fěi tú",
+          "bädi"
+        ],
+        [
+          "盗匪",
+          "brigand",
+          "m",
+          "fr/11147.mp3",
+          "zh/11147.mp3",
+          "dào fěi",
+          "briga"
+        ],
+        [
+          "盗窃犯",
+          "voleur,euse",
+          "m.",
+          "fr/11148.mp3",
+          "zh/11148.mp3",
+          "dào qiè fàn",
+          "volr,z"
+        ],
+        [
+          "盗用",
+          "détourner .",
+          "",
+          "fr/11149.mp3",
+          "zh/11149.mp3",
+          "dào yòng",
+          "deturne"
+        ],
+        [
+          "添加剂",
+          "additif",
+          "m",
+          "fr/11150.mp3",
+          "zh/11150.mp3",
+          "tiān jiā jì",
+          "aditif"
+        ],
+        [
+          "武装抢劫",
+          "volamain armée /.",
+          "",
+          "fr/11151.mp3",
+          "zh/11151.mp3",
+          "wǔ zhuāng qiǎng jié",
+          "vol a m arme"
+        ],
+        [
+          "同伙",
+          "complice",
+          "m.",
+          "fr/11152.mp3",
+          "zh/11152.mp3",
+          "tóng huǒ",
+          "kšplis"
+        ],
+        [
+          "行凶抢劫",
+          "agression /.",
+          "",
+          "fr/11153.mp3",
+          "zh/11153.mp3",
+          "xíng xiōng qiǎng jié",
+          "agresj5"
+        ],
+        [
+          "贼赃",
+          "fauche[fo",
+          "",
+          "fr/11154.mp3",
+          "zh/11154.mp3",
+          "zéi zāng",
+          ""
+        ],
+        [
+          "偷来的",
+          "dérobé,e",
+          "",
+          "fr/11155.mp3",
+          "zh/11155.mp3",
+          "tōu lái de",
+          "derobe"
+        ],
+        [
+          "盗窃行为",
+          "cambriolage",
+          "m.",
+          "fr/11156.mp3",
+          "zh/11156.mp3",
+          "dào qiè xíng wéi",
+          "kábrijola3"
+        ]
+      ],
+      "s": [
+        [
+          "Au cæur de l'humanité, avec un équilibre parfait,il est la seule clé pour les travail- leurs, seulement payer le sang et la sueur pour obtenir leur bapteme.+",
+          "在人类的心灵中有着一架分毫不差的天平，它是劳动者唯一的法门，只有付出了血和汗，才能得到它们的洗礼。",
+          "",
+          "fr/10287.mp3",
+          "zh/10287.mp3",
+          "zài rén lèi de xīn líng zhōng yǒu zhe yī jià fēn háo bù chā de tiān píng tā shì láo dòng zhě wéi yī de fǎ mén zhǐ yǒu fù chū le xuè hé hàn cái néng dé dào tā men de xǐ lǐ",
+          ""
+        ],
+        [
+          "La terre et l'eau semblaient etre a la dévotion de son maitre.",
+          "陆地和海洋似乎都是忠诚地在为它们的主人效劳",
+          "",
+          "fr/10288.mp3",
+          "zh/10288.mp3",
+          "lù dì hé hǎi yáng sì hū dōu shì zhōng chéng dì zài wèi tā men de zhǔ rén xiào láo",
+          ""
+        ],
+        [
+          "Les organisations humani- taires lancent un appel en fa- veur des victimes et avancent le chiffre de 500 morts et de 5millions devacués. C'est samedi de Paques, beaucoup ont revétus leurs plus beaux atours pour aller a lamesse.",
+          "人道主义组织为帮助受灾者发起号召，并统计出约有500人死亡，500万人已撤离灾区。今天是周六适逢复活节，很多人穿上礼服去做礼拜。",
+          "",
+          "fr/10289.mp3",
+          "zh/10289.mp3",
+          "rén dào zhǔ yì zǔ zhī wèi bāng zhù shòu zāi zhě fā qǐ hào zhào bìng tǒng jì chū yuē yǒu rén sǐ wáng wàn rén yǐ chè lí zāi qū jīn tiān shì zhōu liù shì féng fù huó jié hěn duō rén chuān shàng lǐ fú qù zuò lǐ bài",
+          ""
+        ],
+        [
+          "Si vous avez le temps de saccager le jardin d'autrui, vous feriez mieux de faire éclore vos propres fleures!",
+          "有时间破坏别人的花园，不如让自己的花开吧！",
+          "",
+          "fr/11157.mp3",
+          "zh/11157.mp3",
+          "yǒu shí jiān pò huài bié rén de huā yuán bù rú ràng zì jǐ de huā kāi ba",
+          ""
+        ],
+        [
+          "Monsieur,vous avez des manieres de bandit!",
+          "先生你简直是强盗的逻辑！",
+          "",
+          "fr/11158.mp3",
+          "zh/11158.mp3",
+          "xiān shēng nǐ jiǎn zhí shì qiáng dào de luó jí",
+          ""
+        ],
+        [
+          "Le voleur s'enfuyait a toutesjambes.",
+          "那小偷撤腿就跑。",
+          "",
+          "fr/11159.mp3",
+          "zh/11159.mp3",
+          "nà xiǎo tōu chè tuǐ jiù pǎo",
+          ""
+        ],
+        [
+          "Si lennemi ose se livrer a une agression, il recevra un chatiment sévere. X.",
+          "敌人胆敢进犯必将遭到严厉的惩罚",
+          "",
+          "fr/11160.mp3",
+          "zh/11160.mp3",
+          "dí rén dǎn gǎn jìn fàn bì jiāng zāo dào yán lì de chéng fá",
+          ""
+        ],
+        [
+          "Le prisonnier a vendu ses complices a la police.",
+          "罪犯向警察坦白，出卖了他的同伙。",
+          "",
+          "fr/11161.mp3",
+          "zh/11161.mp3",
+          "zuì fàn xiàng jǐng chá tǎn bái chū mài le tā de tóng huǒ",
+          ""
+        ],
+        [
+          "Un responsable de la mu- nicipalité de Shanghai cité par le China Daily expliquait éga- lement que les issues de se cours des logements sont sou- vent verrouillées par crainte de cambriolages.",
+          "上海市政当局由于害怕偷窃，很多住户都将安全逃生口封堵了。",
+          "的一位负责人在接受《中国 日报》采访时这样解释道，",
+          "fr/11162.mp3",
+          "zh/11162.mp3",
+          "shàng hǎi shì zhèng dāng jú yóu yú hài pà tōu qiè hěn duō zhù hù dōu jiāng ān quán táo shēng kǒu fēng dǔ le",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "",
+          "équilibre",
+          "n.m.",
+          "fr/10290.mp3",
+          "",
+          "",
+          "ekilibr"
+        ],
+        [
+          "平衡",
+          "",
+          "",
+          "",
+          "zh/10291.mp3",
+          "píng héng",
+          ""
+        ],
+        [
+          "汗出汗",
+          "sueur",
+          "nf.",
+          "fr/10292.mp3",
+          "zh/10292.mp3",
+          "hàn chū hàn",
+          "sr"
+        ],
+        [
+          "脱壳而出",
+          "éclorei.",
+          "",
+          "fr/11163.mp3",
+          "zh/11163.mp3",
+          "tuō ké ér chū",
+          "ekr"
+        ],
+        [
+          "方法",
+          "maniere",
+          "",
+          "fr/11164.mp3",
+          "zh/11164.mp3",
+          "fāng fǎ",
+          "manjer"
+        ],
+        [
+          "",
+          "chatimentJatimä].",
+          "m.",
+          "fr/11165.mp3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "惩罚",
+          "",
+          "",
+          "",
+          "zh/11166.mp3",
+          "chéng fá",
+          ""
+        ],
+        [
+          "",
+          "prisonnier",
+          "",
+          "fr/11167.mp3",
+          "",
+          "",
+          "prizonje,er"
+        ],
+        [
+          "罪犯",
+          "",
+          "",
+          "",
+          "zh/11168.mp3",
+          "zuì fàn",
+          ""
+        ]
+      ]
+    },
+    {
+      "no": 1,
+      "name": "雕塑",
+      "w": [
+        [
+          "雕刻师",
+          "sculpteur",
+          "m.",
+          "fr/10293.mp3",
+          "zh/10293.mp3",
+          "diāo kè shī",
+          "skyltxr"
+        ],
+        [
+          "雕刻",
+          "sculpter",
+          "",
+          "fr/10294.mp3",
+          "zh/10294.mp3",
+          "diāo kè",
+          "skylte"
+        ],
+        [
+          "人像",
+          "effigie",
+          "",
+          "fr/10295.mp3",
+          "zh/10295.mp3",
+          "rén xiàng",
+          "efizi"
+        ],
+        [
+          "画像",
+          "figure",
+          "",
+          "fr/10296.mp3",
+          "zh/10296.mp3",
+          "huà xiàng",
+          "figyr"
+        ],
+        [
+          "女像柱",
+          "cariatide .",
+          "",
+          "fr/10297.mp3",
+          "zh/10297.mp3",
+          "nǚ xiàng zhù",
+          "karjatid"
+        ],
+        [
+          "浮雕",
+          "ciselant",
+          "",
+          "fr/10298.mp3",
+          "zh/10298.mp3",
+          "fú diāo",
+          "sizlä"
+        ],
+        [
+          "模子",
+          "moule",
+          "m.",
+          "fr/10299.mp3",
+          "zh/10299.mp3",
+          "mú zi",
+          "mul"
+        ],
+        [
+          "模型",
+          "modele",
+          "m",
+          "fr/10300.mp3",
+          "zh/10300.mp3",
+          "mó xíng",
+          "model"
+        ],
+        [
+          "工作间",
+          "I cabinet de travail",
+          "m.",
+          "fr/10301.mp3",
+          "zh/10301.mp3",
+          "gōng zuò jiān",
+          "kabine d(a travaj"
+        ],
+        [
+          "雕刻",
+          "graver",
+          "",
+          "fr/10302.mp3",
+          "zh/10302.mp3",
+          "diāo kè",
+          "grave"
+        ],
+        [
+          "雕刻雕刻术",
+          "ciseler gravure",
+          "",
+          "fr/10303.mp3",
+          "zh/10303.mp3",
+          "diāo kè diāo kè shù",
+          "sizle"
+        ],
+        [
+          "切开",
+          "découpage",
+          "m.",
+          "fr/10304.mp3",
+          "zh/10304.mp3",
+          "qiè kāi",
+          "dekupa:3"
+        ],
+        [
+          "雕塑",
+          "statue[statyl.",
+          "",
+          "fr/10305.mp3",
+          "zh/10305.mp3",
+          "diāo sù",
+          ""
+        ],
+        [
+          "凿",
+          "appareiller 1.",
+          "",
+          "fr/10306.mp3",
+          "zh/10306.mp3",
+          "záo",
+          "apare(e)je"
+        ],
+        [
+          "刀子",
+          "schlass",
+          "m",
+          "fr/10307.mp3",
+          "zh/10307.mp3",
+          "dāo zi",
+          "las"
+        ],
+        [
+          "科技",
+          "science et technologie",
+          "",
+          "fr/10848.mp3",
+          "zh/10848.mp3",
+          "kē jì",
+          "sjäs e teknolozi"
+        ],
+        [
+          "科学",
+          "science",
+          "",
+          "fr/10849.mp3",
+          "zh/10849.mp3",
+          "kē xué",
+          "sjas"
+        ],
+        [
+          "科学地",
+          "scientifique ment",
+          "",
+          "fr/10850.mp3",
+          "zh/10850.mp3",
+          "kē xué dì",
+          "sjátifikmä"
+        ],
+        [
+          "技术",
+          "technique /.",
+          "",
+          "fr/10851.mp3",
+          "zh/10851.mp3",
+          "jì shù",
+          "teknik"
+        ],
+        [
+          "工程学",
+          "ingénierie /",
+          "",
+          "fr/10852.mp3",
+          "zh/10852.mp3",
+          "gōng chéng xué",
+          "&zenjari"
+        ],
+        [
+          "科学论派",
+          "scientologie /.",
+          "",
+          "fr/10853.mp3",
+          "zh/10853.mp3",
+          "kē xué lùn pài",
+          "sjátolzi"
+        ],
+        [
+          "航空技术",
+          "aérotech nique",
+          "",
+          "fr/10854.mp3",
+          "zh/10854.mp3",
+          "háng kōng jì shù",
+          "aeroteknik"
+        ],
+        [
+          "纳米理论",
+          "nanometre théorie[teori",
+          "",
+          "fr/10855.mp3",
+          "zh/10855.mp3",
+          "nà mǐ lǐ lùn",
+          "nanometr"
+        ],
+        [
+          "研究",
+          "étudier",
+          "",
+          "fr/10856.mp3",
+          "zh/10856.mp3",
+          "yán jiū",
+          "etydje"
+        ],
+        [
+          "实验",
+          "expérimentation /",
+          "",
+          "fr/10857.mp3",
+          "zh/10857.mp3",
+          "shí yàn",
+          "eksperimäta(a)sj5"
+        ],
+        [
+          "有机的",
+          "organique",
+          "",
+          "fr/10858.mp3",
+          "zh/10858.mp3",
+          "yǒu jī de",
+          "organik"
+        ],
+        [
+          "发现",
+          "découvrir .",
+          "",
+          "fr/10859.mp3",
+          "zh/10859.mp3",
+          "fā xiàn",
+          "dekuvrir"
+        ],
+        [
+          "机器人机器人",
+          "robotm srobot",
+          "",
+          "fr/10860.mp3",
+          "zh/10860.mp3",
+          "jī qì rén jī qì rén",
+          "robo"
+        ]
+      ],
+      "s": [
+        [
+          "Lhomme ne peut pas se retrouver sans souffrir,car il est a la fois le marbre et aussi son propre sculpteur.",
+          "不经历痛苦就无法找到自己，人就像一块大理石，同时也是自已的雕刻家。",
+          "",
+          "fr/10308.mp3",
+          "zh/10308.mp3",
+          "bù jīng lì tòng kǔ jiù wú fǎ zhǎo dào zì jǐ rén jiù xiàng yī kuài dà lǐ shí tóng shí yě shì zì yǐ de diāo kè jiā",
+          ""
+        ],
+        [
+          "La lune a dégagé son disque de la masse des nuages,et ca- resse avec ses pales rayons cette douce figure d'adolescent.",
+          "月亮从云中露出圆轮，苍白的光线轻抚着少年柔嫩的脸庞。",
+          "",
+          "fr/10309.mp3",
+          "zh/10309.mp3",
+          "yuè liàng cóng yún zhōng lù chū yuán lún cāng bái de guāng xiàn qīng fǔ zhe shào nián róu nèn de liǎn páng",
+          ""
+        ],
+        [
+          "IIs participent ensemble a toutes les activités: la peinture, la gravure et meme la sculpture EE.",
+          "他们一起参加了各种活动：油画版画甚至雕塑",
+          "",
+          "fr/10310.mp3",
+          "zh/10310.mp3",
+          "tā men yì qǐ cān jiā le gè zhǒng huó dòng yóu huà bǎn huà shèn zhì diāo sù",
+          ""
+        ],
+        [
+          "Si I'amour est une statue, mes mains lont burine.",
+          "如果爱情是件雕塑，我的双手把它塑造。",
+          "",
+          "fr/10311.mp3",
+          "zh/10311.mp3",
+          "rú guǒ ài qíng shì jiàn diāo sù wǒ de shuāng shǒu bǎ tā sù zào",
+          ""
+        ],
+        [
+          "Cest que toutes les théo ries de la science démontrent qu'une pareille entreprise est impraticable!F",
+          "因为所有的科学理论都证实这种事情是不可能的！",
+          "",
+          "fr/10861.mp3",
+          "zh/10861.mp3",
+          "yīn wèi suǒ yǒu de kē xué lǐ lùn dōu zhèng shí zhè zhǒng shì qíng shì bù kě néng de",
+          ""
+        ],
+        [
+          "Pour la spécialité de Iéconomie,je pense que les Chinois ont tendance a I'édu- cation de la théorie,et les Francais sont enclins a celle de la pratique. T La France est un peu ar- rivée elle aussi sur Mars lundi puisque deux instruments du robot ont été construits par des ingenieurs francais. A I",
+          "对于经济学的这个专业来说，我认为，中国比较倾向于理论的教育而法国则比较倾向于实践。周一法国也在登陆火星上有小小成就因为机器人的两部设备是由法国工程师建造的",
+          "",
+          "fr/10862.mp3",
+          "zh/10862.mp3",
+          "duì yú jīng jì xué de zhè ge zhuān yè lái shuō wǒ rèn wéi zhōng guó bǐ jiào qīng xiàng yú lǐ lùn de jiào yù ér fǎ guó zé bǐ jiào qīng xiàng yú shí jiàn zhōu yī fǎ guó yě zài dēng lù huǒ xīng shàng yǒu xiǎo xiǎo chéng jiù yīn wèi jī qì rén de liǎng bù shè bèi shì yóu fǎ guó gōng chéng shī jiàn zào de",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "受苦",
+          "souffrir",
+          "vi.",
+          "fr/10312.mp3",
+          "zh/10312.mp3",
+          "shòu kǔ",
+          "sufrir"
+        ],
+        [
+          "圆盘",
+          "disque",
+          "n.m.",
+          "fr/10313.mp3",
+          "zh/10313.mp3",
+          "yuán pán",
+          "disk"
+        ],
+        [
+          "",
+          "adolescent,e",
+          "",
+          "fr/10314.mp3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "青少年",
+          "",
+          "",
+          "",
+          "zh/10315.mp3",
+          "qīng shào nián",
+          "adleesaat"
+        ],
+        [
+          "活动",
+          "activité",
+          "nf.",
+          "fr/10316.mp3",
+          "zh/10316.mp3",
+          "huó dòng",
+          "aktivite"
+        ],
+        [
+          "雕刻",
+          "buriné",
+          "vt.",
+          "fr/10317.mp3",
+          "zh/10317.mp3",
+          "diāo kè",
+          "byrine"
+        ],
+        [
+          "相同的",
+          "pareille",
+          "adj.",
+          "fr/10863.mp3",
+          "zh/10863.mp3",
+          "xiāng tóng de",
+          "parej"
+        ],
+        [
+          "",
+          "impraticable",
+          "",
+          "fr/10864.mp3",
+          "",
+          "",
+          "&pratikabl"
+        ],
+        [
+          "难以实行的",
+          "",
+          "adj",
+          "",
+          "zh/10865.mp3",
+          "nán yǐ shí xíng de",
+          ""
+        ],
+        [
+          "",
+          "enclin,e",
+          "adj.",
+          "fr/10866.mp3",
+          "",
+          "",
+          "äkl,in"
+        ],
+        [
+          "倾向于的",
+          "",
+          "",
+          "",
+          "zh/10867.mp3",
+          "qīng xiàng yú de",
+          ""
+        ],
+        [
+          "",
+          "ingénieur",
+          "n.m",
+          "fr/10868.mp3",
+          "",
+          "",
+          "&zenjcr"
+        ],
+        [
+          "工程师",
+          "",
+          "",
+          "",
+          "zh/10869.mp3",
+          "gōng chéng shī",
+          ""
+        ]
+      ]
+    },
+    {
+      "no": 3,
+      "name": "火灾现场",
+      "w": [
+        [
+          "火灾",
+          "incendiesádi]",
+          "m.",
+          "fr/11170.mp3",
+          "zh/11170.mp3",
+          "huǒ zāi",
+          ""
+        ],
+        [
+          "烧焦",
+          "carboniser",
+          "",
+          "fr/11171.mp3",
+          "zh/11171.mp3",
+          "shāo jiāo",
+          "karbonize"
+        ],
+        [
+          "烧焦",
+          "bruler",
+          "",
+          "fr/11172.mp3",
+          "zh/11172.mp3",
+          "shāo jiāo",
+          "bryle"
+        ],
+        [
+          "残余",
+          "survivance ].",
+          "",
+          "fr/11173.mp3",
+          "zh/11173.mp3",
+          "cán yú",
+          "syrviväs"
+        ],
+        [
+          "灭火器",
+          "appareils extincteurs",
+          "m.",
+          "fr/11174.mp3",
+          "zh/11174.mp3",
+          "miè huǒ qì",
+          "aparej ekstekter"
+        ],
+        [
+          "扑灭",
+          "éteindre",
+          "",
+          "fr/11175.mp3",
+          "zh/11175.mp3",
+          "pū miè",
+          "et&dr"
+        ],
+        [
+          "口罩",
+          "masque ope ratoire",
+          "m.",
+          "fr/11176.mp3",
+          "zh/11176.mp3",
+          "kǒu zhào",
+          "mask operatwar"
+        ],
+        [
+          "安全帽",
+          "casque de protection",
+          "m.",
+          "fr/11177.mp3",
+          "zh/11177.mp3",
+          "ān quán mào",
+          "kask da proteksj5"
+        ],
+        [
+          "警报",
+          "alerte",
+          "",
+          "fr/11178.mp3",
+          "zh/11178.mp3",
+          "jǐng bào",
+          "alert"
+        ],
+        [
+          "灰爆",
+          "cendre",
+          "",
+          "fr/11179.mp3",
+          "zh/11179.mp3",
+          "huī bào",
+          "sädr"
+        ],
+        [
+          "灰爆",
+          "braise",
+          "",
+          "fr/11180.mp3",
+          "zh/11180.mp3",
+          "huī bào",
+          "brez"
+        ],
+        [
+          "防火带",
+          "coupe-feu",
+          "m.",
+          "fr/11181.mp3",
+          "zh/11181.mp3",
+          "fáng huǒ dài",
+          "kup fo"
+        ],
+        [
+          "防火的",
+          "ingifugeant",
+          "",
+          "fr/11182.mp3",
+          "zh/11182.mp3",
+          "fáng huǒ de",
+          "&3ifyzá"
+        ],
+        [
+          "防火壁",
+          "pare-feu",
+          "inv",
+          "fr/11183.mp3",
+          "zh/11183.mp3",
+          "fáng huǒ bì",
+          "par fo"
+        ]
+      ],
+      "s": [
+        [
+          "Ce lac est tres utile contre les incendies.",
+          "这湖泊在发生火灾的时候发挥了作用。",
+          "",
+          "fr/11184.mp3",
+          "zh/11184.mp3",
+          "zhè hú pō zài fā shēng huǒ zāi de shí hòu fā huī le zuò yòng",
+          ""
+        ],
+        [
+          "Un incendie a causé de légers dommages a un im- meuble. T.",
+          "火灾对这栋居民楼造成了轻微损害",
+          "",
+          "fr/11185.mp3",
+          "zh/11185.mp3",
+          "huǒ zāi duì zhè dòng jū mín lóu zào chéng le qīng wēi sǔn hài",
+          ""
+        ],
+        [
+          "Au cours de l'incendie,la scierie a flambé comme une torche.kk",
+          "火灾时锯木厂像火把一样烧了起来。",
+          "",
+          "fr/11186.mp3",
+          "zh/11186.mp3",
+          "huǒ zāi shí jù mù chǎng xiàng huǒ bǎ yī yàng shāo le qǐ lái",
+          ""
+        ],
+        [
+          "Grace a l'arrivée des pom- piers sans tarder,l'incendie a étémaitrise. Les conditions climatiques rigoureuses poussent le bu- reau météorologique a émettre une alerte jaune.",
+          "多亏消防员及时赶到，火灾在第一时间被控制住了。极端的天气状况促使气象部门发布黄色预警信号。",
+          "",
+          "fr/11187.mp3",
+          "zh/11187.mp3",
+          "duō kuī xiāo fáng yuán jí shí gǎn dào huǒ zāi zài dì yī shí jiān bèi kòng zhì zhù le jí duān de tiān qì zhuàng kuàng cù shǐ qì xiàng bù mén fā bù huáng sè yù jǐng xìn hào",
+          ""
+        ],
+        [
+          "Tombe en cendre ou vole en fumee.",
+          "灰飞烟灭",
+          "",
+          "fr/11188.mp3",
+          "zh/11188.mp3",
+          "huī fēi yān miè",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "锯木厂",
+          "scierie",
+          "n.f.",
+          "fr/11189.mp3",
+          "zh/11189.mp3",
+          "jù mù chǎng",
+          "siri"
+        ],
+        [
+          "赶到",
+          "tarderi.",
+          "",
+          "fr/11190.mp3",
+          "zh/11190.mp3",
+          "gǎn dào",
+          "tarde"
+        ],
+        [
+          "",
+          "rigoureuse",
+          "adj",
+          "fr/11191.mp3",
+          "",
+          "",
+          "rigura"
+        ],
+        [
+          "严峻的",
+          "",
+          "",
+          "",
+          "zh/11192.mp3",
+          "yán jùn de",
+          ""
+        ]
+      ]
+    },
+    {
+      "no": 4,
+      "name": "命案现场",
+      "w": [
+        [
+          "户体",
+          "Pcadavre",
+          "m.",
+          "fr/11193.mp3",
+          "zh/11193.mp3",
+          "hù tǐ",
+          "kadavr"
+        ],
+        [
+          "血迹",
+          "traces de sang",
+          "",
+          "fr/11194.mp3",
+          "zh/11194.mp3",
+          "xuè jì",
+          "tras da sá"
+        ],
+        [
+          "痕迹",
+          "empreinte /",
+          "",
+          "fr/11195.mp3",
+          "zh/11195.mp3",
+          "hén jì",
+          "áprtt"
+        ],
+        [
+          "现场",
+          "lieu",
+          "m",
+          "fr/11196.mp3",
+          "zh/11196.mp3",
+          "xiàn chǎng",
+          "lj"
+        ],
+        [
+          "指纹",
+          "dactylogramme",
+          "m.",
+          "fr/11197.mp3",
+          "zh/11197.mp3",
+          "zhǐ wén",
+          "daktilogram"
+        ],
+        [
+          "不在场证明",
+          "alibi",
+          "m.",
+          "fr/11198.mp3",
+          "zh/11198.mp3",
+          "bù zài chǎng zhèng míng",
+          "alibi"
+        ],
+        [
+          "谋杀",
+          "meurtre",
+          "m",
+          "fr/11199.mp3",
+          "zh/11199.mp3",
+          "móu shā",
+          "mcertr"
+        ],
+        [
+          "自杀",
+          "suicider vpr",
+          "",
+          "fr/11200.mp3",
+          "zh/11200.mp3",
+          "zì shā",
+          "syiside"
+        ],
+        [
+          "上吊",
+          "se pendrel.",
+          "",
+          "fr/11201.mp3",
+          "zh/11201.mp3",
+          "shàng diào",
+          "s pádr"
+        ],
+        [
+          "溺水",
+          "noyade /.",
+          "",
+          "fr/11202.mp3",
+          "zh/11202.mp3",
+          "nì shuǐ",
+          "nwajad"
+        ],
+        [
+          "警戒线",
+          "cte dalerte /",
+          "",
+          "fr/11203.mp3",
+          "zh/11203.mp3",
+          "jǐng jiè xiàn",
+          "kot dalert"
+        ],
+        [
+          "可疑的",
+          "suspecte",
+          "",
+          "fr/11204.mp3",
+          "zh/11204.mp3",
+          "kě yí de",
+          "syspe(kt), kt"
+        ],
+        [
+          "调查",
+          "enqueter",
+          "",
+          "fr/11205.mp3",
+          "zh/11205.mp3",
+          "diào chá",
+          "äkete"
+        ],
+        [
+          "凶手",
+          "meurtrier",
+          "m.",
+          "fr/11206.mp3",
+          "zh/11206.mp3",
+          "xiōng shǒu",
+          "mcertrije"
+        ],
+        [
+          "审问",
+          "interroger",
+          "",
+          "fr/11207.mp3",
+          "zh/11207.mp3",
+          "shěn wèn",
+          "Eter3e"
+        ]
+      ],
+      "s": [
+        [
+          "Pour repécher son cadavre intact.les riverains auraient eu l'idée de jeter dans l'eau de la nourriture pour les poissons sous forme de riz emballe dans des feuilles de bambou. P +I+",
+          "为了完好无损地打捞上他的户体两岸的居民把裹着竹叶的米团投入江中喂鱼",
+          "",
+          "fr/11208.mp3",
+          "zh/11208.mp3",
+          "wèi le wán hǎo wú sǔn dì dǎ lāo shàng tā de hù tǐ liǎng àn de jū mín bǎ guǒ zhe zhú yè de mǐ tuán tóu rù jiāng zhōng wèi yú",
+          ""
+        ],
+        [
+          "Au cours de la prise d'otages, il a réclamé une arme a feu pour se suicider.",
+          "在整个的人质危机过程中，他声称拥有火器用于自杀。",
+          "",
+          "fr/11209.mp3",
+          "zh/11209.mp3",
+          "zài zhěng gè de rén zhì wēi jī guò chéng zhōng tā shēng chēng yōng yǒu huǒ qì yòng yú zì shā",
+          ""
+        ],
+        [
+          "Une personne a découvert un sac suspect devant l'am bassade,il s'est apercu qu'il s'agissait d'une bombe artisa- nale et l'a déplacé d'une dizaine de metres avant de prendre la fuite.",
+          "有人发现了大使馆前的可疑包裹，意识到此物为一枚人造炸弹，将其移至十儿米远处，然后逃离了。",
+          "",
+          "fr/11210.mp3",
+          "zh/11210.mp3",
+          "yǒu rén fā xiàn le dà shǐ guǎn qián de kě yí bāo guǒ yì shí dào cǐ wù wèi yī méi rén zào zhà dàn jiāng qí yí zhì shí ér mǐ yuǎn chù rán hòu táo lí le",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "",
+          "emballé,e",
+          "adj",
+          "fr/11211.mp3",
+          "",
+          "",
+          "äbale"
+        ],
+        [
+          "打包的",
+          "",
+          "",
+          "",
+          "zh/11212.mp3",
+          "dǎ bāo de",
+          ""
+        ],
+        [
+          "人质",
+          "otage",
+          "m.",
+          "fr/11213.mp3",
+          "zh/11213.mp3",
+          "rén zhì",
+          "ta3"
+        ],
+        [
+          "",
+          "ambassade",
+          "nf.",
+          "fr/11214.mp3",
+          "",
+          "",
+          "äbasad"
+        ],
+        [
+          "大使馆",
+          "",
+          "",
+          "",
+          "zh/11215.mp3",
+          "dà shǐ guǎn",
+          ""
+        ]
+      ]
+    },
+    {
+      "no": 5,
+      "name": "恐怖主义",
+      "w": [
+        [
+          "恐怖主义",
+          "terrorisme",
+          "m.",
+          "fr/11216.mp3",
+          "zh/11216.mp3",
+          "kǒng bù zhǔ yì",
+          "terorism"
+        ],
+        [
+          "极端主义",
+          "Xactivisme",
+          "m",
+          "fr/11217.mp3",
+          "zh/11217.mp3",
+          "jí duān zhǔ yì",
+          "aktivism"
+        ],
+        [
+          "分裂主义",
+          "Xsécession nisme",
+          "m.",
+          "fr/11218.mp3",
+          "zh/11218.mp3",
+          "fēn liè zhǔ yì",
+          "sesesjonism"
+        ],
+        [
+          "反恐的",
+          "antiterroriste",
+          "",
+          "fr/11219.mp3",
+          "zh/11219.mp3",
+          "fǎn kǒng de",
+          ""
+        ],
+        [
+          "黑名单",
+          "liste noirelist nwarl",
+          "f.",
+          "fr/11221.mp3",
+          "zh/11221.mp3",
+          "hēi míng dān",
+          ""
+        ],
+        [
+          "人质",
+          "otage",
+          "m",
+          "fr/11222.mp3",
+          "zh/11222.mp3",
+          "rén zhì",
+          "ta3"
+        ],
+        [
+          "杀死",
+          "tuer",
+          "",
+          "fr/11223.mp3",
+          "zh/11223.mp3",
+          "shā sǐ",
+          "tye"
+        ],
+        [
+          "恐慌的",
+          "panique",
+          "",
+          "fr/11224.mp3",
+          "zh/11224.mp3",
+          "kǒng huāng de",
+          "panik"
+        ],
+        [
+          "恐吓",
+          "intimider",
+          "",
+          "fr/11225.mp3",
+          "zh/11225.mp3",
+          "kǒng hè",
+          "&timide"
+        ],
+        [
+          "恐怖分子",
+          "terroriste",
+          "",
+          "fr/11226.mp3",
+          "zh/11226.mp3",
+          "kǒng bù fèn zi",
+          "terorist"
+        ],
+        [
+          "恐惧",
+          "crainte",
+          "",
+          "fr/11227.mp3",
+          "zh/11227.mp3",
+          "kǒng jù",
+          "krat"
+        ],
+        [
+          "爆炸",
+          "dynamitage",
+          "m.",
+          "fr/11228.mp3",
+          "zh/11228.mp3",
+          "bào zhà",
+          "dinamitaz"
+        ],
+        [
+          "炸药",
+          "explosif",
+          "m.",
+          "fr/11230.mp3",
+          "zh/11230.mp3",
+          "zhà yào",
+          "eksplozif"
+        ],
+        [
+          "武器",
+          "arme",
+          "f",
+          "fr/11231.mp3",
+          "zh/11231.mp3",
+          "wǔ qì",
+          "arm"
+        ]
+      ],
+      "s": [
+        [
+          "La France et la Chine condamnent le terrorisme sous toutes ses formes. -X.",
+          "中法两国遣责一切形式的恐怖主义",
+          "",
+          "fr/11232.mp3",
+          "zh/11232.mp3",
+          "zhōng fǎ liǎng guó qiǎn zé yī qiè xíng shì de kǒng bù zhǔ yì",
+          ""
+        ],
+        [
+          "20 gendarmes sont retenus comme otage par les terroristes.",
+          "人质。",
+          "",
+          "fr/11233.mp3",
+          "zh/11233.mp3",
+          "rén zhì",
+          ""
+        ],
+        [
+          "Bien que je ne connais pas la raison pour vous tuer,mais je sais, c'est pas une raison pour sauver. Il envisageait en fait dat taquer le Pentagone et le Congres,et ce a l'aide d'avions téléguidés bourrés d'explosifs.",
+          "我虽然不知道杀你的理由，但是我知道，救人是不需要理由的。当时，此人正筹划袭击五角大楼和国会大厦，手段是借撞击。",
+          "",
+          "fr/11234.mp3",
+          "zh/11234.mp3",
+          "wǒ suī rán bù zhī dào shā nǐ de lǐ yóu dàn shì wǒ zhī dào jiù rén shì bù xū yào lǐ yóu dí dàng shí cǐ rén zhèng chóu huà xí jī wǔ jiǎo dà lóu hé guó huì dà shà shǒu duàn shì jiè zhuàng jī",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "",
+          "condamner wt",
+          "",
+          "fr/11235.mp3",
+          "",
+          "",
+          "kdane"
+        ],
+        [
+          "判决",
+          "",
+          "",
+          "",
+          "zh/11236.mp3",
+          "pàn jué",
+          ""
+        ],
+        [
+          "",
+          "gendarme",
+          "n.m.",
+          "fr/11237.mp3",
+          "",
+          "",
+          "zädarm"
+        ],
+        [
+          "警宗",
+          "",
+          "",
+          "",
+          "zh/11238.mp3",
+          "jǐng zōng",
+          ""
+        ],
+        [
+          "",
+          "Pentagone",
+          "",
+          "fr/11239.mp3",
+          "",
+          "",
+          "p&tagon"
+        ],
+        [
+          "五角大楼",
+          "",
+          "n.m.",
+          "",
+          "zh/11240.mp3",
+          "wǔ jiǎo dà lóu",
+          ""
+        ]
+      ]
+    },
+    {
+      "no": 6,
+      "name": "战争",
+      "w": [
+        [
+          "战争",
+          "guerre",
+          "f",
+          "fr/11241.mp3",
+          "zh/11241.mp3",
+          "zhàn zhēng",
+          "ger"
+        ],
+        [
+          "爆发",
+          "éclater",
+          "",
+          "fr/11242.mp3",
+          "zh/11242.mp3",
+          "bào fā",
+          "eklate"
+        ],
+        [
+          "世界大战",
+          "La Guerre mondiale",
+          "f.",
+          "fr/11243.mp3",
+          "zh/11243.mp3",
+          "shì jiè dà zhàn",
+          "la ge:r m5djal"
+        ],
+        [
+          "导致",
+          "mener a",
+          "",
+          "fr/11244.mp3",
+          "zh/11244.mp3",
+          "dǎo zhì",
+          "mane a"
+        ],
+        [
+          "战争期间",
+          "pendant la guerre",
+          "",
+          "fr/11245.mp3",
+          "zh/11245.mp3",
+          "zhàn zhēng qī jiān",
+          "pádä la gerr"
+        ],
+        [
+          "拆毁客调堡",
+          "detruire blockhaus",
+          "m.",
+          "fr/11246.mp3",
+          "zh/11246.mp3",
+          "chāi huǐ kè diào bǎo",
+          "detryir"
+        ],
+        [
+          "炸药",
+          "dynamite",
+          "f.",
+          "fr/11247.mp3",
+          "zh/11247.mp3",
+          "zhà yào",
+          "dinamit"
+        ],
+        [
+          "交战",
+          "faire la guerre /.",
+          "",
+          "fr/11248.mp3",
+          "zh/11248.mp3",
+          "jiāo zhàn",
+          "fer la ge:r"
+        ],
+        [
+          "交战的",
+          "belligerante [belizera át",
+          "",
+          "fr/11249.mp3",
+          "zh/11249.mp3",
+          "jiāo zhàn de",
+          ""
+        ],
+        [
+          "结盟客战场",
+          "s'allier champ de bataille",
+          "m",
+          "fr/11250.mp3",
+          "zh/11250.mp3",
+          "jié méng kè zhàn chǎng",
+          "salje"
+        ],
+        [
+          "激烈地",
+          "véhémente ment",
+          "",
+          "fr/11251.mp3",
+          "zh/11251.mp3",
+          "jī liè dì",
+          "veemätmä"
+        ],
+        [
+          "突袭",
+          "surprendre",
+          "",
+          "fr/11252.mp3",
+          "zh/11252.mp3",
+          "tū xí",
+          "syrprádr"
+        ],
+        [
+          "无尽的",
+          "interminable",
+          "",
+          "fr/11253.mp3",
+          "zh/11253.mp3",
+          "wú jìn de",
+          "&terminabl"
+        ],
+        [
+          "",
+          "tSChapitre 9 LCAE learn or",
+          "",
+          "fr/11266.mp3",
+          "",
+          "",
+          ""
+        ],
+        [
+          "时尚热词安慰奖暗箱操作八宝饭八卦扒窃把关白手起家拜金主义拜年班车办公室恋情半成品包茯包销协议报喜不报忧爆料背黑锅奔丧本命年",
+          "prix de consolation F opérations secretes B du riz glutineux aux huit trésors les huit trigrammes piquer la poche de qn garder la passe faire sa fortune a la force du poignet culte de largent souhaiter la bonne année autobus régulier la romance de bureau semi-produit @balluchon X accord de garan- tie de placement ne dit que les biens mais pas les mals casser les nouvelles encourir un blame par la faute d'un autre revenir en hate chez soi pour les funérailles de son pere ou de sa mere l'année de son signe astrologique chinois",
+          "",
+          "fr/11267.mp3",
+          "zh/11267.mp3",
+          "shí shàng rè cí ān wèi jiǎng àn xiāng cāo zuò bā bǎo fàn bā guà pá qiè bǎ guān bái shǒu qǐ jiā bài jīn zhǔ yì bài nián bān chē bàn gōng shì liàn qíng bàn chéng pǐn bāo fú bāo xiāo xié yì bào xǐ bú bào yōu bào liào bēi hēi guō bēn sāng běn mìng nián",
+          ""
+        ],
+        [
+          "时尚热词淡妆浓抹挡箭牌倒计时地方保护主义第一夫人电灯泡电话会议电脑迷电视直播车电影版权费电影预告片电子宠物电子词典电子货币电子银行垫付吊胃口跌足",
+          "le maquillage léger et lourd des femmes protecteur + comptage décrois- sant le protec- tionnisme local premiere dame Tampoule électrique conférence par téléphone ventilateurs d'ordinateurs car-régie redevances de cinéma bande-annonce tamagotchi dictionnaire élec- tronique monnaie électron- ique services bancaires électroniques somme avancée séduire frapper du pied",
+          "",
+          "fr/11268.mp3",
+          "zh/11268.mp3",
+          "shí shàng rè cí dàn zhuāng nóng mǒ dǎng jiàn pái dào jì shí dì fāng bǎo hù zhǔ yì dì yī fū rén diàn dēng pào diàn huà huì yì diàn nǎo mí diàn shì zhí bō chē diàn yǐng bǎn quán fèi diàn yǐng yù gào piàn diàn zi chǒng wù diàn zǐ cí diǎn diàn zi huò bì diàn zi yín háng diàn fù diào wèi kǒu diē zú",
+          ""
+        ],
+        [
+          "课老师定心丸东道主独家代理独生子女独资经营",
+          "i une institutrice qch.capable de mettre qn a l'aise lhote représentant exclusif enfant unique opération dun",
+          "",
+          "fr/11269.mp3",
+          "zh/11269.mp3",
+          "kè lǎo shī dìng xīn wán dōng dào zhǔ dú jiā dài lǐ dú shēng zǐ nǚ dú zī jīng yíng",
+          ""
+        ],
+        [
+          "时尚热词短期债务短信短暂停留对口味儿童心理学二百五二手货发案率翻老账翻两倍方便食品房地产放行单非法收人非婚生子女分公司分行扶贫扶贫办公室服务器附加税复合型人才",
+          "seul investisseur dette a court terme message court séjour convenir au gout de qn E Lpsychologie des enfants iniais Farticle doccasion tauxde criminalité régler un vieux compte doubler les aliments de commodité propriétés immobil- iéres sortir un single revenuillicite adultérine succursale aider les pauvres bureau de lutte contre la pauvreté serveur fimpöt additionnel talent complexe",
+          "",
+          "fr/11270.mp3",
+          "zh/11270.mp3",
+          "shí shàng rè cí duǎn qī zhài wù duǎn xìn duǎn zàn tíng liú duì kǒu wèi ér tóng xīn lǐ xué èr bǎi wǔ èr shǒu huò fā àn lǜ fān lǎo zhàng fān liǎng bèi fāng biàn shí pǐn fáng dì chǎn fàng xíng dān fēi fǎ shōu rén fēi hūn shēng zǐ nǚ fēn gōng sī fēn háng fú pín fú pín bàn gōng shì fú wù qì fù jiā shuì fù hé xíng rén cái",
+          ""
+        ],
+        [
+          "时尚热词广告词广告代理行广域网规避滚雪球国事访间国书过度放牧过度开垦过渡期豪赌好马不吃回头草好球和谈核心力量黑帮黑车黑社会黑厘子黑眼圈红领巾呼叫转移狐狸精互惠贸易",
+          "annonce agence de publicité réseau de zone large faux-fuyant faire boule de neige visite officielle lettre de créance surpaissance defrichage exces- sif la période de transi- tion H jouer gros un bon cheval ne sera jamais demi-tour a manger un ancien paturage. une belle balle négociation de la paix force du noyau bande sinistre voiture noire le Milieu boite noire cerne foulard rouge transférer un ap- pel femme séduisante commerce récip",
+          "",
+          "fr/11271.mp3",
+          "zh/11271.mp3",
+          "shí shàng rè cí guǎng gào cí guǎng gào dài lǐ xíng guǎng yù wǎng guī bì gǔn xuě qiú guó shì fǎng jiān guó shū guò dù fàng mù guò dù kāi kěn guò dù qī háo dǔ hǎo mǎ bù chī huí tóu cǎo hǎo qiú hé tán hé xīn lì liàng hēi bāng hēi chē hēi shè huì hēi lí zi hēi yǎn quān hóng lǐng jīn hū jiào zhuǎn yí hú lí jīng hù huì mào yì",
+          ""
+        ],
+        [
+          "时尚热词户籍证明户薄户主还俗还愿环太平洋的缓刑换岗换届黄昏恋黄金市场黄金行情黄土高原会考婚前同居婚前协议活动板房货到付款饥寒交迫基本工资吉祥物极限运动集思广益",
+          "roque Eacte de létat civil registres détat civil chef d'un foyer etre réduit a létat laic tenir les promesses auprés du dieu circumpacifique sursis relever un poste changer de terme of ficiel crépuscule amour marché de lor cours de l'or plateau de lss concours cohabitation avant le mariage iX accord prénuptial activités du con seil payement a l'arrivée i souffrir du froid et de la faim Tsalaire de base mascotte sports extremes mettre a profit la sagesse collective",
+          "",
+          "fr/11272.mp3",
+          "zh/11272.mp3",
+          "shí shàng rè cí hù jí zhèng míng hù báo hù zhǔ huán sú huán yuàn huán tài píng yáng de huǎn xíng huàn gǎng huàn jiè huáng hūn liàn huáng jīn shì chǎng huáng jīn háng qíng huáng tǔ gāo yuán huì kǎo hūn qián tóng jū hūn qián xié yì huó dòng bǎn fáng huò dào fù kuǎn jī hán jiāo pò jī běn gōng zī jí xiáng wù jí xiàn yùn dòng jí sī guǎng yì",
+          ""
+        ],
+        [
+          "时尚热词聚赌军备竞赛开工令开光开门红看跌者康复中心考核制度考勤考勤制度靠山科普客串孔雀石恐怖分子口碑口头禅哭穷苦果跨国公司快餐",
+          "l'emploi parier en groupe course aux arme- ment K .T.ordre de service ouvrir les lumieres commencer le mois avec succes avoir un bon début baissier,ere centre de conva- lescence systeme des exa mens et de vérification contröle de présence systeme de con- tröle de présence ll protecteur vulgarisation des sci- ences amateur bois de corail terroriste jugement formule habituelle de qn pleurer misere mauvais résultat entreprise multi- nationale léger repas",
+          "",
+          "fr/11273.mp3",
+          "zh/11273.mp3",
+          "shí shàng rè cí jù dǔ jūn bèi jìng sài kāi gōng lìng kāi guāng kāi mén hóng kàn diē zhě kāng fù zhōng xīn kǎo hé zhì dù kǎo qín kǎo qín zhì dù kào shān kē pǔ kè chuàn kǒng què shí kǒng bù fèn zi kǒu bēi kǒu tóu chán kū qióng kǔ guǒ kuà guó gōng sī kuài cān",
+          ""
+        ],
+        [
+          "时尚热词快递马大哈马屁精马赛克漫游美容院庙会抹黑南北对话闹情绪泥石流年夜饭娘娘腔农业税浓妆拍板拍马屁攀亲盘点炮灰跑车跑龙套",
+          "exprs M négligent le flatteur mosaique faire un voyage d'agrément institut de beauté foire noircir N t dialogue Nord-Sud etre maussade écoulement du sol causé par un torrent réveillon poule mouillée l taxe agricole un maquillagefort P battre la mesure avec deux planchettes lécher les bottes de qn prétendre a la main inventorier chair a canon voitwre de course jouer un rle de",
+          "",
+          "fr/11274.mp3",
+          "zh/11274.mp3",
+          "shí shàng rè cí kuài dì mǎ dà hā mǎ pì jīng mǎ sài kè màn yóu měi róng yuàn miào huì mǒ hēi nán běi duì huà nào qíng xù ní shí liú nián yè fàn niáng niáng qiāng nóng yè shuì nóng zhuāng pāi bǎn pāi mǎ pì pān qīn pán diǎn pào huī pǎo chē pǎo lóng tào",
+          ""
+        ],
+        [
+          "时尚热词热岛效应热线人才外流人道主义人口密度人口普查人口学人力资源人身攻击人事调动人寿保险人头税荣誉称号人场人股人乡随俗软盘傻帽山寨试婚瘦肉",
+          "effet dile chaude hotline fuite des cerveaux AiffXhumanitarisme densitéde la population recensement général démographie tressources hu- maines offense a qn mutation du per- sonne assurance-vie capitation distinctions hon- orifiques entrée faire un apport de capital iobserver les us- ages du pays ou l'on arrive floppydisc conconne i@fortin dans la mon- tagne mariage d'essai viande maigre",
+          "",
+          "fr/11275.mp3",
+          "zh/11275.mp3",
+          "shí shàng rè cí rè dǎo xiào yìng rè xiàn rén cái wài liú rén dào zhǔ yì rén kǒu mì dù rén kǒu pǔ chá rén kǒu xué rén lì zī yuán rén shēn gōng jī rén shì diào dòng rén shòu bǎo xiǎn rén tóu shuì róng yù chēng hào rén chǎng rén gǔ rén xiāng suí sú ruǎn pán shǎ mào shān zhài shì hūn shòu ròu",
+          ""
+        ],
+        [
+          "时尚热词抬杠体罚铁饭碗铁杆粉丝土特产脱手脱销挖墙脚外卖网虫网络空间网络营销网民网上冲浪者网友旺季",
+          "porter a l'aide d'une barre chatiment corporel bol de riz en fer inconditionnels spécialité locale échapper des mains vendre tout son stock de marchandises W sape vendre au dehors cybernaute cyberespace maketing sur Internet internaute internaute cybercopain pleine saison",
+          "",
+          "fr/11276.mp3",
+          "zh/11276.mp3",
+          "shí shàng rè cí tái gàng tǐ fá tiě fàn wǎn tiě gǎn fěn sī tǔ tè chǎn tuō shǒu tuō xiāo wā qiáng jiǎo wài mài wǎng chóng wǎng luò kōng jiān wǎng luò yíng xiāo wǎng mín wǎng shàng chōng làng zhě wǎng yǒu wàng jì",
+          ""
+        ]
+      ],
+      "s": [
+        [
+          "Il y a une chose appelée l'amour,dit une légende loin taine,qui peut mettre fin a cetteguerre.",
+          "根据一个遥远的传说，说有一种东西叫爱情可以彻底地终结这场战争。",
+          "",
+          "fr/11254.mp3",
+          "zh/11254.mp3",
+          "gēn jù yí gè yáo yuǎn de chuán shuō shuō yǒu yī zhǒng dōng xī jiào ài qíng kě yǐ chè dǐ dì zhōng jié zhè chǎng zhàn zhēng",
+          ""
+        ],
+        [
+          "Beaucoup d'écoles ont été endommagées pendant la guerre et il faudra des re- ssources supplémentaires pour les reconstruire.",
+          "由于很多学校在战争中遭到破坏，因此需要提供更多的重建资金。",
+          "",
+          "fr/11255.mp3",
+          "zh/11255.mp3",
+          "yóu yú hěn duō xué xiào zài zhàn zhēng zhōng zāo dào pò huài yīn cǐ xū yào tí gōng gèng duō de chóng jiàn zī jīn",
+          ""
+        ],
+        [
+          "A la pensée qu'on pourrait la surprendre, il eut un mo- ment dinquietude.",
+          "一想到有人突然袭击她，他就感到一阵阵不安。",
+          "",
+          "fr/11256.mp3",
+          "zh/11256.mp3",
+          "yī xiǎng dào yǒu rén tū rán xí jī tā tā jiù gǎn dào yī zhèn zhèn bù ān",
+          ""
+        ],
+        [
+          "Cest un affrontement vraiement étrange oü tous les généraux sont morts. -X",
+          "这的确是一场难以理解的战役交战中所有的将军都战死了。",
+          "",
+          "fr/11257.mp3",
+          "zh/11257.mp3",
+          "zhè dí què shì yī cháng nán yǐ lǐ jiě de zhàn yì jiāo zhàn zhōng suǒ yǒu de jiāng jūn dōu zhàn sǐ le",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "",
+          "lointaine",
+          "adj",
+          "fr/11258.mp3",
+          "",
+          "",
+          "lwétê"
+        ],
+        [
+          "遥远的",
+          "",
+          "",
+          "",
+          "zh/11259.mp3",
+          "yáo yuǎn de",
+          ""
+        ],
+        [
+          "",
+          "reconstruire",
+          "",
+          "fr/11260.mp3",
+          "",
+          "",
+          "rakstryir"
+        ],
+        [
+          "重建",
+          "",
+          "",
+          "",
+          "zh/11261.mp3",
+          "chóng jiàn",
+          ""
+        ],
+        [
+          "",
+          "inquiétude",
+          "nf",
+          "fr/11262.mp3",
+          "",
+          "",
+          "kjetyd"
+        ],
+        [
+          "不安",
+          "",
+          "",
+          "",
+          "zh/11263.mp3",
+          "bù ān",
+          ""
+        ],
+        [
+          "",
+          "affrontement",
+          "",
+          "fr/11264.mp3",
+          "",
+          "",
+          "afr5tmá"
+        ],
+        [
+          "冲突战役",
+          "n.m..",
+          "",
+          "fr/11265.mp3",
+          "zh/11265.mp3",
+          "chōng tū zhàn yì",
+          ""
+        ]
+      ]
+    }
+  ]
+};
