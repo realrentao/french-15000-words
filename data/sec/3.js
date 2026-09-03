@@ -2165,7 +2165,7 @@ window.BOOK_DATA[3]={
    "w": [
     [
      "二十六",
-     "=+vingt-six",
+     "vingt-six",
      "",
      "fr/00140.mp3",
      "zh/00140.mp3",
@@ -2174,7 +2174,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "二十七",
-     "=+tvingt-sept",
+     "vingt-sept",
      "",
      "fr/00141.mp3",
      "zh/00141.mp3",
@@ -2183,7 +2183,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "二十八",
-     "=+/vingt-huit",
+     "vingt-huit",
      "",
      "fr/00142.mp3",
      "zh/00142.mp3",
@@ -2192,7 +2192,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "二十九",
-     "=+vingt-neuf",
+     "vingt-neuf",
      "inv",
      "fr/00143.mp3",
      "zh/00143.mp3",
@@ -2201,7 +2201,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "三十",
-     "=+trente",
+     "trente",
      "m.",
      "fr/00144.mp3",
      "zh/00144.mp3",
@@ -2273,7 +2273,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "一千",
-     "-mille",
+     "mille",
      "m",
      "fr/00152.mp3",
      "zh/00152.mp3",
@@ -2291,7 +2291,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "十亿",
-     "{Zmilliard",
+     "milliard",
      "m",
      "fr/00154.mp3",
      "zh/00154.mp3",
@@ -2300,7 +2300,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第一",
-     "-premier,ere",
+     "premier, ère",
      "m.",
      "fr/00155.mp3",
      "zh/00155.mp3",
@@ -2309,7 +2309,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第二",
-     "deuxieme",
+     "deuxième",
      "m.",
      "fr/00156.mp3",
      "zh/00156.mp3",
@@ -2318,7 +2318,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第三",
-     "=troisieme",
+     "troisième",
      "m.",
      "fr/00157.mp3",
      "zh/00157.mp3",
@@ -2327,7 +2327,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第四",
-     "quatrieme",
+     "quatrième",
      "m.",
      "fr/00158.mp3",
      "zh/00158.mp3",
@@ -2336,7 +2336,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第五",
-     "cinquieme",
+     "cinquième",
      "m.",
      "fr/00159.mp3",
      "zh/00159.mp3",
@@ -2345,7 +2345,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第六",
-     "sixieme",
+     "sixième",
      "m",
      "fr/00160.mp3",
      "zh/00160.mp3",
@@ -2354,7 +2354,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第七",
-     "-t septieme",
+     "septième",
      "m",
      "fr/00161.mp3",
      "zh/00161.mp3",
@@ -2363,336 +2363,12 @@ window.BOOK_DATA[3]={
     ],
     [
      "第八",
-     "huitieme",
+     "huitième",
      "m",
      "fr/00162.mp3",
      "zh/00162.mp3",
      "dì bā",
      "uitjem"
-    ],
-    [
-     "健康的",
-     "valide",
-     "",
-     "fr/02762.mp3",
-     "zh/02762.mp3",
-     "jiàn kāng de",
-     "valid"
-    ],
-    [
-     "健康",
-     "santé",
-     "",
-     "fr/02763.mp3",
-     "zh/02763.mp3",
-     "jiàn kāng",
-     "sate"
-    ],
-    [
-     "不足的",
-     "déficiente",
-     "",
-     "fr/02764.mp3",
-     "zh/02764.mp3",
-     "bù zú de",
-     ""
-    ],
-    [
-     "好身体和一个坏记性",
-     "-",
-     "",
-     "fr/02765.mp3",
-     "zh/02765.mp3",
-     "hǎo shēn tǐ hé yí gè huài jì xìng",
-     "defisja,at"
-    ],
-    [
-     "健康的",
-     "saine",
-     "",
-     "fr/02766.mp3",
-     "zh/02766.mp3",
-     "jiàn kāng de",
-     "s,cn"
-    ],
-    [
-     "患病的",
-     "atteinte",
-     "",
-     "fr/02767.mp3",
-     "zh/02767.mp3",
-     "huàn bìng de",
-     "at,t"
-    ],
-    [
-     "病",
-     "maladie",
-     "",
-     "fr/02768.mp3",
-     "zh/02768.mp3",
-     "bìng",
-     "maladi"
-    ],
-    [
-     "身体的",
-     "physique",
-     "",
-     "fr/02769.mp3",
-     "zh/02769.mp3",
-     "shēn tǐ de",
-     "fizik"
-    ],
-    [
-     "精神的",
-     "psychique",
-     "",
-     "fr/02770.mp3",
-     "zh/02770.mp3",
-     "jīng shén de",
-     "psifik"
-    ],
-    [
-     "正常的",
-     "naturel,elle",
-     "",
-     "fr/02771.mp3",
-     "zh/02771.mp3",
-     "zhèng cháng de",
-     "natyrel"
-    ],
-    [
-     "焦虑的",
-     "anxieuxeuse",
-     "",
-     "fr/02772.mp3",
-     "zh/02772.mp3",
-     "jiāo lǜ de",
-     "áksj,z"
-    ],
-    [
-     "焦虑的",
-     "inquietete",
-     "",
-     "fr/02773.mp3",
-     "zh/02773.mp3",
-     "jiāo lǜ de",
-     "akje,et"
-    ],
-    [
-     "虚弱的",
-     "cathérétique",
-     "",
-     "fr/02774.mp3",
-     "zh/02774.mp3",
-     "xū ruò de",
-     "katritik"
-    ],
-    [
-     "恢复体力",
-     "reconstituer ses forcest.",
-     "",
-     "fr/02775.mp3",
-     "zh/02775.mp3",
-     "huī fù tǐ lì",
-     "r(a)ks- titye se forse"
-    ],
-    [
-     "强壮的",
-     "robuste",
-     "",
-     "fr/02776.mp3",
-     "zh/02776.mp3",
-     "qiáng zhuàng de",
-     "rbyst"
-    ],
-    [
-     "精力充沛的",
-     "actif,",
-     "",
-     "fr/02777.mp3",
-     "zh/02777.mp3",
-     "jīng lì chōng pèi de",
-     "aktif,iv"
-    ],
-    [
-     "使忧愁",
-     "affliger .",
-     "",
-     "fr/02778.mp3",
-     "zh/02778.mp3",
-     "shǐ yōu chóu",
-     "aflize"
-    ],
-    [
-     "不舒服的",
-     "gene",
-     "",
-     "fr/02779.mp3",
-     "zh/02779.mp3",
-     "bù shū fú de",
-     "3e(e)ne"
-    ],
-    [
-     "噪音",
-     "bruit",
-     "m",
-     "fr/03761.mp3",
-     "zh/03761.mp3",
-     "zào yīn",
-     "bryi"
-    ],
-    [
-     "声音",
-     "voix",
-     "f",
-     "fr/03762.mp3",
-     "zh/03762.mp3",
-     "shēng yīn",
-     "vwa"
-    ],
-    [
-     "清晰的",
-     "limpide",
-     "",
-     "fr/03763.mp3",
-     "zh/03763.mp3",
-     "qīng xī de",
-     "lpid"
-    ],
-    [
-     "低沉的",
-     "sourde",
-     "",
-     "fr/03764.mp3",
-     "zh/03764.mp3",
-     "dī chén de",
-     "sur,d"
-    ],
-    [
-     "响亮的",
-     "éclatant",
-     "",
-     "fr/03765.mp3",
-     "zh/03765.mp3",
-     "xiǎng liàng de",
-     "eklatä,t"
-    ],
-    [
-     "低的",
-     "{bas,se",
-     "",
-     "fr/03766.mp3",
-     "zh/03766.mp3",
-     "dī de",
-     "bas"
-    ],
-    [
-     "悦耳的",
-     "douxce dé",
-     "m.",
-     "fr/03767.mp3",
-     "zh/03767.mp3",
-     "yuè ěr de",
-     "du, s"
-    ],
-    [
-     "刺耳的",
-     "dure",
-     "m",
-     "fr/03768.mp3",
-     "zh/03768.mp3",
-     "cì ěr de",
-     "dyr"
-    ],
-    [
-     "刺耳的",
-     "stridente",
-     "m.",
-     "fr/03769.mp3",
-     "zh/03769.mp3",
-     "cì ěr de",
-     "strida, t"
-    ],
-    [
-     "温柔的",
-     "gentil,le záti,j]",
-     "",
-     "fr/03770.mp3",
-     "zh/03770.mp3",
-     "wēn róu de",
-     ""
-    ],
-    [
-     "甜蜜的",
-     "suave",
-     "",
-     "fr/03771.mp3",
-     "zh/03771.mp3",
-     "tián mì de",
-     "syav"
-    ],
-    [
-     "单调的",
-     "monotone",
-     "",
-     "fr/03772.mp3",
-     "zh/03772.mp3",
-     "dān diào de",
-     "munuton"
-    ],
-    [
-     "微弱的",
-     "frele",
-     "",
-     "fr/03773.mp3",
-     "zh/03773.mp3",
-     "wēi ruò de",
-     "frel"
-    ],
-    [
-     "微弱的",
-     "pale",
-     "",
-     "fr/03774.mp3",
-     "zh/03774.mp3",
-     "wēi ruò de",
-     "pal"
-    ],
-    [
-     "高音的",
-     "aiguu",
-     "",
-     "fr/03775.mp3",
-     "zh/03775.mp3",
-     "gāo yīn de",
-     "egy"
-    ],
-    [
-     "美妙的",
-     "féerique",
-     "",
-     "fr/03776.mp3",
-     "zh/03776.mp3",
-     "měi miào de",
-     "fe(e)rik"
-    ],
-    [
-     "沙哑的",
-     "rocailleux,se",
-     "",
-     "fr/03777.mp3",
-     "zh/03777.mp3",
-     "shā yǎ de",
-     "rokaj,:z"
-    ],
-    [
-     "沙哑亚的噪音",
-     "voix rocailleuse #Ta bruit",
-     "",
-     "fr/03778.mp3",
-     "zh/03778.mp3",
-     "shā yǎ yà de zào yīn",
-     "vwa roka(a)j:z"
     ]
    ],
    "s": [
@@ -2731,75 +2407,12 @@ window.BOOK_DATA[3]={
      "zh/00166.mp3",
      "yǒu hěn duō bàn fǎ kě yǐ dá dào mù dì",
      ""
-    ],
-    [
-     "Le bonheur, c'est avoir une bonne santé et une mauvaise memoire.-",
-     "幸福就是拥有一",
-     "",
-     "fr/02780.mp3",
-     "zh/02780.mp3",
-     "xìng fú jiù shì yōng yǒu yī",
-     ""
-    ],
-    [
-     "La psychanalyse, devenue une part indissociable de la culture francaise,ouvre aussi bien la possibilité d'un nou- veau mode de pensée qu'une voie vers la liberte psychique. AZTAE",
-     "精神分析之于法国人已经成为生活的一部分，一种新的思考方式的可能，一种获得精神自由的途径。",
-     "",
-     "fr/02781.mp3",
-     "zh/02781.mp3",
-     "jīng shén fēn xī zhī yú fǎ guó rén yǐ jīng chéng wéi shēng huó de yī bù fèn yī zhǒng xīn de sī kǎo fāng shì de kě néng yī zhǒng huò dé jīng shén zì yóu de tú jìng",
-     ""
-    ],
-    [
-     "Ce garcon est petit mais robuste.",
-     "这个男孩虽然个子不高，但很强壮。",
-     "",
-     "fr/02782.mp3",
-     "zh/02782.mp3",
-     "zhè ge nán hái suī rán gè zi bù gāo dàn hěn qiáng zhuàng",
-     ""
-    ],
-    [
-     "Vous allez perdre la voix pendant plusieurs heures, mais tout va lentement bien. TA",
-     "你会失声几个小时不过会慢慢好的",
-     "《迷失》",
-     "fr/03779.mp3",
-     "zh/03779.mp3",
-     "nǐ huì shī shēng jǐ gè xiǎo shí bù guò huì màn màn hǎo de",
-     ""
-    ],
-    [
-     "Un jourles sept prin cesses,lasses de la vie mo- notone au Palais céleste peu animé, descendent sur terre pour se baigner dans un étang aux eaux limpides.-, k+",
-     "一天七个公主厌倦了单调乏味的天官生活，便翻翻飘至凡间一个池水清澈的潭中沐浴",
-     "",
-     "fr/03780.mp3",
-     "zh/03780.mp3",
-     "yī tiān qī gè gōng zhǔ yàn juàn le dān diào fá wèi de tiān guān shēng huó biàn fān fān piāo zhì fán jiān yí gè chí shuǐ qīng chè de tán zhōng mù yù",
-     ""
-    ],
-    [
-     "Jentend soudainement un cri strident.-",
-     "我突然听到一声尖叫。",
-     "",
-     "fr/03781.mp3",
-     "zh/03781.mp3",
-     "wǒ tū rán tīng dào yī shēng jiān jiào",
-     ""
-    ],
-    [
-     "Je ne peux pas refuser, bien sr. Il faut bien etre gentil avec les gens.",
-     "当然我不能拒绝。应该对人客气点儿。",
-     "",
-     "fr/03782.mp3",
-     "zh/03782.mp3",
-     "dāng rán wǒ bù néng jù jué yīng gāi duì rén kè qì diǎn ér",
-     ""
     ]
    ],
    "e": [
     [
      "品种种类",
-     "sorte nf..",
+     "sorte",
      "",
      "fr/00167.mp3",
      "zh/00167.mp3",
@@ -2880,7 +2493,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "企业",
-     "NE",
+     "",
      "",
      "fr/00176.mp3",
      "zh/00176.mp3",
@@ -2895,114 +2508,6 @@ window.BOOK_DATA[3]={
      "zh/00177.mp3",
      "dào dá",
      "arive"
-    ],
-    [
-     "",
-     "mauvais,e",
-     "",
-     "fr/02783.mp3",
-     "zh/02783.mp3",
-     "",
-     ""
-    ],
-    [
-     "坏的",
-     "",
-     "adj.",
-     "fr/02784.mp3",
-     "zh/02784.mp3",
-     "huài de",
-     "moveez"
-    ],
-    [
-     "",
-     "indissociable",
-     "",
-     "fr/02785.mp3",
-     "zh/02785.mp3",
-     "",
-     "&disosjabl"
-    ],
-    [
-     "不可分割的",
-     "",
-     "adj.",
-     "fr/02786.mp3",
-     "zh/02786.mp3",
-     "bù kě fēn gē de",
-     ""
-    ],
-    [
-     "自由",
-     "liberté.",
-     "",
-     "fr/02787.mp3",
-     "zh/02787.mp3",
-     "zì yóu",
-     "liberte"
-    ],
-    [
-     "男孩",
-     "garcon",
-     "n.m.",
-     "fr/02788.mp3",
-     "zh/02788.mp3",
-     "nán hái",
-     "gars"
-    ],
-    [
-     "患病的",
-     "atteint",
-     "",
-     "fr/02789.mp3",
-     "zh/02789.mp3",
-     "huàn bìng de",
-     ""
-    ],
-    [
-     "",
-     "princessesn",
-     "",
-     "fr/03783.mp3",
-     "zh/03783.mp3",
-     "",
-     "pr&ses"
-    ],
-    [
-     "公主",
-     "A",
-     "",
-     "fr/03784.mp3",
-     "zh/03784.mp3",
-     "gōng zhǔ",
-     ""
-    ],
-    [
-     "清澈的",
-     "limpide",
-     "adj.",
-     "fr/03785.mp3",
-     "zh/03785.mp3",
-     "qīng chè de",
-     "pid"
-    ],
-    [
-     "",
-     "soudainement",
-     "",
-     "fr/03786.mp3",
-     "zh/03786.mp3",
-     "",
-     "sudenmä"
-    ],
-    [
-     "突然",
-     "",
-     "adv",
-     "fr/03787.mp3",
-     "zh/03787.mp3",
-     "tū rán",
-     ""
     ]
    ]
   },
@@ -3012,7 +2517,7 @@ window.BOOK_DATA[3]={
    "w": [
     [
      "第九",
-     "neuvieme",
+     "neuvième",
      "m",
      "fr/00178.mp3",
      "zh/00178.mp3",
@@ -3021,7 +2526,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十",
-     "dixierne",
+     "dixième",
      "m.",
      "fr/00179.mp3",
      "zh/00179.mp3",
@@ -3030,7 +2535,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十一",
-     "-onzieme",
+     "onzième",
      "m.",
      "fr/00180.mp3",
      "zh/00180.mp3",
@@ -3039,7 +2544,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十二",
-     "=douzieme",
+     "douzième",
      "m.",
      "fr/00181.mp3",
      "zh/00181.mp3",
@@ -3048,7 +2553,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十三",
-     "=treizieme",
+     "treizième",
      "m.",
      "fr/00182.mp3",
      "zh/00182.mp3",
@@ -3057,7 +2562,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十四",
-     "quatorzieme",
+     "quatorzième",
      "m",
      "fr/00183.mp3",
      "zh/00183.mp3",
@@ -3066,7 +2571,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十五",
-     "quinzieme",
+     "quinzième",
      "m.",
      "fr/00184.mp3",
      "zh/00184.mp3",
@@ -3075,7 +2580,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十六",
-     "seizieme",
+     "seizième",
      "m.",
      "fr/00185.mp3",
      "zh/00185.mp3",
@@ -3084,7 +2589,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十七第十八",
-     "dix-septieme +/dix-huitieme iny.",
+     "dix-septième /dix-huitième",
      "",
      "fr/00186.mp3",
      "zh/00186.mp3",
@@ -3093,7 +2598,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第十九",
-     "dix-neuvieme",
+     "dix-neuvième",
      "inv.",
      "fr/00187.mp3",
      "zh/00187.mp3",
@@ -3102,7 +2607,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第二十",
-     "vingtieme",
+     "vingtième",
      "m.",
      "fr/00188.mp3",
      "zh/00188.mp3",
@@ -3111,7 +2616,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第三十",
-     "=+trentieme",
+     "trentième",
      "m.",
      "fr/00189.mp3",
      "zh/00189.mp3",
@@ -3120,7 +2625,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第四十",
-     "quarantieme",
+     "quarantième",
      "m.",
      "fr/00190.mp3",
      "zh/00190.mp3",
@@ -3129,7 +2634,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第五十",
-     "cinquantieme",
+     "cinquantième",
      "m.",
      "fr/00191.mp3",
      "zh/00191.mp3",
@@ -3138,7 +2643,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第六十",
-     "soixantieme",
+     "soixantième",
      "m.",
      "fr/00192.mp3",
      "zh/00192.mp3",
@@ -3147,7 +2652,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第七十",
-     "soixante dixieme",
+     "soixante dixième",
      "inv",
      "fr/00193.mp3",
      "zh/00193.mp3",
@@ -3156,7 +2661,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第八十",
-     "quatre-ving- tieme iny.",
+     "quatre-ving-tième",
      "",
      "fr/00194.mp3",
      "zh/00194.mp3",
@@ -3165,7 +2670,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "第九十",
-     "quatre- vingt-dixieme",
+     "quatre-vingt-dixième",
      "inv",
      "fr/00195.mp3",
      "zh/00195.mp3",
@@ -3174,309 +2679,12 @@ window.BOOK_DATA[3]={
     ],
     [
      "第一百",
-     "-centieme",
+     "centième",
      "m.",
      "fr/00196.mp3",
      "zh/00196.mp3",
      "dì yì bǎi",
      "sätjem"
-    ],
-    [
-     "医院",
-     "höpital pital]",
-     "m.",
-     "fr/02790.mp3",
-     "zh/02790.mp3",
-     "yī yuàn",
-     ""
-    ],
-    [
-     "症状",
-     "symptome",
-     "m.",
-     "fr/02791.mp3",
-     "zh/02791.mp3",
-     "zhèng zhuàng",
-     "séptosm"
-    ],
-    [
-     "脉搏",
-     "kpouls",
-     "m.",
-     "fr/02792.mp3",
-     "zh/02792.mp3",
-     "mài bó",
-     "pu"
-    ],
-    [
-     "血压",
-     "tension artérielle ].",
-     "",
-     "fr/02793.mp3",
-     "zh/02793.mp3",
-     "xuè yā",
-     "tásj5 arterjel"
-    ],
-    [
-     "只是在症状出现后才会传",
-     "",
-     "",
-     "fr/02794.mp3",
-     "zh/02794.mp3",
-     "zhǐ shì zài zhèng zhuàng chū xiàn hòu cái huì chuán",
-     ""
-    ],
-    [
-     "测量",
-     "mesurer t.",
-     "",
-     "fr/02795.mp3",
-     "zh/02795.mp3",
-     "cè liáng",
-     "m(a)zyre"
-    ],
-    [
-     "描述",
-     "description /.",
-     "",
-     "fr/02796.mp3",
-     "zh/02796.mp3",
-     "miáo shù",
-     "deskripsj5"
-    ],
-    [
-     "处方",
-     "prescription",
-     "",
-     "fr/02797.mp3",
-     "zh/02797.mp3",
-     "chǔ fāng",
-     "preskripsjδ"
-    ],
-    [
-     "开药方",
-     "prescrire .",
-     "",
-     "fr/02798.mp3",
-     "zh/02798.mp3",
-     "kāi yào fāng",
-     "preskri:r"
-    ],
-    [
-     "明确地",
-     "décidément",
-     "",
-     "fr/02799.mp3",
-     "zh/02799.mp3",
-     "míng què dì",
-     "desidemá"
-    ],
-    [
-     "诊断",
-     "diagnostiquer .",
-     "",
-     "fr/02800.mp3",
-     "zh/02800.mp3",
-     "zhěn duàn",
-     "djagnostike"
-    ],
-    [
-     "药片",
-     "comprimé",
-     "m.",
-     "fr/02801.mp3",
-     "zh/02801.mp3",
-     "yào piàn",
-     "kšprime"
-    ],
-    [
-     "药物",
-     "médicament",
-     "m.",
-     "fr/02802.mp3",
-     "zh/02802.mp3",
-     "yào wù",
-     "medikamá"
-    ],
-    [
-     "初步的",
-     "préliminaire",
-     "",
-     "fr/02803.mp3",
-     "zh/02803.mp3",
-     "chū bù de",
-     "prelimine:r"
-    ],
-    [
-     "服用",
-     "prendre .",
-     "",
-     "fr/02804.mp3",
-     "zh/02804.mp3",
-     "fú yòng",
-     "prá:dr"
-    ],
-    [
-     "治疗",
-     "traiter",
-     "",
-     "fr/02805.mp3",
-     "zh/02805.mp3",
-     "zhì liáo",
-     "treete"
-    ],
-    [
-     "治疗",
-     "soigner",
-     "",
-     "fr/02806.mp3",
-     "zh/02806.mp3",
-     "zhì liáo",
-     "swane"
-    ],
-    [
-     "治疗客针灸",
-     "guérir acuponcture",
-     "",
-     "fr/02807.mp3",
-     "zh/02807.mp3",
-     "zhì liáo kè zhēn jiǔ",
-     "gerir"
-    ],
-    [
-     "地位",
-     "position",
-     "f.",
-     "fr/03788.mp3",
-     "zh/03788.mp3",
-     "dì wèi",
-     "pozisj5"
-    ],
-    [
-     "平民",
-     "plebeien a(m)",
-     "",
-     "fr/03789.mp3",
-     "zh/03789.mp3",
-     "píng mín",
-     "plebej"
-    ],
-    [
-     "市民",
-     "citadine",
-     "",
-     "fr/03790.mp3",
-     "zh/03790.mp3",
-     "shì mín",
-     "sitad,in"
-    ],
-    [
-     "农民",
-     "paysannerie /",
-     "",
-     "fr/03791.mp3",
-     "zh/03791.mp3",
-     "nóng mín",
-     "peizanri"
-    ],
-    [
-     "干部",
-     "cadre",
-     "m.",
-     "fr/03792.mp3",
-     "zh/03792.mp3",
-     "gàn bù",
-     "kadr"
-    ],
-    [
-     "军人",
-     "militaire",
-     "m.",
-     "fr/03793.mp3",
-     "zh/03793.mp3",
-     "jūn rén",
-     "militer"
-    ],
-    [
-     "官员",
-     "fonctionnaire",
-     "m.",
-     "fr/03794.mp3",
-     "zh/03794.mp3",
-     "guān yuán",
-     "f5ksjoner"
-    ],
-    [
-     "领导",
-     "diriger",
-     "",
-     "fr/03795.mp3",
-     "zh/03795.mp3",
-     "lǐng dǎo",
-     "dirize"
-    ],
-    [
-     "贵族",
-     "noble",
-     "",
-     "fr/03796.mp3",
-     "zh/03796.mp3",
-     "guì zú",
-     "nobl"
-    ],
-    [
-     "贵族",
-     "aristocratie /",
-     "",
-     "fr/03797.mp3",
-     "zh/03797.mp3",
-     "guì zú",
-     "aristokrasi"
-    ],
-    [
-     "卓越的",
-     "magnifique",
-     "",
-     "fr/03798.mp3",
-     "zh/03798.mp3",
-     "zhuó yuè de",
-     "manifik"
-    ],
-    [
-     "默默无闻的",
-     "etre obscur",
-     "",
-     "fr/03799.mp3",
-     "zh/03799.mp3",
-     "mò mò wú wén de",
-     "etr obskyr"
-    ],
-    [
-     "杰出的",
-     "excellente",
-     "",
-     "fr/03800.mp3",
-     "zh/03800.mp3",
-     "jié chū de",
-     "ekselä,:t"
-    ],
-    [
-     "高贵的",
-     "distingué,",
-     "",
-     "fr/03801.mp3",
-     "zh/03801.mp3",
-     "gāo guì de",
-     "dist&ge"
-    ],
-    [
-     "皇室农民",
-     "famille impériale MaMy paysannerie",
-     "",
-     "fr/03802.mp3",
-     "zh/03802.mp3",
-     "huáng shì nóng mín",
-     "famij&perjal"
     ]
    ],
    "s": [
@@ -3524,69 +2732,6 @@ window.BOOK_DATA[3]={
      "zh/00201.mp3",
      "zhè běn shū de dì èr shí kè jiāng wèi wǒ men xiáng xì jiǎng jiě xiān jiāng lái shí de yòng fǎ",
      ""
-    ],
-    [
-     "Si la grippe est conta- gieuse seulement apres l'appa- rition des symptomes,et qu'il aurait da disparaitre des mil- liers dannées davont. LT",
-     "如果流染那它早该在几千年前就",
-     "消失了。——《生活大爆炸》",
-     "fr/02808.mp3",
-     "zh/02808.mp3",
-     "rú guǒ liú rǎn nà tā zǎo gāi zài jǐ qiān nián qián jiù",
-     ""
-    ],
-    [
-     "Et le petit prince sen fut. Les grandes personnes sont décidément bien bizarres, se dit-il en lui-meme durant son voyage. W-#",
-     "于是小王子就走开了。小王子在路上自言自语地说了一句这些大人肯定是十分古怪的。",
-     "",
-     "fr/02809.mp3",
-     "zh/02809.mp3",
-     "yú shì xiǎo wáng zǐ jiù zǒu kāi le xiǎo wáng zǐ zài lù shàng zì yán zì yǔ dì shuō le yī jù zhè xiē dà rén kěn dìng shì shí fēn gǔ guài de",
-     ""
-    ],
-    [
-     "Si tu veux guérir viteil faut te reposer. X",
-     "如果你想要好得快你就必须休息",
-     "",
-     "fr/02810.mp3",
-     "zh/02810.mp3",
-     "rú guǒ nǐ xiǎng yào hǎo dé kuài nǐ jiù bì xū xiū xī",
-     ""
-    ],
-    [
-     "Concernant le change- ment climatique, la position du gouvernement chinois est de plus en plus constructive ces dernieres années.",
-     "近年来中国政府在气候变化间题上的立场越来越富有建设性。",
-     "",
-     "fr/03803.mp3",
-     "zh/03803.mp3",
-     "jìn nián lái zhōng guó zhèng fǔ zài qì hòu biàn huà jiān tí shàng de lì chǎng yuè lái yuè fù yǒu jiàn shè xìng",
-     ""
-    ],
-    [
-     "Les Francais n'ont en tout cas pas exclu de lancer une opération militaire dans la ré- gion.",
-     "法国没有放弃在该地区进行军事行动的权利。",
-     "",
-     "fr/03804.mp3",
-     "zh/03804.mp3",
-     "fǎ guó méi yǒu fàng qì zài gāi dì qū jìn xíng jūn shì xíng dòng de quán lì",
-     ""
-    ],
-    [
-     "Shanghai est la ville la plus magnifique en Chine, mais beaucoup de gens ne le croient pas.+ WHo",
-     "上海是中国很繁华的大都市，但是很多人却不这么认为",
-     "",
-     "fr/03805.mp3",
-     "zh/03805.mp3",
-     "shàng hǎi shì zhōng guó hěn fán huá de dà dū shì dàn shì hěn duō rén què bù zhè me rèn wéi",
-     ""
-    ],
-    [
-     "Ce systéme de transport public est vraiment excellent, beaucoup de Parisiens en pro- fitent au lieu de conduire leurs propres voitures. -X",
-     "这个公共交通系统相当出色，许多巴黎人都不驾驶自家轿车，而选择使用这一公交系统",
-     "",
-     "fr/03806.mp3",
-     "zh/03806.mp3",
-     "zhè ge gōng gòng jiāo tōng xì tǒng xiāng dāng chū sè xǔ duō bā lí rén dōu bù jià shǐ zì jiā jiào chē ér xuǎn zé shǐ yòng zhè yī gōng jiāo xì tǒng",
-     ""
     ]
    ],
    "e": [
@@ -3619,7 +2764,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "满足满意",
-     "f..",
+     "",
      "",
      "fr/00205.mp3",
      "zh/00205.mp3",
@@ -3637,7 +2782,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "再捆再绑联系",
-     "..",
+     "",
      "",
      "fr/00207.mp3",
      "zh/00207.mp3",
@@ -3655,7 +2800,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "重复重述",
-     ".1",
+     "",
      "",
      "fr/00209.mp3",
      "zh/00209.mp3",
@@ -3664,7 +2809,7 @@ window.BOOK_DATA[3]={
     ],
     [
      "庄园",
-     "l chateauato]",
+     "château",
      "nm.",
      "fr/00210.mp3",
      "zh/00210.mp3",
@@ -3687,123 +2832,6 @@ window.BOOK_DATA[3]={
      "fr/00212.mp3",
      "zh/00212.mp3",
      "xiān qián de",
-     ""
-    ],
-    [
-     "流行感冒",
-     "grippe",
-     "",
-     "fr/02811.mp3",
-     "zh/02811.mp3",
-     "liú xíng gǎn mào",
-     "grip"
-    ],
-    [
-     "",
-     "contagieuse",
-     "",
-     "fr/02812.mp3",
-     "zh/02812.mp3",
-     "",
-     ""
-    ],
-    [
-     "传染的",
-     "",
-     "adj.",
-     "fr/02813.mp3",
-     "zh/02813.mp3",
-     "chuán rǎn de",
-     "k5ta3j,z"
-    ],
-    [
-     "",
-     "bizarre",
-     "adj.",
-     "fr/02814.mp3",
-     "zh/02814.mp3",
-     "",
-     "biza:r"
-    ],
-    [
-     "奇怪的",
-     "",
-     "",
-     "fr/02815.mp3",
-     "zh/02815.mp3",
-     "qí guài de",
-     ""
-    ],
-    [
-     "测量",
-     "mesurer",
-     "",
-     "fr/02816.mp3",
-     "zh/02816.mp3",
-     "cè liáng",
-     ""
-    ],
-    [
-     "",
-     "concernant",
-     "",
-     "fr/03807.mp3",
-     "zh/03807.mp3",
-     "",
-     "kserná"
-    ],
-    [
-     "关于对于",
-     "",
-     "prep",
-     "fr/03808.mp3",
-     "zh/03808.mp3",
-     "guān yú duì yú",
-     ""
-    ],
-    [
-     "",
-     "constructif,ive",
-     "",
-     "fr/03809.mp3",
-     "zh/03809.mp3",
-     "",
-     ""
-    ],
-    [
-     "建设",
-     "",
-     "adj.",
-     "fr/03810.mp3",
-     "zh/03810.mp3",
-     "jiàn shè",
-     "kstryktifiv"
-    ],
-    [
-     "性的",
-     "",
-     "",
-     "fr/03811.mp3",
-     "zh/03811.mp3",
-     "xìng de",
-     ""
-    ],
-    [
-     "",
-     "Parisien n.",
-     "",
-     "fr/03812.mp3",
-     "zh/03812.mp3",
-     "",
-     "parizj,en"
-    ],
-    [
-     "巴黎人",
-     "RA",
-     "",
-     "fr/03813.mp3",
-     "zh/03813.mp3",
-     "bā lí rén",
      ""
     ]
    ]
