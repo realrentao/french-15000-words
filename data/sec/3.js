@@ -296,7 +296,7 @@ window.BOOK_DATA[3] = {
     },
     {
       "no": 2,
-      "name": "其他时间词",
+      "name": "其他时间词（1）",
       "w": [
         [
           "春天",
@@ -585,170 +585,224 @@ window.BOOK_DATA[3] = {
     },
     {
       "no": 3,
-      "name": "其他时间词",
+      "name": "其他时间词（2）",
       "w": [
         [
-          "黎明在初期在的开始时",
-          "aube alaube de",
+          "黎明",
+          "aube",
+          "f.",
+          "fr/11312.mp3",
+          "zh/11312.mp3",
           "",
-          "fr/00073.mp3",
-          "zh/00073.mp3",
-          "lí míng zài chū qī zài de kāi shǐ shí",
-          "ob"
+          "[o:b]"
+        ],
+        [
+          "在……初期/开始时",
+          "à l'aube de",
+          "prép",
+          "fr/11313.mp3",
+          "zh/11313.mp3",
+          "",
+          "—"
         ],
         [
           "上午",
           "matin",
-          "m",
-          "fr/00074.mp3",
-          "zh/00074.mp3",
-          "shàng wǔ",
-          "mat"
+          "m.",
+          "fr/11314.mp3",
+          "zh/11314.mp3",
+          "",
+          "[matɛ̃]"
         ],
         [
           "中午",
           "midi",
-          "m",
-          "fr/00075.mp3",
-          "zh/00075.mp3",
-          "zhōng wǔ",
-          "midi"
+          "m.",
+          "fr/11315.mp3",
+          "zh/11315.mp3",
+          "",
+          "[midi]"
         ],
         [
-          "下午黄香",
-          "apres-midi crépuscule",
+          "下午",
+          "après-midi",
+          "inv.",
+          "fr/11316.mp3",
+          "zh/11316.mp3",
+          "",
+          "[aprəmidi]"
+        ],
+        [
+          "黄昏",
+          "crépuscule",
           "m.",
-          "fr/00076.mp3",
-          "zh/00076.mp3",
-          "xià wǔ huáng xiāng",
-          "apremidi"
+          "fr/11317.mp3",
+          "zh/11317.mp3",
+          "",
+          "[krepyskyl]"
         ],
         [
           "晚上",
           "soir",
-          "m",
-          "fr/00077.mp3",
-          "zh/00077.mp3",
-          "wǎn shàng",
-          "swar"
+          "m.",
+          "fr/11318.mp3",
+          "zh/11318.mp3",
+          "",
+          "[swa:r]"
         ],
         [
           "晚上",
           "soirée",
+          "f.",
+          "fr/11319.mp3",
+          "zh/11319.mp3",
           "",
-          "fr/00078.mp3",
-          "zh/00078.mp3",
-          "wǎn shàng",
-          "sware"
+          "[swarɛ]"
         ],
         [
           "半夜",
           "minuit",
           "m.",
-          "fr/00079.mp3",
-          "zh/00079.mp3",
-          "bàn yè",
-          "minui"
+          "fr/11320.mp3",
+          "zh/11320.mp3",
+          "",
+          "[minɥi]"
         ],
         [
           "睡觉时间",
           "temps de sommeil",
+          "n.",
+          "fr/11321.mp3",
+          "zh/11321.mp3",
           "",
-          "fr/00080.mp3",
-          "zh/00080.mp3",
-          "shuì jiào shí jiān",
-          ""
+          "—"
         ],
         [
-          "十年价在之前众在之后价在期间",
-          "décade .avant apres durant",
+          "十年",
+          "décade",
+          "f.",
+          "fr/11322.mp3",
+          "zh/11322.mp3",
           "",
-          "fr/00081.mp3",
-          "zh/00081.mp3",
-          "shí nián jià zài zhī qián zhòng zài zhī hòu jià zài qī jiān",
-          "dekad"
+          "[dekad]"
         ],
         [
-          "以前价在期间价何时",
-          "autrefois au cours de {8 quand",
+          "在……之前",
+          "avant",
+          "prép",
+          "fr/11323.mp3",
+          "zh/11323.mp3",
           "",
-          "fr/00082.mp3",
-          "zh/00082.mp3",
-          "yǐ qián jià zài qī jiān jià hé shí",
-          "otrafwa"
+          "[avɑ̃]"
         ],
         [
-          "先前的短空前的",
-          "précedente sans préce dent",
+          "在……之后",
+          "après",
+          "prép",
+          "fr/11324.mp3",
+          "zh/11324.mp3",
           "",
-          "fr/00083.mp3",
-          "zh/00083.mp3",
-          "xiān qián de duǎn kōng qián de",
-          "presedaát"
+          "[aprɛ]"
+        ],
+        [
+          "在……期间",
+          "durant",
+          "prép",
+          "fr/11325.mp3",
+          "zh/11325.mp3",
+          "",
+          "[dyrɑ̃]"
+        ],
+        [
+          "以前",
+          "autrefois",
+          "adv",
+          "fr/11326.mp3",
+          "zh/11326.mp3",
+          "",
+          "[otrəfwa]"
+        ],
+        [
+          "在……期间",
+          "au cours de",
+          "prép",
+          "fr/11327.mp3",
+          "zh/11327.mp3",
+          "",
+          "—"
+        ],
+        [
+          "何时",
+          "quand",
+          "prép",
+          "fr/11328.mp3",
+          "zh/11328.mp3",
+          "",
+          "[kɑ̃]"
+        ],
+        [
+          "先前的",
+          "précédent, e",
+          "adj.",
+          "fr/11329.mp3",
+          "zh/11329.mp3",
+          "",
+          "[presedɑ̃, ɑ̃:t]"
+        ],
+        [
+          "空前的",
+          "sans précédent",
+          "短",
+          "fr/11330.mp3",
+          "zh/11330.mp3",
+          "",
+          "—"
         ]
       ],
       "s": [
         [
-          "Nous sommes a laube dun monde nouveau.",
+          "Nous sommes à l'aube d'un monde nouveau.",
           "我们处在一个新世界的开创期。",
           "",
-          "fr/00084.mp3",
-          "zh/00084.mp3",
-          "wǒ men chù zài yí gè xīn shì jiè de kāi chuàng qī",
+          "fr/11331.mp3",
+          "zh/11331.mp3",
+          "",
           ""
         ],
         [
-          "Elles ont l'air si dolenta l'heure du crepuscule.",
+          "Elles ont l'air si dolent à l'heure du crépuscule.",
           "它们在薄暮时分有着如此悲伤的神情。",
           "",
-          "fr/00085.mp3",
-          "zh/00085.mp3",
-          "tā men zài bó mù shí fēn yǒu zhe rú cǐ bēi shāng de shén qíng",
-          ""
-        ],
-        [
-          "Autrefois,les Romains fe taient les saturrales.",
-          "从前罗马人庆祝农神节。",
+          "fr/11332.mp3",
+          "zh/11332.mp3",
           "",
-          "fr/00086.mp3",
-          "zh/00086.mp3",
-          "cóng qián luó mǎ rén qìng zhù nóng shén jié",
           ""
         ],
         [
-          "Chaque jour, je me couche aminuit.",
-          "我每天晚上午夜睡觉",
+          "Autrefois, les Romains fêtaient les saturnales.",
+          "从前，罗马人庆祝农神节。",
           "",
-          "fr/00087.mp3",
-          "zh/00087.mp3",
-          "wǒ měi tiān wǎn shàng wǔ yè shuì jiào",
+          "fr/11333.mp3",
+          "zh/11333.mp3",
+          "",
           ""
         ],
         [
-          "C'est une catastrophe sans precedent.-",
+          "Chaque jour, je me couche à minuit.",
+          "我每天晚上午夜睡觉。",
+          "",
+          "fr/11334.mp3",
+          "zh/11334.mp3",
+          "",
+          ""
+        ],
+        [
+          "C'est une catastrophe sans précédent.",
           "这是一场空前的灾难。",
           "",
-          "fr/00088.mp3",
-          "zh/00088.mp3",
-          "zhè shì yī cháng kōng qián de zāi nàn",
-          ""
-        ],
-        [
-          "Combien de départements y a-t-il dans votre organisation? F?",
-          "你所在的组织共有多少部门",
+          "fr/11335.mp3",
+          "zh/11335.mp3",
           "",
-          "fr/02720.mp3",
-          "zh/02720.mp3",
-          "nǐ suǒ zài de zǔ zhī gòng yǒu duō shǎo bù mén",
-          ""
-        ],
-        [
-          "Je suis juste un professeur dhistoirefaible.",
-          "我只是个虚弱的历史老师。",
-          "一《吸血鬼日记》",
-          "fr/03721.mp3",
-          "zh/03721.mp3",
-          "wǒ zhǐ shì gè xū ruò de lì shǐ lǎo shī",
           ""
         ]
       ],
@@ -757,172 +811,46 @@ window.BOOK_DATA[3] = {
           "新的",
           "nouveau",
           "adj.",
-          "fr/00089.mp3",
-          "zh/00089.mp3",
-          "xīn de",
-          "nuvo"
-        ],
-        [
+          "fr/11336.mp3",
+          "zh/11336.mp3",
           "",
-          "dolent,e",
-          "adj.",
-          "fr/00090.mp3",
-          "",
-          "",
-          "dola,át"
+          "[nuvo]"
         ],
         [
           "悲痛的",
+          "dolent, e",
+          "adj.",
+          "fr/11337.mp3",
+          "zh/11337.mp3",
           "",
-          "",
-          "",
-          "zh/00091.mp3",
-          "bēi tòng de",
-          ""
+          "[dɔlɑ̃, ɑ̃:t]"
         ],
         [
-          "",
+          "每个，各个",
           "chaque",
           "adj.",
-          "fr/00092.mp3",
+          "fr/11338.mp3",
+          "zh/11338.mp3",
           "",
-          "",
-          "ak"
-        ],
-        [
-          "每个各个",
-          "",
-          "",
-          "",
-          "zh/00093.mp3",
-          "měi gè gè gè",
-          ""
+          "[ʃak]"
         ],
         [
           "使睡下",
           "coucher",
+          "v.",
+          "fr/11339.mp3",
+          "zh/11339.mp3",
           "",
-          "fr/00094.mp3",
-          "zh/00094.mp3",
-          "shǐ shuì xià",
-          "kufe"
-        ],
-        [
-          "",
-          "catastrophe",
-          "",
-          "fr/00095.mp3",
-          "",
-          "",
-          "katastrof"
+          "[kuʃe]"
         ],
         [
           "灾难",
-          "",
+          "catastrophe",
           "nf.",
+          "fr/11340.mp3",
+          "zh/11340.mp3",
           "",
-          "zh/00096.mp3",
-          "zāi nàn",
-          ""
-        ],
-        [
-          "晚上",
-          "soir",
-          "",
-          "fr/00097.mp3",
-          "zh/00097.mp3",
-          "wǎn shàng",
-          ""
-        ],
-        [
-          "",
-          "proportionnés",
-          "",
-          "fr/02723.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "使匀称",
-          "",
-          "vt",
-          "",
-          "zh/02724.mp3",
-          "shǐ yún chèn",
-          "proporsjone"
-        ],
-        [
-          "泡沫",
-          "mousse",
-          "nf.",
-          "fr/02726.mp3",
-          "zh/02726.mp3",
-          "pào mò",
-          "mus"
-        ],
-        [
-          "准确的",
-          "juste",
-          "adj",
-          "fr/03726.mp3",
-          "zh/03726.mp3",
-          "zhǔn què de",
-          "3yst"
-        ],
-        [
-          "足迹",
-          "piste.",
-          "",
-          "fr/03727.mp3",
-          "zh/03727.mp3",
-          "zú jì",
-          "pist"
-        ],
-        [
-          "吸引",
-          "attirer v.3l",
-          "",
-          "fr/03728.mp3",
-          "zh/03728.mp3",
-          "xī yǐn",
-          "atire"
-        ],
-        [
-          "",
-          "pincement .",
-          "m.",
-          "fr/03729.mp3",
-          "",
-          "",
-          "p&smä"
-        ],
-        [
-          "修剪",
-          "",
-          "",
-          "",
-          "zh/03730.mp3",
-          "xiū jiǎn",
-          ""
-        ],
-        [
-          "",
-          "impasse",
-          "nf",
-          "fr/03731.mp3",
-          "",
-          "",
-          "&paas"
-        ],
-        [
-          "死胡同",
-          "TE",
-          "",
-          "fr/03732.mp3",
-          "zh/03732.mp3",
-          "sǐ hú tòng",
-          ""
+          "[katastrɔf]"
         ]
       ]
     },
