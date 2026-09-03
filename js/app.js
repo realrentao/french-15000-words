@@ -31,6 +31,19 @@
       .replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
 
+  // 法语词性缩写 → 中文（用于中文翻译后的词性备注）
+  var POS_CN = {
+    m: "名(阳)", f: "名(阴)", nm: "名(阳)", nf: "名(阴)", minv: "名(阳·不变)",
+    adj: "形", vt: "动(及)", vi: "动(不及)", vpr: "动(代)", v: "动",
+    adv: "副", inv: "不变", prep: "介", prép: "介", conj: "连", pron: "代"
+  };
+  function posCn(p) {
+    if (!p) return "";
+    var s = p.toLowerCase().replace(/\s+/g, "").replace(/\.$/, "")
+      .replace(/[^a-zà-ÿ]/g, "");
+    return POS_CN[s] || p;
+  }
+
   /* ---------- localStorage ---------- */
   function loadLS() {
     try { state.done = JSON.parse(localStorage.getItem(LS_DONE) || "{}"); } catch (e) { state.done = {}; }
@@ -171,7 +184,7 @@
       + '<button class="mini-play" data-playblock="' + kind + '">▶ 连播本组</button></div>';
     arr.forEach(function (it, i) {
       var id = uid(gid, sno, kind, i);
-      var zhHtml = esc(it[0]) + (it[2] ? ' <span class="pos-inline">' + esc(it[2]) + '</span>' : '');
+      var zhHtml = esc(it[0]) + (it[2] ? ' <span class="pos-inline" title="' + esc(it[2]) + '">' + posCn(it[2]) + '</span>' : '');
       h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
         + '<div class="body"><div class="line-es">'
         + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
@@ -755,7 +768,7 @@
   function flipCard(it, body, foot) {
     body.onclick = null;
     body.innerHTML = '<div class="card-face back">'
-      + '<div class="cf-zh">' + esc(it.zh) + (it.pos ? ' <span class="pos-inline">' + esc(it.pos) + '</span>' : '') + '</div>'
+      + '<div class="cf-zh">' + esc(it.zh) + (it.pos ? ' <span class="pos-inline" title="' + esc(it.pos) + '">' + posCn(it.pos) + '</span>' : '') + '</div>'
       + (it.py ? '<div class="cf-py">' + esc(it.py) + '</div>' : '')
       + (it.az ? '<button class="cf-spk spk" data-a="' + AUDIO + it.az + '" title="中文发音">🔊 中文</button>' : '')
       + (it.kind === "s" && it.src ? '<div class="cf-src">' + esc(it.src) + '</div>' : '')
