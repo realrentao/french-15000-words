@@ -106,7 +106,7 @@ window.BOOK_DATA[3] = {
           "fr/00031.mp3",
           "zh/00031.mp3",
           "èr yuè",
-          "[fevrije]"
+          "[fevʁije]"
         ],
         [
           "三月",
@@ -160,7 +160,7 @@ window.BOOK_DATA[3] = {
           "fr/00037.mp3",
           "zh/00037.mp3",
           "bā yuè",
-          "[ut]"
+          "[u]"
         ],
         [
           "九月",
@@ -262,7 +262,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11277.mp3",
           "zh/11277.mp3",
-          "",
+          "di4 er4",
           "[døzjɛm]"
         ],
         [
@@ -271,7 +271,7 @@ window.BOOK_DATA[3] = {
           "v.pr.",
           "fr/11278.mp3",
           "zh/11278.mp3",
-          "",
+          "yun1 dao3",
           "[evanwi:r]"
         ],
         [
@@ -280,7 +280,7 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11279.mp3",
           "zh/11279.mp3",
-          "",
+          "shuang1 bei4 de5",
           "[dubl]"
         ],
         [
@@ -289,7 +289,7 @@ window.BOOK_DATA[3] = {
           "n.m.",
           "fr/11280.mp3",
           "zh/11280.mp3",
-          "",
+          "li4 yi4 ， hao3 chu4",
           "[avɑ̃ta:ʒ]"
         ]
       ]
@@ -304,8 +304,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11281.mp3",
           "zh/11281.mp3",
-          "",
-          "prɛ̃tɑ̃"
+          "chun1 tian1",
+          "[prɛ̃tɑ̃]"
         ],
         [
           "夏天",
@@ -313,8 +313,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11282.mp3",
           "zh/11282.mp3",
-          "",
-          "ete"
+          "xia4 tian1",
+          "[ete]"
         ],
         [
           "秋天",
@@ -322,8 +322,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11283.mp3",
           "zh/11283.mp3",
-          "",
-          "ɔ(ɔ)tɔn"
+          "qiu1 tian1",
+          "[ɔ(ɔ)tɔn]"
         ],
         [
           "冬天",
@@ -331,8 +331,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11284.mp3",
           "zh/11284.mp3",
-          "",
-          "ivɛːr"
+          "dong1 tian1",
+          "[ivɛːr]"
         ],
         [
           "世纪",
@@ -340,8 +340,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11285.mp3",
           "zh/11285.mp3",
-          "",
-          "sjɛkl"
+          "shi4 ji4",
+          "[sjɛkl]"
         ],
         [
           "千年",
@@ -349,8 +349,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11286.mp3",
           "zh/11286.mp3",
-          "",
-          "mil(l)enɛːr"
+          "qian1 nian2",
+          "[mil(l)enɛːr]"
         ],
         [
           "时期",
@@ -358,8 +358,8 @@ window.BOOK_DATA[3] = {
           "f.",
           "fr/11287.mp3",
           "zh/11287.mp3",
-          "",
-          "perjɔd"
+          "shi2 qi1",
+          "[perjɔd]"
         ],
         [
           "年代",
@@ -367,8 +367,8 @@ window.BOOK_DATA[3] = {
           "f.",
           "fr/11288.mp3",
           "zh/11288.mp3",
-          "",
-          "epɔk"
+          "nian2 dai4",
+          "[epɔk]"
         ],
         [
           "年代",
@@ -376,8 +376,8 @@ window.BOOK_DATA[3] = {
           "pl.",
           "fr/11289.mp3",
           "zh/11289.mp3",
-          "",
-          "ane"
+          "nian2 dai4",
+          "[ane]"
         ],
         [
           "日历",
@@ -385,8 +385,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11290.mp3",
           "zh/11290.mp3",
-          "",
-          "kalɑ̃drijɛ"
+          "ri4 li4",
+          "[kalɑ̃drijɛ]"
         ],
         [
           "天",
@@ -394,8 +394,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11291.mp3",
           "zh/11291.mp3",
-          "",
-          "ʒuːr"
+          "tian1",
+          "[ʒuʁ]"
         ],
         [
           "月",
@@ -403,8 +403,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11292.mp3",
           "zh/11292.mp3",
-          "",
-          "mwa"
+          "yue4",
+          "[mwa]"
         ],
         [
           "年",
@@ -412,8 +412,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11293.mp3",
           "zh/11293.mp3",
-          "",
-          "ɑ̃"
+          "nian2",
+          "[ɑ̃]"
         ],
         [
           "每天的",
@@ -421,8 +421,8 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11294.mp3",
           "zh/11294.mp3",
-          "",
-          "kɔtidjɛ̃, ɛn"
+          "mei3 tian1 de5",
+          "[kɔtidjɛ̃, ɛn]"
         ],
         [
           "周末",
@@ -430,8 +430,8 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11295.mp3",
           "zh/11295.mp3",
-          "",
-          "wikɛnd"
+          "zhou1 mo4",
+          "[wikɛnd]"
         ],
         [
           "两周",
@@ -439,7 +439,7 @@ window.BOOK_DATA[3] = {
           "n.",
           "fr/11296.mp3",
           "zh/11296.mp3",
-          "",
+          "liang3 zhou1",
           ""
         ],
         [
@@ -448,8 +448,8 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11297.mp3",
           "zh/11297.mp3",
-          "",
-          "tɑ̃pɔrɛːr"
+          "zan4 shi2 de5",
+          "[tɑ̃pɔrɛːr]"
         ],
         [
           "及时的",
@@ -457,7 +457,7 @@ window.BOOK_DATA[3] = {
           "adv.",
           "fr/11298.mp3",
           "zh/11298.mp3",
-          "",
+          "ji2 shi2 de5",
           ""
         ],
         [
@@ -466,8 +466,8 @@ window.BOOK_DATA[3] = {
           "adv.",
           "fr/11299.mp3",
           "zh/11299.mp3",
-          "",
-          "tuʒuːr"
+          "yong3 yuan3",
+          "[tuʒuʁ]"
         ],
         [
           "一段时间",
@@ -475,7 +475,7 @@ window.BOOK_DATA[3] = {
           "n.",
           "fr/11300.mp3",
           "zh/11300.mp3",
-          "",
+          "yí duàn shí jiān",
           ""
         ]
       ],
@@ -486,7 +486,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11301.mp3",
           "zh/11301.mp3",
-          "",
+          "Le printemps de la vie.",
           ""
         ],
         [
@@ -495,7 +495,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11302.mp3",
           "zh/11302.mp3",
-          "",
+          "En automne, la forêt change de couleur: c'est l'occasion d'y faire une belle balade.",
           ""
         ],
         [
@@ -504,7 +504,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11303.mp3",
           "zh/11303.mp3",
-          "",
+          "Je n'ai trouvé qu'un emploi temporaire pour quelques mois.",
           ""
         ],
         [
@@ -513,7 +513,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11304.mp3",
           "zh/11304.mp3",
-          "",
+          "Demain, c'est samedi. Bon week-end!",
           ""
         ],
         [
@@ -522,7 +522,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11305.mp3",
           "zh/11305.mp3",
-          "",
+          "Il est toujours prêt à rendre service.",
           ""
         ]
       ],
@@ -533,8 +533,8 @@ window.BOOK_DATA[3] = {
           "n.f.",
           "fr/11306.mp3",
           "zh/11306.mp3",
-          "",
-          "fɔrɛ"
+          "sen1 lin2 ， shu4 lin2",
+          "[fɔrɛ]"
         ],
         [
           "颜色",
@@ -542,8 +542,8 @@ window.BOOK_DATA[3] = {
           "n.f.",
           "fr/11307.mp3",
           "zh/11307.mp3",
-          "",
-          "kulœːr"
+          "yan2 se4",
+          "[kulœːr]"
         ],
         [
           "机会，原因",
@@ -551,8 +551,8 @@ window.BOOK_DATA[3] = {
           "n.f.",
           "fr/11308.mp3",
           "zh/11308.mp3",
-          "",
-          "ɔka(ɑ)zjɔ̃"
+          "ji1 hui4 ， yuan2 yin1",
+          "[ɔka(ɑ)zjɔ̃]"
         ],
         [
           "溜达，闲逛",
@@ -560,8 +560,8 @@ window.BOOK_DATA[3] = {
           "n.f.",
           "fr/11309.mp3",
           "zh/11309.mp3",
-          "",
-          "balad"
+          "liu1 da2 ， xian2 guang4",
+          "[balad]"
         ],
         [
           "工作",
@@ -569,8 +569,8 @@ window.BOOK_DATA[3] = {
           "n.m.",
           "fr/11310.mp3",
           "zh/11310.mp3",
-          "",
-          "ɑ̃plwa"
+          "gong1 zuo4",
+          "[ɑ̃plwa]"
         ],
         [
           "归还，给予",
@@ -578,8 +578,8 @@ window.BOOK_DATA[3] = {
           "v.t",
           "fr/11311.mp3",
           "zh/11311.mp3",
-          "",
-          "rɑ̃ːdr"
+          "gui1 huan2 ， ji3 yu3",
+          "[rɑ̃ːdr]"
         ]
       ]
     },
@@ -593,7 +593,7 @@ window.BOOK_DATA[3] = {
           "f.",
           "fr/11312.mp3",
           "zh/11312.mp3",
-          "",
+          "li2 ming2",
           "[o:b]"
         ],
         [
@@ -602,7 +602,7 @@ window.BOOK_DATA[3] = {
           "prép",
           "fr/11313.mp3",
           "zh/11313.mp3",
-          "",
+          "zai4 …… chu1 qi1 / kai1 shi3 shi2",
           "—"
         ],
         [
@@ -611,7 +611,7 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11314.mp3",
           "zh/11314.mp3",
-          "",
+          "shang4 wu3",
           "[matɛ̃]"
         ],
         [
@@ -620,7 +620,7 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11315.mp3",
           "zh/11315.mp3",
-          "",
+          "zhong1 wu3",
           "[midi]"
         ],
         [
@@ -629,7 +629,7 @@ window.BOOK_DATA[3] = {
           "inv.",
           "fr/11316.mp3",
           "zh/11316.mp3",
-          "",
+          "xia4 wu3",
           "[aprəmidi]"
         ],
         [
@@ -638,7 +638,7 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11317.mp3",
           "zh/11317.mp3",
-          "",
+          "huang2 hun1",
           "[krepyskyl]"
         ],
         [
@@ -647,7 +647,7 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11318.mp3",
           "zh/11318.mp3",
-          "",
+          "wan3 shang4",
           "[swa:r]"
         ],
         [
@@ -656,7 +656,7 @@ window.BOOK_DATA[3] = {
           "f.",
           "fr/11319.mp3",
           "zh/11319.mp3",
-          "",
+          "wan3 shang4",
           "[swarɛ]"
         ],
         [
@@ -665,7 +665,7 @@ window.BOOK_DATA[3] = {
           "m.",
           "fr/11320.mp3",
           "zh/11320.mp3",
-          "",
+          "ban4 ye4",
           "[minɥi]"
         ],
         [
@@ -674,7 +674,7 @@ window.BOOK_DATA[3] = {
           "n.",
           "fr/11321.mp3",
           "zh/11321.mp3",
-          "",
+          "shui4 jiao4 shi2 jian1",
           "—"
         ],
         [
@@ -683,7 +683,7 @@ window.BOOK_DATA[3] = {
           "f.",
           "fr/11322.mp3",
           "zh/11322.mp3",
-          "",
+          "shi2 nian2",
           "[dekad]"
         ],
         [
@@ -692,7 +692,7 @@ window.BOOK_DATA[3] = {
           "prép",
           "fr/11323.mp3",
           "zh/11323.mp3",
-          "",
+          "zai4 …… zhi1 qian2",
           "[avɑ̃]"
         ],
         [
@@ -701,7 +701,7 @@ window.BOOK_DATA[3] = {
           "prép",
           "fr/11324.mp3",
           "zh/11324.mp3",
-          "",
+          "zai4 …… zhi1 hou4",
           "[aprɛ]"
         ],
         [
@@ -710,7 +710,7 @@ window.BOOK_DATA[3] = {
           "prép",
           "fr/11325.mp3",
           "zh/11325.mp3",
-          "",
+          "zai4 …… qi1 jian1",
           "[dyrɑ̃]"
         ],
         [
@@ -719,7 +719,7 @@ window.BOOK_DATA[3] = {
           "adv",
           "fr/11326.mp3",
           "zh/11326.mp3",
-          "",
+          "yi3 qian2",
           "[otrəfwa]"
         ],
         [
@@ -728,7 +728,7 @@ window.BOOK_DATA[3] = {
           "prép",
           "fr/11327.mp3",
           "zh/11327.mp3",
-          "",
+          "zai4 …… qi1 jian1",
           "—"
         ],
         [
@@ -737,7 +737,7 @@ window.BOOK_DATA[3] = {
           "prép",
           "fr/11328.mp3",
           "zh/11328.mp3",
-          "",
+          "he2 shi2",
           "[kɑ̃]"
         ],
         [
@@ -746,7 +746,7 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11329.mp3",
           "zh/11329.mp3",
-          "",
+          "xian1 qian2 de5",
           "[presedɑ̃, ɑ̃:t]"
         ],
         [
@@ -755,7 +755,7 @@ window.BOOK_DATA[3] = {
           "短",
           "fr/11330.mp3",
           "zh/11330.mp3",
-          "",
+          "kong1 qian2 de5",
           "—"
         ]
       ],
@@ -766,7 +766,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11331.mp3",
           "zh/11331.mp3",
-          "",
+          "Nous sommes à l'aube d'un monde nouveau.",
           ""
         ],
         [
@@ -775,7 +775,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11332.mp3",
           "zh/11332.mp3",
-          "",
+          "Elles ont l'air si dolent à l'heure du crépuscule.",
           ""
         ],
         [
@@ -784,7 +784,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11333.mp3",
           "zh/11333.mp3",
-          "",
+          "Autrefois, les Romains fêtaient les saturnales.",
           ""
         ],
         [
@@ -793,7 +793,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11334.mp3",
           "zh/11334.mp3",
-          "",
+          "Chaque jour, je me couche à minuit.",
           ""
         ],
         [
@@ -802,7 +802,7 @@ window.BOOK_DATA[3] = {
           "",
           "fr/11335.mp3",
           "zh/11335.mp3",
-          "",
+          "C'est une catastrophe sans précédent.",
           ""
         ]
       ],
@@ -813,7 +813,7 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11336.mp3",
           "zh/11336.mp3",
-          "",
+          "xin1 de5",
           "[nuvo]"
         ],
         [
@@ -822,7 +822,7 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11337.mp3",
           "zh/11337.mp3",
-          "",
+          "bei1 tong4 de5",
           "[dɔlɑ̃, ɑ̃:t]"
         ],
         [
@@ -831,7 +831,7 @@ window.BOOK_DATA[3] = {
           "adj.",
           "fr/11338.mp3",
           "zh/11338.mp3",
-          "",
+          "mei3 ge4 ， ge4 ge4",
           "[ʃak]"
         ],
         [
@@ -840,7 +840,7 @@ window.BOOK_DATA[3] = {
           "v.",
           "fr/11339.mp3",
           "zh/11339.mp3",
-          "",
+          "shi3 shui4 xia4",
           "[kuʃe]"
         ],
         [
@@ -849,7 +849,7 @@ window.BOOK_DATA[3] = {
           "nf.",
           "fr/11340.mp3",
           "zh/11340.mp3",
-          "",
+          "zai1 nan4",
           "[katastrɔf]"
         ]
       ]
@@ -3290,1018 +3290,6 @@ window.BOOK_DATA[3] = {
           "zh/11501.mp3",
           "xue2 xiao4 ， jiao4 yu4",
           "ekɔl"
-        ]
-      ]
-    },
-    {
-      "no": 13,
-      "name": "眼疾",
-      "w": [
-        [
-          "瞳孔",
-          "l pupille",
-          "f",
-          "fr/02983.mp3",
-          "zh/02983.mp3",
-          "tóng kǒng",
-          "pypij"
-        ],
-        [
-          "角膜的",
-          "cornéenenne",
-          "",
-          "fr/02984.mp3",
-          "zh/02984.mp3",
-          "jiǎo mó de",
-          "korne,en"
-        ],
-        [
-          "移植",
-          "transplanter r",
-          "",
-          "fr/02985.mp3",
-          "zh/02985.mp3",
-          "yí zhí",
-          "träspláte"
-        ],
-        [
-          "视力",
-          "vision",
-          "",
-          "fr/02986.mp3",
-          "zh/02986.mp3",
-          "shì lì",
-          "vizj5"
-        ],
-        [
-          "视力表",
-          "tableau visuel",
-          "m.",
-          "fr/02987.mp3",
-          "zh/02987.mp3",
-          "shì lì biǎo",
-          "tablo vizyel"
-        ],
-        [
-          "近视",
-          "myopie",
-          "f",
-          "fr/02988.mp3",
-          "zh/02988.mp3",
-          "jìn shì",
-          "mjopi"
-        ],
-        [
-          "近视者",
-          "myope",
-          "",
-          "fr/02989.mp3",
-          "zh/02989.mp3",
-          "jìn shì zhě",
-          "mjp"
-        ],
-        [
-          "有视力的",
-          "voyante",
-          "",
-          "fr/02990.mp3",
-          "zh/02990.mp3",
-          "yǒu shì lì de",
-          "vwajá, át"
-        ],
-        [
-          "色盲的",
-          "daltonien enne",
-          "",
-          "fr/02991.mp3",
-          "zh/02991.mp3",
-          "sè máng de",
-          "daltonj&,en"
-        ],
-        [
-          "远视",
-          "visionéloignée",
-          "f.",
-          "fr/02992.mp3",
-          "zh/02992.mp3",
-          "yuǎn shì",
-          "vizj5 elwane"
-        ],
-        [
-          "弱视",
-          "amblyopie /.",
-          "",
-          "fr/02993.mp3",
-          "zh/02993.mp3",
-          "ruò shì",
-          "ablijopi"
-        ],
-        [
-          "弱视者",
-          "amblyope",
-          "",
-          "fr/02994.mp3",
-          "zh/02994.mp3",
-          "ruò shì zhě",
-          "áblijop"
-        ],
-        [
-          "看不清的",
-          "trouble",
-          "",
-          "fr/02995.mp3",
-          "zh/02995.mp3",
-          "kàn bù qīng de",
-          "trubl"
-        ],
-        [
-          "眼科",
-          "ophtalmologie [Dftalmolzil/.",
-          "",
-          "fr/02996.mp3",
-          "zh/02996.mp3",
-          "yǎn kē",
-          ""
-        ],
-        [
-          "发炎",
-          "inflammation ].",
-          "",
-          "fr/02997.mp3",
-          "zh/02997.mp3",
-          "fā yán",
-          "Eflamasjδ"
-        ],
-        [
-          "失去",
-          "perdre",
-          "",
-          "fr/02998.mp3",
-          "zh/02998.mp3",
-          "shī qù",
-          "perdr"
-        ],
-        [
-          "白内障",
-          "cataracte ]",
-          "",
-          "fr/02999.mp3",
-          "zh/02999.mp3",
-          "bái nèi zhàng",
-          "katarakt"
-        ],
-        [
-          "青光眼",
-          "glaucome",
-          "m.",
-          "fr/03000.mp3",
-          "zh/03000.mp3",
-          "qīng guāng yǎn",
-          "glokom"
-        ]
-      ],
-      "s": [
-        [
-          "Elle est presque aveugle et parfois je vais trouver son cheveu dans la soupe./L TA",
-          "她几乎瞎了有时候我会在汤里找到她的头发。",
-          "《玛丽和马克思》",
-          "fr/03001.mp3",
-          "zh/03001.mp3",
-          "tā jī hū xiā le yǒu shí hòu wǒ huì zài tāng lǐ zhǎo dào tā de tóu fà",
-          ""
-        ],
-        [
-          "Cest sa vision des choses qui mérite d'étre enregistrée.",
-          "这是她对事情的看法，值得纪录。",
-          "",
-          "fr/03002.mp3",
-          "zh/03002.mp3",
-          "zhè shì tā duì shì qíng de kàn fǎ zhí de jì lù",
-          ""
-        ],
-        [
-          "La myopie est tres ré- pandue aujourdhui.",
-          "现在近视眼很普遍。",
-          "",
-          "fr/03003.mp3",
-          "zh/03003.mp3",
-          "xiàn zài jìn shì yǎn hěn pǔ biàn",
-          ""
-        ],
-        [
-          "Il fait bon pecher en cau trouble.",
-          "混水好摸鱼",
-          "",
-          "fr/03004.mp3",
-          "zh/03004.mp3",
-          "hùn shuǐ hǎo mō yú",
-          ""
-        ],
-        [
-          "Il sagit d'une inflamma tion de la membrane entou- rant le cur.",
-          "那是心脏周围隔膜的一种炎症。",
-          "一《绝望的主妇》",
-          "fr/03005.mp3",
-          "zh/03005.mp3",
-          "nà shì xīn zàng zhōu wéi gé mó de yī zhǒng yán zhèng",
-          ""
-        ],
-        [
-          "Les gens savent toujours cherir apres avoir perdu.",
-          "人总是在失去之后才知道珍惜。",
-          "",
-          "fr/03006.mp3",
-          "zh/03006.mp3",
-          "rén zǒng shì zài shī qù zhī hòu cái zhī dào zhēn xī",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "瞎的",
-          "aveugle",
-          "adj.",
-          "fr/03007.mp3",
-          "zh/03007.mp3",
-          "xiā de",
-          "avgl"
-        ],
-        [
-          "钓鱼",
-          "pecher",
-          "vt.",
-          "fr/03008.mp3",
-          "zh/03008.mp3",
-          "diào yú",
-          "pee"
-        ],
-        [
-          "",
-          "entourant",
-          "adj",
-          "fr/03009.mp3",
-          "",
-          "",
-          "áturá"
-        ],
-        [
-          "周围的",
-          "",
-          "",
-          "",
-          "zh/03010.mp3",
-          "zhōu wéi de",
-          ""
-        ],
-        [
-          "珍爱",
-          "chérir erir] v",
-          "",
-          "fr/03011.mp3",
-          "zh/03011.mp3",
-          "zhēn ài",
-          ""
-        ]
-      ]
-    },
-    {
-      "no": 14,
-      "name": "常见中西药",
-      "w": [
-        [
-          "药房",
-          "pharmacie ].",
-          "",
-          "fr/03012.mp3",
-          "zh/03012.mp3",
-          "yào fáng",
-          "farmasi"
-        ],
-        [
-          "药物",
-          "médicament",
-          "m.",
-          "fr/03013.mp3",
-          "zh/03013.mp3",
-          "yào wù",
-          "medikamá"
-        ],
-        [
-          "药片",
-          "comprimé",
-          "m.",
-          "fr/03014.mp3",
-          "zh/03014.mp3",
-          "yào piàn",
-          "kšprime"
-        ],
-        [
-          "止疼药",
-          "analgésique",
-          "m.",
-          "fr/03015.mp3",
-          "zh/03015.mp3",
-          "zhǐ téng yào",
-          "analzezik"
-        ],
-        [
-          "止疼片",
-          "anodin",
-          "m.",
-          "fr/03016.mp3",
-          "zh/03016.mp3",
-          "zhǐ téng piàn",
-          "anode"
-        ],
-        [
-          "阿司匹林",
-          "aspirine",
-          "f.",
-          "fr/03017.mp3",
-          "zh/03017.mp3",
-          "ā sī pǐ lín",
-          "aspirin"
-        ],
-        [
-          "青霉素",
-          "pénicilline",
-          "f.",
-          "fr/03018.mp3",
-          "zh/03018.mp3",
-          "qīng méi sù",
-          "penisilin"
-        ],
-        [
-          "维生素",
-          "vitamine ].",
-          "",
-          "fr/03019.mp3",
-          "zh/03019.mp3",
-          "wéi shēng sù",
-          "vitamin"
-        ],
-        [
-          "安定",
-          "stable",
-          "",
-          "fr/03020.mp3",
-          "zh/03020.mp3",
-          "ān dìng",
-          "stabl"
-        ],
-        [
-          "安定剂",
-          "neuroleptique",
-          "m.",
-          "fr/03021.mp3",
-          "zh/03021.mp3",
-          "ān dìng jì",
-          "noroleptik"
-        ],
-        [
-          "葡萄糖",
-          "glucose",
-          "m.",
-          "fr/03022.mp3",
-          "zh/03022.mp3",
-          "pú táo táng",
-          "glykoz"
-        ],
-        [
-          "说明书",
-          "prospectus",
-          "m.",
-          "fr/03023.mp3",
-          "zh/03023.mp3",
-          "shuō míng shū",
-          "prospektys"
-        ],
-        [
-          "板蓝根",
-          "Radix lsatidis",
-          "",
-          "fr/03024.mp3",
-          "zh/03024.mp3",
-          "bǎn lán gēn",
-          "radiks izatitis"
-        ],
-        [
-          "当归",
-          "liguistique f,",
-          "",
-          "fr/03025.mp3",
-          "zh/03025.mp3",
-          "dāng guī",
-          "ligistik"
-        ],
-        [
-          "鹿茸",
-          "andouiller",
-          "m.",
-          "fr/03026.mp3",
-          "zh/03026.mp3",
-          "lù rōng",
-          "áduje"
-        ],
-        [
-          "人参",
-          "ginseng",
-          "m.",
-          "fr/03027.mp3",
-          "zh/03027.mp3",
-          "rén shēn",
-          "3insen"
-        ]
-      ],
-      "s": [
-        [
-          "Prendre le chemin quon veux prendre,faire les choses qu'on veux faire,parce qu'il n'y a pas de médicament du regret a vendre dans ce monde.",
-          "走自己想走的路，做自己想做的事情，因为这世界上没有后悔药可买。",
-          "",
-          "fr/03028.mp3",
-          "zh/03028.mp3",
-          "zǒu zì jǐ xiǎng zǒu de lù zuò zì jǐ xiǎng zuò de shì qíng yīn wèi zhè shì jiè shàng méi yǒu hòu huǐ yào kě mǎi",
-          ""
-        ],
-        [
-          "Prenez ce médicament un comprime chaque fois, quatre heures par fois.- HX",
-          "这种药每次一片四小时一次",
-          "",
-          "fr/03029.mp3",
-          "zh/03029.mp3",
-          "zhè zhǒng yào měi cì yī piàn sì xiǎo shí yī cì",
-          ""
-        ],
-        [
-          "Je lui demanderais de manger des vitamines a des heures régulieres.",
-          "我会督促他按时吃维他命的。",
-          "《闻女孩》",
-          "fr/03030.mp3",
-          "zh/03030.mp3",
-          "wǒ huì dū cù tā àn shí chī wéi tā mìng de",
-          ""
-        ],
-        [
-          "Nous avons essayé de conserver des prix stables.",
-          "我们力图保持价格稳定。",
-          "",
-          "fr/03031.mp3",
-          "zh/03031.mp3",
-          "wǒ men lì tú bǎo chí jià gé wěn dìng",
-          ""
-        ],
-        [
-          "Les chercheurs ont mis en évidence comment le sucre contenu dans la nourriture, le glucose,peut empecher les cellules du cerveau de pro- duire des signaux qui nous tiennentéveillées. T+",
-          "研究人员指出了食物中所含的糖分即葡萄糖，是如何阻止脑细胞向我们发送清醒信号的。",
-          "",
-          "fr/03032.mp3",
-          "zh/03032.mp3",
-          "yán jiū rén yuán zhǐ chū le shí wù zhōng suǒ hán de táng fēn jí pú táo táng shì rú hé zǔ zhǐ nǎo xì bāo xiàng wǒ men fā sòng qīng xǐng xìn hào de",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "皖惜",
-          "regret",
-          "n.m.",
-          "fr/03033.mp3",
-          "zh/03033.mp3",
-          "wǎn xī",
-          "ragre"
-        ],
-        [
-          "大脑",
-          "cerveau",
-          "n.m.",
-          "fr/03034.mp3",
-          "zh/03034.mp3",
-          "dà nǎo",
-          "servo"
-        ]
-      ]
-    },
-    {
-      "no": 15,
-      "name": "住院出院",
-      "w": [
-        [
-          "送入医院",
-          "admission a l'höpital",
-          "",
-          "fr/03035.mp3",
-          "zh/03035.mp3",
-          "sòng rù yī yuàn",
-          "admisj5a lopital"
-        ],
-        [
-          "住院治疗",
-          "hospitalisa- tion",
-          "f.",
-          "fr/03036.mp3",
-          "zh/03036.mp3",
-          "zhù yuàn zhì liáo",
-          "ospitalizasj5"
-        ],
-        [
-          "救护车",
-          "automobile sanitaire",
-          "m.",
-          "fr/03037.mp3",
-          "zh/03037.mp3",
-          "jiù hù chē",
-          "otomobil saniter"
-        ],
-        [
-          "接收入院",
-          "admettre un malade a l'hpital",
-          "",
-          "fr/03038.mp3",
-          "zh/03038.mp3",
-          "jiē shōu rù yuàn",
-          "admetr malad a lopital"
-        ],
-        [
-          "诊断",
-          "diagnostic",
-          "m.",
-          "fr/03039.mp3",
-          "zh/03039.mp3",
-          "zhěn duàn",
-          "djagnostik"
-        ],
-        [
-          "出院励死亡",
-          "quitter I'höpital Emourir i",
-          "",
-          "fr/03040.mp3",
-          "zh/03040.mp3",
-          "chū yuàn lì sǐ wáng",
-          "kite lopital"
-        ],
-        [
-          "医药费",
-          "frais médicaux",
-          "m",
-          "fr/03041.mp3",
-          "zh/03041.mp3",
-          "yī yào fèi",
-          "fre mediko"
-        ],
-        [
-          "关心励照料",
-          "se soucier de s'occuper de",
-          "",
-          "fr/03042.mp3",
-          "zh/03042.mp3",
-          "guān xīn lì zhào liào",
-          "sa susje da"
-        ],
-        [
-          "看护",
-          "surveiller .",
-          "",
-          "fr/03043.mp3",
-          "zh/03043.mp3",
-          "kān hù",
-          "syrveje"
-        ],
-        [
-          "限制",
-          "limiter",
-          "",
-          "fr/03044.mp3",
-          "zh/03044.mp3",
-          "xiàn zhì",
-          "limite"
-        ],
-        [
-          "过敏",
-          "allergie[alerzi",
-          "",
-          "fr/03045.mp3",
-          "zh/03045.mp3",
-          "guò mǐn",
-          ""
-        ],
-        [
-          "健康状况",
-          "état de santé",
-          "m.",
-          "fr/03046.mp3",
-          "zh/03046.mp3",
-          "jiàn kāng zhuàng kuàng",
-          "eta da säte"
-        ],
-        [
-          "住院医师",
-          "omniprati- cien",
-          "m.",
-          "fr/03047.mp3",
-          "zh/03047.mp3",
-          "zhù yuàn yī shī",
-          "omnipratisjê"
-        ],
-        [
-          "医务室",
-          "infirmerie ].",
-          "",
-          "fr/03048.mp3",
-          "zh/03048.mp3",
-          "yī wù shì",
-          "&firmari"
-        ]
-      ],
-      "s": [
-        [
-          "De retour a Paris, le dia gnostic du medecin tombe:il est en depression.",
-          "回到巴黎后，医生的诊断：他得了抑郁症。",
-          "",
-          "fr/03049.mp3",
-          "zh/03049.mp3",
-          "huí dào bā lí hòu yī shēng de zhěn duàn tā dé le yì yù zhèng",
-          ""
-        ],
-        [
-          "Laissez-la partir, ou vous etes mort. T",
-          "放开她不然你就死定了",
-          "《英雄》",
-          "fr/03050.mp3",
-          "zh/03050.mp3",
-          "fàng kāi tā bù rán nǐ jiù sǐ dìng le",
-          ""
-        ],
-        [
-          "Nous devons apprendre a nous soucier,plutot que de compter sur les autres. AEXT",
-          "我们要学会自己关心自己而不是一味依靠别人。",
-          "",
-          "fr/03051.mp3",
-          "zh/03051.mp3",
-          "wǒ men yào xué huì zì jǐ guān xīn zì jǐ ér bú shì yī wèi yī kào bié rén",
-          ""
-        ],
-        [
-          "Le petit prince enferme sa fleur toutes les nuits sous son globe de verre,et il surveille bien son monton.",
-          "不至于每天夜里都用玻璃罩着他的花，而且会把他的羊看管好。",
-          "《小王子》",
-          "fr/03052.mp3",
-          "zh/03052.mp3",
-          "bù zhì yú měi tiān yè lǐ dōu yòng bō lí zhào zhe tā de huā ér qiě huì bǎ tā de yáng kān guǎn hǎo",
-          ""
-        ],
-        [
-          "Il faut limiter la vitesse des voitures afin qu'il y ait moins daccidents.",
-          "应该限制车速，以便减少车祸。",
-          "",
-          "fr/03053.mp3",
-          "zh/03053.mp3",
-          "yīng gāi xiàn zhì chē sù yǐ biàn jiǎn shǎo chē huò",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "",
-          "dépression",
-          "",
-          "fr/03054.mp3",
-          "",
-          "",
-          "depresj5"
-        ],
-        [
-          "抑郁消沉",
-          "nf..",
-          "",
-          "fr/03055.mp3",
-          "zh/03055.mp3",
-          "yì yù xiāo chén",
-          ""
-        ],
-        [
-          "宁可",
-          "plutöt",
-          "adv.",
-          "fr/03056.mp3",
-          "zh/03056.mp3",
-          "nìng kě",
-          "plyto"
-        ],
-        [
-          "依靠依赖",
-          "compter sur",
-          "",
-          "fr/03057.mp3",
-          "zh/03057.mp3",
-          "yī kào yī lài",
-          ""
-        ]
-      ]
-    },
-    {
-      "no": 16,
-      "name": "手术",
-      "w": [
-        [
-          "做手术",
-          "fabriquer opération",
-          "f.",
-          "fr/03058.mp3",
-          "zh/03058.mp3",
-          "zuò shǒu shù",
-          "fabrike"
-        ],
-        [
-          "动手术",
-          "effectuer une opération t",
-          "",
-          "fr/03059.mp3",
-          "zh/03059.mp3",
-          "dòng shǒu shù",
-          "efektue yn opera(a)sj5"
-        ],
-        [
-          "手术台",
-          "table d'opéra tion /.",
-          "",
-          "fr/03060.mp3",
-          "zh/03060.mp3",
-          "shǒu shù tái",
-          "tablopera(a)sjδ"
-        ],
-        [
-          "手术衣",
-          "blouse opéra toire",
-          "f.",
-          "fr/03061.mp3",
-          "zh/03061.mp3",
-          "shǒu shù yī",
-          "blu:zno ope- ratwar"
-        ],
-        [
-          "手术",
-          "opération chirurgicale",
-          "f",
-          "fr/03062.mp3",
-          "zh/03062.mp3",
-          "shǒu shù",
-          "opera(a sjöSiryrzikal"
-        ],
-        [
-          "手术刀",
-          "bistouribisturi]",
-          "m",
-          "fr/03063.mp3",
-          "zh/03063.mp3",
-          "shǒu shù dāo",
-          ""
-        ],
-        [
-          "手术疗法",
-          "traitement opératoire",
-          "m.",
-          "fr/03064.mp3",
-          "zh/03064.mp3",
-          "shǒu shù liáo fǎ",
-          "tretmä operatwar"
-        ],
-        [
-          "机械",
-          "mécanique",
-          "f.",
-          "fr/03065.mp3",
-          "zh/03065.mp3",
-          "jī xiè",
-          "mekanik"
-        ],
-        [
-          "外科的",
-          "chirurgical,e",
-          "",
-          "fr/03066.mp3",
-          "zh/03066.mp3",
-          "wài kē de",
-          "Jiryrzikal"
-        ],
-        [
-          "生命",
-          "vie",
-          "f",
-          "fr/03067.mp3",
-          "zh/03067.mp3",
-          "shēng mìng",
-          "vi"
-        ],
-        [
-          "镊子",
-          "pince",
-          "",
-          "fr/03068.mp3",
-          "zh/03068.mp3",
-          "niè zi",
-          "ps"
-        ],
-        [
-          "缝合",
-          "suturer",
-          "",
-          "fr/03069.mp3",
-          "zh/03069.mp3",
-          "féng hé",
-          "sytyre"
-        ],
-        [
-          "切除",
-          "exciser",
-          "",
-          "fr/03070.mp3",
-          "zh/03070.mp3",
-          "qiē chú",
-          "eksize"
-        ],
-        [
-          "麻醉",
-          "anesthésie",
-          "f.",
-          "fr/03071.mp3",
-          "zh/03071.mp3",
-          "má zuì",
-          "anestezi"
-        ],
-        [
-          "使麻醉",
-          "anesthésier",
-          "",
-          "fr/03072.mp3",
-          "zh/03072.mp3",
-          "shǐ má zuì",
-          "anestezje"
-        ],
-        [
-          "麻醉师",
-          "anesthesio- logue",
-          "",
-          "fr/03073.mp3",
-          "zh/03073.mp3",
-          "má zuì shī",
-          "anesteziolok"
-        ],
-        [
-          "麻醉药",
-          "drogue[drogl",
-          "f",
-          "fr/03074.mp3",
-          "zh/03074.mp3",
-          "má zuì yào",
-          ""
-        ],
-        [
-          "麻醉剂",
-          "anesthesiant",
-          "m.",
-          "fr/03075.mp3",
-          "zh/03075.mp3",
-          "má zuì jì",
-          "anestezjä"
-        ],
-        [
-          "无菌的",
-          "stérile",
-          "",
-          "fr/03076.mp3",
-          "zh/03076.mp3",
-          "wú jūn de",
-          "steril"
-        ],
-        [
-          "手术",
-          "effectuer une operation",
-          "",
-          "fr/03077.mp3",
-          "zh/03077.mp3",
-          "shǒu shù",
-          ""
-        ],
-        [
-          "神经",
-          "nerf",
-          "m",
-          "fr/03078.mp3",
-          "zh/03078.mp3",
-          "shén jīng",
-          "ner"
-        ]
-      ],
-      "s": [
-        [
-          "Depuis son operation,il marchedifficilement. A",
-          "自从做了手术他走路很困难",
-          "",
-          "fr/03079.mp3",
-          "zh/03079.mp3",
-          "zì cóng zuò le shǒu shù tā zǒu lù hěn kùn nán",
-          ""
-        ],
-        [
-          "Si tu persistais á refuser cette intervention chirurgi cale, alors tu ne pourrais rester qu'a la maison et ne pourrais rien afaire. 1T",
-          "如果你坚持拒绝外科手术，那你就只能待在家里什么事情也不能千",
-          "",
-          "fr/03080.mp3",
-          "zh/03080.mp3",
-          "rú guǒ nǐ jiān chí jù jué wài kē shǒu shù nà nǐ jiù zhǐ néng dài zài jiā lǐ shén me shì qíng yě bù néng qiān",
-          ""
-        ],
-        [
-          "Il,blessé en jouant au basketball, a recu 12 points de suture a la levre.",
-          "他在打篮球时受伤，嘴唇上被缝了12针。",
-          "",
-          "fr/03081.mp3",
-          "zh/03081.mp3",
-          "tā zài dǎ lán qiú shí shòu shāng zuǐ chún shàng bèi fèng le zhēn",
-          ""
-        ],
-        [
-          "L'opéré est sous anes- thesie.T",
-          "手术病人处于麻醉状态",
-          "",
-          "fr/03082.mp3",
-          "zh/03082.mp3",
-          "shǒu shù bìng rén chǔ yú má zuì zhuàng tài",
-          ""
-        ],
-        [
-          "Le nerf optique a été fr oisse.",
-          "视觉神经被压坏了",
-          "",
-          "fr/03083.mp3",
-          "zh/03083.mp3",
-          "shì jué shén jīng bèi yā huài le",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "",
-          "difficilement",
-          "",
-          "fr/03084.mp3",
-          "",
-          "",
-          "difisilmä"
-        ],
-        [
-          "困难地",
-          "ad",
-          "vt",
-          "fr/03085.mp3",
-          "zh/03085.mp3",
-          "kùn nán dì",
-          ""
-        ],
-        [
-          "",
-          "intervention",
-          "",
-          "fr/03086.mp3",
-          "",
-          "",
-          "&terväsj"
-        ],
-        [
-          "厂手术",
-          "",
-          "n.F",
-          "",
-          "zh/03087.mp3",
-          "chǎng shǒu shù",
-          ""
-        ],
-        [
-          "受伤的",
-          "blessé",
-          "adj.",
-          "fr/03088.mp3",
-          "zh/03088.mp3",
-          "shòu shāng de",
-          "bleese"
-        ],
-        [
-          "视觉",
-          "optique",
-          "nf.",
-          "fr/03089.mp3",
-          "zh/03089.mp3",
-          "shì jué",
-          "ptik"
-        ],
-        [
-          "损伤",
-          "froissé",
-          "vt.",
-          "fr/03090.mp3",
-          "zh/03090.mp3",
-          "sǔn shāng",
-          "frwase"
         ]
       ]
     }
