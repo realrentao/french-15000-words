@@ -901,7 +901,7 @@ window.BOOK_DATA[3] = {
           "fr/00102.mp3",
           "zh/00102.mp3",
           "wǔ",
-          "[sɛːk]"
+          "[sɛ̃:k]"
         ],
         [
           "六",
@@ -919,7 +919,7 @@ window.BOOK_DATA[3] = {
           "fr/00104.mp3",
           "zh/00104.mp3",
           "qī",
-          "[set]"
+          "[sɛt]"
         ],
         [
           "八",
@@ -928,7 +928,7 @@ window.BOOK_DATA[3] = {
           "fr/00105.mp3",
           "zh/00105.mp3",
           "bā",
-          "[vit]"
+          "[ɥit]"
         ],
         [
           "九",
@@ -955,7 +955,7 @@ window.BOOK_DATA[3] = {
           "fr/00108.mp3",
           "zh/00108.mp3",
           "shí yī",
-          "[ɔ̃z]"
+          "[ɔ̃:z]"
         ],
         [
           "十二",
@@ -964,7 +964,7 @@ window.BOOK_DATA[3] = {
           "fr/00109.mp3",
           "zh/00109.mp3",
           "shí èr",
-          "[duːz]"
+          "[du:z]"
         ],
         [
           "十三",
@@ -973,7 +973,7 @@ window.BOOK_DATA[3] = {
           "fr/00110.mp3",
           "zh/00110.mp3",
           "shí sān",
-          "[trɛːz]"
+          "[trɛ:z]"
         ],
         [
           "十四",
@@ -991,7 +991,7 @@ window.BOOK_DATA[3] = {
           "fr/00112.mp3",
           "zh/00112.mp3",
           "shí wǔ",
-          "[kɛːz]"
+          "[kɛ̃:z]"
         ],
         [
           "十六",
@@ -1000,7 +1000,7 @@ window.BOOK_DATA[3] = {
           "fr/00113.mp3",
           "zh/00113.mp3",
           "shí liù",
-          "[sɛːz]"
+          "[sɛ:z]"
         ],
         [
           "十七",
@@ -1018,7 +1018,7 @@ window.BOOK_DATA[3] = {
           "fr/00115.mp3",
           "zh/00115.mp3",
           "shí bā",
-          "[dizvit]"
+          "[dizɥit]"
         ],
         [
           "十九",
@@ -1045,7 +1045,7 @@ window.BOOK_DATA[3] = {
           "fr/00118.mp3",
           "zh/00118.mp3",
           "èr shí yī",
-          "[vɛ̃-ə-œ̃]"
+          "[vɛ̃-e-œ̃]"
         ],
         [
           "二十二",
@@ -1081,7 +1081,7 @@ window.BOOK_DATA[3] = {
           "fr/00122.mp3",
           "zh/00122.mp3",
           "èr shí wǔ",
-          "[vɛ̃-sɛːk]"
+          "[vɛ̃-sɛ̃:k]"
         ]
       ],
       "s": [
@@ -1130,7 +1130,7 @@ window.BOOK_DATA[3] = {
           "fr/00127.mp3",
           "zh/00128.mp3",
           "yǒng qì",
-          "[kuraːʒ]"
+          "[kura:ʒ]"
         ],
         [
           "因素",
@@ -1139,7 +1139,7 @@ window.BOOK_DATA[3] = {
           "fr/00129.mp3",
           "zh/00130.mp3",
           "yīn sù",
-          "[faktœːr]"
+          "[faktœ:r]"
         ],
         [
           "生命的",
@@ -1166,7 +1166,7 @@ window.BOOK_DATA[3] = {
           "fr/00135.mp3",
           "zh/00137.mp3",
           "kě pà de ，kǒng bù de",
-          "[tɛ(ə)rifjɑ̃, ɑ̃t]"
+          "[tɛ(e)rifjɑ̃, ɑ̃t]"
         ],
         [
           "失去，丧失",
@@ -1186,38 +1186,38 @@ window.BOOK_DATA[3] = {
         [
           "二十六",
           "vingt-six",
-          "",
+          "名",
           "fr/00140.mp3",
           "zh/00140.mp3",
           "èr shí liù",
-          "v-sis"
+          "[vɛ̃-sis]"
         ],
         [
           "二十七",
           "vingt-sept",
-          "",
+          "名",
           "fr/00141.mp3",
           "zh/00141.mp3",
           "èr shí qī",
-          "v&-set"
+          "[vɛ̃-sɛt]"
         ],
         [
           "二十八",
           "vingt-huit",
-          "",
+          "名",
           "fr/00142.mp3",
           "zh/00142.mp3",
           "èr shí bā",
-          "v-yit"
+          "[vɛ̃-ɥit]"
         ],
         [
           "二十九",
           "vingt-neuf",
-          "inv",
+          "名 inv.",
           "fr/00143.mp3",
           "zh/00143.mp3",
           "èr shí jiǔ",
-          "v-ncf"
+          "[vɛ̃-nœf]"
         ],
         [
           "三十",
@@ -1226,7 +1226,7 @@ window.BOOK_DATA[3] = {
           "fr/00144.mp3",
           "zh/00144.mp3",
           "sān shí",
-          "trat"
+          "[trã:t]"
         ],
         [
           "四十",
@@ -1235,7 +1235,7 @@ window.BOOK_DATA[3] = {
           "fr/00145.mp3",
           "zh/00145.mp3",
           "sì shí",
-          "karat"
+          "[karã:t]"
         ],
         [
           "五十",
@@ -1244,7 +1244,7 @@ window.BOOK_DATA[3] = {
           "fr/00146.mp3",
           "zh/00146.mp3",
           "wǔ shí",
-          "seka:t"
+          "[sɛ̃kã:t]"
         ],
         [
           "六十",
@@ -1253,7 +1253,7 @@ window.BOOK_DATA[3] = {
           "fr/00147.mp3",
           "zh/00147.mp3",
           "liù shí",
-          "swasá:t"
+          "[swasã:t]"
         ],
         [
           "七十",
@@ -1262,16 +1262,16 @@ window.BOOK_DATA[3] = {
           "fr/00148.mp3",
           "zh/00148.mp3",
           "qī shí",
-          "swasä:t-dis"
+          "[swasã:t-dis]"
         ],
         [
           "八十",
           "quatre-vingts",
-          "inv",
+          "inv.",
           "fr/00149.mp3",
           "zh/00149.mp3",
           "bā shí",
-          "katr-v&"
+          "[katr-vɛ̃]"
         ],
         [
           "九十",
@@ -1280,25 +1280,25 @@ window.BOOK_DATA[3] = {
           "fr/00150.mp3",
           "zh/00150.mp3",
           "jiǔ shí",
-          "katr-v&-dis"
+          "[katr-vɛ̃-dis]"
         ],
         [
           "一百",
           "cent",
-          "m",
+          "m.",
           "fr/00151.mp3",
           "zh/00151.mp3",
           "yì bǎi",
-          "sa"
+          "[sã]"
         ],
         [
           "一千",
           "mille",
-          "m",
+          "m.",
           "fr/00152.mp3",
           "zh/00152.mp3",
           "yī qiān",
-          "mil"
+          "[mil]"
         ],
         [
           "百万",
@@ -1307,16 +1307,16 @@ window.BOOK_DATA[3] = {
           "fr/00153.mp3",
           "zh/00153.mp3",
           "bǎi wàn",
-          "milj5"
+          "[miljɔ̃]"
         ],
         [
           "十亿",
           "milliard",
-          "m",
+          "m.",
           "fr/00154.mp3",
           "zh/00154.mp3",
           "shí yì",
-          "milja:r"
+          "[milja:r]"
         ],
         [
           "第一",
@@ -1325,7 +1325,7 @@ window.BOOK_DATA[3] = {
           "fr/00155.mp3",
           "zh/00155.mp3",
           "dì yī",
-          "pramje,er"
+          "[pramje, ɛ:r]"
         ],
         [
           "第二",
@@ -1334,7 +1334,7 @@ window.BOOK_DATA[3] = {
           "fr/00156.mp3",
           "zh/00156.mp3",
           "dì èr",
-          "dozjem"
+          "[døzjɛm]"
         ],
         [
           "第三",
@@ -1343,7 +1343,7 @@ window.BOOK_DATA[3] = {
           "fr/00157.mp3",
           "zh/00157.mp3",
           "dì sān",
-          "trwa(a)zjem"
+          "[trwa(a)zjɛm]"
         ],
         [
           "第四",
@@ -1352,7 +1352,7 @@ window.BOOK_DATA[3] = {
           "fr/00158.mp3",
           "zh/00158.mp3",
           "dì sì",
-          "katrijem"
+          "[katrijɛm]"
         ],
         [
           "第五",
@@ -1361,40 +1361,40 @@ window.BOOK_DATA[3] = {
           "fr/00159.mp3",
           "zh/00159.mp3",
           "dì wǔ",
-          "s&kjem"
+          "[sɛ̃kjɛm]"
         ],
         [
           "第六",
           "sixième",
-          "m",
+          "m.",
           "fr/00160.mp3",
           "zh/00160.mp3",
           "dì liù",
-          "sizjem"
+          "[sizjɛm]"
         ],
         [
           "第七",
           "septième",
-          "m",
+          "m.",
           "fr/00161.mp3",
           "zh/00161.mp3",
           "dì qī",
-          "setjem"
+          "[sɛtjɛm]"
         ],
         [
           "第八",
           "huitième",
-          "m",
+          "m.",
           "fr/00162.mp3",
           "zh/00162.mp3",
           "dì bā",
-          "uitjem"
+          "[ɥitjɛm]"
         ]
       ],
       "s": [
         [
-          "Paul va organiser trente- trois concerts dans le monde. A=+.",
-          "保罗今年将开三十三场演唱会",
+          "Paul va organiser trente-trois concerts dans le monde.",
+          "保罗今年将开三十三场演唱会。",
           "",
           "fr/00163.mp3",
           "zh/00163.mp3",
@@ -1402,25 +1402,25 @@ window.BOOK_DATA[3] = {
           ""
         ],
         [
-          "Le ADN de l'humain a 3 milliards sortes de combinai sons de genes.DNA",
-          "人类的有30亿种基因组合。",
-          "《英雄》",
+          "L'ADN de l'humain a 3 milliards sortes de combinaisons de gènes.",
+          "人类的 DNA 有 30 亿种基因组合。",
+          "——《英雄》",
           "fr/00164.mp3",
           "zh/00164.mp3",
-          "rén lèi de yǒu yì zhǒng jī yīn zǔ hé",
+          "rén lèi de DNA yǒu 30 yì zhǒng jī yīn zǔ hé",
           ""
         ],
         [
-          "Premiere qualit,la cr- dibilité de la suprématie\", c'est l'objectif de notre entre prise.-*",
-          "质量第一信誉至上是我们的经营宗旨。",
+          "\"Première qualité, la crédibilité de la suprématie\", c'est l'objectif de notre entreprise.",
+          "质量第一，信誉至上，是我们的经营宗旨。",
           "",
           "fr/00165.mp3",
           "zh/00165.mp3",
-          "zhì liàng dì yī xìn yù zhì shàng shì wǒ men de jīng yíng zōng zhǐ",
+          "zhì liàng dì yī ，xìn yù zhì shàng ，shì wǒ men de jīng yíng zōng zhǐ",
           ""
         ],
         [
-          "I y a cent moyens d'y arriver.",
+          "Il y a cent moyens d'y arriver.",
           "有很多办法可以达到目的。",
           "",
           "fr/00166.mp3",
@@ -1431,103 +1431,67 @@ window.BOOK_DATA[3] = {
       ],
       "e": [
         [
-          "品种种类",
+          "品种，种类",
           "sorte",
-          "",
+          "n.f.",
           "fr/00167.mp3",
           "zh/00167.mp3",
-          "pǐn zhǒng zhǒng lèi",
-          "sort"
-        ],
-        [
-          "",
-          "combinaison",
-          "",
-          "fr/00168.mp3",
-          "",
-          "",
-          "kSbinez"
+          "pǐn zhǒng ，zhǒng lèi",
+          "[sɔrt]"
         ],
         [
           "组合",
-          "",
-          "nf.",
-          "",
+          "combinaison",
+          "n.f.",
+          "fr/00168.mp3",
           "zh/00169.mp3",
           "zǔ hé",
-          ""
+          "[kɔ̃binɛzɔ̃]"
         ],
         [
           "质量",
           "qualité",
-          "nf.",
+          "n.f.",
           "fr/00170.mp3",
           "zh/00170.mp3",
           "zhì liàng",
-          "kalite"
-        ],
-        [
-          "",
-          "crédibilité",
-          "",
-          "fr/00171.mp3",
-          "",
-          "",
-          "kredibilite"
+          "[kalite]"
         ],
         [
           "可信性",
-          "",
-          "f.",
-          "",
+          "crédibilité",
+          "n.f.",
+          "fr/00171.mp3",
           "zh/00172.mp3",
           "kě xìn xìng",
-          ""
-        ],
-        [
-          "",
-          "suprématie",
-          "",
-          "fr/00173.mp3",
-          "",
-          "",
-          "sypremasi"
+          "[kredibilite]"
         ],
         [
           "最高权力",
-          "",
-          "nf",
-          "",
+          "suprématie",
+          "n.f.",
+          "fr/00173.mp3",
           "zh/00174.mp3",
           "zuì gāo quán lì",
-          ""
-        ],
-        [
-          "",
-          "entreprise",
-          "f",
-          "fr/00175.mp3",
-          "",
-          "",
-          "átrapriz"
+          "[sypremasi]"
         ],
         [
           "企业",
-          "",
-          "",
-          "",
+          "entreprise",
+          "n.f.",
+          "fr/00175.mp3",
           "zh/00176.mp3",
           "qǐ yè",
-          ""
+          "[ɑtrapri:z]"
         ],
         [
           "到达",
           "arriver",
-          "vi.",
+          "v.i.",
           "fr/00177.mp3",
           "zh/00177.mp3",
           "dào dá",
-          "arive"
+          "[arive]"
         ]
       ]
     },
@@ -1538,11 +1502,11 @@ window.BOOK_DATA[3] = {
         [
           "第九",
           "neuvième",
-          "m",
+          "m.",
           "fr/00178.mp3",
           "zh/00178.mp3",
           "dì jiǔ",
-          "ncevjem"
+          "[nœvjɛm]"
         ],
         [
           "第十",
@@ -1551,7 +1515,7 @@ window.BOOK_DATA[3] = {
           "fr/00179.mp3",
           "zh/00179.mp3",
           "dì shí",
-          "dizjem"
+          "[dizjɛm]"
         ],
         [
           "第十一",
@@ -1560,7 +1524,7 @@ window.BOOK_DATA[3] = {
           "fr/00180.mp3",
           "zh/00180.mp3",
           "dì shí yī",
-          "5zjem"
+          "[ɔ̃zjɛm]"
         ],
         [
           "第十二",
@@ -1569,7 +1533,7 @@ window.BOOK_DATA[3] = {
           "fr/00181.mp3",
           "zh/00181.mp3",
           "dì shí èr",
-          "duzjem"
+          "[duzjɛm]"
         ],
         [
           "第十三",
@@ -1578,16 +1542,16 @@ window.BOOK_DATA[3] = {
           "fr/00182.mp3",
           "zh/00182.mp3",
           "dì shí sān",
-          "trezjem"
+          "[trɛzjɛm]"
         ],
         [
           "第十四",
           "quatorzième",
-          "m",
+          "m.",
           "fr/00183.mp3",
           "zh/00183.mp3",
           "dì shí sì",
-          "katorzjem"
+          "[katɔrzjɛm]"
         ],
         [
           "第十五",
@@ -1596,7 +1560,7 @@ window.BOOK_DATA[3] = {
           "fr/00184.mp3",
           "zh/00184.mp3",
           "dì shí wǔ",
-          "kezjem"
+          "[kɛ̃zjɛm]"
         ],
         [
           "第十六",
@@ -1605,16 +1569,25 @@ window.BOOK_DATA[3] = {
           "fr/00185.mp3",
           "zh/00185.mp3",
           "dì shí liù",
-          "sezjem"
+          "[sɛzjɛm]"
         ],
         [
-          "第十七第十八",
-          "dix-septième /dix-huitième",
-          "",
+          "第十七",
+          "dix-septième",
+          "inv.",
           "fr/00186.mp3",
           "zh/00186.mp3",
-          "dì shí qī dì shí bā",
-          "dis-setjem"
+          "dì shí qī",
+          "[dis-sɛtjɛm]"
+        ],
+        [
+          "第十八",
+          "dix-huitième",
+          "inv.",
+          "fr/00392.mp3",
+          "zh/00392.mp3",
+          "dì shí bā",
+          "[dis-ɥitjɛm]"
         ],
         [
           "第十九",
@@ -1623,7 +1596,7 @@ window.BOOK_DATA[3] = {
           "fr/00187.mp3",
           "zh/00187.mp3",
           "dì shí jiǔ",
-          "dis-ncvjem"
+          "[dis-nœvjɛm]"
         ],
         [
           "第二十",
@@ -1632,7 +1605,7 @@ window.BOOK_DATA[3] = {
           "fr/00188.mp3",
           "zh/00188.mp3",
           "dì èr shí",
-          "vetjem"
+          "[vɛ̃tjɛm]"
         ],
         [
           "第三十",
@@ -1641,7 +1614,7 @@ window.BOOK_DATA[3] = {
           "fr/00189.mp3",
           "zh/00189.mp3",
           "dì sān shí",
-          "trátjem"
+          "[trɑ̃tjɛm]"
         ],
         [
           "第四十",
@@ -1650,7 +1623,7 @@ window.BOOK_DATA[3] = {
           "fr/00190.mp3",
           "zh/00190.mp3",
           "dì sì shí",
-          "karátjem"
+          "[karɑ̃tjɛm]"
         ],
         [
           "第五十",
@@ -1659,7 +1632,7 @@ window.BOOK_DATA[3] = {
           "fr/00191.mp3",
           "zh/00191.mp3",
           "dì wǔ shí",
-          "sekätjem"
+          "[sɛ̃kɑ̃tjɛm]"
         ],
         [
           "第六十",
@@ -1668,34 +1641,34 @@ window.BOOK_DATA[3] = {
           "fr/00192.mp3",
           "zh/00192.mp3",
           "dì liù shí",
-          "swasatjem"
+          "[swasɑ̃tjɛm]"
         ],
         [
           "第七十",
-          "soixante dixième",
-          "inv",
+          "soixante-dixième",
+          "inv.",
           "fr/00193.mp3",
           "zh/00193.mp3",
           "dì qī shí",
-          "swasät-dizjem"
+          "[swasɑ̃t-dizjɛm]"
         ],
         [
           "第八十",
-          "quatre-ving-tième",
-          "",
+          "quatre-vingtième",
+          "inv.",
           "fr/00194.mp3",
           "zh/00194.mp3",
           "dì bā shí",
-          "katr-vatjem"
+          "[katr-vɛ̃tjɛm]"
         ],
         [
           "第九十",
           "quatre-vingt-dixième",
-          "inv",
+          "inv.",
           "fr/00195.mp3",
           "zh/00195.mp3",
           "dì jiǔ shí",
-          "katr-v&-dizjem"
+          "[katr-vɛ̃-dizjɛm]"
         ],
         [
           "第一百",
@@ -1704,21 +1677,21 @@ window.BOOK_DATA[3] = {
           "fr/00196.mp3",
           "zh/00196.mp3",
           "dì yì bǎi",
-          "sätjem"
+          "[sɑ̃tjɛm]"
         ]
       ],
       "s": [
         [
-          "Tant que vous me donne un dixieme de la possibilite, et nous allons vous donner entiere satisfaction. +AZ-",
-          "只要你给我十分之一的机会我们会给你百分之百的满意：",
+          "Tant que vous me donnez un dixième de la possibilité, et nous allons vous donner entière satisfaction.",
+          "只要你给我十分之一的机会，我们会给你百分之百的满意。",
           "",
           "fr/00197.mp3",
           "zh/00197.mp3",
-          "zhǐ yào nǐ gěi wǒ shí fēn zhī yī de jī huì wǒ men huì gěi nǐ bǎi fēn zhī bǎi de mǎn yì",
+          "zhǐ yào nǐ gěi wǒ shí fēn zhī yī de jī huì ，wǒ men huì gěi nǐ bǎi fēn zhī bǎi de mǎn yì",
           ""
         ],
         [
-          "C'est le neuvieme jour, nous nerelions pas.",
+          "C'est le neuvième jour, nous ne nous relions pas.",
           "这是我们不联系的第九天。",
           "",
           "fr/00198.mp3",
@@ -1727,25 +1700,25 @@ window.BOOK_DATA[3] = {
           ""
         ],
         [
-          "Je te le répete pour la centieme fois.",
-          "我重复多遍了再向你重复一遍。",
+          "Je te le répète pour la centième fois.",
+          "我重复多遍了，再向你重复一遍。",
           "",
           "fr/00199.mp3",
           "zh/00199.mp3",
-          "wǒ chóng fù duō biàn le zài xiàng nǐ chóng fù yī biàn",
+          "wǒ chóng fù duō biàn le ，zài xiàng nǐ chóng fù yī biàn",
           ""
         ],
         [
-          "Monsieur Muyl est super riche,voila est son onzieme chateau.t,",
-          "弥勒先生超级富有这是他买的第十一座庄园。",
+          "Monsieur Muyl est super riche, voilà son onzième château.",
+          "弥勒先生超级富有，这是他买的第十一座庄园。",
           "",
           "fr/00200.mp3",
           "zh/00200.mp3",
-          "mí lè xiān shēng chāo jí fù yǒu zhè shì tā mǎi de dì shí yī zuò zhuāng yuán",
+          "mí lè xiān shēng chāo jí fù yǒu ，zhè shì tā mǎi de dì shí yī zuò zhuāng yuán",
           ""
         ],
         [
-          "Ce livre va nous expli- quer le futur antérieur dans le vingtieme lecon.",
+          "Ce livre va nous expliquer le futur antérieur dans la vingtième leçon.",
           "这本书的第二十课将为我们详细讲解先将来时的用法。",
           "",
           "fr/00201.mp3",
@@ -1756,103 +1729,58 @@ window.BOOK_DATA[3] = {
       ],
       "e": [
         [
-          "",
-          "possibilité",
-          "",
-          "fr/00202.mp3",
-          "",
-          "",
-          "posibilite"
-        ],
-        [
           "可能性",
-          "",
-          "f.",
-          "",
+          "possibilité",
+          "n.f.",
+          "fr/00202.mp3",
           "zh/00203.mp3",
           "kě néng xìng",
-          ""
+          "[pɔsibilite]"
         ],
         [
-          "",
+          "满足，满意",
           "satisfaction",
-          "",
+          "n.f.",
           "fr/00204.mp3",
-          "",
-          "",
-          "satisfaksj5"
-        ],
-        [
-          "满足满意",
-          "",
-          "",
-          "",
           "zh/00205.mp3",
-          "mǎn zú mǎn yì",
-          ""
+          "mǎn zú ，mǎn yì",
+          "[satisfaksjɔ̃]"
         ],
         [
-          "",
+          "再捆，再绑，联系",
           "relier",
           "v.t.",
           "fr/00206.mp3",
-          "",
-          "",
-          "ralje"
-        ],
-        [
-          "再捆再绑联系",
-          "",
-          "",
-          "",
           "zh/00207.mp3",
-          "zài kǔn zài bǎng lián xì",
-          ""
+          "zài kǔn ，zài bǎng ，lián xì",
+          "[rəlje]"
         ],
         [
-          "",
+          "重复，重述",
           "répéter",
           "v.t.",
           "fr/00208.mp3",
-          "",
-          "",
-          "repete"
-        ],
-        [
-          "重复重述",
-          "",
-          "",
-          "",
           "zh/00209.mp3",
-          "chóng fù chóng shù",
-          ""
+          "chóng fù ，chóng shù",
+          "[repete]"
         ],
         [
           "庄园",
           "château",
-          "nm.",
+          "n.m.",
           "fr/00210.mp3",
           "zh/00210.mp3",
           "zhuāng yuán",
-          ""
-        ],
-        [
-          "",
-          "antérieur",
-          "",
-          "fr/00211.mp3",
-          "",
-          "",
-          "áterjx:r"
+          "[ʃato]"
         ],
         [
           "先前的",
-          "",
+          "antérieur",
           "adj.",
-          "",
+          "fr/00211.mp3",
           "zh/00212.mp3",
           "xiān qián de",
-          ""
+          "[ɑ̃terjœ:r]"
         ]
       ]
     },

@@ -44,6 +44,11 @@
       .replace(/[^a-zà-ÿ]/g, "");
     return POS_CN[s] || p;
   }
+  // 音标：数据里可能带 [ ]（或被 OCR 吃掉斜杠），统一去掉外层括号再包 / /
+  function ipaWrap(ipa) {
+    var t = String(ipa == null ? "" : ipa).trim().replace(/^\[+|\]+$/g, "").trim();
+    return t ? "/" + t + "/" : "";
+  }
 
   /* ---------- localStorage ---------- */
   function loadLS() {
@@ -189,7 +194,7 @@
       h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
         + '<div class="body"><div class="line-es">'
         + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
-        + (it[6] ? '<span class="ipa pron" title="法语音标">/' + esc(it[6]) + '/</span>' : '')
+        + (it[6] ? '<span class="ipa pron" title="法语音标">' + ipaWrap(it[6]) + '</span>' : '')
         + '<span class="pos">' + esc(it[2]) + '</span></div>'
         + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + zhHtml + '</div>' : '<div class="zh">' + zhHtml + '</div>')
         + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
@@ -209,7 +214,7 @@
       var id = uid(gid, sno, kind, i);
       h += '<div class="sent" id="' + id + '">'
         + (it[3] ? '<div class="s-es" data-a="' + AUDIO + it[3] + '">' + esc(it[0]) + '</div>' : '<div class="s-es">' + esc(it[0]) + '</div>')
-        + (it[6] ? '<div class="s-ipa pron">/' + esc(it[6]) + '/</div>' : '')
+        + (it[6] ? '<div class="s-ipa pron">' + ipaWrap(it[6]) + '</div>' : '')
         + (it[4] ? '<div class="s-zh" data-a="' + AUDIO + it[4] + '">' + esc(it[1]) + '</div>' : '<div class="s-zh">' + esc(it[1]) + '</div>')
         + (it[5] ? '<div class="s-py pron">' + esc(it[5]) + '</div>' : '')
         + (it[2] ? '<div class="s-src">' + esc(it[2]) + '</div>' : '') + '</div>';
@@ -813,7 +818,7 @@
   function renderCard(it, body, foot) {
     body.innerHTML = '<div class="card-face front">'
       + '<div class="cf-es">' + esc(it.es || it.zh) + '</div>'
-      + (it.ipa ? '<div class="cf-ipa">/' + esc(it.ipa) + '/</div>' : '')
+      + (it.ipa ? '<div class="cf-ipa">' + ipaWrap(it.ipa) + '</div>' : '')
       + (it.ae ? '<button class="cf-spk spk" data-a="' + AUDIO + it.ae + '" title="法语发音">🔊 法语</button>' : '')
       + '<div class="cf-hint">点击卡片或按空格翻面</div></div>';
     body.onclick = function (e) { if (e.target.closest(".spk")) return; flipCard(it, body, foot); };

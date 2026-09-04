@@ -5,3 +5,8 @@ _batch_*.txt
 *.tmp
 # 数据源构建中间文件（站点运行时只需 meta.js + sec/*.js）
 data/audio_manifest.json
+
+# 本地维护脚本与备份
+_tools/
+_backup/
+_tmp_*
