@@ -190,7 +190,7 @@
       + '<button class="mini-play" data-playblock="' + kind + '">▶ 连播本组</button></div>';
     arr.forEach(function (it, i) {
       var id = uid(gid, sno, kind, i);
-      var zhHtml = esc(it[0]) + (it[2] ? ' <span class="pos-inline" title="' + esc(it[2]) + '">' + posCn(it[2]) + '</span>' : '');
+      var zhHtml = esc(it[0]);
       h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
         + '<div class="body"><div class="line-es">'
         + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')

@@ -1789,863 +1789,350 @@ window.BOOK_DATA[3] = {
       "name": "钟表",
       "w": [
         [
-          "表固准时按时",
-          "montre al'heure",
-          "",
-          "fr/00213.mp3",
-          "zh/00213.mp3",
-          "biǎo gù zhǔn shí àn shí",
-          "m5:tr"
+          "表",
+          "montre",
+          "f.",
+          "fr/11341.mp3",
+          "zh/11341.mp3",
+          "biao3",
+          "mɔ̃:tr"
+        ],
+        [
+          "准时，按时",
+          "à l'heure",
+          "固",
+          "fr/11342.mp3",
+          "zh/11342.mp3",
+          "zhun3 shi2 ， an4 shi2",
+          ""
         ],
         [
           "手表",
           "bracelet-montre",
           "m.",
-          "fr/00214.mp3",
-          "zh/00214.mp3",
-          "shǒu biǎo",
-          "braslemš:tr"
+          "fr/11343.mp3",
+          "zh/11343.mp3",
+          "shou3 biao3",
+          "braslemɔ̃:tr"
         ],
         [
           "时钟",
-          "horlogerb3",
-          "",
-          "fr/00215.mp3",
-          "zh/00215.mp3",
-          "shí zhōng",
-          ""
+          "horloge",
+          "f.",
+          "fr/11344.mp3",
+          "zh/11344.mp3",
+          "shi2 zhong1",
+          "ɔrlɔ:ʒ"
         ],
         [
           "表针",
           "aiguille",
-          "",
-          "fr/00216.mp3",
-          "zh/00216.mp3",
-          "biǎo zhēn",
-          "eeguij"
+          "f.",
+          "fr/11345.mp3",
+          "zh/11345.mp3",
+          "biao3 zhen1",
+          "ɛ(ɛ)gɥij"
         ],
         [
-          "小时固立即立刻",
-          "]Bheure surlheure",
-          "",
-          "fr/00217.mp3",
-          "zh/00217.mp3",
-          "xiǎo shí gù lì jí lì kè",
-          "r"
+          "小时",
+          "heure",
+          "f.",
+          "fr/11346.mp3",
+          "zh/11346.mp3",
+          "xiao3 shi2",
+          "œ:r"
         ],
         [
-          "越来越固大清早",
-          "d'heure en heure de bonne heure",
-          "",
-          "fr/00218.mp3",
-          "zh/00218.mp3",
-          "yuè lái yuè gù dà qīng zǎo",
+          "立即，立刻",
+          "sur l'heure",
+          "固",
+          "fr/11347.mp3",
+          "zh/11347.mp3",
+          "li4 ji2 ， li4 ke4",
+          ""
+        ],
+        [
+          "越来越……",
+          "d'heure en heure",
+          "形",
+          "fr/11348.mp3",
+          "zh/11348.mp3",
+          "yue4 lai2 yue4 ……",
+          ""
+        ],
+        [
+          "大清早",
+          "de bonne heure",
+          "固",
+          "fr/11349.mp3",
+          "zh/11349.mp3",
+          "da4 qing1 zao3",
           ""
         ],
         [
           "分钟",
           "minute",
-          "",
-          "fr/00219.mp3",
-          "zh/00219.mp3",
-          "fēn zhōng",
+          "f.",
+          "fr/11350.mp3",
+          "zh/11350.mp3",
+          "fen1 zhong1",
           "minyt"
         ],
         [
           "秒",
           "seconde",
-          "f",
-          "fr/00220.mp3",
-          "zh/00220.mp3",
-          "miǎo",
-          "sag5d"
+          "f.",
+          "fr/11351.mp3",
+          "zh/11351.mp3",
+          "miao3",
+          "s(ə)gɔ̃d"
         ],
         [
           "时针",
           "aiguille des heures",
-          "inv",
-          "fr/00221.mp3",
-          "zh/00221.mp3",
-          "shí zhēn",
-          "e(e)guij-de-oe:r"
+          "inv.",
+          "fr/11352.mp3",
+          "zh/11352.mp3",
+          "shi2 zhen1",
+          "ɛ(ɛ)gɥij-de-œ:r"
         ],
         [
           "分针",
           "aiguille des minutes",
-          "inv",
-          "fr/00222.mp3",
-          "zh/00222.mp3",
-          "fēn zhēn",
-          "e(e)guij-de-minyt"
+          "inv.",
+          "fr/11353.mp3",
+          "zh/11353.mp3",
+          "fen1 zhen1",
+          "ɛ(ɛ)gɥij-de-minyt"
         ],
         [
           "秒针",
-          "aiguille des secondes in",
-          "",
-          "fr/00223.mp3",
-          "zh/00223.mp3",
-          "miǎo zhēn",
-          "e(e)guijde-s(a)g:d"
+          "aiguille des secondes",
+          "inv.",
+          "fr/11354.mp3",
+          "zh/11354.mp3",
+          "miao3 zhen1",
+          "ɛ(ɛ)gɥij-de-s(ə)gɔ̃d"
         ],
         [
           "日期",
           "date",
-          "",
-          "fr/00224.mp3",
-          "zh/00224.mp3",
-          "rì qī",
+          "f.",
+          "fr/11355.mp3",
+          "zh/11355.mp3",
+          "ri4 qi1",
           "dat"
         ],
         [
           "闹铃",
           "alarme",
-          "",
-          "fr/00225.mp3",
-          "zh/00225.mp3",
-          "nào líng",
+          "f.",
+          "fr/11356.mp3",
+          "zh/11356.mp3",
+          "nao4 ling2",
           "alarm"
         ],
         [
           "闹钟",
           "réveil",
-          "m",
-          "fr/00226.mp3",
-          "zh/00226.mp3",
-          "nào zhōng",
+          "m.",
+          "fr/11357.mp3",
+          "zh/11357.mp3",
+          "nao4 zhong1",
           "revej"
         ],
         [
           "电子的",
           "électronique",
-          "",
-          "fr/00227.mp3",
-          "zh/00227.mp3",
-          "diàn zi de",
-          "elektronik"
+          "形",
+          "fr/11358.mp3",
+          "zh/11358.mp3",
+          "dian4 zi5 de5",
+          "elektrɔnik"
         ],
         [
-          "机械的固顺时针地",
-          "mécanique + dans le sens des aiguilles d'une montre",
-          "",
-          "fr/00228.mp3",
-          "zh/00228.mp3",
-          "jī xiè de gù shùn shí zhēn dì",
+          "机械的",
+          "mécanique",
+          "形",
+          "fr/11359.mp3",
+          "zh/11359.mp3",
+          "ji1 xie4 de5",
           "mekanik"
+        ],
+        [
+          "顺时针地",
+          "dans le sens des aiguilles d'une montre",
+          "固",
+          "fr/11360.mp3",
+          "zh/11360.mp3",
+          "shun4 shi2 zhen1 di4",
+          ""
         ],
         [
           "石英",
           "quartz",
-          "m",
-          "fr/00229.mp3",
-          "zh/00229.mp3",
-          "shí yīng",
+          "m.",
+          "fr/11361.mp3",
+          "zh/11361.mp3",
+          "shi2 ying1",
           "kwarts"
         ],
         [
           "钟楼",
           "beffroi",
           "m.",
-          "fr/00230.mp3",
-          "zh/00230.mp3",
-          "zhōng lóu",
-          "befrwa(a)"
+          "fr/11362.mp3",
+          "zh/11362.mp3",
+          "zhong1 lou2",
+          "befrwa(ə)"
         ],
         [
           "准确无误的",
-          "précise",
-          "",
-          "fr/00231.mp3",
-          "zh/00231.mp3",
-          "zhǔn què wú wù de",
-          "presi,iz"
+          "précis, e",
+          "形",
+          "fr/11363.mp3",
+          "zh/11363.mp3",
+          "zhun3 que4 wu2 wu4 de5",
+          "presi, i:z"
         ],
         [
           "钟表匠",
-          "horlogerere r3e,er]",
-          "",
-          "fr/00232.mp3",
-          "zh/00232.mp3",
-          "zhōng biǎo jiàng",
-          ""
+          "horloger, ère",
+          "名",
+          "fr/11364.mp3",
+          "zh/11364.mp3",
+          "zhong1 biao3 jiang4",
+          "ɔrlɔʒe, ɛ:r"
         ],
         [
           "表带",
           "bracelet",
           "m.",
-          "fr/00233.mp3",
-          "zh/00233.mp3",
-          "biǎo dài",
+          "fr/11365.mp3",
+          "zh/11365.mp3",
+          "biao3 dai4",
           "brasle"
         ],
         [
           "表盘",
           "cadran",
           "m.",
-          "fr/00234.mp3",
-          "zh/00234.mp3",
-          "biǎo pán",
-          "kadra"
-        ],
-        [
-          "乘客",
-          "passagerre",
-          "",
-          "fr/02030.mp3",
-          "zh/02030.mp3",
-          "chéng kè",
-          "pa(asa3e,er"
-        ],
-        [
-          "车站",
-          "station",
-          "f.",
-          "fr/02031.mp3",
-          "zh/02031.mp3",
-          "chē zhàn",
-          "sta(a)sjδ"
-        ],
-        [
-          "公交站",
-          "station de bus /",
-          "",
-          "fr/02032.mp3",
-          "zh/02032.mp3",
-          "gōng jiāo zhàn",
-          "staa)sjδ da bys"
-        ],
-        [
-          "优先权",
-          "privilégié",
-          "m.",
-          "fr/02033.mp3",
-          "zh/02033.mp3",
-          "yōu xiān quán",
-          "privilezje"
-        ],
-        [
-          "平台",
-          "balcon",
-          "m",
-          "fr/02034.mp3",
-          "zh/02034.mp3",
-          "píng tái",
-          "balk"
-        ],
-        [
-          "车票",
-          "billet",
-          "m",
-          "fr/02035.mp3",
-          "zh/02035.mp3",
-          "chē piào",
-          "bije"
-        ],
-        [
-          "暂停",
-          "suspendre",
-          "",
-          "fr/02036.mp3",
-          "zh/02036.mp3",
-          "zàn tíng",
-          "syspä:dr"
-        ],
-        [
-          "目的地",
-          "destination /",
-          "",
-          "fr/02037.mp3",
-          "zh/02037.mp3",
-          "mù dì dì",
-          "destina(a)sjδ"
-        ],
-        [
-          "乘",
-          "prendre",
-          "",
-          "fr/02038.mp3",
-          "zh/02038.mp3",
-          "chéng",
-          "prä:dr"
-        ],
-        [
-          "进入车里",
-          "accéder i.",
-          "",
-          "fr/02039.mp3",
-          "zh/02039.mp3",
-          "jìn rù chē lǐ",
-          "aksede"
-        ],
-        [
-          "刷卡",
-          "payer par carte",
-          "",
-          "fr/02040.mp3",
-          "zh/02040.mp3",
-          "shuā kǎ",
-          "peje par kart"
-        ],
-        [
-          "免费的",
-          "gratuit",
-          "",
-          "fr/02041.mp3",
-          "zh/02041.mp3",
-          "miǎn fèi de",
-          "gratui, yit"
-        ],
-        [
-          "预付费",
-          "prépayement",
-          "m.",
-          "fr/02042.mp3",
-          "zh/02042.mp3",
-          "yù fù fèi",
-          "prepejema"
-        ],
-        [
-          "票价",
-          "prix du ticketpri dy tike]",
-          "m.",
-          "fr/02043.mp3",
-          "zh/02043.mp3",
-          "piào jià",
-          ""
-        ],
-        [
-          "免费地",
-          "gratuitement",
-          "",
-          "fr/02044.mp3",
-          "zh/02044.mp3",
-          "miǎn fèi dì",
-          "gratyitmá"
-        ],
-        [
-          "乘客",
-          "voyageur,euse",
-          "",
-          "fr/02045.mp3",
-          "zh/02045.mp3",
-          "chéng kè",
-          "vwaja3xir,z"
-        ],
-        [
-          "挂号处",
-          "guichet d'inscription",
-          "m.",
-          "fr/02817.mp3",
-          "zh/02817.mp3",
-          "guà hào chù",
-          "gie déskripsjö"
-        ],
-        [
-          "门诊部",
-          "département de consultation",
-          "m.",
-          "fr/02818.mp3",
-          "zh/02818.mp3",
-          "mén zhěn bù",
-          "departamä d(a) ksylta(a)sj"
-        ],
-        [
-          "住院部",
-          "bureau d'admis sion",
-          "m",
-          "fr/02819.mp3",
-          "zh/02819.mp3",
-          "zhù yuàn bù",
-          "byro dadmisj5"
-        ],
-        [
-          "内科",
-          "médecine géné- rale",
-          "",
-          "fr/02820.mp3",
-          "zh/02820.mp3",
-          "nèi kē",
-          "medsin 3eneral"
-        ],
-        [
-          "内科医生",
-          "médecin généraliste",
-          "m.",
-          "fr/02821.mp3",
-          "zh/02821.mp3",
-          "nèi kē yī shēng",
-          "meds zeneralist"
-        ],
-        [
-          "外科",
-          "chirurgieiryrzi",
-          "",
-          "fr/02822.mp3",
-          "zh/02822.mp3",
-          "wài kē",
-          ""
-        ],
-        [
-          "外科医生",
-          "chirugien neiryr3jen]",
-          "m.",
-          "fr/02823.mp3",
-          "zh/02823.mp3",
-          "wài kē yī shēng",
-          ""
-        ],
-        [
-          "耳鼻喉科",
-          "oto-rhino laryngologie btorinolar&golbzi]/.",
-          "",
-          "fr/02824.mp3",
-          "zh/02824.mp3",
-          "ěr bí hóu kē",
-          ""
-        ],
-        [
-          "牙科心脏病科",
-          "dentisterie cardiologie",
-          "f.",
-          "fr/02825.mp3",
-          "zh/02825.mp3",
-          "yá kē xīn zàng bìng kē",
-          "dátisteri"
-        ],
-        [
-          "儿科",
-          "JLpédiatrie .",
-          "f.",
-          "fr/02826.mp3",
-          "zh/02826.mp3",
-          "ér kē",
-          "pedjatri"
-        ],
-        [
-          "妇科",
-          "gynécologie /.",
-          "",
-          "fr/02827.mp3",
-          "zh/02827.mp3",
-          "fù kē",
-          "3inekolo3i"
-        ],
-        [
-          "放射科",
-          "service de radiologie",
-          "m.",
-          "fr/02828.mp3",
-          "zh/02828.mp3",
-          "fàng shè kē",
-          "servis d radjolozi"
-        ],
-        [
-          "急诊科",
-          "service des urgences",
-          "m.",
-          "fr/02829.mp3",
-          "zh/02829.mp3",
-          "jí zhěn kē",
-          "servis de yr3á:s"
-        ],
-        [
-          "手术室",
-          "fsalle d'opéra tion /.",
-          "",
-          "fr/02830.mp3",
-          "zh/02830.mp3",
-          "shǒu shù shì",
-          "sal doperasj5"
-        ],
-        [
-          "化验室",
-          "laboratoire",
-          "m.",
-          "fr/02831.mp3",
-          "zh/02831.mp3",
-          "huà yàn shì",
-          "laboratwar"
-        ],
-        [
-          "候诊室",
-          "salon d'attente",
-          "m.",
-          "fr/02832.mp3",
-          "zh/02832.mp3",
-          "hòu zhěn shì",
-          "sal5 datáxt"
+          "fr/11366.mp3",
+          "zh/11366.mp3",
+          "biao3 pan2",
+          "kadrɑ̃"
         ]
       ],
       "s": [
         [
-          "Elle fait des heures supplé mentaires.",
-          "她加班加点",
+          "Elle fait des heures supplémentaires.",
+          "她加班加点。",
           "",
-          "fr/00235.mp3",
-          "zh/00235.mp3",
-          "tā jiā bān jiā diǎn",
+          "fr/11367.mp3",
+          "zh/11367.mp3",
+          "ta1 jia1 ban1 jia1 dian3 。",
           ""
         ],
         [
-          "Chaque minute est donnée au travail precis,a l'étude et aux affaires personnelles. I",
-          "每分钟都精确地分给工作学习和个人事务。",
+          "Chaque minute est donnée au travail précis, à l'étude et aux affaires personnelles.",
+          "每一分钟都精确地分给工作、学习和个人事务。",
           "",
-          "fr/00236.mp3",
-          "zh/00236.mp3",
-          "měi fēn zhōng dōu jīng què dì fēn gěi gōng zuò xué xí hé gè rén shì wù",
+          "fr/11368.mp3",
+          "zh/11368.mp3",
+          "mei3 yi4 fen1 zhong1 dou1 jing1 que4 di4 fen1 gei3 gong1 zuo4 、 xue2 xi2 he2 ge4 ren2 shi4 wu4 。",
           ""
         ],
         [
-          "Regardez la date de ce do cument.",
-          "看看那证件上的日期",
+          "Regardez la date de ce document.",
+          "看看那证件上的日期。",
           "《越狱》",
-          "fr/00237.mp3",
-          "zh/00237.mp3",
-          "kàn kàn nà zhèng jiàn shàng de rì qī",
+          "fr/11369.mp3",
+          "zh/11369.mp3",
+          "kan4 kan4 na4 zheng4 jian4 shang4 de5 ri4 qi1 。",
           ""
         ],
         [
-          "Réveille-moi quand tu par tiras.",
-          "当你走的时候叫醒我",
+          "Réveille-moi quand tu partiras.",
+          "当你走的时候叫醒我。",
           "",
-          "fr/00238.mp3",
-          "zh/00238.mp3",
-          "dāng nǐ zǒu de shí hòu jiào xǐng wǒ",
+          "fr/11370.mp3",
+          "zh/11370.mp3",
+          "dang1 ni3 zou3 de5 shi2 hou4 jiao4 xing3 wo3 。",
           ""
         ],
         [
-          "Tout dabordje démonte le bracelet acier pour pouvoir bloquer le boitier correctement et dévisser le fond. T",
-          "首先我拆下表带以免它碍事然后开后盖。",
+          "Tout d'abord, je démonte le bracelet acier pour pouvoir bloquer le boîtier correctement et dévisser le fond.",
+          "首先，我拆下表带以免它碍事，然后拧开后盖。",
           "",
-          "fr/00239.mp3",
-          "zh/00239.mp3",
-          "shǒu xiān wǒ chāi xià biǎo dài yǐ miǎn tā ài shì rán hòu kāi hòu gài",
+          "fr/11371.mp3",
+          "zh/11371.mp3",
+          "shou3 xian1 ， wo3 chai1 xia4 biao3 dai4 yi3 mian3 ta1 ai4 shi4 ， ran2 hou4 ning2 kai1 hou4 gai4 。",
           ""
         ],
         [
-          "Les heures de ce cadran ne sont pas bien marquées",
+          "Les heures de ce cadran ne sont pas bien marquées.",
           "表盘上的时间标得不清楚。",
           "",
-          "fr/00240.mp3",
-          "zh/00240.mp3",
-          "biǎo pán shàng de shí jiān biāo dé bù qīng chǔ",
-          ""
-        ],
-        [
-          "Soit boire ou prendre le metro pour rentrer a la maison.",
-          "要么喝酒，要么乘地铁回家。",
-          "一《维闻女孩》",
-          "fr/02046.mp3",
-          "zh/02046.mp3",
-          "yào me hē jiǔ yào me chéng dì tiě huí jiā",
-          ""
-        ],
-        [
-          "Il y a un barman super mignon,il m'a donné une boisson gratuite de soude.",
-          "那里有个超可爱的调酒师，他免费给我汽水喝。",
-          "一《美女上错身》",
-          "fr/02047.mp3",
-          "zh/02047.mp3",
-          "nà lǐ yǒu gè chāo kě ài de diào jiǔ shī tā miǎn fèi gěi wǒ qì shuǐ hē",
-          ""
-        ],
-        [
-          "Lachat de deux livres vous donne droit a un troi sieme gratuit.+",
-          "买了两本书的可获得一本免费赠书。",
-          "",
-          "fr/02048.mp3",
-          "zh/02048.mp3",
-          "mǎi le liǎng běn shū de kě huò dé yī běn miǎn fèi zèng shū",
-          ""
-        ],
-        [
-          "Nous avons un tres bon chirurgien.",
-          "我们有一位很出",
-          "色的外科医生。《迷失》",
-          "fr/02833.mp3",
-          "zh/02833.mp3",
-          "wǒ men yǒu yī wèi hěn chū",
-          ""
-        ],
-        [
-          "La dentisterie a beaucoup évolué depuis le sicle dernier t.",
-          "自上世纪以来，牙科有了很大发展",
-          "",
-          "fr/02834.mp3",
-          "zh/02834.mp3",
-          "zì shàng shì jì yǐ lái yá kē yǒu le hěn dà fā zhǎn",
-          ""
-        ],
-        [
-          "Selon Jacques Sizunpro fesseur de pédiatrie au CHU de Brest,l'adolescente avait également un deficit immu- nitaire depuis sa naissance. JacquesSizun",
-          "根据布雷斯特医疗中心的儿科的教授的说法，这个小女孩出生时就有免疫功能的缺陷。",
-          "",
-          "fr/02835.mp3",
-          "zh/02835.mp3",
-          "gēn jù bù léi sī tè yī liáo zhōng xīn de ér kē de jiào shòu de shuō fǎ zhè ge xiǎo nǚ hái chū shēng shí jiù yǒu miǎn yì gōng néng de quē xiàn",
+          "fr/11372.mp3",
+          "zh/11372.mp3",
+          "biao3 pan2 shang4 de5 shi2 jian1 biao1 de2 bu4 qing1 chu3 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "supplémentaire",
-          "",
-          "fr/00241.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "补充的",
-          "adj.*",
-          "",
-          "fr/00242.mp3",
-          "zh/00242.mp3",
-          "bǔ chōng de",
-          "syplemäte:r"
+          "supplémentaire",
+          "adj.",
+          "fr/11373.mp3",
+          "zh/11373.mp3",
+          "bu3 chong1 de5",
+          "syplemɑ̃te:r"
         ],
         [
           "事情",
           "affaire",
-          "nf.",
-          "fr/00243.mp3",
-          "zh/00243.mp3",
-          "shì qíng",
-          "afer"
-        ],
-        [
-          "",
-          "document",
-          "n.m.",
-          "fr/00244.mp3",
-          "",
-          "",
-          "dokymä"
+          "n.f.",
+          "fr/11374.mp3",
+          "zh/11374.mp3",
+          "shi4 qing2",
+          "afɛ:r"
         ],
         [
           "文件",
-          "",
-          "",
-          "",
-          "zh/00245.mp3",
-          "wén jiàn",
-          ""
+          "document",
+          "n.m.",
+          "fr/11375.mp3",
+          "zh/11375.mp3",
+          "wen2 jian4",
+          "dɔkymɑ̃"
         ],
         [
           "出发",
           "partir",
-          "vi.",
-          "fr/00246.mp3",
-          "zh/00246.mp3",
-          "chū fā",
+          "v.i.",
+          "fr/11376.mp3",
+          "zh/11376.mp3",
+          "chu1 fa1",
           "partir"
         ],
         [
-          "下",
-          "dévisser v..",
-          "",
-          "fr/00247.mp3",
-          "zh/00247.mp3",
-          "xià",
-          "devise"
+          "拧下",
+          "dévisser",
+          "v.t.",
+          "fr/11377.mp3",
+          "zh/11377.mp3",
+          "ning2 xia4",
+          "devize"
         ],
         [
-          "加",
-          "marquee",
+          "加有标记的",
+          "marqué",
           "adj.",
-          "fr/00248.mp3",
-          "zh/00248.mp3",
-          "jiā",
+          "fr/11378.mp3",
+          "zh/11378.mp3",
+          "jia1 you3 biao1 ji4 de5",
           "marke"
-        ],
-        [
-          "有标记的",
-          "",
-          "",
-          "",
-          "zh/00249.mp3",
-          "yǒu biāo jì de",
-          ""
-        ],
-        [
-          "地铁",
-          "métro",
-          "m.",
-          "fr/02049.mp3",
-          "zh/02049.mp3",
-          "dì tiě",
-          "metro"
-        ],
-        [
-          "",
-          "barman",
-          "",
-          "fr/02050.mp3",
-          "",
-          "",
-          "'ba:man"
-        ],
-        [
-          "酒吧店员",
-          "",
-          "",
-          "",
-          "zh/02051.mp3",
-          "jiǔ bā diàn yuán",
-          ""
-        ],
-        [
-          "",
-          "mignon,ne",
-          "",
-          "fr/02052.mp3",
-          "",
-          "",
-          "minn"
-        ],
-        [
-          "娇小可爱",
-          "",
-          "nm.",
-          "",
-          "zh/02053.mp3",
-          "jiāo xiǎo kě ài",
-          ""
-        ],
-        [
-          "汽水",
-          "soudek",
-          "",
-          "fr/02054.mp3",
-          "zh/02054.mp3",
-          "qì shuǐ",
-          "sud"
-        ],
-        [
-          "购买",
-          "achat",
-          "n.m.",
-          "fr/02055.mp3",
-          "zh/02055.mp3",
-          "gòu mǎi",
-          "afa"
-        ],
-        [
-          "权利",
-          "droit",
-          "n.m.",
-          "fr/02056.mp3",
-          "zh/02056.mp3",
-          "quán lì",
-          "drwa"
-        ],
-        [
-          "",
-          "troisieme",
-          "",
-          "fr/02057.mp3",
-          "",
-          "",
-          "trwaazjem"
-        ],
-        [
-          "第三",
-          "adj.=",
-          "",
-          "fr/02058.mp3",
-          "zh/02058.mp3",
-          "dì sān",
-          ""
-        ],
-        [
-          "演变",
-          "évoluer",
-          "vi.",
-          "fr/02836.mp3",
-          "zh/02836.mp3",
-          "yǎn biàn",
-          "evolye"
-        ],
-        [
-          "进化",
-          "",
-          "",
-          "",
-          "zh/02837.mp3",
-          "jìn huà",
-          ""
-        ],
-        [
-          "世纪",
-          "siecle",
-          "n.m.",
-          "fr/02838.mp3",
-          "zh/02838.mp3",
-          "shì jì",
-          "sjekl"
-        ],
-        [
-          "百年",
-          "",
-          "",
-          "",
-          "zh/02839.mp3",
-          "bǎi nián",
-          ""
-        ],
-        [
-          "",
-          "CHUCentigrade Heat",
-          "",
-          "fr/02840.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "医科教学及医疗中心",
-          "Unit7",
-          "",
-          "fr/02841.mp3",
-          "zh/02841.mp3",
-          "yī kē jiào xué jí yī liáo zhōng xīn",
-          ""
-        ],
-        [
-          "",
-          "adolescent,e",
-          "",
-          "fr/02842.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "青少年",
-          "",
-          "",
-          "",
-          "zh/02843.mp3",
-          "qīng shào nián",
-          "adleesaat"
-        ],
-        [
-          "",
-          "immunitaire",
-          "",
-          "fr/02844.mp3",
-          "",
-          "",
-          "imyniter"
-        ],
-        [
-          "免疫的",
-          "adj.x",
-          "",
-          "fr/02845.mp3",
-          "zh/02845.mp3",
-          "miǎn yì de",
-          ""
         ]
       ]
     },
@@ -2655,556 +2142,241 @@ window.BOOK_DATA[3] = {
       "w": [
         [
           "节日",
-          "fete",
-          "f",
-          "fr/00250.mp3",
-          "zh/00250.mp3",
-          "jié rì",
-          "fet"
+          "fête",
+          "f.",
+          "fr/11379.mp3",
+          "zh/11379.mp3",
+          "jie2 ri4",
+          "fɛt"
         ],
         [
           "元旦",
-          "jour de l'An 3ur d(alá]",
+          "jour de l'An",
           "m.",
-          "fr/00251.mp3",
-          "zh/00251.mp3",
-          "yuán dàn",
-          ""
+          "fr/11380.mp3",
+          "zh/11380.mp3",
+          "yuan2 dan4",
+          "ʒu:r d(ə)lɑ̃"
         ],
         [
           "春节",
-          "fete du printemps",
+          "fête du printemps",
           "f.",
-          "fr/00252.mp3",
-          "zh/00252.mp3",
-          "chūn jié",
-          "fet dy préta"
+          "fr/11381.mp3",
+          "zh/11381.mp3",
+          "chun1 jie2",
+          "fɛt dy prɛ̃tɑ̃"
         ],
         [
           "除夕",
           "veille du Nouvel An",
           "inv.",
-          "fr/00253.mp3",
-          "zh/00253.mp3",
-          "chú xī",
-          "vej dy nuvela"
+          "fr/11382.mp3",
+          "zh/11382.mp3",
+          "chu2 xi1",
+          "vɛj dy nuvelɑ̃"
         ],
         [
           "灯笼",
-          "Tlanterne",
-          "f",
-          "fr/00254.mp3",
-          "zh/00254.mp3",
-          "dēng lóng",
-          "lätern"
+          "lanterne",
+          "f.",
+          "fr/11383.mp3",
+          "zh/11383.mp3",
+          "deng1 long2",
+          "lɑ̃tɛrn"
         ],
         [
           "元宵节",
-          "fete de lanterne /",
-          "",
-          "fr/00255.mp3",
-          "zh/00255.mp3",
-          "yuán xiāo jié",
-          "fet dalätern"
+          "fête de lanterne",
+          "f.",
+          "fr/11384.mp3",
+          "zh/11384.mp3",
+          "yuan2 xiao1 jie2",
+          "fɛt d(ə) lɑ̃tɛrn"
         ],
         [
           "植树节",
-          "fete del'arbre",
+          "fête de l'arbre",
           "f.",
-          "fr/00256.mp3",
-          "zh/00256.mp3",
-          "zhí shù jié",
-          "fet dal arbr"
+          "fr/11385.mp3",
+          "zh/11385.mp3",
+          "zhi2 shu4 jie2",
+          "fɛt d(ə)l arbr"
         ],
         [
           "清明节",
-          "fete des morts",
-          "inv",
-          "fr/00257.mp3",
-          "zh/00257.mp3",
-          "qīng míng jié",
-          "fet de mort"
+          "fête des morts",
+          "inv.",
+          "fr/11386.mp3",
+          "zh/11386.mp3",
+          "qing1 ming2 jie2",
+          "fɛt de mɔrt"
         ],
         [
           "端午节",
-          "fete des Bateaux-Dragon /.",
-          "",
-          "fr/00258.mp3",
-          "zh/00258.mp3",
-          "duān wǔ jié",
-          "fet de bato drag"
+          "fête des Bateaux-Dragon",
+          "f.",
+          "fr/11387.mp3",
+          "zh/11387.mp3",
+          "duan1 wu3 jie2",
+          "fɛt de bato draɡɔ̃"
         ],
         [
           "中秋节",
-          "fete de la Mi-Automne",
+          "fête de la Mi-Automne",
           "f.",
-          "fr/00259.mp3",
-          "zh/00259.mp3",
-          "zhōng qiū jié",
-          "fet da) la mi (o)ton"
+          "fr/11388.mp3",
+          "zh/11388.mp3",
+          "zhong1 qiu1 jie2",
+          "fɛt d(ə) la mi ɔ̃tɔn"
         ],
         [
           "重阳节",
-          "fete du Double Neu",
-          "f",
-          "fr/00260.mp3",
-          "zh/00260.mp3",
-          "chóng yáng jié",
-          "fet dy dubl nof"
+          "fête du Double Neuf",
+          "f.",
+          "fr/11389.mp3",
+          "zh/11389.mp3",
+          "chong2 yang2 jie2",
+          "fɛt dy dubl nœf"
         ],
         [
           "教师节",
-          "fete de pro fesseur",
+          "fête de professeur",
           "f.",
-          "fr/00261.mp3",
-          "zh/00261.mp3",
-          "jiào shī jié",
-          "fet da) profe(e)sc:r"
+          "fr/11390.mp3",
+          "zh/11390.mp3",
+          "jiao4 shi1 jie2",
+          "fɛt d(ə) prɔfɛsœ:r"
         ],
         [
           "国庆节",
-          "fete nationale",
-          "f",
-          "fr/00262.mp3",
-          "zh/00262.mp3",
-          "guó qìng jié",
-          "fet nasjonal, o"
+          "fête nationale",
+          "f.",
+          "fr/11391.mp3",
+          "zh/11391.mp3",
+          "guo2 qing4 jie2",
+          "fɛt nasjɔnal, o"
         ],
         [
           "传统",
           "tradition",
           "f.",
-          "fr/00263.mp3",
-          "zh/00263.mp3",
-          "chuán tǒng",
-          "tradisj5"
+          "fr/11392.mp3",
+          "zh/11392.mp3",
+          "chuan2 tong3",
+          "tradisjɔ̃"
         ],
         [
           "传统的",
           "traditionnel",
-          "",
-          "fr/00264.mp3",
-          "zh/00264.mp3",
-          "chuán tǒng de",
-          "tradisjonel"
-        ],
-        [
-          "检查",
-          "examiner",
-          "",
-          "fr/02846.mp3",
-          "zh/02846.mp3",
-          "jiǎn chá",
-          "egzamine"
-        ],
-        [
-          "细查",
-          "inspecter t.",
-          "",
-          "fr/02847.mp3",
-          "zh/02847.mp3",
-          "xì chá",
-          "&spekte"
-        ],
-        [
-          "化验",
-          "analyse chimique",
-          "f.",
-          "fr/02848.mp3",
-          "zh/02848.mp3",
-          "huà yàn",
-          "anali:z fimik"
-        ],
-        [
-          "验血",
-          "fn analyse du sang",
-          "f.",
-          "fr/02849.mp3",
-          "zh/02849.mp3",
-          "yàn xuè",
-          "anali:z dy sá"
-        ],
-        [
-          "抽取",
-          "prélevement",
-          "m.",
-          "fr/02850.mp3",
-          "zh/02850.mp3",
-          "chōu qǔ",
-          "prelevmá"
-        ],
-        [
-          "血型",
-          "groupe sanguin",
-          "m.",
-          "fr/02851.mp3",
-          "zh/02851.mp3",
-          "xuè xíng",
-          "grup ság"
-        ],
-        [
-          "红血球",
-          "globules rouges du sang",
-          "m.",
-          "fr/02852.mp3",
-          "zh/02852.mp3",
-          "hóng xuè qiú",
-          "globyl ru:3 dy sá"
-        ],
-        [
-          "细胞",
-          "cellule",
-          "",
-          "fr/02853.mp3",
-          "zh/02853.mp3",
-          "xì bāo",
-          "selyl"
-        ],
-        [
-          "红细胞",
-          "hématie ./.",
-          "",
-          "fr/02854.mp3",
-          "zh/02854.mp3",
-          "hóng xì bāo",
-          "emasi"
-        ],
-        [
-          "总值",
-          "valeur totale .",
-          "",
-          "fr/02855.mp3",
-          "zh/02855.mp3",
-          "zǒng zhí",
-          "val:r total"
-        ],
-        [
-          "血小板",
-          "&thrombocyte",
-          "m.",
-          "fr/02856.mp3",
-          "zh/02856.mp3",
-          "xuè xiǎo bǎn",
-          "tršbosit"
-        ],
-        [
-          "血红蛋白",
-          "hmoglo bine",
-          "f.",
-          "fr/02857.mp3",
-          "zh/02857.mp3",
-          "xuè hóng dàn bái",
-          "emoglobin"
-        ],
-        [
-          "含量",
-          "teneur",
-          "",
-          "fr/02858.mp3",
-          "zh/02858.mp3",
-          "hán liàng",
-          "tancr"
-        ],
-        [
-          "体积",
-          "volume",
-          "m",
-          "fr/02859.mp3",
-          "zh/02859.mp3",
-          "tǐ jī",
-          "volym"
-        ],
-        [
-          "浓度",
-          "concentration /.",
-          "",
-          "fr/02860.mp3",
-          "zh/02860.mp3",
-          "nóng dù",
-          "ksátra(a)sj5"
-        ],
-        [
-          "光检查",
-          "Xexamen radioscopique",
-          "m.",
-          "fr/02861.mp3",
-          "zh/02861.mp3",
-          "guāng jiǎn chá",
-          "egzam radjoskopik"
+          "形",
+          "fr/11393.mp3",
+          "zh/11393.mp3",
+          "chuan2 tong3 de5",
+          "tradisjɔnɛl"
         ]
       ],
       "s": [
         [
-          "Les fetes francaises sont nombreuses. On les divise en deux groupes: civiles ou reli- gicuses.",
-          "法国有很多节日可以分为宗教节日和非宗教节日两大类。",
+          "Les fêtes françaises sont nombreuses. On les divise en deux groupes : civiles ou religieuses.",
+          "法国有很多节日，可以分为宗教节日和非宗教节日两大类。",
           "",
-          "fr/00265.mp3",
-          "zh/00265.mp3",
-          "fǎ guó yǒu hěn duō jié rì kě yǐ fēn wéi zōng jiào jié rì hé fēi zōng jiào jié rì liǎng dà lèi",
+          "fr/11394.mp3",
+          "zh/11394.mp3",
+          "fa3 guo2 you3 hen3 duo1 jie2 ri4 ， ke3 yi3 fen1 wei2 zong1 jiao4 jie2 ri4 he2 fei1 zong1 jiao4 jie2 ri4 liang3 da4 lei4 。",
           ""
         ],
         [
-          "La fete du printemps est la plus grosse fite en Chine.",
+          "La fête du printemps est la plus grosse fête en Chine.",
           "在中国，春节是最盛大的节日。",
           "",
-          "fr/00266.mp3",
-          "zh/00266.mp3",
-          "zài zhōng guó chūn jié shì zuì shèng dà de jié rì",
+          "fr/11395.mp3",
+          "zh/11395.mp3",
+          "zai4 zhong1 guo2 ， chun1 jie2 shi4 zui4 sheng4 da4 de5 jie2 ri4 。",
           ""
         ],
         [
-          "Que vous mangez le soir de la veille du Nouvel An chinois?",
+          "Que mangez-vous le soir de la veille du Nouvel An chinois ?",
           "你们除夕夜吃什么呢？",
           "",
-          "fr/00267.mp3",
-          "zh/00267.mp3",
-          "nǐ men chú xī yè chī shén me ne",
+          "fr/11396.mp3",
+          "zh/11396.mp3",
+          "ni3 men5 chu2 xi1 ye4 chi1 shen2 me5 ne5 ？",
           ""
         ],
         [
-          "La Fete Nationale se célbre le 14 juillet en souvenir de la prise de la Bastille en 1789.",
+          "La Fête Nationale se célèbre le 14 juillet en souvenir de la prise de la Bastille en 1789.",
           "法国国庆节是为纪念1789年攻占巴士底监狱而设。",
           "",
-          "fr/00268.mp3",
-          "zh/00268.mp3",
-          "fǎ guó guó qìng jié shì wèi jì niàn nián gōng zhàn bā shì dǐ jiān yù ér shè",
+          "fr/11397.mp3",
+          "zh/11397.mp3",
+          "fa3 guo2 guo2 qing4 jie2 shi4 wei4 ji4 nian4 1789 nian2 gong1 zhan4 ba1 shi4 di3 jian1 yu4 er2 she4 。",
           ""
         ],
         [
-          "Ce voyage a Nol est une tradition pour elle.",
+          "Ce voyage à Noël est une tradition pour elle.",
           "圣诞节旅行是她们的习惯。",
           "",
-          "fr/00269.mp3",
-          "zh/00269.mp3",
-          "shèng dàn jié lǚ xíng shì tā men de xí guàn",
-          ""
-        ],
-        [
-          "Quand il examine les ma- lades,il est tres patient et il vi- site souvent les malades a do- micile. HH.",
-          "他为病人看病非常耐心并且经常出诊",
-          "",
-          "fr/02862.mp3",
-          "zh/02862.mp3",
-          "tā wèi bìng rén kàn bìng fēi cháng nài xīn bìng qiě jīng cháng chū zhěn",
-          ""
-        ],
-        [
-          "Le RIB peut servir dattes- tation de compte pour un pre levement ou un virement au tomatique.",
-          "银行开户证明可以用作自动扣款或转账时的账户证明。",
-          "",
-          "fr/02863.mp3",
-          "zh/02863.mp3",
-          "yín háng kāi hù zhèng míng kě yǐ yòng zuò zì dòng kòu kuǎn huò zhuǎn zhàng shí de zhàng hù zhèng míng",
-          ""
-        ],
-        [
-          "Le vinaigre commun comporte une concentration denviron 5% a 8% dacide acetique.",
-          "普通的醋一般含有5%~8%的醋酸。",
-          "",
-          "fr/02864.mp3",
-          "zh/02864.mp3",
-          "pǔ tōng de cù yì bān hán yǒu de cù suān",
+          "fr/11398.mp3",
+          "zh/11398.mp3",
+          "sheng4 dan4 jie2 lv3 xing2 shi4 ta1 men5 de5 xi2 guan4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "nombreux,se",
-          "",
-          "fr/00270.mp3",
-          "",
-          "",
-          "nbr,az"
-        ],
-        [
-          "众多的许多的",
-          "adj..",
-          "",
-          "fr/00271.mp3",
-          "zh/00271.mp3",
-          "zhòng duō de xǔ duō de",
-          ""
+          "众多的，许多的",
+          "nombreux, se",
+          "adj.",
+          "fr/11399.mp3",
+          "zh/11399.mp3",
+          "zhong4 duo1 de5 ， xu3 duo1 de5",
+          "nɔ̃brø, øz"
         ],
         [
           "非宗教的",
-          "civil,e",
+          "civil, e",
           "adj.",
-          "fr/00272.mp3",
-          "zh/00272.mp3",
-          "fēi zōng jiào de",
+          "fr/11400.mp3",
+          "zh/11400.mp3",
+          "fei1 zong1 jiao4 de5",
           "sivil"
         ],
         [
-          "",
-          "religieux,se",
-          "",
-          "fr/00273.mp3",
-          "",
-          "",
-          "ralizjz"
-        ],
-        [
           "宗教的",
-          "",
+          "religieux, se",
           "adj.",
-          "",
-          "zh/00274.mp3",
-          "zōng jiào de",
-          ""
-        ],
-        [
-          "",
-          "gros, se",
-          "adj.",
-          "fr/00275.mp3",
-          "",
-          "",
-          "gro, o:s"
+          "fr/11401.mp3",
+          "zh/11401.mp3",
+          "zong1 jiao4 de5",
+          "r(ə)liʒjø, øz"
         ],
         [
           "重要的",
-          "",
-          "",
-          "",
-          "zh/00276.mp3",
-          "zhòng yào de",
-          ""
-        ],
-        [
-          "",
-          "chinois,e",
+          "gros, se",
           "adj.",
-          "fr/00277.mp3",
-          "",
-          "",
-          "finwa, az"
+          "fr/11402.mp3",
+          "zh/11402.mp3",
+          "zhong4 yao4 de5",
+          "gro, o:s"
         ],
         [
           "中国人的",
-          "",
-          "",
-          "",
-          "zh/00278.mp3",
-          "zhōng guó rén de",
-          ""
-        ],
-        [
-          "",
-          "pris, e",
+          "chinois, e",
           "adj.",
-          "fr/00279.mp3",
-          "",
-          "",
-          "pri, i:z"
+          "fr/11403.mp3",
+          "zh/11403.mp3",
+          "zhong1 guo2 ren2 de5",
+          "ʃinwa, az"
         ],
         [
           "被占用的",
-          "",
-          "",
-          "",
-          "zh/00280.mp3",
-          "bèi zhàn yòng de",
-          ""
-        ],
-        [
-          "",
-          "domicile",
-          "n.m.",
-          "fr/02865.mp3",
-          "",
-          "",
-          "domisil"
-        ],
-        [
-          "住所",
-          "",
-          "F",
-          "",
-          "zh/02866.mp3",
-          "zhù suǒ",
-          ""
-        ],
-        [
-          "",
-          "RIB:relevéd'identité",
-          "",
-          "fr/02867.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "银行账目的报表",
-          "bancaire",
-          "",
-          "fr/02868.mp3",
-          "zh/02868.mp3",
-          "yín háng zhàng mù dì bào biǎo",
-          ""
-        ],
-        [
-          "",
-          "attestation",
-          "",
-          "fr/02869.mp3",
-          "",
-          "",
-          "atestaa)sjδ"
-        ],
-        [
-          "证明",
-          ".EB",
-          "",
-          "fr/02870.mp3",
-          "zh/02870.mp3",
-          "zhèng míng",
-          ""
-        ],
-        [
-          "",
-          "automatique",
-          "",
-          "fr/02871.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "自动的",
-          "",
+          "pris, e",
           "adj.",
-          "",
-          "zh/02872.mp3",
-          "zì dòng de",
-          "otomatik"
-        ],
-        [
-          "醋",
-          "vinaigre.",
-          "m.",
-          "fr/02873.mp3",
-          "zh/02873.mp3",
-          "cù",
-          "vinegr"
-        ],
-        [
-          "",
-          "acétique",
-          "adj",
-          "fr/02874.mp3",
-          "",
-          "",
-          "asetik"
-        ],
-        [
-          "酯酸的",
-          "",
-          "",
-          "",
-          "zh/02875.mp3",
-          "zhǐ suān de",
-          ""
+          "fr/11404.mp3",
+          "zh/11404.mp3",
+          "bei4 zhan4 yong4 de5",
+          "pri, i:z"
         ]
       ]
     },
@@ -3213,782 +2385,206 @@ window.BOOK_DATA[3] = {
       "name": "中国节日活动",
       "w": [
         [
-          "固守岁",
+          "守岁",
           "veiller toute la nuit",
           "inv.",
-          "fr/00281.mp3",
-          "zh/00281.mp3",
-          "gù shǒu suì",
-          "veeje tut la nyi"
+          "fr/11405.mp3",
+          "zh/11405.mp3",
+          "shou3 sui4",
+          "vε(ɛ)je tut la nɥi"
         ],
         [
           "鞭炮",
           "pétard",
           "m.",
-          "fr/00282.mp3",
-          "zh/00282.mp3",
-          "biān pào",
-          "petar"
+          "fr/11406.mp3",
+          "zh/11406.mp3",
+          "bian1 pao4",
+          "peta:r"
         ],
         [
-          "放烟花",
+          "放（烟花）",
           "lancer",
-          "vt.",
-          "fr/00283.mp3",
-          "zh/00283.mp3",
-          "fàng yān huā",
-          "láse"
+          "v.t.",
+          "fr/11407.mp3",
+          "zh/11407.mp3",
+          "fang4 （ yan1 hua1 ）",
+          "lɑ̃se"
         ],
         [
           "庆祝",
-          "célébration /",
-          "",
-          "fr/00284.mp3",
-          "zh/00284.mp3",
-          "qìng zhù",
-          "selebra(a)sj5"
+          "célébration",
+          "f.",
+          "fr/11408.mp3",
+          "zh/11408.mp3",
+          "qing4 zhu4",
+          "selebra(ɔ)sjɔ̃"
         ],
         [
           "舞龙",
           "danse du dragon",
           "inv.",
-          "fr/00285.mp3",
-          "zh/00285.mp3",
-          "wǔ lóng",
-          "dä:s dy dragš"
+          "fr/11409.mp3",
+          "zh/11409.mp3",
+          "wu3 long2",
+          "dɑ̃:s dy dragɔ̃"
         ],
         [
           "舞狮",
           "danse de lions",
-          "inv",
-          "fr/00286.mp3",
-          "zh/00286.mp3",
-          "wǔ shī",
-          "dá:s d(elj5"
+          "inv.",
+          "fr/11410.mp3",
+          "zh/11410.mp3",
+          "wu3 shi1",
+          "dɑ̃:s d(ə) ljɔ̃"
         ],
         [
           "春联",
-          "distique pour la Fete du Printemps",
-          "inv",
-          "fr/00287.mp3",
-          "zh/00287.mp3",
-          "chūn lián",
-          "disdik pur la fet dy préta"
+          "distique pour la Fête du Printemps",
+          "inv.",
+          "fr/11411.mp3",
+          "zh/11411.mp3",
+          "chun1 lian2",
+          "disdik pur la fet dy prɛ̃tɑ̃"
         ],
         [
           "贴",
           "coller",
-          "vt.",
-          "fr/00288.mp3",
-          "zh/00288.mp3",
-          "tiē",
-          "kole"
+          "v.t.",
+          "fr/11412.mp3",
+          "zh/11412.mp3",
+          "tie1",
+          "kɔle"
         ],
         [
           "粽子",
           "boulettes du riz",
           "inv.",
-          "fr/00289.mp3",
-          "zh/00289.mp3",
-          "zòng zi",
+          "fr/11413.mp3",
+          "zh/11413.mp3",
+          "zong4 zi5",
           "bulet dy ri"
         ],
         [
           "谜语",
-          "énigme[enig",
-          "m",
-          "fr/00290.mp3",
-          "zh/00290.mp3",
-          "mí yǔ",
-          ""
+          "énigme",
+          "f.",
+          "fr/11414.mp3",
+          "zh/11414.mp3",
+          "mi2 yu3",
+          "enigm"
         ],
         [
           "猜测",
-          "deviner vr.",
-          "",
-          "fr/00291.mp3",
-          "zh/00291.mp3",
-          "cāi cè",
-          "d(a)vine"
+          "deviner",
+          "v.t.",
+          "fr/11415.mp3",
+          "zh/11415.mp3",
+          "cai1 ce4",
+          "d(ə)vine"
         ],
         [
           "红包",
           "pot-de-vin",
           "inv.",
-          "fr/00292.mp3",
-          "zh/00292.mp3",
-          "hóng bāo",
-          "po d(e)vε"
+          "fr/11416.mp3",
+          "zh/11416.mp3",
+          "hong2 bao1",
+          "po d(ə)vɛ̃"
         ],
         [
           "红包",
           "dessous de table",
           "inv.",
-          "fr/00293.mp3",
-          "zh/00293.mp3",
-          "hóng bāo",
-          "da)su d(e) tabl"
-        ],
-        [
-          "感冒",
-          "rhume",
-          "m",
-          "fr/02876.mp3",
-          "zh/02876.mp3",
-          "gǎn mào",
-          "rym"
-        ],
-        [
-          "感冒",
-          "enrhumer t.",
-          "",
-          "fr/02877.mp3",
-          "zh/02877.mp3",
-          "gǎn mào",
-          "äryme"
-        ],
-        [
-          "感染性",
-          "septicité .",
-          "",
-          "fr/02878.mp3",
-          "zh/02878.mp3",
-          "gǎn rǎn xìng",
-          "septisite"
-        ],
-        [
-          "测量",
-          "mesurer t.",
-          "",
-          "fr/02879.mp3",
-          "zh/02879.mp3",
-          "cè liáng",
-          "mazyre"
-        ],
-        [
-          "体温",
-          "température",
-          "",
-          "fr/02880.mp3",
-          "zh/02880.mp3",
-          "tǐ wēn",
-          "täperatyir"
-        ],
-        [
-          "体温计",
-          "thermometre",
-          "m.",
-          "fr/02881.mp3",
-          "zh/02881.mp3",
-          "tǐ wēn jì",
-          "termometr"
-        ],
-        [
-          "患病",
-          "tomber malade .",
-          "",
-          "fr/02882.mp3",
-          "zh/02882.mp3",
-          "huàn bìng",
-          "tbe malad"
-        ],
-        [
-          "流感",
-          "grippe",
-          "",
-          "fr/02883.mp3",
-          "zh/02883.mp3",
-          "liú gǎn",
-          "grip"
-        ],
-        [
-          "发烧",
-          "fievre",
-          "",
-          "fr/02884.mp3",
-          "zh/02884.mp3",
-          "fā shāo",
-          "fjevr"
-        ],
-        [
-          "高烧",
-          "forte fievre .",
-          "",
-          "fr/02885.mp3",
-          "zh/02885.mp3",
-          "gāo shāo",
-          "fort fjevr"
-        ],
-        [
-          "着凉",
-          "prendre froid t.",
-          "",
-          "fr/02886.mp3",
-          "zh/02886.mp3",
-          "zháo liáng",
-          "prá:drfrwa(a"
-        ],
-        [
-          "发汗",
-          "transpirer i.",
-          "",
-          "fr/02887.mp3",
-          "zh/02887.mp3",
-          "fā hàn",
-          "träspire"
-        ],
-        [
-          "打喷嚏",
-          "éternuer i.",
-          "",
-          "fr/02888.mp3",
-          "zh/02888.mp3",
-          "dǎ pēn tì",
-          "eternue"
-        ],
-        [
-          "严重的",
-          "grave",
-          "",
-          "fr/02889.mp3",
-          "zh/02889.mp3",
-          "yán zhòng de",
-          "grav"
-        ],
-        [
-          "严重的",
-          "dramatique",
-          "",
-          "fr/02890.mp3",
-          "zh/02890.mp3",
-          "yán zhòng de",
-          "dramatik"
-        ],
-        [
-          "轻微的",
-          "légerre",
-          "",
-          "fr/02891.mp3",
-          "zh/02891.mp3",
-          "qīng wēi de",
-          "le3e,eir"
-        ],
-        [
-          "稍稍",
-          "un peu",
-          "",
-          "fr/02892.mp3",
-          "zh/02892.mp3",
-          "shāo shāo",
-          "po"
-        ],
-        [
-          "国籍",
-          "nationalité",
-          "",
-          "fr/03842.mp3",
-          "zh/03842.mp3",
-          "guó jí",
-          "nasjonalite"
-        ],
-        [
-          "双重的",
-          "double",
-          "",
-          "fr/03843.mp3",
-          "zh/03843.mp3",
-          "shuāng chóng de",
-          "dubl"
-        ],
-        [
-          "美国人",
-          "Yankeejaki]",
-          "m.",
-          "fr/03844.mp3",
-          "zh/03844.mp3",
-          "měi guó rén",
-          ""
-        ],
-        [
-          "中国人",
-          "Chinoise",
-          "",
-          "fr/03845.mp3",
-          "zh/03845.mp3",
-          "zhōng guó rén",
-          "finwa,z"
-        ],
-        [
-          "加拿大人",
-          "Canadien, ne",
-          "",
-          "fr/03846.mp3",
-          "zh/03846.mp3",
-          "jiā ná dà rén",
-          "kanadj,na"
-        ],
-        [
-          "日本人",
-          "Japonais,e",
-          "",
-          "fr/03847.mp3",
-          "zh/03847.mp3",
-          "rì běn rén",
-          "3apone,z"
-        ],
-        [
-          "法国人",
-          "rancaise",
-          "",
-          "fr/03848.mp3",
-          "zh/03848.mp3",
-          "fǎ guó rén",
-          "fräse,z"
-        ],
-        [
-          "澳大利亚人",
-          "Australien, ne",
-          "",
-          "fr/03849.mp3",
-          "zh/03849.mp3",
-          "ào dà lì yà rén",
-          "ostralj,na"
-        ],
-        [
-          "俄罗斯人",
-          "Russe",
-          "",
-          "fr/03850.mp3",
-          "zh/03850.mp3",
-          "é luó sī rén",
-          "rys"
-        ],
-        [
-          "德国人",
-          "Allemande",
-          "",
-          "fr/03851.mp3",
-          "zh/03851.mp3",
-          "dé guó rén",
-          "almá,d"
-        ],
-        [
-          "英国人",
-          "Britannique",
-          "",
-          "fr/03852.mp3",
-          "zh/03852.mp3",
-          "yīng guó rén",
-          "britanik"
-        ],
-        [
-          "爱尔兰人",
-          "Irlandaise",
-          "",
-          "fr/03853.mp3",
-          "zh/03853.mp3",
-          "ài ěr lán rén",
-          "irläde,ez"
-        ],
-        [
-          "芬兰人",
-          "inlandaise",
-          "",
-          "fr/03854.mp3",
-          "zh/03854.mp3",
-          "fēn lán rén",
-          "f&lade,z"
-        ],
-        [
-          "瑞士人",
-          "Suisse",
-          "",
-          "fr/03855.mp3",
-          "zh/03855.mp3",
-          "ruì shì rén",
-          "syis"
-        ],
-        [
-          "希腊人",
-          "GrecGrecque",
-          "",
-          "fr/03856.mp3",
-          "zh/03856.mp3",
-          "xī là rén",
-          "grek"
-        ],
-        [
-          "西班牙人",
-          "spagnole",
-          "",
-          "fr/03857.mp3",
-          "zh/03857.mp3",
-          "xī bān yá rén",
-          "espanol"
-        ],
-        [
-          "葡萄牙人",
-          "Portugaise",
-          "",
-          "fr/03858.mp3",
-          "zh/03858.mp3",
-          "pú táo yá rén",
-          "portyge,z"
-        ],
-        [
-          "巴西人",
-          "Brésilienne",
-          "",
-          "fr/03859.mp3",
-          "zh/03859.mp3",
-          "bā xī rén",
-          "brezilj,n"
+          "fr/11417.mp3",
+          "zh/11417.mp3",
+          "hong2 bao1",
+          "d(ə)su d(ə) tabl"
         ]
       ],
       "s": [
         [
-          "Que doit-on faire pour lancer un nouveau produit sur le marché",
+          "Que doit-on faire pour lancer un nouveau produit sur le marché ?",
           "如何在市场上推出一个新产品？",
           "",
-          "fr/00294.mp3",
-          "zh/00294.mp3",
-          "rú hé zài shì chǎng shàng tuī chū yí gè xīn chǎn pǐn",
+          "fr/11418.mp3",
+          "zh/11418.mp3",
+          "ru2 he2 zai4 shi4 chang3 shang4 tui1 chu1 yi2 ge4 xin1 chan3 pin3 ？",
           ""
         ],
         [
-          "Quand on assiste a la ce rémonie de celebration, en genéral, on porte une tenue de cerémonie.",
-          "出席庆典仪式时一般要穿礼服。",
+          "Quand on assiste à la cérémonie de célébration, en général, on porte une tenue de cérémonie.",
+          "出席庆典仪式时，一般要穿礼服。",
           "",
-          "fr/00295.mp3",
-          "zh/00295.mp3",
-          "chū xí qìng diǎn yí shì shí yì bān yào chuān lǐ fú",
+          "fr/11419.mp3",
+          "zh/11419.mp3",
+          "chu1 xi2 qing4 dian3 yi2 shi4 shi2 ， yi4 ban1 yao4 chuan1 li3 fu2 。",
           ""
         ],
         [
-          "Quand on a vingt ans,on pense avoir résolu l'énigme du monde.=+",
-          "二十岁时我们总想一探这个世界的究竞。",
+          "Quand on a vingt ans, on pense avoir résolu l'énigme du monde.",
+          "二十岁时，我们总想一探这个世界的究竟。",
           "",
-          "fr/00296.mp3",
-          "zh/00296.mp3",
-          "èr shí suì shí wǒ men zǒng xiǎng yī tàn zhè ge shì jiè de jiū jìng",
+          "fr/11420.mp3",
+          "zh/11420.mp3",
+          "er4 shi2 sui4 shi2 ， wo3 men5 zong3 xiang3 yi1 tan4 zhe4 ge5 shi4 jie4 de5 jiu1 jing4 。",
           ""
         ],
         [
-          "Je ne penx pas deviner ce quil va se passer.",
+          "Je ne peux pas deviner ce qu'il va se passer.",
           "我不能猜到将会发生什么。",
           "",
-          "fr/00297.mp3",
-          "zh/00297.mp3",
-          "wǒ bù néng cāi dào jiāng huì fā shēng shén me",
-          ""
-        ],
-        [
-          "Ma température séleve depuis 2 heures du matin,et j'ai beaucoup de crachats qui at teingnent le niveau d'alerte. 7k+.",
-          "我的体温从早上2点钟开始持续上升，而且我的痰也多到了警戒水平",
-          "《生活大爆炸》",
-          "fr/02893.mp3",
-          "zh/02893.mp3",
-          "wǒ de tǐ wēn cóng zǎo shàng diǎn zhōng kāi shǐ chí xù shàng shēng ér qiě wǒ de tán yě duō dào le jǐng jiè shuǐ píng",
-          ""
-        ],
-        [
-          "Cest la grippene vous inquiétez pas. Dans quelques jours,ca ira mieux.",
-          "是感冒别担心。几天后就会好起来。",
-          "",
-          "fr/02894.mp3",
-          "zh/02894.mp3",
-          "shì gǎn mào bié dān xīn jǐ tiān hòu jiù huì hǎo qǐ lái",
-          ""
-        ],
-        [
-          "Je viens du sud-ouest de la France,jai un léger accent meridional.",
-          "我来自法国西南部，我有轻微的南方口音。",
-          "",
-          "fr/02895.mp3",
-          "zh/02895.mp3",
-          "wǒ lái zì fǎ guó xī nán bù wǒ yǒu qīng wēi de nán fāng kǒu yīn",
-          ""
-        ],
-        [
-          "Il a une toux tres grave.f",
-          "他咳嗽得很厉害。",
-          "",
-          "fr/02896.mp3",
-          "zh/02896.mp3",
-          "tā ké sòu dé hěn lì hài",
-          ""
-        ],
-        [
-          "Les étudiants de natio- nalitéétrangere représentent 11.7%du total desétudiants en France.",
-          "外国学生占法国学生总数的11.7%。",
-          "",
-          "fr/03860.mp3",
-          "zh/03860.mp3",
-          "wài guó xué shēng zhàn fǎ guó xué shēng zǒng shù de",
-          ""
-        ],
-        [
-          "La réalité sociale temoigne que la culture occidentale a influencé les notions de valeur et le mode de vie des jeunes chinois.",
-          "社会现实告诉我们西方文化已经对中国年轻一代人的价值观和生活方式产生了影响。",
-          "",
-          "fr/03861.mp3",
-          "zh/03861.mp3",
-          "shè huì xiàn shí gào sù wǒ men xī fāng wén huà yǐ jīng duì zhōng guó nián qīng yí dài rén de jià zhí guān hé shēng huó fāng shì chǎn shēng le yǐng xiǎng",
-          ""
-        ],
-        [
-          "Le mariage de Kate et William est-il (aussi)une bonne affaire pour l'économie bri- tannique",
-          "那么凯特和威廉王子的婚礼对于英国经济是件好事吗？",
-          "",
-          "fr/03862.mp3",
-          "zh/03862.mp3",
-          "nà me kǎi tè hé wēi lián wáng zǐ de hūn lǐ duì yú yīng guó jīng jì shì jiàn hǎo shì ma",
+          "fr/11421.mp3",
+          "zh/11421.mp3",
+          "wo3 bu4 neng2 cai1 dao4 jiang1 hui4 fa1 sheng1 shen2 me5 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "参加，出席",
           "assister",
-          "vi.",
-          "fr/00298.mp3",
-          "",
-          "",
+          "v.i.",
+          "fr/11422.mp3",
+          "zh/11422.mp3",
+          "can1 jia1 ， chu1 xi2",
           "asiste"
         ],
         [
-          "参加出席",
-          "",
-          "",
-          "",
-          "zh/00299.mp3",
-          "cān jiā chū xí",
-          ""
-        ],
-        [
-          "",
-          "cérémonie",
-          "",
-          "fr/00300.mp3",
-          "",
-          "",
-          "seremoni"
-        ],
-        [
           "仪式",
-          "",
-          "nf.",
-          "",
-          "zh/00301.mp3",
-          "yí shì",
-          ""
+          "cérémonie",
+          "n.f.",
+          "fr/11423.mp3",
+          "zh/11423.mp3",
+          "yi2 shi4",
+          "seremɔni"
         ],
         [
-          "",
+          "一般的，通常的",
           "général",
-          "adj",
-          "fr/00302.mp3",
-          "",
-          "",
-          "zeneral"
+          "adj.",
+          "fr/11424.mp3",
+          "zh/11424.mp3",
+          "yi4 ban1 de5 ， tong1 chang2 de5",
+          "ʒeneral"
         ],
         [
-          "一般的通常的",
-          "",
-          "",
-          "",
-          "zh/00303.mp3",
-          "yì bān de tōng cháng de",
-          ""
-        ],
-        [
-          "",
-          "toujours ady.",
-          "",
-          "fr/00304.mp3",
-          "",
-          "",
-          "tuzur"
-        ],
-        [
-          "总是一直",
-          "",
-          "",
-          "",
-          "zh/00305.mp3",
-          "zǒng shì yì zhí",
-          ""
+          "总是，一直",
+          "toujours",
+          "adv.",
+          "fr/11425.mp3",
+          "zh/11425.mp3",
+          "zong3 shi4 ， yi4 zhi2",
+          "tuʒuːr"
         ],
         [
           "直到",
-          "jusqua",
-          "prep.",
-          "fr/00306.mp3",
-          "zh/00306.mp3",
-          "zhí dào",
-          "3ysk"
-        ],
-        [
-          "鞭炮",
-          "pétard",
-          "",
-          "fr/00307.mp3",
-          "zh/00307.mp3",
-          "biān pào",
-          ""
-        ],
-        [
-          "痰",
-          "crachat",
-          "n.m.",
-          "fr/02897.mp3",
-          "zh/02897.mp3",
-          "tán",
-          "kraa"
-        ],
-        [
-          "警戒",
-          "alerte",
-          "nf.",
-          "fr/02898.mp3",
-          "zh/02898.mp3",
-          "jǐng jiè",
-          "alert"
-        ],
-        [
-          "",
-          "inquieter",
-          "v.t",
-          "fr/02899.mp3",
-          "",
-          "",
-          "&kjete"
-        ],
-        [
-          "使担心",
-          "",
-          "",
-          "",
-          "zh/02900.mp3",
-          "shǐ dān xīn",
-          ""
-        ],
-        [
-          "",
-          "méridional,e",
-          "",
-          "fr/02901.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "南方的",
-          "",
-          "adj.",
-          "",
-          "zh/02902.mp3",
-          "nán fāng de",
-          "meridjonal"
-        ],
-        [
-          "打喷嚏",
-          "éternuer",
-          "",
-          "fr/02903.mp3",
-          "zh/02903.mp3",
-          "dǎ pēn tì",
-          ""
-        ],
-        [
-          "",
-          "étranger,ere",
-          "",
-          "fr/03863.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "外国的",
-          "adj.s",
-          "",
-          "fr/03864.mp3",
-          "zh/03864.mp3",
-          "wài guó de",
-          "eträ3eer"
-        ],
-        [
-          "",
-          "témoigner",
-          "v.t.",
-          "fr/03865.mp3",
-          "",
-          "",
-          "temwane"
-        ],
-        [
-          "证明",
-          "HEBA",
-          "",
-          "fr/03866.mp3",
-          "zh/03866.mp3",
-          "zhèng míng",
-          ""
-        ],
-        [
-          "",
-          "occidental,e",
-          "",
-          "fr/03867.mp3",
-          "",
-          "",
-          "bksidätal"
-        ],
-        [
-          "西方的",
-          "",
-          "adj.",
-          "",
-          "zh/03868.mp3",
-          "xī fāng de",
-          ""
-        ],
-        [
-          "",
-          "notion",
-          "",
-          "fr/03869.mp3",
-          "",
-          "",
-          "noosjδ"
-        ],
-        [
-          "观念",
-          "",
-          "",
-          "",
-          "zh/03870.mp3",
-          "guān niàn",
-          ""
-        ],
-        [
-          "",
-          "mariage",
-          "n.m",
-          "fr/03871.mp3",
-          "",
-          "",
-          "marja:3"
-        ],
-        [
-          "婚礼",
-          "",
-          "",
-          "",
-          "zh/03872.mp3",
-          "hūn lǐ",
-          ""
+          "jusqu'à",
+          "prép.",
+          "fr/11426.mp3",
+          "zh/11426.mp3",
+          "zhi2 dao4",
+          "ʒysk"
         ]
       ]
     },
@@ -3998,700 +2594,196 @@ window.BOOK_DATA[3] = {
       "w": [
         [
           "圣诞节",
-          "Noél",
-          "m",
-          "fr/00308.mp3",
-          "zh/00308.mp3",
-          "shèng dàn jié",
-          "noel"
+          "Noël",
+          "m.",
+          "fr/11427.mp3",
+          "zh/11427.mp3",
+          "sheng4 dan4 jie2",
+          "nɔɛl"
         ],
         [
           "平安夜",
-          "laveille de Noél",
-          "inv.",
-          "fr/00309.mp3",
-          "zh/00309.mp3",
-          "píng ān yè",
-          "la vej de noel"
+          "la veille de Noël",
+          "f.inv.",
+          "fr/11428.mp3",
+          "zh/11428.mp3",
+          "ping2 an1 ye4",
+          "la vɛj d(ə) nɔɛl"
         ],
         [
           "复活节",
-          "Paques",
-          "m",
-          "fr/00310.mp3",
-          "zh/00310.mp3",
-          "fù huó jié",
+          "Pâques",
+          "m.",
+          "fr/11429.mp3",
+          "zh/11429.mp3",
+          "fu4 huo2 jie2",
           "pak"
         ],
         [
           "节假日",
           "festival",
           "m.",
-          "fr/00311.mp3",
-          "zh/00311.mp3",
-          "jié jià rì",
-          "festival"
+          "fr/11430.mp3",
+          "zh/11430.mp3",
+          "jie2 jia4 ri4",
+          "fɛstival"
         ],
         [
           "音乐节",
-          "fete de la musique",
+          "fête de la musique",
           "f.",
-          "fr/00312.mp3",
-          "zh/00312.mp3",
-          "yīn yuè jié",
-          "fet dala myzik"
+          "fr/11431.mp3",
+          "zh/11431.mp3",
+          "yin1 yue4 jie2",
+          "fɛt d(ə)la myzik"
         ],
         [
           "情人节",
-          "fete des amou reux",
-          "",
-          "fr/00313.mp3",
-          "zh/00313.mp3",
-          "qíng rén jié",
-          "fet de amuro"
+          "fête des amoureux",
+          "f.",
+          "fr/11432.mp3",
+          "zh/11432.mp3",
+          "qing2 ren2 jie2",
+          "fɛt de amurø"
         ],
         [
           "母亲节",
-          "fete des meres /.",
-          "",
-          "fr/00314.mp3",
-          "zh/00314.mp3",
-          "mǔ qīn jié",
-          "fet de mer"
+          "fête des mères",
+          "f.",
+          "fr/11433.mp3",
+          "zh/11433.mp3",
+          "mu3 qin1 jie2",
+          "fɛt de mɛr"
         ],
         [
           "父亲节",
-          "fete des peres",
+          "fête des pères",
           "f.",
-          "fr/00315.mp3",
-          "zh/00315.mp3",
-          "fù qīn jié",
-          "fet de per"
+          "fr/11434.mp3",
+          "zh/11434.mp3",
+          "fu4 qin1 jie2",
+          "fɛt de pɛr"
         ],
         [
           "狂欢节",
-          "mi-careme ].",
-          "",
-          "fr/00316.mp3",
-          "zh/00316.mp3",
-          "kuáng huān jié",
-          "mikarem"
+          "mi-carême",
+          "f.",
+          "fr/11435.mp3",
+          "zh/11435.mp3",
+          "kuang2 huan1 jie2",
+          "mikarɛm"
         ],
         [
           "电影节",
-          "fete du cinéma .",
-          "",
-          "fr/00317.mp3",
-          "zh/00317.mp3",
-          "diàn yǐng jié",
-          "fet dy sinema"
+          "fête du cinéma",
+          "f.",
+          "fr/11436.mp3",
+          "zh/11436.mp3",
+          "dian4 ying3 jie2",
+          "fɛt dy sinema"
         ],
         [
-          "第一次世界大战结束纪念日",
-          "l'annivairesaire de la fin de la pre- miere guerremondiale",
-          "inv.",
-          "fr/00318.mp3",
-          "zh/00318.mp3",
-          "dì yí cì shì jiè dà zhàn jié shù jì niàn rì",
-          "laniversexr d(ala f d(ala pramjer geir mšdjal"
+          "一战结束纪念日",
+          "l'anniversaire de la fin de la première guerre mondiale",
+          "m.inv.",
+          "fr/11437.mp3",
+          "zh/11437.mp3",
+          "yi1 zhan4 jie2 shu4 ji4 nian4 ri4",
+          "lanivɛrsɛ:r d(ə)la fɛ d(ə)la pramjɛr gɛ:r mɔ̃djal"
         ],
         [
           "劳动节",
-          "fete des tra vailleurs",
+          "fête des travailleurs",
           "f.",
-          "fr/00319.mp3",
-          "zh/00319.mp3",
-          "láo dòng jié",
-          "fet de travajer"
-        ],
-        [
-          "疼剧痛",
-          "douleur douleur cuisante",
-          "f.",
-          "fr/02904.mp3",
-          "zh/02904.mp3",
-          "téng jù tòng",
-          "dulr"
-        ],
-        [
-          "剧痛",
-          "supplice",
-          "m.",
-          "fr/02905.mp3",
-          "zh/02905.mp3",
-          "jù tòng",
-          "syplis"
-        ],
-        [
-          "疼痛的",
-          "douloureux,se",
-          "",
-          "fr/02906.mp3",
-          "zh/02906.mp3",
-          "téng tòng de",
-          "dulur,:z"
-        ],
-        [
-          "头疼",
-          "céphalalgie",
-          "f.",
-          "fr/02907.mp3",
-          "zh/02907.mp3",
-          "tóu téng",
-          "sefalalzi"
-        ],
-        [
-          "胃疼",
-          "gastralgie ].",
-          "",
-          "fr/02908.mp3",
-          "zh/02908.mp3",
-          "wèi téng",
-          "gastralzi"
-        ],
-        [
-          "背疼",
-          "dorsalgie .",
-          "",
-          "fr/02909.mp3",
-          "zh/02909.mp3",
-          "bèi téng",
-          "dorsalzi"
-        ],
-        [
-          "牙疼",
-          "dentalgie /.",
-          "",
-          "fr/02910.mp3",
-          "zh/02910.mp3",
-          "yá téng",
-          "dátalzi"
-        ],
-        [
-          "绞痛",
-          "colique",
-          "",
-          "fr/02911.mp3",
-          "zh/02911.mp3",
-          "jiǎo tòng",
-          "kolik"
-        ],
-        [
-          "刺痛",
-          "douleur lancinante",
-          "f.",
-          "fr/02912.mp3",
-          "zh/02912.mp3",
-          "cì tòng",
-          "dulx:rläsinát"
-        ],
-        [
-          "刺痛",
-          "picotement",
-          "m.",
-          "fr/02913.mp3",
-          "zh/02913.mp3",
-          "cì tòng",
-          "pikotma"
-        ],
-        [
-          "刺痛",
-          "lancinement",
-          "m.",
-          "fr/02914.mp3",
-          "zh/02914.mp3",
-          "cì tòng",
-          "lásinma"
-        ],
-        [
-          "伤口",
-          "blessure",
-          "f.",
-          "fr/02915.mp3",
-          "zh/02915.mp3",
-          "shāng kǒu",
-          "ble(e)sy:r"
-        ],
-        [
-          "受伤的",
-          "blessé.e",
-          "",
-          "fr/02916.mp3",
-          "zh/02916.mp3",
-          "shòu shāng de",
-          "ble(ε)se"
-        ],
-        [
-          "伤口",
-          "plaie",
-          "f",
-          "fr/02917.mp3",
-          "zh/02917.mp3",
-          "shāng kǒu",
-          "ple"
-        ],
-        [
-          "分娩阵痛",
-          "dou leur expulsive",
-          "f",
-          "fr/02918.mp3",
-          "zh/02918.mp3",
-          "fēn miǎn zhèn tòng",
-          "dulir ekspylsiv"
-        ],
-        [
-          "年龄",
-          "age",
-          "m",
-          "fr/03873.mp3",
-          "zh/03873.mp3",
-          "nián líng",
-          "a3"
-        ],
-        [
-          "新生儿",
-          "L nouveau-ne",
-          "m.",
-          "fr/03874.mp3",
-          "zh/03874.mp3",
-          "xīn shēng ér",
-          "nuvone"
-        ],
-        [
-          "早产儿",
-          "prématuré",
-          "m.",
-          "fr/03875.mp3",
-          "zh/03875.mp3",
-          "zǎo chǎn ér",
-          "prematyre"
-        ],
-        [
-          "婴儿",
-          "l bébé",
-          "m.",
-          "fr/03876.mp3",
-          "zh/03876.mp3",
-          "yīng ér",
-          "bebe"
-        ],
-        [
-          "小孩",
-          "]enfant",
-          "m.",
-          "fr/03877.mp3",
-          "zh/03877.mp3",
-          "xiǎo hái",
-          "äfa"
-        ],
-        [
-          "未成年",
-          "mineur",
-          "",
-          "fr/03878.mp3",
-          "zh/03878.mp3",
-          "wèi chéng nián",
-          "minxr"
-        ],
-        [
-          "成年的",
-          "majeure",
-          "",
-          "fr/03879.mp3",
-          "zh/03879.mp3",
-          "chéng nián de",
-          "ma3xr"
-        ],
-        [
-          "青少年",
-          "adolescente",
-          "",
-          "fr/03880.mp3",
-          "zh/03880.mp3",
-          "qīng shào nián",
-          "adolesä,t"
-        ],
-        [
-          "年轻的",
-          "jeune",
-          "",
-          "fr/03881.mp3",
-          "zh/03881.mp3",
-          "nián qīng de",
-          "3n"
-        ],
-        [
-          "中年",
-          "age mur",
-          "m.",
-          "fr/03882.mp3",
-          "zh/03882.mp3",
-          "zhōng nián",
-          "a3 myr"
-        ],
-        [
-          "成年",
-          "adult,",
-          "",
-          "fr/03883.mp3",
-          "zh/03883.mp3",
-          "chéng nián",
-          "adylt"
-        ],
-        [
-          "老人",
-          "vieillard",
-          "m.",
-          "fr/03884.mp3",
-          "zh/03884.mp3",
-          "lǎo rén",
-          "vjejar"
-        ],
-        [
-          "未成年",
-          "mineur",
-          "m.",
-          "fr/03885.mp3",
-          "zh/03885.mp3",
-          "wèi chéng nián",
-          "mincer"
-        ],
-        [
-          "未成年少女究小孩",
-          "fruitvert Hywt enfant",
-          "",
-          "fr/03886.mp3",
-          "zh/03886.mp3",
-          "wèi chéng nián shào nǚ jiū xiǎo hái",
-          "fryi vert"
+          "fr/11438.mp3",
+          "zh/11438.mp3",
+          "lao2 dong4 jie2",
+          "fɛt de travajœr"
         ]
       ],
       "s": [
         [
-          "Avec beaucoup de joie, le bon Pere Noel dirigeait ses rennes dans la nuit de Noél.",
-          "和离的圣诞老人在圣诞夜驾着他的驯鹿们乘着欢乐而来。",
+          "Avec beaucoup de joie, le bon Père Noël dirigeait ses rennes dans la nuit de Noël.",
+          "和蔼的圣诞老人在圣诞夜驾着他的驯鹿们乘着欢乐而来。",
           "",
-          "fr/00320.mp3",
-          "zh/00320.mp3",
-          "hé lí de shèng dàn lǎo rén zài shèng dàn yè jià zhe tā de xùn lù men chéng zhe huān lè ér lái",
+          "fr/11439.mp3",
+          "zh/11439.mp3",
+          "he2 ai3 de5 sheng4 dan4 lao3 ren2 zai4 sheng4 dan4 ye4 jia4 zhe5 ta1 de5 xun4 lu4 men5 cheng2 zhe5 huan1 le4 er2 lai2 。",
           ""
         ],
         [
-          "Paques et Noél sont des fetes internationalement connues.",
+          "Pâques et Noël sont des fêtes internationalement connues.",
           "复活节和圣诞节都是国际型节日。",
           "",
-          "fr/00321.mp3",
-          "zh/00321.mp3",
-          "fù huó jié hé shèng dàn jié dōu shì guó jì xíng jié rì",
+          "fr/11440.mp3",
+          "zh/11440.mp3",
+          "fu4 huo2 jie2 he2 sheng4 dan4 jie2 dou1 shi4 guo2 ji4 xing2 jie2 ri4 。",
           ""
         ],
         [
-          "Le 21 juin,cest la fete de la musique.c'est une nouvelle féte qui existe depuis 1982.6",
-          "月21日是音乐节，这是1982年设立的一个节日。",
+          "Le 21 juin, c'est la fête de la musique, c'est une nouvelle fête qui existe depuis 1982.",
+          "6月21日是音乐节，这是1982年设立的一个节日。",
           "",
-          "fr/00322.mp3",
-          "zh/00322.mp3",
-          "yuè rì shì yīn yuè jié zhè shì nián shè lì de yí gè jié rì",
+          "fr/11441.mp3",
+          "zh/11441.mp3",
+          "6 yue4 21 ri4 shi4 yin1 yue4 jie2 ， zhe4 shi4 1982 nian2 she4 li4 de5 yi2 ge4 jie2 ri4 。",
           ""
         ],
         [
-          "Demain, cest la fete des amoureux.Nous souhaitons que tous les amoureux du monde passent une bonne fete. XT",
-          "明天是情人节祝愿天下有情人都能共渡此佳节。",
+          "Demain, c'est la fête des amoureux. Nous souhaitons que tous les amoureux du monde passent une bonne fête.",
+          "明天是情人节，祝愿天下有情人都能共渡此佳节。",
           "",
-          "fr/00323.mp3",
-          "zh/00323.mp3",
-          "míng tiān shì qíng rén jié zhù yuàn tiān xià yǒu qíng rén dōu néng gòng dù cǐ jiā jié",
+          "fr/11442.mp3",
+          "zh/11442.mp3",
+          "ming2 tian1 shi4 qing2 ren2 jie2 ， zhu4 yuan4 tian1 xia4 you3 qing2 ren2 dou1 neng2 gong4 du4 ci3 jia1 jie2 。",
           ""
         ],
         [
-          "Le premier mai est la fete des travailleurs,cest un jour de conge pour tous les fran cais.51",
-          "月日是劳动节这是所有法国人的节日。",
+          "Le premier mai est la fête des travailleurs, c'est un jour de congé pour tous les français.",
+          "5月1日是劳动节，这是所有法国人的节日。",
           "",
-          "fr/00324.mp3",
-          "zh/00324.mp3",
-          "yuè rì shì láo dòng jié zhè shì suǒ yǒu fǎ guó rén de jié rì",
-          ""
-        ],
-        [
-          "Pour soulager la douleur, il a mangé une petite pilule blanche qui est recommandée par son medecin. EH.",
-          "为了减轻疼痛，他吃了医生为他推荐的白色小药片",
-          "《绝望的主妇》",
-          "fr/02919.mp3",
-          "zh/02919.mp3",
-          "wèi le jiǎn qīng téng tòng tā chī le yī shēng wèi tā tuī jiàn de bái sè xiǎo yào piàn",
-          ""
-        ],
-        [
-          "Si cela est vrai, je suis sure que cést une douleur a mort. FT.",
-          "如果是真的，我肯定痛得要死了",
-          "《史莱克3》",
-          "fr/02920.mp3",
-          "zh/02920.mp3",
-          "rú guǒ shì zhēn de wǒ kěn dìng tòng dé yào sǐ le",
-          ""
-        ],
-        [
-          "Je ne peux pas me débar- rasser de cette foutu cépha lagie.",
-          "我就是没办法摆脱这该死的头痛。",
-          "《迷失》",
-          "fr/02921.mp3",
-          "zh/02921.mp3",
-          "wǒ jiù shì méi bàn fǎ bǎi tuō zhè gāi sǐ de tóu tòng",
-          ""
-        ],
-        [
-          "II ny trouve pas le délicieux picotement de la citronnelle,la douceur de la coriandre.",
-          "既没有生甜的柠檬皮烧酒的辛辣，也没有新鲜香菜的顺柔。",
-          "",
-          "fr/02922.mp3",
-          "zh/02922.mp3",
-          "jì méi yǒu shēng tián de níng méng pí shāo jiǔ de xīn là yě méi yǒu xīn xiān xiāng cài de shùn róu",
-          ""
-        ],
-        [
-          "Le temps est la meilleure médecine qui lisse les bles- sures.+",
-          "时间是抚平伤口最好的良药。",
-          "",
-          "fr/02923.mp3",
-          "zh/02923.mp3",
-          "shí jiān shì fǔ píng shāng kǒu zuì hǎo de liáng yào",
-          ""
-        ],
-        [
-          "Le vieillard, quant a lui transmet sa comprehension de la vie a l'enfant a l'aide d'un spectacle d'ombre a la main. A7.",
-          "老人对生命的理解通过一场手影故事传递给了孩子",
-          "",
-          "fr/03887.mp3",
-          "zh/03887.mp3",
-          "lǎo rén duì shēng mìng de lǐ jiě tōng guò yī cháng shǒu yǐng gù shì chuán dì gěi le hái zi",
-          ""
-        ],
-        [
-          "Ce charmant jeune homme avait deux ailes aux couleurs éclatantes,et sur la tete,une couronne d'or. Il était roi et habi- tait une fleur. -x",
-          "这个迷人的年轻人有着一对颜色鲜亮的翅膀头上戴着一顶金皇冠。他是国王，住在一朵花里。",
-          "",
-          "fr/03888.mp3",
-          "zh/03888.mp3",
-          "zhè ge mí rén de nián qīng rén yǒu zhe yī duì yán sè xiān liàng de chì bǎng tóu shàng dài zhe yī dǐng jīn huáng guān tā shì guó wáng zhù zài yī duǒ huā lǐ",
-          ""
-        ],
-        [
-          "Le baccalauréat, c'est un rite initiatique pour les Francais, un point de passage obligatoire, un symbole du passage a l'age adulte, qui sépare le lycée de l'enseignement supérieur.+ -X",
-          "法国高考将中学阶段和高等教育阶段分开，因此对于法国人来说，它是一个成人礼是一个必须经过的点，是成为成人的象征。",
-          "",
-          "fr/03889.mp3",
-          "zh/03889.mp3",
-          "fǎ guó gāo kǎo jiāng zhōng xué jiē duàn hé gāo děng jiào yù jiē duàn fēn kāi yīn cǐ duì yú fǎ guó rén lái shuō tā shì yí gè chéng rén lǐ shì yí gè bì xū jīng guò de diǎn shì chéng wéi chéng rén de xiàng zhēng",
+          "fr/11443.mp3",
+          "zh/11443.mp3",
+          "5 yue4 1 ri4 shi4 lao2 dong4 jie2 ， zhe4 shi4 suo3 you3 fa3 guo2 ren2 de5 jie2 ri4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "internationalement",
-          "",
-          "fr/00325.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "国际地",
-          "ad",
-          "",
-          "fr/00326.mp3",
-          "zh/00326.mp3",
-          "guó jì dì",
-          "ternasjonalma"
+          "internationalement",
+          "adv.",
+          "fr/11444.mp3",
+          "zh/11444.mp3",
+          "guo2 ji4 di4",
+          "ɛ̃tɛrnasjɔnalmɑ̃"
         ],
         [
-          "",
+          "存在，生存",
           "exister",
-          "vi.",
-          "fr/00327.mp3",
-          "",
-          "",
-          "egziste"
+          "v.i.",
+          "fr/11445.mp3",
+          "zh/11445.mp3",
+          "cun2 zai4 ， sheng1 cun2",
+          "ɛgziste"
         ],
         [
-          "存在生存",
-          "",
-          "",
-          "",
-          "zh/00328.mp3",
-          "cún zài shēng cún",
-          ""
-        ],
-        [
-          "",
+          "自……以来",
           "depuis",
-          "prep",
-          "fr/00329.mp3",
-          "",
-          "",
-          "dapui"
+          "prép.",
+          "fr/11446.mp3",
+          "zh/11446.mp3",
+          "zi4 …… yi3 lai2",
+          "dəpɥi"
         ],
         [
-          "自以来",
-          "",
-          "",
-          "",
-          "zh/00330.mp3",
-          "zì yǐ lái",
-          ""
-        ],
-        [
-          "",
+          "休假，假期",
           "congé",
           "n.m.",
-          "fr/00331.mp3",
-          "",
-          "",
-          "k53e"
-        ],
-        [
-          "休假假期",
-          "",
-          "",
-          "",
-          "zh/00332.mp3",
-          "xiū jià jià qī",
-          ""
-        ],
-        [
-          "",
-          "soulager",
-          "v.t.",
-          "fr/02924.mp3",
-          "",
-          "",
-          "sulaze"
-        ],
-        [
-          "减轻缓和",
-          "",
-          "",
-          "",
-          "zh/02925.mp3",
-          "jiǎn qīng huǎn hé",
-          ""
-        ],
-        [
-          "丸药",
-          "pilule.",
-          "",
-          "fr/02926.mp3",
-          "zh/02926.mp3",
-          "wán yào",
-          "pilyl"
-        ],
-        [
-          "",
-          "ldébarrasser",
-          "",
-          "fr/02927.mp3",
-          "",
-          "",
-          "debarase"
-        ],
-        [
-          "清除",
-          "VL.",
-          "",
-          "fr/02928.mp3",
-          "zh/02928.mp3",
-          "qīng chú",
-          ""
-        ],
-        [
-          "讨厌的",
-          "foutu",
-          "adj.",
-          "fr/02929.mp3",
-          "zh/02929.mp3",
-          "tǎo yàn de",
-          "futy"
-        ],
-        [
-          "",
-          "comprehension",
-          "",
-          "fr/03890.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "理解",
-          "",
-          "",
-          "",
-          "zh/03891.mp3",
-          "lǐ jiě",
-          "kšpreásj5"
-        ],
-        [
-          "",
-          "spectacle",
-          "n.m.",
-          "fr/03892.mp3",
-          "",
-          "",
-          "spektakl"
-        ],
-        [
-          "影像",
-          "",
-          "",
-          "",
-          "zh/03893.mp3",
-          "yǐng xiàng",
-          ""
-        ],
-        [
-          "翅膀",
-          "ailes.",
-          "",
-          "fr/03894.mp3",
-          "zh/03894.mp3",
-          "chì bǎng",
-          "cl"
-        ],
-        [
-          "",
-          "éclatant,e",
-          "",
-          "fr/03895.mp3",
-          "",
-          "",
-          "eklatä,ä:t"
-        ],
-        [
-          "闪闪发光的",
-          "",
-          "adj.",
-          "",
-          "zh/03896.mp3",
-          "shǎn shǎn fā guāng de",
-          ""
-        ],
-        [
-          "",
-          "baccalauréat",
-          "",
-          "fr/03897.mp3",
-          "",
-          "",
-          "bakalbrea"
-        ],
-        [
-          "中学毕业会考",
-          "",
-          "n.m.",
-          "",
-          "zh/03898.mp3",
-          "zhōng xué bì yè huì kǎo",
-          ""
+          "fr/11447.mp3",
+          "zh/11447.mp3",
+          "xiu1 jia4 ， jia4 qi1",
+          "kɔ̃ʒe"
         ]
       ]
     },
@@ -4701,562 +2793,175 @@ window.BOOK_DATA[3] = {
       "w": [
         [
           "庆祝",
-          "célébration /",
-          "",
-          "fr/00333.mp3",
-          "zh/00333.mp3",
-          "qìng zhù",
-          "selebra(a)sj5"
+          "célébration",
+          "f.",
+          "fr/11448.mp3",
+          "zh/11448.mp3",
+          "qing4 zhu4",
+          "selebra(ə)sjɔ̃"
         ],
         [
           "圣诞树",
-          "arbre de Noél",
+          "arbre de Noël",
           "m.",
-          "fr/00334.mp3",
-          "zh/00334.mp3",
-          "shèng dàn shù",
-          "arbr de noel"
+          "fr/11449.mp3",
+          "zh/11449.mp3",
+          "sheng4 dan4 shu4",
+          "arbr d(ə) nɔɛl"
         ],
         [
           "圣诞蛋糕",
-          "gateau de Noél",
+          "gâteau de Noël",
           "m.",
-          "fr/00335.mp3",
-          "zh/00335.mp3",
-          "shèng dàn dàn gāo",
-          "gato d(a) noel"
+          "fr/11450.mp3",
+          "zh/11450.mp3",
+          "sheng4 dan4 dan4 gao1",
+          "gato d(ə) nɔɛl"
         ],
         [
           "圣诞贺卡",
-          "carte de Noel",
-          "f",
-          "fr/00336.mp3",
-          "zh/00336.mp3",
-          "shèng dàn hè kǎ",
-          "kar:t danoel"
+          "carte de Noël",
+          "f.",
+          "fr/11451.mp3",
+          "zh/11451.mp3",
+          "sheng4 dan4 he4 ka3",
+          "kaʁt d(ə) nɔɛl"
         ],
         [
           "圣诞颂歌",
-          "chanson de Noél",
-          "",
-          "fr/00337.mp3",
-          "zh/00337.mp3",
-          "shèng dàn sòng gē",
-          "ásš d(a noel"
+          "chanson de Noël",
+          "f.",
+          "fr/11452.mp3",
+          "zh/11452.mp3",
+          "sheng4 dan4 song4 ge1",
+          "ʃɑ̃sɔ̃ d(ə) nɔɛl"
         ],
         [
           "圣诞老人",
-          "pere Noel",
+          "père Noël",
           "m.",
-          "fr/00338.mp3",
-          "zh/00338.mp3",
-          "shèng dàn lǎo rén",
-          "pe:r noel"
+          "fr/11453.mp3",
+          "zh/11453.mp3",
+          "sheng4 dan4 lao3 ren2",
+          "pɛːʁ nɔɛl"
         ],
         [
           "复活节彩蛋",
-          "oeufs de Paques",
-          "m",
-          "fr/00339.mp3",
-          "zh/00339.mp3",
-          "fù huó jié cǎi dàn",
-          "wof da pa:k"
+          "œufs de Pâques",
+          "m.",
+          "fr/11454.mp3",
+          "zh/11454.mp3",
+          "fu4 huo2 jie2 cai3 dan4",
+          "wøf d(ə) paːk"
         ],
         [
           "火鸡",
-          "kxdinde",
-          "",
-          "fr/00340.mp3",
-          "zh/00340.mp3",
-          "huǒ jī",
-          "dd"
+          "dinde",
+          "f.",
+          "fr/11455.mp3",
+          "zh/11455.mp3",
+          "huo3 ji1",
+          "dɛ̃d"
         ],
         [
           "恶作剧",
           "fumisterie",
           "f.",
-          "fr/00341.mp3",
-          "zh/00341.mp3",
-          "è zuò jù",
-          "fymistari"
+          "fr/11456.mp3",
+          "zh/11456.mp3",
+          "e4 zuo4 ju4",
+          "fymistəʁi"
         ],
         [
           "万圣节糖果",
           "bonbons d'Halloween",
           "m.",
-          "fr/00342.mp3",
-          "zh/00342.mp3",
-          "wàn shèng jié táng guǒ",
-          "b5b5 dalowin"
+          "fr/11457.mp3",
+          "zh/11457.mp3",
+          "wan4 sheng4 jie2 tang2 guo3",
+          "bɔ̃bɔ̃ dalɔwin"
         ],
         [
           "祝福",
           "bénir",
-          "vt.",
-          "fr/00343.mp3",
-          "zh/00343.mp3",
-          "zhù fú",
-          "benir"
+          "v.t.",
+          "fr/11458.mp3",
+          "zh/11458.mp3",
+          "zhu4 fu2",
+          "beniːʁ"
         ],
         [
           "祝贺",
           "féliciter",
-          "",
-          "fr/00344.mp3",
-          "zh/00344.mp3",
-          "zhù hè",
+          "v.t.",
+          "fr/11459.mp3",
+          "zh/11459.mp3",
+          "zhu4 he4",
           "felisite"
         ],
         [
           "欺骗",
           "tromper",
-          "vt",
-          "fr/00345.mp3",
-          "zh/00345.mp3",
-          "qī piàn",
-          "tröpe"
+          "v.t.",
+          "fr/11460.mp3",
+          "zh/11460.mp3",
+          "qi1 pian4",
+          "tʁɔ̃pe"
         ],
         [
-          "欺骗圣诞老人",
-          "duper v. pere No",
-          "",
-          "fr/00346.mp3",
-          "zh/00346.mp3",
-          "qī piàn shèng dàn lǎo rén",
+          "欺骗",
+          "duper",
+          "v.t.",
+          "fr/11461.mp3",
+          "zh/11461.mp3",
+          "qi1 pian4",
           "dype"
-        ],
-        [
-          "疾病",
-          "maladie",
-          "f.",
-          "fr/02930.mp3",
-          "zh/02930.mp3",
-          "jí bìng",
-          "maladi"
-        ],
-        [
-          "常见的",
-          "commune",
-          "",
-          "fr/02931.mp3",
-          "zh/02931.mp3",
-          "cháng jiàn de",
-          "kom,yn"
-        ],
-        [
-          "阑尾炎",
-          "apendicite /",
-          "",
-          "fr/02932.mp3",
-          "zh/02932.mp3",
-          "lán wěi yán",
-          "apádisit"
-        ],
-        [
-          "贫血",
-          "anémie",
-          "",
-          "fr/02933.mp3",
-          "zh/02933.mp3",
-          "pín xuè",
-          "anemi"
-        ],
-        [
-          "低血糖",
-          "hypoglycémie",
-          "f.",
-          "fr/02934.mp3",
-          "zh/02934.mp3",
-          "dī xuè táng",
-          "ipoglisemi"
-        ],
-        [
-          "支气管炎",
-          "bronchite /.",
-          "",
-          "fr/02935.mp3",
-          "zh/02935.mp3",
-          "zhī qì guǎn yán",
-          "bršfit"
-        ],
-        [
-          "糖尿病",
-          "diabete",
-          "m.",
-          "fr/02936.mp3",
-          "zh/02936.mp3",
-          "táng niào bìng",
-          "djabet"
-        ],
-        [
-          "糖尿病人",
-          "diabétique",
-          "",
-          "fr/02937.mp3",
-          "zh/02937.mp3",
-          "táng niào bìng rén",
-          "djabetik"
-        ],
-        [
-          "偏头痛",
-          "migraine",
-          "f.",
-          "fr/02938.mp3",
-          "zh/02938.mp3",
-          "piān tóu tòng",
-          "migren"
-        ],
-        [
-          "风湿病",
-          "rhumatisme",
-          "m.",
-          "fr/02939.mp3",
-          "zh/02939.mp3",
-          "fēng shī bìng",
-          "rymatism"
-        ],
-        [
-          "营养不良",
-          "malnutrition /",
-          "",
-          "fr/02940.mp3",
-          "zh/02940.mp3",
-          "yíng yǎng bù liáng",
-          "malnytrisj5"
-        ],
-        [
-          "消化不良",
-          "cacochylie",
-          "f.",
-          "fr/02941.mp3",
-          "zh/02941.mp3",
-          "xiāo huà bù liáng",
-          "kakofili"
-        ],
-        [
-          "失眠",
-          "insomnie ].",
-          "",
-          "fr/02942.mp3",
-          "zh/02942.mp3",
-          "shī mián",
-          "&somni"
-        ],
-        [
-          "僵硬的",
-          "raide",
-          "",
-          "fr/02943.mp3",
-          "zh/02943.mp3",
-          "jiāng yìng de",
-          "red"
-        ],
-        [
-          "打喝",
-          "ThoqueterDkte]i",
-          "",
-          "fr/02944.mp3",
-          "zh/02944.mp3",
-          "dǎ hē",
-          ""
-        ],
-        [
-          "使痒",
-          ".chatouiller t.",
-          "",
-          "fr/02945.mp3",
-          "zh/02945.mp3",
-          "shǐ yǎng",
-          "atuje"
-        ],
-        [
-          "痛风",
-          "goutte",
-          "",
-          "fr/02946.mp3",
-          "zh/02946.mp3",
-          "tòng fēng",
-          "gut"
-        ],
-        [
-          "职业",
-          "métier",
-          "m.",
-          "fr/03899.mp3",
-          "zh/03899.mp3",
-          "zhí yè",
-          "metje"
-        ],
-        [
-          "职称",
-          "titre d'une fonc tion",
-          "m",
-          "fr/03900.mp3",
-          "zh/03900.mp3",
-          "zhí chēng",
-          "titr dyn fksj5"
-        ],
-        [
-          "工作",
-          "I travailler",
-          "",
-          "fr/03901.mp3",
-          "zh/03901.mp3",
-          "gōng zuò",
-          "travaje"
-        ],
-        [
-          "工作",
-          "IF empioi",
-          "m",
-          "fr/03902.mp3",
-          "zh/03902.mp3",
-          "gōng zuò",
-          "äplwa"
-        ],
-        [
-          "领域",
-          "domaine",
-          "m.",
-          "fr/03903.mp3",
-          "zh/03903.mp3",
-          "lǐng yù",
-          "domen"
-        ],
-        [
-          "职业生涯",
-          "cursus",
-          "m.",
-          "fr/03904.mp3",
-          "zh/03904.mp3",
-          "zhí yè shēng yá",
-          "kyrsys"
-        ],
-        [
-          "医生",
-          "docteur",
-          "m",
-          "fr/03905.mp3",
-          "zh/03905.mp3",
-          "yī shēng",
-          "doktæ:r"
-        ],
-        [
-          "司机",
-          "chauffeur",
-          "m.",
-          "fr/03906.mp3",
-          "zh/03906.mp3",
-          "sī jī",
-          "ofxr"
-        ],
-        [
-          "建筑工人",
-          "Iouvrier du batiment",
-          "m.",
-          "fr/03907.mp3",
-          "zh/03907.mp3",
-          "jiàn zhù gōng rén",
-          "uvrije dy batimá"
-        ],
-        [
-          "设计师",
-          "designer",
-          "m.",
-          "fr/03908.mp3",
-          "zh/03908.mp3",
-          "shè jì shī",
-          "dezine"
-        ],
-        [
-          "老师",
-          "professeur",
-          "m",
-          "fr/03909.mp3",
-          "zh/03909.mp3",
-          "lǎo shī",
-          "profe(esx:r"
-        ],
-        [
-          "业余运动员",
-          "amateur",
-          "m.",
-          "fr/03910.mp3",
-          "zh/03910.mp3",
-          "yè yú yùn dòng yuán",
-          "amaterr"
-        ],
-        [
-          "清洁工",
-          "I nettoyeur,se",
-          "",
-          "fr/03911.mp3",
-          "zh/03911.mp3",
-          "qīng jié gōng",
-          "netwajir,z"
-        ],
-        [
-          "商人",
-          "commercant,e",
-          "",
-          "fr/03912.mp3",
-          "zh/03912.mp3",
-          "shāng rén",
-          "komersá,á:t"
-        ],
-        [
-          "学者",
-          "savant.e",
-          "",
-          "fr/03913.mp3",
-          "zh/03913.mp3",
-          "xué zhě",
-          "savá,á:t"
-        ],
-        [
-          "科学家",
-          "scientifique",
-          "",
-          "fr/03914.mp3",
-          "zh/03914.mp3",
-          "kē xué jiā",
-          "siätifik"
-        ],
-        [
-          "售货员",
-          "vendeur,euse",
-          "",
-          "fr/03915.mp3",
-          "zh/03915.mp3",
-          "shòu huò yuán",
-          "vádr,z"
-        ],
-        [
-          "服务员",
-          "serveureuse",
-          "",
-          "fr/03916.mp3",
-          "zh/03916.mp3",
-          "fú wù yuán",
-          "servr,"
         ]
       ],
       "s": [
         [
-          "La célébration des grandes retrouvailles semble bien loin X T&.",
-          "要庆祝重要关系的重建看来遥不可及",
+          "La célébration des grandes retrouvailles semble bien loin.",
+          "要庆祝重要关系的重建，看来遥不可及。",
           "",
-          "fr/00347.mp3",
-          "zh/00347.mp3",
-          "yào qìng zhù zhòng yào guān xì de chóng jiàn kàn lái yáo bù kě jí",
+          "fr/11462.mp3",
+          "zh/11462.mp3",
+          "yao4 qing4 zhu4 zhong4 yao4 guan1 xi4 de5 chong2 jian4 ， kan4 lai2 yao2 bu4 ke3 ji2 。",
           ""
         ],
         [
-          "Le Pere Noél nexiste pas? Toutes les verités sont-elles bonnesdire?",
+          "Le Père Noël n'existe pas ? Toutes les vérités sont-elles bonnes à dire ?",
           "圣诞老人不存在吗？万事都需要探究真相吗？",
           "",
-          "fr/00348.mp3",
-          "zh/00348.mp3",
-          "shèng dàn lǎo rén bù cún zài ma wàn shì dōu xū yào tàn jiū zhēn xiàng ma",
+          "fr/11463.mp3",
+          "zh/11463.mp3",
+          "sheng4 dan4 lao3 ren2 bu4 cun2 zai4 ma5 ？ wan4 shi4 dou1 xu1 yao4 tan4 jiu1 zhen1 xiang4 ma5 ？",
           ""
         ],
         [
           "Je vous félicite de votre courage.",
           "我对您的勇敢表示祝贺。",
           "",
-          "fr/00349.mp3",
-          "zh/00349.mp3",
-          "wǒ duì nín de yǒng gǎn biǎo shì zhù hè",
+          "fr/11464.mp3",
+          "zh/11464.mp3",
+          "wo3 dui4 nin2 de5 yong3 gan3 biao3 shi4 zhu4 he4 。",
           ""
         ],
         [
           "Il ne peut pas tromper tout le monde tout le temps.",
           "他不可能在所有时刻欺骗任何人。",
           "",
-          "fr/00350.mp3",
-          "zh/00350.mp3",
-          "tā bù kě néng zài suǒ yǒu shí kè qī piàn rèn hé rén",
+          "fr/11465.mp3",
+          "zh/11465.mp3",
+          "ta1 bu4 ke3 neng2 zai4 suo3 you3 shi2 ke4 qi1 pian4 ren4 he2 ren2 。",
           ""
         ],
         [
-          "Pourquoi mangez-vous de la dinde a l'Action de Grace?",
+          "Pourquoi mangez-vous de la dinde à l'Action de Grâce ?",
           "你们为什么在感恩节吃火鸡？",
           "",
-          "fr/00351.mp3",
-          "zh/00351.mp3",
-          "nǐ men wèi shén me zài gǎn ēn jié chī huǒ jī",
-          ""
-        ],
-        [
-          "Je suis diabetique, ma femme a la polyarthrite rhu- matoide. TX.",
-          "我有糖尿病我妻子有风湿性关节炎",
-          "《绝望的主妇》",
-          "fr/02947.mp3",
-          "zh/02947.mp3",
-          "wǒ yǒu táng niào bìng wǒ qī zǐ yǒu fēng shī xìng guān jié yán",
-          ""
-        ],
-        [
-          "Aujourdhui, il y a 100 mil- lions de personnes menacées de malnutrition en raison de la crise et de la hausse des prix alimentaires.",
-          "今天有一亿人因食品价格上涨而受到营养不良的威协。",
-          "",
-          "fr/02948.mp3",
-          "zh/02948.mp3",
-          "jīn tiān yǒu yī yì rén yīn shí pǐn jià gé shàng zhǎng ér shòu dào yíng yǎng bù liáng de wēi xié",
-          ""
-        ],
-        [
-          "La<Maladie de Mai était la langue japonaise.Les syndromes sont de ne peux pas adapter a l'environnment neuf, d'avoir l'inquiétude, I'insomnie, la fatigue... et ne veux pas travailler. TIF.",
-          "五月病是日本语，意思是对新环境不适应，感到不安焦虑、失眠、疲倦不想工作",
-          "",
-          "fr/02949.mp3",
-          "zh/02949.mp3",
-          "wǔ yuè bìng shì rì běn yǔ yì sī shì duì xīn huán jìng bù shì yīng gǎn dào bù ān jiāo lǜ shī mián pí juàn bù xiǎng gōng zuò",
-          ""
-        ],
-        [
-          "Il est martyr de la goutte",
-          "他受痛风折磨。",
-          "",
-          "fr/02950.mp3",
-          "zh/02950.mp3",
-          "tā shòu tòng fēng zhé mó",
-          ""
-        ],
-        [
-          "La carriere de Tom a com- mencé a decoller.",
-          "汤姆的事业开始腾飞。",
-          "《绝望的主妇》",
-          "fr/03917.mp3",
-          "zh/03917.mp3",
-          "tāng mǔ de shì yè kāi shǐ téng fēi",
-          ""
-        ],
-        [
-          "]Michel vit loin du bureau, il prend le métro chaque jour autravail",
-          "米歇尔住得离办公室远，他每天乘坐地铁去上班。",
-          "",
-          "fr/03918.mp3",
-          "zh/03918.mp3",
-          "mǐ xiē ěr zhù dé lí bàn gōng shì yuǎn tā měi tiān chéng zuò dì tiě qù shàng bān",
-          ""
-        ],
-        [
-          "Quoi qu'il en soit,mon oncle,je ne saurais trop le dire, était un véritable savant. E-",
-          "无论如何，我的叔叔是一个真正的学者这我一点也不夸张。",
-          "",
-          "fr/03919.mp3",
-          "zh/03919.mp3",
-          "wú lùn rú hé wǒ de shū shū shì yí gè zhēn zhèng de xué zhě zhè wǒ yì diǎn yě bù kuā zhāng",
-          ""
-        ],
-        [
-          "Soucieuses déquité et de solidarite,la France et la Chine conviennent de ren- forcer la coopération scienti- fique internationale et la re- cherche dans ces domaines. A+ XF",
-          "为实现公平和互助中法两国同意加强在上述领域的国际科学合作以及有关研究工作",
-          "",
-          "fr/03920.mp3",
-          "zh/03920.mp3",
-          "wèi shí xiàn gōng píng hé hù zhù zhōng fǎ liǎng guó tóng yì jiā qiáng zài shàng shù lǐng yù de guó jì kē xué hé zuò yǐ jí yǒu guān yán jiū gōng zuò",
+          "fr/11466.mp3",
+          "zh/11466.mp3",
+          "ni3 men5 wei4 shen2 me5 zai4 gan3 en1 jie2 chi1 huo3 ji1 ？",
           ""
         ]
       ],
@@ -5264,209 +2969,47 @@ window.BOOK_DATA[3] = {
         [
           "好像",
           "semble",
-          "vi.",
-          "fr/00352.mp3",
-          "zh/00352.mp3",
-          "hǎo xiàng",
-          "säble"
+          "v.i.",
+          "fr/11467.mp3",
+          "zh/11467.mp3",
+          "hao3 xiang4",
+          "sɑ̃ble"
         ],
         [
           "应该",
-          "devoir v..",
-          "",
-          "fr/00353.mp3",
-          "zh/00353.mp3",
-          "yīng gāi",
-          "davwar"
+          "devoir",
+          "v.t.",
+          "fr/11468.mp3",
+          "zh/11468.mp3",
+          "ying1 gai1",
+          "dəvwaʁ"
         ],
         [
-          "",
-          "vérité .",
-          "",
-          "fr/00354.mp3",
-          "",
-          "",
-          "verite"
-        ],
-        [
-          "固",
-          "en verité",
-          "",
-          "fr/00355.mp3",
-          "zh/00355.mp3",
-          "gù",
-          ""
-        ],
-        [
-          "真正地确实地",
-          "",
-          "",
-          "",
-          "zh/00356.mp3",
-          "zhēn zhèng dì què shí dì",
-          ""
-        ],
-        [
-          "",
-          "courage",
-          "n.m",
-          "fr/00357.mp3",
-          "",
-          "",
-          "kura:3"
+          "真正地，确实地",
+          "vérité",
+          "n.f.",
+          "fr/11469.mp3",
+          "zh/11469.mp3",
+          "zhen1 zheng4 di4 ， que4 shi2 di4",
+          "veʁite"
         ],
         [
           "勇敢",
-          "",
-          "",
-          "",
-          "zh/00358.mp3",
-          "yǒng gǎn",
-          ""
-        ],
-        [
-          "",
-          "gracen",
-          "",
-          "fr/00359.mp3",
-          "",
-          "",
-          "gra:s"
-        ],
-        [
-          "恩惠恩赐",
-          "",
-          "",
-          "",
-          "zh/00360.mp3",
-          "ēn huì ēn cì",
-          ""
-        ],
-        [
-          "",
-          "polyarthrite",
-          "",
-          "fr/02951.mp3",
-          "",
-          "",
-          "poliartrit"
-        ],
-        [
-          "关节炎",
-          "nfx",
-          "",
-          "fr/02952.mp3",
-          "zh/02952.mp3",
-          "guān jié yán",
-          ""
-        ],
-        [
-          "",
-          "syndrome",
+          "courage",
           "n.m.",
-          "fr/02953.mp3",
-          "",
-          "",
-          "s&drom"
+          "fr/11470.mp3",
+          "zh/11470.mp3",
+          "yong3 gan3",
+          "kuʁaːʒ"
         ],
         [
-          "综合征",
-          "",
-          "",
-          "",
-          "zh/02954.mp3",
-          "zōng hé zhēng",
-          ""
-        ],
-        [
-          "",
-          "inquiétude",
-          "",
-          "fr/02955.mp3",
-          "",
-          "",
-          "kjetyd"
-        ],
-        [
-          "不安担心",
-          "",
-          "",
-          "",
-          "zh/02956.mp3",
-          "bù ān dān xīn",
-          ""
-        ],
-        [
-          "受折磨者",
-          "martyr n",
-          "",
-          "fr/02957.mp3",
-          "zh/02957.mp3",
-          "shòu zhé mó zhě",
-          "martir"
-        ],
-        [
-          "",
-          "décoller va",
-          "",
-          "fr/03921.mp3",
-          "",
-          "",
-          "dekole"
-        ],
-        [
-          "揭下刹下起飞",
-          "",
-          "F",
-          "",
-          "zh/03922.mp3",
-          "jiē xià shā xià qǐ fēi",
-          ""
-        ],
-        [
-          "伯父",
-          "oncle",
-          "nm",
-          "fr/03923.mp3",
-          "zh/03923.mp3",
-          "bó fù",
-          "5:kl"
-        ],
-        [
-          "",
-          "véritable",
-          "adj",
-          "fr/03924.mp3",
-          "",
-          "",
-          "veritabl"
-        ],
-        [
-          "现实的",
-          "",
-          "",
-          "",
-          "zh/03925.mp3",
-          "xiàn shí de",
-          ""
-        ],
-        [
-          "",
-          "solidarité",
-          "",
-          "fr/03926.mp3",
-          "",
-          "",
-          "solidarite"
-        ],
-        [
-          "团结一致",
-          "",
-          "",
-          "",
-          "zh/03927.mp3",
-          "tuán jié yī zhì",
-          ""
+          "恩惠，恩赐",
+          "grâce",
+          "n.f.",
+          "fr/11471.mp3",
+          "zh/11471.mp3",
+          "en1 hui4 ， en1 ci4",
+          "gʁaːs"
         ]
       ]
     },
@@ -5478,509 +3021,275 @@ window.BOOK_DATA[3] = {
           "生日",
           "anniversaire",
           "m.",
-          "fr/00361.mp3",
-          "zh/00361.mp3",
-          "shēng rì",
-          "aniverse:r"
+          "fr/11472.mp3",
+          "zh/11472.mp3",
+          "sheng1 ri4",
+          "anivɛrsɛ:r"
         ],
         [
           "生日蛋糕",
-          "gateau dan niversaire",
-          "n.m",
-          "fr/00362.mp3",
-          "zh/00362.mp3",
-          "shēng rì dàn gāo",
-          "gato d(a) aniverse:r"
+          "gâteau d'anniversaire",
+          "n.m.",
+          "fr/11473.mp3",
+          "zh/11473.mp3",
+          "sheng1 ri4 dan4 gao1",
+          "gato d(ə) anivɛrsɛ:r"
         ],
         [
           "生日歌",
-          "chanson d anniversaire äs d(a) aniverse:r]",
+          "chanson d'anniversaire",
           "f.",
-          "fr/00363.mp3",
-          "zh/00363.mp3",
-          "shēng rì gē",
-          ""
+          "fr/11474.mp3",
+          "zh/11474.mp3",
+          "sheng1 ri4 ge1",
+          "ʃɑ̃sɔ̃ d(ə) anivɛrsɛ:r"
         ],
         [
-          "生日卡片一雨果",
-          "carte dan- niversairef. *",
-          "",
-          "fr/00364.mp3",
-          "zh/00364.mp3",
-          "shēng rì kǎ piàn yī yǔ guǒ",
-          "kart d(a) aniverse:r"
+          "生日卡片",
+          "carte d'anniversaire",
+          "f.",
+          "fr/11475.mp3",
+          "zh/11475.mp3",
+          "sheng1 ri4 ka3 pian4",
+          "kart d(ə) anivɛrsɛ:r"
         ],
         [
-          "礼物固不宽容某人",
-          "cadeau Tne pas faire de cadeau a quelqu'un",
-          "",
-          "fr/00365.mp3",
-          "zh/00365.mp3",
-          "lǐ wù gù bù kuān róng mǒu rén",
+          "礼物",
+          "cadeau",
+          "m.",
+          "fr/11476.mp3",
+          "zh/11476.mp3",
+          "li3 wu4",
           "kado"
         ],
         [
+          "不宽容某人",
+          "ne pas faire de cadeau à quelqu'un",
+          "固",
+          "fr/11477.mp3",
+          "zh/11477.mp3",
+          "bu4 kuan1 rong2 mou3 ren2",
+          ""
+        ],
+        [
           "快乐的",
-          "joyeuxeuse",
-          "",
-          "fr/00366.mp3",
-          "zh/00366.mp3",
-          "kuài lè de",
-          "3waj,iz"
+          "joyeux, euse",
+          "形",
+          "fr/11478.mp3",
+          "zh/11478.mp3",
+          "kuai4 le4 de5",
+          "ʒwajø, ø:z"
         ],
         [
           "蜡烛",
           "chandelle",
-          "",
-          "fr/00367.mp3",
-          "zh/00367.mp3",
-          "là zhú",
-          "adel"
+          "f.",
+          "fr/11479.mp3",
+          "zh/11479.mp3",
+          "la4 zhu2",
+          "ʃɑ̃dɛl"
         ],
         [
           "吹",
-          "souffler wl.",
-          "",
-          "fr/00368.mp3",
-          "zh/00368.mp3",
-          "chuī",
+          "souffler",
+          "v.t.",
+          "fr/11480.mp3",
+          "zh/11480.mp3",
+          "chui1",
           "sufle"
         ],
         [
           "出生",
-          "naitre i",
-          "",
-          "fr/00369.mp3",
-          "zh/00369.mp3",
-          "chū shēng",
-          "netr"
+          "naître",
+          "i.",
+          "fr/11481.mp3",
+          "zh/11481.mp3",
+          "chu1 sheng1",
+          "nɛtr"
         ],
         [
           "愉快",
           "joie",
-          "",
-          "fr/00370.mp3",
-          "zh/00370.mp3",
-          "yú kuài",
-          "3wa"
+          "f.",
+          "fr/11482.mp3",
+          "zh/11482.mp3",
+          "yu2 kuai4",
+          "ʒwa"
         ],
         [
           "分享",
           "partager",
           "v.t.",
-          "fr/00371.mp3",
-          "zh/00371.mp3",
-          "fēn xiǎng",
-          "partaze"
+          "fr/11483.mp3",
+          "zh/11483.mp3",
+          "fen1 xiang3",
+          "partaʒe"
         ],
         [
           "聚会",
-          "réunio",
-          "nf",
-          "fr/00372.mp3",
-          "zh/00372.mp3",
-          "jù huì",
-          "reynj5"
+          "réunion",
+          "f.",
+          "fr/11484.mp3",
+          "zh/11484.mp3",
+          "ju4 hui4",
+          "reynjɔ̃"
         ],
         [
           "使震惊",
           "étonner",
-          "vt.",
-          "fr/00373.mp3",
-          "zh/00373.mp3",
-          "shǐ zhèn jīng",
-          "etone"
+          "v.t.",
+          "fr/11485.mp3",
+          "zh/11485.mp3",
+          "shi3 zhen4 jing1",
+          "etɔne"
         ],
         [
           "祝",
           "souhaiter",
-          "v.t",
-          "fr/00374.mp3",
-          "zh/00374.mp3",
-          "zhù",
-          "swe(e)te"
+          "v.t.",
+          "fr/11486.mp3",
+          "zh/11486.mp3",
+          "zhu4",
+          "swɛ(e)te"
         ],
         [
           "邀请",
           "inviter",
-          "vt",
-          "fr/00375.mp3",
-          "zh/00375.mp3",
-          "yāo qǐng",
-          "vite"
+          "v.t.",
+          "fr/11487.mp3",
+          "zh/11487.mp3",
+          "yao1 qing3",
+          "ɛ̃vite"
         ],
         [
           "接受",
           "accepter",
           "v.t.",
-          "fr/00376.mp3",
-          "zh/00376.mp3",
-          "jiē shòu",
-          "aksepte"
+          "fr/11488.mp3",
+          "zh/11488.mp3",
+          "jie1 shou4",
+          "aksɛpte"
         ],
         [
           "拒绝",
-          "refuser w",
-          "",
-          "fr/00377.mp3",
-          "zh/00377.mp3",
-          "jù jué",
-          "rafyze"
+          "refuser",
+          "v.t.",
+          "fr/11489.mp3",
+          "zh/11489.mp3",
+          "ju4 jue2",
+          "(rə)fyze"
         ],
         [
           "提议",
-          "proposition y.",
-          "",
-          "fr/00378.mp3",
-          "zh/00378.mp3",
-          "tí yì",
-          "propozisj5"
+          "proposition",
+          "f.",
+          "fr/11490.mp3",
+          "zh/11490.mp3",
+          "ti2 yi4",
+          "prɔpozisjɔ̃"
         ],
         [
           "美好的",
-          "exquis,e",
-          "",
-          "fr/00379.mp3",
-          "zh/00379.mp3",
-          "měi hǎo de",
-          "ekski, iz"
-        ],
-        [
-          "癌",
-          "cancer",
-          "m.",
-          "fr/02958.mp3",
-          "zh/02958.mp3",
-          "ái",
-          "käser"
-        ],
-        [
-          "中风",
-          "apoplexie /.",
-          "",
-          "fr/02959.mp3",
-          "zh/02959.mp3",
-          "zhòng fēng",
-          "apopleksi"
-        ],
-        [
-          "小儿麻痹症",
-          "para lysie infantile [paralizi afatil",
-          "",
-          "fr/02960.mp3",
-          "zh/02960.mp3",
-          "xiǎo ér má bì zhèng",
-          ""
-        ],
-        [
-          "坐骨神经痛",
-          "ischialgie ./.",
-          "",
-          "fr/02961.mp3",
-          "zh/02961.mp3",
-          "zuò gǔ shén jīng tòng",
-          "iskialzi"
-        ],
-        [
-          "心绞痛肺结核",
-          "angine de poitrine. tuberculose pulmonaire",
-          "f.",
-          "fr/02962.mp3",
-          "zh/02962.mp3",
-          "xīn jiǎo tòng fèi jié hé",
-          "ázin d(a) pwatrin"
-        ],
-        [
-          "白血病",
-          "leucémie",
-          "f.",
-          "fr/02963.mp3",
-          "zh/02963.mp3",
-          "bái xuè bìng",
-          "losemi"
-        ],
-        [
-          "破伤风",
-          "tétanos",
-          "m.",
-          "fr/02964.mp3",
-          "zh/02964.mp3",
-          "pò shāng fēng",
-          "tetano:s"
-        ],
-        [
-          "精神病",
-          "psychose",
-          "",
-          "fr/02965.mp3",
-          "zh/02965.mp3",
-          "jīng shén bìng",
-          "psiko:z"
-        ],
-        [
-          "瘫痰",
-          "paralysie",
-          "f.",
-          "fr/02966.mp3",
-          "zh/02966.mp3",
-          "tān tán",
-          "paralizi"
-        ],
-        [
-          "咽炎",
-          "pharyngite .",
-          "",
-          "fr/02967.mp3",
-          "zh/02967.mp3",
-          "yān yán",
-          "far&zit"
-        ],
-        [
-          "肿瘤",
-          "tumeur",
-          "f.",
-          "fr/02968.mp3",
-          "zh/02968.mp3",
-          "zhǒng liú",
-          "tymer"
-        ],
-        [
-          "良性的",
-          "béninigne",
-          "",
-          "fr/02969.mp3",
-          "zh/02969.mp3",
-          "liáng xìng de",
-          "ben&,benin"
-        ],
-        [
-          "恶性的",
-          "pernicieux-se",
-          "",
-          "fr/02970.mp3",
-          "zh/02970.mp3",
-          "è xìng de",
-          "pernisj,:z"
-        ],
-        [
-          "心脏病彩遗传的",
-          "cardiopathie . héréditaire",
-          "",
-          "fr/02971.mp3",
-          "zh/02971.mp3",
-          "xīn zàng bìng cǎi yí chuán de",
-          "kardjopati"
+          "exquis, e",
+          "形",
+          "fr/11491.mp3",
+          "zh/11491.mp3",
+          "mei3 hao3 de5",
+          "ɛkski, i:z"
         ]
       ],
       "s": [
         [
-          "Son anniversaire tombe un lundi.-",
-          "他的生日刚好是星期一",
+          "Son anniversaire tombe un lundi.",
+          "他的生日刚好是星期一。",
           "",
-          "fr/00380.mp3",
-          "zh/00380.mp3",
-          "tā de shēng rì gāng hǎo shì xīng qī yī",
+          "fr/11492.mp3",
+          "zh/11492.mp3",
+          "ta1 de5 sheng1 ri4 gang1 hao3 shi4 xing1 qi1 yi1 。",
           ""
         ],
         [
-          "I navait pas de gite pas de pain, pas de feu, pas d'amourmais il était joyeux parce quilétait libre.",
+          "Il n'avait pas de gîte, pas de pain, pas de feu, pas d'amour ; mais il était joyeux parce qu'il était libre.",
           "他没有可去的住处，没有可充饥的面包，没有可取暖的火，没有可拥抱的爱情。但他是快乐的，因为他有自由。",
-          "",
-          "fr/00381.mp3",
-          "zh/00381.mp3",
-          "tā méi yǒu kě qù de zhù chù méi yǒu kě chōng jī de miàn bāo méi yǒu kě qǔ nuǎn de huǒ méi yǒu kě yōng bào de ài qíng dàn tā shì kuài lè de yīn wèi tā yǒu zì yóu",
+          "雨果",
+          "fr/11493.mp3",
+          "zh/11493.mp3",
+          "ta1 mei2 you3 ke3 qu4 de5 zhu4 chu4 ， mei2 you3 ke3 chong1 ji1 de5 mian4 bao1 ， mei2 you3 ke3 qu3 nuan3 de5 huo3 ， mei2 you3 ke3 yong1 bao4 de5 ai4 qing2 。 dan4 ta1 shi4 kuai4 le4 de5 ， yin1 wei4 ta1 you3 zi4 you2 。",
           ""
         ],
         [
-          "Je voudrais étre une larme pour naitre de tes yeux,vivre sur tes joues et mourir en em- brassant tes levres. X",
-          "我愿做一滴泪，在你的眼眸诞生，在你的脸颊生活，最后亲吻着你的双唇消亡",
+          "Je voudrais être une larme pour naître de tes yeux, vivre sur tes joues et mourir en embrassant tes lèvres.",
+          "我愿做一滴泪，在你的眼眸诞生，在你的脸颊生活，最后亲吻着你的双唇消亡。",
           "",
-          "fr/00382.mp3",
-          "zh/00382.mp3",
-          "wǒ yuàn zuò yī dī lèi zài nǐ de yǎn móu dàn shēng zài nǐ de liǎn jiá shēng huó zuì hòu qīn wěn zhe nǐ de shuāng chún xiāo wáng",
+          "fr/11494.mp3",
+          "zh/11494.mp3",
+          "wo3 yuan4 zuo4 yi1 di1 lei4 ， zai4 ni3 de5 yan3 mou2 dan4 sheng1 ， zai4 ni3 de5 lian3 jia2 sheng1 huo2 ， zui4 hou4 qin1 wen3 zhe5 ni3 de5 shuang1 chun2 xiao1 wang2 。",
           ""
         ],
         [
-          "Je vais partager avec vous ce que jai appris a l'ecole.",
+          "Je vais partager avec vous ce que j'ai appris à l'école.",
           "我要与你分享我学到的东西。",
           "",
-          "fr/00383.mp3",
-          "zh/00383.mp3",
-          "wǒ yào yǔ nǐ fēn xiǎng wǒ xué dào de dōng xī",
-          ""
-        ],
-        [
-          "J'ai besoin de savoir sil y a des maladies genetiques par vos antécédents familiaux.",
-          "我需要了解一下你的家族病史，看看有没有遗传性疾病。",
-          "《越狱》",
-          "fr/02972.mp3",
-          "zh/02972.mp3",
-          "wǒ xū yào liǎo jiě yī xià nǐ de jiā zú bìng shǐ kàn kàn yǒu méi yǒu yí chuán xìng jí bìng",
-          ""
-        ],
-        [
-          "Michael a besoin d'une opération pour enlever une tu- meur dans le lobe du cerveau. Actuellement,le taux de déces du cancer a une tendance a la hausse en Chine,tandis que 80%90% de cancers sont causés par des agents canceri- genes dans I'environnement.",
-          "迈克尔需要手术来去除他脑叶中的肿瘤。目前我国癌症死亡率呈持续上升趋势，而80%~90%的癌症是由于环境中的致癌物质所引起的。",
-          "《越狱》",
-          "fr/02973.mp3",
-          "zh/02973.mp3",
-          "mài kè ěr xū yào shǒu shù lái qù chú tā nǎo yè zhōng de zhǒng liú mù qián wǒ guó ái zhèng sǐ wáng lǜ chéng chí xù shàng shēng qū shì ér de ái zhèng shì yóu yú huán jìng zhōng de zhì ái wù zhì suǒ yǐn qǐ de",
+          "fr/11495.mp3",
+          "zh/11495.mp3",
+          "wo3 yao4 yu3 ni3 fen1 xiang3 wo3 xue2 dao4 de5 dong1 xi1 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "落下，恰逢（固定）",
           "tomber",
-          "vi.",
-          "fr/00384.mp3",
-          "",
-          "",
-          "tbe"
-        ],
-        [
-          "落下恰逢固定",
-          "",
-          "F",
-          "",
-          "zh/00385.mp3",
-          "là xià qià féng gù dìng",
-          ""
+          "v.i.",
+          "fr/11496.mp3",
+          "zh/11496.mp3",
+          "la4 xia4 ， qia4 feng2 （ gu4 ding4 ）",
+          "tɔ̃be"
         ],
         [
           "住处",
-          "gite",
+          "gîte",
           "n.m.",
-          "fr/00386.mp3",
-          "zh/00386.mp3",
-          "zhù chù",
-          "3it"
+          "fr/11497.mp3",
+          "zh/11497.mp3",
+          "zhu4 chu4",
+          "ʒit"
         ],
         [
-          "",
+          "自由的，随意的",
           "libre",
-          "adj",
-          "fr/00387.mp3",
-          "",
-          "",
+          "adj.",
+          "fr/11498.mp3",
+          "zh/11498.mp3",
+          "zi4 you2 de5 ， sui2 yi4 de5",
           "libr"
-        ],
-        [
-          "自由的随意的",
-          "",
-          "",
-          "",
-          "zh/00388.mp3",
-          "zì yóu de suí yì de",
-          ""
         ],
         [
           "眼泪",
           "larme",
-          "nf.",
-          "fr/00389.mp3",
-          "zh/00389.mp3",
-          "yǎn lèi",
+          "n.f.",
+          "fr/11499.mp3",
+          "zh/11499.mp3",
+          "yan3 lei4",
           "larm"
         ],
         [
           "嘴唇",
-          "levre",
-          "f",
-          "fr/00390.mp3",
-          "zh/00390.mp3",
-          "zuǐ chún",
-          "levr"
+          "lèvre",
+          "n.f.",
+          "fr/11500.mp3",
+          "zh/11500.mp3",
+          "zui3 chun2",
+          "le:vr"
         ],
         [
-          "学校教育",
-          "écolen.",
-          "",
-          "fr/00391.mp3",
-          "zh/00391.mp3",
-          "xué xiào jiào yù",
-          "ekol"
-        ],
-        [
-          "",
-          "génétique",
-          "n.f",
-          "fr/02974.mp3",
-          "",
-          "",
-          "zenetik"
-        ],
-        [
-          "遗传学",
-          "",
-          "",
-          "",
-          "zh/02975.mp3",
-          "yí chuán xué",
-          ""
-        ],
-        [
-          "",
-          "antécédent",
-          "",
-          "fr/02976.mp3",
-          "",
-          "",
-          "ätesedä"
-        ],
-        [
-          "病史",
-          "",
-          "n.m.",
-          "",
-          "zh/02977.mp3",
-          "bìng shǐ",
-          ""
-        ],
-        [
-          "叶",
-          "lobe",
-          "n.m.",
-          "fr/02978.mp3",
-          "zh/02978.mp3",
-          "yè",
-          "lb"
-        ],
-        [
-          "",
-          "tendance",
-          "nf",
-          "fr/02979.mp3",
-          "",
-          "",
-          "tädä:s"
-        ],
-        [
-          "倾向",
-          "",
-          "",
-          "",
-          "zh/02980.mp3",
-          "qīng xiàng",
-          ""
-        ],
-        [
-          "",
-          "cancérigene",
-          "",
-          "fr/02981.mp3",
-          "",
-          "",
-          "káserizen"
-        ],
-        [
-          "致癌的",
-          "",
-          "adj",
-          "",
-          "zh/02982.mp3",
-          "zhì ái de",
-          ""
+          "学校，教育",
+          "école",
+          "n.f.",
+          "fr/11501.mp3",
+          "zh/11501.mp3",
+          "xue2 xiao4 ， jiao4 yu4",
+          "ekɔl"
         ]
       ]
     },

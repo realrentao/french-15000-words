@@ -10,3 +10,6 @@ data/audio_manifest.json
 _tools/
 _backup/
 _tmp_*
+
+# 工作区记忆（WorkBuddy 自动生成）
+.workbuddy/
