@@ -1,5 +1,5 @@
 window.BOOK_DATA = window.BOOK_DATA || {};
-window.BOOK_DATA[2] = {
+window.BOOK_DATA[2] ={
   "gid": 2,
   "no": "4",
   "name": "住",
@@ -7,2096 +7,782 @@ window.BOOK_DATA[2] = {
   "secs": [
     {
       "no": 1,
-      "name": "第1节",
+      "name": "各种建筑",
       "w": [
         [
-          "头发",
-          "cheveux",
+          "建筑",
+          "bâtiment",
           "m.",
-          "fr/03329.mp3",
-          "zh/03329.mp3",
-          "tóu fà",
-          "[a)va]"
+          "fr/12518.mp3",
+          "zh/12518.mp3",
+          "jiàn zhù",
+          "[batimɑ̃]"
         ],
         [
-          "分叉",
-          "Xbifurcation /",
-          "",
-          "fr/03330.mp3",
-          "zh/03330.mp3",
-          "fēn chà",
-          "[bifyrka(a)sjš]"
-        ],
-        [
-          "头皮屑",
-          "pellicule /",
-          "",
-          "fr/03331.mp3",
-          "zh/03331.mp3",
-          "tóu pí xiè",
-          "[pe(el)likyl]"
-        ],
-        [
-          "长的",
-          "Klongue",
-          "",
-          "fr/03332.mp3",
-          "zh/03332.mp3",
-          "zhǎng de",
-          "[5:g]"
-        ],
-        [
-          "短的",
-          "courte",
-          "",
-          "fr/03333.mp3",
-          "zh/03333.mp3",
-          "duǎn de",
-          "[kurt]"
-        ],
-        [
-          "秃的",
-          "chauve",
-          "",
-          "fr/03334.mp3",
-          "zh/03334.mp3",
-          "tū de",
-          "[ov]"
-        ],
-        [
-          "光秀的",
-          "pele,e",
-          "",
-          "fr/03335.mp3",
-          "zh/03335.mp3",
-          "guāng xiù de",
-          "[pale]"
-        ],
-        [
-          "油性的",
-          "huileuxse",
-          "",
-          "fr/03336.mp3",
-          "zh/03336.mp3",
-          "yóu xìng de",
-          "[yil,z]"
-        ],
-        [
-          "一缕毛发",
-          "un filet de cheveux",
-          "m.",
-          "fr/03337.mp3",
-          "zh/03337.mp3",
-          "yī lǚ máo fà",
-          "[file da S(a)vo]"
-        ],
-        [
-          "弄乱",
-          "bouleverser .",
-          "",
-          "fr/03338.mp3",
-          "zh/03338.mp3",
-          "nòng luàn",
-          "[bulverse]"
-        ],
-        [
-          "蓬乱的",
-          "échevelée",
-          "",
-          "fr/03339.mp3",
-          "zh/03339.mp3",
-          "péng luàn de",
-          "[efavle]"
-        ],
-        [
-          "混乱",
-          "désordre",
-          "m.",
-          "fr/03340.mp3",
-          "zh/03340.mp3",
-          "hùn luàn",
-          "[dezordr]"
-        ],
-        [
-          "假发",
-          "perruque /",
-          "",
-          "fr/03341.mp3",
-          "zh/03341.mp3",
-          "jiǎ fā",
-          "[pe(e)ryk]"
-        ],
-        [
-          "假发",
-          "postiche",
-          "m",
-          "fr/03342.mp3",
-          "zh/03342.mp3",
-          "jiǎ fā",
-          "[posti]"
-        ],
-        [
-          "卷发",
-          "frisure",
-          "",
-          "fr/03343.mp3",
-          "zh/03343.mp3",
-          "juǎn fà",
-          "[frizyr]"
-        ],
-        [
-          "直的",
-          "droite",
-          "",
-          "fr/03344.mp3",
-          "zh/03344.mp3",
-          "zhí de",
-          "[drwaat]"
-        ],
-        [
-          "干燥的",
-          "sec",
-          "",
-          "fr/03345.mp3",
-          "zh/03345.mp3",
-          "gān zào de",
-          "[sek]"
-        ],
-        [
-          "稀疏的头发",
-          "cheveux rares",
-          "m.",
-          "fr/03346.mp3",
-          "zh/03346.mp3",
-          "xī shū de tóu fà",
-          "[(a)vo rar]"
-        ],
-        [
-          "副食商场",
-          "hallespl",
-          "",
-          "fr/03411.mp3",
-          "zh/03411.mp3",
-          "fù shí shāng chǎng",
-          "[al]"
-        ],
-        [
-          "店",
-          "magasin",
-          "m.",
-          "fr/03412.mp3",
-          "zh/03412.mp3",
-          "diàn",
-          "[magazé]"
-        ],
-        [
-          "店",
-          "boutique",
-          "",
-          "fr/03413.mp3",
-          "zh/03413.mp3",
-          "diàn",
-          "[butik]"
-        ],
-        [
-          "连锁店",
-          "magasina succursales",
-          "m.",
-          "fr/03414.mp3",
-          "zh/03414.mp3",
-          "lián suǒ diàn",
-          "[magaz& a sykyrsal]"
-        ],
-        [
-          "杂货铺",
-          "bazar",
-          "m.",
-          "fr/03415.mp3",
-          "zh/03415.mp3",
-          "zá huò pù",
-          "[baza:r]"
-        ],
-        [
-          "超市",
-          "supermarché",
-          "m.",
-          "fr/03416.mp3",
-          "zh/03416.mp3",
-          "chāo shì",
-          "[sypermarfe]"
-        ],
-        [
-          "书店",
-          "librairie ..",
-          "",
-          "fr/03417.mp3",
-          "zh/03417.mp3",
-          "shū diàn",
-          "[libre(e)ri]"
-        ],
-        [
-          "杂货店",
-          "epicerie",
-          "",
-          "fr/03418.mp3",
-          "zh/03418.mp3",
-          "zá huò diàn",
-          "[episri]"
-        ],
-        [
-          "百货商场",
-          "grand magasin",
-          "m.",
-          "fr/03419.mp3",
-          "zh/03419.mp3",
-          "bǎi huò shāng chǎng",
-          "[grämagazé]"
-        ],
-        [
-          "五金店",
-          "quincailleri /",
-          "",
-          "fr/03420.mp3",
-          "zh/03420.mp3",
-          "wǔ jīn diàn",
-          "[k&kajri]"
-        ],
-        [
-          "珠宝店",
-          "bijouterie ]",
-          "",
-          "fr/03421.mp3",
-          "zh/03421.mp3",
-          "zhū bǎo diàn",
-          "[bizutri]"
-        ],
-        [
-          "当铺",
-          "montdepiété",
-          "m",
-          "fr/03422.mp3",
-          "zh/03422.mp3",
-          "dàng pù",
-          "[m5dpjete]"
-        ],
-        [
-          "茶馆",
-          "maison de the",
-          "m.",
-          "fr/03423.mp3",
-          "zh/03423.mp3",
-          "chá guǎn",
-          "[mez5 da te]"
-        ],
-        [
-          "寄卖商店",
-          "magasin de commission",
-          "m.",
-          "fr/03424.mp3",
-          "zh/03424.mp3",
-          "jì mài shāng diàn",
-          "[magaz& d(a) komisj5]"
-        ],
-        [
-          "玩具店",
-          "magasin de jouets",
-          "m.",
-          "fr/03425.mp3",
-          "zh/03425.mp3",
-          "wán jù diàn",
-          "[magaz&da 3we]"
-        ],
-        [
-          "蔬菜水果店",
-          "kmarchand de légumes",
-          "m.",
-          "fr/03426.mp3",
-          "zh/03426.mp3",
-          "shū cài shuǐ guǒ diàn",
-          "[marfä d(a legym]"
-        ],
-        [
-          "宠物店",
-          "animalerie",
-          "",
-          "fr/03427.mp3",
-          "zh/03427.mp3",
-          "chǒng wù diàn",
-          "[animalri]"
-        ],
-        [
-          "肉店",
-          "boucherie /",
-          "",
-          "fr/03428.mp3",
-          "zh/03428.mp3",
-          "ròu diàn",
-          "[bufri]"
-        ],
-        [
-          "面包店",
-          "boulangerie",
-          "",
-          "fr/03429.mp3",
-          "zh/03429.mp3",
-          "miàn bāo diàn",
-          "[bulázri]"
-        ],
-        [
-          "咖啡店",
-          "ohcafe",
-          "m",
-          "fr/03430.mp3",
-          "zh/03430.mp3",
-          "kā fēi diàn",
-          "[kafe]"
-        ],
-        [
-          "家庭",
-          "famille",
-          "",
-          "fr/04171.mp3",
-          "zh/04171.mp3",
-          "jiā tíng",
-          "[famij]"
-        ],
-        [
-          "一家人",
-          "-toute la famille [tut la famijl",
+          "建筑",
+          "construction",
           "f.",
-          "fr/04172.mp3",
-          "zh/04172.mp3",
-          "yī jiā rén",
-          ""
+          "fr/12519.mp3",
+          "zh/12519.mp3",
+          "jiàn zhù",
+          "[kɔ̃stryksjɔ̃]"
         ],
         [
-          "关系",
-          "relation /.",
-          "",
-          "fr/04173.mp3",
-          "zh/04173.mp3",
-          "guān xì",
-          "[r(a)la(a)sj5]"
+          "广场",
+          "place",
+          "f.",
+          "fr/12520.mp3",
+          "zh/12520.mp3",
+          "guǎng chǎng",
+          "[plas]"
         ],
         [
-          "妻子",
-          "femme",
-          "",
-          "fr/04174.mp3",
-          "zh/04174.mp3",
-          "qī zǐ",
-          "[fam]"
+          "设立",
+          "créer",
+          "v.",
+          "fr/12521.mp3",
+          "zh/12521.mp3",
+          "shè lì",
+          "[kree]"
         ],
         [
-          "丈夫",
-          "mari",
-          "m",
-          "fr/04175.mp3",
-          "zh/04175.mp3",
-          "zhàng fū",
-          "[mari]"
-        ],
-        [
-          "妈妈",
-          "mere",
-          "",
-          "fr/04176.mp3",
-          "zh/04176.mp3",
-          "mā mā",
-          "[mer]"
-        ],
-        [
-          "父亲",
-          "Xpere",
-          "m",
-          "fr/04177.mp3",
-          "zh/04177.mp3",
-          "fù qīn",
-          "[perr]"
-        ],
-        [
-          "儿子",
-          "fils",
-          "m",
-          "fr/04178.mp3",
-          "zh/04178.mp3",
-          "ér zi",
-          "[fis]"
-        ],
-        [
-          "女儿",
-          "fille",
-          "",
-          "fr/04179.mp3",
-          "zh/04179.mp3",
-          "nǚ ér",
-          "[fij]"
-        ],
-        [
-          "亲戚",
-          "des parents",
+          "纪念碑",
+          "monument",
           "m.",
-          "fr/04180.mp3",
-          "zh/04180.mp3",
-          "qīn qī",
-          "[de para]"
+          "fr/12522.mp3",
+          "zh/12522.mp3",
+          "jì niàn bēi",
+          "[mɔnymɑ̃]"
         ],
         [
-          "爷爷外公",
-          "grand pere",
+          "摩天大楼",
+          "gratte-ciel  m",
+          "inv.",
+          "fr/12523.mp3",
+          "zh/12523.mp3",
+          "mó tiān dà lóu",
+          "[gratsjɛl]"
+        ],
+        [
+          "教堂",
+          "église",
+          "f.",
+          "fr/12524.mp3",
+          "zh/12524.mp3",
+          "jiào táng",
+          "[egli:z]"
+        ],
+        [
+          "水泥",
+          "ciment",
           "m.",
-          "fr/04181.mp3",
-          "zh/04181.mp3",
-          "yé yé wài gōng",
-          "[gräper]"
+          "fr/12525.mp3",
+          "zh/12525.mp3",
+          "shuǐ ní",
+          "[simɑ̃]"
         ],
         [
-          "奶奶姥姥",
-          ".grand mere",
-          "",
-          "fr/04182.mp3",
-          "zh/04182.mp3",
-          "nǎi nǎi lǎo lao",
-          "[grämer]"
-        ],
-        [
-          "叔叔",
-          "oncle",
+          "混凝土",
+          "béton",
           "m.",
-          "fr/04183.mp3",
-          "zh/04183.mp3",
-          "shū shū",
-          "[3kl]"
+          "fr/12526.mp3",
+          "zh/12526.mp3",
+          "hùn níng tǔ",
+          "[betɔ̃]"
         ],
         [
-          "姑母",
-          "tante[tat",
-          "",
-          "fr/04184.mp3",
-          "zh/04184.mp3",
-          "gū mǔ",
-          ""
+          "砖",
+          "brique",
+          "f.",
+          "fr/12527.mp3",
+          "zh/12527.mp3",
+          "zhuān",
+          "[brik]"
         ],
         [
-          "亲近的",
-          "familier,ere",
-          "",
-          "fr/04185.mp3",
-          "zh/04185.mp3",
-          "qīn jìn de",
-          "[familje,c:r]"
+          "拱门",
+          "porte cintrée",
+          "f.",
+          "fr/12528.mp3",
+          "zh/12528.mp3",
+          "gǒng mén",
+          "[pɔrt sɛ̃tre]"
         ],
         [
-          "亲属",
-          "parenté ].",
-          "",
-          "fr/04186.mp3",
-          "zh/04186.mp3",
-          "qīn shǔ",
-          "[paráte]"
+          "穹顶",
+          "coupole",
+          "f.",
+          "fr/12529.mp3",
+          "zh/12529.mp3",
+          "qióng dǐng",
+          "[kupɔl]"
         ],
         [
-          "表兄弟",
-          "cousin",
+          "宅邸",
+          "appartement",
           "m.",
-          "fr/04187.mp3",
-          "zh/04187.mp3",
-          "biǎo xiōng dì",
-          "[kuze]"
+          "fr/12530.mp3",
+          "zh/12530.mp3",
+          "zhái dǐ",
+          "[apartamɑ̃]"
         ],
         [
-          "侄女",
-          "niece",
-          "",
-          "fr/04188.mp3",
-          "zh/04188.mp3",
-          "zhí nǚ",
-          "[njes]"
+          "宏伟的",
+          "gigantesque",
+          "形",
+          "fr/12531.mp3",
+          "zh/12531.mp3",
+          "hóng wěi de",
+          "[ʒigɑ̃tɛsk]"
         ],
         [
-          "",
-          "confiance .",
-          "",
-          "fr/04189.mp3",
-          "",
-          "",
-          "[k5fjä:s]"
-        ],
-        [
-          "侄子窗一家人",
-          "neveu E -toute la famille",
-          "",
-          "fr/04190.mp3",
-          "zh/04190.mp3",
-          "zhí zi chuāng yī jiā rén",
-          "[navo]"
+          "华丽的",
+          "luxuriant, e",
+          "形",
+          "fr/12532.mp3",
+          "zh/12532.mp3",
+          "huá lì de",
+          "[lyksyrjɑ̃, ɑ̃t]"
         ]
       ],
       "s": [
         [
-          "Je monte dans leurs Corps et pose la main sur les che veux, les coups de pied. Jusqu'a ce que j'atteigne la destination. E",
-          "我骑在他们的身上扯住头发踢他们直到我到达目的地。",
-          "一《绝望的主妇》",
-          "fr/03347.mp3",
-          "zh/03347.mp3",
-          "wǒ qí zài tā men de shēn shàng chě zhù tóu fà tī tā men zhí dào wǒ dào dá mù dì dì",
-          ""
-        ],
-        [
-          "Cette fois, je sais que tu es un parasite, je suis aussi in- quiet,mais je vous crois, ces choses-la va bouleverser le passé,jespere que vous étes heureux tous les jours! TE!",
-          "这段时间我知道你很烦，我也很担心，但我相信你，这些不开心的事一定会过去的，希望你天天开心",
+          "Le bâtiment typique — Hutong se compose des maisons autour d'une cour carrée.",
+          "经典的建筑——方形四合院坐落在胡同里。",
           "",
-          "fr/03348.mp3",
-          "zh/03348.mp3",
-          "zhè duàn shí jiān wǒ zhī dào nǐ hěn fán wǒ yě hěn dān xīn dàn wǒ xiāng xìn nǐ zhè xiē bù kāi xīn de shì yí dìng huì guò qù de xī wàng nǐ tiān tiān kāi xīn",
+          "fr/12533.mp3",
+          "zh/12533.mp3",
+          "jīng diǎn de jiàn zhù — — fāng xíng sì hé yuàn zuò luò zài hú tóng lǐ 。",
           ""
         ],
         [
-          "Dans lest de la France,le climat est continental, il fait froid en hiver,chaud et sec en ct A#",
-          "在法国的东部是大陆性气候冬季寒冷夏季炎热而干燥。",
+          "Vous pouvez voir le monument.",
+          "可以看到纪念碑了。",
+          "《阿凡达》",
+          "fr/12534.mp3",
+          "zh/12534.mp3",
+          "kě yǐ kàn dào jì niàn bēi le 。",
+          ""
+        ],
+        [
+          "Malgré la progression continue du français, cette coexistence se prolonge jusqu'au XVIIe siècle, et mêmebien plus tard dans le monde de l'Université et dans celui de l'église.",
+          "尽管法语持续取得进展，但这种共存现象一直延续至十七世纪，甚至更晚，这一现象依然存在于大学和教会中。",
           "",
-          "fr/03349.mp3",
-          "zh/03349.mp3",
-          "zài fǎ guó de dōng bù shì dà lù xìng qì hòu dōng jì hán lěng xià jì yán rè ér gān zào",
+          "fr/12535.mp3",
+          "zh/12535.mp3",
+          "jǐn guǎn fǎ yǔ chí xù qǔ dé jìn zhǎn ， dàn zhè zhǒng gòng cún xiàn xiàng yì zhí yán xù zhì shí qī shì jì ， shèn zhì gèng wǎn ， zhè yí xiàn xiàng yī rán cún zài yú dà xué hé jiào huì zhōng 。",
           ""
         ],
         [
-          "Nicholas visitait sa librairie pendant que Mme.Berthier faisait lemenage./",
-          "尼古拉参观书店。贝蒂尔太太打扫房间。",
-          "一《小淘气尼古拉》",
-          "fr/03431.mp3",
-          "zh/03431.mp3",
-          "ní gǔ lā cān guān shū diàn bèi dì ěr tài tài dǎ sǎo fáng jiān",
-          ""
-        ],
-        [
-          "La crise économique a frappé de plein fouet toutes les professions, sauf celle de produits de luxe,surtout les bijouteries et les vins rouges sont presqueepargnés. E FATX.",
-          "经济危机已经波及所有产业但是奢侈品，尤其珠宝、红酒似乎完全不受影响",
+          "Aussi, il y a la différence gigantesque sur la nourriture au Nord et au sud de la Chine.",
+          "中国的南方和北方在饮食上也是有巨大差异的。",
           "",
-          "fr/03432.mp3",
-          "zh/03432.mp3",
-          "jīng jì wēi jī yǐ jīng bō jí suǒ yǒu chǎn yè dàn shì shē chǐ pǐn yóu qí zhū bǎo hóng jiǔ sì hū wán quán bù shòu yǐng xiǎng",
-          ""
-        ],
-        [
-          "Dans le café ou elle tra- vaille, tout le monde l'aime.",
-          "在她工作的咖啡店，人人都",
-          "喜欢她。一《绝望的主妇》",
-          "fr/03433.mp3",
-          "zh/03433.mp3",
-          "zài tā gōng zuò de kā fēi diàn rén rén dōu",
-          ""
-        ],
-        [
-          "Nous sommes de la fa- mille, nous sommes dans la fa mille, nous sommes des alliés, nous sommes des amis,nous avons nos convictions,a fait valoir le président Sarkozy. M",
-          "萨科奇还强调说：“我们来自同一个大家庭，我们身处于大家庭中我们是盟友是朋友，我们有我们的信仰。”",
-          "",
-          "fr/04191.mp3",
-          "zh/04191.mp3",
-          "sà kē qí hái qiáng diào shuō wǒ men lái zì tóng yī gè dà jiā tíng wǒ men shēn chǔ yú dà jiā tíng zhōng wǒ men shì méng yǒu shì péng yǒu wǒ men yǒu wǒ men de xìn yǎng",
-          ""
-        ],
-        [
-          "Notre relation est fondée sur la confiance.",
-          "我们的关系是建立在信任的基础之上的。",
-          "",
-          "fr/04192.mp3",
-          "zh/04192.mp3",
-          "wǒ men de guān xì shì jiàn lì zài xìn rèn de jī chǔ zhī shàng de",
-          ""
-        ],
-        [
-          "Mon mari ne peut pas to- lérerdes retards.",
-          "我丈夫不能容忍拖延。",
-          "",
-          "fr/04193.mp3",
-          "zh/04193.mp3",
-          "wǒ zhàng fū bù néng róng rěn tuō yán",
-          ""
-        ],
-        [
-          "Dans le jardin,une petite fille blonde parle francais avec lesétudiants.",
-          "在花园里有一个金发碧眼小姑娘正在和学生们讲法语。",
-          "",
-          "fr/04194.mp3",
-          "zh/04194.mp3",
-          "zài huā yuán lǐ yǒu yí gè jīn fà bì yǎn xiǎo gū niáng zhèng zài hé xué shēng men jiǎng fǎ yǔ",
+          "fr/12536.mp3",
+          "zh/12536.mp3",
+          "zhōng guó de nán fāng hé běi fāng zài yǐn shí shàng yě shì yǒu jù dà chà yì de 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "destination",
-          "",
-          "fr/03350.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "目的地",
-          "",
-          "",
-          "",
-          "zh/03351.mp3",
-          "mù dì dì",
-          "[destinaasj5]"
-        ],
-        [
-          "",
-          "parasite",
-          "adj",
-          "fr/03352.mp3",
-          "",
-          "",
-          "[parazit]"
-        ],
-        [
-          "多余的",
-          "",
-          "",
-          "",
-          "zh/03353.mp3",
-          "duō yú de",
-          ""
-        ],
-        [
-          "气候",
-          "climat",
-          "nm.",
-          "fr/03354.mp3",
-          "zh/03354.mp3",
-          "qì hòu",
-          "[klima]"
-        ],
-        [
-          "",
-          "continental,e",
-          "",
-          "fr/03355.mp3",
-          "",
-          "",
-          "[ktinätal]"
-        ],
-        [
-          "大陆性的",
-          "",
-          "adj",
-          "",
-          "zh/03356.mp3",
-          "dà lù xìng de",
-          ""
-        ],
-        [
-          "",
-          "ménage",
-          "",
-          "fr/03434.mp3",
-          "",
-          "",
-          "[mena:3]"
-        ],
-        [
-          "家务",
-          "",
-          "",
-          "",
-          "zh/03435.mp3",
-          "jiā wù",
-          ""
-        ],
-        [
-          "",
-          "économique",
-          "",
-          "fr/03436.mp3",
-          "",
-          "",
-          "[ekonomik]"
-        ],
-        [
-          "经济的",
-          "",
+          "典型的",
+          "typique",
           "adj.",
-          "",
-          "zh/03437.mp3",
-          "jīng jì de",
-          ""
+          "fr/12537.mp3",
+          "zh/12537.mp3",
+          "diǎn xíng de",
+          "[tipik]"
         ],
         [
-          "鞭策",
-          "fouet",
-          "n.m.",
-          "fr/03438.mp3",
-          "zh/03438.mp3",
-          "biān cè",
-          "[fwe]"
-        ],
-        [
-          "品牌名称",
-          "luxe",
-          "m.",
-          "fr/03439.mp3",
-          "zh/03439.mp3",
-          "pǐn pái míng chēng",
-          "[lyks]"
-        ],
-        [
-          "",
-          "épargner w.",
-          "",
-          "fr/03440.mp3",
-          "",
-          "",
-          "[eparne]"
-        ],
-        [
-          "节省节约",
-          "",
-          "",
-          "",
-          "zh/03441.mp3",
-          "jié shěng jié yuē",
-          ""
-        ],
-        [
-          "口联合的",
-          "allié,e",
+          "方形的",
+          "carrée",
           "adj.",
-          "fr/04195.mp3",
-          "zh/04195.mp3",
-          "kǒu lián hé de",
-          "[alje]"
+          "fr/12538.mp3",
+          "zh/12538.mp3",
+          "fāng xíng de",
+          "[ka(ʀ)ʀe]"
         ],
         [
-          "",
-          "conviction",
-          "",
-          "fr/04196.mp3",
-          "",
-          "",
-          "[kviksj5]"
+          "尽管",
+          "malgré",
+          "prép.",
+          "fr/12539.mp3",
+          "zh/12539.mp3",
+          "jǐn guǎn",
+          "[malɡʀe]"
         ],
         [
-          "信心",
-          "",
-          "",
-          "",
-          "zh/04197.mp3",
-          "xìn xīn",
-          ""
+          "前进",
+          "progression",
+          "n.f.",
+          "fr/12540.mp3",
+          "zh/12540.mp3",
+          "qián jìn",
+          "[pʀɔɡʀɛ(ɛ)sjɔ̃]"
         ],
         [
-          "信任",
-          "",
-          "",
-          "",
-          "zh/04198.mp3",
-          "xìn rèn",
-          ""
+          "共存",
+          "coexistence",
+          "n.f.",
+          "fr/12541.mp3",
+          "zh/12541.mp3",
+          "gòng cún",
+          "[kɔɛɡzistɑ̃:s]"
         ],
         [
-          "宽容",
-          "tolérer",
-          "vt.",
-          "fr/04199.mp3",
-          "zh/04199.mp3",
-          "kuān róng",
-          "[tolere]"
+          "差距，区别",
+          "différence",
+          "n.f.",
+          "fr/12542.mp3",
+          "zh/12542.mp3",
+          "chà jù ， qū bié",
+          "[difeʀɑ̃:s]"
         ]
       ]
     },
     {
       "no": 2,
-      "name": "第2节",
+      "name": "居家隔间",
       "w": [
         [
-          "理发店",
-          "salon de coiffure",
-          "m.",
-          "fr/03357.mp3",
-          "zh/03357.mp3",
-          "lǐ fà diàn",
-          "[sal5 d(a kwafy:r]"
-        ],
-        [
-          "理发师",
-          "artiste capillaire",
-          "",
-          "fr/03358.mp3",
-          "zh/03358.mp3",
-          "lǐ fà shī",
-          "[artist kapil(l)e:r]"
-        ],
-        [
-          "理发师",
-          "barbier",
-          "m",
-          "fr/03359.mp3",
-          "zh/03359.mp3",
-          "lǐ fà shī",
-          "[barbje]"
-        ],
-        [
-          "理发",
-          "se faire couper les cheveux t.",
-          "",
-          "fr/03360.mp3",
-          "zh/03360.mp3",
-          "lǐ fà",
-          "[safe:r kupe le S(a)va]"
-        ],
-        [
-          "发型",
-          "coiffure /",
-          "",
-          "fr/03361.mp3",
-          "zh/03361.mp3",
-          "fà xíng",
-          "[kwafy:r]"
-        ],
-        [
-          "发型",
-          "coupe",
-          "",
-          "fr/03362.mp3",
-          "zh/03362.mp3",
-          "fà xíng",
-          "[kup]"
-        ],
-        [
-          "理发",
-          "coupe de cheveux/",
-          "",
-          "fr/03363.mp3",
-          "zh/03363.mp3",
-          "lǐ fà",
-          "[kup de a)vo]"
-        ],
-        [
-          "理发",
-          "coiffer",
-          "",
-          "fr/03364.mp3",
-          "zh/03364.mp3",
-          "lǐ fà",
-          "[kwafe]"
-        ],
-        [
-          "修剪",
-          "tailler t",
-          "",
-          "fr/03365.mp3",
-          "zh/03365.mp3",
-          "xiū jiǎn",
-          "[taaje]"
-        ],
-        [
-          "平头",
-          "tete platetet plat]y:",
-          "",
-          "fr/03366.mp3",
-          "zh/03366.mp3",
-          "píng tóu",
-          ""
-        ],
-        [
-          "刘海儿",
-          "Lfrange",
-          "",
-          "fr/03367.mp3",
-          "zh/03367.mp3",
-          "liú hǎi er",
-          "[frá]"
-        ],
-        [
-          "剪",
-          "tondre",
-          "",
-          "fr/03368.mp3",
-          "zh/03368.mp3",
-          "jiǎn",
-          "[t5dr]"
-        ],
-        [
-          "卷曲的",
-          "frisé,",
-          "",
-          "fr/03369.mp3",
-          "zh/03369.mp3",
-          "juǎn qū de",
-          "[frize]"
-        ],
-        [
-          "烫发",
-          "friser les cheveux",
-          "",
-          "fr/03370.mp3",
-          "zh/03370.mp3",
-          "tàng fà",
-          "[frize le avo]"
-        ],
-        [
-          "分开",
-          "division",
-          "",
-          "fr/03371.mp3",
-          "zh/03371.mp3",
-          "fēn kāi",
-          "[divizj5]"
-        ],
-        [
-          "分开",
-          "séparer",
-          "",
-          "fr/03372.mp3",
-          "zh/03372.mp3",
-          "fēn kāi",
-          "[separe]"
-        ],
-        [
-          "边",
-          "ourlet",
-          "m",
-          "fr/03373.mp3",
-          "zh/03373.mp3",
-          "biān",
-          "[urle]"
-        ],
-        [
-          "中央",
-          "milieu",
-          "m",
-          "fr/03374.mp3",
-          "zh/03374.mp3",
-          "zhōng yāng",
-          "[milja]"
-        ],
-        [
-          "电脑",
-          "ordinateur brdinatce:r]",
-          "m",
-          "fr/04089.mp3",
-          "zh/04089.mp3",
-          "diàn nǎo",
-          ""
-        ],
-        [
-          "键盘",
-          "clavier",
-          "m",
-          "fr/04090.mp3",
-          "zh/04090.mp3",
-          "jiàn pán",
-          "[klavje]"
-        ],
-        [
-          "笔记本",
-          "portable",
-          "m.",
-          "fr/04091.mp3",
-          "zh/04091.mp3",
-          "bǐ jì běn",
-          "[portabl]"
-        ],
-        [
-          "平板电脑",
-          "tablet",
-          "m.",
-          "fr/04092.mp3",
-          "zh/04092.mp3",
-          "píng bǎn diàn nǎo",
-          "[tablot]"
-        ],
-        [
-          "数据",
-          "data",
-          "m",
-          "fr/04093.mp3",
-          "zh/04093.mp3",
-          "shù jù",
-          "[data]"
-        ],
-        [
-          "黑客",
-          "pirate",
-          "m",
-          "fr/04094.mp3",
-          "zh/04094.mp3",
-          "hēi kè",
-          "[pirat]"
-        ],
-        [
-          "硬件",
-          "matériel",
-          "m.",
-          "fr/04095.mp3",
-          "zh/04095.mp3",
-          "yìng jiàn",
-          "[materjel]"
-        ],
-        [
-          "软件",
-          "logiciel",
-          "m",
-          "fr/04096.mp3",
-          "zh/04096.mp3",
-          "ruǎn jiàn",
-          "[lzisjel]"
-        ],
-        [
-          "鼠标",
-          "souris",
-          "",
-          "fr/04097.mp3",
-          "zh/04097.mp3",
-          "shǔ biāo",
-          "[suri]"
-        ],
-        [
-          "联机的",
-          "en ligne",
-          "",
-          "fr/04098.mp3",
-          "zh/04098.mp3",
-          "lián jī de",
-          "[ä lin]"
-        ],
-        [
-          "脱机的阁程序",
-          "hors ligneor lin] programme",
-          "m.",
-          "fr/04099.mp3",
-          "zh/04099.mp3",
-          "tuō jī de gé chéng xù",
-          "[program]"
-        ],
-        [
-          "窗口",
-          "aperture /.",
-          "",
-          "fr/04100.mp3",
-          "zh/04100.mp3",
-          "chuāng kǒu",
-          "[apertyr]"
-        ],
-        [
-          "缩放",
-          "condensation",
+          "卧室",
+          "chambre à coucher",
           "f.",
-          "fr/04101.mp3",
-          "zh/04101.mp3",
-          "suō fàng",
-          "[k5dása(a)sj5]"
+          "fr/12543.mp3",
+          "zh/12543.mp3",
+          "wò shì",
+          "[ʃɑ̃:br a kuʃe]"
         ],
         [
-          "同步",
-          "synchronisation ./.",
-          "",
-          "fr/04102.mp3",
-          "zh/04102.mp3",
-          "tóng bù",
-          "[s&kroniza(a)sj5]"
+          "房间",
+          "chambre",
+          "f.",
+          "fr/12544.mp3",
+          "zh/12544.mp3",
+          "fáng jiān",
+          "[ʃɑ̃:br]"
         ],
         [
-          "打印机",
-          "TEDmachine d'imprimerie /.",
-          "",
-          "fr/04103.mp3",
-          "zh/04103.mp3",
-          "dǎ yìn jī",
-          "[mafin d&primri]"
+          "客厅",
+          "salon",
+          "m.",
+          "fr/12545.mp3",
+          "zh/12545.mp3",
+          "kè tīng",
+          "[salɔ̃]"
         ],
         [
-          "网络",
-          "réseau",
-          "m",
-          "fr/04104.mp3",
-          "zh/04104.mp3",
-          "wǎng luò",
-          "[rezo]"
+          "客厅",
+          "parloir",
+          "m.",
+          "fr/12546.mp3",
+          "zh/12546.mp3",
+          "kè tīng",
+          "[parlwa:r]"
         ],
         [
-          "无线的",
-          "sans fil",
-          "",
-          "fr/04105.mp3",
-          "zh/04105.mp3",
-          "wú xiàn de",
-          "[säfil]"
+          "隔断",
+          "partition",
+          "f.",
+          "fr/12547.mp3",
+          "zh/12547.mp3",
+          "gé duàn",
+          "[partisjɔ̃]"
+        ],
+        [
+          "厨房",
+          "cuisine",
+          "f.",
+          "fr/12548.mp3",
+          "zh/12548.mp3",
+          "chú fáng",
+          "[kɥizin]"
+        ],
+        [
+          "食堂",
+          "cantine",
+          "f.",
+          "fr/12549.mp3",
+          "zh/12549.mp3",
+          "shí táng",
+          "[kɑ̃tin]"
+        ],
+        [
+          "厕所",
+          "toilettes",
+          "f.",
+          "fr/12550.mp3",
+          "zh/12550.mp3",
+          "cè suǒ",
+          "[twalɛt]"
+        ],
+        [
+          "走廊",
+          "couloir",
+          "m.",
+          "fr/12551.mp3",
+          "zh/12551.mp3",
+          "zǒu láng",
+          "[kulwa:r]"
+        ],
+        [
+          "储藏室",
+          "fourre-tout  m",
+          "inv.",
+          "fr/12552.mp3",
+          "zh/12552.mp3",
+          "chǔ cáng shì",
+          "[furtu]"
+        ],
+        [
+          "门厅",
+          "salle d'entrée",
+          "f.",
+          "fr/12553.mp3",
+          "zh/12553.mp3",
+          "mén tīng",
+          "[sal dɑ̃tre]"
+        ],
+        [
+          "阁楼",
+          "mansarde",
+          "f.",
+          "fr/12554.mp3",
+          "zh/12554.mp3",
+          "gé lóu",
+          "[mɑ̃sard]"
+        ],
+        [
+          "地下室",
+          "basement",
+          "m.",
+          "fr/12555.mp3",
+          "zh/12555.mp3",
+          "dì xià shì",
+          "[basemɑ̃]"
+        ],
+        [
+          "地窖",
+          "silo",
+          "m.",
+          "fr/12556.mp3",
+          "zh/12556.mp3",
+          "dì jiào",
+          "[silo]"
+        ],
+        [
+          "卫生间",
+          "waters",
+          "m.",
+          "fr/12557.mp3",
+          "zh/12557.mp3",
+          "wèi shēng jiān",
+          "[watɛr]"
+        ],
+        [
+          "客房",
+          "chambre d'amis",
+          "f.",
+          "fr/12558.mp3",
+          "zh/12558.mp3",
+          "kè fáng",
+          "[ʃɑ̃br dami]"
+        ],
+        [
+          "书房",
+          "cabinet de travail",
+          "m.",
+          "fr/12559.mp3",
+          "zh/12559.mp3",
+          "shū fáng",
+          "[kabine də travaj]"
         ]
       ],
       "s": [
         [
-          "Je vis assis, tel quun ange aux mains d'un barbier. F.",
-          "我就这样坐着，像一个理发师手下的天使",
+          "Je vais me taire dans la chambre et faire semblant que je n'existe pas.",
+          "我会在卧室里默不作声，假装我不存在。",
+          "《哈利波特与密室》",
+          "fr/12560.mp3",
+          "zh/12560.mp3",
+          "wǒ huì zài wò shì lǐ mò bú zuò shēng ， jiǎ zhuāng wǒ bù cún zài 。",
+          ""
+        ],
+        [
+          "Pourriez-vous me dire où se trouvent les toilettes, s'il vous plaît?",
+          "请告诉我洗手间在哪里？",
           "",
-          "fr/03375.mp3",
-          "zh/03375.mp3",
-          "wǒ jiù zhè yàng zuò zhe xiàng yí gè lǐ fà shī shǒu xià de tiān shǐ",
+          "fr/12561.mp3",
+          "zh/12561.mp3",
+          "qǐng gào sù wǒ xǐ shǒu jiān zài nǎ lǐ ？",
           ""
         ],
         [
-          "Je pense qu'elle aimait la coiffure..",
-          "我想她喜欢这个发型",
-          "一《加菲猫2》",
-          "fr/03376.mp3",
-          "zh/03376.mp3",
-          "wǒ xiǎng tā xǐ huān zhè ge fà xíng",
-          ""
-        ],
-        [
-          "Que puis-je faire pour vous?Permanente,manu cure?",
-          "能为你做什么烫发",
-          "美甲？——《丑女贝蒂》",
-          "fr/03377.mp3",
-          "zh/03377.mp3",
-          "néng wèi nǐ zuò shén me tàng fà",
-          ""
-        ],
-        [
-          "Vous etes bien coiffée.On dirait que vous étes allée chez le coiffeur.",
-          "您头发梳得很好您好像去过理发店了。",
+          "Le couloir est vide. Pourtant, le bruit continue.",
+          "走廊里一个人也没有，但声音还在。",
           "",
-          "fr/03378.mp3",
-          "zh/03378.mp3",
-          "nín tóu fà shū dé hěn hǎo nín hǎo xiàng qù guò lǐ fà diàn le",
+          "fr/12562.mp3",
+          "zh/12562.mp3",
+          "zǒu láng lǐ yí gè rén yě méi yǒu ， dàn shēng yīn hái zài 。",
           ""
         ],
         [
-          "La frange se porte sur un coté pour créer un look fé- minin et glamour.L x",
-          "刘海儿梳到一边来增加女人味和魅力",
+          "Il y a une cantine là-bas, je t'invite à déjeuner. Ça va?",
+          "那儿有一个食堂，我请你去吃午饭，怎么样？",
           "",
-          "fr/03379.mp3",
-          "zh/03379.mp3",
-          "liú hǎi er shū dào yī biān lái zēng jiā nǚ rén wèi hé mèi lì",
+          "fr/12563.mp3",
+          "zh/12563.mp3",
+          "nà ér yǒu yí gè shí táng ， wǒ qǐng nǐ qù chī wǔ fàn ， zěn me yàng ？",
           ""
         ],
         [
-          "B J'ai envahi son ordina- teur a la maison.",
-          "我侵入了她的家庭电脑。",
-          "《尼基塔》",
-          "fr/04106.mp3",
-          "zh/04106.mp3",
-          "wǒ qīn rù le tā de jiā tíng diàn nǎo",
-          ""
-        ],
-        [
-          "Depuis quelques mois la Ratp sest enfin décidée a se mettre a l'Open Data,procédé visant a rendre public moults chiffres habituellement dis tillés au compte goutte./ ERATP A A",
-          "几个月以来，负责营运巴黎地铁的巴黎大众运输公司终于决定开放数据向大众公开了很多习惯上只是慢慢少量公布的数据",
+          "Nous pouvons faire le ménage par la cuisine.",
+          "我们做家务从厨房开始。",
           "",
-          "fr/04107.mp3",
-          "zh/04107.mp3",
-          "jǐ gè yuè yǐ lái fù zé yíng yùn bā lí dì tiě de bā lí dà zhòng yùn shū gōng sī zhōng yú jué dìng kāi fàng shù jù xiàng dà zhòng gōng kāi le hěn duō xí guàn shàng zhǐ shì màn màn shǎo liàng gōng bù de shù jù",
-          ""
-        ],
-        [
-          "Il sagit dun programme de 45 minutes composé de courts extraits de la télévision francaise.45",
-          "播放时间为分钟，为法国电视节目的节选。",
-          "",
-          "fr/04108.mp3",
-          "zh/04108.mp3",
-          "bō fàng shí jiān wèi fēn zhōng wèi fǎ guó diàn shì jié mù de jié xuǎn",
-          ""
-        ],
-        [
-          "Quand on est confronté réseau de publicité au,nous devons comprendre beau- coup plus de réseau de pu blicite.",
-          "当网络遇到广告我们对于网络广告的理解已经远远不止于网络广告。",
-          "",
-          "fr/04109.mp3",
-          "zh/04109.mp3",
-          "dāng wǎng luò yù dào guǎng gào wǒ men duì yú wǎng luò guǎng gào de lǐ jiě yǐ jīng yuǎn yuǎn bù zhǐ yú wǎng luò guǎng gào",
+          "fr/12564.mp3",
+          "zh/12564.mp3",
+          "wǒ men zuò jiā wù cóng chú fáng kāi shǐ 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "manucure",
-          "",
-          "fr/03380.mp3",
-          "",
-          "",
-          "[manykyre]"
+          "似乎，好像",
+          "sembler",
+          "v.i.",
+          "fr/12565.mp3",
+          "zh/12565.mp3",
+          "shì hū ， hǎo xiàng",
+          "[sɑ̃ble]"
         ],
         [
-          "指甲护理",
-          "",
-          "nf.",
-          "",
-          "zh/03381.mp3",
-          "zhǐ jiǎ hù lǐ",
-          ""
+          "声音",
+          "bruit",
+          "n.m.",
+          "fr/12566.mp3",
+          "zh/12566.mp3",
+          "shēng yīn",
+          "[brɥi]"
         ],
         [
-          "给梳头",
-          "coiffé v",
-          "",
-          "fr/03382.mp3",
-          "zh/03382.mp3",
-          "gěi shū tóu",
-          "[kwafe]"
-        ],
-        [
-          "魅力",
-          "glamour .",
-          "m.",
-          "fr/03383.mp3",
-          "zh/03383.mp3",
-          "mèi lì",
-          "[glxma]"
-        ],
-        [
-          "理发",
-          "coiffer",
-          "",
-          "fr/03384.mp3",
-          "zh/03384.mp3",
-          "lǐ fà",
-          ""
-        ],
-        [
-          "侵入",
-          "envahir wt.",
-          "",
-          "fr/04110.mp3",
-          "zh/04110.mp3",
-          "qīn rù",
-          "[ävair]"
-        ],
-        [
-          "",
-          "habituellement",
-          "",
-          "fr/04111.mp3",
-          "",
-          "",
-          "[abityelmá]"
-        ],
-        [
-          "通常一般",
-          "adv-",
-          "",
-          "fr/04112.mp3",
-          "zh/04112.mp3",
-          "tōng cháng yì bān",
-          ""
-        ],
-        [
-          "选集",
-          "extraitn.pl.",
-          "",
-          "fr/04113.mp3",
-          "zh/04113.mp3",
-          "xuǎn jí",
-          "[ekstre]"
-        ],
-        [
-          "",
-          "publicitén",
-          "",
-          "fr/04114.mp3",
-          "",
-          "",
-          "[pyblisite]"
-        ],
-        [
-          "广告",
-          "",
-          "",
-          "",
-          "zh/04115.mp3",
-          "guǎng gào",
-          ""
+          "邀请",
+          "inviter",
+          "v.t.",
+          "fr/12567.mp3",
+          "zh/12567.mp3",
+          "yāo qǐng",
+          "[ɛ̃v ite]"
         ]
       ]
     },
     {
       "no": 3,
-      "name": "第3节",
+      "name": "电梯 / 楼梯",
       "w": [
         [
           "扶手梯",
           "escalier avec rampe",
           "m.",
-          "fr/01567.mp3",
-          "zh/01567.mp3",
+          "fr/12568.mp3",
+          "zh/12568.mp3",
           "fú shǒu tī",
-          "[eskalje avek rásp]"
+          "[ɛskalje avɛk rɑ̃:p]"
         ],
         [
           "电梯",
           "ascenseur",
           "m.",
-          "fr/01568.mp3",
-          "zh/01568.mp3",
+          "fr/12569.mp3",
+          "zh/12569.mp3",
           "diàn tī",
-          "[asascir]"
+          "[asɑ̃sœ:r]"
         ],
         [
           "楼梯",
           "escalier",
           "m.",
-          "fr/01569.mp3",
-          "zh/01569.mp3",
+          "fr/12570.mp3",
+          "zh/12570.mp3",
           "lóu tī",
-          "[eskalje]"
+          "[ɛskalje]"
         ],
         [
           "栏杆",
           "parapet",
-          "m",
-          "fr/01570.mp3",
-          "zh/01570.mp3",
+          "m.",
+          "fr/12571.mp3",
+          "zh/12571.mp3",
           "lán gān",
-          "[parape]"
+          "[parapɛ]"
         ],
         [
           "楼梯段",
-          "volée descalier .",
-          "",
-          "fr/01571.mp3",
-          "zh/01571.mp3",
+          "volée d'escalier",
+          "f.",
+          "fr/12572.mp3",
+          "zh/12572.mp3",
           "lóu tī duàn",
-          "[vole deskalje]"
+          "[vɔle dɛskalje]"
         ],
         [
           "螺旋形的",
-          "hélicoide",
-          "",
-          "fr/01572.mp3",
-          "zh/01572.mp3",
+          "hélicoïde",
+          "形",
+          "fr/12573.mp3",
+          "zh/12573.mp3",
           "luó xuán xíng de",
-          "[elikoid]"
+          "[elikɔid]"
         ],
         [
           "眩晕的",
           "vertige",
-          "m",
-          "fr/01573.mp3",
-          "zh/01573.mp3",
+          "m.",
+          "fr/12574.mp3",
+          "zh/12574.mp3",
           "xuàn yūn de",
-          "[verti]"
+          "[verti:ʒ]"
         ],
         [
           "一步",
-          "-pas",
+          "pas",
           "m.",
-          "fr/01574.mp3",
-          "zh/01574.mp3",
-          "yī bù",
-          "[paa]"
+          "fr/12575.mp3",
+          "zh/12575.mp3",
+          "yí bù",
+          "[pa(ə)]"
         ],
         [
           "扶手",
           "appui",
-          "m",
-          "fr/01575.mp3",
-          "zh/01575.mp3",
+          "m.",
+          "fr/12576.mp3",
+          "zh/12576.mp3",
           "fú shǒu",
-          "[apyi]"
+          "[apɥi]"
         ],
         [
           "栏杆",
-          "balustrade .",
-          "",
-          "fr/01576.mp3",
-          "zh/01576.mp3",
+          "balustrade",
+          "f.",
+          "fr/12577.mp3",
+          "zh/12577.mp3",
           "lán gān",
-          "[balystrad]"
+          "[balystʁad]"
         ],
         [
-          "故障短缺少某物",
-          "panne en pannede",
-          "",
-          "fr/01577.mp3",
-          "zh/01577.mp3",
-          "gù zhàng duǎn quē shǎo mǒu wù",
+          "故障",
+          "panne",
+          "f.",
+          "fr/12578.mp3",
+          "zh/12578.mp3",
+          "gù zhàng",
           "[pan]"
         ],
         [
-          "楼下励出故障",
-          "dessous détraquerde trake].",
-          "",
-          "fr/01578.mp3",
-          "zh/01578.mp3",
-          "lóu xià lì chū gù zhàng",
-          "[dasu]"
+          "缺少某物",
+          "en panne de",
+          "固",
+          "fr/12579.mp3",
+          "zh/12579.mp3",
+          "quē shǎo mǒu wù",
+          ""
+        ],
+        [
+          "楼下",
+          "dessous",
+          "副",
+          "fr/12580.mp3",
+          "zh/12580.mp3",
+          "lóu xià",
+          "[d(ə)su]"
+        ],
+        [
+          "出故障",
+          "détraquer",
+          "v.t.",
+          "fr/12581.mp3",
+          "zh/12581.mp3",
+          "chū gù zhàng",
+          "[de tʁake]"
         ],
         [
           "修理",
           "réparer",
-          "",
-          "fr/01579.mp3",
-          "zh/01579.mp3",
+          "v.t.",
+          "fr/12582.mp3",
+          "zh/12582.mp3",
           "xiū lǐ",
-          "[repare]"
+          "[ʁepaʁe]"
         ],
         [
           "楼层",
           "étage",
-          "m",
-          "fr/01580.mp3",
-          "zh/01580.mp3",
+          "m.",
+          "fr/12583.mp3",
+          "zh/12583.mp3",
           "lóu céng",
-          "[eta]"
+          "[eta:ʒ]"
         ],
         [
-          "纤",
+          "绊",
           "entraver",
-          "",
-          "fr/01581.mp3",
-          "zh/01581.mp3",
-          "xiān",
-          "[ätrave]"
+          "v.t.",
+          "fr/12584.mp3",
+          "zh/12584.mp3",
+          "bàn",
+          "[ɑ̃tʁave]"
         ],
         [
           "摔倒",
           "tomber",
-          "",
-          "fr/01582.mp3",
-          "zh/01582.mp3",
-          "shuāi dǎo",
-          "[t5be]"
-        ],
-        [
-          "洗发水客头发养护",
-          "shampooing soins capil laires",
-          "m.",
-          "fr/03385.mp3",
-          "zh/03385.mp3",
-          "xǐ fà shuǐ kè tóu fà yǎng hù",
-          "[äpwé]"
-        ],
-        [
-          "发夹",
-          "épinglea cheveux /",
-          "",
-          "fr/03386.mp3",
-          "zh/03386.mp3",
-          "fā jiā",
-          "[ep&:gl aSava]"
-        ],
-        [
-          "卷起",
-          "retroussement",
-          "m.",
-          "fr/03387.mp3",
-          "zh/03387.mp3",
-          "juǎn qǐ",
-          "[r(a)trusma]"
-        ],
-        [
-          "乳胶",
-          "émulsion .",
-          "",
-          "fr/03388.mp3",
-          "zh/03388.mp3",
-          "rǔ jiāo",
-          "[emylsjδ]"
-        ],
-        [
-          "吹风机",
-          "l séchoira cheveux",
-          "m",
-          "fr/03389.mp3",
-          "zh/03389.mp3",
-          "chuī fēng jī",
-          "[sefwair a J(a)vo]"
-        ],
-        [
-          "吹风机",
-          "l seche-cheveux",
-          "inv",
-          "fr/03390.mp3",
-          "zh/03390.mp3",
-          "chuī fēng jī",
-          "[seffavo]"
-        ],
-        [
-          "护发素",
-          "conditionneur",
-          "m.",
-          "fr/03391.mp3",
-          "zh/03391.mp3",
-          "hù fà sù",
-          "[kšdisjöncr]"
-        ],
-        [
-          "发蜡",
-          "pommade /.",
-          "",
-          "fr/03392.mp3",
-          "zh/03392.mp3",
-          "fà là",
-          "[pomad]"
-        ],
-        [
-          "护法用品",
-          "articles pour conditionner les cheveux",
-          "",
-          "fr/03393.mp3",
-          "zh/03393.mp3",
-          "hù fǎ yòng pǐn",
-          "[artikl pur kdisjone le S(a)va]"
-        ],
-        [
-          "夹子",
-          "pince",
-          "f",
-          "fr/03394.mp3",
-          "zh/03394.mp3",
-          "jiā zi",
-          "[p&s]"
-        ],
-        [
-          "软化",
-          "amollir",
-          "",
-          "fr/03395.mp3",
-          "zh/03395.mp3",
-          "ruǎn huà",
-          "[amoli:r]"
-        ],
-        [
-          "定型摩丝",
-          "mousse coiffante",
-          "f.",
-          "fr/03396.mp3",
-          "zh/03396.mp3",
-          "dìng xíng mó sī",
-          "[mus kwafat]"
-        ],
-        [
-          "染色",
-          "coloration /.",
-          "",
-          "fr/03397.mp3",
-          "zh/03397.mp3",
-          "rǎn sè",
-          "[kolorasj5]"
-        ],
-        [
-          "剪刀",
-          "] ciseaux",
-          "m",
-          "fr/03398.mp3",
-          "zh/03398.mp3",
-          "jiǎn dāo",
-          "[sizo]"
-        ],
-        [
-          "冲洗",
-          "rincer",
-          "",
-          "fr/03399.mp3",
-          "zh/03399.mp3",
-          "chōng xǐ",
-          "[r&se]"
-        ],
-        [
-          "梳理",
-          "démeler .",
-          "",
-          "fr/03400.mp3",
-          "zh/03400.mp3",
-          "shū lǐ",
-          "[deme(e)le]"
-        ],
-        [
-          "网",
-          "Internet",
-          "m",
-          "fr/04116.mp3",
-          "zh/04116.mp3",
-          "wǎng",
-          "[ternet]"
-        ],
-        [
-          "网页",
-          "Netpage",
-          "",
-          "fr/04117.mp3",
-          "zh/04117.mp3",
-          "wǎng yè",
-          "[netpaz]"
-        ],
-        [
-          "主页",
-          "page daccueil [paydakjl",
-          "",
-          "fr/04118.mp3",
-          "zh/04118.mp3",
-          "zhǔ yè",
-          ""
-        ],
-        [
-          "服务器",
-          "serveur",
-          "m.",
-          "fr/04119.mp3",
-          "zh/04119.mp3",
-          "fú wù qì",
-          "[servcer]"
-        ],
-        [
-          "点击数",
-          "affichage",
-          "m.",
-          "fr/04120.mp3",
-          "zh/04120.mp3",
-          "diǎn jī shù",
-          "[afifaz]"
-        ],
-        [
-          "网上冲浪",
-          "surfer i.",
-          "",
-          "fr/04121.mp3",
-          "zh/04121.mp3",
-          "wǎng shàng chōng làng",
-          "[scerfe]"
-        ],
-        [
-          "注销",
-          "annuler",
-          "",
-          "fr/04122.mp3",
-          "zh/04122.mp3",
-          "zhù xiāo",
-          "[anyle]"
-        ],
-        [
-          "网民",
-          "internaute",
-          "",
-          "fr/04123.mp3",
-          "zh/04123.mp3",
-          "wǎng mín",
-          "[aternot]"
-        ],
-        [
-          "页面浏览人数",
-          "nombre de pages vues",
-          "m.",
-          "fr/04124.mp3",
-          "zh/04124.mp3",
-          "yè miàn liú lǎn rén shù",
-          "[nbr da pa3 vy]"
-        ],
-        [
-          "刷新",
-          "renouveler .",
-          "",
-          "fr/04125.mp3",
-          "zh/04125.mp3",
-          "shuā xīn",
-          "[ranuvle]"
-        ],
-        [
-          "源文件",
-          "fichier source",
-          "m.",
-          "fr/04126.mp3",
-          "zh/04126.mp3",
-          "yuán wén jiàn",
-          "[fifje surs]"
-        ],
-        [
-          "视频点播",
-          "vidéo la demande /.",
-          "",
-          "fr/04127.mp3",
-          "zh/04127.mp3",
-          "shì pín diǎn bō",
-          "[video a la d(a)má:d]"
-        ],
-        [
-          "网络管理员",
-          "maitre de la toile",
-          "",
-          "fr/04128.mp3",
-          "zh/04128.mp3",
-          "wǎng luò guǎn lǐ yuán",
-          "[metr da la twal]"
-        ],
-        [
-          "浏览器",
-          "browser",
-          "",
-          "fr/04129.mp3",
-          "zh/04129.mp3",
-          "liú lǎn qì",
-          "['brauze]"
-        ],
-        [
-          "联系",
-          "connecter .",
-          "",
-          "fr/04130.mp3",
-          "zh/04130.mp3",
-          "lián xì",
-          "[konekte]"
+          "v.t.",
+          "fr/12585.mp3",
+          "zh/12585.mp3",
+          "shuāi dào",
+          "[tɔ̃be]"
         ]
       ],
       "s": [
         [
           "Je pense que cela signifie que l'ascenseur ne fonctionne pas.",
-          "我觉得这意味着电梯不",
-          "工作了。一《生活大爆炸》",
-          "fr/01583.mp3",
-          "zh/01583.mp3",
-          "wǒ jué de zhè yì wèi zhe diàn tī bù",
+          "我觉得这意味着电梯不工作了。",
+          "《生活大爆炸》",
+          "fr/12586.mp3",
+          "zh/12586.mp3",
+          "wǒ jué dé zhè yì wèi zhe diàn tī bù gōng zuò le 。",
           ""
         ],
         [
-          "] Elle a admis qu'elle a poussé une femme enceinte dans les escaliers.",
+          "Elle a admis qu'elle a poussé une femme enceinte dans les escaliers.",
           "她承认把一位孕妇推下楼梯了。",
           "《丑女贝蒂》",
-          "fr/01584.mp3",
-          "zh/01584.mp3",
-          "tā chéng rèn bǎ yī wèi yùn fù tuī xià lóu tī le",
+          "fr/12587.mp3",
+          "zh/12587.mp3",
+          "tā chéng rèn bǎ yí wèi yùn fù tuī xià lóu tī le 。",
           ""
         ],
         [
-          "Lorsque la machine tombe en panne,notre navire avait quittéTahiti 3jours.",
+          "Lorsque la machine tombe en panne, notre navire avait quitté Tahiti 3 jours.",
           "机器发生故障时，我们的船已经离开塔西提岛三天了。",
           "《迷失》",
-          "fr/01585.mp3",
-          "zh/01585.mp3",
-          "jī qì fā shēng gù zhàng shí wǒ men de chuán yǐ jīng lí kāi tǎ xī tí dǎo sān tiān le",
+          "fr/12588.mp3",
+          "zh/12588.mp3",
+          "jī qì fā shēng gù zhàng shí ， wǒ men de chuán yǐ jīng lí kāi tǎ xī tí dǎo sān tiān le 。",
           ""
         ],
         [
-          "Il habite au troisieme tage.=",
-          "他住在第三层楼",
+          "Il habite au troisième étage.",
+          "他住在第三层楼。",
           "",
-          "fr/01586.mp3",
-          "zh/01586.mp3",
-          "tā zhù zài dì sān céng lóu",
+          "fr/12589.mp3",
+          "zh/12589.mp3",
+          "tā zhù zài dì sān céng lóu 。",
           ""
         ],
         [
-          "Ma pauvre fille est tombée tres malade.L I#.",
-          "我可怜的女儿得了病",
+          "Ma pauvre fille est tombée très malade.",
+          "我可怜的女儿得了病。",
           "",
-          "fr/01587.mp3",
-          "zh/01587.mp3",
-          "wǒ kě lián de nǚ ér dé le bìng",
-          ""
-        ],
-        [
-          "Décidez-vous un sham- pooing pour cheveux gras ou secs?Ou antipelliculaire?",
-          "您想要洗油性头发还是洗干性头发的洗发水？或者用去头屑的洗发水？",
-          "",
-          "fr/03401.mp3",
-          "zh/03401.mp3",
-          "nín xiǎng yào xǐ yóu xìng tóu fà hái shì xǐ gàn xìng tóu fà de xǐ fà shuǐ huò zhě yòng qù tóu xiè de xǐ fà shuǐ",
-          ""
-        ],
-        [
-          "Dites-moi que vous uti- lisez un conditionneur?",
-          "告诉我你用了护发素吗？",
-          "",
-          "fr/03402.mp3",
-          "zh/03402.mp3",
-          "gào sù wǒ nǐ yòng le hù fà sù ma",
-          ""
-        ],
-        [
-          "Cest une bonne idée d'ap- porter des ciseaux a ongles.",
-          "带上指甲钳是一个好注意。",
-          "",
-          "fr/03403.mp3",
-          "zh/03403.mp3",
-          "dài shàng zhǐ jiǎ qián shì yí gè hǎo zhù yì",
-          ""
-        ],
-        [
-          "Avant dentrer dans le pa lais principal pour prier,il faut laver les mains et rincer la bouche!Voila,je respecte bien la tradition.E",
-          "在进入正殿祈福之前需要洗手和激口，既然入乡就要随俗嘛。",
-          "",
-          "fr/03404.mp3",
-          "zh/03404.mp3",
-          "zài jìn rù zhèng diàn qí fú zhī qián xū yào xǐ shǒu hé jī kǒu jì rán rù xiāng jiù yào suí sú ma",
-          ""
-        ],
-        [
-          "Démelons le vrai du faux!",
-          "要分清楚真假！",
-          "",
-          "fr/03405.mp3",
-          "zh/03405.mp3",
-          "yào fēn qīng chǔ zhēn jiǎ",
-          ""
-        ],
-        [
-          "Les lycéens peuvent main- tenant consulter les resul- tats du bac sur Internet.",
-          "高中生们现在可以上网查询高考成绩了。",
-          "",
-          "fr/04131.mp3",
-          "zh/04131.mp3",
-          "gāo zhōng shēng men xiàn zài kě yǐ shàng wǎng chá xún gāo kǎo chéng jì le",
-          ""
-        ],
-        [
-          "Est-ce que vous pouvez trouer le contenu de votre spé- cialité sur le Netpage? W?",
-          "能不能在网页上找出你要学习的专业内容",
-          "",
-          "fr/04132.mp3",
-          "zh/04132.mp3",
-          "néng bù néng zài wǎng yè shàng zhǎo chū nǐ yào xué xí de zhuān yè nèi róng",
-          ""
-        ],
-        [
-          "Un serveur a lidée de di- luer le sirop avec de l'eau ga- zeusele Coca-Cola est né. T T.",
-          "个服务员想出了个主意，用汽水稀释了糖浆就这样可口可乐诞生了",
-          "",
-          "fr/04133.mp3",
-          "zh/04133.mp3",
-          "gè fú wù yuán xiǎng chū le gè zhǔ yì yòng qì shuǐ xī shì le táng jiāng jiù zhè yàng kě kǒu kě lè dàn shēng le",
-          ""
-        ],
-        [
-          "Tous qui ont utilisé l'In ternet au cours des 12 derniers mois, sont considérés comme internautes.",
-          "任何人只要在过去的12个月里使用过英特网，即被视为网民。",
-          "",
-          "fr/04134.mp3",
-          "zh/04134.mp3",
-          "rèn hé rén zhǐ yào zài guò qù de gè yuè lǐ shǐ yòng guò yīng tè wǎng jí bèi shì wéi wǎng mín",
+          "fr/12590.mp3",
+          "zh/12590.mp3",
+          "wǒ kě lián de nǚ ér dé le bìng 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "signifier vl",
-          "",
-          "fr/01588.mp3",
-          "",
-          "",
-          "[sinifje]"
-        ],
-        [
           "意味着",
-          "",
-          "",
-          "",
-          "zh/01589.mp3",
+          "signifier",
+          "v.t.",
+          "fr/12591.mp3",
+          "zh/12591.mp3",
           "yì wèi zhe",
-          ""
-        ],
-        [
-          "",
-          "fonctionner",
-          "",
-          "fr/01590.mp3",
-          "",
-          "",
-          "[f5ksjone]"
+          "[siɲifje]"
         ],
         [
           "起作用",
-          "",
-          "",
-          "",
-          "zh/01591.mp3",
+          "fonctionner",
+          "v.i.",
+          "fr/12592.mp3",
+          "zh/12592.mp3",
           "qǐ zuò yòng",
-          ""
-        ],
-        [
-          "",
-          "enceinte",
-          "adj.",
-          "fr/01592.mp3",
-          "",
-          "",
-          "[äs&t]"
+          "[fɔ̃ksjɔne]"
         ],
         [
           "怀孕的",
-          "",
-          "",
-          "",
-          "zh/01593.mp3",
+          "enceinte",
+          "adj.",
+          "fr/12593.mp3",
+          "zh/12593.mp3",
           "huái yùn de",
-          ""
+          "[ɑ̃sɛ̃:t]"
         ],
         [
           "船只",
-          "naivre.",
-          "",
-          "fr/01594.mp3",
-          "zh/01594.mp3",
-          "chuán zhī",
-          "[naivre]"
-        ],
-        [
-          "",
-          "troisieme",
-          "",
-          "fr/01595.mp3",
-          "",
-          "",
-          "[trwa(a)zjem]"
+          "navire",
+          "n.m.",
+          "fr/12594.mp3",
+          "zh/12594.mp3",
+          "chuán zhǐ",
+          "[navir]"
         ],
         [
           "第三",
-          "adj.=",
-          "",
-          "fr/01596.mp3",
-          "zh/01596.mp3",
+          "troisième",
+          "adj.",
+          "fr/12595.mp3",
+          "zh/12595.mp3",
           "dì sān",
-          ""
-        ],
-        [
-          "",
-          "antipelliculaire",
-          "",
-          "fr/03406.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "去头皮屑的",
-          "",
-          "",
-          "",
-          "zh/03407.mp3",
-          "qù tóu pí xiè de",
-          ""
-        ],
-        [
-          "宫殿",
-          "palais",
-          "n.m.",
-          "fr/03408.mp3",
-          "zh/03408.mp3",
-          "gōng diàn",
-          "[pale]"
-        ],
-        [
-          "祈福祷告",
-          "prier i",
-          "",
-          "fr/03409.mp3",
-          "zh/03409.mp3",
-          "qí fú dǎo gào",
-          "[prije]"
-        ],
-        [
-          "吹风机",
-          "sechoira cheveux",
-          "",
-          "fr/03410.mp3",
-          "zh/03410.mp3",
-          "chuī fēng jī",
-          ""
-        ],
-        [
-          "",
-          "lycéenne",
-          "",
-          "fr/04135.mp3",
-          "",
-          "",
-          "[liseen]"
-        ],
-        [
-          "公立高中学生",
-          "",
-          "",
-          "",
-          "zh/04136.mp3",
-          "gōng lì gāo zhōng xué shēng",
-          ""
-        ],
-        [
-          "咨询",
-          "consulter v",
-          "",
-          "fr/04137.mp3",
-          "zh/04137.mp3",
-          "zī xún",
-          "[ksylte]"
-        ],
-        [
-          "稀释",
-          "diluer",
-          "v.t.",
-          "fr/04138.mp3",
-          "zh/04138.mp3",
-          "xī shì",
-          "[dilye]"
-        ],
-        [
-          "",
-          "gazeuxeuse",
-          "",
-          "fr/04139.mp3",
-          "",
-          "",
-          "[gaz,z]"
-        ],
-        [
-          "气体的",
-          "",
-          "adj",
-          "",
-          "zh/04140.mp3",
-          "qì tǐ de",
-          ""
+          "[tʁwa(a)zjɛm]"
         ]
       ]
     },
     {
       "no": 4,
-      "name": "第4节",
+      "name": "楼梯间",
       "w": [
         [
           "楼梯梁",
           "échiffre",
-          "m",
-          "fr/01597.mp3",
-          "zh/01597.mp3",
+          "名",
+          "fr/12596.mp3",
+          "zh/12596.mp3",
           "lóu tī liáng",
-          "[eifr]"
+          "[eʃifr]"
         ],
         [
           "楼梯井",
           "cage d'escalier",
-          "",
-          "fr/01598.mp3",
-          "zh/01598.mp3",
+          "f.",
+          "fr/12597.mp3",
+          "zh/12597.mp3",
           "lóu tī jǐng",
-          "[ka:3 deskalje]"
+          "[ka:ʒ deskalje]"
         ],
         [
           "狭窄的",
           "étriqué",
-          "",
-          "fr/01599.mp3",
-          "zh/01599.mp3",
+          "形",
+          "fr/12598.mp3",
+          "zh/12598.mp3",
           "xiá zhǎi de",
           "[etrike]"
         ],
         [
           "宽的",
           "large",
-          "",
-          "fr/01600.mp3",
-          "zh/01600.mp3",
+          "形",
+          "fr/12599.mp3",
+          "zh/12599.mp3",
           "kuān de",
-          "[lar3]"
+          "[larʒ]"
         ],
         [
           "楼梯平台",
           "palier",
           "m.",
-          "fr/01601.mp3",
-          "zh/01601.mp3",
+          "fr/12600.mp3",
+          "zh/12600.mp3",
           "lóu tī píng tái",
           "[palje]"
         ],
@@ -2104,98 +790,98 @@ window.BOOK_DATA[2] = {
           "通风口",
           "trompe de ventilation",
           "m.",
-          "fr/01602.mp3",
-          "zh/01602.mp3",
+          "fr/12601.mp3",
+          "zh/12601.mp3",
           "tōng fēng kǒu",
-          "[trš:p de vatilasjo]"
+          "[trɔ̃:p de vɑ̃tilasjɔ]"
         ],
         [
           "改变",
-          "transformer 1",
-          "",
-          "fr/01603.mp3",
-          "zh/01603.mp3",
+          "transformer",
+          "v.i.",
+          "fr/12602.mp3",
+          "zh/12602.mp3",
           "gǎi biàn",
-          "[träsforme]"
+          "[trɑ̃sfɔrme]"
         ],
         [
           "明亮的",
           "clair",
-          "",
-          "fr/01604.mp3",
-          "zh/01604.mp3",
+          "形",
+          "fr/12603.mp3",
+          "zh/12603.mp3",
           "míng liàng de",
-          "[kler]"
+          "[klɛ:r]"
         ],
         [
           "昏暗的",
           "sinistre",
-          "",
-          "fr/01605.mp3",
-          "zh/01605.mp3",
+          "形",
+          "fr/12604.mp3",
+          "zh/12604.mp3",
           "hūn àn de",
           "[sinistr]"
         ],
         [
           "凌乱",
-          "désordonné,e",
-          "",
-          "fr/01606.mp3",
-          "zh/01606.mp3",
+          "désordonné, e",
+          "形",
+          "fr/12605.mp3",
+          "zh/12605.mp3",
           "líng luàn",
-          "[dezordone]"
+          "[dezɔrdɔne]"
         ],
         [
           "杂乱",
-          "pele-mele",
+          "pêle-mêle",
           "m.",
-          "fr/01607.mp3",
-          "zh/01607.mp3",
+          "fr/12606.mp3",
+          "zh/12606.mp3",
           "zá luàn",
-          "[pelmel]"
+          "[pɛlmɛl]"
         ],
         [
           "笨重地",
           "pesamment",
-          "",
-          "fr/01608.mp3",
-          "zh/01608.mp3",
+          "副",
+          "fr/12607.mp3",
+          "zh/12607.mp3",
           "bèn zhòng dì",
-          "[pazamá]"
+          "[pəzamɑ̃]"
         ],
         [
           "出去",
-          "sortir i",
-          "",
-          "fr/01609.mp3",
-          "zh/01609.mp3",
+          "sortir",
+          "v.i.",
+          "fr/12608.mp3",
+          "zh/12608.mp3",
           "chū qù",
-          "[sortir]"
+          "[sɔrti:r]"
         ],
         [
-          "宽的",
-          "spacieux,euse",
-          "",
-          "fr/01610.mp3",
-          "zh/01610.mp3",
-          "kuān de",
-          "[spasj,:z]"
+          "宽敞的",
+          "spacieux, euse",
+          "形",
+          "fr/12609.mp3",
+          "zh/12609.mp3",
+          "kuān chǎng de",
+          "[spasjø, ø:z]"
         ],
         [
           "狭小的",
-          "étroite",
-          "",
-          "fr/01611.mp3",
-          "zh/01611.mp3",
+          "étroit, e",
+          "形",
+          "fr/12610.mp3",
+          "zh/12610.mp3",
           "xiá xiǎo de",
           "[etrwa, t]"
         ],
         [
           "闲置的",
           "libre",
-          "",
-          "fr/01612.mp3",
-          "zh/01612.mp3",
+          "形",
+          "fr/12611.mp3",
+          "zh/12611.mp3",
           "xián zhì de",
           "[libr]"
         ],
@@ -2203,1167 +889,834 @@ window.BOOK_DATA[2] = {
           "杂物",
           "bastringue",
           "m.",
-          "fr/01613.mp3",
-          "zh/01613.mp3",
+          "fr/12612.mp3",
+          "zh/12612.mp3",
           "zá wù",
-          "[bastrê:g]"
-        ],
-        [
-          "博客",
-          "blog",
-          "",
-          "fr/04141.mp3",
-          "zh/04141.mp3",
-          "bó kè",
-          "[blg]"
-        ],
-        [
-          "微博",
-          "microblog",
-          "",
-          "fr/04142.mp3",
-          "zh/04142.mp3",
-          "wēi bó",
-          "[mikr5bl5]"
-        ],
-        [
-          "订阅",
-          "iabonner",
-          "",
-          "fr/04143.mp3",
-          "zh/04143.mp3",
-          "dìng yuè",
-          "[abone]"
-        ],
-        [
-          "隐藏",
-          "cacher",
-          "",
-          "fr/04144.mp3",
-          "zh/04144.mp3",
-          "yǐn cáng",
-          "[kae]"
-        ],
-        [
-          "用户名",
-          "nomdutilisa teur",
-          "m.",
-          "fr/04145.mp3",
-          "zh/04145.mp3",
-          "yòng hù míng",
-          "[n d ytilizatcer]"
-        ],
-        [
-          "评论",
-          "critiquer",
-          "",
-          "fr/04146.mp3",
-          "zh/04146.mp3",
-          "píng lùn",
-          "[kritike]"
-        ],
-        [
-          "回复",
-          "répondre t.",
-          "",
-          "fr/04147.mp3",
-          "zh/04147.mp3",
-          "huí fù",
-          "[repšdr]"
-        ],
-        [
-          "文章",
-          "Xarticle",
-          "m",
-          "fr/04148.mp3",
-          "zh/04148.mp3",
-          "wén zhāng",
-          "[artikl]"
-        ],
-        [
-          "退出",
-          "quitter",
-          "",
-          "fr/04149.mp3",
-          "zh/04149.mp3",
-          "tuì chū",
-          "[kite]"
-        ],
-        [
-          "注册",
-          "déposer",
-          "",
-          "fr/04150.mp3",
-          "zh/04150.mp3",
-          "zhù cè",
-          "[depoze]"
-        ],
-        [
-          "邮件",
-          "courrier",
-          "m.",
-          "fr/04151.mp3",
-          "zh/04151.mp3",
-          "yóu jiàn",
-          "[kurje]"
-        ],
-        [
-          "电子邮件",
-          "e-mail",
-          "",
-          "fr/04152.mp3",
-          "zh/04152.mp3",
-          "diàn zi yóu jiàn",
-          "[imel]"
-        ],
-        [
-          "删除",
-          "supprimer t.",
-          "",
-          "fr/04153.mp3",
-          "zh/04153.mp3",
-          "shān chú",
-          "[syprime]"
-        ],
-        [
-          "发送",
-          "émettre",
-          "",
-          "fr/04154.mp3",
-          "zh/04154.mp3",
-          "fā sòng",
-          "[emetr]"
-        ],
-        [
-          "取消",
-          "annuler",
-          "",
-          "fr/04155.mp3",
-          "zh/04155.mp3",
-          "qǔ xiāo",
-          "[anyle]"
-        ],
-        [
-          "新词",
-          "néologisme",
-          "m.",
-          "fr/04156.mp3",
-          "zh/04156.mp3",
-          "xīn cí",
-          "[neolozism]"
+          "[bastrɛ̃:g]"
         ]
       ],
       "s": [
         [
-          "Il est trop chaud dans la maisonje veux sortir.",
+          "Tellement de chose sont transformées pour nous ces dernières décennies: nous avons désormais accèsà une meilleure éducation, à un large choix de jobs et pouvons être indépendants.",
+          "尽管近几十年来很多事情都发生了变化：我们有了更高的教育程度，工作上有了更多的选择，我们变得更加独立。",
+          "",
+          "fr/12613.mp3",
+          "zh/12613.mp3",
+          "jǐn guǎn jìn jǐ shí nián lái hěn duō shì qíng dōu fā shēng le biàn huà ： wǒ men yǒu le gèng gāo de jiào yù chéng dù ， gōng zuò shàng yǒu le gèng duō de xuǎn zé ， wǒ men biàn dé gèng jiā dú lì 。",
+          ""
+        ],
+        [
+          "Il y a un petit ruisseau clair en bas!",
+          "一条清澈的小溪就在山脚下！",
+          "",
+          "fr/12614.mp3",
+          "zh/12614.mp3",
+          "yì tiáo qīng chè de xiǎo xī jiù zài shān jiǎo xià ！",
+          ""
+        ],
+        [
+          "Il est trop chaud dans la maison, je veux sortir.",
           "家里太闷热了，我想出去。",
           "",
-          "fr/01614.mp3",
-          "zh/01614.mp3",
-          "jiā lǐ tài mēn rè le wǒ xiǎng chū qù",
+          "fr/12615.mp3",
+          "zh/12615.mp3",
+          "jiā lǐ tài mèn rè le ， wǒ xiǎng chū qù 。",
           ""
         ],
         [
-          "La nature transformée par l'industrie est un theme prédo minant dans son travail.\"k I.",
-          "工业带来的自然界的改变”是他工作的重要主题",
+          "La nature transformée par l'industrie est un thème prédominant dans son travail. \"",
+          "工业带来的自然界的改变\"是他工作的重要主题。",
           "",
-          "fr/01615.mp3",
-          "zh/01615.mp3",
-          "gōng yè dài lái de zì rán jiè de gǎi biàn shì tā gōng zuò de zhòng yào zhǔ tí",
-          ""
-        ],
-        [
-          "On décide de ouvrir un blog pour pratiquer la langue francaise.",
-          "我们商量说开一个博客用来锻炼法语写作。",
-          "",
-          "fr/04157.mp3",
-          "zh/04157.mp3",
-          "wǒ men shāng liáng shuō kāi yí gè bó kè yòng lái duàn liàn fǎ yǔ xiě zuò",
-          ""
-        ],
-        [
-          "Dapres cet articletout était contre le voyageur, obsta cles de l'homme,obstacles de la nature.",
-          "根据这篇文章的论点，旅行者会碰到很多人为的和天然的障碍。",
-          "",
-          "fr/04158.mp3",
-          "zh/04158.mp3",
-          "gēn jù zhè piān wén zhāng de lùn diǎn lǚ xíng zhě huì pèng dào hěn duō rén wéi de hé tiān rán de zhàng ài",
-          ""
-        ],
-        [
-          "Apre au gain, le mar- chand n'a guere hésité a me quitteril partit le mois der- nier acheter du thé.",
-          "商人重利轻离别，前月浮梁买茶去。",
-          "一唐·白居易《琵琶行》",
-          "fr/04159.mp3",
-          "zh/04159.mp3",
-          "shāng rén zhòng lì qīng lí bié qián yuè fú liáng mǎi chá qù",
-          ""
-        ],
-        [
-          "L'e-mail est devenu la plus courante facon de communi- cation interpersonnelle.",
-          "电子邮件已经成为现代人际交流的一种最常见的方式。",
-          "",
-          "fr/04160.mp3",
-          "zh/04160.mp3",
-          "diàn zi yóu jiàn yǐ jīng chéng wéi xiàn dài rén jì jiāo liú de yī zhǒng zuì cháng jiàn de fāng shì",
+          "fr/12616.mp3",
+          "zh/12616.mp3",
+          "gōng yè dài lái de zì rán jiè de gǎi biàn \" shì tā gōng zuò de zhòng yào zhǔ tí 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "décennie.",
-          "f.",
-          "fr/01616.mp3",
-          "",
-          "",
-          "[dese(eni]"
-        ],
-        [
           "十年",
-          "",
-          "",
-          "",
-          "zh/01617.mp3",
+          "décennie",
+          "n.f.",
+          "fr/12617.mp3",
+          "zh/12617.mp3",
           "shí nián",
-          ""
-        ],
-        [
-          "",
-          "désormais",
-          "",
-          "fr/01618.mp3",
-          "",
-          "",
-          "[dezorme]"
+          "[desɛ(e)ni]"
         ],
         [
           "今后",
-          "",
+          "désormais",
           "adv.",
-          "",
-          "zh/01619.mp3",
+          "fr/12618.mp3",
+          "zh/12618.mp3",
           "jīn hòu",
-          ""
-        ],
-        [
-          "",
-          "indépendant,edep",
-          "",
-          "fr/01620.mp3",
-          "",
-          "",
-          ""
+          "[dezɔrmɛ]"
         ],
         [
           "独立的",
-          "ádáát]",
+          "indépendant, e",
           "adj.",
-          "fr/01621.mp3",
-          "zh/01621.mp3",
+          "fr/12619.mp3",
+          "zh/12619.mp3",
           "dú lì de",
-          ""
+          "[ɛ̃d ep ɑ̃dɑ̃, ɑ̃:t]"
         ],
         [
           "小溪",
           "ruisseau",
           "n.m.",
-          "fr/01622.mp3",
-          "zh/01622.mp3",
+          "fr/12620.mp3",
+          "zh/12620.mp3",
           "xiǎo xī",
-          "[ryiso]"
-        ],
-        [
-          "",
-          "pratiquer",
-          "vt",
-          "fr/04161.mp3",
-          "",
-          "",
-          "[pratike]"
-        ],
-        [
-          "实施实行",
-          "",
-          "",
-          "",
-          "zh/04162.mp3",
-          "shí shī shí xíng",
-          ""
-        ],
-        [
-          "",
-          "obstacle",
-          "n.m",
-          "fr/04163.mp3",
-          "",
-          "",
-          "[opstakl]"
-        ],
-        [
-          "障碍",
-          "",
-          "",
-          "",
-          "zh/04164.mp3",
-          "zhàng ài",
-          ""
-        ],
-        [
-          "",
-          "marchand,e",
-          "",
-          "fr/04165.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "商人",
-          "",
-          "",
-          "",
-          "zh/04166.mp3",
-          "shāng rén",
-          "[marfäad]"
-        ],
-        [
-          "几乎不",
-          "guere",
-          "adv",
-          "fr/04167.mp3",
-          "zh/04167.mp3",
-          "jī hū bù",
-          "[ger]"
-        ],
-        [
-          "",
-          "communication",
-          "",
-          "fr/04168.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "f.",
-          "",
-          "",
-          "",
-          "[komynika(a)sj5]"
-        ],
-        [
-          "联络联系",
-          "",
-          "",
-          "",
-          "zh/04170.mp3",
-          "lián luò lián xì",
-          ""
+          "[rɥiso]"
         ]
       ]
     },
     {
       "no": 5,
-      "name": "第5节",
+      "name": "各种门",
       "w": [
         [
           "门",
           "porte",
-          "",
-          "fr/01623.mp3",
-          "zh/01623.mp3",
+          "f.",
+          "fr/12621.mp3",
+          "zh/12621.mp3",
           "mén",
-          "[port]"
+          "[pɔrt]"
         ],
         [
           "大门",
           "portail",
           "m.",
-          "fr/01624.mp3",
-          "zh/01624.mp3",
+          "fr/12622.mp3",
+          "zh/12622.mp3",
           "dà mén",
-          "[portaj]"
+          "[pɔrtaj]"
         ],
         [
           "入口",
           "entrée",
-          "",
-          "fr/01625.mp3",
-          "zh/01625.mp3",
+          "f.",
+          "fr/12623.mp3",
+          "zh/12623.mp3",
           "rù kǒu",
-          "[ätre]"
+          "[ɑ̃tre]"
         ],
         [
           "前门",
           "porte de devant",
           "f.",
-          "fr/01626.mp3",
-          "zh/01626.mp3",
+          "fr/12624.mp3",
+          "zh/12624.mp3",
           "qián mén",
-          "[part da da)vá]"
+          "[pɔrt d(ə) d(ə)vɑ̃]"
         ],
         [
           "后门",
-          "porte de derriere /",
-          "",
-          "fr/01627.mp3",
-          "zh/01627.mp3",
+          "porte de derrière",
+          "f.",
+          "fr/12625.mp3",
+          "zh/12625.mp3",
           "hòu mén",
-          "[port daderjeir]"
+          "[pɔrt d(ə) dɛrjɛ:r]"
         ],
         [
           "猫洞",
-          "chatiere atjer]",
-          "",
-          "fr/01628.mp3",
-          "zh/01628.mp3",
+          "chatière",
+          "f.",
+          "fr/12626.mp3",
+          "zh/12626.mp3",
           "māo dòng",
-          ""
+          "[ʃatjɛ:r]"
         ],
         [
           "旋转门",
           "tourniquet",
           "m.",
-          "fr/01629.mp3",
-          "zh/01629.mp3",
+          "fr/12627.mp3",
+          "zh/12627.mp3",
           "xuán zhuǎn mén",
-          "[turnike]"
+          "[turnikɛ]"
         ],
         [
           "自动门",
           "automatique",
           "m.",
-          "fr/01630.mp3",
-          "zh/01630.mp3",
+          "fr/12628.mp3",
+          "zh/12628.mp3",
           "zì dòng mén",
-          "[5o)tomatik]"
+          "[ɔ(t)ɔmatik]"
         ],
         [
-          "拉励关",
-          "tirer r fermer",
-          "",
-          "fr/01631.mp3",
-          "zh/01631.mp3",
-          "lā lì guān",
+          "拉",
+          "tirer",
+          "v.",
+          "fr/12629.mp3",
+          "zh/12629.mp3",
+          "lā",
           "[tire]"
+        ],
+        [
+          "关",
+          "fermer",
+          "v.",
+          "fr/12630.mp3",
+          "zh/12630.mp3",
+          "guān",
+          "[fɛrme]"
         ],
         [
           "推",
           "pousser",
-          "",
-          "fr/01632.mp3",
-          "zh/01632.mp3",
+          "v.",
+          "fr/12631.mp3",
+          "zh/12631.mp3",
           "tuī",
           "[puse]"
         ],
         [
           "锁",
-          "serrure /",
-          "",
-          "fr/01633.mp3",
-          "zh/01633.mp3",
+          "serrure",
+          "f.",
+          "fr/12632.mp3",
+          "zh/12632.mp3",
           "suǒ",
-          "[seeryr]"
+          "[sɛ(ə)ry:r]"
         ],
         [
           "钥匙",
           "clé",
-          "",
-          "fr/01634.mp3",
-          "zh/01634.mp3",
+          "f.",
+          "fr/12633.mp3",
+          "zh/12633.mp3",
           "yào shi",
           "[kle]"
         ],
         [
           "敲门",
-          "] frapper",
-          "",
-          "fr/01635.mp3",
-          "zh/01635.mp3",
+          "frapper",
+          "v.",
+          "fr/12634.mp3",
+          "zh/12634.mp3",
           "qiāo mén",
           "[frape]"
         ],
         [
           "室外的",
           "extérieur",
-          "",
-          "fr/01636.mp3",
-          "zh/01636.mp3",
+          "形",
+          "fr/12635.mp3",
+          "zh/12635.mp3",
           "shì wài de",
-          "[eksterjx:r]"
+          "[ɛksterjœ:r]"
         ],
         [
           "门槛",
           "seuil",
-          "m",
-          "fr/01637.mp3",
-          "zh/01637.mp3",
+          "m.",
+          "fr/12636.mp3",
+          "zh/12636.mp3",
           "mén kǎn",
-          "[sj]"
+          "[sœj]"
         ],
         [
           "门把手",
-          "bec-de-come",
+          "bec-de-corne",
           "n.m.",
-          "fr/01638.mp3",
-          "zh/01638.mp3",
-          "mén bà shǒu",
-          "[bek da kom]"
+          "fr/12637.mp3",
+          "zh/12637.mp3",
+          "mén bǎ shǒu",
+          "[bɛk də kɔrn]"
         ],
         [
           "门框",
-          "chambranle Sábrál]",
+          "chambranle",
           "n.m.",
-          "fr/01639.mp3",
-          "zh/01639.mp3",
+          "fr/12638.mp3",
+          "zh/12638.mp3",
           "mén kuāng",
-          ""
+          "[ʃɑ̃brɑ̃l]"
         ]
       ],
       "s": [
         [
-          "Si il n'y a aucun passager, je pense que je devrais fermer la porte. XE. En Chine,l'examen den- trée au college est le seul moyen d'entrée dans l'univer- site. X. Le soleil dhiver fait pousser de longues ombres sur lesol.",
-          "如果没有乘客我想我应该关上门在中国高考是进入大学的必经之路冬天的阳光将影子拉得好长好长。",
+          "Si il n'y a aucun passager, je pense que je devrais fermer la porte.",
+          "如果没有乘客，我想我应该关上门。",
           "《公主日记》",
-          "fr/01640.mp3",
-          "zh/01640.mp3",
-          "rú guǒ méi yǒu chéng kè wǒ xiǎng wǒ yīng gāi guān shàng mén zài zhōng guó gāo kǎo shì jìn rù dà xué de bì jīng zhī lù dōng tiān de yáng guāng jiāng yǐng zi lā dé hǎo zhǎng hǎo zhǎng",
+          "fr/12639.mp3",
+          "zh/12639.mp3",
+          "rú guǒ méi yǒu chéng kè ， wǒ xiǎng wǒ yīng gāi guān shàng mén 。",
           ""
         ],
         [
-          "En Chine,cest plus poli de franchir un seuil, mais pas le pietiner.+",
-          "在中国有礼貌的做法是跨过门槛，而不是踩它。",
+          "En Chine, l'examen d'entrée au collège est le seul moyen d'entrée dans l'université.",
+          "在中国，高考是进入大学的必经之路。",
           "",
-          "fr/01641.mp3",
-          "zh/01641.mp3",
-          "zài zhōng guó yǒu lǐ mào de zuò fǎ shì kuà guò mén kǎn ér bú shì cǎi tā",
+          "fr/12640.mp3",
+          "zh/12640.mp3",
+          "zài zhōng guó ， gāo kǎo shì jìn rù dà xué de bì jīng zhī lù 。",
+          ""
+        ],
+        [
+          "Le soleil d'hiver fait pousser de longues ombres sur le sol.",
+          "冬天的阳光将影子拉得好长好长。",
+          "",
+          "fr/12641.mp3",
+          "zh/12641.mp3",
+          "dōng tiān de yáng guāng jiāng yǐng zi lā dé hǎo zhǎng hǎo zhǎng 。",
+          ""
+        ],
+        [
+          "En Chine, c'est plus poli de franchir un seuil, mais pas le piétiner.",
+          "在中国，有礼貌的做法是跨过门槛，而不是踩它。",
+          "",
+          "fr/12642.mp3",
+          "zh/12642.mp3",
+          "zài zhōng guó ， yǒu lǐ mào de zuò fǎ shì kuà guò mén kǎn ， ér bú shì cǎi tā 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "passager, re",
-          "",
-          "fr/01642.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "乘客",
+          "passager, ère  n.",
           "",
-          "",
-          "",
-          "zh/01643.mp3",
+          "fr/12643.mp3",
+          "zh/12643.mp3",
           "chéng kè",
-          "[paasaeer]"
+          "[pa(a)saʒe, ɛ:r]"
         ],
         [
           "方式",
-          "moyen",
-          "nm.",
-          "fr/01644.mp3",
-          "zh/01644.mp3",
+          "moyen ̃",
+          "n.m.",
+          "fr/12644.mp3",
+          "zh/12644.mp3",
           "fāng shì",
-          "[mwaj]"
+          "[mwajɛ]"
         ],
         [
           "影子",
-          "ombre5bre]n.m.7",
-          "",
-          "fr/01645.mp3",
-          "zh/01645.mp3",
+          "ombre",
+          "n.m.",
+          "fr/12645.mp3",
+          "zh/12645.mp3",
           "yǐng zi",
-          ""
+          "[ɔ̃brə]"
         ],
         [
           "跨过",
           "franchir",
-          "vt",
-          "fr/01646.mp3",
-          "zh/01646.mp3",
+          "v.t.",
+          "fr/12646.mp3",
+          "zh/12646.mp3",
           "kuà guò",
-          "[frafir]"
+          "[frɑ̃ʃi:r]"
         ],
         [
           "踩踏",
-          "piétinert.",
-          "",
-          "fr/01647.mp3",
-          "zh/01647.mp3",
+          "piétiner",
+          "v.t.",
+          "fr/12647.mp3",
+          "zh/12647.mp3",
           "cǎi tà",
           "[pjetine]"
-        ],
-        [
-          "小",
-          "",
-          "",
-          "",
-          "zh/01648.mp3",
-          "xiǎo",
-          ""
-        ],
-        [
-          "大门",
-          "portail",
-          "",
-          "fr/01649.mp3",
-          "zh/01649.mp3",
-          "dà mén",
-          ""
         ]
       ]
     },
     {
       "no": 6,
-      "name": "第6节",
+      "name": "各种窗户",
       "w": [
         [
           "窗户",
-          "fenetre /",
-          "",
-          "fr/01650.mp3",
-          "zh/01650.mp3",
+          "fenêtre",
+          "f.",
+          "fr/12648.mp3",
+          "zh/12648.mp3",
           "chuāng hù",
-          "[fa)netr]"
+          "[f(ə)nɛtʁ]"
         ],
         [
           "百叶窗",
-          "persienne /.",
-          "",
-          "fr/01651.mp3",
-          "zh/01651.mp3",
+          "persienne",
+          "f.",
+          "fr/12649.mp3",
+          "zh/12649.mp3",
           "bǎi yè chuāng",
-          "[persjen]"
+          "[pɛʁsjɛn]"
         ],
         [
           "百叶窗",
-          "jalousie /",
-          "",
-          "fr/01652.mp3",
-          "zh/01652.mp3",
+          "jalousie",
+          "f.",
+          "fr/12650.mp3",
+          "zh/12650.mp3",
           "bǎi yè chuāng",
-          "[3aluzi]"
+          "[ʒaluzi]"
         ],
         [
           "天窗",
           "lucarne",
-          "",
-          "fr/01653.mp3",
-          "zh/01653.mp3",
+          "f.",
+          "fr/12651.mp3",
+          "zh/12651.mp3",
           "tiān chuāng",
-          "[lykarn]"
+          "[lykaʁn]"
         ],
         [
           "打开",
-          "buvrir",
-          "",
-          "fr/01654.mp3",
-          "zh/01654.mp3",
+          "ouvrir",
+          "v.",
+          "fr/12652.mp3",
+          "zh/12652.mp3",
           "dǎ kāi",
-          "[uvrir]"
+          "[uvʁi:ʁ]"
         ],
         [
           "关上",
           "fermer",
-          "",
-          "fr/01655.mp3",
-          "zh/01655.mp3",
+          "v.",
+          "fr/12653.mp3",
+          "zh/12653.mp3",
           "guān shàng",
-          "[ferme]"
+          "[fɛʁme]"
         ],
         [
           "玻璃",
           "verre",
-          "m",
-          "fr/01656.mp3",
-          "zh/01656.mp3",
+          "m.",
+          "fr/12654.mp3",
+          "zh/12654.mp3",
           "bō lí",
-          "[ver]"
+          "[vɛ:ʁ]"
         ],
         [
           "摇动",
-          "secouer .",
-          "",
-          "fr/01657.mp3",
-          "zh/01657.mp3",
+          "secouer",
+          "v.",
+          "fr/12655.mp3",
+          "zh/12655.mp3",
           "yáo dòng",
-          "[s(a)kwe]"
+          "[s(ə)kwe]"
         ],
         [
           "打破",
           "briser",
-          "",
-          "fr/01658.mp3",
-          "zh/01658.mp3",
+          "v.",
+          "fr/12656.mp3",
+          "zh/12656.mp3",
           "dǎ pò",
-          "[brize]"
+          "[bʁize]"
         ],
         [
           "加固",
-          "renforcage",
+          "renforçage",
           "m.",
-          "fr/01659.mp3",
-          "zh/01659.mp3",
+          "fr/12657.mp3",
+          "zh/12657.mp3",
           "jiā gù",
-          "[ráforsa3]"
+          "[ʁɑ̃fɔʁsaʒ]"
         ],
         [
           "全景的",
           "panoramique",
-          "",
-          "fr/01660.mp3",
-          "zh/01660.mp3",
+          "形",
+          "fr/12658.mp3",
+          "zh/12658.mp3",
           "quán jǐng de",
-          "[panoramik]"
+          "[panɔʁamik]"
         ],
         [
           "玻璃窗",
           "vitre",
-          "",
-          "fr/01661.mp3",
-          "zh/01661.mp3",
+          "f.",
+          "fr/12659.mp3",
+          "zh/12659.mp3",
           "bō lí chuāng",
-          "[vitr]"
+          "[vitʁ]"
         ],
         [
           "透明的",
-          "transparente",
-          "",
-          "fr/01662.mp3",
-          "zh/01662.mp3",
+          "transparent, e",
+          "形",
+          "fr/12660.mp3",
+          "zh/12660.mp3",
           "tòu míng de",
-          "[tráspará, át]"
+          "[tʁɑ̃spaʁɑ̃, ɑ̃t]"
         ],
         [
           "易碎的",
           "fragile",
-          "",
-          "fr/01663.mp3",
-          "zh/01663.mp3",
+          "形",
+          "fr/12661.mp3",
+          "zh/12661.mp3",
           "yì suì de",
-          "[fra3il]"
+          "[fʁaʒil]"
         ],
         [
           "反射",
-          "refleter 1.",
-          "",
-          "fr/01664.mp3",
-          "zh/01664.mp3",
+          "refléter",
+          "v.",
+          "fr/12662.mp3",
+          "zh/12662.mp3",
           "fǎn shè",
-          "[raflete]"
+          "[ʁ(ə)flete]"
         ],
         [
           "窗钩",
           "crochet",
-          "m",
-          "fr/01665.mp3",
-          "zh/01665.mp3",
+          "m.",
+          "fr/12663.mp3",
+          "zh/12663.mp3",
           "chuāng gōu",
-          "[kroe]"
+          "[kʁɔʃe]"
         ],
         [
-          "窗",
+          "窗拱",
           "arceau",
-          "m",
-          "fr/01666.mp3",
-          "zh/01666.mp3",
-          "chuāng",
-          "[arso]"
+          "m.",
+          "fr/12664.mp3",
+          "zh/12664.mp3",
+          "chuāng gǒng",
+          "[aʁso]"
         ],
         [
-          "窗把手打开",
-          "leve-vitre ouvrir",
-          "",
-          "fr/01667.mp3",
-          "zh/01667.mp3",
-          "chuāng bǎ shǒu dǎ kāi",
-          "[lev vitr]"
+          "窗把手",
+          "lève-vitre",
+          "m.",
+          "fr/12665.mp3",
+          "zh/12665.mp3",
+          "chuāng bǎ shǒu",
+          "[lɛv vitʁ]"
         ]
       ],
       "s": [
         [
-          "Ne pas tourner autour du pot, nous parlons sans lu- carnes.",
-          "不要拐弯抹角我们打开天窗说亮话。",
+          "Ne pas tourner autour du pot, nous parlons sans lucarnes.",
+          "不要拐弯抹角，我们打开天窗说亮话。",
           "",
-          "fr/01668.mp3",
-          "zh/01668.mp3",
-          "bú yào guǎi wān mò jiǎo wǒ men dǎ kāi tiān chuāng shuō liàng huà",
+          "fr/12666.mp3",
+          "zh/12666.mp3",
+          "bú yào guǎi wān mǒ jiǎo ， wǒ men dǎ kāi tiān chuāng shuō liàng huà 。",
           ""
         ],
         [
-          "Le secret du bonheur en amour,ce nest pas d'etre aveugle mais de savoir fermer les yeux quand il le faut.&",
+          "Le secret du bonheur en amour, ce n'est pas d'être aveugle mais de savoir fermer les yeux quand il lefaut.",
           "爱情幸福的秘诀不是完全盲目，而是懂得适时地闭眼。",
           "",
-          "fr/01669.mp3",
-          "zh/01669.mp3",
-          "ài qíng xìng fú de mì jué bú shì wán quán máng mù ér shì dǒng de shì shí dì bì yǎn",
+          "fr/12667.mp3",
+          "zh/12667.mp3",
+          "ài qíng xìng fú de mì jué bú shì wán quán máng mù ， ér shì dǒng dé shì shí dì bì yǎn 。",
           ""
         ],
         [
-          "Terminer ses études est comme une vitre, nous devons Icraser,et puis marcher en frottant des fragments tran- chants, sanglante, commencer alors une vie complétement differente.-",
+          "Terminer ses études est comme une vitre, nous devons l'écraser, et puis marcher en frottant desfragments tranchants, sanglante, commencer alors une vie complètement différente.",
           "毕业就像一窗玻璃，我们要撞碎它，然后擦着锋利的碎片走过去，血肉模糊后开始一个完全不同的人生。",
           "",
-          "fr/01670.mp3",
-          "zh/01670.mp3",
-          "bì yè jiù xiàng yī chuāng bō lí wǒ men yào zhuàng suì tā rán hòu cā zhe fēng lì de suì piàn zǒu guò qù xuè ròu mó hú hòu kāi shǐ yí gè wán quán bù tóng de rén shēng",
+          "fr/12668.mp3",
+          "zh/12668.mp3",
+          "bì yè jiù xiàng yì chuāng bō lí ， wǒ men yào zhuàng suì tā ， rán hòu cā zhe fēng lì de suì piàn zǒu guò qù ， xuè ròu mó hú hòu kāi shǐ yí gè wán quán bù tóng de rén shēng 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "在周围，在四周",
           "autour",
-          "adv",
-          "fr/01671.mp3",
-          "",
-          "",
-          "[botur]"
+          "adv.",
+          "fr/12669.mp3",
+          "zh/12669.mp3",
+          "zài zhōu wéi ， zài sì zhōu",
+          "[ɔ(ɔ)tu:r]"
         ],
         [
-          "在周围在四周",
-          "",
-          "",
-          "",
-          "zh/01672.mp3",
-          "zài zhōu wéi zài sì zhōu",
-          ""
-        ],
-        [
-          "",
+          "瞎的，失明的",
           "aveugle",
           "adj.",
-          "fr/01673.mp3",
-          "",
-          "",
-          "[avgl]"
-        ],
-        [
-          "瞎的失明的",
-          "",
-          "",
-          "",
-          "zh/01674.mp3",
-          "xiā de shī míng de",
-          ""
+          "fr/12670.mp3",
+          "zh/12670.mp3",
+          "xiā de ， shī míng de",
+          "[avœgl]"
         ],
         [
           "压碎",
-          "écraser v.",
-          "",
-          "fr/01675.mp3",
-          "zh/01675.mp3",
+          "écraser",
+          "v.t.",
+          "fr/12671.mp3",
+          "zh/12671.mp3",
           "yā suì",
-          "[ekraze]"
-        ],
-        [
-          "",
-          "fragment",
-          "m.",
-          "fr/01676.mp3",
-          "",
-          "",
-          "[fragmá]"
+          "[ekʁaze]"
         ],
         [
           "碎片",
-          "",
-          "",
-          "",
-          "zh/01677.mp3",
+          "fragment",
+          "n.m.",
+          "fr/12672.mp3",
+          "zh/12672.mp3",
           "suì piàn",
-          ""
-        ],
-        [
-          "",
-          "sanglant,e",
-          "",
-          "fr/01678.mp3",
-          "",
-          "",
-          "[sägläá:t]"
+          "[fʁaɡmɑ̃]"
         ],
         [
           "带血的",
-          "adj.ns",
-          "",
-          "fr/01679.mp3",
-          "zh/01679.mp3",
+          "sanglant, e",
+          "adj.",
+          "fr/12673.mp3",
+          "zh/12673.mp3",
           "dài xuè de",
-          ""
+          "[sɑ̃ɡlɑ̃, ɑ̃:t]"
         ]
       ]
     },
     {
       "no": 7,
-      "name": "第7节",
+      "name": "客厅",
       "w": [
         [
           "长沙发",
-          "Kcanape",
+          "canapé",
           "m.",
-          "fr/01680.mp3",
-          "zh/01680.mp3",
-          "cháng shā fā",
+          "fr/12674.mp3",
+          "zh/12674.mp3",
+          "zhǎng shā fā",
           "[kanape]"
         ],
         [
           "长沙发",
-          "Ksofa",
-          "m",
-          "fr/01681.mp3",
-          "zh/01681.mp3",
-          "cháng shā fā",
-          "[sofa]"
+          "sofa",
+          "m.",
+          "fr/12675.mp3",
+          "zh/12675.mp3",
+          "zhǎng shā fā",
+          "[sɔfa]"
         ],
         [
           "沙发床",
           "divan",
-          "m",
-          "fr/01682.mp3",
-          "zh/01682.mp3",
+          "m.",
+          "fr/12676.mp3",
+          "zh/12676.mp3",
           "shā fā chuáng",
-          "[diva]"
+          "[divɑ̃]"
         ],
         [
           "可改变的",
           "convertible",
-          "",
-          "fr/01683.mp3",
-          "zh/01683.mp3",
+          "形",
+          "fr/12677.mp3",
+          "zh/12677.mp3",
           "kě gǎi biàn de",
-          "[kvertibl]"
+          "[kɔ̃vertibl]"
         ],
         [
           "扶手",
           "accotoir",
           "m.",
-          "fr/01684.mp3",
-          "zh/01684.mp3",
+          "fr/12678.mp3",
+          "zh/12678.mp3",
           "fú shǒu",
-          "[akurtwair]"
+          "[akurtwa:r]"
         ],
         [
           "椅子",
           "chaise",
-          "f",
-          "fr/01685.mp3",
-          "zh/01685.mp3",
+          "f.",
+          "fr/12679.mp3",
+          "zh/12679.mp3",
           "yǐ zi",
-          "[ez]"
+          "[ʃɛ:z]"
         ],
         [
           "凳子",
           "tabouret",
           "m.",
-          "fr/01686.mp3",
-          "zh/01686.mp3",
+          "fr/12680.mp3",
+          "zh/12680.mp3",
           "dèng zi",
-          "[tabure]"
+          "[taburɛ]"
         ],
         [
           "地毯",
           "tapis",
-          "m",
-          "fr/01687.mp3",
-          "zh/01687.mp3",
+          "m.",
+          "fr/12681.mp3",
+          "zh/12681.mp3",
           "dì tǎn",
           "[tapi]"
         ],
         [
           "小地毯",
-          "carpette ].",
-          "",
-          "fr/01688.mp3",
-          "zh/01688.mp3",
+          "carpette",
+          "f.",
+          "fr/12682.mp3",
+          "zh/12682.mp3",
           "xiǎo dì tǎn",
-          "[karpet]"
+          "[karpɛt]"
         ],
         [
           "茶几",
           "table basse",
           "f.",
-          "fr/01689.mp3",
-          "zh/01689.mp3",
-          "chá jī",
+          "fr/12683.mp3",
+          "zh/12683.mp3",
+          "chá jǐ",
           "[tabl ba:s]"
         ],
         [
           "烟灰缸",
           "cendrier",
           "m.",
-          "fr/01690.mp3",
-          "zh/01690.mp3",
+          "fr/12684.mp3",
+          "zh/12684.mp3",
           "yān huī gāng",
-          "[sádrije]"
+          "[sɑ̃drije]"
         ],
         [
           "扶手椅",
           "fauteuil",
           "m.",
-          "fr/01691.mp3",
-          "zh/01691.mp3",
+          "fr/12685.mp3",
+          "zh/12685.mp3",
           "fú shǒu yǐ",
-          "[fotxj]"
+          "[fotœj]"
         ],
         [
           "鱼缸",
           "aquarium",
           "m.",
-          "fr/01692.mp3",
-          "zh/01692.mp3",
+          "fr/12686.mp3",
+          "zh/12686.mp3",
           "yú gāng",
-          "[akwarjom]"
+          "[akwarjɔ̃]"
         ],
         [
           "壁炉",
-          "cheminée ()mine]/.",
-          "",
-          "fr/01693.mp3",
-          "zh/01693.mp3",
+          "cheminée",
+          "f.",
+          "fr/12687.mp3",
+          "zh/12687.mp3",
           "bì lú",
-          ""
+          "[ʃ(ə)mine]"
         ],
         [
-          "实用的家具",
-          "utilitaire meuble",
+          "实用的",
+          "utilitaire",
+          "形",
+          "fr/12688.mp3",
+          "zh/12688.mp3",
+          "shí yòng de",
+          "[ytilitɛ:r]"
+        ],
+        [
+          "家具",
+          "meuble",
           "m.",
-          "fr/01694.mp3",
-          "zh/01694.mp3",
-          "shí yòng de jiā jù",
-          "[ytilite:r]"
+          "fr/12689.mp3",
+          "zh/12689.mp3",
+          "jiā jù",
+          "[mœbl]"
         ],
         [
-          "摆放坐下",
-          "placer Fasseoir",
-          "",
-          "fr/01695.mp3",
-          "zh/01695.mp3",
-          "bǎi fàng zuò xià",
+          "摆放",
+          "placer",
+          "v.",
+          "fr/12690.mp3",
+          "zh/12690.mp3",
+          "bǎi fàng",
           "[plase]"
+        ],
+        [
+          "坐下",
+          "asseoir",
+          "v.",
+          "fr/12691.mp3",
+          "zh/12691.mp3",
+          "zuò xià",
+          "[aswa:r]"
         ]
       ],
       "s": [
         [
-          "Je dois dire que vous étes devenu une chaise tres rea liste.",
+          "Je dois dire que vous êtes devenu une chaise très réaliste.",
           "我必须说你变的椅子很逼真。",
-          "一《哈利波特与混血王子》",
-          "fr/01696.mp3",
-          "zh/01696.mp3",
-          "wǒ bì xū shuō nǐ biàn de yǐ zi hěn bī zhēn",
+          "《哈利波特与混血王子》",
+          "fr/12692.mp3",
+          "zh/12692.mp3",
+          "wǒ bì xū shuō nǐ biàn de yǐ zi hěn bī zhēn 。",
           ""
         ],
         [
-          "Nous devons poursuivre les articles utilitaires,plutt quedeapparence.",
+          "Nous devons poursuivre les articles utilitaires, plutôt que de l'apparence.",
           "我们应该追求物品的实用性，而不是外表。",
           "",
-          "fr/01697.mp3",
-          "zh/01697.mp3",
-          "wǒ men yīng gāi zhuī qiú wù pǐn de shí yòng xìng ér bú shì wài biǎo",
+          "fr/12693.mp3",
+          "zh/12693.mp3",
+          "wǒ men yīng gāi zhuī qiú wù pǐn de shí yòng xìng ， ér bú shì wài biǎo 。",
           ""
         ],
         [
-          "Le petit prince chercha des yeux ou s'asseoir, mais la pla nete était toute encombrée par le magnifique manteau d'her mine.Il resta donc debout, et,comme il était fatigue,il bailla. F AK.",
-          "小王子看看四周想找个地方坐下来可是整个星球被国王华丽的白底黑花皮袍占满了。他只好站在那里，但是因为疲倦了，他打起哈欠来",
+          "Le petit prince chercha des yeux où s'asseoir, mais la planète était toute encombrée par le magnifiquemanteau d'hermine. Il resta donc debout, et, comme il était fatigué, il bâilla.",
+          "小王子看看四周，想找个地方坐下来，可是整个星球被国王华丽的白底黑花皮袍占满了。他只好站在那里，但是因为疲倦了，他打起哈欠来。",
           "《小王子》",
-          "fr/01698.mp3",
-          "zh/01698.mp3",
-          "xiǎo wáng zǐ kàn kàn sì zhōu xiǎng zhǎo gè dì fāng zuò xià lái kě shì zhěng gè xīng qiú bèi guó wáng huá lì de bái dǐ hēi huā pí páo zhàn mǎn le tā zhǐ hǎo zhàn zài nà lǐ dàn shì yīn wèi pí juàn le tā dǎ qǐ hā qiàn lái",
+          "fr/12694.mp3",
+          "zh/12694.mp3",
+          "xiǎo wáng zi kàn kàn sì zhōu ， xiǎng zhǎo gè dì fāng zuò xià lái ， kě shì zhěng gè xīng qiú bèi guó wáng huá lì de bái dǐ hēi huā pí páo zhàn mǎn le 。 tā zhǐ hǎo zhàn zài nà lǐ ， dàn shì yīn wèi pí juàn le ， tā dǎ qǐ hā qiàn lái 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "现实的",
           "réaliste",
-          "adj",
-          "fr/01699.mp3",
-          "",
-          "",
+          "adj.",
+          "fr/12695.mp3",
+          "zh/12695.mp3",
+          "xiàn shí de",
           "[realist]"
         ],
         [
-          "现实的",
-          "",
-          "",
-          "",
-          "zh/01700.mp3",
-          "xiàn shí de",
-          ""
-        ],
-        [
-          "",
+          "追踪，追赶",
           "poursuivre",
-          "",
-          "fr/01701.mp3",
-          "",
-          "",
-          "[pursui:vr]"
-        ],
-        [
-          "追踪追赶",
-          "",
-          "",
-          "",
-          "zh/01702.mp3",
-          "zhuī zōng zhuī gǎn",
-          ""
+          "v.t.",
+          "fr/12696.mp3",
+          "zh/12696.mp3",
+          "zhuī zōng ， zhuī gǎn",
+          "[pursɥi:vr]"
         ],
         [
           "行星",
-          "planete",
-          "nf.",
-          "fr/01703.mp3",
-          "zh/01703.mp3",
+          "planète",
+          "n.f.",
+          "fr/12697.mp3",
+          "zh/12697.mp3",
           "xíng xīng",
-          "[planet]"
-        ],
-        [
-          "",
-          "encombrer",
-          "vt",
-          "fr/01704.mp3",
-          "",
-          "",
-          "[äksbre]"
+          "[planɛt]"
         ],
         [
           "堵塞",
-          "",
-          "",
-          "",
-          "zh/01705.mp3",
-          "dǔ sè",
-          ""
-        ],
-        [
-          "",
-          "magnifique",
-          "",
-          "fr/01706.mp3",
-          "",
-          "",
-          "[manifik]"
+          "encombrer",
+          "v.t.",
+          "fr/12698.mp3",
+          "zh/12698.mp3",
+          "dǔ sāi",
+          "[ɑ̃kɔ̃bre]"
         ],
         [
           "豪华的",
-          "",
+          "magnifique",
           "adj.",
-          "",
-          "zh/01707.mp3",
+          "fr/12699.mp3",
+          "zh/12699.mp3",
           "háo huá de",
-          ""
+          "[maɲifik]"
         ],
         [
           "打哈欠",
-          "bailler",
-          "v.T",
-          "fr/01708.mp3",
-          "zh/01708.mp3",
+          "bâiller",
+          "v.i.",
+          "fr/12700.mp3",
+          "zh/12700.mp3",
           "dǎ hā qiàn",
           "[baje]"
         ]
@@ -3371,113 +1724,113 @@ window.BOOK_DATA[2] = {
     },
     {
       "no": 8,
-      "name": "第8节",
+      "name": "卧室",
       "w": [
         [
           "床",
           "lit",
-          "m",
-          "fr/01709.mp3",
-          "zh/01709.mp3",
+          "m.",
+          "fr/12701.mp3",
+          "zh/12701.mp3",
           "chuáng",
           "[li]"
         ],
         [
           "摇篮",
           "berceau",
-          "m",
-          "fr/01710.mp3",
-          "zh/01710.mp3",
+          "名",
+          "fr/12702.mp3",
+          "zh/12702.mp3",
           "yáo lán",
           "[berso]"
         ],
         [
           "单人床",
-          "lita une place",
-          "m",
-          "fr/01711.mp3",
-          "zh/01711.mp3",
+          "lit à une place",
+          "m.",
+          "fr/12703.mp3",
+          "zh/12703.mp3",
           "dān rén chuáng",
           "[li a yn plas]"
         ],
         [
           "双人床",
-          "xit a deux places",
+          "lit à deux places",
           "m.",
-          "fr/01712.mp3",
-          "zh/01712.mp3",
+          "fr/12704.mp3",
+          "zh/12704.mp3",
           "shuāng rén chuáng",
-          "[li a do plas]"
+          "[li a dø plas]"
         ],
         [
           "床架",
-          "chalit",
-          "m",
-          "fr/01713.mp3",
-          "zh/01713.mp3",
+          "châlit",
+          "m.",
+          "fr/12705.mp3",
+          "zh/12705.mp3",
           "chuáng jià",
-          "[ali]"
+          "[ʃali]"
         ],
         [
           "一套家具",
           "suite",
-          "",
-          "fr/01714.mp3",
-          "zh/01714.mp3",
-          "yī tào jiā jù",
-          "[syit]"
+          "f.",
+          "fr/12706.mp3",
+          "zh/12706.mp3",
+          "yí tào jiā jù",
+          "[sɥit]"
         ],
         [
           "床垫",
           "matelas",
-          "m",
-          "fr/01715.mp3",
-          "zh/01715.mp3",
+          "m.",
+          "fr/12707.mp3",
+          "zh/12707.mp3",
           "chuáng diàn",
           "[matla]"
         ],
         [
           "枕头",
           "oreiller",
-          "m",
-          "fr/01716.mp3",
-          "zh/01716.mp3",
-          "zhěn tou",
-          "[gree)je]"
+          "m.",
+          "fr/12708.mp3",
+          "zh/12708.mp3",
+          "zhěn tóu",
+          "[ɔre(ɛ)je]"
         ],
         [
           "枕套",
-          "thtaie",
-          "",
-          "fr/01717.mp3",
-          "zh/01717.mp3",
+          "taie",
+          "f.",
+          "fr/12709.mp3",
+          "zh/12709.mp3",
           "zhěn tào",
-          "[te]"
+          "[tɛ]"
         ],
         [
           "羽绒被",
           "couette",
           "f.",
-          "fr/01718.mp3",
-          "zh/01718.mp3",
+          "fr/12710.mp3",
+          "zh/12710.mp3",
           "yǔ róng bèi",
-          "[kwet]"
+          "[kwɛt]"
         ],
         [
           "毛毯",
           "drap de laine",
-          "m",
-          "fr/01719.mp3",
-          "zh/01719.mp3",
+          "m.",
+          "fr/12711.mp3",
+          "zh/12711.mp3",
           "máo tǎn",
-          "[dra d(alen]"
+          "[dra d(ə) lɛn]"
         ],
         [
           "被褥",
           "literie",
-          "",
-          "fr/01720.mp3",
-          "zh/01720.mp3",
+          "f.",
+          "fr/12712.mp3",
+          "zh/12712.mp3",
           "bèi rù",
           "[litri]"
         ],
@@ -3485,577 +1838,550 @@ window.BOOK_DATA[2] = {
           "床单",
           "drap de lit",
           "m.",
-          "fr/01721.mp3",
-          "zh/01721.mp3",
+          "fr/12713.mp3",
+          "zh/12713.mp3",
           "chuáng dān",
-          "[dra d(a) li]"
+          "[dra d(ə) li]"
         ],
         [
           "床单",
-          "toile a draps",
+          "toile à draps",
           "f.",
-          "fr/01722.mp3",
-          "zh/01722.mp3",
+          "fr/12714.mp3",
+          "zh/12714.mp3",
           "chuáng dān",
           "[twal a dra]"
         ],
         [
           "小睡",
-          "]somme",
-          "m",
-          "fr/01723.mp3",
-          "zh/01723.mp3",
+          "somme",
+          "m.",
+          "fr/12715.mp3",
+          "zh/12715.mp3",
           "xiǎo shuì",
-          "[som]"
+          "[sɔm]"
         ],
         [
           "凉席",
           "natte",
-          "",
-          "fr/01724.mp3",
-          "zh/01724.mp3",
+          "f.",
+          "fr/12716.mp3",
+          "zh/12716.mp3",
           "liáng xí",
           "[nat]"
         ],
         [
           "蚊帐",
-          "moustiquaire /",
-          "",
-          "fr/01725.mp3",
-          "zh/01725.mp3",
+          "moustiquaire",
+          "f.",
+          "fr/12717.mp3",
+          "zh/12717.mp3",
           "wén zhàng",
           "[mustike:r]"
         ],
         [
           "床垫",
           "alaise",
-          "",
-          "fr/01726.mp3",
-          "zh/01726.mp3",
+          "f.",
+          "fr/12718.mp3",
+          "zh/12718.mp3",
           "chuáng diàn",
-          "[alez]"
+          "[alɛz]"
         ],
         [
-          "床脚双人床",
-          "pieds du lit lita deux places",
-          "",
-          "fr/01727.mp3",
-          "zh/01727.mp3",
-          "chuáng jiǎo shuāng rén chuáng",
-          "[pie dy li]"
+          "床脚",
+          "pieds du lit",
+          "m.",
+          "fr/12719.mp3",
+          "zh/12719.mp3",
+          "chuáng jiǎo",
+          "[pje dy li]"
         ]
       ],
       "s": [
         [
-          "Je pense quun matelas est suffisant. Elle jette son oreiller sur son lit.",
-          "我觉得一张气垫就够了。她把枕头扔在床上",
-          "《暮光之城3：月食》",
-          "fr/01728.mp3",
-          "zh/01728.mp3",
-          "wǒ jué de yī zhāng qì diàn jiù gòu le tā bǎ zhěn tou rēng zài chuáng shàng",
+          "Je pense qu'un matelas est suffisant.",
+          "我觉得一张气垫就够了。",
+          "",
+          "fr/12720.mp3",
+          "zh/12720.mp3",
+          "wǒ jué dé yì zhāng qì diàn jiù gòu le 。",
           ""
         ],
         [
-          "Ils sont tous vetus de robes et de draps de lit,ressembles a un tas de fantomes.1 Cest mon meilleur ami, on fait les études dans la meme université,en plus nous somme des collocataires.",
-          "他们全都披着长袍和床单，看来像一群鬼。这是我的好朋友，我们在同一所大学念书而且我们住同一疫室。",
-          "一《阿甘正传》",
-          "fr/01729.mp3",
-          "zh/01729.mp3",
-          "tā men quán dōu pī zhe cháng páo hé chuáng dān kàn lái xiàng yī qún guǐ zhè shì wǒ de hǎo péng yǒu wǒ men zài tóng yī suǒ dà xué niàn shū ér qiě wǒ men zhù tóng yī yì shì",
+          "Elle jette son oreiller sur son lit.",
+          "她把枕头扔在床上。",
+          "《暮光之城3：月食》",
+          "fr/12721.mp3",
+          "zh/12721.mp3",
+          "tā bǎ zhěn tóu rēng zài chuáng shàng 。",
+          ""
+        ],
+        [
+          "Ils sont tous vêtus de robes et de draps de lit, ressembles à un tas de fantômes.",
+          "他们全都披着长袍和床单，看来像一群鬼。",
+          "《阿甘正传》",
+          "fr/12722.mp3",
+          "zh/12722.mp3",
+          "tā men quán dōu pī zhe zhǎng páo hé chuáng dān ， kàn lái xiàng yì qún guǐ 。",
+          ""
+        ],
+        [
+          "C'est mon meilleur ami, on fait les études dans la même université, en plus nous somme descollocataires.",
+          "这是我的好朋友，我们在同一所大学念书而且我们住同一寝室。",
+          "",
+          "fr/12723.mp3",
+          "zh/12723.mp3",
+          "zhè shì wǒ de hǎo péng yǒu ， wǒ men zài tóng yì suǒ dà xué niàn shū ér qiě wǒ men zhù tóng yì qǐn shì 。",
           ""
         ]
       ],
       "e": [
         [
-          "扔投",
-          "jeter v",
-          "",
-          "fr/01730.mp3",
-          "zh/01730.mp3",
-          "rēng tóu",
-          "[3ate]"
-        ],
-        [
-          "",
-          "ressembler",
-          "",
-          "fr/01731.mp3",
-          "",
-          "",
-          "[ra)säble]"
+          "扔，投",
+          "jeter",
+          "v.t.",
+          "fr/12724.mp3",
+          "zh/12724.mp3",
+          "rēng ， tóu",
+          "[ʒ(ə)te]"
         ],
         [
           "相似",
-          "",
-          "",
-          "",
-          "zh/01732.mp3",
-          "xiāng sì",
-          ""
-        ],
-        [
-          "",
-          "fantome",
-          "n.m.",
-          "fr/01733.mp3",
-          "",
-          "",
-          "[fäto:m]"
+          "ressembler",
+          "v.t.",
+          "fr/12725.mp3",
+          "zh/12725.mp3",
+          "xiāng shì",
+          "[r(ə)sɑ̃ble]"
         ],
         [
           "鬼怪",
-          "",
-          "",
-          "",
-          "zh/01734.mp3",
+          "fantôme",
+          "n.m.",
+          "fr/12726.mp3",
+          "zh/12726.mp3",
           "guǐ guài",
-          ""
-        ],
-        [
-          "",
-          "collocataire",
-          "",
-          "fr/01735.mp3",
-          "",
-          "",
-          "[kolbkatair]"
+          "[fɑ̃to:m]"
         ],
         [
           "寝室",
-          "",
+          "collocataire",
           "n.m.",
-          "",
-          "zh/01736.mp3",
+          "fr/12727.mp3",
+          "zh/12727.mp3",
           "qǐn shì",
-          ""
+          "[kɔlkatair]"
         ]
       ]
     },
     {
       "no": 9,
-      "name": "第9节",
+      "name": "梳妆台",
       "w": [
         [
           "化妆品",
           "cosmétique",
           "m.",
-          "fr/01737.mp3",
-          "zh/01737.mp3",
+          "fr/12728.mp3",
+          "zh/12728.mp3",
           "huà zhuāng pǐn",
-          "[kosmetik]"
+          "[kɔsmetik]"
         ],
         [
           "口红",
-          "rougealevres",
+          "rouge à lèvres",
           "m.",
-          "fr/01738.mp3",
-          "zh/01738.mp3",
+          "fr/12729.mp3",
+          "zh/12729.mp3",
           "kǒu hóng",
-          "[ru:3a levr]"
+          "[ru:ʒ a levr]"
         ],
         [
           "镜子",
           "miroir",
-          "m",
-          "fr/01739.mp3",
-          "zh/01739.mp3",
+          "m.",
+          "fr/12730.mp3",
+          "zh/12730.mp3",
           "jìng zi",
-          "[mirwar]"
+          "[mirwa:r]"
         ],
         [
           "梳子",
           "peigne",
-          "m",
-          "fr/01740.mp3",
-          "zh/01740.mp3",
+          "m.",
+          "fr/12731.mp3",
+          "zh/12731.mp3",
           "shū zi",
-          "[pen]"
+          "[pɛɲ]"
         ],
         [
           "吹风机",
-          "seche-cheveux",
+          "sèche-cheveux",
           "m.",
-          "fr/01741.mp3",
-          "zh/01741.mp3",
+          "fr/12732.mp3",
+          "zh/12732.mp3",
           "chuī fēng jī",
-          "[seSa)va]"
+          "[seʃ ʃ(ə)vø]"
         ],
         [
           "容器",
           "récipient",
-          "m",
-          "fr/01742.mp3",
-          "zh/01742.mp3",
+          "m.",
+          "fr/12733.mp3",
+          "zh/12733.mp3",
           "róng qì",
-          "[resipja]"
+          "[resipjɑ̃]"
         ],
         [
           "指甲刀",
           "coupe-ongles",
           "m.",
-          "fr/01743.mp3",
-          "zh/01743.mp3",
+          "fr/12734.mp3",
+          "zh/12734.mp3",
           "zhǐ jiǎ dāo",
-          "[kup 3:gl]"
+          "[kup ɔ̃:gl]"
         ],
         [
           "发夹",
-          "épinglea cheveux",
+          "épingle à cheveux",
           "m.",
-          "fr/01744.mp3",
-          "zh/01744.mp3",
+          "fr/12735.mp3",
+          "zh/12735.mp3",
           "fā jiā",
-          "[epgla S(a)vo]"
+          "[ep ɛ̃:gl a ʃ(ə)vø]"
         ],
         [
           "粉底",
-          "fond de teintf5 d(a) t&]",
+          "fond de teint ̃",
           "m.",
-          "fr/01745.mp3",
-          "zh/01745.mp3",
+          "fr/12736.mp3",
+          "zh/12736.mp3",
           "fěn dǐ",
-          ""
+          "[fɔ̃ d(ə) tɛ]"
         ],
         [
           "粉扑",
-          "houppettea poudre",
-          "",
-          "fr/01746.mp3",
-          "zh/01746.mp3",
+          "houppette à poudre",
+          "f.",
+          "fr/12737.mp3",
+          "zh/12737.mp3",
           "fěn pū",
-          "[upet a pudr]"
+          "[upɛt a pudr]"
         ],
         [
           "眼线笔",
           "contour yeux",
           "m.",
-          "fr/01747.mp3",
-          "zh/01747.mp3",
+          "fr/12738.mp3",
+          "zh/12738.mp3",
           "yǎn xiàn bǐ",
-          "[kštuir jo]"
+          "[kɔ̃tu:r jø]"
         ],
         [
           "睫毛膏",
-          "rimmeirimel]",
-          "m",
-          "fr/01748.mp3",
-          "zh/01748.mp3",
+          "rimmel",
+          "m.",
+          "fr/12739.mp3",
+          "zh/12739.mp3",
           "jié máo gāo",
-          ""
+          "[rimɛl]"
         ],
         [
           "刷",
           "brosser",
-          "",
-          "fr/01749.mp3",
-          "zh/01749.mp3",
+          "v.",
+          "fr/12740.mp3",
+          "zh/12740.mp3",
           "shuā",
-          "[brose]"
+          "[brɔse]"
         ],
         [
           "润肤液",
           "astringent",
-          "m",
-          "fr/01750.mp3",
-          "zh/01750.mp3",
+          "m.",
+          "fr/12741.mp3",
+          "zh/12741.mp3",
           "rùn fū yè",
-          "[astré3á]"
+          "[astrɛ̃ʒ ɑ̃]"
         ],
         [
           "香水",
           "parfum",
-          "m",
-          "fr/01751.mp3",
-          "zh/01751.mp3",
+          "m.",
+          "fr/12742.mp3",
+          "zh/12742.mp3",
           "xiāng shuǐ",
-          "[parf]"
+          "[parfɔ̃]"
         ],
         [
           "化妆",
           "maquiller",
-          "",
-          "fr/01752.mp3",
-          "zh/01752.mp3",
+          "v.",
+          "fr/12743.mp3",
+          "zh/12743.mp3",
           "huà zhuāng",
           "[makije]"
         ],
         [
           "洗甲水",
-          "k dissolvant",
+          "dissolvant",
           "m.",
-          "fr/01753.mp3",
-          "zh/01753.mp3",
+          "fr/12744.mp3",
+          "zh/12744.mp3",
           "xǐ jiǎ shuǐ",
-          "[disolva]"
+          "[disɔlvɑ̃]"
         ],
         [
           "发蜡",
-          "pommade /",
-          "",
-          "fr/01754.mp3",
-          "zh/01754.mp3",
-          "fà là",
-          "[pomad]"
+          "pommade",
+          "f.",
+          "fr/12745.mp3",
+          "zh/12745.mp3",
+          "fā là",
+          "[pɔmad]"
         ],
         [
           "芳香剂",
           "aromate",
           "m.",
-          "fr/01755.mp3",
-          "zh/01755.mp3",
+          "fr/12746.mp3",
+          "zh/12746.mp3",
           "fāng xiāng jì",
-          "[aromat]"
+          "[arɔmat]"
         ],
         [
-          "洗涤剂洗面奶",
-          "lotion clarté/",
-          "",
-          "fr/01756.mp3",
-          "zh/01756.mp3",
-          "xǐ dí jì xǐ miàn nǎi",
-          "[losj5]"
+          "洗涤剂",
+          "lotion",
+          "f.",
+          "fr/12747.mp3",
+          "zh/12747.mp3",
+          "xǐ dí jì",
+          "[losjɔ̃]"
+        ],
+        [
+          "洗面奶",
+          "clarté",
+          "f.",
+          "fr/12748.mp3",
+          "zh/12748.mp3",
+          "xǐ miàn nǎi",
+          "[klarte]"
         ]
       ],
       "s": [
         [
           "Miroir, ah, qui est la plus belle femme du monde?",
-          "魔镜啊，谁是这个世界上最美丽",
-          "的女子？《白雪公主》",
-          "fr/01757.mp3",
-          "zh/01757.mp3",
-          "mó jìng a shuí shì zhè ge shì jiè shàng zuì měi lì",
+          "魔镜啊，谁是这个世界上最美丽的女子？",
+          "《白雪公主》",
+          "fr/12749.mp3",
+          "zh/12749.mp3",
+          "mó jìng a ， shuí shì zhè gè shì jiè shàng zuì měi lì de nǚ zi ？",
           ""
         ],
         [
-          "Pouvez-vous me donner un coup de peigne Fu?",
-          "能借把梳子吗",
-          "一《公主日记》",
-          "fr/01758.mp3",
-          "zh/01758.mp3",
-          "néng jiè bǎ shū zi ma",
+          "Pouvez-vous me donner un coup de peigne?",
+          "能借把梳子吗？",
+          "《公主日记》",
+          "fr/12750.mp3",
+          "zh/12750.mp3",
+          "néng jiè bǎ shū zi ma ？",
           ""
         ],
         [
-          "Meme aujourdhui,face a la concurrence acharnée du monde,le parfum francais se trouve comme autrefois dans une situation optimiste en fa- veur de ses potentialités du developpement. A Elle na rien de plus presse que de se maquiller avant de partir",
-          "近百年来法国香水一直处于世界领先地位直至今日在激烈的全球竞争环境下，法国香水依然以其发展潜力处于不败之地。出发前她就非得赶着化妆吗？",
+          "Même aujourd'hui, face à la concurrence acharnée du monde, le parfum français se trouve commeautrefois dans une situation optimiste en faveur de ses potentialités du développement.",
+          "近百年来，法国香水一直处于世界领先地位，直至今日，在激烈的全球竞争环境下，法国香水依然以其发展潜力处于不败之地。",
           "",
-          "fr/01759.mp3",
-          "zh/01759.mp3",
-          "jìn bǎi nián lái fǎ guó xiāng shuǐ yì zhí chǔ yú shì jiè lǐng xiān dì wèi zhí zhì jīn rì zài jī liè de quán qiú jìng zhēng huán jìng xià fǎ guó xiāng shuǐ yī rán yǐ qí fā zhǎn qián lì chǔ yú bù bài zhī dì chū fā qián tā jiù fēi děi gǎn zhe huà zhuāng ma",
+          "fr/12751.mp3",
+          "zh/12751.mp3",
+          "jìn bǎi nián lái ， fǎ guó xiāng shuǐ yì zhí chù yú shì jiè lǐng xiān dì wèi ， zhí zhì jīn rì ， zài jī liè de quán qiú jìng zhēng huán jìng xià ， fǎ guó xiāng shuǐ yī rán yǐ qí fā zhǎn qián lì chù yú bú bài zhī dì 。",
+          ""
+        ],
+        [
+          "Elle n'a rien de plus pressé que de se maquiller avant de partir?",
+          "出发前她就非得赶着化妆吗？",
+          "",
+          "fr/12752.mp3",
+          "zh/12752.mp3",
+          "chū fā qián tā jiù fēi dé gǎn zhe huà zhuāng ma ？",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "concurrence",
-          "",
-          "fr/01760.mp3",
-          "",
-          "",
-          "[kkyrä:s]"
-        ],
-        [
           "竞争",
-          "",
-          "",
-          "",
-          "zh/01761.mp3",
+          "concurrence",
+          "n.f.",
+          "fr/12753.mp3",
+          "zh/12753.mp3",
           "jìng zhēng",
-          ""
-        ],
-        [
-          "",
-          "acharné,e",
-          "adj.",
-          "fr/01762.mp3",
-          "",
-          "",
-          "[afarne]"
+          "[kɔ̃kyrɑ̃:s]"
         ],
         [
           "激烈的",
-          "",
-          "",
-          "",
-          "zh/01763.mp3",
+          "acharné, e",
+          "adj.",
+          "fr/12754.mp3",
+          "zh/12754.mp3",
           "jī liè de",
-          ""
-        ],
-        [
-          "",
-          "optimiste ad",
-          "",
-          "fr/01764.mp3",
-          "",
-          "",
-          "[optimist]"
+          "[aʃarne]"
         ],
         [
           "乐观的",
-          "",
-          "",
-          "",
-          "zh/01765.mp3",
+          "optimiste",
+          "adj.",
+          "fr/12755.mp3",
+          "zh/12755.mp3",
           "lè guān de",
-          ""
-        ],
-        [
-          "",
-          "potentialité",
-          "",
-          "fr/01766.mp3",
-          "",
-          "",
-          "[potásjalite]"
+          "[ɔptimist]"
         ],
         [
           "潜力",
-          "",
-          "nf.",
-          "",
-          "zh/01767.mp3",
+          "potentialité",
+          "n.f.",
+          "fr/12756.mp3",
+          "zh/12756.mp3",
           "qián lì",
-          ""
+          "[pɔtɑ̃sjalite]"
         ]
       ]
     },
     {
       "no": 10,
-      "name": "第10节",
+      "name": "书房",
       "w": [
         [
           "书房",
-          "salle détude/.",
-          "",
-          "fr/01768.mp3",
-          "zh/01768.mp3",
+          "salle d'étude",
+          "f.",
+          "fr/12757.mp3",
+          "zh/12757.mp3",
           "shū fáng",
-          "[sal d etyd]"
+          "[sa'l d etyd]"
         ],
         [
           "书",
           "livre",
-          "m",
-          "fr/01769.mp3",
-          "zh/01769.mp3",
+          "m.",
+          "fr/12758.mp3",
+          "zh/12758.mp3",
           "shū",
-          "[livr]"
+          "[li:vr]"
         ],
         [
           "书斋",
           "cabinet de travail",
           "m.",
-          "fr/01770.mp3",
-          "zh/01770.mp3",
+          "fr/12759.mp3",
+          "zh/12759.mp3",
           "shū zhāi",
-          "[kabine d(a) travaj]"
+          "[kabine d(ə)travaj]"
         ],
         [
-          "宽的",
+          "宽敞的",
           "vaste",
-          "",
-          "fr/01771.mp3",
-          "zh/01771.mp3",
-          "kuān de",
+          "形",
+          "fr/12760.mp3",
+          "zh/12760.mp3",
+          "kuān chǎng de",
           "[vast]"
         ],
         [
           "书签",
           "signet",
-          "m",
-          "fr/01772.mp3",
-          "zh/01772.mp3",
+          "m.",
+          "fr/12761.mp3",
+          "zh/12761.mp3",
           "shū qiān",
-          "[sine]"
+          "[siɲe]"
         ],
         [
           "书柜",
-          "bibliotheque /",
-          "",
-          "fr/01773.mp3",
-          "zh/01773.mp3",
+          "bibliothèque",
+          "f.",
+          "fr/12762.mp3",
+          "zh/12762.mp3",
           "shū guì",
-          "[biblijotek]"
+          "[biblijɔtɛk]"
         ],
         [
           "堆起",
           "entasser",
-          "",
-          "fr/01774.mp3",
-          "zh/01774.mp3",
+          "v.t.",
+          "fr/12763.mp3",
+          "zh/12763.mp3",
           "duī qǐ",
-          "[átase]"
+          "[ɑ̃tase]"
         ],
         [
           "地图册",
           "atlas",
-          "m",
-          "fr/01775.mp3",
-          "zh/01775.mp3",
+          "m.",
+          "fr/12764.mp3",
+          "zh/12764.mp3",
           "dì tú cè",
-          "[atlas]"
+          "[atla:s]"
         ],
         [
-          "抽尼",
+          "抽屉",
           "tiroir",
-          "m",
-          "fr/01776.mp3",
-          "zh/01776.mp3",
-          "chōu ní",
-          "[tirwar]"
+          "m.",
+          "fr/12765.mp3",
+          "zh/12765.mp3",
+          "chōu tì",
+          "[tirwa:r]"
         ],
         [
           "作品",
           "travaux",
-          "m",
-          "fr/01777.mp3",
-          "zh/01777.mp3",
+          "m.",
+          "fr/12766.mp3",
+          "zh/12766.mp3",
           "zuò pǐn",
           "[travo]"
         ],
         [
           "百科全书",
-          "encyclo- pédie /",
-          "",
-          "fr/01778.mp3",
-          "zh/01778.mp3",
+          "encyclopédie",
+          "f.",
+          "fr/12767.mp3",
+          "zh/12767.mp3",
           "bǎi kē quán shū",
-          "[ásiklopedi]"
+          "[ɑ̃siklɔpedi]"
         ],
         [
           "学识渊博的",
-          "savante",
-          "",
-          "fr/01779.mp3",
-          "zh/01779.mp3",
+          "savant, e",
+          "形",
+          "fr/12768.mp3",
+          "zh/12768.mp3",
           "xué shí yuān bó de",
-          "[sava, á:t]"
+          "[savɑ̃, ɑ̃:t]"
         ],
         [
           "页",
-          "page[pa3l",
-          "",
-          "fr/01780.mp3",
-          "zh/01780.mp3",
+          "page",
+          "f.",
+          "fr/12769.mp3",
+          "zh/12769.mp3",
           "yè",
-          ""
+          "[pa:ʒ]"
         ],
         [
           "读",
           "lire",
-          "",
-          "fr/01781.mp3",
-          "zh/01781.mp3",
+          "v.t.",
+          "fr/12770.mp3",
+          "zh/12770.mp3",
           "dú",
-          "[lir]"
+          "[li:r]"
         ],
         [
           "读书",
           "étudier",
-          "",
-          "fr/01782.mp3",
-          "zh/01782.mp3",
+          "v.t.",
+          "fr/12771.mp3",
+          "zh/12771.mp3",
           "dú shū",
           "[etydje]"
         ],
@@ -4063,17 +2389,17 @@ window.BOOK_DATA[2] = {
           "铅笔",
           "crayon",
           "m.",
-          "fr/01783.mp3",
-          "zh/01783.mp3",
+          "fr/12772.mp3",
+          "zh/12772.mp3",
           "qiān bǐ",
-          "[krej5]"
+          "[krejɔ̃]"
         ],
         [
           "钢笔",
           "plume",
-          "",
-          "fr/01784.mp3",
-          "zh/01784.mp3",
+          "f.",
+          "fr/12773.mp3",
+          "zh/12773.mp3",
           "gāng bǐ",
           "[plym]"
         ],
@@ -4081,354 +2407,1131 @@ window.BOOK_DATA[2] = {
           "笔筒",
           "pointe du pinceau",
           "m.",
-          "fr/01785.mp3",
-          "zh/01785.mp3",
+          "fr/12774.mp3",
+          "zh/12774.mp3",
           "bǐ tǒng",
-          "[pwé:t dy p&so]"
+          "[pwɛ:t dy pɛ̃s o]"
         ],
         [
           "自来水笔",
           "stylo",
           "m.",
-          "fr/01786.mp3",
-          "zh/01786.mp3",
+          "fr/12775.mp3",
+          "zh/12775.mp3",
           "zì lái shuǐ bǐ",
           "[stilo]"
         ],
         [
           "转椅",
           "chaise pivotante",
-          "",
-          "fr/01787.mp3",
-          "zh/01787.mp3",
-          "zhuàn yǐ",
-          ""
+          "f.",
+          "fr/12776.mp3",
+          "zh/12776.mp3",
+          "zhuǎn yǐ",
+          "[ʃɛ:z pivɔtɑ̃:t]"
         ]
       ],
       "s": [
         [
-          "Cest un gout de la nou- velle bande dessince",
+          "C'est un goût de la nouvelle bande dessinée.",
           "这是新漫画书的味道。",
           "《生活大爆炸》",
-          "fr/01789.mp3",
-          "zh/01789.mp3",
-          "zhè shì xīn màn huà shū de wèi dào",
+          "fr/12777.mp3",
+          "zh/12777.mp3",
+          "zhè shì xīn màn huà shū de wèi dào 。",
           ""
         ],
         [
-          "Elle était trop rigide,trop serré, comme une biblio- theque. Il aime que je lui lise I'édi- tion des valeurs mobilieres.",
-          "她太呆板了太拘束了，像个书架。他喜欢我读证券版给他听。",
-          "《维闻女孩》 《英雄》",
-          "fr/01790.mp3",
-          "zh/01790.mp3",
-          "tā tài dāi bǎn le tài jū shù le xiàng gè shū jià tā xǐ huān wǒ dú zhèng quàn bǎn gěi tā tīng",
+          "Elle était trop rigide, trop serré, comme une bibliothèque.",
+          "她太呆板了，太拘束了，像个书架。",
+          "《绯闻女孩》",
+          "fr/12778.mp3",
+          "zh/12778.mp3",
+          "tā tài dāi bǎn le ， tài jū shù le ， xiàng gè shū jià 。",
           ""
         ],
         [
-          "Je le parle couramment,je peux lire et écrire en francais.",
+          "Il aime que je lui lise l'édition des valeurs mobilières.",
+          "他喜欢我读证券版给他听。",
+          "《英雄》",
+          "fr/12779.mp3",
+          "zh/12779.mp3",
+          "tā xǐ huān wǒ dú zhèng quàn bǎn gěi tā tīng 。",
+          ""
+        ],
+        [
+          "Je le parle couramment, je peux lire et écrire en français.",
           "我法语说得很流利，而且我还能看法语书、用法语写东西。",
           "",
-          "fr/01791.mp3",
-          "zh/01791.mp3",
-          "wǒ fǎ yǔ shuō dé hěn liú lì ér qiě wǒ hái néng kàn fǎ yǔ shū yòng fǎ yǔ xiě dōng xī",
+          "fr/12780.mp3",
+          "zh/12780.mp3",
+          "wǒ fǎ yǔ shuō dé hěn liú lì ， ér qiě wǒ hái néng kàn fǎ yǔ shū 、 yòng fǎ yǔ xiě dōng xī 。",
           ""
         ]
       ],
       "e": [
         [
-          "绘",
+          "绘画，描述",
           "dessiner",
-          "vt.",
-          "fr/01792.mp3",
-          "zh/01792.mp3",
-          "huì",
+          "v.t.",
+          "fr/12781.mp3",
+          "zh/12781.mp3",
+          "huì huà ， miáo shù",
           "[desine]"
-        ],
-        [
-          "画描述",
-          "",
-          "",
-          "",
-          "zh/01793.mp3",
-          "huà miáo shù",
-          ""
         ],
         [
           "硬的",
           "rigide",
           "adj.",
-          "fr/01794.mp3",
-          "zh/01794.mp3",
+          "fr/12782.mp3",
+          "zh/12782.mp3",
           "yìng de",
-          "[rizid]"
+          "[riʒid]"
         ],
         [
-          "严重地",
+          "严密的",
           "serré",
-          "adv",
-          "fr/01795.mp3",
-          "zh/01795.mp3",
-          "yán zhòng dì",
-          "[seere]"
-        ],
-        [
-          "黑的严密的",
-          "adj..",
-          "",
-          "fr/01796.mp3",
-          "zh/01796.mp3",
-          "hēi de yán mì de",
-          ""
+          "adj.",
+          "fr/12783.mp3",
+          "zh/12783.mp3",
+          "yán mì de",
+          "[se(ɛ)re]"
         ],
         [
           "出版",
           "édition",
-          "nf.",
-          "fr/01797.mp3",
-          "zh/01797.mp3",
+          "n.f.",
+          "fr/12784.mp3",
+          "zh/12784.mp3",
           "chū bǎn",
-          "[edisj5]"
+          "[edisjɔ̃]"
         ],
         [
-          "",
-          "mobilier,ere",
-          "",
-          "fr/01798.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "家具",
-          "",
-          "nm.",
-          "",
-          "zh/01799.mp3",
-          "jiā jù",
-          "[mobilje,cr]"
-        ],
-        [
-          "",
-          "couramment",
-          "",
-          "fr/01800.mp3",
-          "",
-          "",
-          "[kuramä]"
+          "家具，动产",
+          "mobilier, ère",
+          "n.m.",
+          "fr/12785.mp3",
+          "zh/12785.mp3",
+          "jiā jù ， dòng chǎn",
+          "[mɔbilje, ɛ:r]"
         ],
         [
           "流利地",
-          "",
-          "adv",
-          "",
-          "zh/01801.mp3",
+          "couramment",
+          "adv.",
+          "fr/12786.mp3",
+          "zh/12786.mp3",
           "liú lì dì",
+          "[kuramɑ̃]"
+        ]
+      ]
+    },
+    {
+      "no": 11,
+      "name": "厨房",
+      "w": [
+        [
+          "冒烟",
+          "fumer",
+          "v.i.",
+          "fr/12787.mp3",
+          "zh/12787.mp3",
+          "mào yān",
+          "[fyme]"
+        ],
+        [
+          "锅",
+          "marmite",
+          "f.",
+          "fr/12788.mp3",
+          "zh/12788.mp3",
+          "guō",
+          "[marmit]"
+        ],
+        [
+          "平底锅",
+          "casserole",
+          "f.",
+          "fr/12789.mp3",
+          "zh/12789.mp3",
+          "píng dǐ guō",
+          "[kasrɔl]"
+        ],
+        [
+          "煎锅",
+          "poêle à frire",
+          "f.",
+          "fr/12790.mp3",
+          "zh/12790.mp3",
+          "jiān guō",
+          "[pwa(ɑ:)l a fri:r]"
+        ],
+        [
+          "小平底锅",
+          "poêlon",
+          "m.",
+          "fr/12791.mp3",
+          "zh/12791.mp3",
+          "xiǎo píng dǐ guō",
+          "[pwaʎɔ̃]"
+        ],
+        [
+          "炖锅",
+          "cocotte",
+          "f.",
+          "fr/12792.mp3",
+          "zh/12792.mp3",
+          "dùn guō",
+          "[kɔkɔt]"
+        ],
+        [
+          "压力锅",
+          "cocotte minute",
+          "f.",
+          "fr/12793.mp3",
+          "zh/12793.mp3",
+          "yā lì guō",
+          "[kɔkɔt minyt]"
+        ],
+        [
+          "水壶",
+          "bouilloire",
+          "f.",
+          "fr/12794.mp3",
+          "zh/12794.mp3",
+          "shuǐ hú",
+          "[bujwa:r]"
+        ],
+        [
+          "盖子",
+          "couvercle",
+          "m.",
+          "fr/12795.mp3",
+          "zh/12795.mp3",
+          "gài zi",
+          "[kuverkl]"
+        ],
+        [
+          "手柄",
+          "levier",
+          "m.",
+          "fr/12796.mp3",
+          "zh/12796.mp3",
+          "shǒu bǐng",
+          "[l(ə)vje]"
+        ],
+        [
+          "烤盘",
+          "assiette",
+          "f.",
+          "fr/12797.mp3",
+          "zh/12797.mp3",
+          "kǎo pán",
+          "[asjet]"
+        ],
+        [
+          "滚筒，鼓",
+          "tambour",
+          "m.",
+          "fr/12798.mp3",
+          "zh/12798.mp3",
+          "gǔn tǒng ， gǔ",
+          "[tɑ̃bu:r]"
+        ],
+        [
+          "铲",
+          "pelle",
+          "f.",
+          "fr/12799.mp3",
+          "zh/12799.mp3",
+          "chǎn",
+          "[pɛl]"
+        ],
+        [
+          "天然气",
+          "gaz",
+          "m.",
+          "fr/12800.mp3",
+          "zh/12800.mp3",
+          "tiān rán qì",
+          "[ga(a:)z]"
+        ],
+        [
+          "打蛋器",
+          "fouet",
+          "m.",
+          "fr/12801.mp3",
+          "zh/12801.mp3",
+          "dǎ dàn qì",
+          "[fwɛ]"
+        ],
+        [
+          "搅拌器",
+          "mixeur",
+          "m.",
+          "fr/12802.mp3",
+          "zh/12802.mp3",
+          "jiǎo bàn qì",
+          "[miksœ:r]"
+        ],
+        [
+          "洗碗布",
+          "lavette",
+          "f.",
+          "fr/12803.mp3",
+          "zh/12803.mp3",
+          "xǐ wǎn bù",
+          "[lavɛt]"
+        ],
+        [
+          "刷子",
+          "pinceau",
+          "m.",
+          "fr/12804.mp3",
+          "zh/12804.mp3",
+          "shuā zi",
+          "[pɛ̃s o]"
+        ],
+        [
+          "菜板",
+          "planche",
+          "f.",
+          "fr/12805.mp3",
+          "zh/12805.mp3",
+          "cài bǎn",
+          "[plɑ̃:ʃ]"
+        ],
+        [
+          "烤箱",
+          "four",
+          "m.",
+          "fr/12806.mp3",
+          "zh/12806.mp3",
+          "kǎo xiāng",
+          "[fu:r]"
+        ],
+        [
+          "炉子",
+          "réchaud",
+          "m.",
+          "fr/12807.mp3",
+          "zh/12807.mp3",
+          "lú zi",
+          "[reʃo]"
+        ],
+        [
+          "热水瓶",
+          "thermos",
+          "m.",
+          "fr/12808.mp3",
+          "zh/12808.mp3",
+          "rè shuǐ píng",
+          "[tɛrmo:s]"
+        ],
+        [
+          "厨房用具",
+          "ménager",
+          "f.",
+          "fr/12809.mp3",
+          "zh/12809.mp3",
+          "chú fáng yòng jù",
+          "[menaʒe]"
+        ]
+      ],
+      "s": [
+        [
+          "Il est rappelé qu'il est interdit de fumer.",
+          "禁止吸烟被再次强调。",
+          "",
+          "fr/12810.mp3",
+          "zh/12810.mp3",
+          "jìn zhǐ xī yān bèi zài cì qiáng diào 。",
           ""
+        ],
+        [
+          "Les gardes de sécurité ont regardé la casserole.",
+          "保安们看着锅呢。",
+          "《迷失》",
+          "fr/12811.mp3",
+          "zh/12811.mp3",
+          "bǎo ān men kàn zhe guō ne 。",
+          ""
+        ],
+        [
+          "Peux-tu me passer une assiette à soupe s'il te plait?",
+          "能请你给我递个汤盘过来吗？",
+          "",
+          "fr/12812.mp3",
+          "zh/12812.mp3",
+          "néng qǐng nǐ gěi wǒ dì gè tāng pán guò lái ma ？",
+          ""
+        ],
+        [
+          "Le chauffeur prend alors son thermos, verse un verre de café à la jeune dame et lui tend.",
+          "于是司机拿出了他的热水瓶，给她倒了一杯咖啡。",
+          "",
+          "fr/12813.mp3",
+          "zh/12813.mp3",
+          "yú shì sī jī ná chū le tā de rè shuǐ píng ， gěi tā dào le yì bēi kā fēi 。",
+          ""
+        ],
+        [
+          "A l'aide d'un pinceau, passer chaque feuilleté au jaune d'oeuf.",
+          "用刷子在面团上刷上蛋黄。",
+          "",
+          "fr/12814.mp3",
+          "zh/12814.mp3",
+          "yòng shuā zi zài miàn tuán shàng shuā shàng dàn huáng 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "召回，唤回",
+          "rappeler",
+          "v.t.",
+          "fr/12815.mp3",
+          "zh/12815.mp3",
+          "zhào huí ， huàn huí",
+          "[raplɛ]"
+        ],
+        [
+          "被禁止的",
+          "interdit, e",
+          "adj.",
+          "fr/12816.mp3",
+          "zh/12816.mp3",
+          "bèi jìn zhǐ de",
+          "[ɛ̃tɛrdi, it]"
+        ],
+        [
+          "汤",
+          "soupe",
+          "n.f.",
+          "fr/12817.mp3",
+          "zh/12817.mp3",
+          "tāng",
+          "[sup]"
+        ],
+        [
+          "鸡蛋",
+          "oeuf",
+          "n.m.",
+          "fr/12818.mp3",
+          "zh/12818.mp3",
+          "jī dàn",
+          "[œf]"
+        ]
+      ]
+    },
+    {
+      "no": 12,
+      "name": "浴室",
+      "w": [
+        [
+          "浴缸",
+          "baignoire",
+          "f.",
+          "fr/12819.mp3",
+          "zh/12819.mp3",
+          "yù gāng",
+          "[bɛ̃g wa:r]"
+        ],
+        [
+          "浴缸",
+          "bidet",
+          "f.",
+          "fr/12820.mp3",
+          "zh/12820.mp3",
+          "yù gāng",
+          "[bide]"
+        ],
+        [
+          "淋浴",
+          "douche",
+          "f.",
+          "fr/12821.mp3",
+          "zh/12821.mp3",
+          "lín yù",
+          "[duʃ]"
+        ],
+        [
+          "浴帽",
+          "bonnet de bain ̃",
+          "m.",
+          "fr/12822.mp3",
+          "zh/12822.mp3",
+          "yù mào",
+          "[bɔnɛ d(ə) bɛ]"
+        ],
+        [
+          "浴室脚垫",
+          "tapis anti-dérapant",
+          "m.",
+          "fr/12823.mp3",
+          "zh/12823.mp3",
+          "yù shì jiǎo diàn",
+          "[tapi ɑ̃tiderapɑ̃]"
+        ],
+        [
+          "水龙头",
+          "robinet",
+          "m.",
+          "fr/12824.mp3",
+          "zh/12824.mp3",
+          "shuǐ lóng tóu",
+          "[rɔbinɛ]"
+        ],
+        [
+          "洗发液",
+          "shampooing ̃",
+          "m.",
+          "fr/12825.mp3",
+          "zh/12825.mp3",
+          "xǐ fā yè",
+          "[ʃɑ̃pwɛ]"
+        ],
+        [
+          "护发素",
+          "conditionneur",
+          "m.",
+          "fr/12826.mp3",
+          "zh/12826.mp3",
+          "hù fā sù",
+          "[kɔ̃disjɔnœr]"
+        ],
+        [
+          "揉",
+          "frotter",
+          "v.",
+          "fr/12827.mp3",
+          "zh/12827.mp3",
+          "róu",
+          "[frɔte]"
+        ],
+        [
+          "喷头",
+          "douche",
+          "f.",
+          "fr/12828.mp3",
+          "zh/12828.mp3",
+          "pēn tóu",
+          "[duʃ]"
+        ],
+        [
+          "浴巾",
+          "serviette de bain ̃",
+          "f.",
+          "fr/12829.mp3",
+          "zh/12829.mp3",
+          "yù jīn",
+          "[sɛrvjɛt d(ə) bɛ]"
+        ],
+        [
+          "肥皂",
+          "savon",
+          "m.",
+          "fr/12830.mp3",
+          "zh/12830.mp3",
+          "féi zào",
+          "[savɔ̃]"
+        ],
+        [
+          "肥皂盒",
+          "porte-savon",
+          "m.",
+          "fr/12831.mp3",
+          "zh/12831.mp3",
+          "féi zào hé",
+          "[pɔrt savɔ̃]"
+        ],
+        [
+          "牙膏",
+          "dentifrice",
+          "m.",
+          "fr/12832.mp3",
+          "zh/12832.mp3",
+          "yá gāo",
+          "[dɑ̃tifris]"
+        ],
+        [
+          "牙刷",
+          "brosse à dents",
+          "f.",
+          "fr/12833.mp3",
+          "zh/12833.mp3",
+          "yá shuā",
+          "[brɔs a dɑ̃]"
+        ],
+        [
+          "热水器",
+          "chauffe-eau",
+          "m.",
+          "fr/12834.mp3",
+          "zh/12834.mp3",
+          "rè shuǐ qì",
+          "[ʃɔfo]"
+        ],
+        [
+          "洗脸盆",
+          "lavabo",
+          "m.",
+          "fr/12835.mp3",
+          "zh/12835.mp3",
+          "xǐ liǎn pén",
+          "[lavabo]"
+        ],
+        [
+          "浴帘",
+          "rideau de douche",
+          "f.",
+          "fr/12836.mp3",
+          "zh/12836.mp3",
+          "yù lián",
+          "[rido d(ə) duʃ]"
+        ],
+        [
+          "沐浴乳",
+          "nettoyant corporel",
+          "m.",
+          "fr/12837.mp3",
+          "zh/12837.mp3",
+          "mù yù rǔ",
+          "[netwajɑ̃ kɔrpɔrɛl]"
+        ],
+        [
+          "浴盐",
+          "sel de bain ̃",
+          "m.",
+          "fr/12838.mp3",
+          "zh/12838.mp3",
+          "yù yán",
+          "[sɛl d(ə) bɛ]"
+        ],
+        [
+          "管道",
+          "tube",
+          "m.",
+          "fr/12839.mp3",
+          "zh/12839.mp3",
+          "guǎn dào",
+          "[tyb]"
+        ]
+      ],
+      "s": [
+        [
+          "Je veux dire, vous pouvez brosser l'évier et la baignoire.",
+          "我是说，可以刷水槽、浴缸。",
+          "《绝望的主妇》",
+          "fr/12840.mp3",
+          "zh/12840.mp3",
+          "wǒ shì shuō ， kě yǐ shuā shuǐ cáo 、 yù gāng 。",
+          ""
+        ],
+        [
+          "Je suis tout en sueur, je vais prendre une douche.",
+          "我浑身是汗，我去洗个淋浴。",
+          "",
+          "fr/12841.mp3",
+          "zh/12841.mp3",
+          "wǒ hún shēn shì hàn ， wǒ qù xǐ gè lín yù 。",
+          ""
+        ],
+        [
+          "Fermez correctement le robinet pour éviter le gaspillage de l'eau.",
+          "请关紧水龙头，节约用水。",
+          "",
+          "fr/12842.mp3",
+          "zh/12842.mp3",
+          "qǐng guān jǐn shuǐ lóng tóu ， jié yuē yòng shuǐ 。",
+          ""
+        ],
+        [
+          "Frotte bien de la tête aux pieds, il faut que ça mousse.",
+          "从头到脚擦满全身，擦的时候要出泡沫。",
+          "",
+          "fr/12843.mp3",
+          "zh/12843.mp3",
+          "cóng tóu dào jiǎo cā mǎn quán shēn ， cā de shí hòu yào chū pào mò 。",
+          ""
+        ],
+        [
+          "La serviette est à côté de la piscine, vous pouvez utiliser un morceau de savon super.",
+          "毛巾在水池旁，你能用那块特级肥皂。",
+          "《老友记》",
+          "fr/12844.mp3",
+          "zh/12844.mp3",
+          "máo jīn zài shuǐ chí páng ， nǐ néng yòng nà kuài tè jí féi zào 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "洗碗槽",
+          "évier",
+          "n.m.",
+          "fr/12845.mp3",
+          "zh/12845.mp3",
+          "xǐ wǎn cáo",
+          "[evje]"
+        ],
+        [
+          "汗水",
+          "sueur",
+          "n.f.",
+          "fr/12846.mp3",
+          "zh/12846.mp3",
+          "hàn shuǐ",
+          "[syœ:r]"
+        ],
+        [
+          "游泳池",
+          "piscine",
+          "n.f.",
+          "fr/12847.mp3",
+          "zh/12847.mp3",
+          "yóu yǒng chí",
+          "[pisin]"
+        ],
+        [
+          "块",
+          "morceau",
+          "n.m.",
+          "fr/12848.mp3",
+          "zh/12848.mp3",
+          "kuài",
+          "[mɔrso]"
+        ]
+      ]
+    },
+    {
+      "no": 13,
+      "name": "洗衣间",
+      "w": [
+        [
+          "洗衣房",
+          "buanderie",
+          "f.",
+          "fr/12849.mp3",
+          "zh/12849.mp3",
+          "xǐ yī fáng",
+          "[bɥ(y)ɑ̃dʁi]"
+        ],
+        [
+          "桶",
+          "tonneau",
+          "m.",
+          "fr/12850.mp3",
+          "zh/12850.mp3",
+          "tǒng",
+          "[tɔno]"
+        ],
+        [
+          "洗衣服",
+          "laver",
+          "v.",
+          "fr/12851.mp3",
+          "zh/12851.mp3",
+          "xǐ yī fú",
+          "[lave]"
+        ],
+        [
+          "搓板",
+          "planche à lessive",
+          "f.",
+          "fr/12852.mp3",
+          "zh/12852.mp3",
+          "cuō bǎn",
+          "[plɑ̃:ʃ a le(ɛ)si:v]"
+        ],
+        [
+          "洗涤",
+          "nettoyer",
+          "v.",
+          "fr/12853.mp3",
+          "zh/12853.mp3",
+          "xǐ dí",
+          "[ne(ɛ)twaje]"
+        ],
+        [
+          "洗衣机",
+          "lave-linge",
+          "m.",
+          "fr/12854.mp3",
+          "zh/12854.mp3",
+          "xǐ yī jī",
+          "[lavlɛ̃ʒ]"
+        ],
+        [
+          "洗衣机",
+          "machine à laver",
+          "m.",
+          "fr/12855.mp3",
+          "zh/12855.mp3",
+          "xǐ yī jī",
+          "[maʃin a lave]"
+        ],
+        [
+          "洗衣粉",
+          "détergent",
+          "m.",
+          "fr/12856.mp3",
+          "zh/12856.mp3",
+          "xǐ yī fěn",
+          "[detɛʁʒɑ̃]"
+        ],
+        [
+          "脱水机",
+          "essoreuse",
+          "f.",
+          "fr/12857.mp3",
+          "zh/12857.mp3",
+          "tuō shuǐ jī",
+          "[ɛsɔʁø:z]"
+        ],
+        [
+          "脏的",
+          "sale",
+          "形",
+          "fr/12858.mp3",
+          "zh/12858.mp3",
+          "zàng de",
+          "[sal]"
+        ],
+        [
+          "熨斗",
+          "fer à repasser",
+          "m.",
+          "fr/12859.mp3",
+          "zh/12859.mp3",
+          "yùn dòu",
+          "[feʁ a r(ə)pase]"
+        ],
+        [
+          "电熨斗",
+          "fer électrique",
+          "m.",
+          "fr/12860.mp3",
+          "zh/12860.mp3",
+          "diàn yùn dòu",
+          "[fe:r elektʁik]"
+        ],
+        [
+          "熨衣服",
+          "repasser des vêtements",
+          "v.",
+          "fr/12861.mp3",
+          "zh/12861.mp3",
+          "yùn yī fú",
+          "[r(ə)pase de vɛtmɑ̃]"
+        ],
+        [
+          "衣架",
+          "porte-manteau",
+          "m.",
+          "fr/12862.mp3",
+          "zh/12862.mp3",
+          "yī jià",
+          "[pɔʁt mɑ̃to]"
+        ],
+        [
+          "褪色",
+          "fanure",
+          "f.",
+          "fr/12863.mp3",
+          "zh/12863.mp3",
+          "tuì sè",
+          "[fany:ʁ]"
+        ],
+        [
+          "染色",
+          "colorisation",
+          "f.",
+          "fr/12864.mp3",
+          "zh/12864.mp3",
+          "rǎn sè",
+          "[kɔlɔʁizasjɔ̃]"
+        ]
+      ],
+      "s": [
+        [
+          "Je pense que le taux de change actuel est dix paquets de vêtements pour une brosse à dents.",
+          "我想，现在的汇率是十包衣服换一支牙刷。",
+          "《迷失》",
+          "fr/12865.mp3",
+          "zh/12865.mp3",
+          "wǒ xiǎng ， xiàn zài de huì lǜ shì shí bāo yī fú huàn yì zhī yá shuā 。",
+          ""
+        ],
+        [
+          "La maison est superbe; elle a une machine à laver, mais je ne suis pas sûre qu'elle fonctionne.",
+          "新房子漂亮极了，里面还有一台洗衣机呢，就是不知道还好用不好用。",
+          "",
+          "fr/12866.mp3",
+          "zh/12866.mp3",
+          "xīn fáng zi piāo liàng jí le ， lǐ miàn hái yǒu yì tái xǐ yī jī ne ， jiù shì bù zhī dào hái hǎo yòng bù hǎo yòng 。",
+          ""
+        ],
+        [
+          "Ce que vous pensez de la lessive est de mettre les vêtements sales dans le panier à linge et prendreaprès les propres dans le tiroir.",
+          "你们认为洗衣服就是把脏衣服放进洗衣篮里，在抽屉里拿干净的衣服。",
+          "《绝望的主妇》",
+          "fr/12867.mp3",
+          "zh/12867.mp3",
+          "nǐ men rèn wèi xǐ yī fú jiù shì bǎ zàng yī fú fàng jìn xǐ yī lán lǐ ， zài chōu tì lǐ ná gàn jìng de yī fú 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "比率",
+          "taux",
+          "n.m.",
+          "fr/12868.mp3",
+          "zh/12868.mp3",
+          "bǐ lǜ",
+          "[to]"
+        ],
+        [
+          "现时的",
+          "actuel, elle",
+          "adj.",
+          "fr/12869.mp3",
+          "zh/12869.mp3",
+          "xiàn shí de",
+          "[aktyɛl]"
+        ],
+        [
+          "运转",
+          "fonctionner",
+          "v.i.",
+          "fr/12870.mp3",
+          "zh/12870.mp3",
+          "yùn zhuǎn",
+          "[fɔ̃ksjɔne]"
+        ],
+        [
+          "篮子",
+          "panier",
+          "n.m.",
+          "fr/12871.mp3",
+          "zh/12871.mp3",
+          "lán zi",
+          "[panje]"
+        ],
+        [
+          "抽屉",
+          "tiroir",
+          "n.m.",
+          "fr/12872.mp3",
+          "zh/12872.mp3",
+          "chōu tì",
+          "[tiʁwa:ʁ]"
         ]
       ]
     },
     {
       "no": 14,
-      "name": "第14节",
+      "name": "阳台",
       "w": [
         [
           "阳台",
           "balcon",
           "m.",
-          "fr/01802.mp3",
-          "zh/01802.mp3",
+          "fr/12873.mp3",
+          "zh/12873.mp3",
           "yáng tái",
-          "[balk5]"
+          "[balkɔ̃]"
         ],
         [
           "走廊",
           "couloir",
           "m.",
-          "fr/01803.mp3",
-          "zh/01803.mp3",
+          "fr/12874.mp3",
+          "zh/12874.mp3",
           "zǒu láng",
-          "[kulwair]"
+          "[kulwa:r]"
         ],
         [
           "走廊",
           "corridor",
           "m.",
-          "fr/01804.mp3",
-          "zh/01804.mp3",
+          "fr/12875.mp3",
+          "zh/12875.mp3",
           "zǒu láng",
-          "[korido:r]"
+          "[kɔridɔ:r]"
         ],
         [
           "窗台",
-          "fenetre /",
-          "",
-          "fr/01805.mp3",
-          "zh/01805.mp3",
+          "fenêtre",
+          "f.",
+          "fr/12876.mp3",
+          "zh/12876.mp3",
           "chuāng tái",
-          "[fanetr]"
+          "[f(ə)nɛtr]"
         ],
         [
           "窗帘",
           "rideau",
-          "m",
-          "fr/01806.mp3",
-          "zh/01806.mp3",
+          "m.",
+          "fr/12877.mp3",
+          "zh/12877.mp3",
           "chuāng lián",
           "[rido]"
         ],
         [
           "视野",
-          "horizon briz5]",
-          "m",
-          "fr/01807.mp3",
-          "zh/01807.mp3",
+          "horizon",
+          "m.",
+          "fr/12878.mp3",
+          "zh/12878.mp3",
           "shì yě",
-          ""
+          "[ɔrizɔ̃]"
         ],
         [
           "视野",
           "vue",
-          "",
-          "fr/01808.mp3",
-          "zh/01808.mp3",
+          "f.",
+          "fr/12879.mp3",
+          "zh/12879.mp3",
           "shì yě",
           "[vy]"
         ],
         [
           "开阔的",
           "découverte",
-          "",
-          "fr/01809.mp3",
-          "zh/01809.mp3",
+          "形",
+          "fr/12880.mp3",
+          "zh/12880.mp3",
           "kāi kuò de",
           "[dekuvert]"
         ],
         [
           "超出",
-          "depasser",
-          "",
-          "fr/01810.mp3",
-          "zh/01810.mp3",
+          "dépasser",
+          "动",
+          "fr/12881.mp3",
+          "zh/12881.mp3",
           "chāo chū",
           "[depa(a)se]"
         ],
         [
           "眩晕",
           "vertige",
-          "m",
-          "fr/01811.mp3",
-          "zh/01811.mp3",
+          "m.",
+          "fr/12882.mp3",
+          "zh/12882.mp3",
           "xuàn yūn",
-          "[verti3]"
+          "[verti:ʒ]"
         ],
         [
           "俯瞰",
           "regarder vers le bas",
-          "",
-          "fr/01813.mp3",
-          "zh/01813.mp3",
+          "动",
+          "fr/12883.mp3",
+          "zh/12883.mp3",
           "fǔ kàn",
-          "[ra)garde ve:rla ba]"
+          "[r(ə)garde ve:r la ba]"
         ],
         [
           "清晰地",
           "nettement",
-          "",
-          "fr/01814.mp3",
-          "zh/01814.mp3",
+          "副",
+          "fr/12884.mp3",
+          "zh/12884.mp3",
           "qīng xī dì",
-          "[netmá]"
+          "[nɛtmɑ̃]"
         ],
         [
           "模糊地",
           "confusément",
-          "",
-          "fr/01815.mp3",
-          "zh/01815.mp3",
+          "副",
+          "fr/12885.mp3",
+          "zh/12885.mp3",
           "mó hú dì",
-          "[kšfyzemá]"
+          "[kɔ̃fyzemɑ̃]"
         ],
         [
           "凌乱的",
-          "ldesordonne",
-          "",
-          "fr/01816.mp3",
-          "zh/01816.mp3",
+          "désordonné, e",
+          "形",
+          "fr/12886.mp3",
+          "zh/12886.mp3",
           "líng luàn de",
-          "[dezordone]"
+          "[dezɔrdɔne]"
         ],
         [
           "晾晒",
           "exposer",
-          "",
-          "fr/01817.mp3",
-          "zh/01817.mp3",
+          "动",
+          "fr/12887.mp3",
+          "zh/12887.mp3",
           "liàng shài",
-          "[ckspoze]"
+          "[ɛkspoze]"
         ],
         [
           "晒衣绳",
           "corde",
-          "",
-          "fr/01818.mp3",
-          "zh/01818.mp3",
+          "f.",
+          "fr/12888.mp3",
+          "zh/12888.mp3",
           "shài yī shéng",
-          "[kord]"
+          "[kɔrd]"
         ],
         [
           "鸟笼",
           "cage",
-          "",
-          "fr/01819.mp3",
-          "zh/01819.mp3",
+          "f.",
+          "fr/12889.mp3",
+          "zh/12889.mp3",
           "niǎo lóng",
-          "[ka]"
+          "[ka:ʒ]"
         ],
         [
           "钩",
           "clou",
-          "",
-          "fr/01820.mp3",
-          "zh/01820.mp3",
+          "m.",
+          "fr/12890.mp3",
+          "zh/12890.mp3",
           "gōu",
           "[klu]"
         ]
       ],
       "s": [
         [
-          "On le sait quil suffit quun rayon de soleil se plante au bon endroit de ce balcon fou- toir pour que le chant s'éléve.",
-          "我们知道只需要一缕阳光，酒向这乱七八糟的阳台的某一处好地方，歌声便会响起。",
+          "On le sait qu'il suffit qu'un rayon de soleil se plante au bon endroit de ce balcon foutoir pour que le chants'élève.",
+          "我们知道只需要一缕阳光，洒向这乱七八糟的阳台的某一处好地方，歌声便会响起。",
           "",
-          "fr/01822.mp3",
-          "zh/01822.mp3",
-          "wǒ men zhī dào zhǐ xū yào yī lǚ yáng guāng jiǔ xiàng zhè luàn qī bā zāo de yáng tái de mǒu yī chù hǎo dì fāng gē shēng biàn huì xiǎng qǐ",
+          "fr/12891.mp3",
+          "zh/12891.mp3",
+          "wǒ men zhī dào zhǐ xū yào yì lǚ yáng guāng ， sǎ xiàng zhè luàn qī bā zāo de yáng tái de mǒu yí chù hǎo dì fāng ， gē shēng biàn huì xiǎng qǐ 。",
           ""
         ],
         [
-          "A vous de faire attention a ne pas depasser la mesure en quoi que ce soit.",
-          "记住凡事不要过度。",
+          "A vous de faire attention à ne pas dépasser la mesure en quoi que ce soit.",
+          "记住，凡事不要过度。",
           "",
-          "fr/01823.mp3",
-          "zh/01823.mp3",
-          "jì zhù fán shì bú yào guò dù",
+          "fr/12892.mp3",
+          "zh/12892.mp3",
+          "jì zhù ， fán shì bú yào guò dù 。",
           ""
         ],
         [
           "Les feuillages immobiles se découpaient nettement sur le fond bleu du ciel.",
-          "在蓝天的背景上清晰地映衬出静止不",
+          "在蓝天的背景上清晰地映衬出静止不动的枝叶。",
           "",
-          "fr/01824.mp3",
-          "zh/01824.mp3",
-          "zài lán tiān de bèi jǐng shàng qīng xī dì yìng chèn chū jìng zhǐ bù",
+          "fr/12893.mp3",
+          "zh/12893.mp3",
+          "zài lán tiān de bèi jǐng shàng qīng xī dì yìng chèn chū jìng zhǐ bú dòng de zhī yè 。",
           ""
         ],
         [
-          "II semble quil y ait une table au milieu des deux fe netres,et que sur la table se trouve une cage.",
+          "Il semble qu'il y ait une table au milieu des deux fenêtres, et que sur la table se trouve une cage.",
           "似乎在两扇窗子中间有一张桌子，桌上搁着一只鸟笼。",
           "",
-          "fr/01825.mp3",
-          "zh/01825.mp3",
-          "sì hū zài liǎng shàn chuāng zi zhōng jiān yǒu yī zhāng zhuō zi zhuō shàng gē zhe yī zhī niǎo lóng",
+          "fr/12894.mp3",
+          "zh/12894.mp3",
+          "shì hū zài liǎng shàn chuāng zi zhōng jiān yǒu yì zhāng zhuō zi ， zhuō shàng gē zhe yì zhǐ niǎo lóng 。",
           ""
         ]
       ],
@@ -4436,1346 +3539,1816 @@ window.BOOK_DATA[2] = {
         [
           "光线",
           "rayon",
-          "nm",
-          "fr/01826.mp3",
-          "zh/01826.mp3",
+          "n.m.",
+          "fr/12895.mp3",
+          "zh/12895.mp3",
           "guāng xiàn",
-          "[rej]"
+          "[rɛjɔ̃]"
         ],
         [
-          "注",
+          "注意，关心",
           "attention",
-          "",
-          "fr/01827.mp3",
-          "zh/01827.mp3",
-          "zhù",
-          "[atäsj5]"
+          "n.f.",
+          "fr/12896.mp3",
+          "zh/12896.mp3",
+          "zhù yì ， guān xīn",
+          "[atɑ̃sjɔ̃]"
         ],
         [
-          "意关心",
-          "",
-          "",
-          "",
-          "zh/01828.mp3",
-          "yì guān xīn",
+          "树的全部叶子",
+          "feuillage",
+          "n.m.",
+          "fr/12897.mp3",
+          "zh/12897.mp3",
+          "shù de quán bù yè zi",
+          "[fœja:ʒ]"
+        ],
+        [
+          "不动的",
+          "immobile",
+          "adj.",
+          "fr/12898.mp3",
+          "zh/12898.mp3",
+          "bú dòng de",
+          "[imɔbil]"
+        ]
+      ]
+    },
+    {
+      "no": 15,
+      "name": "花园",
+      "w": [
+        [
+          "院子",
+          "cour",
+          "f.",
+          "fr/12899.mp3",
+          "zh/12899.mp3",
+          "yuàn zi",
+          "[ku:r]"
+        ],
+        [
+          "后院",
+          "arrière-cour",
+          "f.",
+          "fr/12900.mp3",
+          "zh/12900.mp3",
+          "hòu yuàn",
+          "[arjɛ:r kur]"
+        ],
+        [
+          "花园",
+          "parc",
+          "m.",
+          "fr/12901.mp3",
+          "zh/12901.mp3",
+          "huā yuán",
+          "[park]"
+        ],
+        [
+          "花匠",
+          "fleuriste",
+          "名",
+          "fr/12902.mp3",
+          "zh/12902.mp3",
+          "huā jiàng",
+          "[flœrist]"
+        ],
+        [
+          "花盆",
+          "pot de fleurs",
+          "m.",
+          "fr/12903.mp3",
+          "zh/12903.mp3",
+          "huā pén",
+          "[po d(ə) flœ:r]"
+        ],
+        [
+          "草地",
+          "prairie",
+          "f.",
+          "fr/12904.mp3",
+          "zh/12904.mp3",
+          "cǎo dì",
+          "[prɛri]"
+        ],
+        [
+          "割草",
+          "faucher",
+          "v.t.",
+          "fr/12905.mp3",
+          "zh/12905.mp3",
+          "gē cǎo",
+          "[foʃe]"
+        ],
+        [
+          "草",
+          "herbe",
+          "f.",
+          "fr/12906.mp3",
+          "zh/12906.mp3",
+          "cǎo",
+          "[ɛrb]"
+        ],
+        [
+          "茂盛的",
+          "luxuriant, e",
+          "形",
+          "fr/12907.mp3",
+          "zh/12907.mp3",
+          "mào shèng de",
+          "[lyksyrjɑ̃, t]"
+        ],
+        [
+          "发芽",
+          "germer",
+          "v.i.",
+          "fr/12908.mp3",
+          "zh/12908.mp3",
+          "fā yá",
+          "[ʒɛrme]"
+        ],
+        [
+          "小路",
+          "sentier",
+          "m.",
+          "fr/12909.mp3",
+          "zh/12909.mp3",
+          "xiǎo lù",
+          "[sɑ̃tje]"
+        ],
+        [
+          "小路",
+          "venelle",
+          "f.",
+          "fr/12910.mp3",
+          "zh/12910.mp3",
+          "xiǎo lù",
+          "[vanɛl]"
+        ],
+        [
+          "浇水",
+          "arroser",
+          "v.t.",
+          "fr/12911.mp3",
+          "zh/12911.mp3",
+          "jiāo shuǐ",
+          "[aroze]"
+        ],
+        [
+          "水池",
+          "étang",
+          "m.",
+          "fr/12912.mp3",
+          "zh/12912.mp3",
+          "shuǐ chí",
+          "[etɑ̃]"
+        ],
+        [
+          "池塘",
+          "mare",
+          "f.",
+          "fr/12913.mp3",
+          "zh/12913.mp3",
+          "chí táng",
+          "[ma:r]"
+        ],
+        [
+          "除草",
+          "sarcler",
+          "v.t.",
+          "fr/12914.mp3",
+          "zh/12914.mp3",
+          "chú cǎo",
+          "[sarkle]"
+        ],
+        [
+          "除草剂",
+          "désherbant",
+          "m.",
+          "fr/12915.mp3",
+          "zh/12915.mp3",
+          "chú cǎo jì",
+          "[dezɛrbɑ̃]"
+        ],
+        [
+          "使平坦",
+          "aplanir",
+          "v.t.",
+          "fr/12916.mp3",
+          "zh/12916.mp3",
+          "shǐ píng tǎn",
+          "[aplani:r]"
+        ],
+        [
+          "花瓣",
+          "pétale",
+          "m.",
+          "fr/12917.mp3",
+          "zh/12917.mp3",
+          "huā bàn",
+          "[petal]"
+        ],
+        [
+          "花瓣状的",
+          "pétaïoïde",
+          "形",
+          "fr/12918.mp3",
+          "zh/12918.mp3",
+          "huā bàn zhuàng de",
+          "[petalɔid]"
+        ],
+        [
+          "浇水壶",
+          "arrosoir",
+          "m.",
+          "fr/12919.mp3",
+          "zh/12919.mp3",
+          "jiāo shuǐ hú",
+          "[arozwar]"
+        ],
+        [
+          "松土",
+          "sorfoüissage",
+          "m.",
+          "fr/12920.mp3",
+          "zh/12920.mp3",
+          "sōng tǔ",
+          "[sɛrfwisa:ʒ]"
+        ]
+      ],
+      "s": [
+        [
+          "Hier soir, Il s'est glissé dans mon jardin, a mangé mes azalées pauvres.",
+          "它昨晚偷偷地溜进我的园子，吃我可怜的杜鹃花。",
+          "《飞屋环游记》",
+          "fr/12921.mp3",
+          "zh/12921.mp3",
+          "tā zuó wǎn tōu tōu dì liū jìn wǒ de yuán zi ， chī wǒ kě lián de dù juān huā 。",
           ""
         ],
         [
-          "树的",
-          "feuillagea",
-          "",
-          "fr/01829.mp3",
-          "zh/01829.mp3",
-          "shù de",
-          "[fja3]"
-        ],
-        [
-          "全部叶子",
-          "",
-          "",
-          "",
-          "zh/01830.mp3",
-          "quán bù yè zi",
+          "La société est le plus grand fabricant de désherbeuses de ménage.",
+          "该公司是全国最大的家用除草机居家用品制造商。",
+          "《美女上错身》",
+          "fr/12922.mp3",
+          "zh/12922.mp3",
+          "gāi gōng sī shì quán guó zuì dà de jiā yòng chú cǎo jī jū jiā yòng pǐn zhì zào shāng 。",
           ""
         ],
         [
-          "不",
-          "immobile a",
+          "Nous sommes une usine d'artisanat qui produit la vannerie de paille et d'osier et le tissu grossier.",
+          "我们是一家生产制作草柳编、老粗布的工艺品厂。",
           "",
-          "fr/01831.mp3",
-          "zh/01831.mp3",
-          "bù",
-          "[imobil]"
+          "fr/12923.mp3",
+          "zh/12923.mp3",
+          "wǒ men shì yì jiā shēng chǎn zhì zuò cǎo liǔ biān 、 lǎo cū bù de gōng yì pǐn chǎng 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "滑动",
+          "glisser",
+          "v.",
+          "fr/12924.mp3",
+          "zh/12924.mp3",
+          "huá dòng",
+          "[glise]"
+        ],
+        [
+          "杜鹃花",
+          "azalée",
+          "n.f.",
+          "fr/12925.mp3",
+          "zh/12925.mp3",
+          "dù juān huā",
+          "[azale]"
+        ],
+        [
+          "制造商",
+          "fabricant",
+          "n.m.",
+          "fr/12926.mp3",
+          "zh/12926.mp3",
+          "zhì zào shāng",
+          "[fabrikɑ̃]"
+        ],
+        [
+          "手工业者",
+          "artisanat",
+          "n.m.",
+          "fr/12927.mp3",
+          "zh/12927.mp3",
+          "shǒu gōng yè zhě",
+          "[artizana]"
+        ],
+        [
+          "粗糙的",
+          "grossier, ère",
+          "adj.",
+          "fr/12928.mp3",
+          "zh/12928.mp3",
+          "cū cāo de",
+          "[grosje, ɛ:r]"
         ]
       ]
     },
     {
       "no": 16,
-      "name": "第16节",
+      "name": "车库",
       "w": [
         [
           "车库",
           "garage",
-          "m",
-          "fr/01832.mp3",
-          "zh/01832.mp3",
+          "m.",
+          "fr/12929.mp3",
+          "zh/12929.mp3",
           "chē kù",
-          "[gara3]"
+          "[gara:ʒ]"
         ],
         [
           "车库门",
-          "porte de garage [port de gararzl",
-          "",
-          "fr/01833.mp3",
-          "zh/01833.mp3",
+          "porte de garage",
+          "名",
+          "fr/12930.mp3",
+          "zh/12930.mp3",
           "chē kù mén",
-          ""
+          "[pɔrt də gara:ʒ]"
         ],
         [
           "锁",
           "serrure",
-          "",
-          "fr/01834.mp3",
-          "zh/01834.mp3",
+          "名",
+          "fr/12931.mp3",
+          "zh/12931.mp3",
           "suǒ",
-          "[seeryr]"
+          "[sɛ(ə)ry:r]"
         ],
         [
           "躲藏",
           "cacher",
-          "",
-          "fr/01835.mp3",
-          "zh/01835.mp3",
+          "v.t.",
+          "fr/12932.mp3",
+          "zh/12932.mp3",
           "duǒ cáng",
-          "[kafe]"
+          "[kaʃe]"
         ],
         [
           "破旧的",
           "pauvre",
-          "",
-          "fr/01836.mp3",
-          "zh/01836.mp3",
+          "形",
+          "fr/12933.mp3",
+          "zh/12933.mp3",
           "pò jiù de",
-          "[povr]"
+          "[po:vr]"
         ],
         [
-          "倒车励倒车",
-          "inversem detourner t.",
-          "",
-          "fr/01837.mp3",
-          "zh/01837.mp3",
-          "dào chē lì dào chē",
-          "[vers]"
+          "倒车",
+          "inverse",
+          "m.",
+          "fr/12934.mp3",
+          "zh/12934.mp3",
+          "dào chē",
+          "[ɛ̃v ɛrs]"
+        ],
+        [
+          "倒车",
+          "détourner",
+          "v.t.",
+          "fr/12935.mp3",
+          "zh/12935.mp3",
+          "dào chē",
+          "[deturne]"
         ],
         [
           "落后的",
           "rétrograde",
-          "",
-          "fr/01838.mp3",
-          "zh/01838.mp3",
+          "形",
+          "fr/12936.mp3",
+          "zh/12936.mp3",
           "luò hòu de",
-          "[retro(o)grad]"
+          "[retrɔ(o)grad]"
         ],
         [
           "向后",
-          "öarriere",
-          "",
-          "fr/01839.mp3",
-          "zh/01839.mp3",
+          "arrière",
+          "副",
+          "fr/12937.mp3",
+          "zh/12937.mp3",
           "xiàng hòu",
-          "[arjer]"
+          "[arjɛ:r]"
         ],
         [
           "附带的",
           "secondaire",
-          "",
-          "fr/01840.mp3",
-          "zh/01840.mp3",
+          "形",
+          "fr/12938.mp3",
+          "zh/12938.mp3",
           "fù dài de",
-          "[s(a)g5derr]"
+          "[s(ə)gɔ̃dɛ:r]"
         ],
         [
           "储藏",
-          "conserver t.",
-          "",
-          "fr/01841.mp3",
-          "zh/01841.mp3",
+          "conserver",
+          "v.t.",
+          "fr/12939.mp3",
+          "zh/12939.mp3",
           "chǔ cáng",
-          "[kserve]"
+          "[kɔ̃sɛrve]"
         ],
         [
           "容纳",
           "contenir",
-          "",
-          "fr/01842.mp3",
-          "zh/01842.mp3",
+          "v.t.",
+          "fr/12940.mp3",
+          "zh/12940.mp3",
           "róng nà",
-          "[kštnir]"
+          "[kɔ̃tni:r]"
         ],
         [
           "停车",
-          "arreter",
-          "",
-          "fr/01843.mp3",
-          "zh/01843.mp3",
+          "arrêter",
+          "v.t.",
+          "fr/12941.mp3",
+          "zh/12941.mp3",
           "tíng chē",
-          "[arete]"
+          "[arɛte]"
         ],
         [
           "报废",
-          "déclarer .",
-          "",
-          "fr/01844.mp3",
-          "zh/01844.mp3",
+          "déclarer",
+          "v.t.",
+          "fr/12942.mp3",
+          "zh/12942.mp3",
           "bào fèi",
           "[deklare]"
         ],
         [
           "卡住",
           "bloquer",
-          "",
-          "fr/01845.mp3",
-          "zh/01845.mp3",
+          "v.t.",
+          "fr/12943.mp3",
+          "zh/12943.mp3",
           "kǎ zhù",
-          "[bloke]"
+          "[blɔke]"
         ],
         [
           "地下的",
-          "#Fhypogé",
-          "",
-          "fr/01846.mp3",
-          "zh/01846.mp3",
+          "hypogé",
+          "形",
+          "fr/12944.mp3",
+          "zh/12944.mp3",
           "dì xià de",
-          "[ipo3e]"
+          "[ipɔʒe]"
         ],
         [
           "整理",
           "arranger",
-          "",
-          "fr/01847.mp3",
-          "zh/01847.mp3",
+          "v.t.",
+          "fr/12945.mp3",
+          "zh/12945.mp3",
           "zhěng lǐ",
-          "[aráze]"
+          "[arɑ̃ʒe]"
         ],
         [
           "整齐的",
-          "regulierere",
-          "",
-          "fr/01848.mp3",
-          "zh/01848.mp3",
+          "régulier, ère",
+          "形",
+          "fr/12946.mp3",
+          "zh/12946.mp3",
           "zhěng qí de",
-          "[regylje,er]"
+          "[regylje, ɛr]"
         ]
       ],
       "s": [
         [
-          "Puis-je ajouter quelques bricoles dans votre garage? W?",
-          "我能不能在你的车库里放一些零碎的东西",
+          "Puis-je ajouter quelques bricoles dans votre garage?",
+          "我能不能在你的车库里放一些零碎的东西？",
           "《绝望的主妇》",
-          "fr/01849.mp3",
-          "zh/01849.mp3",
-          "wǒ néng bù néng zài nǐ de chē kù lǐ fàng yī xiē líng suì de dōng xī",
+          "fr/12947.mp3",
+          "zh/12947.mp3",
+          "wǒ néng bù néng zài nǐ de chē kù lǐ fàng yì xiē líng suì de dōng xī ？",
           ""
         ],
         [
-          "Dans son journal, elle parle aussi de sa famille pauvre dans le Shanxi. T.",
-          "在她的日记里也说到了她在陕西的贫穷家庭",
+          "Dans son journal, elle parle aussi de sa famille pauvre dans le Shanxi.",
+          "在她的日记里，也说到了她在陕西的贫穷家庭。",
           "",
-          "fr/01850.mp3",
-          "zh/01850.mp3",
-          "zài tā de rì jì lǐ yě shuō dào le tā zài shǎn xī de pín qióng jiā tíng",
+          "fr/12948.mp3",
+          "zh/12948.mp3",
+          "zài tā de rì jì lǐ ， yě shuō dào le tā zài shǎn xī de pín qióng jiā tíng 。",
           ""
         ],
         [
-          "Dans les milieux intellec tuels et culturels, la France de- vrait donc conserver sa force dattraction. X# Cette voiture peut contenir cinquante voyageurs.",
-          "在知识分子及文化人之中法国应保持其吸引力。这客车可载50名旅客。",
+          "Dans les milieux intellectuels et culturels, la France devrait donc conserver sa force d'attraction.",
+          "在知识分子及文化人之中，法国应保持其吸引力。",
           "",
-          "fr/01851.mp3",
-          "zh/01851.mp3",
-          "zài zhī shí fèn zǐ jí wén huà rén zhī zhōng fǎ guó yīng bǎo chí qí xī yǐn lì zhè kè chē kě zài míng lǚ kè",
+          "fr/12949.mp3",
+          "zh/12949.mp3",
+          "zài zhī shí fēn zi jí wén huà rén zhī zhōng ， fǎ guó yīng bǎo chí qí xī yǐn lì 。",
           ""
         ],
         [
-          "Sachez attendre, soyez pa- tient,tout va s'arranger.",
+          "Cette voiture peut contenir cinquante voyageurs.",
+          "这客车可载50名旅客。",
+          "",
+          "fr/12950.mp3",
+          "zh/12950.mp3",
+          "zhè kè chē kě zài 5 0 míng lǚ kè 。",
+          ""
+        ],
+        [
+          "Sachez attendre, soyez patient, tout va s'arranger.",
           "耐心等待，一切都会解决的。",
           "",
-          "fr/01852.mp3",
-          "zh/01852.mp3",
-          "nài xīn děng dài yī qiè dū huì jiě jué de",
+          "fr/12951.mp3",
+          "zh/12951.mp3",
+          "nài xīn děng dài ， yí qiè dōu huì jiě jué de 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "bricole .",
-          "",
-          "fr/01853.mp3",
-          "",
-          "",
-          "[brikol]"
-        ],
-        [
-          "小东西零碎东西",
-          "",
-          "",
-          "",
-          "zh/01854.mp3",
-          "xiǎo dōng xī líng suì dōng xī",
-          ""
-        ],
-        [
-          "",
-          "intellectuel,le",
-          "",
-          "fr/01855.mp3",
-          "",
-          "",
-          ""
+          "小东西，零碎东西",
+          "bricole",
+          "n.f.",
+          "fr/12952.mp3",
+          "zh/12952.mp3",
+          "xiǎo dōng xī ， líng suì dōng xī",
+          "[brikɔl]"
         ],
         [
           "智力的",
-          "",
+          "intellectuel, le",
           "adj.",
-          "",
-          "zh/01856.mp3",
+          "fr/12953.mp3",
+          "zh/12953.mp3",
           "zhì lì de",
-          "[teellektuel]"
-        ],
-        [
-          "",
-          "attraction",
-          "n.f.",
-          "fr/01857.mp3",
-          "",
-          "",
-          "[atraksjδ]"
+          "[ɛ̃te(ɛl)lɛktɥɛl]"
         ],
         [
           "吸引力",
-          "",
-          "",
-          "",
-          "zh/01858.mp3",
+          "attraction",
+          "n.f.",
+          "fr/12954.mp3",
+          "zh/12954.mp3",
           "xī yǐn lì",
-          ""
-        ],
-        [
-          "",
-          "patient,e",
-          "",
-          "fr/01859.mp3",
-          "",
-          "",
-          "[pasjäät]"
+          "[atraksjɔ̃]"
         ],
         [
           "耐心的",
-          "",
+          "patient, e",
           "adj.",
-          "",
-          "zh/01860.mp3",
+          "fr/12955.mp3",
+          "zh/12955.mp3",
           "nài xīn de",
-          ""
+          "[pasjɑ̃, ɑ̃:t]"
         ]
       ]
     },
     {
       "no": 17,
-      "name": "第17节",
+      "name": "租房子",
       "w": [
         [
-          "租金租赁",
-          "loyer location /",
-          "",
-          "fr/01861.mp3",
-          "zh/01861.mp3",
-          "zū jīn zū lìn",
+          "租金",
+          "loyer",
+          "m.",
+          "fr/12956.mp3",
+          "zh/12956.mp3",
+          "zū jīn",
           "[lwaje]"
+        ],
+        [
+          "租赁",
+          "location",
+          "f.",
+          "fr/12957.mp3",
+          "zh/12957.mp3",
+          "zū lìn",
+          "[lɔka(ɑ)sjɔ̃]"
         ],
         [
           "租约",
           "bail",
-          "m",
-          "fr/01862.mp3",
-          "zh/01862.mp3",
+          "m.",
+          "fr/12958.mp3",
+          "zh/12958.mp3",
           "zū yuē",
           "[baj]"
         ],
         [
           "转租",
-          "sous-location /",
-          "",
-          "fr/01863.mp3",
-          "zh/01863.mp3",
+          "sous-location",
+          "f.",
+          "fr/12959.mp3",
+          "zh/12959.mp3",
           "zhuǎn zū",
-          "[su loka(a)sj5]"
+          "[su lɔka(ɑ)sjɔ̃]"
         ],
         [
           "租赁期",
           "limite de bail",
-          "m",
-          "fr/01864.mp3",
-          "zh/01864.mp3",
+          "m.",
+          "fr/12960.mp3",
+          "zh/12960.mp3",
           "zū lìn qī",
-          "[limit da baj]"
+          "[limit d(ə) baj]"
         ],
         [
           "出租",
-          "ouer",
-          "",
-          "fr/01865.mp3",
-          "zh/01865.mp3",
+          "louer",
+          "v.",
+          "fr/12961.mp3",
+          "zh/12961.mp3",
           "chū zū",
-          "[Iwe]"
+          "[lwe]"
         ],
         [
           "出租的房屋",
-          "chambre a louer/",
-          "",
-          "fr/01866.mp3",
-          "zh/01866.mp3",
+          "chambre à louer",
+          "f.",
+          "fr/12962.mp3",
+          "zh/12962.mp3",
           "chū zū de fáng wū",
-          "[ä:br a lwe]"
+          "[ʃɑ̃:br a lwe]"
         ],
         [
           "出租",
           "affermer",
-          "",
-          "fr/01867.mp3",
-          "zh/01867.mp3",
+          "v.",
+          "fr/12963.mp3",
+          "zh/12963.mp3",
           "chū zū",
-          "[aferme]"
+          "[afɛrme]"
         ],
         [
-          "公寓小公寓众朝向",
-          "apartement pension vers",
-          "prep",
-          "fr/01868.mp3",
-          "zh/01868.mp3",
-          "gōng yù xiǎo gōng yù zhòng cháo xiàng",
-          "[apartamá]"
+          "公寓",
+          "apartement",
+          "m.",
+          "fr/12964.mp3",
+          "zh/12964.mp3",
+          "gōng yù",
+          "[apartamɑ̃]"
+        ],
+        [
+          "小公寓",
+          "pension",
+          "f.",
+          "fr/12965.mp3",
+          "zh/12965.mp3",
+          "xiǎo gōng yù",
+          "[pɑ̃sjɔ̃]"
+        ],
+        [
+          "朝向",
+          "vers",
+          "prép.",
+          "fr/12966.mp3",
+          "zh/12966.mp3",
+          "cháo xiàng",
+          "[vɛ:r]"
         ],
         [
           "代理人",
           "agent",
-          "",
-          "fr/01869.mp3",
-          "zh/01869.mp3",
+          "m.",
+          "fr/12967.mp3",
+          "zh/12967.mp3",
           "dài lǐ rén",
-          "[a3a]"
+          "[aʒɑ̃]"
         ],
         [
           "期限",
           "terme",
-          "",
-          "fr/01870.mp3",
-          "zh/01870.mp3",
+          "m.",
+          "fr/12968.mp3",
+          "zh/12968.mp3",
           "qī xiàn",
-          "[term]"
+          "[tɛrm]"
         ],
         [
           "一段时间",
-          "-moment",
-          "",
-          "fr/01871.mp3",
-          "zh/01871.mp3",
-          "yī duàn shí jiān",
-          "[momá]"
+          "moment",
+          "m.",
+          "fr/12969.mp3",
+          "zh/12969.mp3",
+          "yí duàn shí jiān",
+          "[mɔmɑ̃]"
         ],
         [
           "房东",
-          "proprietaire",
-          "",
-          "fr/01872.mp3",
-          "zh/01872.mp3",
+          "propriétaire",
+          "名",
+          "fr/12970.mp3",
+          "zh/12970.mp3",
           "fáng dōng",
-          "[proprijete:r]"
+          "[prɔprijetɛ:r]"
         ],
         [
           "居住人",
-          "habitant",
-          "",
-          "fr/01873.mp3",
-          "zh/01873.mp3",
+          "habitant, e",
+          "名",
+          "fr/12971.mp3",
+          "zh/12971.mp3",
           "jū zhù rén",
-          "[abita,á:t]"
+          "[abitɑ̃, ɑ̃:t]"
         ]
       ],
       "s": [
         [
-          "Je dois vendre au moins deux par mois,assez pour payer le loyer et les frais ma- ternelle.",
+          "Je dois vendre au moins deux par mois, assez pour payer le loyer et les frais maternelle.",
           "我每个月至少得卖两台，才够付房租和幼儿园费。",
-          "一《当幸福来敲门》",
-          "fr/01874.mp3",
-          "zh/01874.mp3",
-          "wǒ měi gè yuè zhì shǎo dé mài liǎng tái cái gòu fù fáng zū hé yòu ér yuán fèi",
+          "《当幸福来敲门》",
+          "fr/12972.mp3",
+          "zh/12972.mp3",
+          "wǒ měi gè yuè zhì shǎo dé mài liǎng tái ， cái gòu fù fáng zū hé yòu ér yuán fèi 。",
           ""
         ],
         [
-          "Le terme venu,il quittait lamaison.",
-          "租房期限一到他便离开了。",
+          "Le terme venu, il quittait la maison.",
+          "租房期限一到，他便离开了。",
           "",
-          "fr/01875.mp3",
-          "zh/01875.mp3",
-          "zū fáng qī xiàn yī dào tā biàn lí kāi le",
+          "fr/12973.mp3",
+          "zh/12973.mp3",
+          "zū fáng qī xiàn yí dào ， tā biàn lí kāi le 。",
           ""
         ],
         [
-          "La pipe se met a couler j'ai trouvé le propriétaire,il me vous a recommande.k -T #T. Le propriétaire a toujours les clés des autres locataires.",
-          "水管一开始漏水我就找了房东他就跟我推荐了你房东通常有其他房客的钥匙。",
-          "一《绝望的主妇》",
-          "fr/01876.mp3",
-          "zh/01876.mp3",
-          "shuǐ guǎn yī kāi shǐ lòu shuǐ wǒ jiù zhǎo le fáng dōng tā jiù gēn wǒ tuī jiàn le nǐ fáng dōng tōng cháng yǒu qí tā fáng kè de yào shi",
+          "La pipe se met à couler, j'ai trouvé le propriétaire, il me vous a recommandé.",
+          "水管一开始漏水我就找了房东，他就跟我推荐了你。",
+          "《绝望的主妇》",
+          "fr/12974.mp3",
+          "zh/12974.mp3",
+          "shuǐ guǎn yì kāi shǐ lòu shuǐ wǒ jiù zhǎo le fáng dōng ， tā jiù gēn wǒ tuī jiàn le nǐ 。",
+          ""
+        ],
+        [
+          "Le propriétaire a toujours les clés des autres locataires.",
+          "房东通常有其他房客的钥匙。",
+          "",
+          "fr/12975.mp3",
+          "zh/12975.mp3",
+          "fáng dōng tōng cháng yǒu qí tā fáng kè de yào shi 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "幼儿园",
           "maternelle",
-          "",
-          "fr/01877.mp3",
-          "",
-          "",
+          "n.f.",
+          "fr/12976.mp3",
+          "zh/12976.mp3",
+          "yòu ér yuán",
           "[maternel]"
         ],
         [
-          "幼儿园",
-          "",
-          "nf",
-          "",
-          "zh/01878.mp3",
-          "yòu ér yuán",
-          ""
-        ],
-        [
-          "日管子",
-          "pipe .",
-          "",
-          "fr/01879.mp3",
-          "zh/01879.mp3",
-          "rì guǎn zi",
+          "管子",
+          "pipe",
+          "n.f.",
+          "fr/12977.mp3",
+          "zh/12977.mp3",
+          "guǎn zi",
           "[pip]"
         ],
         [
-          "流流动",
-          "couler .",
-          "",
-          "fr/01880.mp3",
-          "zh/01880.mp3",
-          "liú liú dòng",
+          "流，流动",
+          "couler",
+          "v.i.",
+          "fr/12978.mp3",
+          "zh/12978.mp3",
+          "liú ， liú dòng",
           "[kule]"
         ],
         [
-          "",
+          "推荐，介绍",
           "recommander",
-          "",
-          "fr/01881.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "推荐介绍",
-          "",
-          "",
-          "",
-          "zh/01882.mp3",
-          "tuī jiàn jiè shào",
-          "[rakomade]"
+          "v.t.",
+          "fr/12979.mp3",
+          "zh/12979.mp3",
+          "tuī jiàn ， jiè shào",
+          "[r(ə)kɔmɑ̃de]"
         ],
         [
           "房客",
-          "locataire n.",
+          "locataire  n.",
           "",
-          "fr/01883.mp3",
-          "zh/01883.mp3",
+          "fr/12980.mp3",
+          "zh/12980.mp3",
           "fáng kè",
-          "[lokatar]"
-        ],
-        [
-          "公寓",
-          "apartement",
-          "",
-          "fr/01884.mp3",
-          "zh/01884.mp3",
-          "gōng yù",
-          ""
+          "[lɔkatɛ:r]"
         ]
       ]
     },
     {
       "no": 18,
-      "name": "第18节",
+      "name": "搬家",
       "w": [
         [
           "搬家",
-          "déménager i",
-          "",
-          "fr/01885.mp3",
-          "zh/01885.mp3",
+          "déménager",
+          "v.i.",
+          "fr/12981.mp3",
+          "zh/12981.mp3",
           "bān jiā",
-          "[demenaze]"
+          "[demenɑʒe]"
         ],
         [
           "搬家工人",
-          "Idéménageur",
-          "m",
-          "fr/01886.mp3",
-          "zh/01886.mp3",
+          "déménageur",
+          "m.",
+          "fr/12982.mp3",
+          "zh/12982.mp3",
           "bān jiā gōng rén",
-          "[demenazc:r]"
+          "[demenɑʒœ:r]"
         ],
         [
           "距离",
-          "distance /",
-          "",
-          "fr/01887.mp3",
-          "zh/01887.mp3",
+          "distance",
+          "f.",
+          "fr/12983.mp3",
+          "zh/12983.mp3",
           "jù lí",
-          "[distá:s]"
+          "[distɑ̃:s]"
         ],
         [
           "接近",
-          "approcher .",
-          "",
-          "fr/01888.mp3",
-          "zh/01888.mp3",
+          "approcher",
+          "v.i.",
+          "fr/12984.mp3",
+          "zh/12984.mp3",
           "jiē jìn",
-          "[aprofe]"
+          "[aprɔʃe]"
         ],
         [
           "附近的",
-          "proche[pro",
-          "",
-          "fr/01889.mp3",
-          "zh/01889.mp3",
+          "proche",
+          "形",
+          "fr/12985.mp3",
+          "zh/12985.mp3",
           "fù jìn de",
-          ""
+          "[prɔʃ]"
         ],
         [
           "远的",
           "éloigné",
-          "",
-          "fr/01890.mp3",
-          "zh/01890.mp3",
+          "形",
+          "fr/12986.mp3",
+          "zh/12986.mp3",
           "yuǎn de",
-          "[elwane]"
+          "[elwanɛ]"
         ],
         [
           "距离",
           "distanciation",
           "f.",
-          "fr/01891.mp3",
-          "zh/01891.mp3",
+          "fr/12987.mp3",
+          "zh/12987.mp3",
           "jù lí",
-          "[distasjasj5]"
+          "[distɑ̃sjasjɔ̃]"
         ],
         [
           "方便的",
           "commode",
-          "",
-          "fr/01892.mp3",
-          "zh/01892.mp3",
+          "形",
+          "fr/12988.mp3",
+          "zh/12988.mp3",
           "fāng biàn de",
-          "[koaot]"
+          "[kɔmɔd]"
         ],
         [
           "货车",
-          "camio",
-          "nm",
-          "fr/01893.mp3",
-          "zh/01893.mp3",
+          "camion",
+          "m.",
+          "fr/12989.mp3",
+          "zh/12989.mp3",
           "huò chē",
-          "[kamj]"
+          "[kamjɔ̃]"
         ],
         [
           "折叠",
           "plier",
-          "",
-          "fr/01894.mp3",
-          "zh/01894.mp3",
+          "v.i.",
+          "fr/12990.mp3",
+          "zh/12990.mp3",
           "zhé dié",
           "[plije]"
         ],
         [
           "可折叠的",
-          "pliant",
-          "",
-          "fr/01895.mp3",
-          "zh/01895.mp3",
+          "pliant, e",
+          "形",
+          "fr/12991.mp3",
+          "zh/12991.mp3",
           "kě zhé dié de",
-          "[plija,á:t]"
+          "[plijɑ̃, ɑ̃:t]"
         ],
         [
           "打开包装",
-          "deballer .",
-          "",
-          "fr/01896.mp3",
-          "zh/01896.mp3",
+          "déballer",
+          "v.i.",
+          "fr/12992.mp3",
+          "zh/12992.mp3",
           "dǎ kāi bāo zhuāng",
           "[debale]"
         ],
         [
           "运送",
-          "envoyer t.",
-          "",
-          "fr/01897.mp3",
-          "zh/01897.mp3",
+          "envoyer",
+          "v.i.",
+          "fr/12993.mp3",
+          "zh/12993.mp3",
           "yùn sòng",
-          "[ávwaje]"
+          "[ɑ̃vwaje]"
         ],
         [
           "装载",
           "chargement",
           "m.",
-          "fr/01898.mp3",
-          "zh/01898.mp3",
+          "fr/12994.mp3",
+          "zh/12994.mp3",
           "zhuāng zài",
-          "[arzmá]"
+          "[ʃarʒmɑ̃]"
         ],
         [
           "重的",
-          "lourde",
-          "",
-          "fr/01899.mp3",
-          "zh/01899.mp3",
+          "lourd, e",
+          "形",
+          "fr/12995.mp3",
+          "zh/12995.mp3",
           "zhòng de",
-          "[lururd]"
+          "[lur, urd]"
         ],
         [
           "装满",
           "combler",
-          "",
-          "fr/01900.mp3",
-          "zh/01900.mp3",
+          "v.i.",
+          "fr/12996.mp3",
+          "zh/12996.mp3",
           "zhuāng mǎn",
-          "[kšble]"
+          "[kɔ̃ble]"
         ],
         [
           "搬开",
           "écarter",
-          "",
-          "fr/01901.mp3",
-          "zh/01901.mp3",
+          "v.i.",
+          "fr/12997.mp3",
+          "zh/12997.mp3",
           "bān kāi",
           "[ekarte]"
         ],
         [
-          "装御工",
-          "Idébardeur",
+          "装卸工",
+          "débardeur",
           "m.",
-          "fr/01902.mp3",
-          "zh/01902.mp3",
-          "zhuāng yù gōng",
-          "[debardxr]"
+          "fr/12998.mp3",
+          "zh/12998.mp3",
+          "zhuāng xiè gōng",
+          "[debardœr]"
         ]
       ],
       "s": [
         [
-          "Je veux deménager a Chicago pour démarrer ma propre entreprise.",
+          "Je veux déménager à Chicago pour démarrer ma propre entreprise.",
           "我要搬去芝加哥，自己开公司。",
           "《别对我说谎》",
-          "fr/01903.mp3",
-          "zh/01903.mp3",
-          "wǒ yào bān qù zhī jiā gē zì jǐ kāi gōng sī",
+          "fr/12999.mp3",
+          "zh/12999.mp3",
+          "wǒ yào bān qù zhī jiā gē ， zì jǐ kāi gōng sī 。",
           ""
         ],
         [
-          "Vous étes un menteur et un criminel,je ne vous lais- sera pas approcher de mes en- fants.",
-          "你是个骗子还是个罪犯，我不会让你接近我的孩子。",
-          "一《迷失》",
-          "fr/01904.mp3",
-          "zh/01904.mp3",
-          "nǐ shì gè piàn zi hái shì gè zuì fàn wǒ bú huì ràng nǐ jiē jìn wǒ de hái zi",
+          "Vous êtes un menteur et un criminel, je ne vous laissera pas approcher de mes enfants.",
+          "你是个骗子，还是个罪犯，我不会让你接近我的孩子。",
+          "《迷失》",
+          "fr/13000.mp3",
+          "zh/13000.mp3",
+          "nǐ shì gè piàn zi ， hái shì gè zuì fàn ， wǒ bú huì ràng nǐ jiē jìn wǒ de hái zi 。",
           ""
         ],
         [
-          "Je n'ai pas pris une tasse de thé sans maudire la gloire et l'ambition qui me tiennent eloigné de l'ame de ma vie.",
+          "Je n'ai pas pris une tasse de thé sans maudire la gloire et l'ambition qui me tiennent éloigné de l'âme dema vie.",
           "每次端起茶杯，都会诅咒我的那些光荣与雄心，因为它们使我远离了你，我生命的灵魂。",
           "",
-          "fr/01905.mp3",
-          "zh/01905.mp3",
-          "měi cì duān qǐ chá bēi dū huì zǔ zhòu wǒ de nà xiē guāng róng yǔ xióng xīn yīn wèi tā men shǐ wǒ yuǎn lí le nǐ wǒ shēng mìng de líng hún",
+          "fr/13001.mp3",
+          "zh/13001.mp3",
+          "měi cì duān qǐ chá bēi ， dōu huì zǔ zhòu wǒ de nà xiē guāng róng yǔ xióng xīn ， yīn wèi tā men shǐ wǒ yuǎn lí le nǐ ， wǒ shēng mìng de líng hún 。",
           ""
         ],
         [
-          "Je veux emballer ces ch oses et les envoyer.",
+          "Je veux emballer ces choses et les envoyer.",
           "我要把这些东西打包然后寄出去。",
           "",
-          "fr/01906.mp3",
-          "zh/01906.mp3",
-          "wǒ yào bǎ zhè xiē dōng xī dǎ bāo rán hòu jì chū qù",
+          "fr/13002.mp3",
+          "zh/13002.mp3",
+          "wǒ yào bǎ zhè xiē dōng xī dǎ bāo rán hòu jì chū qù 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "démarrer w.",
-          "",
-          "fr/01907.mp3",
-          "",
-          "",
+          "开始",
+          "démarrer",
+          "v.t.",
+          "fr/13003.mp3",
+          "zh/13003.mp3",
+          "kāi shǐ",
           "[demare]"
         ],
         [
-          "开始",
-          "",
-          "",
-          "",
-          "zh/01908.mp3",
-          "kāi shǐ",
-          ""
-        ],
-        [
-          "",
+          "说谎的人",
           "menteur",
           "n.m.",
-          "fr/01909.mp3",
-          "",
-          "",
-          "[mätcr]"
-        ],
-        [
-          "说的人",
-          "",
-          "",
-          "",
-          "zh/01910.mp3",
-          "shuō de rén",
-          ""
+          "fr/13004.mp3",
+          "zh/13004.mp3",
+          "shuō huǎng de rén",
+          "[mɑ̃tœ:r]"
         ],
         [
           "罪犯",
-          "criminel.",
+          "criminel  n.",
           "",
-          "fr/01911.mp3",
-          "zh/01911.mp3",
+          "fr/13005.mp3",
+          "zh/13005.mp3",
           "zuì fàn",
           "[kriminel]"
         ],
         [
           "抱怨",
-          "maudire v",
-          "",
-          "fr/01912.mp3",
-          "zh/01912.mp3",
+          "maudire",
+          "v.t.",
+          "fr/13006.mp3",
+          "zh/13006.mp3",
           "bào yuàn",
-          "[modir]"
+          "[modi:r]"
         ],
         [
           "光荣",
           "gloire",
-          "",
-          "fr/01913.mp3",
-          "zh/01913.mp3",
+          "n.f.",
+          "fr/13007.mp3",
+          "zh/13007.mp3",
           "guāng róng",
-          "[glwar]"
+          "[glwa:r]"
         ],
         [
           "包装",
           "emballer",
-          "vt.",
-          "fr/01914.mp3",
-          "zh/01914.mp3",
+          "v.t.",
+          "fr/13008.mp3",
+          "zh/13008.mp3",
           "bāo zhuāng",
-          "[äbale]"
+          "[ɑ̃bale]"
         ]
       ]
     },
     {
       "no": 19,
-      "name": "第19节",
+      "name": "装潢",
       "w": [
         [
           "装修",
           "décorer",
-          "",
-          "fr/01915.mp3",
-          "zh/01915.mp3",
+          "v.t.",
+          "fr/13009.mp3",
+          "zh/13009.mp3",
           "zhuāng xiū",
-          "[dekore]"
+          "[dekɔre]"
         ],
         [
           "重建",
-          "restitution /.",
-          "",
-          "fr/01916.mp3",
-          "zh/01916.mp3",
-          "chóng jiàn",
-          "[restitysj5]"
+          "restitution",
+          "f.",
+          "fr/13010.mp3",
+          "zh/13010.mp3",
+          "zhòng jiàn",
+          "[restitysjɔ̃]"
         ],
         [
           "建筑工",
-          "Iouvrier du batiment",
+          "ouvrier du bâtiment",
           "f.",
-          "fr/01917.mp3",
-          "zh/01917.mp3",
+          "fr/13011.mp3",
+          "zh/13011.mp3",
           "jiàn zhù gōng",
-          "[uvrijer dy batimá]"
+          "[uvrije dy batimɑ̃]"
         ],
         [
           "藤",
           "canne",
-          "",
-          "fr/01918.mp3",
-          "zh/01918.mp3",
+          "f.",
+          "fr/13012.mp3",
+          "zh/13012.mp3",
           "téng",
           "[kan]"
         ],
         [
           "软木",
-          "liege",
-          "m",
-          "fr/01919.mp3",
-          "zh/01919.mp3",
+          "liège",
+          "m.",
+          "fr/13013.mp3",
+          "zh/13013.mp3",
           "ruǎn mù",
-          "[lje3]"
+          "[ljɛ:ʒ]"
         ],
         [
           "黑檀木",
-          "ébane",
-          "",
-          "fr/01920.mp3",
-          "zh/01920.mp3",
+          "ébène",
+          "f.",
+          "fr/13014.mp3",
+          "zh/13014.mp3",
           "hēi tán mù",
-          "[eben]"
+          "[ebɛn]"
         ],
         [
           "瓷砖",
-          "brique de faience",
-          "",
-          "fr/01921.mp3",
-          "zh/01921.mp3",
+          "brique de faïence",
+          "f.",
+          "fr/13015.mp3",
+          "zh/13015.mp3",
           "cí zhuān",
-          "[brikd(afajá:s]"
+          "[brik d(ə) fajɑ̃:s]"
         ],
         [
           "木头",
           "bois",
-          "m",
-          "fr/01922.mp3",
-          "zh/01922.mp3",
-          "mù tou",
-          "[bwaa]"
+          "m.",
+          "fr/13016.mp3",
+          "zh/13016.mp3",
+          "mù tóu",
+          "[bwa(ɑ)]"
         ],
         [
           "刷漆",
           "peinture",
-          "",
-          "fr/01923.mp3",
-          "zh/01923.mp3",
+          "f.",
+          "fr/13017.mp3",
+          "zh/13017.mp3",
           "shuā qī",
-          "[pty:r]"
+          "[pɛ̃ty:r]"
         ],
         [
           "漆刷",
           "vernir",
-          "",
-          "fr/01924.mp3",
-          "zh/01924.mp3",
+          "v.t.",
+          "fr/13018.mp3",
+          "zh/13018.mp3",
           "qī shuā",
-          "[vernir]"
+          "[verni:r]"
         ],
         [
           "壁纸",
-          "papier pour le mur :",
-          "",
-          "fr/01925.mp3",
-          "zh/01925.mp3",
+          "papier pour le mur",
+          "f.",
+          "fr/13019.mp3",
+          "zh/13019.mp3",
           "bì zhǐ",
-          "[papje puxr le my:r]"
+          "[papje pu:r le my:r]"
         ],
         [
           "使焕然一新",
-          "depous sierer",
-          "",
-          "fr/01926.mp3",
-          "zh/01926.mp3",
+          "dépoussiérer",
+          "v.t.",
+          "fr/13020.mp3",
+          "zh/13020.mp3",
           "shǐ huàn rán yì xīn",
-          "[depusjere]"
+          "[depusjɛre]"
         ],
         [
           "粘着",
           "coller",
-          "",
-          "fr/01927.mp3",
-          "zh/01927.mp3",
+          "v.t.",
+          "fr/13021.mp3",
+          "zh/13021.mp3",
           "zhān zhe",
-          "[kole]"
+          "[kɔle]"
         ],
         [
           "暗淡的",
           "obscur",
-          "",
-          "fr/01928.mp3",
-          "zh/01928.mp3",
+          "形",
+          "fr/13022.mp3",
+          "zh/13022.mp3",
           "àn dàn de",
-          "[npsky:r]"
+          "[ɔpsky:r]"
         ],
         [
           "泥瓦工程",
-          "Imaconnerie",
-          "",
-          "fr/01929.mp3",
-          "zh/01929.mp3",
+          "maçonnerie",
+          "f.",
+          "fr/13023.mp3",
+          "zh/13023.mp3",
           "ní wǎ gōng chéng",
-          "[masonri]"
+          "[masɔnri]"
         ],
         [
           "油漆桶",
           "camion",
-          "",
-          "fr/01930.mp3",
-          "zh/01930.mp3",
+          "m.",
+          "fr/13024.mp3",
+          "zh/13024.mp3",
           "yóu qī tǒng",
-          ""
-        ],
-        [
-          "洞孔",
-          "trou n.m.7l",
-          "m",
-          "fr/01931.mp3",
-          "zh/01931.mp3",
-          "dòng kǒng",
-          "[tru]"
+          "[kamjɔ̃]"
         ],
         [
           "油漆刷",
           "brosse",
-          "m",
-          "fr/01932.mp3",
-          "zh/01932.mp3",
+          "m.",
+          "fr/13025.mp3",
+          "zh/13025.mp3",
           "yóu qī shuā",
-          "[bros]"
+          "[brɔs]"
         ]
       ],
       "s": [
         [
-          "Je ne voulais pas écouter, mais je dispose juste d'une tres belle chambre decoree.",
+          "Je ne voulais pas écouter, mais je dispose juste d'une très belle chambre décorée.",
           "我不是故意偷听的，但是我正好有一套装修甚美的客房。",
-          "一《绝望的主妇》",
-          "fr/01933.mp3",
-          "zh/01933.mp3",
-          "wǒ bú shì gù yì tōu tīng de dàn shì wǒ zhèng hǎo yǒu yī tào zhuāng xiū shèn měi de kè fáng",
+          "《绝望的主妇》",
+          "fr/13026.mp3",
+          "zh/13026.mp3",
+          "wǒ bú shì gù yì tōu tīng de ， dàn shì wǒ zhèng hǎo yǒu yí tào zhuāng xiū shèn měi de kè fáng 。",
           ""
         ],
         [
-          "Sur le pommeau de la canne de BalzacJe brise tous les obstacles.Sur le mien: Tous les obstacles me brisent. Vous sortez un trou dans mon plancher de bois. T.",
-          "巴尔扎克的手杖柄上写着：我将摧毁一切障碍；而我的手杖柄上写着：一切障碍将摧毁我。你在我的木地板上撬了个洞",
-          "一《老友记》",
-          "fr/01934.mp3",
-          "zh/01934.mp3",
-          "bā ěr zhā kè de shǒu zhàng bǐng shàng xiě zhe wǒ jiāng cuī huǐ yī qiè zhàng ài ér wǒ de shǒu zhàng bǐng shàng xiě zhe yī qiè zhàng ài jiāng cuī huǐ wǒ nǐ zài wǒ de mù dì bǎn shàng qiào le gè dòng",
-          ""
-        ],
-        [
-          "Cette chaise est trop collée contre le mur. #T",
-          "这把椅子放得太靠墙了",
+          "Sur le pommeau de la canne de Balzac: Je brise tous les obstacles. Sur le mien: Tous les obstacles mebrisent.",
+          "巴尔扎克的手杖柄上写着：我将摧毁一切障碍；而我的手杖柄上写着：一切障碍将摧毁我。",
           "",
-          "fr/01935.mp3",
-          "zh/01935.mp3",
-          "zhè bǎ yǐ zi fàng dé tài kào qiáng le",
+          "fr/13027.mp3",
+          "zh/13027.mp3",
+          "bā ěr zhā kè de shǒu zhàng bǐng shàng xiě zhe ： wǒ jiāng cuī huǐ yí qiè zhàng ài ； ér wǒ de shǒu zhàng bǐng shàng xiě zhe ： yí qiè zhàng ài jiāng cuī huǐ wǒ 。",
+          ""
+        ],
+        [
+          "Vous sortez un trou dans mon plancher de bois.",
+          "你在我的木地板上撬了个洞。",
+          "《老友记》",
+          "fr/13028.mp3",
+          "zh/13028.mp3",
+          "nǐ zài wǒ de mù dì bǎn shàng qiào le gè dòng 。",
+          ""
+        ],
+        [
+          "Cette chaise est trop collée contre le mur.",
+          "这把椅子放得太靠墙了。",
+          "",
+          "fr/13029.mp3",
+          "zh/13029.mp3",
+          "zhè bǎ yǐ zi fàng dé tài kào qiáng le 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "pommeau",
-          "n.m",
-          "fr/01936.mp3",
-          "",
-          "",
-          "[pomo]"
-        ],
-        [
           "手杖柄",
-          "",
-          "",
-          "",
-          "zh/01937.mp3",
-          "shǒu zhàng bǐng",
-          ""
-        ],
-        [
-          "",
-          "obstacle",
-          "m",
-          "fr/01938.mp3",
-          "",
-          "",
-          "[bpstakl]"
-        ],
-        [
-          "障碍障碍物",
-          "",
-          "",
-          "",
-          "zh/01939.mp3",
-          "zhàng ài zhàng ài wù",
-          ""
-        ],
-        [
-          "",
-          "plancher",
+          "pommeau",
           "n.m.",
-          "fr/01940.mp3",
-          "",
-          "",
-          "[plae]"
+          "fr/13030.mp3",
+          "zh/13030.mp3",
+          "shǒu zhàng bǐng",
+          "[pɔmo]"
+        ],
+        [
+          "障碍，障碍物",
+          "obstacle",
+          "n.m.",
+          "fr/13031.mp3",
+          "zh/13031.mp3",
+          "zhàng ài ， zhàng ài wù",
+          "[ɔpstakl]"
+        ],
+        [
+          "洞，孔",
+          "trou",
+          "n.m.",
+          "fr/13032.mp3",
+          "zh/13032.mp3",
+          "dòng ， kǒng",
+          "[tru]"
         ],
         [
           "地板",
-          "",
-          "",
-          "",
-          "zh/01941.mp3",
+          "plancher",
+          "n.m.",
+          "fr/13033.mp3",
+          "zh/13033.mp3",
           "dì bǎn",
+          "[plɑ̃ʃe]"
+        ],
+        [
+          "对，向",
+          "contre",
+          "prép.",
+          "fr/13034.mp3",
+          "zh/13034.mp3",
+          "duì ， xiàng",
+          "[kɔ̃(:)tr]"
+        ]
+      ]
+    },
+    {
+      "no": 20,
+      "name": "买房子",
+      "w": [
+        [
+          "购买",
+          "acheter",
+          "v.t.",
+          "fr/13035.mp3",
+          "zh/13035.mp3",
+          "gòu mǎi",
+          "[aʃte]"
+        ],
+        [
+          "讨价还价",
+          "discuter le prix",
+          "v.t.",
+          "fr/13036.mp3",
+          "zh/13036.mp3",
+          "tǎo jià hái jià",
+          "[diskyte l(ə) pri]"
+        ],
+        [
+          "物主",
+          "propriétaire",
+          "名",
+          "fr/13037.mp3",
+          "zh/13037.mp3",
+          "wù zhǔ",
+          "[prɔprijete:r]"
+        ],
+        [
+          "合同",
+          "contrat",
+          "m.",
+          "fr/13038.mp3",
+          "zh/13038.mp3",
+          "hé tóng",
+          "[kɔ̃tra]"
+        ],
+        [
+          "暴跌",
+          "baisser",
+          "v.t.",
+          "fr/13039.mp3",
+          "zh/13039.mp3",
+          "bào diē",
+          "[be(ɛ)se]"
+        ],
+        [
+          "地产",
+          "foncier, ère",
+          "adj.",
+          "fr/13040.mp3",
+          "zh/13040.mp3",
+          "dì chǎn",
+          "[fɔ̃sje, ɛ:r]"
+        ],
+        [
+          "付定金",
+          "arrhement",
+          "m.",
+          "fr/13041.mp3",
+          "zh/13041.mp3",
+          "fù dìng jīn",
+          "[arɑ̃]"
+        ],
+        [
+          "定金",
+          "dépôt",
+          "m.",
+          "fr/13042.mp3",
+          "zh/13042.mp3",
+          "dìng jīn",
+          "[depo]"
+        ],
+        [
+          "预付",
+          "prépayer",
+          "v.t.",
+          "fr/13043.mp3",
+          "zh/13043.mp3",
+          "yù fù",
+          "[prepeʒe]"
+        ],
+        [
+          "付款",
+          "payer",
+          "v.t.",
+          "fr/13044.mp3",
+          "zh/13044.mp3",
+          "fù kuǎn",
+          "[pe(ɛ)ʒe]"
+        ],
+        [
+          "部分付款",
+          "acompte",
+          "m.",
+          "fr/13045.mp3",
+          "zh/13045.mp3",
+          "bù fēn fù kuǎn",
+          "[akɔ̃:t]"
+        ],
+        [
+          "分期付款",
+          "versement",
+          "m.",
+          "fr/13046.mp3",
+          "zh/13046.mp3",
+          "fēn qī fù kuǎn",
+          "[versɑ̃]"
+        ],
+        [
+          "上涨",
+          "élever",
+          "v.t.",
+          "fr/13047.mp3",
+          "zh/13047.mp3",
+          "shàng zhǎng",
+          "[el(ela)ve]"
+        ],
+        [
+          "负担",
+          "charge",
+          "f.",
+          "fr/13048.mp3",
+          "zh/13048.mp3",
+          "fù dān",
+          "[ʃarʒ]"
+        ],
+        [
+          "下跌",
+          "fléchissement",
+          "m.",
+          "fr/13049.mp3",
+          "zh/13049.mp3",
+          "xià diē",
+          "[fleʃĩsm]"
+        ],
+        [
+          "签订",
+          "signer",
+          "v.t.",
+          "fr/13050.mp3",
+          "zh/13050.mp3",
+          "qiān dìng",
+          "[siɲe]"
+        ],
+        [
+          "房东",
+          "propriétaire d'une maison",
+          "名",
+          "fr/13051.mp3",
+          "zh/13051.mp3",
+          "fáng dōng",
+          "[prɔprijete:r dyn mezɔ̃]"
+        ],
+        [
+          "中介人",
+          "commissionnaire",
+          "名",
+          "fr/13052.mp3",
+          "zh/13052.mp3",
+          "zhōng jiè rén",
+          "[kɔmisjɔnɛr]"
+        ],
+        [
+          "预售处",
+          "bureau de location",
+          "m.",
+          "fr/13053.mp3",
+          "zh/13053.mp3",
+          "yù shòu chù",
+          "[byro də lɔkasjɔ̃]"
+        ]
+      ],
+      "s": [
+        [
+          "Ces dispositions sont applicables qui constituent la forme ou le support du contrat.",
+          "这些条文是可用的，这些条文是合同的组成和载体。",
+          "",
+          "fr/13054.mp3",
+          "zh/13054.mp3",
+          "zhè xiē tiáo wén shì kě yòng de ， zhè xiē tiáo wén shì hé tóng de zǔ chéng hé zài tǐ 。",
           ""
         ],
         [
-          "对向",
-          "contre",
-          "prép",
-          "fr/01942.mp3",
-          "zh/01942.mp3",
-          "duì xiàng",
-          "[k3tr]"
+          "Vous me demandez de chanter au mariage, j'ai besoin d'un peu de dépôt.",
+          "你们说要我在婚礼上唱歌，我需要一点定金。",
+          "《老友记》",
+          "fr/13055.mp3",
+          "zh/13055.mp3",
+          "nǐ men shuō yào wǒ zài hūn lǐ shàng chàng gē ， wǒ xū yào yì diǎn dìng jīn 。",
+          ""
+        ],
+        [
+          "S'il y a des problèmes de qualité, nous ne faisons pas payer un sou.",
+          "如果质量上有什么问题，我们不收一分钱。",
+          "",
+          "fr/13056.mp3",
+          "zh/13056.mp3",
+          "rú guǒ zhì liàng shàng yǒu shén me wèn tí ， wǒ men bù shōu yì fēn qián 。",
+          ""
+        ],
+        [
+          "Demain, la température sera encore plus élevée qu'aujourd'hui.",
+          "明天气温比今天还要高。",
+          "",
+          "fr/13057.mp3",
+          "zh/13057.mp3",
+          "míng tiān qì wēn bǐ jīn tiān hái yào gāo 。",
+          ""
+        ],
+        [
+          "Combien dois-je payer les droits d'inscription?",
+          "我该交多少注册费？",
+          "",
+          "fr/13058.mp3",
+          "zh/13058.mp3",
+          "wǒ gāi jiāo duō shǎo zhù cè fèi ？",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "安排，布置",
+          "disposition",
+          "n.f.",
+          "fr/13059.mp3",
+          "zh/13059.mp3",
+          "ān pái ， bù zhì",
+          "[dispozisjɔ̃]"
+        ],
+        [
+          "适合的",
+          "applicable",
+          "adj.",
+          "fr/13060.mp3",
+          "zh/13060.mp3",
+          "shì hé de",
+          "[aplikabl]"
+        ],
+        [
+          "婚礼",
+          "mariage",
+          "n.m.",
+          "fr/13061.mp3",
+          "zh/13061.mp3",
+          "hūn lǐ",
+          "[marja:ʒ]"
+        ],
+        [
+          "质量",
+          "qualité",
+          "n.f.",
+          "fr/13062.mp3",
+          "zh/13062.mp3",
+          "zhì liàng",
+          "[kalite]"
+        ],
+        [
+          "温度",
+          "température",
+          "n.f.",
+          "fr/13063.mp3",
+          "zh/13063.mp3",
+          "wēn dù",
+          "[tɑ̃peraty:r]"
         ]
       ]
     },
     {
       "no": 21,
-      "name": "第21节",
+      "name": "宾馆",
       "w": [
         [
           "旅馆",
-          "hotel",
-          "m",
-          "fr/01943.mp3",
-          "zh/01943.mp3",
+          "hôtel",
+          "m.",
+          "fr/13064.mp3",
+          "zh/13064.mp3",
           "lǚ guǎn",
-          "[o5tel]"
+          "[o(ɔ)tel]"
         ],
         [
           "小旅馆",
-          "auberge /.",
-          "",
-          "fr/01944.mp3",
-          "zh/01944.mp3",
+          "auberge",
+          "f.",
+          "fr/13065.mp3",
+          "zh/13065.mp3",
           "xiǎo lǚ guǎn",
-          "[ober3]"
+          "[obɛrʒ]"
         ],
         [
           "预订或保留",
-          "reserver t.",
-          "",
-          "fr/01945.mp3",
-          "zh/01945.mp3",
+          "réserver",
+          "v.",
+          "fr/13066.mp3",
+          "zh/13066.mp3",
           "yù dìng huò bǎo liú",
-          "[rezerve]"
+          "[rezɛrve]"
         ],
         [
           "保留的位子",
-          "rechange á:3]",
+          "rechange",
           "m.",
-          "fr/01946.mp3",
-          "zh/01946.mp3",
+          "fr/13067.mp3",
+          "zh/13067.mp3",
           "bǎo liú de wèi zi",
-          "[ra]"
+          "[r(ə)ʃɑ̃:ʒ]"
         ],
         [
           "为某事安排时间",
           "arranger",
-          "",
-          "fr/01947.mp3",
-          "zh/01947.mp3",
+          "v.",
+          "fr/13068.mp3",
+          "zh/13068.mp3",
           "wèi mǒu shì ān pái shí jiān",
-          "[aráze]"
+          "[arɑ̃ʒe]"
         ],
         [
           "取消",
-          "supprimer t.",
-          "",
-          "fr/01948.mp3",
-          "zh/01948.mp3",
+          "supprimer",
+          "v.",
+          "fr/13069.mp3",
+          "zh/13069.mp3",
           "qǔ xiāo",
           "[syprime]"
         ],
         [
           "表格",
           "tableau",
-          "m",
-          "fr/01949.mp3",
-          "zh/01949.mp3",
+          "m.",
+          "fr/13070.mp3",
+          "zh/13070.mp3",
           "biǎo gé",
           "[tablo]"
         ],
         [
           "填写",
           "remplir",
-          "",
-          "fr/01950.mp3",
-          "zh/01950.mp3",
+          "v.",
+          "fr/13071.mp3",
+          "zh/13071.mp3",
           "tián xiě",
-          "[räplir]"
+          "[rɑ̃pli:r]"
         ],
         [
           "接待",
-          "accueillir .",
-          "",
-          "fr/01951.mp3",
-          "zh/01951.mp3",
+          "accueillir",
+          "v.",
+          "fr/13072.mp3",
+          "zh/13072.mp3",
           "jiē dài",
-          "[akxjir]"
+          "[akœji:r]"
         ],
         [
           "小费",
           "pourboire",
           "m.",
-          "fr/01952.mp3",
-          "zh/01952.mp3",
+          "fr/13073.mp3",
+          "zh/13073.mp3",
           "xiǎo fèi",
           "[purbwa:r]"
         ],
         [
           "舒适惬意的",
           "agréable",
-          "",
-          "fr/01953.mp3",
-          "zh/01953.mp3",
+          "形",
+          "fr/13074.mp3",
+          "zh/13074.mp3",
           "shū shì qiè yì de",
           "[agreabl]"
         ],
         [
           "节俭的",
           "économe",
-          "",
-          "fr/01954.mp3",
-          "zh/01954.mp3",
+          "形",
+          "fr/13075.mp3",
+          "zh/13075.mp3",
           "jié jiǎn de",
-          "[ekonom]"
+          "[ekɔnɔm]"
         ],
         [
           "奢华",
-          "luxueuxeuse",
-          "",
-          "fr/01955.mp3",
-          "zh/01955.mp3",
+          "luxueux, euse",
+          "形",
+          "fr/13076.mp3",
+          "zh/13076.mp3",
           "shē huá",
-          "[lyksy,:z]"
+          "[lyksɥø, ø:z]"
         ],
         [
           "预定座位",
           "place retenue",
           "f.",
-          "fr/01956.mp3",
-          "zh/01956.mp3",
+          "fr/13077.mp3",
+          "zh/13077.mp3",
           "yù dìng zuò wèi",
-          "[plas ratny]"
+          "[plas rətny]"
         ],
         [
           "房客",
           "locataire",
-          "",
-          "fr/01957.mp3",
-          "zh/01957.mp3",
+          "名",
+          "fr/13078.mp3",
+          "zh/13078.mp3",
           "fáng kè",
-          "[lskater]"
+          "[lɔkatɛr]"
         ]
       ],
       "s": [
         [
-          "Je cherche le numéro de téléphone de l'hotel Sunset.",
+          "Je cherche le numéro de téléphone de l'hôtel Sunset.",
           "我要找日落旅馆的电话。",
           "《越狱》",
-          "fr/01958.mp3",
-          "zh/01958.mp3",
-          "wǒ yào zhǎo rì luò lǚ guǎn de diàn huà",
+          "fr/13079.mp3",
+          "zh/13079.mp3",
+          "wǒ yào zhǎo rì luò lǚ guǎn de diàn huà 。",
           ""
         ],
         [
-          "Je leur ai demandé de ré- server le siege de deux en- fants.",
-          "我让他们给两个孩子留",
-          "了座位。《绝望的主妇》",
-          "fr/01959.mp3",
-          "zh/01959.mp3",
-          "wǒ ràng tā men gěi liǎng gè hái zi liú",
+          "Je leur ai demandé de réserver le siège de deux enfants.",
+          "我让他们给两个孩子留了座位。",
+          "《绝望的主妇》",
+          "fr/13080.mp3",
+          "zh/13080.mp3",
+          "wǒ ràng tā men gěi liǎng gè hái zi liú le zuò wèi 。",
           ""
         ],
         [
-          "Dans une heurel'avion arrivra a l'aéroport Charles de Gaulle.Priere de remplir la carte d'entrée et la déclaration dedouane.-",
+          "Dans une heure, l'avion arrivera à l'aéroport Charles de Gaulle. Prière de remplir la carte d'entrée et ladéclaration de douane.",
           "再有一个小时飞机就降落了，请填写入境卡和海关申报单。",
           "",
-          "fr/01960.mp3",
-          "zh/01960.mp3",
-          "zài yǒu yí gè xiǎo shí fēi jī jiù jiàng luò le qǐng tián xiě rù jìng kǎ hé hǎi guān shēn bào dān",
+          "fr/13081.mp3",
+          "zh/13081.mp3",
+          "zài yǒu yí gè xiǎo shí fēi jī jiù jiàng luò le ， qǐng tián xiě rù jìng kǎ hé hǎi guān shēn bào dān 。",
           ""
         ],
         [
-          "Dans ce caf, nous devons donner au serveur un pour- boire XA.",
-          "在这个咖啡厅我们需要给服务员小费",
+          "Dans ce café, nous devons donner au serveur un pourboire.",
+          "在这个咖啡厅，我们需要给服务员小费。",
           "",
-          "fr/01961.mp3",
-          "zh/01961.mp3",
-          "zài zhè ge kā fēi tīng wǒ men xū yào gěi fú wù yuán xiǎo fèi",
+          "fr/13082.mp3",
+          "zh/13082.mp3",
+          "zài zhè gè kā fēi tīng ， wǒ men xū yào gěi fú wù yuán xiǎo fèi 。",
           ""
         ],
         [
-          "Il est économe, sans exa geration.",
-          "他很节约但不过分",
+          "Il est économe, sans exagération.",
+          "他很节约，但不过分。",
           "",
-          "fr/01962.mp3",
-          "zh/01962.mp3",
-          "tā hěn jié yuē dàn bù guò fēn",
+          "fr/13083.mp3",
+          "zh/13083.mp3",
+          "tā hěn jié yuē ， dàn bú guò fēn 。",
           ""
         ]
       ],
       "e": [
         [
-          "口座位",
-          "siege",
+          "座位",
+          "siège",
           "n.m.",
-          "fr/01963.mp3",
-          "zh/01963.mp3",
-          "kǒu zuò wèi",
-          "[sje3]"
-        ],
-        [
-          "",
-          "aéroport",
-          "n.m",
-          "fr/01964.mp3",
-          "",
-          "",
-          "[aeropo:r]"
+          "fr/13084.mp3",
+          "zh/13084.mp3",
+          "zuò wèi",
+          "[sjɛ:ʒ]"
         ],
         [
           "飞机场",
-          "",
-          "",
-          "",
-          "zh/01965.mp3",
+          "aéroport",
+          "n.m.",
+          "fr/13085.mp3",
+          "zh/13085.mp3",
           "fēi jī chǎng",
-          ""
+          "[aerɔpɔ:r]"
         ],
         [
           "请求",
-          "priere",
+          "prière",
           "n.f.",
-          "fr/01966.mp3",
-          "zh/01966.mp3",
+          "fr/13086.mp3",
+          "zh/13086.mp3",
           "qǐng qiú",
-          "[prijer]"
-        ],
-        [
-          "",
-          "déclaration",
-          "",
-          "fr/01967.mp3",
-          "",
-          "",
-          ""
+          "[prijɛ:r]"
         ],
         [
           "宣称",
-          "",
-          "",
-          "",
-          "zh/01968.mp3",
+          "déclaration",
+          "n.f.",
+          "fr/13087.mp3",
+          "zh/13087.mp3",
           "xuān chēng",
-          "[deklaraasj5]"
+          "[deklara(ə)sjɔ̃]"
         ],
         [
           "海关",
           "douane",
-          "",
-          "fr/01969.mp3",
-          "zh/01969.mp3",
+          "n.f.",
+          "fr/13088.mp3",
+          "zh/13088.mp3",
           "hǎi guān",
           "[dwan]"
         ]
@@ -5783,47 +5356,247 @@ window.BOOK_DATA[2] = {
     },
     {
       "no": 22,
-      "name": "第22节",
+      "name": "入住及退房",
       "w": [
         [
-          "目录不同蛋糕烹饪手法食用油烹饪调料常见香料饮酒冷饮店各种饮料",
-          "atalogue ..035 . ... . . .. . *.. .. .... .. . A.. 12",
+          "标准间",
+          "chambre standard",
+          "f.",
+          "fr/13089.mp3",
+          "zh/13089.mp3",
+          "biāo zhǔn jiān",
+          "[ʃɑ̃:br stɑ̃da:r]"
+        ],
+        [
+          "双床的",
+          "double",
+          "形",
+          "fr/13090.mp3",
+          "zh/13090.mp3",
+          "shuāng chuáng de",
+          "[dub]"
+        ],
+        [
+          "套间",
+          "suite",
+          "f.",
+          "fr/13091.mp3",
+          "zh/13091.mp3",
+          "tào jiān",
+          "[sɥit]"
+        ],
+        [
+          "总统套间",
+          "suite présidentielle",
+          "f.",
+          "fr/13092.mp3",
+          "zh/13092.mp3",
+          "zǒng tǒng tào jiān",
+          "[sɥit prezidɑ̃sjɛl]"
+        ],
+        [
+          "顶层楼座",
+          "poulailler",
+          "m.",
+          "fr/13093.mp3",
+          "zh/13093.mp3",
+          "dǐng céng lóu zuò",
+          "[pula(ɑ)je]"
+        ],
+        [
+          "登记台",
+          "extrait de la matricule",
+          "名",
+          "fr/13094.mp3",
+          "zh/13094.mp3",
+          "dēng jì tái",
+          "[ɛkstrə da la matrikyl]"
+        ],
+        [
+          "登记",
+          "inscrire",
+          "v.",
+          "fr/13095.mp3",
+          "zh/13095.mp3",
+          "dēng jì",
+          "[ɛ̃s kri:r]"
+        ],
+        [
+          "登记",
+          "enregistrer",
+          "v.",
+          "fr/13096.mp3",
+          "zh/13096.mp3",
+          "dēng jì",
+          "[ɑ̃rəʒistre]"
+        ],
+        [
+          "接待处",
+          "réception",
+          "f.",
+          "fr/13097.mp3",
+          "zh/13097.mp3",
+          "jiē dài chù",
+          "[resɛpsjɔ̃]"
+        ],
+        [
+          "身份证",
+          "carte d'identité",
+          "f.",
+          "fr/13098.mp3",
+          "zh/13098.mp3",
+          "shēn fèn zhèng",
+          "[kart didɑ̃tite]"
+        ],
+        [
+          "客房服务",
+          "service en chambre",
+          "m.",
+          "fr/13099.mp3",
+          "zh/13099.mp3",
+          "kè fáng fú wù",
+          "[sɛrvis ɑ̃ ʃɑ̃:br]"
+        ],
+        [
+          "开关",
+          "switch",
+          "m.",
+          "fr/13100.mp3",
+          "zh/13100.mp3",
+          "kāi guān",
+          "[switʃ]"
+        ],
+        [
+          "热水瓶",
+          "thermos",
+          "名",
+          "fr/13101.mp3",
+          "zh/13101.mp3",
+          "rè shuǐ píng",
+          "[tɛrmɔ:s]"
+        ],
+        [
+          "废纸篓",
+          "poubelle",
+          "f.",
+          "fr/13102.mp3",
+          "zh/13102.mp3",
+          "fèi zhǐ lǒu",
+          "[pubɛl]"
+        ],
+        [
+          "发出轻微尖声",
+          "click",
+          "v.",
+          "fr/13103.mp3",
+          "zh/13103.mp3",
+          "fā chū qīng wēi jiān shēng",
+          "[klik]"
+        ],
+        [
+          "押金",
+          "consigne",
+          "f.",
+          "fr/13104.mp3",
+          "zh/13104.mp3",
+          "yā jīn",
+          "[kɔ̃siɲ]"
+        ]
+      ],
+      "s": [
+        [
+          "Devant une double porte vitrée, il poussait toujours celle qui était fermée.",
+          "就算在双层玻璃门前面，那扇门也总是关着要他自己去推开的。",
           "",
-          "fr/00005.mp3",
-          "zh/00005.mp3",
-          "mù lù bù tóng dàn gāo pēng rèn shǒu fǎ shí yòng yóu pēng rèn tiáo liào cháng jiàn xiāng liào yǐn jiǔ lěng yǐn diàn gè zhǒng yǐn liào",
+          "fr/13105.mp3",
+          "zh/13105.mp3",
+          "jiù suàn zài shuāng céng bō lí mén qián miàn ， nà shàn mén yě zǒng shì guān zhe yào tā zì jǐ qù tuī kāi de 。",
           ""
         ],
         [
-          "词各种咖啡餐具餐桌不同的杯子休闲小食饼干食物保存各种建居家隔间电梯楼梯楼梯各种门各种窗客厅卧室梳妆台书房厨浴室洗衣间阳台花园车库租房子搬家装演买房子宾馆人住及退房",
-          "..045 .. . ... .... .049 ..050 T ... ... ...052 .0 . .. . 054 .. . ... ... ..05 T.. ...059 . . + ...0 ..... . . MK. ... . .. w.5 . Eb... ... ..8 ... ww... ... .. ..0 ...1 T. ..072 A...",
-          "",
-          "fr/00008.mp3",
-          "zh/00008.mp3",
-          "cí gè zhǒng kā fēi cān jù cān zhuō bù tóng de bēi zi xiū xián xiǎo shí bǐng gān shí wù bǎo cún gè zhǒng jiàn jū jiā gé jiān diàn tī lóu tī lóu tī gè zhǒng mén gè zhǒng chuāng kè tīng wò shì shū zhuāng tái shū fáng chú yù shì xǐ yī jiān yáng tái huā yuán chē kù zū fáng zi bān jiā zhuāng yǎn mǎi fáng zi bīn guǎn rén zhù jí tuì fáng",
+          "Je suis sur le chemin de sa maison, pour rendre les choses qu'elle laisse dans la suite.",
+          "我只是顺路来她家，还她落在套房的东西。",
+          "《绯闻女孩》",
+          "fr/13106.mp3",
+          "zh/13106.mp3",
+          "wǒ zhǐ shì shùn lù lái tā jiā ， hái tā luò zài tào fáng de dōng xī 。",
           ""
         ],
         [
-          "陆上交通工具其他交通工具交通事故方向与位置十字路地下通道公交站火车站地铁站月机场机场大厅安检停车场加油站港高速公交通标志海关开车各种状况汽车构造保养与修理飞机坐飞搭火车自行车面部器身体部位骨骼与皮肤身体内部器健康状况看诊常见科室各种检查",
-          "..04 ...075 ...7 5 ...07 +0. ..08 .... F... X ...080 ...081 Wtksh.. ...08. . ... .. ..084 ...085 WUT. ..06 .... ...088 0 ...0. .... . ..091 Xiw... wx. ..092 . .. ...094 . .096 EL. ..097 .98 ...099 ..100 .... ..0 ... .. ..10 ...10 .10s ... .107 A.. ...0. ...109",
+          "Vous êtes prié d'y inscrire votre nom, prénom, nationalité, date de naissance, profession et état civil.",
+          "请在上面填上您的姓名、国籍、出生日期、职业和身份。",
           "",
-          "fr/00009.mp3",
-          "zh/00009.mp3",
-          "lù shàng jiāo tōng gōng jù qí tā jiāo tōng gōng jù jiāo tōng shì gù fāng xiàng yǔ wèi zhì shí zì lù dì xià tōng dào gōng jiāo zhàn huǒ chē zhàn dì tiě zhàn yuè jī chǎng jī chǎng dà tīng ān jiǎn tíng chē chǎng jiā yóu zhàn gǎng gāo sù gōng jiāo tōng biāo zhì hǎi guān kāi chē gè zhǒng zhuàng kuàng qì chē gòu zào bǎo yǎng yǔ xiū lǐ fēi jī zuò fēi dā huǒ chē zì xíng chē miàn bù qì shēn tǐ bù wèi gǔ gé yǔ pí fū shēn tǐ nèi bù qì jiàn kāng zhuàng kuàng kàn zhěn cháng jiàn kē shì gè zhǒng jiǎn chá",
+          "fr/13107.mp3",
+          "zh/13107.mp3",
+          "qǐng zài shàng miàn tián shàng nín de xìng míng 、 guó jí 、 chū shēng rì qī 、 zhí yè hé shēn fèn 。",
           ""
         ],
         [
-          "骨各种疼痛常见疾病疑难杂症眼疾常见中西药住院出院手术",
-          "I.. ..10 . .111 ..112 .. ...13 X. .. ..114 ..115 E .116 ..11 F..",
+          "Excusez-moi, laissez-moi voir votre carte d'identité, s'il vous plaît?",
+          "打扰一下，能让我看一下你的身份证吗？",
           "",
-          "fr/00010.mp3",
-          "zh/00010.mp3",
-          "gǔ gè zhǒng téng tòng cháng jiàn jí bìng yí nán zá zhèng yǎn jí cháng jiàn zhōng xī yào zhù yuàn chū yuàn shǒu shù",
+          "fr/13108.mp3",
+          "zh/13108.mp3",
+          "dǎ rǎo yí xià ， néng ràng wǒ kàn yí xià nǐ de shēn fèn zhèng ma ？",
+          ""
+        ],
+        [
+          "Vingt kilos d'aliments non consommés par an se retrouvent dans la poubelle de chaque français.",
+          "每年，每个法国人的垃圾桶中都能找到20公斤没有食用过的食物。",
+          "",
+          "fr/13109.mp3",
+          "zh/13109.mp3",
+          "měi nián ， měi gè fǎ guó rén de lā jī tǒng zhōng dōu néng zhǎo dào 2 0 gōng jīn méi yǒu shí yòng guò de shí wù 。",
           ""
         ]
       ],
-      "s": [],
-      "e": []
+      "e": [
+        [
+          "玻璃的",
+          "vitrée",
+          "adj.",
+          "fr/13110.mp3",
+          "zh/13110.mp3",
+          "bō lí de",
+          "[vitre]"
+        ],
+        [
+          "请求",
+          "prier",
+          "v.t.",
+          "fr/13111.mp3",
+          "zh/13111.mp3",
+          "qǐng qiú",
+          "[prije]"
+        ],
+        [
+          "国籍",
+          "nationalité",
+          "n.f.",
+          "fr/13112.mp3",
+          "zh/13112.mp3",
+          "guó jí",
+          "[nasjɔnalite]"
+        ],
+        [
+          "出生",
+          "naissance",
+          "n.f.",
+          "fr/13113.mp3",
+          "zh/13113.mp3",
+          "chū shēng",
+          "[nesɑ̃:s]"
+        ],
+        [
+          "状态，状况",
+          "état",
+          "n.m.",
+          "fr/13114.mp3",
+          "zh/13114.mp3",
+          "zhuàng tài ， zhuàng kuàng",
+          "[eta]"
+        ]
+      ]
     }
   ]
 };
