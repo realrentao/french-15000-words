@@ -16,7 +16,7 @@ window.BOOK_DATA[29] = {
           "fr/05120.mp3",
           "zh/05120.mp3",
           "kè zì rán",
-          "natyr"
+          "[natyr]"
         ],
         [
           "动物学物理学",
@@ -25,7 +25,7 @@ window.BOOK_DATA[29] = {
           "fr/05121.mp3",
           "zh/05121.mp3",
           "dòng wù xué wù lǐ xué",
-          "zol3i"
+          "[zol3i]"
         ],
         [
           "数学",
@@ -34,7 +34,7 @@ window.BOOK_DATA[29] = {
           "fr/05122.mp3",
           "zh/05122.mp3",
           "shù xué",
-          "matematik"
+          "[matematik]"
         ],
         [
           "化学",
@@ -52,7 +52,7 @@ window.BOOK_DATA[29] = {
           "fr/05124.mp3",
           "zh/05124.mp3",
           "jī xiè",
-          "mafin"
+          "[mafin]"
         ],
         [
           "海洋学",
@@ -61,7 +61,7 @@ window.BOOK_DATA[29] = {
           "fr/05125.mp3",
           "zh/05125.mp3",
           "hǎi yáng xué",
-          "bseanografi"
+          "[bseanografi]"
         ],
         [
           "地质学",
@@ -70,7 +70,7 @@ window.BOOK_DATA[29] = {
           "fr/05126.mp3",
           "zh/05126.mp3",
           "dì zhì xué",
-          "3eolo3i"
+          "[3eolo3i]"
         ],
         [
           "地理学",
@@ -79,7 +79,7 @@ window.BOOK_DATA[29] = {
           "fr/05127.mp3",
           "zh/05127.mp3",
           "dì lǐ xué",
-          "zeografi"
+          "[zeografi]"
         ],
         [
           "气象学",
@@ -88,7 +88,7 @@ window.BOOK_DATA[29] = {
           "fr/05128.mp3",
           "zh/05128.mp3",
           "qì xiàng xué",
-          "meteorolbzi"
+          "[meteorolbzi]"
         ],
         [
           "微生物学",
@@ -97,7 +97,7 @@ window.BOOK_DATA[29] = {
           "fr/05129.mp3",
           "zh/05129.mp3",
           "wēi shēng wù xué",
-          "mikrobiolzi"
+          "[mikrobiolzi]"
         ],
         [
           "行星",
@@ -106,7 +106,7 @@ window.BOOK_DATA[29] = {
           "fr/05130.mp3",
           "zh/05130.mp3",
           "xíng xīng",
-          "planet"
+          "[planet]"
         ],
         [
           "慧星流星",
@@ -115,7 +115,7 @@ window.BOOK_DATA[29] = {
           "fr/05131.mp3",
           "zh/05131.mp3",
           "huì xīng liú xīng",
-          "komet"
+          "[komet]"
         ],
         [
           "恒星行星",
@@ -124,7 +124,7 @@ window.BOOK_DATA[29] = {
           "fr/05132.mp3",
           "zh/05132.mp3",
           "héng xīng xíng xīng",
-          "etwal"
+          "[etwal]"
         ]
       ],
       "s": [
@@ -164,7 +164,7 @@ window.BOOK_DATA[29] = {
           "fr/05136.mp3",
           "",
           "",
-          "seleksj5"
+          "[seleksj5]"
         ],
         [
           "选择",
@@ -182,7 +182,7 @@ window.BOOK_DATA[29] = {
           "fr/05138.mp3",
           "",
           "",
-          "eternel"
+          "[eternel]"
         ],
         [
           "永久的",
@@ -200,7 +200,7 @@ window.BOOK_DATA[29] = {
           "fr/05140.mp3",
           "",
           "",
-          "balásje"
+          "[balásje]"
         ],
         [
           "钟摆",
@@ -227,7 +227,7 @@ window.BOOK_DATA[29] = {
           "fr/05143.mp3",
           "",
           "",
-          "regylarite"
+          "[regylarite]"
         ],
         [
           "规律性",
@@ -245,7 +245,7 @@ window.BOOK_DATA[29] = {
           "fr/05145.mp3",
           "zh/05145.mp3",
           "dà yī",
-          "mäto"
+          "[mäto]"
         ]
       ]
     },
@@ -260,7 +260,7 @@ window.BOOK_DATA[29] = {
           "fr/05146.mp3",
           "zh/05146.mp3",
           "diàn liú",
-          "kurä elektrik"
+          "[kurä elektrik]"
         ],
         [
           "电",
@@ -269,7 +269,7 @@ window.BOOK_DATA[29] = {
           "fr/05147.mp3",
           "zh/05147.mp3",
           "diàn",
-          "elektrisite"
+          "[elektrisite]"
         ],
         [
           "电学家",
@@ -278,7 +278,7 @@ window.BOOK_DATA[29] = {
           "fr/05148.mp3",
           "zh/05148.mp3",
           "diàn xué jiā",
-          "elektrisj&,en"
+          "[elektrisj&,en]"
         ],
         [
           "电流表",
@@ -287,7 +287,7 @@ window.BOOK_DATA[29] = {
           "fr/05149.mp3",
           "zh/05149.mp3",
           "diàn liú biǎo",
-          "ápermetr"
+          "[ápermetr]"
         ],
         [
           "电子",
@@ -296,7 +296,7 @@ window.BOOK_DATA[29] = {
           "fr/05150.mp3",
           "zh/05150.mp3",
           "diàn zi",
-          "elektr5"
+          "[elektr5]"
         ],
         [
           "电子爱好者",
@@ -305,7 +305,7 @@ window.BOOK_DATA[29] = {
           "fr/05151.mp3",
           "zh/05151.mp3",
           "diàn zi ài hào zhě",
-          "elektrofil"
+          "[elektrofil]"
         ],
         [
           "正电子",
@@ -314,7 +314,7 @@ window.BOOK_DATA[29] = {
           "fr/05152.mp3",
           "zh/05152.mp3",
           "zhèng diàn zi",
-          "elektr pozitif"
+          "[elektr pozitif]"
         ],
         [
           "电量",
@@ -323,7 +323,7 @@ window.BOOK_DATA[29] = {
           "fr/05153.mp3",
           "zh/05153.mp3",
           "diàn liàng",
-          "kätite delektrisite"
+          "[kätite delektrisite]"
         ],
         [
           "正极",
@@ -332,7 +332,7 @@ window.BOOK_DATA[29] = {
           "fr/05154.mp3",
           "zh/05154.mp3",
           "zhèng jí",
-          "anod"
+          "[anod]"
         ],
         [
           "负极的",
@@ -341,7 +341,7 @@ window.BOOK_DATA[29] = {
           "fr/05155.mp3",
           "zh/05155.mp3",
           "fù jí de",
-          "katodik"
+          "[katodik]"
         ],
         [
           "电压",
@@ -350,7 +350,7 @@ window.BOOK_DATA[29] = {
           "fr/05156.mp3",
           "zh/05156.mp3",
           "diàn yā",
-          "volta3"
+          "[volta3]"
         ],
         [
           "电极",
@@ -359,7 +359,7 @@ window.BOOK_DATA[29] = {
           "fr/05157.mp3",
           "zh/05157.mp3",
           "diàn jí",
-          "elektrod"
+          "[elektrod]"
         ],
         [
           "电容",
@@ -368,7 +368,7 @@ window.BOOK_DATA[29] = {
           "fr/05158.mp3",
           "zh/05158.mp3",
           "diàn róng",
-          "kapasite elektrik"
+          "[kapasite elektrik]"
         ],
         [
           "绝缘",
@@ -377,7 +377,7 @@ window.BOOK_DATA[29] = {
           "fr/05159.mp3",
           "zh/05159.mp3",
           "jué yuán",
-          "izolasj5"
+          "[izolasj5]"
         ],
         [
           "绝缘力",
@@ -386,7 +386,7 @@ window.BOOK_DATA[29] = {
           "fr/05160.mp3",
           "zh/05160.mp3",
           "jué yuán lì",
-          "puvwar izolá"
+          "[puvwar izolá]"
         ],
         [
           "电池",
@@ -404,7 +404,7 @@ window.BOOK_DATA[29] = {
           "fr/05162.mp3",
           "zh/05162.mp3",
           "dǎo diàn de",
-          "kdyktif"
+          "[kdyktif]"
         ],
         [
           "导电性",
@@ -413,7 +413,7 @@ window.BOOK_DATA[29] = {
           "fr/05163.mp3",
           "zh/05163.mp3",
           "dǎo diàn xìng",
-          "kdyktivite"
+          "[kdyktivite]"
         ]
       ],
       "s": [
@@ -453,7 +453,7 @@ window.BOOK_DATA[29] = {
           "fr/05167.mp3",
           "",
           "",
-          "träblamä"
+          "[träblamä]"
         ],
         [
           "振动",
@@ -471,7 +471,7 @@ window.BOOK_DATA[29] = {
           "fr/05169.mp3",
           "",
           "",
-          "kuvrafa"
+          "[kuvrafa]"
         ],
         [
           "信号灯宵禁",
@@ -489,7 +489,7 @@ window.BOOK_DATA[29] = {
           "fr/05171.mp3",
           "zh/05171.mp3",
           "nòng zāng",
-          "polysj"
+          "[polysj]"
         ],
         [
           "电流表",
@@ -513,7 +513,7 @@ window.BOOK_DATA[29] = {
           "fr/05173.mp3",
           "zh/05173.mp3",
           "xíng zhuàng",
-          "form"
+          "[form]"
         ],
         [
           "三角形",
@@ -522,7 +522,7 @@ window.BOOK_DATA[29] = {
           "fr/05174.mp3",
           "zh/05174.mp3",
           "sān jiǎo xíng",
-          "trijágl"
+          "[trijágl]"
         ],
         [
           "正方形",
@@ -531,7 +531,7 @@ window.BOOK_DATA[29] = {
           "fr/05175.mp3",
           "zh/05175.mp3",
           "zhèng fāng xíng",
-          "ka(are"
+          "[ka(are]"
         ],
         [
           "长方形",
@@ -540,7 +540,7 @@ window.BOOK_DATA[29] = {
           "fr/05176.mp3",
           "zh/05176.mp3",
           "cháng fāng xíng",
-          "ortogon"
+          "[ortogon]"
         ],
         [
           "圆形",
@@ -549,7 +549,7 @@ window.BOOK_DATA[29] = {
           "fr/05177.mp3",
           "zh/05177.mp3",
           "yuán xíng",
-          "serkl"
+          "[serkl]"
         ],
         [
           "半圆",
@@ -558,7 +558,7 @@ window.BOOK_DATA[29] = {
           "fr/05178.mp3",
           "zh/05178.mp3",
           "bàn yuán",
-          "d(a)mi serkl"
+          "[d(a)mi serkl]"
         ],
         [
           "垂直的",
@@ -567,7 +567,7 @@ window.BOOK_DATA[29] = {
           "fr/05179.mp3",
           "zh/05179.mp3",
           "chuí zhí de",
-          "perpädikyle:r"
+          "[perpädikyle:r]"
         ],
         [
           "角",
@@ -585,7 +585,7 @@ window.BOOK_DATA[29] = {
           "fr/05181.mp3",
           "zh/05181.mp3",
           "ruì jiǎo",
-          "ágl egy"
+          "[ágl egy]"
         ],
         [
           "钝角",
@@ -594,7 +594,7 @@ window.BOOK_DATA[29] = {
           "fr/05182.mp3",
           "zh/05182.mp3",
           "dùn jiǎo",
-          "ägl opty"
+          "[ägl opty]"
         ],
         [
           "直角三角形",
@@ -603,7 +603,7 @@ window.BOOK_DATA[29] = {
           "fr/05183.mp3",
           "zh/05183.mp3",
           "zhí jiǎo sān jiǎo xíng",
-          "triáxgl rektá:gl"
+          "[triáxgl rektá:gl]"
         ],
         [
           "等腰的",
@@ -612,7 +612,7 @@ window.BOOK_DATA[29] = {
           "fr/05184.mp3",
           "zh/05184.mp3",
           "děng yāo de",
-          "izosel"
+          "[izosel]"
         ],
         [
           "等边的",
@@ -621,7 +621,7 @@ window.BOOK_DATA[29] = {
           "fr/05185.mp3",
           "zh/05185.mp3",
           "děng biān de",
-          "ekyilateral"
+          "[ekyilateral]"
         ],
         [
           "边平行的",
@@ -630,7 +630,7 @@ window.BOOK_DATA[29] = {
           "fr/05186.mp3",
           "zh/05186.mp3",
           "biān píng xíng de",
-          "bor"
+          "[bor]"
         ],
         [
           "中点",
@@ -639,7 +639,7 @@ window.BOOK_DATA[29] = {
           "fr/05187.mp3",
           "zh/05187.mp3",
           "zhōng diǎn",
-          "satr"
+          "[satr]"
         ],
         [
           "厘米",
@@ -648,7 +648,7 @@ window.BOOK_DATA[29] = {
           "fr/05188.mp3",
           "zh/05188.mp3",
           "lí mǐ",
-          "sätimetr"
+          "[sätimetr]"
         ],
         [
           "毫米",
@@ -657,7 +657,7 @@ window.BOOK_DATA[29] = {
           "fr/05189.mp3",
           "zh/05189.mp3",
           "háo mǐ",
-          "mil(I)imetr"
+          "[mil(I)imetr]"
         ]
       ],
       "s": [
@@ -697,7 +697,7 @@ window.BOOK_DATA[29] = {
           "fr/05193.mp3",
           "zh/05193.mp3",
           "bǎo zuò",
-          "tron"
+          "[tron]"
         ],
         [
           "统治",
@@ -706,7 +706,7 @@ window.BOOK_DATA[29] = {
           "fr/05194.mp3",
           "zh/05194.mp3",
           "tǒng zhì",
-          "ren"
+          "[ren]"
         ],
         [
           "",
@@ -715,7 +715,7 @@ window.BOOK_DATA[29] = {
           "fr/05195.mp3",
           "",
           "",
-          "stabilite"
+          "[stabilite]"
         ],
         [
           "稳定性",
@@ -733,7 +733,7 @@ window.BOOK_DATA[29] = {
           "fr/05197.mp3",
           "zh/05197.mp3",
           "chī",
-          "fl tez5"
+          "[fl tez5]"
         ],
         [
           "水线",
@@ -766,7 +766,7 @@ window.BOOK_DATA[29] = {
           "fr/05200.mp3",
           "zh/05200.mp3",
           "biāo diǎn",
-          "pšktyasj3"
+          "[pšktyasj3]"
         ],
         [
           "符号",
@@ -775,7 +775,7 @@ window.BOOK_DATA[29] = {
           "fr/05201.mp3",
           "zh/05201.mp3",
           "fú hào",
-          "sbol"
+          "[sbol]"
         ],
         [
           "符号",
@@ -784,7 +784,7 @@ window.BOOK_DATA[29] = {
           "fr/05202.mp3",
           "zh/05202.mp3",
           "fú hào",
-          "mark"
+          "[mark]"
         ],
         [
           "代数符号",
@@ -793,7 +793,7 @@ window.BOOK_DATA[29] = {
           "fr/05203.mp3",
           "zh/05203.mp3",
           "dài shù fú hào",
-          "karakter alzebrik"
+          "[karakter alzebrik]"
         ],
         [
           "一套符号",
@@ -802,7 +802,7 @@ window.BOOK_DATA[29] = {
           "fr/05204.mp3",
           "zh/05204.mp3",
           "yī tào fú hào",
-          "äsä:bl da stbol"
+          "[äsä:bl da stbol]"
         ],
         [
           "加号",
@@ -811,7 +811,7 @@ window.BOOK_DATA[29] = {
           "fr/05205.mp3",
           "zh/05205.mp3",
           "jiā hào",
-          "plys"
+          "[plys]"
         ],
         [
           "减号",
@@ -820,7 +820,7 @@ window.BOOK_DATA[29] = {
           "fr/05206.mp3",
           "zh/05206.mp3",
           "jiǎn hào",
-          "sin mwe"
+          "[sin mwe]"
         ],
         [
           "乘",
@@ -829,7 +829,7 @@ window.BOOK_DATA[29] = {
           "fr/05207.mp3",
           "zh/05207.mp3",
           "chéng",
-          "myltiplie"
+          "[myltiplie]"
         ],
         [
           "除",
@@ -838,7 +838,7 @@ window.BOOK_DATA[29] = {
           "fr/05208.mp3",
           "zh/05208.mp3",
           "chú",
-          "divize"
+          "[divize]"
         ],
         [
           "相等的",
@@ -847,7 +847,7 @@ window.BOOK_DATA[29] = {
           "fr/05209.mp3",
           "zh/05209.mp3",
           "xiāng děng de",
-          "egal"
+          "[egal]"
         ],
         [
           "相等的",
@@ -856,7 +856,7 @@ window.BOOK_DATA[29] = {
           "fr/05210.mp3",
           "zh/05210.mp3",
           "xiāng děng de",
-          "ekivala,t"
+          "[ekivala,t]"
         ],
         [
           "近似地",
@@ -865,7 +865,7 @@ window.BOOK_DATA[29] = {
           "fr/05211.mp3",
           "zh/05211.mp3",
           "jìn sì dì",
-          "aproksimativmä"
+          "[aproksimativmä]"
         ],
         [
           "无穷的",
@@ -874,7 +874,7 @@ window.BOOK_DATA[29] = {
           "fr/05212.mp3",
           "zh/05212.mp3",
           "wú qióng de",
-          "ilimite"
+          "[ilimite]"
         ],
         [
           "平方根",
@@ -883,7 +883,7 @@ window.BOOK_DATA[29] = {
           "fr/05213.mp3",
           "zh/05213.mp3",
           "píng fāng gēn",
-          "rasin kare"
+          "[rasin kare]"
         ],
         [
           "平方函数",
@@ -892,7 +892,7 @@ window.BOOK_DATA[29] = {
           "fr/05214.mp3",
           "zh/05214.mp3",
           "píng fāng hán shù",
-          "f5ksj5kare"
+          "[f5ksj5kare]"
         ],
         [
           "收入",
@@ -901,7 +901,7 @@ window.BOOK_DATA[29] = {
           "fr/05215.mp3",
           "zh/05215.mp3",
           "shōu rù",
-          "rätre"
+          "[rätre]"
         ],
         [
           "立方根",
@@ -910,7 +910,7 @@ window.BOOK_DATA[29] = {
           "fr/05216.mp3",
           "zh/05216.mp3",
           "lì fāng gēn",
-          "rasin kybik"
+          "[rasin kybik]"
         ]
       ],
       "s": [
@@ -995,7 +995,7 @@ window.BOOK_DATA[29] = {
           "fr/05225.mp3",
           "zh/05225.mp3",
           "wàng jì",
-          "ublije"
+          "[ublije]"
         ],
         [
           "句子",
@@ -1004,7 +1004,7 @@ window.BOOK_DATA[29] = {
           "fr/05226.mp3",
           "zh/05226.mp3",
           "jù zi",
-          "fraa:z"
+          "[fraa:z]"
         ],
         [
           "等于",
@@ -1013,7 +1013,7 @@ window.BOOK_DATA[29] = {
           "fr/05227.mp3",
           "zh/05227.mp3",
           "děng yú",
-          "done"
+          "[done]"
         ],
         [
           "句号",
@@ -1022,7 +1022,7 @@ window.BOOK_DATA[29] = {
           "fr/05228.mp3",
           "zh/05228.mp3",
           "jù hào",
-          "virgyl"
+          "[virgyl]"
         ]
       ]
     },
@@ -1037,7 +1037,7 @@ window.BOOK_DATA[29] = {
           "fr/05229.mp3",
           "zh/05229.mp3",
           "yuán sù",
-          "elemä"
+          "[elemä]"
         ],
         [
           "铁",
@@ -1046,7 +1046,7 @@ window.BOOK_DATA[29] = {
           "fr/05230.mp3",
           "zh/05230.mp3",
           "tiě",
-          "fer"
+          "[fer]"
         ],
         [
           "铁矿",
@@ -1064,7 +1064,7 @@ window.BOOK_DATA[29] = {
           "fr/05232.mp3",
           "zh/05232.mp3",
           "lǚ",
-          "alyminjom"
+          "[alyminjom]"
         ],
         [
           "铜",
@@ -1073,7 +1073,7 @@ window.BOOK_DATA[29] = {
           "fr/05233.mp3",
           "zh/05233.mp3",
           "tóng",
-          "kyivr"
+          "[kyivr]"
         ],
         [
           "钙",
@@ -1082,7 +1082,7 @@ window.BOOK_DATA[29] = {
           "fr/05234.mp3",
           "zh/05234.mp3",
           "gài",
-          "kalsjom"
+          "[kalsjom]"
         ],
         [
           "锁",
@@ -1091,7 +1091,7 @@ window.BOOK_DATA[29] = {
           "fr/05235.mp3",
           "zh/05235.mp3",
           "suǒ",
-          "barjom"
+          "[barjom]"
         ],
         [
           "钾",
@@ -1100,7 +1100,7 @@ window.BOOK_DATA[29] = {
           "fr/05236.mp3",
           "zh/05236.mp3",
           "jiǎ",
-          "potasjom"
+          "[potasjom]"
         ],
         [
           "氨",
@@ -1109,7 +1109,7 @@ window.BOOK_DATA[29] = {
           "fr/05237.mp3",
           "zh/05237.mp3",
           "ān",
-          "amonjak"
+          "[amonjak]"
         ],
         [
           "碳",
@@ -1118,7 +1118,7 @@ window.BOOK_DATA[29] = {
           "fr/05238.mp3",
           "zh/05238.mp3",
           "tàn",
-          "karbon"
+          "[karbon]"
         ],
         [
           "硫磺",
@@ -1127,7 +1127,7 @@ window.BOOK_DATA[29] = {
           "fr/05239.mp3",
           "zh/05239.mp3",
           "liú huáng",
-          "sufr"
+          "[sufr]"
         ],
         [
           "晶体",
@@ -1136,7 +1136,7 @@ window.BOOK_DATA[29] = {
           "fr/05240.mp3",
           "zh/05240.mp3",
           "jīng tǐ",
-          "kristal"
+          "[kristal]"
         ],
         [
           "岩",
@@ -1154,7 +1154,7 @@ window.BOOK_DATA[29] = {
           "fr/05242.mp3",
           "zh/05242.mp3",
           "méi",
-          "arb5"
+          "[arb5]"
         ],
         [
           "焦炭",
@@ -1163,7 +1163,7 @@ window.BOOK_DATA[29] = {
           "fr/05243.mp3",
           "zh/05243.mp3",
           "jiāo tàn",
-          "kok"
+          "[kok]"
         ],
         [
           "石油",
@@ -1172,7 +1172,7 @@ window.BOOK_DATA[29] = {
           "fr/05244.mp3",
           "zh/05244.mp3",
           "shí yóu",
-          "petrol"
+          "[petrol]"
         ],
         [
           "花岗岩大理石石油",
@@ -1181,7 +1181,7 @@ window.BOOK_DATA[29] = {
           "fr/05245.mp3",
           "zh/05245.mp3",
           "huā gǎng yán dà lǐ shí shí yóu",
-          "granit"
+          "[granit]"
         ]
       ],
       "s": [
@@ -1230,7 +1230,7 @@ window.BOOK_DATA[29] = {
           "fr/05250.mp3",
           "zh/05250.mp3",
           "zhǔ",
-          "esäsjel"
+          "[esäsjel]"
         ],
         [
           "要的基本的",
@@ -1248,7 +1248,7 @@ window.BOOK_DATA[29] = {
           "fr/05252.mp3",
           "",
           "",
-          "patrimwan"
+          "[patrimwan]"
         ],
         [
           "祖产家产",
@@ -1266,7 +1266,7 @@ window.BOOK_DATA[29] = {
           "fr/05254.mp3",
           "",
           "",
-          "inisjalmá"
+          "[inisjalmá]"
         ],
         [
           "最初在初期",

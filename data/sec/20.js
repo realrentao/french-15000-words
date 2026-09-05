@@ -16,7 +16,7 @@ window.BOOK_DATA[20] = {
           "fr/10363.mp3",
           "zh/10363.mp3",
           "dà zhòng chuán bō méi jiè",
-          "medja"
+          "[medja]"
         ],
         [
           "媒介",
@@ -25,7 +25,7 @@ window.BOOK_DATA[20] = {
           "fr/10364.mp3",
           "zh/10364.mp3",
           "méi jiè",
-          "veikyl"
+          "[veikyl]"
         ],
         [
           "名人",
@@ -34,7 +34,7 @@ window.BOOK_DATA[20] = {
           "fr/10365.mp3",
           "zh/10365.mp3",
           "míng rén",
-          "selebrite"
+          "[selebrite]"
         ],
         [
           "报道",
@@ -43,7 +43,7 @@ window.BOOK_DATA[20] = {
           "fr/10366.mp3",
           "zh/10366.mp3",
           "bào dào",
-          "raporta:3"
+          "[raporta:3]"
         ],
         [
           "收音机",
@@ -52,7 +52,7 @@ window.BOOK_DATA[20] = {
           "fr/10367.mp3",
           "zh/10367.mp3",
           "shōu yīn jī",
-          "radjo"
+          "[radjo]"
         ],
         [
           "新闻界",
@@ -61,7 +61,7 @@ window.BOOK_DATA[20] = {
           "fr/10368.mp3",
           "zh/10368.mp3",
           "xīn wén jiè",
-          "zurnalism"
+          "[zurnalism]"
         ],
         [
           "记者",
@@ -70,7 +70,7 @@ window.BOOK_DATA[20] = {
           "fr/10369.mp3",
           "zh/10369.mp3",
           "jì zhě",
-          "zurnalist"
+          "[zurnalist]"
         ],
         [
           "日报",
@@ -79,7 +79,7 @@ window.BOOK_DATA[20] = {
           "fr/10370.mp3",
           "zh/10370.mp3",
           "rì bào",
-          "kotidjê"
+          "[kotidjê]"
         ],
         [
           "独有的",
@@ -88,7 +88,7 @@ window.BOOK_DATA[20] = {
           "fr/10371.mp3",
           "zh/10371.mp3",
           "dú yǒu de",
-          "ynik"
+          "[ynik]"
         ],
         [
           "特讯",
@@ -97,7 +97,7 @@ window.BOOK_DATA[20] = {
           "fr/10372.mp3",
           "zh/10372.mp3",
           "tè xùn",
-          "nuvel spesjal"
+          "[nuvel spesjal]"
         ],
         [
           "号外",
@@ -106,7 +106,7 @@ window.BOOK_DATA[20] = {
           "fr/10373.mp3",
           "zh/10373.mp3",
           "hào wài",
-          "nymero ekstra"
+          "[nymero ekstra]"
         ],
         [
           "传播散步",
@@ -115,7 +115,7 @@ window.BOOK_DATA[20] = {
           "fr/10374.mp3",
           "zh/10374.mp3",
           "chuán bō sàn bù",
-          "repá:dr"
+          "[repá:dr]"
         ],
         [
           "消息收音机",
@@ -142,7 +142,7 @@ window.BOOK_DATA[20] = {
           "fr/10382.mp3",
           "zh/10382.mp3",
           "jì zhě zhāo dài huì",
-          "k5ferä:s dapres"
+          "[k5ferä:s dapres]"
         ],
         [
           "代言人",
@@ -151,7 +151,7 @@ window.BOOK_DATA[20] = {
           "fr/10383.mp3",
           "zh/10383.mp3",
           "dài yán rén",
-          "port(a parol"
+          "[port(a parol]"
         ],
         [
           "新闻记者",
@@ -160,7 +160,7 @@ window.BOOK_DATA[20] = {
           "fr/10384.mp3",
           "zh/10384.mp3",
           "xīn wén jì zhě",
-          "zurnalist"
+          "[zurnalist]"
         ],
         [
           "罢工",
@@ -169,7 +169,7 @@ window.BOOK_DATA[20] = {
           "fr/10385.mp3",
           "zh/10385.mp3",
           "bà gōng",
-          "grev"
+          "[grev]"
         ],
         [
           "正式照会",
@@ -178,7 +178,7 @@ window.BOOK_DATA[20] = {
           "fr/10386.mp3",
           "zh/10386.mp3",
           "zhèng shì zhào huì",
-          "not ofisjel"
+          "[not ofisjel]"
         ],
         [
           "澄清",
@@ -187,7 +187,7 @@ window.BOOK_DATA[20] = {
           "fr/10387.mp3",
           "zh/10387.mp3",
           "chéng qīng",
-          "defeka(a)sj5"
+          "[defeka(a)sj5]"
         ],
         [
           "谣言",
@@ -196,7 +196,7 @@ window.BOOK_DATA[20] = {
           "fr/10388.mp3",
           "zh/10388.mp3",
           "yáo yán",
-          "rumce:r"
+          "[rumce:r]"
         ],
         [
           "扰乱",
@@ -205,7 +205,7 @@ window.BOOK_DATA[20] = {
           "fr/10389.mp3",
           "zh/10389.mp3",
           "rǎo luàn",
-          "ábruj"
+          "[ábruj]"
         ],
         [
           "捣乱的",
@@ -214,7 +214,7 @@ window.BOOK_DATA[20] = {
           "fr/10390.mp3",
           "zh/10390.mp3",
           "dǎo luàn de",
-          "faksj,:z"
+          "[faksj,:z]"
         ],
         [
           "荒谬的",
@@ -223,7 +223,7 @@ window.BOOK_DATA[20] = {
           "fr/10391.mp3",
           "zh/10391.mp3",
           "huāng miù de",
-          "apsyrd"
+          "[apsyrd]"
         ],
         [
           "召开",
@@ -232,7 +232,7 @@ window.BOOK_DATA[20] = {
           "fr/10392.mp3",
           "zh/10392.mp3",
           "zhào kāi",
-          "kšvoke"
+          "[kšvoke]"
         ],
         [
           "结束",
@@ -241,7 +241,7 @@ window.BOOK_DATA[20] = {
           "fr/10393.mp3",
           "zh/10393.mp3",
           "jié shù",
-          "termine"
+          "[termine]"
         ],
         [
           "海外的",
@@ -250,7 +250,7 @@ window.BOOK_DATA[20] = {
           "fr/10394.mp3",
           "zh/10394.mp3",
           "hǎi wài de",
-          "utramer"
+          "[utramer]"
         ],
         [
           "媒体",
@@ -259,7 +259,7 @@ window.BOOK_DATA[20] = {
           "fr/10395.mp3",
           "zh/10395.mp3",
           "méi tǐ",
-          "medja"
+          "[medja]"
         ],
         [
           "最新的",
@@ -268,7 +268,7 @@ window.BOOK_DATA[20] = {
           "fr/10396.mp3",
           "zh/10396.mp3",
           "zuì xīn de",
-          "dernjer"
+          "[dernjer]"
         ]
       ],
       "s": [
@@ -335,7 +335,7 @@ window.BOOK_DATA[20] = {
           "fr/10378.mp3",
           "",
           "",
-          "respekte"
+          "[respekte]"
         ],
         [
           "遵守",
@@ -353,7 +353,7 @@ window.BOOK_DATA[20] = {
           "fr/10380.mp3",
           "zh/10380.mp3",
           "shù liàng",
-          "kätite"
+          "[kätite]"
         ],
         [
           "",
@@ -380,7 +380,7 @@ window.BOOK_DATA[20] = {
           "fr/10403.mp3",
           "zh/10403.mp3",
           "gé shì",
-          "frmyl"
+          "[frmyl]"
         ],
         [
           "",
@@ -389,7 +389,7 @@ window.BOOK_DATA[20] = {
           "fr/10404.mp3",
           "",
           "",
-          "medjatik"
+          "[medjatik]"
         ],
         [
           "大众传媒的",

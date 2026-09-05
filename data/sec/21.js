@@ -16,7 +16,7 @@ window.BOOK_DATA[21] = {
           "fr/10460.mp3",
           "zh/10460.mp3",
           "qiǎng jié",
-          "pije"
+          "[pije]"
         ],
         [
           "抢劫",
@@ -25,7 +25,7 @@ window.BOOK_DATA[21] = {
           "fr/10461.mp3",
           "zh/10461.mp3",
           "qiǎng jié",
-          "vole"
+          "[vole]"
         ],
         [
           "偷窃",
@@ -34,7 +34,7 @@ window.BOOK_DATA[21] = {
           "fr/10462.mp3",
           "zh/10462.mp3",
           "tōu qiè",
-          "derobe"
+          "[derobe]"
         ],
         [
           "速捕证",
@@ -43,7 +43,7 @@ window.BOOK_DATA[21] = {
           "fr/10463.mp3",
           "zh/10463.mp3",
           "sù bǔ zhèng",
-          "máda dare"
+          "[máda dare]"
         ],
         [
           "腐败",
@@ -52,7 +52,7 @@ window.BOOK_DATA[21] = {
           "fr/10464.mp3",
           "zh/10464.mp3",
           "fǔ bài",
-          "korypsj5"
+          "[korypsj5]"
         ],
         [
           "强奸",
@@ -61,7 +61,7 @@ window.BOOK_DATA[21] = {
           "fr/10465.mp3",
           "zh/10465.mp3",
           "qiáng jiān",
-          "vjole"
+          "[vjole]"
         ],
         [
           "袭击",
@@ -70,7 +70,7 @@ window.BOOK_DATA[21] = {
           "fr/10466.mp3",
           "zh/10466.mp3",
           "xí jī",
-          "atake"
+          "[atake]"
         ],
         [
           "敲诈",
@@ -79,7 +79,7 @@ window.BOOK_DATA[21] = {
           "fr/10467.mp3",
           "zh/10467.mp3",
           "qiāo zhà",
-          "egzaksj5"
+          "[egzaksj5]"
         ],
         [
           "暴力",
@@ -88,7 +88,7 @@ window.BOOK_DATA[21] = {
           "fr/10468.mp3",
           "zh/10468.mp3",
           "bào lì",
-          "vjolás"
+          "[vjolás]"
         ],
         [
           "谋杀",
@@ -97,7 +97,7 @@ window.BOOK_DATA[21] = {
           "fr/10469.mp3",
           "zh/10469.mp3",
           "móu shā",
-          "asasine"
+          "[asasine]"
         ],
         [
           "伪造",
@@ -106,7 +106,7 @@ window.BOOK_DATA[21] = {
           "fr/10470.mp3",
           "zh/10470.mp3",
           "wěi zào",
-          "ktrafer"
+          "[ktrafer]"
         ],
         [
           "赌博",
@@ -124,7 +124,7 @@ window.BOOK_DATA[21] = {
           "fr/10472.mp3",
           "zh/10472.mp3",
           "hēi bāng",
-          "bád sinistr"
+          "[bád sinistr]"
         ],
         [
           "肇事者偷窃",
@@ -133,7 +133,7 @@ window.BOOK_DATA[21] = {
           "fr/10473.mp3",
           "zh/10473.mp3",
           "zhào shì zhě tōu qiè",
-          "fomätatc:r da trubl"
+          "[fomätatc:r da trubl]"
         ]
       ],
       "s": [
@@ -182,7 +182,7 @@ window.BOOK_DATA[21] = {
           "fr/10478.mp3",
           "zh/10478.mp3",
           "kě",
-          "portabl"
+          "[portabl]"
         ],
         [
           "携带的",
@@ -200,7 +200,7 @@ window.BOOK_DATA[21] = {
           "fr/10480.mp3",
           "",
           "",
-          "rezjonal"
+          "[rezjonal]"
         ],
         [
           "地区性的",
@@ -218,7 +218,7 @@ window.BOOK_DATA[21] = {
           "fr/10482.mp3",
           "",
           "",
-          "inosaát"
+          "[inosaát]"
         ],
         [
           "无辜的",
@@ -242,7 +242,7 @@ window.BOOK_DATA[21] = {
           "fr/10484.mp3",
           "zh/10484.mp3",
           "nóng yè fàn zuì",
-          "krim agrikol"
+          "[krim agrikol]"
         ],
         [
           "纵火",
@@ -251,7 +251,7 @@ window.BOOK_DATA[21] = {
           "fr/10485.mp3",
           "zh/10485.mp3",
           "zòng huǒ",
-          "kometrlasädi"
+          "[kometrlasädi]"
         ],
         [
           "纵火犯",
@@ -260,7 +260,7 @@ window.BOOK_DATA[21] = {
           "fr/10486.mp3",
           "zh/10486.mp3",
           "zòng huǒ fàn",
-          "&sádjer"
+          "[&sádjer]"
         ],
         [
           "杀手",
@@ -269,7 +269,7 @@ window.BOOK_DATA[21] = {
           "fr/10487.mp3",
           "zh/10487.mp3",
           "shā shǒu",
-          "tyr"
+          "[tyr]"
         ],
         [
           "性骚扰",
@@ -278,7 +278,7 @@ window.BOOK_DATA[21] = {
           "fr/10488.mp3",
           "zh/10488.mp3",
           "xìng sāo rǎo",
-          "trakasri seksuel"
+          "[trakasri seksuel]"
         ],
         [
           "黑市",
@@ -287,7 +287,7 @@ window.BOOK_DATA[21] = {
           "fr/10489.mp3",
           "zh/10489.mp3",
           "hēi shì",
-          "marfe nwar"
+          "[marfe nwar]"
         ],
         [
           "用炸弹袭击",
@@ -296,7 +296,7 @@ window.BOOK_DATA[21] = {
           "fr/10490.mp3",
           "zh/10490.mp3",
           "yòng zhà dàn xí jī",
-          "bšbardamá"
+          "[bšbardamá]"
         ],
         [
           "非法的",
@@ -305,7 +305,7 @@ window.BOOK_DATA[21] = {
           "fr/10491.mp3",
           "zh/10491.mp3",
           "fēi fǎ de",
-          "kládest&,in"
+          "[kládest&,in]"
         ],
         [
           "赂",
@@ -314,7 +314,7 @@ window.BOOK_DATA[21] = {
           "fr/10492.mp3",
           "zh/10492.mp3",
           "lù",
-          "koröpr"
+          "[koröpr]"
         ],
         [
           "窃听",
@@ -323,7 +323,7 @@ window.BOOK_DATA[21] = {
           "fr/10493.mp3",
           "zh/10493.mp3",
           "qiè tīng",
-          "ekute o port"
+          "[ekute o port]"
         ],
         [
           "骗局",
@@ -332,7 +332,7 @@ window.BOOK_DATA[21] = {
           "fr/10494.mp3",
           "zh/10494.mp3",
           "piàn jú",
-          "ku m5te"
+          "[ku m5te]"
         ],
         [
           "伪证罪",
@@ -341,7 +341,7 @@ window.BOOK_DATA[21] = {
           "fr/10495.mp3",
           "zh/10495.mp3",
           "wěi zhèng zuì",
-          "par3yr"
+          "[par3yr]"
         ],
         [
           "叛国",
@@ -350,7 +350,7 @@ window.BOOK_DATA[21] = {
           "fr/10496.mp3",
           "zh/10496.mp3",
           "pàn guó",
-          "traiz nasjonal"
+          "[traiz nasjonal]"
         ],
         [
           "背叛",
@@ -359,7 +359,7 @@ window.BOOK_DATA[21] = {
           "fr/10497.mp3",
           "zh/10497.mp3",
           "bèi pàn",
-          "dezersjδ"
+          "[dezersjδ]"
         ],
         [
           "绑架",
@@ -368,7 +368,7 @@ window.BOOK_DATA[21] = {
           "fr/10498.mp3",
           "zh/10498.mp3",
           "bǎng jià",
-          "kidnape"
+          "[kidnape]"
         ]
       ],
       "s": [
@@ -417,7 +417,7 @@ window.BOOK_DATA[21] = {
           "",
           "zh/10503.mp3",
           "shēng míng",
-          "deklaraasj5"
+          "[deklaraasj5]"
         ],
         [
           "",
@@ -426,7 +426,7 @@ window.BOOK_DATA[21] = {
           "fr/10504.mp3",
           "",
           "",
-          "bwatijaát"
+          "[bwatijaát]"
         ],
         [
           "不合节奏的",
@@ -453,7 +453,7 @@ window.BOOK_DATA[21] = {
           "",
           "zh/10507.mp3",
           "mì mì de",
-          "klädest,in"
+          "[klädest,in]"
         ],
         [
           "",
@@ -462,7 +462,7 @@ window.BOOK_DATA[21] = {
           "fr/10508.mp3",
           "",
           "",
-          "rwajo:m"
+          "[rwajo:m]"
         ],
         [
           "王国",
@@ -480,7 +480,7 @@ window.BOOK_DATA[21] = {
           "fr/10510.mp3",
           "",
           "",
-          "libera(asj5"
+          "[libera(asj5]"
         ],
         [
           "解放解救",

@@ -16,7 +16,7 @@ window.BOOK_DATA[10] = {
           "fr/07339.mp3",
           "zh/07339.mp3",
           "rì bào",
-          "kotidje"
+          "[kotidje]"
         ],
         [
           "晨报",
@@ -25,7 +25,7 @@ window.BOOK_DATA[10] = {
           "fr/07340.mp3",
           "zh/07340.mp3",
           "chén bào",
-          "3urno dy mat&"
+          "[3urno dy mat&]"
         ],
         [
           "晚报",
@@ -34,7 +34,7 @@ window.BOOK_DATA[10] = {
           "fr/07342.mp3",
           "zh/07342.mp3",
           "wǎn bào",
-          "3urnal dy swar"
+          "[3urnal dy swar]"
         ],
         [
           "提前出版的",
@@ -43,7 +43,7 @@ window.BOOK_DATA[10] = {
           "fr/07343.mp3",
           "zh/07343.mp3",
           "tí qián chū bǎn de",
-          "pyblije avá"
+          "[pyblije avá]"
         ],
         [
           "新闻",
@@ -52,7 +52,7 @@ window.BOOK_DATA[10] = {
           "fr/07344.mp3",
           "zh/07344.mp3",
           "xīn wén",
-          "nuvel"
+          "[nuvel]"
         ],
         [
           "新闻体",
@@ -61,7 +61,7 @@ window.BOOK_DATA[10] = {
           "fr/07345.mp3",
           "zh/07345.mp3",
           "xīn wén tǐ",
-          "stil zurnalistik"
+          "[stil zurnalistik]"
         ],
         [
           "评论员",
@@ -70,7 +70,7 @@ window.BOOK_DATA[10] = {
           "fr/07346.mp3",
           "zh/07346.mp3",
           "píng lùn yuán",
-          "komátatr,tris"
+          "[komátatr,tris]"
         ],
         [
           "常驻记者",
@@ -79,7 +79,7 @@ window.BOOK_DATA[10] = {
           "fr/07347.mp3",
           "zh/07347.mp3",
           "cháng zhù jì zhě",
-          "koresp5dä permaná"
+          "[koresp5dä permaná]"
         ],
         [
           "特派记者",
@@ -88,7 +88,7 @@ window.BOOK_DATA[10] = {
           "fr/07348.mp3",
           "zh/07348.mp3",
           "tè pài jì zhě",
-          "ávwaje spesjal"
+          "[ávwaje spesjal]"
         ],
         [
           "文摘",
@@ -97,7 +97,7 @@ window.BOOK_DATA[10] = {
           "fr/07349.mp3",
           "zh/07349.mp3",
           "wén zhāi",
-          "abre3e"
+          "[abre3e]"
         ],
         [
           "周刊",
@@ -106,7 +106,7 @@ window.BOOK_DATA[10] = {
           "fr/07350.mp3",
           "zh/07350.mp3",
           "zhōu kān",
-          "ebdomader"
+          "[ebdomader]"
         ],
         [
           "社论",
@@ -115,7 +115,7 @@ window.BOOK_DATA[10] = {
           "fr/07351.mp3",
           "zh/07351.mp3",
           "shè lùn",
-          "editorjal"
+          "[editorjal]"
         ],
         [
           "半月刊",
@@ -124,7 +124,7 @@ window.BOOK_DATA[10] = {
           "fr/07352.mp3",
           "zh/07352.mp3",
           "bàn yuè kān",
-          "r(a)vy bimásyel"
+          "[r(a)vy bimásyel]"
         ],
         [
           "月刊",
@@ -133,7 +133,7 @@ window.BOOK_DATA[10] = {
           "fr/07353.mp3",
           "zh/07353.mp3",
           "yuè kān",
-          "pyblikasj mäsyel"
+          "[pyblikasj mäsyel]"
         ],
         [
           "季刊",
@@ -142,7 +142,7 @@ window.BOOK_DATA[10] = {
           "fr/07354.mp3",
           "zh/07354.mp3",
           "jì kān",
-          "ra)vy trimestrijel"
+          "[ra)vy trimestrijel]"
         ],
         [
           "年刊",
@@ -151,7 +151,7 @@ window.BOOK_DATA[10] = {
           "fr/07355.mp3",
           "zh/07355.mp3",
           "nián kān",
-          "anyer"
+          "[anyer]"
         ]
       ],
       "s": [
@@ -200,7 +200,7 @@ window.BOOK_DATA[10] = {
           "fr/07360.mp3",
           "zh/07360.mp3",
           "qī zǐ tài tài",
-          "fam"
+          "[fam]"
         ],
         [
           "作品",
@@ -209,7 +209,7 @@ window.BOOK_DATA[10] = {
           "fr/07361.mp3",
           "zh/07361.mp3",
           "zuò pǐn",
-          "uvra3"
+          "[uvra3]"
         ],
         [
           "星期",
@@ -218,7 +218,7 @@ window.BOOK_DATA[10] = {
           "fr/07362.mp3",
           "zh/07362.mp3",
           "xīng qī",
-          "samen"
+          "[samen]"
         ],
         [
           "日报",
@@ -242,7 +242,7 @@ window.BOOK_DATA[10] = {
           "fr/07364.mp3",
           "zh/07364.mp3",
           "zhuān lán",
-          "rybrik"
+          "[rybrik]"
         ],
         [
           "插图",
@@ -251,7 +251,7 @@ window.BOOK_DATA[10] = {
           "fr/07365.mp3",
           "zh/07365.mp3",
           "chā tú",
-          "ilystrasj5"
+          "[ilystrasj5]"
         ],
         [
           "封面",
@@ -260,7 +260,7 @@ window.BOOK_DATA[10] = {
           "fr/07366.mp3",
           "zh/07366.mp3",
           "fēng miàn",
-          "kuvertyr"
+          "[kuvertyr]"
         ],
         [
           "独家新闻",
@@ -269,7 +269,7 @@ window.BOOK_DATA[10] = {
           "fr/07367.mp3",
           "zh/07367.mp3",
           "dú jiā xīn wén",
-          "r(a)porta3 eksklyzif"
+          "[r(a)porta3 eksklyzif]"
         ],
         [
           "通讯社",
@@ -278,7 +278,7 @@ window.BOOK_DATA[10] = {
           "fr/07368.mp3",
           "zh/07368.mp3",
           "tōng xùn shè",
-          "azäs da pres"
+          "[azäs da pres]"
         ],
         [
           "记者招待会",
@@ -287,7 +287,7 @@ window.BOOK_DATA[10] = {
           "fr/07369.mp3",
           "zh/07369.mp3",
           "jì zhě zhāo dài huì",
-          "kferäs da pres"
+          "[kferäs da pres]"
         ],
         [
           "趣闻轶事",
@@ -296,7 +296,7 @@ window.BOOK_DATA[10] = {
           "fr/07370.mp3",
           "zh/07370.mp3",
           "qù wén yì shì",
-          "anekdot"
+          "[anekdot]"
         ],
         [
           "夸张",
@@ -305,7 +305,7 @@ window.BOOK_DATA[10] = {
           "fr/07371.mp3",
           "zh/07371.mp3",
           "kuā zhāng",
-          "äfaz"
+          "[äfaz]"
         ],
         [
           "大标题",
@@ -323,7 +323,7 @@ window.BOOK_DATA[10] = {
           "fr/07373.mp3",
           "zh/07373.mp3",
           "jiē lù",
-          "devwale"
+          "[devwale]"
         ],
         [
           "丑闻",
@@ -332,7 +332,7 @@ window.BOOK_DATA[10] = {
           "fr/07374.mp3",
           "zh/07374.mp3",
           "chǒu wén",
-          "skädal"
+          "[skädal]"
         ],
         [
           "新闻正文",
@@ -341,7 +341,7 @@ window.BOOK_DATA[10] = {
           "fr/07375.mp3",
           "zh/07375.mp3",
           "xīn wén zhèng wén",
-          "tekst nuvel"
+          "[tekst nuvel]"
         ],
         [
           "特写",
@@ -350,7 +350,7 @@ window.BOOK_DATA[10] = {
           "fr/07376.mp3",
           "zh/07376.mp3",
           "tè xiě",
-          "r(a)porta3 spesjal"
+          "[r(a)porta3 spesjal]"
         ],
         [
           "说明文字",
@@ -359,7 +359,7 @@ window.BOOK_DATA[10] = {
           "fr/07377.mp3",
           "zh/07377.mp3",
           "shuō míng wén zì",
-          "lezád"
+          "[lezád]"
         ],
         [
           "漫画",
@@ -368,7 +368,7 @@ window.BOOK_DATA[10] = {
           "fr/07378.mp3",
           "zh/07378.mp3",
           "màn huà",
-          "karikatyr"
+          "[karikatyr]"
         ]
       ],
       "s": [
@@ -408,7 +408,7 @@ window.BOOK_DATA[10] = {
           "fr/07382.mp3",
           "",
           "",
-          "milener"
+          "[milener]"
         ],
         [
           "千年的",
@@ -426,7 +426,7 @@ window.BOOK_DATA[10] = {
           "fr/07384.mp3",
           "",
           "",
-          "imortel"
+          "[imortel]"
         ],
         [
           "不灭的",

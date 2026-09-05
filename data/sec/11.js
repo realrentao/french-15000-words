@@ -16,7 +16,7 @@ window.BOOK_DATA[11] = {
           "fr/07387.mp3",
           "zh/07387.mp3",
           "diàn",
-          "butik"
+          "[butik]"
         ],
         [
           "网址",
@@ -25,7 +25,7 @@ window.BOOK_DATA[11] = {
           "fr/07388.mp3",
           "zh/07388.mp3",
           "wǎng zhǐ",
-          "web sit"
+          "[web sit]"
         ],
         [
           "网购",
@@ -34,7 +34,7 @@ window.BOOK_DATA[11] = {
           "fr/07389.mp3",
           "zh/07389.mp3",
           "wǎng gòu",
-          "fer de afa a lin"
+          "[fer de afa a lin]"
         ],
         [
           "推销活动",
@@ -52,7 +52,7 @@ window.BOOK_DATA[11] = {
           "fr/07391.mp3",
           "zh/07391.mp3",
           "xún wèn zhě",
-          "vizitxr"
+          "[vizitxr]"
         ],
         [
           "忠诚度",
@@ -61,7 +61,7 @@ window.BOOK_DATA[11] = {
           "fr/07392.mp3",
           "zh/07392.mp3",
           "zhōng chéng dù",
-          "fidelite"
+          "[fidelite]"
         ],
         [
           "输入",
@@ -70,7 +70,7 @@ window.BOOK_DATA[11] = {
           "fr/07393.mp3",
           "zh/07393.mp3",
           "shū rù",
-          "&porte"
+          "[&porte]"
         ],
         [
           "创办者",
@@ -79,7 +79,7 @@ window.BOOK_DATA[11] = {
           "fr/07394.mp3",
           "zh/07394.mp3",
           "chuàng bàn zhě",
-          "f5dater"
+          "[f5dater]"
         ],
         [
           "选择",
@@ -97,7 +97,7 @@ window.BOOK_DATA[11] = {
           "fr/07396.mp3",
           "zh/07396.mp3",
           "duì bǐ",
-          "kštrast"
+          "[kštrast]"
         ],
         [
           "认同",
@@ -106,7 +106,7 @@ window.BOOK_DATA[11] = {
           "fr/07397.mp3",
           "zh/07397.mp3",
           "rèn tóng",
-          "idätite"
+          "[idätite]"
         ],
         [
           "部分退款",
@@ -124,7 +124,7 @@ window.BOOK_DATA[11] = {
           "fr/07399.mp3",
           "zh/07399.mp3",
           "liáo tiān",
-          "bavarde"
+          "[bavarde]"
         ],
         [
           "信誉",
@@ -142,7 +142,7 @@ window.BOOK_DATA[11] = {
           "fr/07402.mp3",
           "zh/07402.mp3",
           "mǎi jiā",
-          "aftxer"
+          "[aftxer]"
         ]
       ],
       "s": [
@@ -200,7 +200,7 @@ window.BOOK_DATA[11] = {
           "fr/07408.mp3",
           "zh/07408.mp3",
           "xǐ huān",
-          "adore"
+          "[adore]"
         ],
         [
           "买",
@@ -209,7 +209,7 @@ window.BOOK_DATA[11] = {
           "fr/07409.mp3",
           "zh/07409.mp3",
           "mǎi",
-          "afte"
+          "[afte]"
         ],
         [
           "",
@@ -218,7 +218,7 @@ window.BOOK_DATA[11] = {
           "fr/07410.mp3",
           "",
           "",
-          "azitaasjδ"
+          "[azitaasjδ]"
         ],
         [
           "付款",
@@ -227,7 +227,7 @@ window.BOOK_DATA[11] = {
           "fr/07411.mp3",
           "zh/07411.mp3",
           "fù kuǎn",
-          "pejmä"
+          "[pejmä]"
         ]
       ]
     },
@@ -242,7 +242,7 @@ window.BOOK_DATA[11] = {
           "fr/07412.mp3",
           "zh/07412.mp3",
           "yóu xì",
-          "30"
+          "[30]"
         ],
         [
           "角色",
@@ -251,7 +251,7 @@ window.BOOK_DATA[11] = {
           "fr/07413.mp3",
           "zh/07413.mp3",
           "jué sè",
-          "rol"
+          "[rol]"
         ],
         [
           "攻击",
@@ -260,7 +260,7 @@ window.BOOK_DATA[11] = {
           "fr/07414.mp3",
           "zh/07414.mp3",
           "gōng jī",
-          "atake"
+          "[atake]"
         ],
         [
           "防御",
@@ -269,7 +269,7 @@ window.BOOK_DATA[11] = {
           "fr/07415.mp3",
           "zh/07415.mp3",
           "fáng yù",
-          "defäs"
+          "[defäs]"
         ],
         [
           "玩家",
@@ -278,7 +278,7 @@ window.BOOK_DATA[11] = {
           "fr/07416.mp3",
           "zh/07416.mp3",
           "wán jiā",
-          "3wr"
+          "[3wr]"
         ],
         [
           "上瘾的",
@@ -287,7 +287,7 @@ window.BOOK_DATA[11] = {
           "fr/07417.mp3",
           "zh/07417.mp3",
           "shàng yǐn de",
-          "adiktif, iv"
+          "[adiktif, iv]"
         ],
         [
           "伤害",
@@ -296,7 +296,7 @@ window.BOOK_DATA[11] = {
           "fr/07418.mp3",
           "zh/07418.mp3",
           "shāng hài",
-          "blese"
+          "[blese]"
         ],
         [
           "属性",
@@ -305,7 +305,7 @@ window.BOOK_DATA[11] = {
           "fr/07419.mp3",
           "zh/07419.mp3",
           "shǔ xìng",
-          "ineras"
+          "[ineras]"
         ],
         [
           "护甲",
@@ -314,7 +314,7 @@ window.BOOK_DATA[11] = {
           "fr/07420.mp3",
           "zh/07420.mp3",
           "hù jiǎ",
-          "armyr"
+          "[armyr]"
         ],
         [
           "耐力",
@@ -323,7 +323,7 @@ window.BOOK_DATA[11] = {
           "fr/07421.mp3",
           "zh/07421.mp3",
           "nài lì",
-          "ádyräs"
+          "[ádyräs]"
         ],
         [
           "智力",
@@ -332,7 +332,7 @@ window.BOOK_DATA[11] = {
           "fr/07422.mp3",
           "zh/07422.mp3",
           "zhì lì",
-          "&telizäs"
+          "[&telizäs]"
         ],
         [
           "体力",
@@ -341,7 +341,7 @@ window.BOOK_DATA[11] = {
           "fr/07423.mp3",
           "zh/07423.mp3",
           "tǐ lì",
-          "fors fizik"
+          "[fors fizik]"
         ],
         [
           "法师",
@@ -350,7 +350,7 @@ window.BOOK_DATA[11] = {
           "fr/07424.mp3",
           "zh/07424.mp3",
           "fǎ shī",
-          "master"
+          "[master]"
         ],
         [
           "经验值",
@@ -359,7 +359,7 @@ window.BOOK_DATA[11] = {
           "fr/07425.mp3",
           "zh/07425.mp3",
           "jīng yàn zhí",
-          "eksperjas"
+          "[eksperjas]"
         ],
         [
           "游戏机",
@@ -368,7 +368,7 @@ window.BOOK_DATA[11] = {
           "fr/07426.mp3",
           "zh/07426.mp3",
           "yóu xì jī",
-          "vide0 30"
+          "[vide0 30]"
         ],
         [
           "游戏者",
@@ -377,7 +377,7 @@ window.BOOK_DATA[11] = {
           "fr/07427.mp3",
           "zh/07427.mp3",
           "yóu xì zhě",
-          "3wr,z"
+          "[3wr,z]"
         ],
         [
           "游戏卡",
@@ -386,7 +386,7 @@ window.BOOK_DATA[11] = {
           "fr/07428.mp3",
           "zh/07428.mp3",
           "yóu xì kǎ",
-          "disketda video 30"
+          "[disketda video 30]"
         ]
       ],
       "s": [
@@ -435,7 +435,7 @@ window.BOOK_DATA[11] = {
           "fr/07433.mp3",
           "zh/07433.mp3",
           "xǐ jù",
-          "komedi"
+          "[komedi]"
         ],
         [
           "悲剧",
@@ -453,7 +453,7 @@ window.BOOK_DATA[11] = {
           "fr/07435.mp3",
           "zh/07435.mp3",
           "shǒu hù shén",
-          "dem"
+          "[dem]"
         ],
         [
           "",
@@ -462,7 +462,7 @@ window.BOOK_DATA[11] = {
           "fr/07436.mp3",
           "",
           "",
-          "siklist"
+          "[siklist]"
         ],
         [
           "骑自行车的人",
@@ -480,7 +480,7 @@ window.BOOK_DATA[11] = {
           "fr/07438.mp3",
           "",
           "",
-          "devo)sj5"
+          "[devo)sj5]"
         ],
         [
           "虔诚",

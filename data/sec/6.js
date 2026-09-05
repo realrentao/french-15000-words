@@ -16,7 +16,7 @@ window.BOOK_DATA[6] = {
           "fr/06577.mp3",
           "zh/06577.mp3",
           "wǔ dǎo",
-          "däs"
+          "[däs]"
         ],
         [
           "舞者",
@@ -25,7 +25,7 @@ window.BOOK_DATA[6] = {
           "fr/06578.mp3",
           "zh/06578.mp3",
           "wǔ zhě",
-          "dasor,oz"
+          "[dasor,oz]"
         ],
         [
           "舞姿",
@@ -34,7 +34,7 @@ window.BOOK_DATA[6] = {
           "fr/06579.mp3",
           "zh/06579.mp3",
           "wǔ zī",
-          "figyr"
+          "[figyr]"
         ],
         [
           "跳舞",
@@ -43,7 +43,7 @@ window.BOOK_DATA[6] = {
           "fr/06580.mp3",
           "zh/06580.mp3",
           "tiào wǔ",
-          "däse"
+          "[däse]"
         ],
         [
           "舞鞋",
@@ -52,7 +52,7 @@ window.BOOK_DATA[6] = {
           "fr/06581.mp3",
           "zh/06581.mp3",
           "wǔ xié",
-          "os5"
+          "[os5]"
         ],
         [
           "舞步",
@@ -61,7 +61,7 @@ window.BOOK_DATA[6] = {
           "fr/06582.mp3",
           "zh/06582.mp3",
           "wǔ bù",
-          "pa da däs"
+          "[pa da däs]"
         ],
         [
           "节奏",
@@ -70,7 +70,7 @@ window.BOOK_DATA[6] = {
           "fr/06583.mp3",
           "zh/06583.mp3",
           "jié zòu",
-          "ritm"
+          "[ritm]"
         ],
         [
           "探戈",
@@ -79,7 +79,7 @@ window.BOOK_DATA[6] = {
           "fr/06584.mp3",
           "zh/06584.mp3",
           "tàn gē",
-          "tago"
+          "[tago]"
         ],
         [
           "芭蕾舞",
@@ -88,7 +88,7 @@ window.BOOK_DATA[6] = {
           "fr/06585.mp3",
           "zh/06585.mp3",
           "bā lěi wǔ",
-          "bale"
+          "[bale]"
         ],
         [
           "华尔兹",
@@ -97,7 +97,7 @@ window.BOOK_DATA[6] = {
           "fr/06586.mp3",
           "zh/06586.mp3",
           "huá ěr zī",
-          "vals"
+          "[vals]"
         ],
         [
           "钢管舞",
@@ -106,7 +106,7 @@ window.BOOK_DATA[6] = {
           "fr/06587.mp3",
           "zh/06587.mp3",
           "gāng guǎn wǔ",
-          "pol dásin"
+          "[pol dásin]"
         ],
         [
           "摇摆舞",
@@ -124,7 +124,7 @@ window.BOOK_DATA[6] = {
           "fr/06589.mp3",
           "zh/06589.mp3",
           "lún bā sāng bā wǔ",
-          "rumba"
+          "[rumba]"
         ],
         [
           "恰恰",
@@ -133,7 +133,7 @@ window.BOOK_DATA[6] = {
           "fr/06590.mp3",
           "zh/06590.mp3",
           "qià qià",
-          "t"
+          "[t]"
         ],
         [
           "迪斯科爵士舞跳舞",
@@ -142,7 +142,7 @@ window.BOOK_DATA[6] = {
           "fr/06591.mp3",
           "zh/06591.mp3",
           "dí sī kē jué shì wǔ tiào wǔ",
-          "disko"
+          "[disko]"
         ]
       ],
       "s": [
@@ -182,7 +182,7 @@ window.BOOK_DATA[6] = {
           "fr/06595.mp3",
           "zh/06595.mp3",
           "zī shì",
-          "3est"
+          "[3est]"
         ],
         [
           "",
@@ -191,7 +191,7 @@ window.BOOK_DATA[6] = {
           "fr/06596.mp3",
           "",
           "",
-          "eskargo"
+          "[eskargo]"
         ],
         [
           "蜗牛",
@@ -209,7 +209,7 @@ window.BOOK_DATA[6] = {
           "fr/06598.mp3",
           "",
           "",
-          "kšpan5"
+          "[kšpan5]"
         ],
         [
           "伴侣",
@@ -242,7 +242,7 @@ window.BOOK_DATA[6] = {
           "fr/06601.mp3",
           "zh/06601.mp3",
           "yú jiā xué xí bān",
-          "kur da joga"
+          "[kur da joga]"
         ],
         [
           "柔韧度",
@@ -251,7 +251,7 @@ window.BOOK_DATA[6] = {
           "fr/06602.mp3",
           "zh/06602.mp3",
           "róu rèn dù",
-          "fleksibilite"
+          "[fleksibilite]"
         ],
         [
           "起源于",
@@ -260,7 +260,7 @@ window.BOOK_DATA[6] = {
           "fr/06603.mp3",
           "zh/06603.mp3",
           "qǐ yuán yú",
-          "prosede"
+          "[prosede]"
         ],
         [
           "人生哲学",
@@ -269,7 +269,7 @@ window.BOOK_DATA[6] = {
           "fr/06604.mp3",
           "zh/06604.mp3",
           "rén shēng zhé xué",
-          "filbzofi da vi"
+          "[filbzofi da vi]"
         ],
         [
           "挑战",
@@ -278,7 +278,7 @@ window.BOOK_DATA[6] = {
           "fr/06605.mp3",
           "zh/06605.mp3",
           "tiǎo zhàn",
-          "defje"
+          "[defje]"
         ],
         [
           "呼吸",
@@ -287,7 +287,7 @@ window.BOOK_DATA[6] = {
           "fr/06606.mp3",
           "zh/06606.mp3",
           "hū xī",
-          "respire"
+          "[respire]"
         ],
         [
           "呼吸",
@@ -296,7 +296,7 @@ window.BOOK_DATA[6] = {
           "fr/06607.mp3",
           "zh/06607.mp3",
           "hū xī",
-          "aspire"
+          "[aspire]"
         ],
         [
           "吸气",
@@ -305,7 +305,7 @@ window.BOOK_DATA[6] = {
           "fr/06608.mp3",
           "zh/06608.mp3",
           "xī qì",
-          "éspirasj5"
+          "[éspirasj5]"
         ],
         [
           "吸气",
@@ -314,7 +314,7 @@ window.BOOK_DATA[6] = {
           "fr/06609.mp3",
           "zh/06609.mp3",
           "xī qì",
-          "aspirasj5"
+          "[aspirasj5]"
         ],
         [
           "放松",
@@ -323,7 +323,7 @@ window.BOOK_DATA[6] = {
           "fr/06610.mp3",
           "zh/06610.mp3",
           "fàng sōng",
-          "ralafe"
+          "[ralafe]"
         ],
         [
           "重复",
@@ -332,7 +332,7 @@ window.BOOK_DATA[6] = {
           "fr/06611.mp3",
           "zh/06611.mp3",
           "chóng fù",
-          "repete"
+          "[repete]"
         ],
         [
           "循环",
@@ -341,7 +341,7 @@ window.BOOK_DATA[6] = {
           "fr/06612.mp3",
           "zh/06612.mp3",
           "xún huán",
-          "sirkyle"
+          "[sirkyle]"
         ],
         [
           "举起",
@@ -350,7 +350,7 @@ window.BOOK_DATA[6] = {
           "fr/06614.mp3",
           "zh/06614.mp3",
           "jǔ qǐ",
-          "elve"
+          "[elve]"
         ],
         [
           "瑜伽服",
@@ -359,7 +359,7 @@ window.BOOK_DATA[6] = {
           "fr/06615.mp3",
           "zh/06615.mp3",
           "yú jiā fú",
-          "vetmä da joga"
+          "[vetmä da joga]"
         ],
         [
           "瑜伽垫",
@@ -368,7 +368,7 @@ window.BOOK_DATA[6] = {
           "fr/06617.mp3",
           "zh/06617.mp3",
           "yú jiā diàn",
-          "tapi da joga"
+          "[tapi da joga]"
         ],
         [
           "热身运动",
@@ -377,7 +377,7 @@ window.BOOK_DATA[6] = {
           "fr/06618.mp3",
           "zh/06618.mp3",
           "rè shēn yùn dòng",
-          "muvmá defofmá"
+          "[muvmá defofmá]"
         ],
         [
           "平地",
@@ -386,7 +386,7 @@ window.BOOK_DATA[6] = {
           "fr/06619.mp3",
           "zh/06619.mp3",
           "píng dì",
-          "ter pla"
+          "[ter pla]"
         ],
         [
           "躺下",
@@ -426,7 +426,7 @@ window.BOOK_DATA[6] = {
           "fr/06623.mp3",
           "zh/06623.mp3",
           "chuán rǎn",
-          "feosj5"
+          "[feosj5]"
         ],
         [
           "",
@@ -462,7 +462,7 @@ window.BOOK_DATA[6] = {
           "",
           "zh/06627.mp3",
           "fán zhí",
-          "proliferasj5"
+          "[proliferasj5]"
         ]
       ]
     },
@@ -477,7 +477,7 @@ window.BOOK_DATA[6] = {
           "fr/06628.mp3",
           "zh/06628.mp3",
           "bǎo líng qiú",
-          "bulin"
+          "[bulin]"
         ],
         [
           "保龄球场",
@@ -486,7 +486,7 @@ window.BOOK_DATA[6] = {
           "fr/06629.mp3",
           "zh/06629.mp3",
           "bǎo líng qiú chǎng",
-          "stad da bulin"
+          "[stad da bulin]"
         ],
         [
           "玩保龄球的人",
@@ -495,7 +495,7 @@ window.BOOK_DATA[6] = {
           "fr/06630.mp3",
           "zh/06630.mp3",
           "wán bǎo líng qiú de rén",
-          "mábr da bulin"
+          "[mábr da bulin]"
         ],
         [
           "扔保龄球",
@@ -504,7 +504,7 @@ window.BOOK_DATA[6] = {
           "fr/06631.mp3",
           "zh/06631.mp3",
           "rēng bǎo líng qiú",
-          "lase"
+          "[lase]"
         ],
         [
           "助跑",
@@ -522,7 +522,7 @@ window.BOOK_DATA[6] = {
           "fr/06633.mp3",
           "zh/06633.mp3",
           "zì dòng huàn píng jī",
-          "butej rap"
+          "[butej rap]"
         ],
         [
           "平均分",
@@ -531,7 +531,7 @@ window.BOOK_DATA[6] = {
           "fr/06634.mp3",
           "zh/06634.mp3",
           "píng jūn fēn",
-          "pwa mwajê"
+          "[pwa mwajê]"
         ],
         [
           "疏忽",
@@ -540,7 +540,7 @@ window.BOOK_DATA[6] = {
           "fr/06635.mp3",
           "zh/06635.mp3",
           "shū hū",
-          "neglizäs"
+          "[neglizäs]"
         ],
         [
           "偏离",
@@ -549,7 +549,7 @@ window.BOOK_DATA[6] = {
           "fr/06636.mp3",
           "zh/06636.mp3",
           "piān lí",
-          "devje"
+          "[devje]"
         ],
         [
           "投掷",
@@ -558,7 +558,7 @@ window.BOOK_DATA[6] = {
           "fr/06637.mp3",
           "zh/06637.mp3",
           "tóu zhì",
-          "lásma"
+          "[lásma]"
         ],
         [
           "敲",
@@ -567,7 +567,7 @@ window.BOOK_DATA[6] = {
           "fr/06638.mp3",
           "zh/06638.mp3",
           "qiāo",
-          "frape"
+          "[frape]"
         ],
         [
           "从左边到右边",
@@ -576,7 +576,7 @@ window.BOOK_DATA[6] = {
           "fr/06639.mp3",
           "zh/06639.mp3",
           "cóng zuǒ biān dào yòu biān",
-          "da gof a drwat"
+          "[da gof a drwat]"
         ],
         [
           "打",
@@ -585,7 +585,7 @@ window.BOOK_DATA[6] = {
           "fr/06640.mp3",
           "zh/06640.mp3",
           "dǎ",
-          "batr"
+          "[batr]"
         ],
         [
           "姿势扔保龄球",
@@ -594,7 +594,7 @@ window.BOOK_DATA[6] = {
           "fr/06641.mp3",
           "zh/06641.mp3",
           "zī shì rēng bǎo líng qiú",
-          "postyr"
+          "[postyr]"
         ]
       ],
       "s": [
@@ -652,7 +652,7 @@ window.BOOK_DATA[6] = {
           "",
           "zh/06647.mp3",
           "shǐ rén fán nǎo de",
-          "anyij,z"
+          "[anyij,z]"
         ],
         [
           "攻击",
@@ -661,7 +661,7 @@ window.BOOK_DATA[6] = {
           "fr/06648.mp3",
           "zh/06648.mp3",
           "gōng jī",
-          "atak"
+          "[atak]"
         ],
         [
           "棒",
@@ -670,7 +670,7 @@ window.BOOK_DATA[6] = {
           "fr/06649.mp3",
           "zh/06649.mp3",
           "bàng",
-          "bat"
+          "[bat]"
         ],
         [
           "朋友",
@@ -679,7 +679,7 @@ window.BOOK_DATA[6] = {
           "fr/06650.mp3",
           "zh/06650.mp3",
           "péng yǒu",
-          "pot"
+          "[pot]"
         ]
       ]
     },
@@ -694,7 +694,7 @@ window.BOOK_DATA[6] = {
           "fr/06651.mp3",
           "zh/06651.mp3",
           "liū bīng",
-          "patine"
+          "[patine]"
         ],
         [
           "溜冰",
@@ -703,7 +703,7 @@ window.BOOK_DATA[6] = {
           "fr/06652.mp3",
           "zh/06652.mp3",
           "liū bīng",
-          "patinaz"
+          "[patinaz]"
         ],
         [
           "溜冰鞋",
@@ -712,7 +712,7 @@ window.BOOK_DATA[6] = {
           "fr/06653.mp3",
           "zh/06653.mp3",
           "liū bīng xié",
-          "pata glas"
+          "[pata glas]"
         ],
         [
           "旱冰鞋",
@@ -721,7 +721,7 @@ window.BOOK_DATA[6] = {
           "fr/06654.mp3",
           "zh/06654.mp3",
           "hàn bīng xié",
-          "pata rulet"
+          "[pata rulet]"
         ],
         [
           "滑冰场",
@@ -730,7 +730,7 @@ window.BOOK_DATA[6] = {
           "fr/06655.mp3",
           "zh/06655.mp3",
           "huá bīng chǎng",
-          "patinwar"
+          "[patinwar]"
         ],
         [
           "滑冰场",
@@ -739,7 +739,7 @@ window.BOOK_DATA[6] = {
           "fr/06656.mp3",
           "zh/06656.mp3",
           "huá bīng chǎng",
-          "pist da patinaz"
+          "[pist da patinaz]"
         ],
         [
           "冰上舞蹈",
@@ -748,7 +748,7 @@ window.BOOK_DATA[6] = {
           "fr/06657.mp3",
           "zh/06657.mp3",
           "bīng shàng wǔ dǎo",
-          "dás syr glas"
+          "[dás syr glas]"
         ],
         [
           "球的旋转",
@@ -757,7 +757,7 @@ window.BOOK_DATA[6] = {
           "fr/06658.mp3",
           "zh/06658.mp3",
           "qiú de xuán zhuǎn",
-          "efe"
+          "[efe]"
         ],
         [
           "滑",
@@ -766,7 +766,7 @@ window.BOOK_DATA[6] = {
           "fr/06659.mp3",
           "zh/06659.mp3",
           "huá",
-          "glise"
+          "[glise]"
         ],
         [
           "跳跃",
@@ -775,7 +775,7 @@ window.BOOK_DATA[6] = {
           "fr/06660.mp3",
           "zh/06660.mp3",
           "tiào yuè",
-          "bšdir"
+          "[bšdir]"
         ],
         [
           "旋转",
@@ -784,7 +784,7 @@ window.BOOK_DATA[6] = {
           "fr/06661.mp3",
           "zh/06661.mp3",
           "xuán zhuǎn",
-          "turbijone"
+          "[turbijone]"
         ],
         [
           "速度滑冰",
@@ -793,7 +793,7 @@ window.BOOK_DATA[6] = {
           "fr/06663.mp3",
           "zh/06663.mp3",
           "sù dù huá bīng",
-          "patinaz da vites"
+          "[patinaz da vites]"
         ],
         [
           "花样滑冰",
@@ -802,7 +802,7 @@ window.BOOK_DATA[6] = {
           "fr/06664.mp3",
           "zh/06664.mp3",
           "huā yàng huá bīng",
-          "patina3 artistik"
+          "[patina3 artistik]"
         ],
         [
           "滑雪",
@@ -811,7 +811,7 @@ window.BOOK_DATA[6] = {
           "fr/06665.mp3",
           "zh/06665.mp3",
           "huá xuě",
-          "ski"
+          "[ski]"
         ],
         [
           "滑雪服",
@@ -820,7 +820,7 @@ window.BOOK_DATA[6] = {
           "fr/06666.mp3",
           "zh/06666.mp3",
           "huá xuě fú",
-          "kostyme da ski"
+          "[kostyme da ski]"
         ],
         [
           "滑雪的人",
@@ -829,7 +829,7 @@ window.BOOK_DATA[6] = {
           "fr/06667.mp3",
           "zh/06667.mp3",
           "huá xuě de rén",
-          "skjxir,:z"
+          "[skjxir,:z]"
         ],
         [
           "斜坡",
@@ -838,7 +838,7 @@ window.BOOK_DATA[6] = {
           "fr/06668.mp3",
           "zh/06668.mp3",
           "xié pō",
-          "pät"
+          "[pät]"
         ]
       ],
       "s": [
@@ -878,7 +878,7 @@ window.BOOK_DATA[6] = {
           "fr/06672.mp3",
           "zh/06672.mp3",
           "diǎn",
-          "pw"
+          "[pw]"
         ],
         [
           "闲逛",
@@ -887,7 +887,7 @@ window.BOOK_DATA[6] = {
           "fr/06673.mp3",
           "zh/06673.mp3",
           "xián guàng",
-          "flane"
+          "[flane]"
         ],
         [
           "拍卖",
@@ -896,7 +896,7 @@ window.BOOK_DATA[6] = {
           "fr/06674.mp3",
           "zh/06674.mp3",
           "pāi mài",
-          "äer"
+          "[äer]"
         ],
         [
           "",
@@ -905,7 +905,7 @@ window.BOOK_DATA[6] = {
           "fr/06675.mp3",
           "",
           "",
-          "azjatik"
+          "[azjatik]"
         ],
         [
           "亚洲的",
@@ -938,7 +938,7 @@ window.BOOK_DATA[6] = {
           "fr/06678.mp3",
           "zh/06678.mp3",
           "gāo ěr fū qiú yùn dòng",
-          "golf"
+          "[golf]"
         ],
         [
           "高尔夫球手",
@@ -947,7 +947,7 @@ window.BOOK_DATA[6] = {
           "fr/06679.mp3",
           "zh/06679.mp3",
           "gāo ěr fū qiú shǒu",
-          "golfcer"
+          "[golfcer]"
         ],
         [
           "高尔夫球",
@@ -956,7 +956,7 @@ window.BOOK_DATA[6] = {
           "fr/06680.mp3",
           "zh/06680.mp3",
           "gāo ěr fū qiú",
-          "bal de golf"
+          "[bal de golf]"
         ],
         [
           "高尔夫球场",
@@ -965,7 +965,7 @@ window.BOOK_DATA[6] = {
           "fr/06681.mp3",
           "zh/06681.mp3",
           "gāo ěr fū qiú chǎng",
-          "ter da golf"
+          "[ter da golf]"
         ],
         [
           "高尔夫俱乐部",
@@ -974,7 +974,7 @@ window.BOOK_DATA[6] = {
           "fr/06682.mp3",
           "zh/06682.mp3",
           "gāo ěr fū jù lè bù",
-          "golf klxb"
+          "[golf klxb]"
         ],
         [
           "开球人",
@@ -983,7 +983,7 @@ window.BOOK_DATA[6] = {
           "fr/06683.mp3",
           "zh/06683.mp3",
           "kāi qiú rén",
-          "servr"
+          "[servr]"
         ],
         [
           "瞄准",
@@ -992,7 +992,7 @@ window.BOOK_DATA[6] = {
           "fr/06684.mp3",
           "zh/06684.mp3",
           "miáo zhǔn",
-          "pwte"
+          "[pwte]"
         ],
         [
           "洞",
@@ -1001,7 +1001,7 @@ window.BOOK_DATA[6] = {
           "fr/06685.mp3",
           "zh/06685.mp3",
           "dòng",
-          "tru"
+          "[tru]"
         ],
         [
           "弧线",
@@ -1010,7 +1010,7 @@ window.BOOK_DATA[6] = {
           "fr/06686.mp3",
           "zh/06686.mp3",
           "hú xiàn",
-          "kurb"
+          "[kurb]"
         ],
         [
           "沙坑",
@@ -1019,7 +1019,7 @@ window.BOOK_DATA[6] = {
           "fr/06687.mp3",
           "zh/06687.mp3",
           "shā kēng",
-          "fos"
+          "[fos]"
         ],
         [
           "球童",
@@ -1028,7 +1028,7 @@ window.BOOK_DATA[6] = {
           "fr/06688.mp3",
           "zh/06688.mp3",
           "qiú tóng",
-          "kadi"
+          "[kadi]"
         ],
         [
           "球棒",
@@ -1037,7 +1037,7 @@ window.BOOK_DATA[6] = {
           "fr/06689.mp3",
           "zh/06689.mp3",
           "qiú bàng",
-          "klb"
+          "[klb]"
         ],
         [
           "标准观测",
@@ -1046,7 +1046,7 @@ window.BOOK_DATA[6] = {
           "fr/06690.mp3",
           "zh/06690.mp3",
           "biāo zhǔn guān cè",
-          "opservasj5 stádar"
+          "[opservasj5 stádar]"
         ],
         [
           "挥动",
@@ -1055,7 +1055,7 @@ window.BOOK_DATA[6] = {
           "fr/06691.mp3",
           "zh/06691.mp3",
           "huī dòng",
-          "brále"
+          "[brále]"
         ],
         [
           "未击中高尔夫球运动",
@@ -1064,7 +1064,7 @@ window.BOOK_DATA[6] = {
           "fr/06692.mp3",
           "zh/06692.mp3",
           "wèi jī zhòng gāo ěr fū qiú yùn dòng",
-          "rate"
+          "[rate]"
         ]
       ],
       "s": [
@@ -1113,7 +1113,7 @@ window.BOOK_DATA[6] = {
           "fr/06697.mp3",
           "zh/06697.mp3",
           "bīng shuāng",
-          "grel5"
+          "[grel5]"
         ],
         [
           "",
@@ -1122,7 +1122,7 @@ window.BOOK_DATA[6] = {
           "fr/06698.mp3",
           "",
           "",
-          "lkalize"
+          "[lkalize]"
         ],
         [
           "给定位",
@@ -1140,7 +1140,7 @@ window.BOOK_DATA[6] = {
           "fr/06700.mp3",
           "",
           "",
-          "videast"
+          "[videast]"
         ],
         [
           "录像创制人员",
@@ -1164,7 +1164,7 @@ window.BOOK_DATA[6] = {
           "fr/06702.mp3",
           "zh/06702.mp3",
           "zhòng liàng",
-          "pwa"
+          "[pwa]"
         ],
         [
           "肚子大的",
@@ -1173,7 +1173,7 @@ window.BOOK_DATA[6] = {
           "fr/06703.mp3",
           "zh/06703.mp3",
           "dǔ zi dà de",
-          "vátripota,t"
+          "[vátripota,t]"
         ],
         [
           "啤酒肚",
@@ -1182,7 +1182,7 @@ window.BOOK_DATA[6] = {
           "fr/06704.mp3",
           "zh/06704.mp3",
           "pí jiǔ dù",
-          "vatr da bjer"
+          "[vatr da bjer]"
         ],
         [
           "过度肥胖肥胖症",
@@ -1191,7 +1191,7 @@ window.BOOK_DATA[6] = {
           "fr/06705.mp3",
           "zh/06705.mp3",
           "guò dù féi pàng féi pàng zhèng",
-          "bbezite"
+          "[bbezite]"
         ],
         [
           "匀称的",
@@ -1200,7 +1200,7 @@ window.BOOK_DATA[6] = {
           "fr/06706.mp3",
           "zh/06706.mp3",
           "yún chèn de",
-          "proporsjonel"
+          "[proporsjonel]"
         ],
         [
           "皮包骨的",
@@ -1209,7 +1209,7 @@ window.BOOK_DATA[6] = {
           "fr/06707.mp3",
           "zh/06707.mp3",
           "pí bāo gǔ de",
-          "etik"
+          "[etik]"
         ],
         [
           "有曲线美的",
@@ -1218,7 +1218,7 @@ window.BOOK_DATA[6] = {
           "fr/06708.mp3",
           "zh/06708.mp3",
           "yǒu qū xiàn měi de",
-          "siny,z"
+          "[siny,z]"
         ],
         [
           "苗条的",
@@ -1227,7 +1227,7 @@ window.BOOK_DATA[6] = {
           "fr/06709.mp3",
           "zh/06709.mp3",
           "miáo tiáo de",
-          "ms"
+          "[ms]"
         ],
         [
           "游泳",
@@ -1236,7 +1236,7 @@ window.BOOK_DATA[6] = {
           "fr/06710.mp3",
           "zh/06710.mp3",
           "yóu yǒng",
-          "na3e"
+          "[na3e]"
         ],
         [
           "有氧操",
@@ -1245,7 +1245,7 @@ window.BOOK_DATA[6] = {
           "fr/06711.mp3",
           "zh/06711.mp3",
           "yǒu yǎng cāo",
-          "aerobi"
+          "[aerobi]"
         ],
         [
           "规定食谱",
@@ -1254,7 +1254,7 @@ window.BOOK_DATA[6] = {
           "fr/06712.mp3",
           "zh/06712.mp3",
           "guī dìng shí pǔ",
-          "provizj5 r(a)set"
+          "[provizj5 r(a)set]"
         ],
         [
           "健康食品",
@@ -1263,7 +1263,7 @@ window.BOOK_DATA[6] = {
           "fr/06713.mp3",
           "zh/06713.mp3",
           "jiàn kāng shí pǐn",
-          "alimä da sáte"
+          "[alimä da sáte]"
         ],
         [
           "均衡饮食",
@@ -1272,7 +1272,7 @@ window.BOOK_DATA[6] = {
           "fr/06714.mp3",
           "zh/06714.mp3",
           "jūn héng yǐn shí",
-          "alimátasj ekilibre"
+          "[alimátasj ekilibre]"
         ],
         [
           "无盐饮食过度肥胖肥胖症",
@@ -1281,7 +1281,7 @@ window.BOOK_DATA[6] = {
           "fr/06715.mp3",
           "zh/06715.mp3",
           "wú yán yǐn shí guò dù féi pàng féi pàng zhèng",
-          "rezim desode"
+          "[rezim desode]"
         ]
       ],
       "s": [
@@ -1321,7 +1321,7 @@ window.BOOK_DATA[6] = {
           "fr/06719.mp3",
           "zh/06719.mp3",
           "tí gōng",
-          "prete"
+          "[prete]"
         ],
         [
           "",
@@ -1330,7 +1330,7 @@ window.BOOK_DATA[6] = {
           "fr/06720.mp3",
           "",
           "",
-          "manifik"
+          "[manifik]"
         ],
         [
           "华丽的",
@@ -1348,7 +1348,7 @@ window.BOOK_DATA[6] = {
           "fr/06722.mp3",
           "",
           "",
-          "agreabl"
+          "[agreabl]"
         ],
         [
           "令人愉快的",

@@ -1795,7 +1795,7 @@ window.BOOK_DATA[3] = {
           "fr/11341.mp3",
           "zh/11341.mp3",
           "biao3",
-          "mɔ̃:tr"
+          "[mɔ̃:tr]"
         ],
         [
           "准时，按时",
@@ -1813,7 +1813,7 @@ window.BOOK_DATA[3] = {
           "fr/11343.mp3",
           "zh/11343.mp3",
           "shou3 biao3",
-          "braslemɔ̃:tr"
+          "[braslemɔ̃:tr]"
         ],
         [
           "时钟",
@@ -1822,7 +1822,7 @@ window.BOOK_DATA[3] = {
           "fr/11344.mp3",
           "zh/11344.mp3",
           "shi2 zhong1",
-          "ɔrlɔ:ʒ"
+          "[ɔrlɔ:ʒ]"
         ],
         [
           "表针",
@@ -1831,7 +1831,7 @@ window.BOOK_DATA[3] = {
           "fr/11345.mp3",
           "zh/11345.mp3",
           "biao3 zhen1",
-          "ɛ(ɛ)gɥij"
+          "[ɛ(ɛ)gɥij]"
         ],
         [
           "小时",
@@ -1840,7 +1840,7 @@ window.BOOK_DATA[3] = {
           "fr/11346.mp3",
           "zh/11346.mp3",
           "xiao3 shi2",
-          "œ:r"
+          "[œ:r]"
         ],
         [
           "立即，立刻",
@@ -1876,7 +1876,7 @@ window.BOOK_DATA[3] = {
           "fr/11350.mp3",
           "zh/11350.mp3",
           "fen1 zhong1",
-          "minyt"
+          "[minyt]"
         ],
         [
           "秒",
@@ -1885,7 +1885,7 @@ window.BOOK_DATA[3] = {
           "fr/11351.mp3",
           "zh/11351.mp3",
           "miao3",
-          "s(ə)gɔ̃d"
+          "[s(ə)gɔ̃d]"
         ],
         [
           "时针",
@@ -1894,7 +1894,7 @@ window.BOOK_DATA[3] = {
           "fr/11352.mp3",
           "zh/11352.mp3",
           "shi2 zhen1",
-          "ɛ(ɛ)gɥij-de-œ:r"
+          "[ɛ(ɛ)gɥij-de-œ:r]"
         ],
         [
           "分针",
@@ -1903,7 +1903,7 @@ window.BOOK_DATA[3] = {
           "fr/11353.mp3",
           "zh/11353.mp3",
           "fen1 zhen1",
-          "ɛ(ɛ)gɥij-de-minyt"
+          "[ɛ(ɛ)gɥij-de-minyt]"
         ],
         [
           "秒针",
@@ -1912,7 +1912,7 @@ window.BOOK_DATA[3] = {
           "fr/11354.mp3",
           "zh/11354.mp3",
           "miao3 zhen1",
-          "ɛ(ɛ)gɥij-de-s(ə)gɔ̃d"
+          "[ɛ(ɛ)gɥij-de-s(ə)gɔ̃d]"
         ],
         [
           "日期",
@@ -1921,7 +1921,7 @@ window.BOOK_DATA[3] = {
           "fr/11355.mp3",
           "zh/11355.mp3",
           "ri4 qi1",
-          "dat"
+          "[dat]"
         ],
         [
           "闹铃",
@@ -1930,7 +1930,7 @@ window.BOOK_DATA[3] = {
           "fr/11356.mp3",
           "zh/11356.mp3",
           "nao4 ling2",
-          "alarm"
+          "[alarm]"
         ],
         [
           "闹钟",
@@ -1939,7 +1939,7 @@ window.BOOK_DATA[3] = {
           "fr/11357.mp3",
           "zh/11357.mp3",
           "nao4 zhong1",
-          "revej"
+          "[revej]"
         ],
         [
           "电子的",
@@ -1948,7 +1948,7 @@ window.BOOK_DATA[3] = {
           "fr/11358.mp3",
           "zh/11358.mp3",
           "dian4 zi5 de5",
-          "elektrɔnik"
+          "[elektrɔnik]"
         ],
         [
           "机械的",
@@ -1957,7 +1957,7 @@ window.BOOK_DATA[3] = {
           "fr/11359.mp3",
           "zh/11359.mp3",
           "ji1 xie4 de5",
-          "mekanik"
+          "[mekanik]"
         ],
         [
           "顺时针地",
@@ -1975,7 +1975,7 @@ window.BOOK_DATA[3] = {
           "fr/11361.mp3",
           "zh/11361.mp3",
           "shi2 ying1",
-          "kwarts"
+          "[kwarts]"
         ],
         [
           "钟楼",
@@ -1984,7 +1984,7 @@ window.BOOK_DATA[3] = {
           "fr/11362.mp3",
           "zh/11362.mp3",
           "zhong1 lou2",
-          "befrwa(ə)"
+          "[befrwa(ə)]"
         ],
         [
           "准确无误的",
@@ -1993,7 +1993,7 @@ window.BOOK_DATA[3] = {
           "fr/11363.mp3",
           "zh/11363.mp3",
           "zhun3 que4 wu2 wu4 de5",
-          "presi, i:z"
+          "[presi, i:z]"
         ],
         [
           "钟表匠",
@@ -2002,7 +2002,7 @@ window.BOOK_DATA[3] = {
           "fr/11364.mp3",
           "zh/11364.mp3",
           "zhong1 biao3 jiang4",
-          "ɔrlɔʒe, ɛ:r"
+          "[ɔrlɔʒe, ɛ:r]"
         ],
         [
           "表带",
@@ -2011,7 +2011,7 @@ window.BOOK_DATA[3] = {
           "fr/11365.mp3",
           "zh/11365.mp3",
           "biao3 dai4",
-          "brasle"
+          "[brasle]"
         ],
         [
           "表盘",
@@ -2020,7 +2020,7 @@ window.BOOK_DATA[3] = {
           "fr/11366.mp3",
           "zh/11366.mp3",
           "biao3 pan2",
-          "kadrɑ̃"
+          "[kadrɑ̃]"
         ]
       ],
       "s": [
@@ -2087,7 +2087,7 @@ window.BOOK_DATA[3] = {
           "fr/11373.mp3",
           "zh/11373.mp3",
           "bu3 chong1 de5",
-          "syplemɑ̃te:r"
+          "[syplemɑ̃te:r]"
         ],
         [
           "事情",
@@ -2096,7 +2096,7 @@ window.BOOK_DATA[3] = {
           "fr/11374.mp3",
           "zh/11374.mp3",
           "shi4 qing2",
-          "afɛ:r"
+          "[afɛ:r]"
         ],
         [
           "文件",
@@ -2105,7 +2105,7 @@ window.BOOK_DATA[3] = {
           "fr/11375.mp3",
           "zh/11375.mp3",
           "wen2 jian4",
-          "dɔkymɑ̃"
+          "[dɔkymɑ̃]"
         ],
         [
           "出发",
@@ -2114,7 +2114,7 @@ window.BOOK_DATA[3] = {
           "fr/11376.mp3",
           "zh/11376.mp3",
           "chu1 fa1",
-          "partir"
+          "[partir]"
         ],
         [
           "拧下",
@@ -2123,7 +2123,7 @@ window.BOOK_DATA[3] = {
           "fr/11377.mp3",
           "zh/11377.mp3",
           "ning2 xia4",
-          "devize"
+          "[devize]"
         ],
         [
           "加有标记的",
@@ -2132,7 +2132,7 @@ window.BOOK_DATA[3] = {
           "fr/11378.mp3",
           "zh/11378.mp3",
           "jia1 you3 biao1 ji4 de5",
-          "marke"
+          "[marke]"
         ]
       ]
     },
@@ -2147,7 +2147,7 @@ window.BOOK_DATA[3] = {
           "fr/11379.mp3",
           "zh/11379.mp3",
           "jie2 ri4",
-          "fɛt"
+          "[fɛt]"
         ],
         [
           "元旦",
@@ -2156,7 +2156,7 @@ window.BOOK_DATA[3] = {
           "fr/11380.mp3",
           "zh/11380.mp3",
           "yuan2 dan4",
-          "ʒu:r d(ə)lɑ̃"
+          "[ʒu:r d(ə)lɑ̃]"
         ],
         [
           "春节",
@@ -2165,7 +2165,7 @@ window.BOOK_DATA[3] = {
           "fr/11381.mp3",
           "zh/11381.mp3",
           "chun1 jie2",
-          "fɛt dy prɛ̃tɑ̃"
+          "[fɛt dy prɛ̃tɑ̃]"
         ],
         [
           "除夕",
@@ -2174,7 +2174,7 @@ window.BOOK_DATA[3] = {
           "fr/11382.mp3",
           "zh/11382.mp3",
           "chu2 xi1",
-          "vɛj dy nuvelɑ̃"
+          "[vɛj dy nuvelɑ̃]"
         ],
         [
           "灯笼",
@@ -2183,7 +2183,7 @@ window.BOOK_DATA[3] = {
           "fr/11383.mp3",
           "zh/11383.mp3",
           "deng1 long2",
-          "lɑ̃tɛrn"
+          "[lɑ̃tɛrn]"
         ],
         [
           "元宵节",
@@ -2192,7 +2192,7 @@ window.BOOK_DATA[3] = {
           "fr/11384.mp3",
           "zh/11384.mp3",
           "yuan2 xiao1 jie2",
-          "fɛt d(ə) lɑ̃tɛrn"
+          "[fɛt d(ə) lɑ̃tɛrn]"
         ],
         [
           "植树节",
@@ -2201,7 +2201,7 @@ window.BOOK_DATA[3] = {
           "fr/11385.mp3",
           "zh/11385.mp3",
           "zhi2 shu4 jie2",
-          "fɛt d(ə)l arbr"
+          "[fɛt d(ə)l arbr]"
         ],
         [
           "清明节",
@@ -2210,7 +2210,7 @@ window.BOOK_DATA[3] = {
           "fr/11386.mp3",
           "zh/11386.mp3",
           "qing1 ming2 jie2",
-          "fɛt de mɔrt"
+          "[fɛt de mɔrt]"
         ],
         [
           "端午节",
@@ -2219,7 +2219,7 @@ window.BOOK_DATA[3] = {
           "fr/11387.mp3",
           "zh/11387.mp3",
           "duan1 wu3 jie2",
-          "fɛt de bato draɡɔ̃"
+          "[fɛt de bato draɡɔ̃]"
         ],
         [
           "中秋节",
@@ -2228,7 +2228,7 @@ window.BOOK_DATA[3] = {
           "fr/11388.mp3",
           "zh/11388.mp3",
           "zhong1 qiu1 jie2",
-          "fɛt d(ə) la mi ɔ̃tɔn"
+          "[fɛt d(ə) la mi ɔ̃tɔn]"
         ],
         [
           "重阳节",
@@ -2237,7 +2237,7 @@ window.BOOK_DATA[3] = {
           "fr/11389.mp3",
           "zh/11389.mp3",
           "chong2 yang2 jie2",
-          "fɛt dy dubl nœf"
+          "[fɛt dy dubl nœf]"
         ],
         [
           "教师节",
@@ -2246,7 +2246,7 @@ window.BOOK_DATA[3] = {
           "fr/11390.mp3",
           "zh/11390.mp3",
           "jiao4 shi1 jie2",
-          "fɛt d(ə) prɔfɛsœ:r"
+          "[fɛt d(ə) prɔfɛsœ:r]"
         ],
         [
           "国庆节",
@@ -2255,7 +2255,7 @@ window.BOOK_DATA[3] = {
           "fr/11391.mp3",
           "zh/11391.mp3",
           "guo2 qing4 jie2",
-          "fɛt nasjɔnal, o"
+          "[fɛt nasjɔnal, o]"
         ],
         [
           "传统",
@@ -2264,7 +2264,7 @@ window.BOOK_DATA[3] = {
           "fr/11392.mp3",
           "zh/11392.mp3",
           "chuan2 tong3",
-          "tradisjɔ̃"
+          "[tradisjɔ̃]"
         ],
         [
           "传统的",
@@ -2273,7 +2273,7 @@ window.BOOK_DATA[3] = {
           "fr/11393.mp3",
           "zh/11393.mp3",
           "chuan2 tong3 de5",
-          "tradisjɔnɛl"
+          "[tradisjɔnɛl]"
         ]
       ],
       "s": [
@@ -2331,7 +2331,7 @@ window.BOOK_DATA[3] = {
           "fr/11399.mp3",
           "zh/11399.mp3",
           "zhong4 duo1 de5 ， xu3 duo1 de5",
-          "nɔ̃brø, øz"
+          "[nɔ̃brø, øz]"
         ],
         [
           "非宗教的",
@@ -2340,7 +2340,7 @@ window.BOOK_DATA[3] = {
           "fr/11400.mp3",
           "zh/11400.mp3",
           "fei1 zong1 jiao4 de5",
-          "sivil"
+          "[sivil]"
         ],
         [
           "宗教的",
@@ -2349,7 +2349,7 @@ window.BOOK_DATA[3] = {
           "fr/11401.mp3",
           "zh/11401.mp3",
           "zong1 jiao4 de5",
-          "r(ə)liʒjø, øz"
+          "[r(ə)liʒjø, øz]"
         ],
         [
           "重要的",
@@ -2358,7 +2358,7 @@ window.BOOK_DATA[3] = {
           "fr/11402.mp3",
           "zh/11402.mp3",
           "zhong4 yao4 de5",
-          "gro, o:s"
+          "[gro, o:s]"
         ],
         [
           "中国人的",
@@ -2367,7 +2367,7 @@ window.BOOK_DATA[3] = {
           "fr/11403.mp3",
           "zh/11403.mp3",
           "zhong1 guo2 ren2 de5",
-          "ʃinwa, az"
+          "[ʃinwa, az]"
         ],
         [
           "被占用的",
@@ -2376,7 +2376,7 @@ window.BOOK_DATA[3] = {
           "fr/11404.mp3",
           "zh/11404.mp3",
           "bei4 zhan4 yong4 de5",
-          "pri, i:z"
+          "[pri, i:z]"
         ]
       ]
     },
@@ -2391,7 +2391,7 @@ window.BOOK_DATA[3] = {
           "fr/11405.mp3",
           "zh/11405.mp3",
           "shou3 sui4",
-          "vε(ɛ)je tut la nɥi"
+          "[vε(ɛ)je tut la nɥi]"
         ],
         [
           "鞭炮",
@@ -2400,7 +2400,7 @@ window.BOOK_DATA[3] = {
           "fr/11406.mp3",
           "zh/11406.mp3",
           "bian1 pao4",
-          "peta:r"
+          "[peta:r]"
         ],
         [
           "放（烟花）",
@@ -2409,7 +2409,7 @@ window.BOOK_DATA[3] = {
           "fr/11407.mp3",
           "zh/11407.mp3",
           "fang4 （ yan1 hua1 ）",
-          "lɑ̃se"
+          "[lɑ̃se]"
         ],
         [
           "庆祝",
@@ -2418,7 +2418,7 @@ window.BOOK_DATA[3] = {
           "fr/11408.mp3",
           "zh/11408.mp3",
           "qing4 zhu4",
-          "selebra(ɔ)sjɔ̃"
+          "[selebra(ɔ)sjɔ̃]"
         ],
         [
           "舞龙",
@@ -2427,7 +2427,7 @@ window.BOOK_DATA[3] = {
           "fr/11409.mp3",
           "zh/11409.mp3",
           "wu3 long2",
-          "dɑ̃:s dy dragɔ̃"
+          "[dɑ̃:s dy dragɔ̃]"
         ],
         [
           "舞狮",
@@ -2436,7 +2436,7 @@ window.BOOK_DATA[3] = {
           "fr/11410.mp3",
           "zh/11410.mp3",
           "wu3 shi1",
-          "dɑ̃:s d(ə) ljɔ̃"
+          "[dɑ̃:s d(ə) ljɔ̃]"
         ],
         [
           "春联",
@@ -2445,7 +2445,7 @@ window.BOOK_DATA[3] = {
           "fr/11411.mp3",
           "zh/11411.mp3",
           "chun1 lian2",
-          "disdik pur la fet dy prɛ̃tɑ̃"
+          "[disdik pur la fet dy prɛ̃tɑ̃]"
         ],
         [
           "贴",
@@ -2454,7 +2454,7 @@ window.BOOK_DATA[3] = {
           "fr/11412.mp3",
           "zh/11412.mp3",
           "tie1",
-          "kɔle"
+          "[kɔle]"
         ],
         [
           "粽子",
@@ -2463,7 +2463,7 @@ window.BOOK_DATA[3] = {
           "fr/11413.mp3",
           "zh/11413.mp3",
           "zong4 zi5",
-          "bulet dy ri"
+          "[bulet dy ri]"
         ],
         [
           "谜语",
@@ -2472,7 +2472,7 @@ window.BOOK_DATA[3] = {
           "fr/11414.mp3",
           "zh/11414.mp3",
           "mi2 yu3",
-          "enigm"
+          "[enigm]"
         ],
         [
           "猜测",
@@ -2481,7 +2481,7 @@ window.BOOK_DATA[3] = {
           "fr/11415.mp3",
           "zh/11415.mp3",
           "cai1 ce4",
-          "d(ə)vine"
+          "[d(ə)vine]"
         ],
         [
           "红包",
@@ -2490,7 +2490,7 @@ window.BOOK_DATA[3] = {
           "fr/11416.mp3",
           "zh/11416.mp3",
           "hong2 bao1",
-          "po d(ə)vɛ̃"
+          "[po d(ə)vɛ̃]"
         ],
         [
           "红包",
@@ -2499,7 +2499,7 @@ window.BOOK_DATA[3] = {
           "fr/11417.mp3",
           "zh/11417.mp3",
           "hong2 bao1",
-          "d(ə)su d(ə) tabl"
+          "[d(ə)su d(ə) tabl]"
         ]
       ],
       "s": [
@@ -2548,7 +2548,7 @@ window.BOOK_DATA[3] = {
           "fr/11422.mp3",
           "zh/11422.mp3",
           "can1 jia1 ， chu1 xi2",
-          "asiste"
+          "[asiste]"
         ],
         [
           "仪式",
@@ -2557,7 +2557,7 @@ window.BOOK_DATA[3] = {
           "fr/11423.mp3",
           "zh/11423.mp3",
           "yi2 shi4",
-          "seremɔni"
+          "[seremɔni]"
         ],
         [
           "一般的，通常的",
@@ -2566,7 +2566,7 @@ window.BOOK_DATA[3] = {
           "fr/11424.mp3",
           "zh/11424.mp3",
           "yi4 ban1 de5 ， tong1 chang2 de5",
-          "ʒeneral"
+          "[ʒeneral]"
         ],
         [
           "总是，一直",
@@ -2575,7 +2575,7 @@ window.BOOK_DATA[3] = {
           "fr/11425.mp3",
           "zh/11425.mp3",
           "zong3 shi4 ， yi4 zhi2",
-          "tuʒuːr"
+          "[tuʒuːr]"
         ],
         [
           "直到",
@@ -2584,7 +2584,7 @@ window.BOOK_DATA[3] = {
           "fr/11426.mp3",
           "zh/11426.mp3",
           "zhi2 dao4",
-          "ʒysk"
+          "[ʒysk]"
         ]
       ]
     },
@@ -2599,7 +2599,7 @@ window.BOOK_DATA[3] = {
           "fr/11427.mp3",
           "zh/11427.mp3",
           "sheng4 dan4 jie2",
-          "nɔɛl"
+          "[nɔɛl]"
         ],
         [
           "平安夜",
@@ -2608,7 +2608,7 @@ window.BOOK_DATA[3] = {
           "fr/11428.mp3",
           "zh/11428.mp3",
           "ping2 an1 ye4",
-          "la vɛj d(ə) nɔɛl"
+          "[la vɛj d(ə) nɔɛl]"
         ],
         [
           "复活节",
@@ -2617,7 +2617,7 @@ window.BOOK_DATA[3] = {
           "fr/11429.mp3",
           "zh/11429.mp3",
           "fu4 huo2 jie2",
-          "pak"
+          "[pak]"
         ],
         [
           "节假日",
@@ -2626,7 +2626,7 @@ window.BOOK_DATA[3] = {
           "fr/11430.mp3",
           "zh/11430.mp3",
           "jie2 jia4 ri4",
-          "fɛstival"
+          "[fɛstival]"
         ],
         [
           "音乐节",
@@ -2635,7 +2635,7 @@ window.BOOK_DATA[3] = {
           "fr/11431.mp3",
           "zh/11431.mp3",
           "yin1 yue4 jie2",
-          "fɛt d(ə)la myzik"
+          "[fɛt d(ə)la myzik]"
         ],
         [
           "情人节",
@@ -2644,7 +2644,7 @@ window.BOOK_DATA[3] = {
           "fr/11432.mp3",
           "zh/11432.mp3",
           "qing2 ren2 jie2",
-          "fɛt de amurø"
+          "[fɛt de amurø]"
         ],
         [
           "母亲节",
@@ -2653,7 +2653,7 @@ window.BOOK_DATA[3] = {
           "fr/11433.mp3",
           "zh/11433.mp3",
           "mu3 qin1 jie2",
-          "fɛt de mɛr"
+          "[fɛt de mɛr]"
         ],
         [
           "父亲节",
@@ -2662,7 +2662,7 @@ window.BOOK_DATA[3] = {
           "fr/11434.mp3",
           "zh/11434.mp3",
           "fu4 qin1 jie2",
-          "fɛt de pɛr"
+          "[fɛt de pɛr]"
         ],
         [
           "狂欢节",
@@ -2671,7 +2671,7 @@ window.BOOK_DATA[3] = {
           "fr/11435.mp3",
           "zh/11435.mp3",
           "kuang2 huan1 jie2",
-          "mikarɛm"
+          "[mikarɛm]"
         ],
         [
           "电影节",
@@ -2680,7 +2680,7 @@ window.BOOK_DATA[3] = {
           "fr/11436.mp3",
           "zh/11436.mp3",
           "dian4 ying3 jie2",
-          "fɛt dy sinema"
+          "[fɛt dy sinema]"
         ],
         [
           "一战结束纪念日",
@@ -2689,7 +2689,7 @@ window.BOOK_DATA[3] = {
           "fr/11437.mp3",
           "zh/11437.mp3",
           "yi1 zhan4 jie2 shu4 ji4 nian4 ri4",
-          "lanivɛrsɛ:r d(ə)la fɛ d(ə)la pramjɛr gɛ:r mɔ̃djal"
+          "[lanivɛrsɛ:r d(ə)la fɛ d(ə)la pramjɛr gɛ:r mɔ̃djal]"
         ],
         [
           "劳动节",
@@ -2698,7 +2698,7 @@ window.BOOK_DATA[3] = {
           "fr/11438.mp3",
           "zh/11438.mp3",
           "lao2 dong4 jie2",
-          "fɛt de travajœr"
+          "[fɛt de travajœr]"
         ]
       ],
       "s": [
@@ -2756,7 +2756,7 @@ window.BOOK_DATA[3] = {
           "fr/11444.mp3",
           "zh/11444.mp3",
           "guo2 ji4 di4",
-          "ɛ̃tɛrnasjɔnalmɑ̃"
+          "[ɛ̃tɛrnasjɔnalmɑ̃]"
         ],
         [
           "存在，生存",
@@ -2765,7 +2765,7 @@ window.BOOK_DATA[3] = {
           "fr/11445.mp3",
           "zh/11445.mp3",
           "cun2 zai4 ， sheng1 cun2",
-          "ɛgziste"
+          "[ɛgziste]"
         ],
         [
           "自……以来",
@@ -2774,7 +2774,7 @@ window.BOOK_DATA[3] = {
           "fr/11446.mp3",
           "zh/11446.mp3",
           "zi4 …… yi3 lai2",
-          "dəpɥi"
+          "[dəpɥi]"
         ],
         [
           "休假，假期",
@@ -2783,7 +2783,7 @@ window.BOOK_DATA[3] = {
           "fr/11447.mp3",
           "zh/11447.mp3",
           "xiu1 jia4 ， jia4 qi1",
-          "kɔ̃ʒe"
+          "[kɔ̃ʒe]"
         ]
       ]
     },
@@ -2798,7 +2798,7 @@ window.BOOK_DATA[3] = {
           "fr/11448.mp3",
           "zh/11448.mp3",
           "qing4 zhu4",
-          "selebra(ə)sjɔ̃"
+          "[selebra(ə)sjɔ̃]"
         ],
         [
           "圣诞树",
@@ -2807,7 +2807,7 @@ window.BOOK_DATA[3] = {
           "fr/11449.mp3",
           "zh/11449.mp3",
           "sheng4 dan4 shu4",
-          "arbr d(ə) nɔɛl"
+          "[arbr d(ə) nɔɛl]"
         ],
         [
           "圣诞蛋糕",
@@ -2816,7 +2816,7 @@ window.BOOK_DATA[3] = {
           "fr/11450.mp3",
           "zh/11450.mp3",
           "sheng4 dan4 dan4 gao1",
-          "gato d(ə) nɔɛl"
+          "[gato d(ə) nɔɛl]"
         ],
         [
           "圣诞贺卡",
@@ -2825,7 +2825,7 @@ window.BOOK_DATA[3] = {
           "fr/11451.mp3",
           "zh/11451.mp3",
           "sheng4 dan4 he4 ka3",
-          "kaʁt d(ə) nɔɛl"
+          "[kaʁt d(ə) nɔɛl]"
         ],
         [
           "圣诞颂歌",
@@ -2834,7 +2834,7 @@ window.BOOK_DATA[3] = {
           "fr/11452.mp3",
           "zh/11452.mp3",
           "sheng4 dan4 song4 ge1",
-          "ʃɑ̃sɔ̃ d(ə) nɔɛl"
+          "[ʃɑ̃sɔ̃ d(ə) nɔɛl]"
         ],
         [
           "圣诞老人",
@@ -2843,7 +2843,7 @@ window.BOOK_DATA[3] = {
           "fr/11453.mp3",
           "zh/11453.mp3",
           "sheng4 dan4 lao3 ren2",
-          "pɛːʁ nɔɛl"
+          "[pɛːʁ nɔɛl]"
         ],
         [
           "复活节彩蛋",
@@ -2852,7 +2852,7 @@ window.BOOK_DATA[3] = {
           "fr/11454.mp3",
           "zh/11454.mp3",
           "fu4 huo2 jie2 cai3 dan4",
-          "wøf d(ə) paːk"
+          "[wøf d(ə) paːk]"
         ],
         [
           "火鸡",
@@ -2861,7 +2861,7 @@ window.BOOK_DATA[3] = {
           "fr/11455.mp3",
           "zh/11455.mp3",
           "huo3 ji1",
-          "dɛ̃d"
+          "[dɛ̃d]"
         ],
         [
           "恶作剧",
@@ -2870,7 +2870,7 @@ window.BOOK_DATA[3] = {
           "fr/11456.mp3",
           "zh/11456.mp3",
           "e4 zuo4 ju4",
-          "fymistəʁi"
+          "[fymistəʁi]"
         ],
         [
           "万圣节糖果",
@@ -2879,7 +2879,7 @@ window.BOOK_DATA[3] = {
           "fr/11457.mp3",
           "zh/11457.mp3",
           "wan4 sheng4 jie2 tang2 guo3",
-          "bɔ̃bɔ̃ dalɔwin"
+          "[bɔ̃bɔ̃ dalɔwin]"
         ],
         [
           "祝福",
@@ -2888,7 +2888,7 @@ window.BOOK_DATA[3] = {
           "fr/11458.mp3",
           "zh/11458.mp3",
           "zhu4 fu2",
-          "beniːʁ"
+          "[beniːʁ]"
         ],
         [
           "祝贺",
@@ -2897,7 +2897,7 @@ window.BOOK_DATA[3] = {
           "fr/11459.mp3",
           "zh/11459.mp3",
           "zhu4 he4",
-          "felisite"
+          "[felisite]"
         ],
         [
           "欺骗",
@@ -2906,7 +2906,7 @@ window.BOOK_DATA[3] = {
           "fr/11460.mp3",
           "zh/11460.mp3",
           "qi1 pian4",
-          "tʁɔ̃pe"
+          "[tʁɔ̃pe]"
         ],
         [
           "欺骗",
@@ -2915,7 +2915,7 @@ window.BOOK_DATA[3] = {
           "fr/11461.mp3",
           "zh/11461.mp3",
           "qi1 pian4",
-          "dype"
+          "[dype]"
         ]
       ],
       "s": [
@@ -2973,7 +2973,7 @@ window.BOOK_DATA[3] = {
           "fr/11467.mp3",
           "zh/11467.mp3",
           "hao3 xiang4",
-          "sɑ̃ble"
+          "[sɑ̃ble]"
         ],
         [
           "应该",
@@ -2982,7 +2982,7 @@ window.BOOK_DATA[3] = {
           "fr/11468.mp3",
           "zh/11468.mp3",
           "ying1 gai1",
-          "dəvwaʁ"
+          "[dəvwaʁ]"
         ],
         [
           "真正地，确实地",
@@ -2991,7 +2991,7 @@ window.BOOK_DATA[3] = {
           "fr/11469.mp3",
           "zh/11469.mp3",
           "zhen1 zheng4 di4 ， que4 shi2 di4",
-          "veʁite"
+          "[veʁite]"
         ],
         [
           "勇敢",
@@ -3000,7 +3000,7 @@ window.BOOK_DATA[3] = {
           "fr/11470.mp3",
           "zh/11470.mp3",
           "yong3 gan3",
-          "kuʁaːʒ"
+          "[kuʁaːʒ]"
         ],
         [
           "恩惠，恩赐",
@@ -3009,7 +3009,7 @@ window.BOOK_DATA[3] = {
           "fr/11471.mp3",
           "zh/11471.mp3",
           "en1 hui4 ， en1 ci4",
-          "gʁaːs"
+          "[gʁaːs]"
         ]
       ]
     },
@@ -3024,7 +3024,7 @@ window.BOOK_DATA[3] = {
           "fr/11472.mp3",
           "zh/11472.mp3",
           "sheng1 ri4",
-          "anivɛrsɛ:r"
+          "[anivɛrsɛ:r]"
         ],
         [
           "生日蛋糕",
@@ -3033,7 +3033,7 @@ window.BOOK_DATA[3] = {
           "fr/11473.mp3",
           "zh/11473.mp3",
           "sheng1 ri4 dan4 gao1",
-          "gato d(ə) anivɛrsɛ:r"
+          "[gato d(ə) anivɛrsɛ:r]"
         ],
         [
           "生日歌",
@@ -3042,7 +3042,7 @@ window.BOOK_DATA[3] = {
           "fr/11474.mp3",
           "zh/11474.mp3",
           "sheng1 ri4 ge1",
-          "ʃɑ̃sɔ̃ d(ə) anivɛrsɛ:r"
+          "[ʃɑ̃sɔ̃ d(ə) anivɛrsɛ:r]"
         ],
         [
           "生日卡片",
@@ -3051,7 +3051,7 @@ window.BOOK_DATA[3] = {
           "fr/11475.mp3",
           "zh/11475.mp3",
           "sheng1 ri4 ka3 pian4",
-          "kart d(ə) anivɛrsɛ:r"
+          "[kart d(ə) anivɛrsɛ:r]"
         ],
         [
           "礼物",
@@ -3060,7 +3060,7 @@ window.BOOK_DATA[3] = {
           "fr/11476.mp3",
           "zh/11476.mp3",
           "li3 wu4",
-          "kado"
+          "[kado]"
         ],
         [
           "不宽容某人",
@@ -3078,7 +3078,7 @@ window.BOOK_DATA[3] = {
           "fr/11478.mp3",
           "zh/11478.mp3",
           "kuai4 le4 de5",
-          "ʒwajø, ø:z"
+          "[ʒwajø, ø:z]"
         ],
         [
           "蜡烛",
@@ -3087,7 +3087,7 @@ window.BOOK_DATA[3] = {
           "fr/11479.mp3",
           "zh/11479.mp3",
           "la4 zhu2",
-          "ʃɑ̃dɛl"
+          "[ʃɑ̃dɛl]"
         ],
         [
           "吹",
@@ -3096,7 +3096,7 @@ window.BOOK_DATA[3] = {
           "fr/11480.mp3",
           "zh/11480.mp3",
           "chui1",
-          "sufle"
+          "[sufle]"
         ],
         [
           "出生",
@@ -3105,7 +3105,7 @@ window.BOOK_DATA[3] = {
           "fr/11481.mp3",
           "zh/11481.mp3",
           "chu1 sheng1",
-          "nɛtr"
+          "[nɛtr]"
         ],
         [
           "愉快",
@@ -3114,7 +3114,7 @@ window.BOOK_DATA[3] = {
           "fr/11482.mp3",
           "zh/11482.mp3",
           "yu2 kuai4",
-          "ʒwa"
+          "[ʒwa]"
         ],
         [
           "分享",
@@ -3123,7 +3123,7 @@ window.BOOK_DATA[3] = {
           "fr/11483.mp3",
           "zh/11483.mp3",
           "fen1 xiang3",
-          "partaʒe"
+          "[partaʒe]"
         ],
         [
           "聚会",
@@ -3132,7 +3132,7 @@ window.BOOK_DATA[3] = {
           "fr/11484.mp3",
           "zh/11484.mp3",
           "ju4 hui4",
-          "reynjɔ̃"
+          "[reynjɔ̃]"
         ],
         [
           "使震惊",
@@ -3141,7 +3141,7 @@ window.BOOK_DATA[3] = {
           "fr/11485.mp3",
           "zh/11485.mp3",
           "shi3 zhen4 jing1",
-          "etɔne"
+          "[etɔne]"
         ],
         [
           "祝",
@@ -3150,7 +3150,7 @@ window.BOOK_DATA[3] = {
           "fr/11486.mp3",
           "zh/11486.mp3",
           "zhu4",
-          "swɛ(e)te"
+          "[swɛ(e)te]"
         ],
         [
           "邀请",
@@ -3159,7 +3159,7 @@ window.BOOK_DATA[3] = {
           "fr/11487.mp3",
           "zh/11487.mp3",
           "yao1 qing3",
-          "ɛ̃vite"
+          "[ɛ̃vite]"
         ],
         [
           "接受",
@@ -3168,7 +3168,7 @@ window.BOOK_DATA[3] = {
           "fr/11488.mp3",
           "zh/11488.mp3",
           "jie1 shou4",
-          "aksɛpte"
+          "[aksɛpte]"
         ],
         [
           "拒绝",
@@ -3177,7 +3177,7 @@ window.BOOK_DATA[3] = {
           "fr/11489.mp3",
           "zh/11489.mp3",
           "ju4 jue2",
-          "(rə)fyze"
+          "[(rə)fyze]"
         ],
         [
           "提议",
@@ -3186,7 +3186,7 @@ window.BOOK_DATA[3] = {
           "fr/11490.mp3",
           "zh/11490.mp3",
           "ti2 yi4",
-          "prɔpozisjɔ̃"
+          "[prɔpozisjɔ̃]"
         ],
         [
           "美好的",
@@ -3195,7 +3195,7 @@ window.BOOK_DATA[3] = {
           "fr/11491.mp3",
           "zh/11491.mp3",
           "mei3 hao3 de5",
-          "ɛkski, i:z"
+          "[ɛkski, i:z]"
         ]
       ],
       "s": [
@@ -3244,7 +3244,7 @@ window.BOOK_DATA[3] = {
           "fr/11496.mp3",
           "zh/11496.mp3",
           "la4 xia4 ， qia4 feng2 （ gu4 ding4 ）",
-          "tɔ̃be"
+          "[tɔ̃be]"
         ],
         [
           "住处",
@@ -3253,7 +3253,7 @@ window.BOOK_DATA[3] = {
           "fr/11497.mp3",
           "zh/11497.mp3",
           "zhu4 chu4",
-          "ʒit"
+          "[ʒit]"
         ],
         [
           "自由的，随意的",
@@ -3262,7 +3262,7 @@ window.BOOK_DATA[3] = {
           "fr/11498.mp3",
           "zh/11498.mp3",
           "zi4 you2 de5 ， sui2 yi4 de5",
-          "libr"
+          "[libr]"
         ],
         [
           "眼泪",
@@ -3271,7 +3271,7 @@ window.BOOK_DATA[3] = {
           "fr/11499.mp3",
           "zh/11499.mp3",
           "yan3 lei4",
-          "larm"
+          "[larm]"
         ],
         [
           "嘴唇",
@@ -3280,7 +3280,7 @@ window.BOOK_DATA[3] = {
           "fr/11500.mp3",
           "zh/11500.mp3",
           "zui3 chun2",
-          "le:vr"
+          "[le:vr]"
         ],
         [
           "学校，教育",
@@ -3289,7 +3289,7 @@ window.BOOK_DATA[3] = {
           "fr/11501.mp3",
           "zh/11501.mp3",
           "xue2 xiao4 ， jiao4 yu4",
-          "ekɔl"
+          "[ekɔl]"
         ]
       ]
     }

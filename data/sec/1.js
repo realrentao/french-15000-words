@@ -16,7 +16,7 @@ window.BOOK_DATA[1] ={
           "fr/11502.mp3",
           "zh/11502.mp3",
           "zao3 can1",
-          "p(ə)ti-deʒœne"
+          "[p(ə)ti-deʒœne]"
         ],
         [
           "午餐",
@@ -25,7 +25,7 @@ window.BOOK_DATA[1] ={
           "fr/11503.mp3",
           "zh/11503.mp3",
           "wu3 can1",
-          "deʒœne"
+          "[deʒœne]"
         ],
         [
           "正餐",
@@ -34,7 +34,7 @@ window.BOOK_DATA[1] ={
           "fr/11504.mp3",
           "zh/11504.mp3",
           "zheng4 can1",
-          "dine"
+          "[dine]"
         ],
         [
           "餐",
@@ -43,7 +43,7 @@ window.BOOK_DATA[1] ={
           "fr/11505.mp3",
           "zh/11505.mp3",
           "can1",
-          "r(ə)pɑ"
+          "[r(ə)pɑ]"
         ],
         [
           "食物",
@@ -52,7 +52,7 @@ window.BOOK_DATA[1] ={
           "fr/11506.mp3",
           "zh/11506.mp3",
           "shi2 wu4",
-          "nurity:r"
+          "[nurity:r]"
         ],
         [
           "饮料",
@@ -61,7 +61,7 @@ window.BOOK_DATA[1] ={
           "fr/11507.mp3",
           "zh/11507.mp3",
           "yin3 liao4",
-          "bwasɔ̃"
+          "[bwasɔ̃]"
         ],
         [
           "饭店",
@@ -70,7 +70,7 @@ window.BOOK_DATA[1] ={
           "fr/11508.mp3",
           "zh/11508.mp3",
           "fan4 dian4",
-          "restɔrɑ̃"
+          "[restɔrɑ̃]"
         ],
         [
           "餐桌台布",
@@ -79,7 +79,7 @@ window.BOOK_DATA[1] ={
           "fr/11509.mp3",
           "zh/11509.mp3",
           "can1 zhuo1 tai2 bu4",
-          "nap"
+          "[nap]"
         ],
         [
           "吞咽",
@@ -88,7 +88,7 @@ window.BOOK_DATA[1] ={
           "fr/11510.mp3",
           "zh/11510.mp3",
           "tun1 yan4",
-          "avale"
+          "[avale]"
         ],
         [
           "呕吐",
@@ -97,7 +97,7 @@ window.BOOK_DATA[1] ={
           "fr/11511.mp3",
           "zh/11511.mp3",
           "ou3 tu3",
-          "vɔmi:r"
+          "[vɔmi:r]"
         ],
         [
           "吃",
@@ -106,7 +106,7 @@ window.BOOK_DATA[1] ={
           "fr/11512.mp3",
           "zh/11512.mp3",
           "chi1",
-          "mɑ̃ʒe"
+          "[mɑ̃ʒe]"
         ],
         [
           "喝",
@@ -115,7 +115,7 @@ window.BOOK_DATA[1] ={
           "fr/11513.mp3",
           "zh/11513.mp3",
           "he1",
-          "bwa:r"
+          "[bwa:r]"
         ],
         [
           "咀嚼",
@@ -124,7 +124,7 @@ window.BOOK_DATA[1] ={
           "fr/11514.mp3",
           "zh/11514.mp3",
           "ju3 jue2",
-          "mɑʃe"
+          "[mɑʃe]"
         ],
         [
           "消化",
@@ -133,7 +133,7 @@ window.BOOK_DATA[1] ={
           "fr/11515.mp3",
           "zh/11515.mp3",
           "xiao1 hua4",
-          "diʒere"
+          "[diʒere]"
         ],
         [
           "舔",
@@ -142,7 +142,7 @@ window.BOOK_DATA[1] ={
           "fr/11516.mp3",
           "zh/11516.mp3",
           "tian3",
-          "leʃe"
+          "[leʃe]"
         ],
         [
           "尝",
@@ -151,7 +151,7 @@ window.BOOK_DATA[1] ={
           "fr/11517.mp3",
           "zh/11517.mp3",
           "chang2",
-          "gute"
+          "[gute]"
         ],
         [
           "吃，喝",
@@ -160,7 +160,7 @@ window.BOOK_DATA[1] ={
           "fr/11518.mp3",
           "zh/11518.mp3",
           "chi1 ， he1",
-          "prɑ̃:dr"
+          "[prɑ̃:dr]"
         ],
         [
           "一份",
@@ -169,7 +169,7 @@ window.BOOK_DATA[1] ={
           "fr/11519.mp3",
           "zh/11519.mp3",
           "yi2 fen4",
-          "pɔrsjɔ̃"
+          "[pɔrsjɔ̃]"
         ],
         [
           "正常地",
@@ -178,7 +178,7 @@ window.BOOK_DATA[1] ={
           "fr/11520.mp3",
           "zh/11520.mp3",
           "zheng4 chang2 di4",
-          "nɔrmalmɑ̃"
+          "[nɔrmalmɑ̃]"
         ],
         [
           "家常便饭",
@@ -187,7 +187,7 @@ window.BOOK_DATA[1] ={
           "fr/11521.mp3",
           "zh/11521.mp3",
           "jia1 chang2 bian4 fan4",
-          "ɔrdine:r"
+          "[ɔrdine:r]"
         ]
       ],
       "s": [
@@ -245,7 +245,7 @@ window.BOOK_DATA[1] ={
           "fr/11527.mp3",
           "zh/11527.mp3",
           "da3 rao3",
-          "derɑ̃ʒe"
+          "[derɑ̃ʒe]"
         ],
         [
           "怀孕",
@@ -254,7 +254,7 @@ window.BOOK_DATA[1] ={
           "fr/11528.mp3",
           "zh/11528.mp3",
           "huai2 yun4",
-          "grɔses"
+          "[grɔses]"
         ],
         [
           "反应作用",
@@ -263,7 +263,7 @@ window.BOOK_DATA[1] ={
           "fr/11529.mp3",
           "zh/11529.mp3",
           "fan3 ying1 zuo4 yong4",
-          "reaksjɔ̃"
+          "[reaksjɔ̃]"
         ]
       ]
     },
@@ -278,7 +278,7 @@ window.BOOK_DATA[1] ={
           "fr/11530.mp3",
           "zh/11530.mp3",
           "chi1 su4 de5 ren2",
-          "veʒetarjɛ̃, ɛn"
+          "[veʒetarjɛ̃, ɛn]"
         ],
         [
           "素食主义",
@@ -287,7 +287,7 @@ window.BOOK_DATA[1] ={
           "fr/11531.mp3",
           "zh/11531.mp3",
           "su4 shi2 zhu3 yi4",
-          "veʒetarism"
+          "[veʒetarism]"
         ],
         [
           "食肉的",
@@ -296,7 +296,7 @@ window.BOOK_DATA[1] ={
           "fr/11532.mp3",
           "zh/11532.mp3",
           "shi2 rou4 de5",
-          "karnivɔ:r"
+          "[karnivɔ:r]"
         ],
         [
           "辛辣的",
@@ -305,7 +305,7 @@ window.BOOK_DATA[1] ={
           "fr/11533.mp3",
           "zh/11533.mp3",
           "xin1 la4 de5",
-          "epise"
+          "[epise]"
         ],
         [
           "咸的",
@@ -314,7 +314,7 @@ window.BOOK_DATA[1] ={
           "fr/11534.mp3",
           "zh/11534.mp3",
           "xian2 de5",
-          "sale"
+          "[sale]"
         ],
         [
           "苦的",
@@ -323,7 +323,7 @@ window.BOOK_DATA[1] ={
           "fr/11535.mp3",
           "zh/11535.mp3",
           "ku3 de5",
-          "amer"
+          "[amer]"
         ],
         [
           "甜的",
@@ -332,7 +332,7 @@ window.BOOK_DATA[1] ={
           "fr/11536.mp3",
           "zh/11536.mp3",
           "tian2 de5",
-          "du, dus"
+          "[du, dus]"
         ],
         [
           "酸味的",
@@ -341,7 +341,7 @@ window.BOOK_DATA[1] ={
           "fr/11537.mp3",
           "zh/11537.mp3",
           "suan1 wei4 de5",
-          "ɛgr"
+          "[ɛgr]"
         ],
         [
           "清淡饮食",
@@ -350,7 +350,7 @@ window.BOOK_DATA[1] ={
           "fr/11538.mp3",
           "zh/11538.mp3",
           "qing1 dan4 yin3 shi2",
-          "r(ə)pa leʒe"
+          "[r(ə)pa leʒe]"
         ],
         [
           "美味的",
@@ -359,7 +359,7 @@ window.BOOK_DATA[1] ={
           "fr/11539.mp3",
           "zh/11539.mp3",
           "mei3 wei4 de5",
-          "delisjø, ø:z"
+          "[delisjø, ø:z]"
         ],
         [
           "美食家",
@@ -368,7 +368,7 @@ window.BOOK_DATA[1] ={
           "fr/11540.mp3",
           "zh/11540.mp3",
           "mei3 shi2 jia1",
-          "gurmɛ"
+          "[gurmɛ]"
         ],
         [
           "胃口",
@@ -377,7 +377,7 @@ window.BOOK_DATA[1] ={
           "fr/11541.mp3",
           "zh/11541.mp3",
           "wei4 kou3",
-          "apeti"
+          "[apeti]"
         ],
         [
           "开胃的",
@@ -386,7 +386,7 @@ window.BOOK_DATA[1] ={
           "fr/11542.mp3",
           "zh/11542.mp3",
           "kai1 wei4 de5",
-          "apetisɑ̃, ɑ̃:t"
+          "[apetisɑ̃, ɑ̃:t]"
         ],
         [
           "好吃的",
@@ -395,7 +395,7 @@ window.BOOK_DATA[1] ={
           "fr/11543.mp3",
           "zh/11543.mp3",
           "hao3 chi1 de5",
-          "ɛkski, i:z"
+          "[ɛkski, i:z]"
         ],
         [
           "挑剔的",
@@ -404,7 +404,7 @@ window.BOOK_DATA[1] ={
           "fr/11544.mp3",
           "zh/11544.mp3",
           "tiao1 ti1 de5",
-          "degute"
+          "[degute]"
         ],
         [
           "有规律的",
@@ -413,7 +413,7 @@ window.BOOK_DATA[1] ={
           "fr/11545.mp3",
           "zh/11545.mp3",
           "you3 gui1 lv4 de5",
-          "regylje, ɛr"
+          "[regylje, ɛr]"
         ],
         [
           "过敏的",
@@ -422,7 +422,7 @@ window.BOOK_DATA[1] ={
           "fr/11546.mp3",
           "zh/11546.mp3",
           "guo4 min3 de5",
-          "alɛrʒik"
+          "[alɛrʒik]"
         ],
         [
           "毁掉",
@@ -431,7 +431,7 @@ window.BOOK_DATA[1] ={
           "fr/11547.mp3",
           "zh/11547.mp3",
           "hui3 diao4",
-          "detrɥi:r"
+          "[detrɥi:r]"
         ],
         [
           "腌制",
@@ -440,7 +440,7 @@ window.BOOK_DATA[1] ={
           "fr/11548.mp3",
           "zh/11548.mp3",
           "yan1 zhi4",
-          "sala:ʒ"
+          "[sala:ʒ]"
         ]
       ],
       "s": [
@@ -498,7 +498,7 @@ window.BOOK_DATA[1] ={
           "fr/11554.mp3",
           "zh/11554.mp3",
           "zai4 zhou1 wei2 ， zai4 fu4 jin4",
-          "alɑ̃tu:r"
+          "[alɑ̃tu:r]"
         ],
         [
           "和谐",
@@ -507,7 +507,7 @@ window.BOOK_DATA[1] ={
           "fr/11555.mp3",
           "zh/11555.mp3",
           "he2 xie2",
-          "armɔni"
+          "[armɔni]"
         ],
         [
           "妨害，影响",
@@ -516,7 +516,7 @@ window.BOOK_DATA[1] ={
           "fr/11556.mp3",
           "zh/11556.mp3",
           "fang2 hai4 ， ying3 xiang3",
-          "afɛkte"
+          "[afɛkte]"
         ],
         [
           "担心，害怕",
@@ -525,7 +525,7 @@ window.BOOK_DATA[1] ={
           "fr/11557.mp3",
           "zh/11557.mp3",
           "dan1 xin1 ， hai4 pa4",
-          "krɛ̃:dr"
+          "[krɛ̃:dr]"
         ],
         [
           "草莓",
@@ -534,7 +534,7 @@ window.BOOK_DATA[1] ={
           "fr/11558.mp3",
           "zh/11558.mp3",
           "cao3 mei2",
-          "frɛ:z"
+          "[frɛ:z]"
         ]
       ]
     },
@@ -549,7 +549,7 @@ window.BOOK_DATA[1] ={
           "fr/11559.mp3",
           "zh/11559.mp3",
           "jiao3 zi5",
-          "ravjɔli"
+          "[ravjɔli]"
         ],
         [
           "薄饼",
@@ -558,7 +558,7 @@ window.BOOK_DATA[1] ={
           "fr/11560.mp3",
           "zh/11560.mp3",
           "bao2 bing3",
-          "krɛp"
+          "[krɛp]"
         ],
         [
           "面条",
@@ -567,7 +567,7 @@ window.BOOK_DATA[1] ={
           "fr/11561.mp3",
           "zh/11561.mp3",
           "mian4 tiao2",
-          "nuj"
+          "[nuj]"
         ],
         [
           "炒米饭",
@@ -576,7 +576,7 @@ window.BOOK_DATA[1] ={
           "fr/11562.mp3",
           "zh/11562.mp3",
           "chao3 mi3 fan4",
-          "ri frit"
+          "[ri frit]"
         ],
         [
           "馒头",
@@ -585,7 +585,7 @@ window.BOOK_DATA[1] ={
           "fr/11563.mp3",
           "zh/11563.mp3",
           "man2 tou2",
-          "pɛ̃ kɥi:r a la vapœ:r"
+          "[pɛ̃ kɥi:r a la vapœ:r]"
         ],
         [
           "火烧煎蛋卷",
@@ -594,7 +594,7 @@ window.BOOK_DATA[1] ={
           "fr/11564.mp3",
           "zh/11564.mp3",
           "huo3 shao1 jian1 dan4 juan3",
-          "ɔmlɛt flɑ̃be"
+          "[ɔmlɛt flɑ̃be]"
         ],
         [
           "蛋黄",
@@ -603,7 +603,7 @@ window.BOOK_DATA[1] ={
           "fr/11565.mp3",
           "zh/11565.mp3",
           "dan4 huang2",
-          "ʒo:n d œf"
+          "[ʒo:n d œf]"
         ],
         [
           "皮蛋",
@@ -612,7 +612,7 @@ window.BOOK_DATA[1] ={
           "fr/11566.mp3",
           "zh/11566.mp3",
           "pi2 dan4",
-          "œf kɔ̃sɛrve dɑ̃ la ʃo"
+          "[œf kɔ̃sɛrve dɑ̃ la ʃo]"
         ],
         [
           "稀饭",
@@ -621,7 +621,7 @@ window.BOOK_DATA[1] ={
           "fr/11567.mp3",
           "zh/11567.mp3",
           "xi1 fan4",
-          "ri u mijɛ grymlø"
+          "[ri u mijɛ grymlø]"
         ],
         [
           "豆浆",
@@ -630,7 +630,7 @@ window.BOOK_DATA[1] ={
           "fr/11568.mp3",
           "zh/11568.mp3",
           "dou4 jiang1",
-          "lɛ d(ə) sɔʒa(sɔja)"
+          "[lɛ d(ə) sɔʒa(sɔja)]"
         ],
         [
           "烤鸭",
@@ -639,7 +639,7 @@ window.BOOK_DATA[1] ={
           "fr/11569.mp3",
           "zh/11569.mp3",
           "kao3 ya1",
-          "kana:r lake"
+          "[kana:r lake]"
         ],
         [
           "咸鸡蛋",
@@ -648,7 +648,7 @@ window.BOOK_DATA[1] ={
           "fr/11570.mp3",
           "zh/11570.mp3",
           "xian2 ji1 dan4",
-          "œf salɛ"
+          "[œf salɛ]"
         ],
         [
           "火锅",
@@ -657,7 +657,7 @@ window.BOOK_DATA[1] ={
           "fr/11571.mp3",
           "zh/11571.mp3",
           "huo3 guo1",
-          "fɔ̃dy"
+          "[fɔ̃dy]"
         ],
         [
           "煮鸡蛋",
@@ -666,7 +666,7 @@ window.BOOK_DATA[1] ={
           "fr/11572.mp3",
           "zh/11572.mp3",
           "zhu3 ji1 dan4",
-          "œf dy:r"
+          "[œf dy:r]"
         ]
       ],
       "s": [
@@ -733,7 +733,7 @@ window.BOOK_DATA[1] ={
           "fr/11579.mp3",
           "zh/11579.mp3",
           "da4 dou4 ， huang2 dou4",
-          "sɔʒa(sɔja)"
+          "[sɔʒa(sɔja)]"
         ],
         [
           "烤制，烘烤",
@@ -742,7 +742,7 @@ window.BOOK_DATA[1] ={
           "fr/11580.mp3",
           "zh/11580.mp3",
           "kao3 zhi4 ， hong1 kao3",
-          "ro(ɔ)ti:r"
+          "[ro(ɔ)ti:r]"
         ],
         [
           "重大的",
@@ -751,7 +751,7 @@ window.BOOK_DATA[1] ={
           "fr/11581.mp3",
           "zh/11581.mp3",
           "zhong4 da4 de5",
-          "maʒœ:r"
+          "[maʒœ:r]"
         ]
       ]
     },
@@ -766,7 +766,7 @@ window.BOOK_DATA[1] ={
           "fr/11582.mp3",
           "zh/11582.mp3",
           "huang2 you2",
-          "bœ:r"
+          "[bœ:r]"
         ],
         [
           "培根",
@@ -775,7 +775,7 @@ window.BOOK_DATA[1] ={
           "fr/11583.mp3",
           "zh/11583.mp3",
           "pei2 gen1",
-          "bekɔ̃"
+          "[bekɔ̃]"
         ],
         [
           "沙拉",
@@ -784,7 +784,7 @@ window.BOOK_DATA[1] ={
           "fr/11584.mp3",
           "zh/11584.mp3",
           "sha1 la1",
-          "salad"
+          "[salad]"
         ],
         [
           "三明治",
@@ -793,7 +793,7 @@ window.BOOK_DATA[1] ={
           "fr/11585.mp3",
           "zh/11585.mp3",
           "san1 ming2 zhi4",
-          "sɑ̃dwitʃ"
+          "[sɑ̃dwitʃ]"
         ],
         [
           "开胃品",
@@ -802,7 +802,7 @@ window.BOOK_DATA[1] ={
           "fr/11586.mp3",
           "zh/11586.mp3",
           "kai1 wei4 pin3",
-          "aperitif"
+          "[aperitif]"
         ],
         [
           "比萨",
@@ -811,7 +811,7 @@ window.BOOK_DATA[1] ={
           "fr/11587.mp3",
           "zh/11587.mp3",
           "bi3 sa4",
-          "piza"
+          "[piza]"
         ],
         [
           "汉堡",
@@ -820,7 +820,7 @@ window.BOOK_DATA[1] ={
           "fr/11588.mp3",
           "zh/11588.mp3",
           "han4 bao3",
-          "ɑ̃bœrɡœr"
+          "[ɑ̃bœrɡœr]"
         ],
         [
           "香肠",
@@ -829,7 +829,7 @@ window.BOOK_DATA[1] ={
           "fr/11589.mp3",
           "zh/11589.mp3",
           "xiang1 chang2",
-          "sosis"
+          "[sosis]"
         ],
         [
           "吐司",
@@ -838,7 +838,7 @@ window.BOOK_DATA[1] ={
           "fr/11590.mp3",
           "zh/11590.mp3",
           "tu3 si1",
-          "to:st"
+          "[to:st]"
         ],
         [
           "煎蛋卷",
@@ -847,7 +847,7 @@ window.BOOK_DATA[1] ={
           "fr/11591.mp3",
           "zh/11591.mp3",
           "jian1 dan4 juan3",
-          "ɔ̃mlɛt"
+          "[ɔ̃mlɛt]"
         ],
         [
           "松露",
@@ -856,7 +856,7 @@ window.BOOK_DATA[1] ={
           "fr/11592.mp3",
           "zh/11592.mp3",
           "song1 lu4",
-          "tryf"
+          "[tryf]"
         ],
         [
           "奶酪",
@@ -865,7 +865,7 @@ window.BOOK_DATA[1] ={
           "fr/11593.mp3",
           "zh/11593.mp3",
           "nai3 lao4",
-          "frɔma:ʒ"
+          "[frɔma:ʒ]"
         ],
         [
           "法式蛋奶冻",
@@ -874,7 +874,7 @@ window.BOOK_DATA[1] ={
           "fr/11594.mp3",
           "zh/11594.mp3",
           "fa3 shi4 dan4 nai3 dong4",
-          "krem bryle"
+          "[krem bryle]"
         ],
         [
           "烤鹅肝",
@@ -883,7 +883,7 @@ window.BOOK_DATA[1] ={
           "fr/11595.mp3",
           "zh/11595.mp3",
           "kao3 e2 gan1",
-          "fwa gras rɔ(ɔ)ti"
+          "[fwa gras rɔ(ɔ)ti]"
         ],
         [
           "蛋挞",
@@ -892,7 +892,7 @@ window.BOOK_DATA[1] ={
           "fr/11596.mp3",
           "zh/11596.mp3",
           "dan4 ta4",
-          "tart"
+          "[tart]"
         ],
         [
           "圣代",
@@ -901,7 +901,7 @@ window.BOOK_DATA[1] ={
           "fr/11597.mp3",
           "zh/11597.mp3",
           "sheng4 dai4",
-          "glas"
+          "[glas]"
         ],
         [
           "马卡龙",
@@ -910,7 +910,7 @@ window.BOOK_DATA[1] ={
           "fr/11598.mp3",
           "zh/11598.mp3",
           "ma3 ka3 long2",
-          "makarɔ̃"
+          "[makarɔ̃]"
         ],
         [
           "棉花糖",
@@ -919,7 +919,7 @@ window.BOOK_DATA[1] ={
           "fr/11599.mp3",
           "zh/11599.mp3",
           "mian2 hua1 tang2",
-          "barb a papa"
+          "[barb a papa]"
         ],
         [
           "棒棒糖",
@@ -928,7 +928,7 @@ window.BOOK_DATA[1] ={
           "fr/11600.mp3",
           "zh/11600.mp3",
           "bang4 bang4 tang2",
-          "syset"
+          "[syset]"
         ]
       ],
       "s": [
@@ -986,7 +986,7 @@ window.BOOK_DATA[1] ={
           "fr/11606.mp3",
           "zh/11606.mp3",
           "qi3 tu2 ， shi4 tu2",
-          "tâte"
+          "[tâte]"
         ],
         [
           "混合，搀和",
@@ -995,7 +995,7 @@ window.BOOK_DATA[1] ={
           "fr/11607.mp3",
           "zh/11607.mp3",
           "hun4 he2 ， chan1 he2",
-          "melɑ̃:ʒ"
+          "[melɑ̃:ʒ]"
         ],
         [
           "组成部分",
@@ -1004,7 +1004,7 @@ window.BOOK_DATA[1] ={
           "fr/11608.mp3",
           "zh/11608.mp3",
           "zu3 cheng2 bu4 fen1",
-          "ɛ̃g redjɑ̃"
+          "[ɛ̃g redjɑ̃]"
         ],
         [
           "盘子",
@@ -1013,7 +1013,7 @@ window.BOOK_DATA[1] ={
           "fr/11609.mp3",
           "zh/11609.mp3",
           "pan2 zi5",
-          "asjɛt"
+          "[asjɛt]"
         ],
         [
           "偷，刺激",
@@ -1022,7 +1022,7 @@ window.BOOK_DATA[1] ={
           "fr/11610.mp3",
           "zh/11610.mp3",
           "tou1 ， ci4 ji1",
-          "pike"
+          "[pike]"
         ]
       ]
     },
@@ -1037,7 +1037,7 @@ window.BOOK_DATA[1] ={
           "fr/11611.mp3",
           "zh/11611.mp3",
           "nv3 fu2 wu4 yuan2",
-          "sɛʁvø:z"
+          "[sɛʁvø:z]"
         ],
         [
           "男服务员",
@@ -1046,7 +1046,7 @@ window.BOOK_DATA[1] ={
           "fr/11612.mp3",
           "zh/11612.mp3",
           "nan2 fu2 wu4 yuan2",
-          "sɛʁvœ:r"
+          "[sɛʁvœ:r]"
         ],
         [
           "菜单",
@@ -1055,7 +1055,7 @@ window.BOOK_DATA[1] ={
           "fr/11613.mp3",
           "zh/11613.mp3",
           "cai4 dan1",
-          "mɑny"
+          "[mɑny]"
         ],
         [
           "一道菜",
@@ -1064,7 +1064,7 @@ window.BOOK_DATA[1] ={
           "fr/11614.mp3",
           "zh/11614.mp3",
           "yi2 dao4 cai4",
-          "pla"
+          "[pla]"
         ],
         [
           "套餐",
@@ -1073,7 +1073,7 @@ window.BOOK_DATA[1] ={
           "fr/11615.mp3",
           "zh/11615.mp3",
           "tao4 can1",
-          "fɔʁfɛ"
+          "[fɔʁfɛ]"
         ],
         [
           "厨师长",
@@ -1082,7 +1082,7 @@ window.BOOK_DATA[1] ={
           "fr/11616.mp3",
           "zh/11616.mp3",
           "chu2 shi1 zhang3",
-          "ʃɛf də kɥizin"
+          "[ʃɛf də kɥizin]"
         ],
         [
           "自助餐",
@@ -1091,7 +1091,7 @@ window.BOOK_DATA[1] ={
           "fr/11617.mp3",
           "zh/11617.mp3",
           "zi4 zhu4 can1",
-          "byfɛ a vɔlɔ̃te"
+          "[byfɛ a vɔlɔ̃te]"
         ],
         [
           "共享，分担",
@@ -1100,7 +1100,7 @@ window.BOOK_DATA[1] ={
           "fr/11618.mp3",
           "zh/11618.mp3",
           "gong4 xiang3 ， fen1 dan1",
-          "paʁtaʒe"
+          "[paʁtaʒe]"
         ],
         [
           "个人的",
@@ -1109,7 +1109,7 @@ window.BOOK_DATA[1] ={
           "fr/11619.mp3",
           "zh/11619.mp3",
           "ge4 ren2 de5",
-          "pɛʁsɔnɛl"
+          "[pɛʁsɔnɛl]"
         ],
         [
           "流口水",
@@ -1118,7 +1118,7 @@ window.BOOK_DATA[1] ={
           "fr/11620.mp3",
           "zh/11620.mp3",
           "liu2 kou3 shui3",
-          "bavɛ"
+          "[bavɛ]"
         ],
         [
           "洒出",
@@ -1127,7 +1127,7 @@ window.BOOK_DATA[1] ={
           "fr/11621.mp3",
           "zh/11621.mp3",
           "sa3 chu1",
-          "debɔʁde"
+          "[debɔʁde]"
         ],
         [
           "饱的",
@@ -1136,7 +1136,7 @@ window.BOOK_DATA[1] ={
           "fr/11622.mp3",
           "zh/11622.mp3",
           "bao3 de5",
-          "ʁəpy"
+          "[ʁəpy]"
         ],
         [
           "吃饱喝足",
@@ -1145,7 +1145,7 @@ window.BOOK_DATA[1] ={
           "fr/11623.mp3",
           "zh/11623.mp3",
           "chi1 bao3 he1 zu2",
-          "s(ə) tapə la klɔʃ"
+          "[s(ə) tapə la klɔʃ]"
         ],
         [
           "吃饱",
@@ -1154,7 +1154,7 @@ window.BOOK_DATA[1] ={
           "fr/11624.mp3",
           "zh/11624.mp3",
           "chi1 bao3",
-          "asuvi:ʁ"
+          "[asuvi:ʁ]"
         ],
         [
           "厨子",
@@ -1163,7 +1163,7 @@ window.BOOK_DATA[1] ={
           "fr/11625.mp3",
           "zh/11625.mp3",
           "chu2 zi5",
-          "kɥisto"
+          "[kɥisto]"
         ]
       ],
       "s": [
@@ -1212,7 +1212,7 @@ window.BOOK_DATA[1] ={
           "fr/11630.mp3",
           "zh/11630.mp3",
           "zhao1 mu4 ， zhao1 zhi4",
-          "ɑ̃boʃe"
+          "[ɑ̃boʃe]"
         ],
         [
           "固定的",
@@ -1221,7 +1221,7 @@ window.BOOK_DATA[1] ={
           "fr/11631.mp3",
           "zh/11631.mp3",
           "gu4 ding4 de5",
-          "ʁegylje, ɛʁ"
+          "[ʁegylje, ɛʁ]"
         ],
         [
           "实现，认识",
@@ -1230,7 +1230,7 @@ window.BOOK_DATA[1] ={
           "fr/11632.mp3",
           "zh/11632.mp3",
           "shi2 xian4 ， ren4 shi2",
-          "ʁealize"
+          "[ʁealize]"
         ],
         [
           "前进，进步",
@@ -1239,7 +1239,7 @@ window.BOOK_DATA[1] ={
           "fr/11633.mp3",
           "zh/11633.mp3",
           "qian2 jin4 ， jin4 bu4",
-          "pʁɔgʁɛ(s)e"
+          "[pʁɔgʁɛ(s)e]"
         ],
         [
           "相互地",
@@ -1248,7 +1248,7 @@ window.BOOK_DATA[1] ={
           "fr/11634.mp3",
           "zh/11634.mp3",
           "xiang1 hu4 di4",
-          "mytyɛlmɑ̃"
+          "[mytyɛlmɑ̃]"
         ],
         [
           "泡沫",
@@ -1257,7 +1257,7 @@ window.BOOK_DATA[1] ={
           "fr/11635.mp3",
           "zh/11635.mp3",
           "pao4 mo4",
-          "mus"
+          "[mus]"
         ]
       ]
     },
@@ -1272,7 +1272,7 @@ window.BOOK_DATA[1] ={
           "fr/11636.mp3",
           "zh/11636.mp3",
           "fang1 bian4 mian4",
-          "nuj ɛ̃s tɑ̃tane"
+          "[nuj ɛ̃s tɑ̃tane]"
         ],
         [
           "揉",
@@ -1281,7 +1281,7 @@ window.BOOK_DATA[1] ={
           "fr/11637.mp3",
           "zh/11637.mp3",
           "rou2",
-          "frɔte"
+          "[frɔte]"
         ],
         [
           "擀平",
@@ -1290,7 +1290,7 @@ window.BOOK_DATA[1] ={
           "fr/11638.mp3",
           "zh/11638.mp3",
           "gan3 ping2",
-          "abɛ(e)se d(ə) la pa:t"
+          "[abɛ(e)se d(ə) la pa:t]"
         ],
         [
           "麻酱面",
@@ -1299,7 +1299,7 @@ window.BOOK_DATA[1] ={
           "fr/11639.mp3",
           "zh/11639.mp3",
           "ma2 jiang4 mian4",
-          "nuj də sezam"
+          "[nuj də sezam]"
         ],
         [
           "米粉",
@@ -1308,7 +1308,7 @@ window.BOOK_DATA[1] ={
           "fr/11640.mp3",
           "zh/11640.mp3",
           "mi3 fen3",
-          "farin də ri"
+          "[farin də ri]"
         ],
         [
           "意大利面",
@@ -1317,7 +1317,7 @@ window.BOOK_DATA[1] ={
           "fr/11641.mp3",
           "zh/11641.mp3",
           "yi4 da4 li4 mian4",
-          "pa:t"
+          "[pa:t]"
         ],
         [
           "宽面条",
@@ -1326,7 +1326,7 @@ window.BOOK_DATA[1] ={
           "fr/11642.mp3",
           "zh/11642.mp3",
           "kuan1 mian4 tiao2",
-          "lazaɲ"
+          "[lazaɲ]"
         ],
         [
           "扁面条",
@@ -1335,7 +1335,7 @@ window.BOOK_DATA[1] ={
           "fr/11643.mp3",
           "zh/11643.mp3",
           "bian3 mian4 tiao2",
-          "nuj plat"
+          "[nuj plat]"
         ],
         [
           "通心粉",
@@ -1344,7 +1344,7 @@ window.BOOK_DATA[1] ={
           "fr/11644.mp3",
           "zh/11644.mp3",
           "tong1 xin1 fen3",
-          "makarɔni"
+          "[makarɔni]"
         ],
         [
           "风味",
@@ -1353,7 +1353,7 @@ window.BOOK_DATA[1] ={
           "fr/11645.mp3",
           "zh/11645.mp3",
           "feng1 wei4",
-          "savœ:r"
+          "[savœ:r]"
         ],
         [
           "调味汁",
@@ -1362,7 +1362,7 @@ window.BOOK_DATA[1] ={
           "fr/11646.mp3",
           "zh/11646.mp3",
           "diao4 wei4 zhi1",
-          "so:s"
+          "[so:s]"
         ],
         [
           "米粉条",
@@ -1371,7 +1371,7 @@ window.BOOK_DATA[1] ={
           "fr/11647.mp3",
           "zh/11647.mp3",
           "mi3 fen3 tiao2",
-          "vermisɛl d(ə) ri"
+          "[vermisɛl d(ə) ri]"
         ],
         [
           "面粉",
@@ -1380,7 +1380,7 @@ window.BOOK_DATA[1] ={
           "fr/11648.mp3",
           "zh/11648.mp3",
           "mian4 fen3",
-          "farin"
+          "[farin]"
         ],
         [
           "面疙瘩",
@@ -1389,7 +1389,7 @@ window.BOOK_DATA[1] ={
           "fr/11649.mp3",
           "zh/11649.mp3",
           "mian4 ge1 da1",
-          "bal də pat"
+          "[bal də pat]"
         ],
         [
           "面团",
@@ -1398,7 +1398,7 @@ window.BOOK_DATA[1] ={
           "fr/11650.mp3",
           "zh/11650.mp3",
           "mian4 tuan2",
-          "pa:t"
+          "[pa:t]"
         ]
       ],
       "s": [
@@ -1465,7 +1465,7 @@ window.BOOK_DATA[1] ={
           "fr/11657.mp3",
           "zh/11657.mp3",
           "nan2 yi3 zhi4 xin4 de5",
-          "ɛ̃k rwajabl"
+          "[ɛ̃k rwajabl]"
         ],
         [
           "简单地",
@@ -1474,7 +1474,7 @@ window.BOOK_DATA[1] ={
           "fr/11658.mp3",
           "zh/11658.mp3",
           "jian3 dan1 di4",
-          "sɛ̃p lamɑ̃"
+          "[sɛ̃p lamɑ̃]"
         ],
         [
           "奶酪",
@@ -1483,7 +1483,7 @@ window.BOOK_DATA[1] ={
           "fr/11659.mp3",
           "zh/11659.mp3",
           "nai3 lao4",
-          "frɔma:ʒ"
+          "[frɔma:ʒ]"
         ]
       ]
     },
@@ -1498,7 +1498,7 @@ window.BOOK_DATA[1] ={
           "fr/11660.mp3",
           "zh/11660.mp3",
           "mian4 bao1",
-          "pɛ"
+          "[pɛ]"
         ],
         [
           "甜甜圈",
@@ -1507,7 +1507,7 @@ window.BOOK_DATA[1] ={
           "fr/11661.mp3",
           "zh/11661.mp3",
           "tian2 tian2 quan1",
-          "dɔnyt"
+          "[dɔnyt]"
         ],
         [
           "面包片",
@@ -1516,7 +1516,7 @@ window.BOOK_DATA[1] ={
           "fr/11662.mp3",
           "zh/11662.mp3",
           "mian4 bao1 pian4",
-          "tartin"
+          "[tartin]"
         ],
         [
           "新月形面包",
@@ -1525,7 +1525,7 @@ window.BOOK_DATA[1] ={
           "fr/11663.mp3",
           "zh/11663.mp3",
           "xin1 yue4 xing2 mian4 bao1",
-          "krwasɑ̃"
+          "[krwasɑ̃]"
         ],
         [
           "泡芙",
@@ -1534,7 +1534,7 @@ window.BOOK_DATA[1] ={
           "fr/11664.mp3",
           "zh/11664.mp3",
           "pao4 fu2",
-          "prɔfitrɔl"
+          "[prɔfitrɔl]"
         ],
         [
           "面包皮",
@@ -1543,7 +1543,7 @@ window.BOOK_DATA[1] ={
           "fr/11665.mp3",
           "zh/11665.mp3",
           "mian4 bao1 pi2",
-          "krut"
+          "[krut]"
         ],
         [
           "圆面包",
@@ -1552,7 +1552,7 @@ window.BOOK_DATA[1] ={
           "fr/11666.mp3",
           "zh/11666.mp3",
           "yuan2 mian4 bao1",
-          "turto"
+          "[turto]"
         ],
         [
           "酵母",
@@ -1561,7 +1561,7 @@ window.BOOK_DATA[1] ={
           "fr/11667.mp3",
           "zh/11667.mp3",
           "jiao4 mu3",
-          "fermɑ̃"
+          "[fermɑ̃]"
         ],
         [
           "面包屑",
@@ -1570,7 +1570,7 @@ window.BOOK_DATA[1] ={
           "fr/11668.mp3",
           "zh/11668.mp3",
           "mian4 bao1 xie4",
-          "mjɛt"
+          "[mjɛt]"
         ],
         [
           "法式长棍面包",
@@ -1579,7 +1579,7 @@ window.BOOK_DATA[1] ={
           "fr/11669.mp3",
           "zh/11669.mp3",
           "fa3 shi4 zhang3 gun4 mian4 bao1",
-          "bagɛt"
+          "[bagɛt]"
         ],
         [
           "脆皮的",
@@ -1588,7 +1588,7 @@ window.BOOK_DATA[1] ={
           "fr/11670.mp3",
           "zh/11670.mp3",
           "cui4 pi2 de5",
-          "krustijɑ̃, ɑ̃t"
+          "[krustijɑ̃, ɑ̃t]"
         ],
         [
           "杂粮面包",
@@ -1597,7 +1597,7 @@ window.BOOK_DATA[1] ={
           "fr/11671.mp3",
           "zh/11671.mp3",
           "za2 liang2 mian4 bao1",
-          "pɛ̃ o sereal"
+          "[pɛ̃ o sereal]"
         ],
         [
           "细长形面包",
@@ -1606,7 +1606,7 @@ window.BOOK_DATA[1] ={
           "fr/11672.mp3",
           "zh/11672.mp3",
           "xi4 zhang3 xing2 mian4 bao1",
-          "flyt"
+          "[flyt]"
         ],
         [
           "圆形面包",
@@ -1615,7 +1615,7 @@ window.BOOK_DATA[1] ={
           "fr/11673.mp3",
           "zh/11673.mp3",
           "yuan2 xing2 mian4 bao1",
-          "bul"
+          "[bul]"
         ],
         [
           "小棍面包",
@@ -1624,7 +1624,7 @@ window.BOOK_DATA[1] ={
           "fr/11674.mp3",
           "zh/11674.mp3",
           "xiao3 gun4 mian4 bao1",
-          "fisɛl"
+          "[fisɛl]"
         ],
         [
           "黑麦面包",
@@ -1633,7 +1633,7 @@ window.BOOK_DATA[1] ={
           "fr/11675.mp3",
           "zh/11675.mp3",
           "hei1 mai4 mian4 bao1",
-          "pɛ̃ d(ə) sɛgl"
+          "[pɛ̃ d(ə) sɛgl]"
         ],
         [
           "面包心，软面包",
@@ -1642,7 +1642,7 @@ window.BOOK_DATA[1] ={
           "fr/11676.mp3",
           "zh/11676.mp3",
           "mian4 bao1 xin1 ， ruan3 mian4 bao1",
-          "pɛ̃ d(ə) mi"
+          "[pɛ̃ d(ə) mi]"
         ]
       ],
       "s": [
@@ -1700,7 +1700,7 @@ window.BOOK_DATA[1] ={
           "fr/11682.mp3",
           "zh/11682.mp3",
           "ce4 liang4",
-          "m(ə)zyre"
+          "[m(ə)zyre]"
         ],
         [
           "面包片",
@@ -1709,7 +1709,7 @@ window.BOOK_DATA[1] ={
           "fr/11683.mp3",
           "zh/11683.mp3",
           "mian4 bao1 pian4",
-          "tartin"
+          "[tartin]"
         ],
         [
           "果酱",
@@ -1718,7 +1718,7 @@ window.BOOK_DATA[1] ={
           "fr/11684.mp3",
           "zh/11684.mp3",
           "guo3 jiang4",
-          "tartin"
+          "[tartin]"
         ],
         [
           "苹果",
@@ -1727,7 +1727,7 @@ window.BOOK_DATA[1] ={
           "fr/11685.mp3",
           "zh/11685.mp3",
           "ping2 guo3",
-          "pɔm"
+          "[pɔm]"
         ],
         [
           "侄女",
@@ -1736,7 +1736,7 @@ window.BOOK_DATA[1] ={
           "fr/11686.mp3",
           "zh/11686.mp3",
           "zhi2 nv3",
-          "njɛs"
+          "[njɛs]"
         ],
         [
           "薄片",
@@ -1745,7 +1745,7 @@ window.BOOK_DATA[1] ={
           "fr/11687.mp3",
           "zh/11687.mp3",
           "bao2 pian4",
-          "trɑ̃:ʃ"
+          "[trɑ̃:ʃ]"
         ]
       ]
     },
@@ -1760,7 +1760,7 @@ window.BOOK_DATA[1] ={
           "fr/11688.mp3",
           "zh/11688.mp3",
           "dan4 gao1",
-          "gato"
+          "[gato]"
         ],
         [
           "块，片",
@@ -1769,7 +1769,7 @@ window.BOOK_DATA[1] ={
           "fr/11689.mp3",
           "zh/11689.mp3",
           "kuai4 ， pian4",
-          "pjɛs"
+          "[pjɛs]"
         ],
         [
           "千克，公斤",
@@ -1778,7 +1778,7 @@ window.BOOK_DATA[1] ={
           "fr/11690.mp3",
           "zh/11690.mp3",
           "qian1 ke4 ， gong1 jin1",
-          "kilɔgram"
+          "[kilɔgram]"
         ],
         [
           "法寸",
@@ -1787,7 +1787,7 @@ window.BOOK_DATA[1] ={
           "fr/11691.mp3",
           "zh/11691.mp3",
           "fa3 cun4",
-          "pus"
+          "[pus]"
         ],
         [
           "慕斯",
@@ -1796,7 +1796,7 @@ window.BOOK_DATA[1] ={
           "fr/11692.mp3",
           "zh/11692.mp3",
           "mu4 si1",
-          "mus"
+          "[mus]"
         ],
         [
           "奶酪，芝士",
@@ -1805,7 +1805,7 @@ window.BOOK_DATA[1] ={
           "fr/11693.mp3",
           "zh/11693.mp3",
           "nai3 lao4 ， zhi1 shi4",
-          "frɔma:ʒ"
+          "[frɔma:ʒ]"
         ],
         [
           "提拉米苏",
@@ -1814,7 +1814,7 @@ window.BOOK_DATA[1] ={
           "fr/11694.mp3",
           "zh/11694.mp3",
           "ti2 la1 mi3 su1",
-          "tiramisu"
+          "[tiramisu]"
         ],
         [
           "撒",
@@ -1823,7 +1823,7 @@ window.BOOK_DATA[1] ={
           "fr/11695.mp3",
           "zh/11695.mp3",
           "sa1",
-          "lɑʃe"
+          "[lɑʃe]"
         ],
         [
           "奶油",
@@ -1832,7 +1832,7 @@ window.BOOK_DATA[1] ={
           "fr/11696.mp3",
           "zh/11696.mp3",
           "nai3 you2",
-          "krɛm"
+          "[krɛm]"
         ],
         [
           "搅",
@@ -1841,7 +1841,7 @@ window.BOOK_DATA[1] ={
           "fr/11697.mp3",
           "zh/11697.mp3",
           "jiao3",
-          "aʒite"
+          "[aʒite]"
         ],
         [
           "油腻的",
@@ -1850,7 +1850,7 @@ window.BOOK_DATA[1] ={
           "fr/11698.mp3",
           "zh/11698.mp3",
           "you2 ni4 de5",
-          "gra, s"
+          "[gra, s]"
         ],
         [
           "巧克力",
@@ -1859,7 +1859,7 @@ window.BOOK_DATA[1] ={
           "fr/11699.mp3",
           "zh/11699.mp3",
           "qiao3 ke4 li4",
-          "ʃɔkɔla"
+          "[ʃɔkɔla]"
         ],
         [
           "杏仁",
@@ -1868,7 +1868,7 @@ window.BOOK_DATA[1] ={
           "fr/11700.mp3",
           "zh/11700.mp3",
           "xing4 ren2",
-          "amɑ̃:d"
+          "[amɑ̃:d]"
         ],
         [
           "糖浆",
@@ -1877,7 +1877,7 @@ window.BOOK_DATA[1] ={
           "fr/11701.mp3",
           "zh/11701.mp3",
           "tang2 jiang1",
-          "siro"
+          "[siro]"
         ],
         [
           "水果罐头",
@@ -1886,7 +1886,7 @@ window.BOOK_DATA[1] ={
           "fr/11702.mp3",
           "zh/11702.mp3",
           "shui3 guo3 guan4 tou2",
-          "kɔ̃sɛrv d(ə) frɥi"
+          "[kɔ̃sɛrv d(ə) frɥi]"
         ],
         [
           "涂",
@@ -1895,7 +1895,7 @@ window.BOOK_DATA[1] ={
           "fr/11703.mp3",
           "zh/11703.mp3",
           "tu2",
-          "ɑ̃dɥi:r"
+          "[ɑ̃dɥi:r]"
         ],
         [
           "挤",
@@ -1904,7 +1904,7 @@ window.BOOK_DATA[1] ={
           "fr/11704.mp3",
           "zh/11704.mp3",
           "ji3",
-          "puse"
+          "[puse]"
         ],
         [
           "奶油面包",
@@ -1913,7 +1913,7 @@ window.BOOK_DATA[1] ={
           "fr/11705.mp3",
           "zh/11705.mp3",
           "nai3 you2 mian4 bao1",
-          "pɛ̃ krɛm"
+          "[pɛ̃ krɛm]"
         ],
         [
           "奶油蛋糕",
@@ -1922,7 +1922,7 @@ window.BOOK_DATA[1] ={
           "fr/11706.mp3",
           "zh/11706.mp3",
           "nai3 you2 dan4 gao1",
-          "gato krɛm"
+          "[gato krɛm]"
         ]
       ],
       "s": [
@@ -1971,7 +1971,7 @@ window.BOOK_DATA[1] ={
           "fr/11711.mp3",
           "zh/11711.mp3",
           "niu2 rou4",
-          "bœf"
+          "[bœf]"
         ],
         [
           "差别",
@@ -1980,7 +1980,7 @@ window.BOOK_DATA[1] ={
           "fr/11712.mp3",
           "zh/11712.mp3",
           "cha4 bie2",
-          "diferɑ̃:s"
+          "[diferɑ̃:s]"
         ],
         [
           "违规",
@@ -1989,7 +1989,7 @@ window.BOOK_DATA[1] ={
           "fr/11713.mp3",
           "zh/11713.mp3",
           "wei2 gui1",
-          "vjɔla(ɑ)sjɔ̃"
+          "[vjɔla(ɑ)sjɔ̃]"
         ],
         [
           "隐藏",
@@ -1998,7 +1998,7 @@ window.BOOK_DATA[1] ={
           "fr/11714.mp3",
           "zh/11714.mp3",
           "yin3 cang2",
-          "kaʃe"
+          "[kaʃe]"
         ],
         [
           "饼干",
@@ -2007,7 +2007,7 @@ window.BOOK_DATA[1] ={
           "fr/11715.mp3",
           "zh/11715.mp3",
           "bing3 gan4",
-          "biskɥi"
+          "[biskɥi]"
         ],
         [
           "大衣柜",
@@ -2016,7 +2016,7 @@ window.BOOK_DATA[1] ={
           "fr/11716.mp3",
           "zh/11716.mp3",
           "da4 yi1 gui4",
-          "armwa:r"
+          "[armwa:r]"
         ]
       ]
     },
@@ -2031,7 +2031,7 @@ window.BOOK_DATA[1] ={
           "fr/11717.mp3",
           "zh/11717.mp3",
           "peng1 diao4",
-          "kɥizin"
+          "[kɥizin]"
         ],
         [
           "烹饪法",
@@ -2040,7 +2040,7 @@ window.BOOK_DATA[1] ={
           "fr/11718.mp3",
           "zh/11718.mp3",
           "peng1 ren4 fa3",
-          "r(ə)sɛt"
+          "[r(ə)sɛt]"
         ],
         [
           "食谱",
@@ -2049,7 +2049,7 @@ window.BOOK_DATA[1] ={
           "fr/11719.mp3",
           "zh/11719.mp3",
           "shi2 pu3",
-          "li:vr d(ə) r(ə)sɛt"
+          "[li:vr d(ə) r(ə)sɛt]"
         ],
         [
           "油煎",
@@ -2058,7 +2058,7 @@ window.BOOK_DATA[1] ={
           "fr/11720.mp3",
           "zh/11720.mp3",
           "you2 jian1",
-          "frity:r"
+          "[frity:r]"
         ],
         [
           "炒",
@@ -2067,7 +2067,7 @@ window.BOOK_DATA[1] ={
           "fr/11721.mp3",
           "zh/11721.mp3",
           "chao3",
-          "sote"
+          "[sote]"
         ],
         [
           "炸",
@@ -2076,7 +2076,7 @@ window.BOOK_DATA[1] ={
           "fr/11722.mp3",
           "zh/11722.mp3",
           "zha4",
-          "frir"
+          "[frir]"
         ],
         [
           "烤",
@@ -2085,7 +2085,7 @@ window.BOOK_DATA[1] ={
           "fr/11723.mp3",
           "zh/11723.mp3",
           "kao3",
-          "kɥi:r"
+          "[kɥi:r]"
         ],
         [
           "热的",
@@ -2094,7 +2094,7 @@ window.BOOK_DATA[1] ={
           "fr/11724.mp3",
           "zh/11724.mp3",
           "re4 de5",
-          "ʃo, o:d"
+          "[ʃo, o:d]"
         ],
         [
           "烤",
@@ -2103,7 +2103,7 @@ window.BOOK_DATA[1] ={
           "fr/11725.mp3",
           "zh/11725.mp3",
           "kao3",
-          "ro(ɔ)ti:r"
+          "[ro(ɔ)ti:r]"
         ],
         [
           "烤",
@@ -2112,7 +2112,7 @@ window.BOOK_DATA[1] ={
           "fr/11726.mp3",
           "zh/11726.mp3",
           "kao3",
-          "grije"
+          "[grije]"
         ],
         [
           "烧烤",
@@ -2121,7 +2121,7 @@ window.BOOK_DATA[1] ={
           "fr/11727.mp3",
           "zh/11727.mp3",
           "shao1 kao3",
-          "kalsine"
+          "[kalsine]"
         ],
         [
           "炖",
@@ -2130,7 +2130,7 @@ window.BOOK_DATA[1] ={
           "fr/11728.mp3",
           "zh/11728.mp3",
           "dun4",
-          "etyve"
+          "[etyve]"
         ],
         [
           "腌",
@@ -2139,7 +2139,7 @@ window.BOOK_DATA[1] ={
           "fr/11729.mp3",
           "zh/11729.mp3",
           "yan1",
-          "sale"
+          "[sale]"
         ],
         [
           "切割",
@@ -2148,7 +2148,7 @@ window.BOOK_DATA[1] ={
           "fr/11730.mp3",
           "zh/11730.mp3",
           "qie4 ge1",
-          "ʃytaʒ"
+          "[ʃytaʒ]"
         ],
         [
           "切碎",
@@ -2157,7 +2157,7 @@ window.BOOK_DATA[1] ={
           "fr/11731.mp3",
           "zh/11731.mp3",
           "qie4 sui4",
-          "aʃe"
+          "[aʃe]"
         ],
         [
           "拌",
@@ -2166,7 +2166,7 @@ window.BOOK_DATA[1] ={
           "fr/11732.mp3",
           "zh/11732.mp3",
           "ban4",
-          "r(ə)mɥe"
+          "[r(ə)mɥe]"
         ],
         [
           "切片",
@@ -2175,7 +2175,7 @@ window.BOOK_DATA[1] ={
           "fr/11733.mp3",
           "zh/11733.mp3",
           "qie4 pian4",
-          "kupe"
+          "[kupe]"
         ],
         [
           "剥，剥皮",
@@ -2184,7 +2184,7 @@ window.BOOK_DATA[1] ={
           "fr/11734.mp3",
           "zh/11734.mp3",
           "bo1 ， bo1 pi2",
-          "eplyʃe"
+          "[eplyʃe]"
         ],
         [
           "在烤箱烘烤",
@@ -2193,7 +2193,7 @@ window.BOOK_DATA[1] ={
           "fr/11735.mp3",
           "zh/11735.mp3",
           "zai4 kao3 xiang1 hong1 kao3",
-          "kɥi:r ɑ̃ papijɔt"
+          "[kɥi:r ɑ̃ papijɔt]"
         ]
       ],
       "s": [
@@ -2260,7 +2260,7 @@ window.BOOK_DATA[1] ={
           "fr/11742.mp3",
           "zh/11742.mp3",
           "ji4 ran2",
-          "pɥisk"
+          "[pɥisk]"
         ],
         [
           "职业，生涯",
@@ -2269,7 +2269,7 @@ window.BOOK_DATA[1] ={
           "fr/11743.mp3",
           "zh/11743.mp3",
           "zhi2 ye4 ， sheng1 ya2",
-          "ka(ə)rje:r"
+          "[ka(ə)rje:r]"
         ],
         [
           "烹饪的",
@@ -2278,7 +2278,7 @@ window.BOOK_DATA[1] ={
           "fr/11744.mp3",
           "zh/11744.mp3",
           "peng1 ren4 de5",
-          "kyline:r"
+          "[kyline:r]"
         ],
         [
           "负责",
@@ -2287,7 +2287,7 @@ window.BOOK_DATA[1] ={
           "fr/11745.mp3",
           "zh/11745.mp3",
           "fu4 ze2",
-          "ʃarʒ"
+          "[ʃarʒ]"
         ],
         [
           "长颈瓶",
@@ -2296,7 +2296,7 @@ window.BOOK_DATA[1] ={
           "fr/11746.mp3",
           "zh/11746.mp3",
           "zhang3 jing3 ping2",
-          "karaf"
+          "[karaf]"
         ]
       ]
     },
@@ -2311,7 +2311,7 @@ window.BOOK_DATA[1] ={
           "fr/11747.mp3",
           "zh/11747.mp3",
           "you2",
-          "grɛs"
+          "[grɛs]"
         ],
         [
           "食用油",
@@ -2320,7 +2320,7 @@ window.BOOK_DATA[1] ={
           "fr/11748.mp3",
           "zh/11748.mp3",
           "shi2 yong4 you2",
-          "ɥil d(ə) kyzin"
+          "[ɥil d(ə) kyzin]"
         ],
         [
           "精炼",
@@ -2329,7 +2329,7 @@ window.BOOK_DATA[1] ={
           "fr/11749.mp3",
           "zh/11749.mp3",
           "jing1 lian4",
-          "epyre"
+          "[epyre]"
         ],
         [
           "大豆油",
@@ -2338,7 +2338,7 @@ window.BOOK_DATA[1] ={
           "fr/11750.mp3",
           "zh/11750.mp3",
           "da4 dou4 you2",
-          "ɥil d(ə) sɔja"
+          "[ɥil d(ə) sɔja]"
         ],
         [
           "菜籽油",
@@ -2347,7 +2347,7 @@ window.BOOK_DATA[1] ={
           "fr/11751.mp3",
           "zh/11751.mp3",
           "cai4 zi3 you2",
-          "ɥil d(ə) kɔlza"
+          "[ɥil d(ə) kɔlza]"
         ],
         [
           "色拉油",
@@ -2356,7 +2356,7 @@ window.BOOK_DATA[1] ={
           "fr/11752.mp3",
           "zh/11752.mp3",
           "se4 la1 you2",
-          "ɥil d(ə) salad"
+          "[ɥil d(ə) salad]"
         ],
         [
           "玉米油",
@@ -2365,7 +2365,7 @@ window.BOOK_DATA[1] ={
           "fr/11753.mp3",
           "zh/11753.mp3",
           "yu4 mi3 you2",
-          "ɥil d(ə) mais"
+          "[ɥil d(ə) mais]"
         ],
         [
           "花生",
@@ -2374,7 +2374,7 @@ window.BOOK_DATA[1] ={
           "fr/11754.mp3",
           "zh/11754.mp3",
           "hua1 sheng1",
-          "araʃid"
+          "[araʃid]"
         ],
         [
           "花生油",
@@ -2383,7 +2383,7 @@ window.BOOK_DATA[1] ={
           "fr/11755.mp3",
           "zh/11755.mp3",
           "hua1 sheng1 you2",
-          "ɥil d(ə) araʃid"
+          "[ɥil d(ə) araʃid]"
         ],
         [
           "棕榈油",
@@ -2392,7 +2392,7 @@ window.BOOK_DATA[1] ={
           "fr/11756.mp3",
           "zh/11756.mp3",
           "zong1 lv2 you2",
-          "ɥil d palm"
+          "[ɥil d palm]"
         ],
         [
           "橄榄油",
@@ -2401,7 +2401,7 @@ window.BOOK_DATA[1] ={
           "fr/11757.mp3",
           "zh/11757.mp3",
           "gan3 lan3 you2",
-          "ɥil dɔli:v"
+          "[ɥil dɔli:v]"
         ],
         [
           "香油",
@@ -2410,7 +2410,7 @@ window.BOOK_DATA[1] ={
           "fr/11758.mp3",
           "zh/11758.mp3",
           "xiang1 you2",
-          "ɥil d(ə) sezam"
+          "[ɥil d(ə) sezam]"
         ],
         [
           "核桃油",
@@ -2419,7 +2419,7 @@ window.BOOK_DATA[1] ={
           "fr/11759.mp3",
           "zh/11759.mp3",
           "he2 tao2 you2",
-          "ɥil d(ə) nwa(ɑ̃)"
+          "[ɥil d(ə) nwa(ɑ̃)]"
         ],
         [
           "调和油",
@@ -2428,7 +2428,7 @@ window.BOOK_DATA[1] ={
           "fr/11760.mp3",
           "zh/11760.mp3",
           "diao4 he2 you2",
-          "ɥil mikst"
+          "[ɥil mikst]"
         ],
         [
           "地沟油",
@@ -2437,7 +2437,7 @@ window.BOOK_DATA[1] ={
           "fr/11761.mp3",
           "zh/11761.mp3",
           "di4 gou1 you2",
-          "ɥil d(ə) fɔ:s"
+          "[ɥil d(ə) fɔ:s]"
         ],
         [
           "芳香的",
@@ -2446,7 +2446,7 @@ window.BOOK_DATA[1] ={
           "fr/11762.mp3",
           "zh/11762.mp3",
           "fang1 xiang1 de5",
-          "parfyme"
+          "[parfyme]"
         ]
       ],
       "s": [
@@ -2486,7 +2486,7 @@ window.BOOK_DATA[1] ={
           "fr/11766.mp3",
           "zh/11766.mp3",
           "wu1 you2",
-          "kɑ̃bwi"
+          "[kɑ̃bwi]"
         ],
         [
           "起源，开始",
@@ -2495,7 +2495,7 @@ window.BOOK_DATA[1] ={
           "fr/11767.mp3",
           "zh/11767.mp3",
           "qi3 yuan2 ， kai1 shi3",
-          "ɔriʒin"
+          "[ɔriʒin]"
         ],
         [
           "集中的",
@@ -2504,7 +2504,7 @@ window.BOOK_DATA[1] ={
           "fr/11768.mp3",
           "zh/11768.mp3",
           "ji2 zhong1 de5",
-          "kɔ̃sɑ̃tre"
+          "[kɔ̃sɑ̃tre]"
         ],
         [
           "卡路里",
@@ -2513,7 +2513,7 @@ window.BOOK_DATA[1] ={
           "fr/11769.mp3",
           "zh/11769.mp3",
           "ka3 lu4 li3",
-          "kalɔri"
+          "[kalɔri]"
         ],
         [
           "营养物",
@@ -2522,7 +2522,7 @@ window.BOOK_DATA[1] ={
           "fr/11770.mp3",
           "zh/11770.mp3",
           "ying2 yang3 wu4",
-          "alimɑ̃ta(ɑ̃) sjɔ̃"
+          "[alimɑ̃ta(ɑ̃) sjɔ̃]"
         ],
         [
           "甜的",
@@ -2531,7 +2531,7 @@ window.BOOK_DATA[1] ={
           "fr/11771.mp3",
           "zh/11771.mp3",
           "tian2 de5",
-          "sykre"
+          "[sykre]"
         ]
       ]
     },
@@ -2546,7 +2546,7 @@ window.BOOK_DATA[1] ={
           "fr/11772.mp3",
           "zh/11772.mp3",
           "diao4 liao4",
-          "asɛzɔnmɑ̃"
+          "[asɛzɔnmɑ̃]"
         ],
         [
           "调味品",
@@ -2555,7 +2555,7 @@ window.BOOK_DATA[1] ={
           "fr/11773.mp3",
           "zh/11773.mp3",
           "diao4 wei4 pin3",
-          "kɔ̃dimɑ̃"
+          "[kɔ̃dimɑ̃]"
         ],
         [
           "调味汁",
@@ -2564,7 +2564,7 @@ window.BOOK_DATA[1] ={
           "fr/11774.mp3",
           "zh/11774.mp3",
           "diao4 wei4 zhi1",
-          "sɔ:s"
+          "[sɔ:s]"
         ],
         [
           "盐",
@@ -2573,7 +2573,7 @@ window.BOOK_DATA[1] ={
           "fr/11775.mp3",
           "zh/11775.mp3",
           "yan2",
-          "sɛl"
+          "[sɛl]"
         ],
         [
           "辣椒粉",
@@ -2582,7 +2582,7 @@ window.BOOK_DATA[1] ={
           "fr/11776.mp3",
           "zh/11776.mp3",
           "la4 jiao1 fen3",
-          "pimɑ̃"
+          "[pimɑ̃]"
         ],
         [
           "味精",
@@ -2591,7 +2591,7 @@ window.BOOK_DATA[1] ={
           "fr/11777.mp3",
           "zh/11777.mp3",
           "wei4 jing1",
-          "glytamat"
+          "[glytamat]"
         ],
         [
           "糖",
@@ -2600,7 +2600,7 @@ window.BOOK_DATA[1] ={
           "fr/11778.mp3",
           "zh/11778.mp3",
           "tang2",
-          "sykr"
+          "[sykr]"
         ],
         [
           "细香葱",
@@ -2609,7 +2609,7 @@ window.BOOK_DATA[1] ={
           "fr/11779.mp3",
           "zh/11779.mp3",
           "xi4 xiang1 cong1",
-          "sibulɛt"
+          "[sibulɛt]"
         ],
         [
           "姜",
@@ -2618,7 +2618,7 @@ window.BOOK_DATA[1] ={
           "fr/11780.mp3",
           "zh/11780.mp3",
           "jiang1",
-          "ʒɛ̃ʒ ɑ̃:br"
+          "[ʒɛ̃ʒ ɑ̃:br]"
         ],
         [
           "蒜",
@@ -2627,7 +2627,7 @@ window.BOOK_DATA[1] ={
           "fr/11781.mp3",
           "zh/11781.mp3",
           "suan4",
-          "aj"
+          "[aj]"
         ],
         [
           "胡椒粉",
@@ -2636,7 +2636,7 @@ window.BOOK_DATA[1] ={
           "fr/11782.mp3",
           "zh/11782.mp3",
           "hu2 jiao1 fen3",
-          "pwa:vr"
+          "[pwa:vr]"
         ],
         [
           "醋",
@@ -2645,7 +2645,7 @@ window.BOOK_DATA[1] ={
           "fr/11783.mp3",
           "zh/11783.mp3",
           "cu4",
-          "vinegr"
+          "[vinegr]"
         ],
         [
           "酱油",
@@ -2654,7 +2654,7 @@ window.BOOK_DATA[1] ={
           "fr/11784.mp3",
           "zh/11784.mp3",
           "jiang4 you2",
-          "sɔ:s d(ə) sɔja"
+          "[sɔ:s d(ə) sɔja]"
         ],
         [
           "料酒",
@@ -2663,7 +2663,7 @@ window.BOOK_DATA[1] ={
           "fr/11785.mp3",
           "zh/11785.mp3",
           "liao4 jiu3",
-          "vɛ̃ d(ə) kyzin"
+          "[vɛ̃ d(ə) kyzin]"
         ],
         [
           "鱼子酱",
@@ -2672,7 +2672,7 @@ window.BOOK_DATA[1] ={
           "fr/11786.mp3",
           "zh/11786.mp3",
           "yu2 zi5 jiang4",
-          "kavja:r"
+          "[kavja:r]"
         ],
         [
           "咖喱",
@@ -2681,7 +2681,7 @@ window.BOOK_DATA[1] ={
           "fr/11787.mp3",
           "zh/11787.mp3",
           "ka1 li2",
-          "kyri"
+          "[kyri]"
         ],
         [
           "芥末",
@@ -2690,7 +2690,7 @@ window.BOOK_DATA[1] ={
           "fr/11788.mp3",
           "zh/11788.mp3",
           "jie4 mo4",
-          "mutard"
+          "[mutard]"
         ],
         [
           "月桂",
@@ -2699,7 +2699,7 @@ window.BOOK_DATA[1] ={
           "fr/11789.mp3",
           "zh/11789.mp3",
           "yue4 gui4",
-          "lɔrje"
+          "[lɔrje]"
         ],
         [
           "百里香",
@@ -2708,7 +2708,7 @@ window.BOOK_DATA[1] ={
           "fr/11790.mp3",
           "zh/11790.mp3",
           "bai3 li3 xiang1",
-          "tɛ"
+          "[tɛ]"
         ],
         [
           "番茄酱",
@@ -2717,7 +2717,7 @@ window.BOOK_DATA[1] ={
           "fr/11791.mp3",
           "zh/11791.mp3",
           "fan1 jia1 jiang4",
-          "kɛtʃœp"
+          "[kɛtʃœp]"
         ]
       ],
       "s": [
@@ -2775,7 +2775,7 @@ window.BOOK_DATA[1] ={
           "fr/11797.mp3",
           "zh/11797.mp3",
           "gai3 bian4 ， gai3 zao4",
-          "trɑ̃sforme"
+          "[trɑ̃sforme]"
         ],
         [
           "柱子",
@@ -2784,7 +2784,7 @@ window.BOOK_DATA[1] ={
           "fr/11798.mp3",
           "zh/11798.mp3",
           "zhu4 zi5",
-          "pilje"
+          "[pilje]"
         ],
         [
           "省份",
@@ -2793,7 +2793,7 @@ window.BOOK_DATA[1] ={
           "fr/11799.mp3",
           "zh/11799.mp3",
           "sheng3 fen4",
-          "prɔ̃vɛ̃:s"
+          "[prɔ̃vɛ̃:s]"
         ],
         [
           "菜肴",
@@ -2802,7 +2802,7 @@ window.BOOK_DATA[1] ={
           "fr/11800.mp3",
           "zh/11800.mp3",
           "cai4 yao2",
-          "kuizin"
+          "[kuizin]"
         ]
       ]
     },
@@ -2817,7 +2817,7 @@ window.BOOK_DATA[1] ={
           "fr/11801.mp3",
           "zh/11801.mp3",
           "dou4 kou4",
-          "amɔ̃m"
+          "[amɔ̃m]"
         ],
         [
           "丁香",
@@ -2826,7 +2826,7 @@ window.BOOK_DATA[1] ={
           "fr/11802.mp3",
           "zh/11802.mp3",
           "ding1 xiang1",
-          "ʒirɔflie"
+          "[ʒirɔflie]"
         ],
         [
           "薄荷",
@@ -2835,7 +2835,7 @@ window.BOOK_DATA[1] ={
           "fr/11803.mp3",
           "zh/11803.mp3",
           "bao2 he2",
-          "mɑ̃:t"
+          "[mɑ̃:t]"
         ],
         [
           "香菜",
@@ -2844,7 +2844,7 @@ window.BOOK_DATA[1] ={
           "fr/11804.mp3",
           "zh/11804.mp3",
           "xiang1 cai4",
-          "kɔrjɑ̃dr"
+          "[kɔrjɑ̃dr]"
         ],
         [
           "肉桂",
@@ -2853,7 +2853,7 @@ window.BOOK_DATA[1] ={
           "fr/11805.mp3",
           "zh/11805.mp3",
           "rou4 gui4",
-          "sinam"
+          "[sinam]"
         ],
         [
           "韭葱",
@@ -2862,7 +2862,7 @@ window.BOOK_DATA[1] ={
           "fr/11806.mp3",
           "zh/11806.mp3",
           "jiu3 cong1",
-          "pwaro"
+          "[pwaro]"
         ],
         [
           "茴香",
@@ -2871,7 +2871,7 @@ window.BOOK_DATA[1] ={
           "fr/11807.mp3",
           "zh/11807.mp3",
           "hui2 xiang1",
-          "f(ə)nuj"
+          "[f(ə)nuj]"
         ],
         [
           "孜然",
@@ -2880,7 +2880,7 @@ window.BOOK_DATA[1] ={
           "fr/11808.mp3",
           "zh/11808.mp3",
           "zi1 ran2",
-          "kymɛ"
+          "[kymɛ]"
         ],
         [
           "甘草",
@@ -2889,7 +2889,7 @@ window.BOOK_DATA[1] ={
           "fr/11809.mp3",
           "zh/11809.mp3",
           "gan1 cao3",
-          "reglis"
+          "[reglis]"
         ],
         [
           "肉豆蔻",
@@ -2898,7 +2898,7 @@ window.BOOK_DATA[1] ={
           "fr/11810.mp3",
           "zh/11810.mp3",
           "rou4 dou4 kou4",
-          "myskad"
+          "[myskad]"
         ],
         [
           "迷迭香",
@@ -2907,7 +2907,7 @@ window.BOOK_DATA[1] ={
           "fr/11811.mp3",
           "zh/11811.mp3",
           "mi2 die2 xiang1",
-          "rɔmarɛ"
+          "[rɔmarɛ]"
         ],
         [
           "姜黄",
@@ -2916,7 +2916,7 @@ window.BOOK_DATA[1] ={
           "fr/11812.mp3",
           "zh/11812.mp3",
           "jiang1 huang2",
-          "kyrkyma"
+          "[kyrkyma]"
         ],
         [
           "槟榔",
@@ -2925,7 +2925,7 @@ window.BOOK_DATA[1] ={
           "fr/11813.mp3",
           "zh/11813.mp3",
           "bin1 lang2",
-          "nwa da betɛl"
+          "[nwa da betɛl]"
         ],
         [
           "香草",
@@ -2934,7 +2934,7 @@ window.BOOK_DATA[1] ={
           "fr/11814.mp3",
           "zh/11814.mp3",
           "xiang1 cao3",
-          "vanij"
+          "[vanij]"
         ],
         [
           "黑椒",
@@ -2943,7 +2943,7 @@ window.BOOK_DATA[1] ={
           "fr/11815.mp3",
           "zh/11815.mp3",
           "hei1 jiao1",
-          "pwa:vr nwa"
+          "[pwa:vr nwa]"
         ],
         [
           "葱",
@@ -2952,7 +2952,7 @@ window.BOOK_DATA[1] ={
           "fr/11816.mp3",
           "zh/11816.mp3",
           "cong1",
-          "sibul"
+          "[sibul]"
         ],
         [
           "藏红花",
@@ -2961,7 +2961,7 @@ window.BOOK_DATA[1] ={
           "fr/11817.mp3",
           "zh/11817.mp3",
           "cang2 hong2 hua1",
-          "safrɑ̃"
+          "[safrɑ̃]"
         ],
         [
           "罗勒",
@@ -2970,7 +2970,7 @@ window.BOOK_DATA[1] ={
           "fr/11818.mp3",
           "zh/11818.mp3",
           "luo2 lei1",
-          "bazilik"
+          "[bazilik]"
         ],
         [
           "生姜",
@@ -2979,7 +2979,7 @@ window.BOOK_DATA[1] ={
           "fr/11819.mp3",
           "zh/11819.mp3",
           "sheng1 jiang1",
-          "ʒɛ̃ʒ ɑ̃br"
+          "[ʒɛ̃ʒ ɑ̃br]"
         ]
       ],
       "s": [
@@ -3028,7 +3028,7 @@ window.BOOK_DATA[1] ={
           "fr/11824.mp3",
           "zh/11824.mp3",
           "zhu4 yi4 ， guan1 xin1",
-          "atɑ̃sjɔ̃"
+          "[atɑ̃sjɔ̃]"
         ],
         [
           "数量",
@@ -3037,7 +3037,7 @@ window.BOOK_DATA[1] ={
           "fr/11825.mp3",
           "zh/11825.mp3",
           "shu4 liang4",
-          "kɑ̃tite"
+          "[kɑ̃tite]"
         ],
         [
           "使浓厚",
@@ -3046,7 +3046,7 @@ window.BOOK_DATA[1] ={
           "fr/11826.mp3",
           "zh/11826.mp3",
           "shi3 nong2 hou4",
-          "epese"
+          "[epese]"
         ],
         [
           "柠檬",
@@ -3055,7 +3055,7 @@ window.BOOK_DATA[1] ={
           "fr/11827.mp3",
           "zh/11827.mp3",
           "ning2 meng2",
-          "sitrɔ̃"
+          "[sitrɔ̃]"
         ],
         [
           "围绕环绕",
@@ -3064,7 +3064,7 @@ window.BOOK_DATA[1] ={
           "fr/11828.mp3",
           "zh/11828.mp3",
           "wei2 rao4 huan2 rao4",
-          "ɑ̃ture"
+          "[ɑ̃ture]"
         ],
         [
           "结冰的",
@@ -3073,7 +3073,7 @@ window.BOOK_DATA[1] ={
           "fr/11829.mp3",
           "zh/11829.mp3",
           "jie2 bing1 de5",
-          "glase"
+          "[glase]"
         ]
       ]
     },
@@ -3088,7 +3088,7 @@ window.BOOK_DATA[1] ={
           "fr/11830.mp3",
           "zh/11830.mp3",
           "zhu4 jiu3",
-          "to:st"
+          "[to:st]"
         ],
         [
           "开胃酒",
@@ -3097,7 +3097,7 @@ window.BOOK_DATA[1] ={
           "fr/11831.mp3",
           "zh/11831.mp3",
           "kai1 wei4 jiu3",
-          "aperitif"
+          "[aperitif]"
         ],
         [
           "醉",
@@ -3106,7 +3106,7 @@ window.BOOK_DATA[1] ={
           "fr/11832.mp3",
           "zh/11832.mp3",
           "zui4",
-          "sule"
+          "[sule]"
         ],
         [
           "酒精",
@@ -3115,7 +3115,7 @@ window.BOOK_DATA[1] ={
           "fr/11833.mp3",
           "zh/11833.mp3",
           "jiu3 jing1",
-          "alkɔl"
+          "[alkɔl]"
         ],
         [
           "黑啤酒",
@@ -3124,7 +3124,7 @@ window.BOOK_DATA[1] ={
           "fr/11834.mp3",
           "zh/11834.mp3",
           "hei1 pi2 jiu3",
-          "bjɛr bryn"
+          "[bjɛr bryn]"
         ],
         [
           "伏特加",
@@ -3133,7 +3133,7 @@ window.BOOK_DATA[1] ={
           "fr/11835.mp3",
           "zh/11835.mp3",
           "fu2 te4 jia1",
-          "vɔdka"
+          "[vɔdka]"
         ],
         [
           "葡萄酒；果酒",
@@ -3142,7 +3142,7 @@ window.BOOK_DATA[1] ={
           "fr/11836.mp3",
           "zh/11836.mp3",
           "pu2 tao2 jiu3 ； guo3 jiu3",
-          "vɛ"
+          "[vɛ]"
         ],
         [
           "红葡萄酒",
@@ -3151,7 +3151,7 @@ window.BOOK_DATA[1] ={
           "fr/11837.mp3",
           "zh/11837.mp3",
           "hong2 pu2 tao2 jiu3",
-          "vɛ̃ ru:ʒ"
+          "[vɛ̃ ru:ʒ]"
         ],
         [
           "白葡萄酒",
@@ -3160,7 +3160,7 @@ window.BOOK_DATA[1] ={
           "fr/11838.mp3",
           "zh/11838.mp3",
           "bai2 pu2 tao2 jiu3",
-          "vɛ̃ blɑ̃"
+          "[vɛ̃ blɑ̃]"
         ],
         [
           "苹果酒",
@@ -3169,7 +3169,7 @@ window.BOOK_DATA[1] ={
           "fr/11839.mp3",
           "zh/11839.mp3",
           "ping2 guo3 jiu3",
-          "sidr"
+          "[sidr]"
         ],
         [
           "香槟酒",
@@ -3178,7 +3178,7 @@ window.BOOK_DATA[1] ={
           "fr/11840.mp3",
           "zh/11840.mp3",
           "xiang1 bin1 jiu3",
-          "ʃɑ̃paɲ"
+          "[ʃɑ̃paɲ]"
         ],
         [
           "鸡尾酒",
@@ -3187,7 +3187,7 @@ window.BOOK_DATA[1] ={
           "fr/11841.mp3",
           "zh/11841.mp3",
           "ji1 wei3 jiu3",
-          "kɔktɛl"
+          "[kɔktɛl]"
         ],
         [
           "威士忌",
@@ -3196,7 +3196,7 @@ window.BOOK_DATA[1] ={
           "fr/11842.mp3",
           "zh/11842.mp3",
           "wei1 shi4 ji4",
-          "wiski"
+          "[wiski]"
         ],
         [
           "白兰地",
@@ -3205,7 +3205,7 @@ window.BOOK_DATA[1] ={
           "fr/11843.mp3",
           "zh/11843.mp3",
           "bai2 lan2 di4",
-          "kɔɲak"
+          "[kɔɲak]"
         ],
         [
           "朗姆酒",
@@ -3214,7 +3214,7 @@ window.BOOK_DATA[1] ={
           "fr/11844.mp3",
           "zh/11844.mp3",
           "lang3 mu3 jiu3",
-          "rɔm"
+          "[rɔm]"
         ],
         [
           "玫瑰红葡萄酒",
@@ -3223,7 +3223,7 @@ window.BOOK_DATA[1] ={
           "fr/11845.mp3",
           "zh/11845.mp3",
           "mei2 gui1 hong2 pu2 tao2 jiu3",
-          "vɛ̃ roze"
+          "[vɛ̃ roze]"
         ],
         [
           "干葡萄酒",
@@ -3232,7 +3232,7 @@ window.BOOK_DATA[1] ={
           "fr/11846.mp3",
           "zh/11846.mp3",
           "gan4 pu2 tao2 jiu3",
-          "vɛ̃ sɛk"
+          "[vɛ̃ sɛk]"
         ],
         [
           "半干葡萄酒",
@@ -3241,7 +3241,7 @@ window.BOOK_DATA[1] ={
           "fr/11847.mp3",
           "zh/11847.mp3",
           "ban4 gan4 pu2 tao2 jiu3",
-          "vɛ̃ d(ə)mi sɛk"
+          "[vɛ̃ d(ə)mi sɛk]"
         ],
         [
           "甜葡萄酒",
@@ -3250,7 +3250,7 @@ window.BOOK_DATA[1] ={
           "fr/11848.mp3",
           "zh/11848.mp3",
           "tian2 pu2 tao2 jiu3",
-          "vɛ̃ du"
+          "[vɛ̃ du]"
         ],
         [
           "天然葡萄酒",
@@ -3259,7 +3259,7 @@ window.BOOK_DATA[1] ={
           "fr/11849.mp3",
           "zh/11849.mp3",
           "tian1 ran2 pu2 tao2 jiu3",
-          "vɛ̃ bryt"
+          "[vɛ̃ bryt]"
         ]
       ],
       "s": [
@@ -3299,7 +3299,7 @@ window.BOOK_DATA[1] ={
           "fr/11853.mp3",
           "zh/11853.mp3",
           "you2 ji4 ， song4",
-          "ɑ̃vwaje"
+          "[ɑ̃vwaje]"
         ],
         [
           "瓶，一瓶之量",
@@ -3308,7 +3308,7 @@ window.BOOK_DATA[1] ={
           "fr/11854.mp3",
           "zh/11854.mp3",
           "ping2 ， yi4 ping2 zhi1 liang4",
-          "butɛj"
+          "[butɛj]"
         ],
         [
           "可惜，遗憾",
@@ -3317,7 +3317,7 @@ window.BOOK_DATA[1] ={
           "fr/11855.mp3",
           "zh/11855.mp3",
           "ke3 xi1 ， yi2 han4",
-          "dɔma:ʒ"
+          "[dɔma:ʒ]"
         ],
         [
           "旅游者",
@@ -3326,7 +3326,7 @@ window.BOOK_DATA[1] ={
           "fr/11856.mp3",
           "zh/11856.mp3",
           "lv3 you2 zhe3",
-          "turist"
+          "[turist]"
         ],
         [
           "品尝",
@@ -3335,7 +3335,7 @@ window.BOOK_DATA[1] ={
           "fr/11857.mp3",
           "zh/11857.mp3",
           "pin3 chang2",
-          "degyste"
+          "[degyste]"
         ],
         [
           "例外的，异常的",
@@ -3344,7 +3344,7 @@ window.BOOK_DATA[1] ={
           "fr/11858.mp3",
           "zh/11858.mp3",
           "li4 wai4 de5 ， yi4 chang2 de5",
-          "ɛksɛpsjɔnɛl"
+          "[ɛksɛpsjɔnɛl]"
         ]
       ]
     },
@@ -3359,7 +3359,7 @@ window.BOOK_DATA[1] ={
           "fr/11859.mp3",
           "zh/11859.mp3",
           "sheng4 dai4",
-          "glas"
+          "[glas]"
         ],
         [
           "冰激凌",
@@ -3368,7 +3368,7 @@ window.BOOK_DATA[1] ={
           "fr/11860.mp3",
           "zh/11860.mp3",
           "bing1 ji1 ling2",
-          "krɛm glase"
+          "[krɛm glase]"
         ],
         [
           "香草冰激凌",
@@ -3377,7 +3377,7 @@ window.BOOK_DATA[1] ={
           "fr/11861.mp3",
           "zh/11861.mp3",
           "xiang1 cao3 bing1 ji1 ling2",
-          "glas a la vanij"
+          "[glas a la vanij]"
         ],
         [
           "水",
@@ -3386,7 +3386,7 @@ window.BOOK_DATA[1] ={
           "fr/11862.mp3",
           "zh/11862.mp3",
           "shui3",
-          "o"
+          "[o]"
         ],
         [
           "冰水",
@@ -3395,7 +3395,7 @@ window.BOOK_DATA[1] ={
           "fr/11863.mp3",
           "zh/11863.mp3",
           "bing1 shui3",
-          "o glase"
+          "[o glase]"
         ],
         [
           "使变凉",
@@ -3404,7 +3404,7 @@ window.BOOK_DATA[1] ={
           "fr/11864.mp3",
           "zh/11864.mp3",
           "shi3 bian4 liang2",
-          "frɛ(ə)ʃi:r"
+          "[frɛ(ə)ʃi:r]"
         ],
         [
           "吸管",
@@ -3413,7 +3413,7 @@ window.BOOK_DATA[1] ={
           "fr/11865.mp3",
           "zh/11865.mp3",
           "xi1 guan3",
-          "pipɛt"
+          "[pipɛt]"
         ],
         [
           "饮料",
@@ -3422,7 +3422,7 @@ window.BOOK_DATA[1] ={
           "fr/11866.mp3",
           "zh/11866.mp3",
           "yin3 liao4",
-          "bwasɔ̃"
+          "[bwasɔ̃]"
         ],
         [
           "酸奶",
@@ -3431,7 +3431,7 @@ window.BOOK_DATA[1] ={
           "fr/11867.mp3",
           "zh/11867.mp3",
           "suan1 nai3",
-          "jaurt"
+          "[jaurt]"
         ],
         [
           "橙汁",
@@ -3440,7 +3440,7 @@ window.BOOK_DATA[1] ={
           "fr/11868.mp3",
           "zh/11868.mp3",
           "cheng2 zhi1",
-          "ʒy dɔrɑ̃:ʒ"
+          "[ʒy dɔrɑ̃:ʒ]"
         ],
         [
           "汽水",
@@ -3449,7 +3449,7 @@ window.BOOK_DATA[1] ={
           "fr/11869.mp3",
           "zh/11869.mp3",
           "qi4 shui3",
-          "limɔnad"
+          "[limɔnad]"
         ],
         [
           "柠檬汁",
@@ -3458,7 +3458,7 @@ window.BOOK_DATA[1] ={
           "fr/11870.mp3",
           "zh/11870.mp3",
           "ning2 meng2 zhi1",
-          "sitrɔnad"
+          "[sitrɔnad]"
         ],
         [
           "冷藏",
@@ -3467,7 +3467,7 @@ window.BOOK_DATA[1] ={
           "fr/11871.mp3",
           "zh/11871.mp3",
           "leng3 cang2",
-          "refrigerɑ̃(ɑ̃)sjɔ̃"
+          "[refrigerɑ̃(ɑ̃)sjɔ̃]"
         ],
         [
           "饮料瓶",
@@ -3476,7 +3476,7 @@ window.BOOK_DATA[1] ={
           "fr/11872.mp3",
           "zh/11872.mp3",
           "yin3 liao4 ping2",
-          "butɛj"
+          "[butɛj]"
         ],
         [
           "可乐",
@@ -3485,7 +3485,7 @@ window.BOOK_DATA[1] ={
           "fr/11873.mp3",
           "zh/11873.mp3",
           "ke3 le4",
-          "kɔka kɔla"
+          "[kɔka kɔla]"
         ],
         [
           "充气饮料",
@@ -3494,7 +3494,7 @@ window.BOOK_DATA[1] ={
           "fr/11874.mp3",
           "zh/11874.mp3",
           "chong1 qi4 yin3 liao4",
-          "bwasɔ̃ gazø:z"
+          "[bwasɔ̃ gazø:z]"
         ]
       ],
       "s": [
@@ -3543,7 +3543,7 @@ window.BOOK_DATA[1] ={
           "fr/11879.mp3",
           "zh/11879.mp3",
           "bian4 cu1 ， bian4 da4",
-          "grosi:r"
+          "[grosi:r]"
         ],
         [
           "本质的，基本的",
@@ -3552,7 +3552,7 @@ window.BOOK_DATA[1] ={
           "fr/11880.mp3",
           "zh/11880.mp3",
           "ben3 zhi4 de5 ， ji1 ben3 de5",
-          "esɑ̃sjɛl"
+          "[esɑ̃sjɛl]"
         ],
         [
           "健康",
@@ -3561,7 +3561,7 @@ window.BOOK_DATA[1] ={
           "fr/11881.mp3",
           "zh/11881.mp3",
           "jian4 kang1",
-          "sɑ̃te"
+          "[sɑ̃te]"
         ],
         [
           "形态，外形",
@@ -3570,7 +3570,7 @@ window.BOOK_DATA[1] ={
           "fr/11882.mp3",
           "zh/11882.mp3",
           "xing2 tai4 ， wai4 xing2",
-          "fɔrm"
+          "[fɔrm]"
         ],
         [
           "当……时候",
@@ -3579,7 +3579,7 @@ window.BOOK_DATA[1] ={
           "fr/11883.mp3",
           "zh/11883.mp3",
           "dang1 … … shi2 hou4",
-          "tɑ̃di k(ə)"
+          "[tɑ̃di k(ə)]"
         ],
         [
           "包，包裹，邮件",
@@ -3588,7 +3588,7 @@ window.BOOK_DATA[1] ={
           "fr/11884.mp3",
           "zh/11884.mp3",
           "bao1 ， bao1 guo3 ， you2 jian4",
-          "pakɛ"
+          "[pakɛ]"
         ],
         [
           "饼干",
@@ -3597,7 +3597,7 @@ window.BOOK_DATA[1] ={
           "fr/11885.mp3",
           "zh/11885.mp3",
           "bing3 gan4",
-          "biskɥi"
+          "[biskɥi]"
         ]
       ]
     },
@@ -3612,7 +3612,7 @@ window.BOOK_DATA[1] ={
           "fr/11886.mp3",
           "zh/11886.mp3",
           "kuang4 quan2 shui3",
-          "o mineral"
+          "[o mineral]"
         ],
         [
           "柠檬水",
@@ -3621,7 +3621,7 @@ window.BOOK_DATA[1] ={
           "fr/11887.mp3",
           "zh/11887.mp3",
           "ning2 meng2 shui3",
-          "limɔnad"
+          "[limɔnad]"
         ],
         [
           "苏打水",
@@ -3630,7 +3630,7 @@ window.BOOK_DATA[1] ={
           "fr/11888.mp3",
           "zh/11888.mp3",
           "su1 da3 shui3",
-          "sɛlz"
+          "[sɛlz]"
         ],
         [
           "茶",
@@ -3639,7 +3639,7 @@ window.BOOK_DATA[1] ={
           "fr/11889.mp3",
           "zh/11889.mp3",
           "cha2",
-          "te"
+          "[te]"
         ],
         [
           "袋茶，茶袋",
@@ -3648,7 +3648,7 @@ window.BOOK_DATA[1] ={
           "fr/11890.mp3",
           "zh/11890.mp3",
           "dai4 cha2 ， cha2 dai4",
-          "ɛ̃fyset"
+          "[ɛ̃fyset]"
         ],
         [
           "绿茶",
@@ -3657,7 +3657,7 @@ window.BOOK_DATA[1] ={
           "fr/11891.mp3",
           "zh/11891.mp3",
           "lv4 cha2",
-          "te vɛr"
+          "[te vɛr]"
         ],
         [
           "红茶",
@@ -3666,7 +3666,7 @@ window.BOOK_DATA[1] ={
           "fr/11892.mp3",
           "zh/11892.mp3",
           "hong2 cha2",
-          "te nwar"
+          "[te nwar]"
         ],
         [
           "茉莉花茶",
@@ -3675,7 +3675,7 @@ window.BOOK_DATA[1] ={
           "fr/11893.mp3",
           "zh/11893.mp3",
           "mo4 li4 hua1 cha2",
-          "te o ʒasmɛ"
+          "[te o ʒasmɛ]"
         ],
         [
           "乌龙茶",
@@ -3684,7 +3684,7 @@ window.BOOK_DATA[1] ={
           "fr/11894.mp3",
           "zh/11894.mp3",
           "wu1 long2 cha2",
-          "te olɔ̃"
+          "[te olɔ̃]"
         ],
         [
           "香味",
@@ -3693,7 +3693,7 @@ window.BOOK_DATA[1] ={
           "fr/11895.mp3",
           "zh/11895.mp3",
           "xiang1 wei4",
-          "odœr agreabl"
+          "[odœr agreabl]"
         ],
         [
           "牛奶",
@@ -3702,7 +3702,7 @@ window.BOOK_DATA[1] ={
           "fr/11896.mp3",
           "zh/11896.mp3",
           "niu2 nai3",
-          "lɛ"
+          "[lɛ]"
         ],
         [
           "果汁",
@@ -3711,7 +3711,7 @@ window.BOOK_DATA[1] ={
           "fr/11897.mp3",
           "zh/11897.mp3",
           "guo3 zhi1",
-          "ʒy"
+          "[ʒy]"
         ],
         [
           "饮用水",
@@ -3720,7 +3720,7 @@ window.BOOK_DATA[1] ={
           "fr/11898.mp3",
           "zh/11898.mp3",
           "yin3 yong4 shui3",
-          "o pɔtabl"
+          "[o pɔtabl]"
         ],
         [
           "白开水",
@@ -3729,7 +3729,7 @@ window.BOOK_DATA[1] ={
           "fr/11899.mp3",
           "zh/11899.mp3",
           "bai2 kai1 shui3",
-          "o bujɑ̃t"
+          "[o bujɑ̃t]"
         ],
         [
           "热水",
@@ -3738,7 +3738,7 @@ window.BOOK_DATA[1] ={
           "fr/11900.mp3",
           "zh/11900.mp3",
           "re4 shui3",
-          "o ʃod"
+          "[o ʃod]"
         ],
         [
           "冷水",
@@ -3747,7 +3747,7 @@ window.BOOK_DATA[1] ={
           "fr/11901.mp3",
           "zh/11901.mp3",
           "leng3 shui3",
-          "o frwad"
+          "[o frwad]"
         ],
         [
           "桔子水",
@@ -3756,7 +3756,7 @@ window.BOOK_DATA[1] ={
           "fr/11902.mp3",
           "zh/11902.mp3",
           "ju2 zi5 shui3",
-          "ɔrɑ̃ʒad"
+          "[ɔrɑ̃ʒad]"
         ]
       ],
       "s": [
@@ -3805,7 +3805,7 @@ window.BOOK_DATA[1] ={
           "fr/11907.mp3",
           "zh/11907.mp3",
           "zu3 zhi1",
-          "ɔrganize"
+          "[ɔrganize]"
         ],
         [
           "船",
@@ -3814,7 +3814,7 @@ window.BOOK_DATA[1] ={
           "fr/11908.mp3",
           "zh/11908.mp3",
           "chuan2",
-          "bato"
+          "[bato]"
         ],
         [
           "玻璃杯",
@@ -3823,7 +3823,7 @@ window.BOOK_DATA[1] ={
           "fr/11909.mp3",
           "zh/11909.mp3",
           "bo1 li2 bei1",
-          "vɛ:r"
+          "[vɛ:r]"
         ],
         [
           "事情，事业",
@@ -3832,7 +3832,7 @@ window.BOOK_DATA[1] ={
           "fr/11910.mp3",
           "zh/11910.mp3",
           "shi4 qing2 ， shi4 ye4",
-          "ɑ̃trəpri:z"
+          "[ɑ̃trəpri:z]"
         ],
         [
           "主要的",
@@ -3841,7 +3841,7 @@ window.BOOK_DATA[1] ={
           "fr/11911.mp3",
           "zh/11911.mp3",
           "zhu3 yao4 de5",
-          "prɛ̃s ipal"
+          "[prɛ̃s ipal]"
         ],
         [
           "沸腾的",
@@ -3850,7 +3850,7 @@ window.BOOK_DATA[1] ={
           "fr/11912.mp3",
           "zh/11912.mp3",
           "fei4 teng2 de5",
-          "bujɑ̃, ɑ̃:t"
+          "[bujɑ̃, ɑ̃:t]"
         ]
       ]
     },
@@ -3865,7 +3865,7 @@ window.BOOK_DATA[1] ={
           "fr/11913.mp3",
           "zh/11913.mp3",
           "xu4 jiu3 de5",
-          "ivrɔɲ"
+          "[ivrɔɲ]"
         ],
         [
           "碳酸饮料",
@@ -3874,7 +3874,7 @@ window.BOOK_DATA[1] ={
           "fr/11914.mp3",
           "zh/11914.mp3",
           "tan4 suan1 yin3 liao4",
-          "bwasɔ̃ gazøz"
+          "[bwasɔ̃ gazøz]"
         ],
         [
           "二氧化碳",
@@ -3883,7 +3883,7 @@ window.BOOK_DATA[1] ={
           "fr/11915.mp3",
           "zh/11915.mp3",
           "er4 yang3 hua4 tan4",
-          "djɔksid d(ə) karbɔn"
+          "[djɔksid d(ə) karbɔn]"
         ],
         [
           "浑浊的",
@@ -3892,7 +3892,7 @@ window.BOOK_DATA[1] ={
           "fr/11916.mp3",
           "zh/11916.mp3",
           "hun2 zhuo2 de5",
-          "tyrbide"
+          "[tyrbide]"
         ],
         [
           "混合",
@@ -3901,7 +3901,7 @@ window.BOOK_DATA[1] ={
           "fr/11917.mp3",
           "zh/11917.mp3",
           "hun4 he2",
-          "melɑ̃:ʒ"
+          "[melɑ̃:ʒ]"
         ],
         [
           "纯的",
@@ -3910,7 +3910,7 @@ window.BOOK_DATA[1] ={
           "fr/11918.mp3",
           "zh/11918.mp3",
           "chun2 de5",
-          "py:r"
+          "[py:r]"
         ],
         [
           "发酵",
@@ -3919,7 +3919,7 @@ window.BOOK_DATA[1] ={
           "fr/11919.mp3",
           "zh/11919.mp3",
           "fa1 jiao4",
-          "fɛrmɑ̃te"
+          "[fɛrmɑ̃te]"
         ],
         [
           "凝结",
@@ -3928,7 +3928,7 @@ window.BOOK_DATA[1] ={
           "fr/11920.mp3",
           "zh/11920.mp3",
           "ning2 jie2",
-          "kɔ̃dɑ̃se"
+          "[kɔ̃dɑ̃se]"
         ],
         [
           "瓶子",
@@ -3937,7 +3937,7 @@ window.BOOK_DATA[1] ={
           "fr/11921.mp3",
           "zh/11921.mp3",
           "ping2 zi5",
-          "flakɔ̃"
+          "[flakɔ̃]"
         ],
         [
           "瓶装啤酒",
@@ -3946,7 +3946,7 @@ window.BOOK_DATA[1] ={
           "fr/11922.mp3",
           "zh/11922.mp3",
           "ping2 zhuang1 pi2 jiu3",
-          "bjɛ:r ɑ̃ kanɛt"
+          "[bjɛ:r ɑ̃ kanɛt]"
         ],
         [
           "开瓶器",
@@ -3955,7 +3955,7 @@ window.BOOK_DATA[1] ={
           "fr/11923.mp3",
           "zh/11923.mp3",
           "kai1 ping2 qi4",
-          "deklɑ̃ʃœ:r"
+          "[deklɑ̃ʃœ:r]"
         ],
         [
           "罐",
@@ -3964,7 +3964,7 @@ window.BOOK_DATA[1] ={
           "fr/11924.mp3",
           "zh/11924.mp3",
           "guan4",
-          "po"
+          "[po]"
         ],
         [
           "酒瓶",
@@ -3973,7 +3973,7 @@ window.BOOK_DATA[1] ={
           "fr/11925.mp3",
           "zh/11925.mp3",
           "jiu3 ping2",
-          "ʃɔpin"
+          "[ʃɔpin]"
         ],
         [
           "瓶刷",
@@ -3982,7 +3982,7 @@ window.BOOK_DATA[1] ={
           "fr/11926.mp3",
           "zh/11926.mp3",
           "ping2 shua1",
-          "ekuvijɔ̃"
+          "[ekuvijɔ̃]"
         ],
         [
           "烧酒，白兰地",
@@ -3991,7 +3991,7 @@ window.BOOK_DATA[1] ={
           "fr/11927.mp3",
           "zh/11927.mp3",
           "shao1 jiu3 ， bai2 lan2 di4",
-          "odvi"
+          "[odvi]"
         ]
       ],
       "s": [
@@ -4040,7 +4040,7 @@ window.BOOK_DATA[1] ={
           "fr/11932.mp3",
           "zh/11932.mp3",
           "ting1 jian4 ， ting1 dao4",
-          "ɑ̃tɑ̃:dr"
+          "[ɑ̃tɑ̃:dr]"
         ],
         [
           "吸入",
@@ -4049,7 +4049,7 @@ window.BOOK_DATA[1] ={
           "fr/11933.mp3",
           "zh/11933.mp3",
           "xi1 ru4",
-          "ɛ̃s pire"
+          "[ɛ̃s pire]"
         ],
         [
           "呼气",
@@ -4058,7 +4058,7 @@ window.BOOK_DATA[1] ={
           "fr/11934.mp3",
           "zh/11934.mp3",
           "hu1 qi4",
-          "ɛkspire"
+          "[ɛkspire]"
         ],
         [
           "老的，古老的",
@@ -4067,7 +4067,7 @@ window.BOOK_DATA[1] ={
           "fr/11935.mp3",
           "zh/11935.mp3",
           "lao3 de5 ， gu3 lao3 de5",
-          "vjø"
+          "[vjø]"
         ],
         [
           "香料",
@@ -4076,7 +4076,7 @@ window.BOOK_DATA[1] ={
           "fr/11936.mp3",
           "zh/11936.mp3",
           "xiang1 liao4",
-          "epis"
+          "[epis]"
         ]
       ]
     },
@@ -4091,7 +4091,7 @@ window.BOOK_DATA[1] ={
           "fr/11937.mp3",
           "zh/11937.mp3",
           "ka1 fei1 wu1",
-          "kafe"
+          "[kafe]"
         ],
         [
           "咖啡屋",
@@ -4100,7 +4100,7 @@ window.BOOK_DATA[1] ={
           "fr/11938.mp3",
           "zh/11938.mp3",
           "ka1 fei1 wu1",
-          "bistro"
+          "[bistro]"
         ],
         [
           "咖啡馆",
@@ -4109,7 +4109,7 @@ window.BOOK_DATA[1] ={
           "fr/11939.mp3",
           "zh/11939.mp3",
           "ka1 fei1 guan3",
-          "kafeterja"
+          "[kafeterja]"
         ],
         [
           "咖啡豆",
@@ -4118,7 +4118,7 @@ window.BOOK_DATA[1] ={
           "fr/11940.mp3",
           "zh/11940.mp3",
           "ka1 fei1 dou4",
-          "grɛ d(ə) kafe"
+          "[grɛ d(ə) kafe]"
         ],
         [
           "咖啡壶",
@@ -4127,7 +4127,7 @@ window.BOOK_DATA[1] ={
           "fr/11941.mp3",
           "zh/11941.mp3",
           "ka1 fei1 hu2",
-          "kaftjɛ:r"
+          "[kaftjɛ:r]"
         ],
         [
           "可可粉",
@@ -4136,7 +4136,7 @@ window.BOOK_DATA[1] ={
           "fr/11942.mp3",
           "zh/11942.mp3",
           "ke3 ke3 fen3",
-          "kakao"
+          "[kakao]"
         ],
         [
           "研磨",
@@ -4145,7 +4145,7 @@ window.BOOK_DATA[1] ={
           "fr/11943.mp3",
           "zh/11943.mp3",
           "yan2 mo2",
-          "pile"
+          "[pile]"
         ],
         [
           "粉末",
@@ -4154,7 +4154,7 @@ window.BOOK_DATA[1] ={
           "fr/11944.mp3",
           "zh/11944.mp3",
           "fen3 mo4",
-          "mjɛt"
+          "[mjɛt]"
         ],
         [
           "咖啡因",
@@ -4163,7 +4163,7 @@ window.BOOK_DATA[1] ={
           "fr/11945.mp3",
           "zh/11945.mp3",
           "ka1 fei1 yin1",
-          "kafein"
+          "[kafein]"
         ],
         [
           "引进",
@@ -4172,7 +4172,7 @@ window.BOOK_DATA[1] ={
           "fr/11946.mp3",
           "zh/11946.mp3",
           "yin3 jin4",
-          "ɛ̃pɔrte"
+          "[ɛ̃pɔrte]"
         ],
         [
           "浓的",
@@ -4181,7 +4181,7 @@ window.BOOK_DATA[1] ={
           "fr/11947.mp3",
           "zh/11947.mp3",
           "nong2 de5",
-          "dɑ̃:s"
+          "[dɑ̃:s]"
         ],
         [
           "弥漫",
@@ -4190,7 +4190,7 @@ window.BOOK_DATA[1] ={
           "fr/11948.mp3",
           "zh/11948.mp3",
           "mi2 man4",
-          "repɑ̃:dr"
+          "[repɑ̃:dr]"
         ],
         [
           "强烈的",
@@ -4199,7 +4199,7 @@ window.BOOK_DATA[1] ={
           "fr/11949.mp3",
           "zh/11949.mp3",
           "qiang2 lie4 de5",
-          "ɛ̃tɑ̃sif"
+          "[ɛ̃tɑ̃sif]"
         ],
         [
           "咖啡定",
@@ -4208,7 +4208,7 @@ window.BOOK_DATA[1] ={
           "fr/11950.mp3",
           "zh/11950.mp3",
           "ka1 fei1 ding4",
-          "kafeidin"
+          "[kafeidin]"
         ],
         [
           "咖啡匙",
@@ -4217,7 +4217,7 @@ window.BOOK_DATA[1] ={
           "fr/11951.mp3",
           "zh/11951.mp3",
           "ka1 fei1 shi5",
-          "kɥijɛ:r a kafe"
+          "[kɥijɛ:r a kafe]"
         ],
         [
           "咖啡磨",
@@ -4226,7 +4226,7 @@ window.BOOK_DATA[1] ={
           "fr/11952.mp3",
           "zh/11952.mp3",
           "ka1 fei1 mo2",
-          "mulɛ a kafe"
+          "[mulɛ a kafe]"
         ],
         [
           "咖啡醇",
@@ -4235,7 +4235,7 @@ window.BOOK_DATA[1] ={
           "fr/11953.mp3",
           "zh/11953.mp3",
           "ka1 fei1 chun2",
-          "kafeon"
+          "[kafeon]"
         ]
       ],
       "s": [
@@ -4275,7 +4275,7 @@ window.BOOK_DATA[1] ={
           "fr/11957.mp3",
           "zh/11957.mp3",
           "tong2 yang4 ， tong2 deng3",
-          "otɑ̃"
+          "[otɑ̃]"
         ],
         [
           "捆，系",
@@ -4284,7 +4284,7 @@ window.BOOK_DATA[1] ={
           "fr/11958.mp3",
           "zh/11958.mp3",
           "kun3 ， xi4",
-          "ataʃe"
+          "[ataʃe]"
         ],
         [
           "表现",
@@ -4293,7 +4293,7 @@ window.BOOK_DATA[1] ={
           "fr/11959.mp3",
           "zh/11959.mp3",
           "biao3 xian4",
-          "r(ə)prezɑ̃te"
+          "[r(ə)prezɑ̃te]"
         ],
         [
           "轻松",
@@ -4302,7 +4302,7 @@ window.BOOK_DATA[1] ={
           "fr/11960.mp3",
           "zh/11960.mp3",
           "qing1 song1",
-          "detɑ̃:t"
+          "[detɑ̃:t]"
         ],
         [
           "日常的",
@@ -4311,7 +4311,7 @@ window.BOOK_DATA[1] ={
           "fr/11961.mp3",
           "zh/11961.mp3",
           "ri4 chang2 de5",
-          "kɔtidjɛ, ɛn"
+          "[kɔtidjɛ, ɛn]"
         ],
         [
           "权利",
@@ -4320,7 +4320,7 @@ window.BOOK_DATA[1] ={
           "fr/11962.mp3",
           "zh/11962.mp3",
           "quan2 li4",
-          "drwa(a)"
+          "[drwa(a)]"
         ],
         [
           "主要地",
@@ -4329,7 +4329,7 @@ window.BOOK_DATA[1] ={
           "fr/11963.mp3",
           "zh/11963.mp3",
           "zhu3 yao4 di4",
-          "prɛsipalmɑ̃"
+          "[prɛsipalmɑ̃]"
         ]
       ]
     },
@@ -4344,7 +4344,7 @@ window.BOOK_DATA[1] ={
           "fr/11964.mp3",
           "zh/11964.mp3",
           "ka1 fei1",
-          "kafe"
+          "[kafe]"
         ],
         [
           "冰咖啡",
@@ -4353,7 +4353,7 @@ window.BOOK_DATA[1] ={
           "fr/11965.mp3",
           "zh/11965.mp3",
           "bing1 ka1 fei1",
-          "kafe glase"
+          "[kafe glase]"
         ],
         [
           "卡布奇诺",
@@ -4362,7 +4362,7 @@ window.BOOK_DATA[1] ={
           "fr/11966.mp3",
           "zh/11966.mp3",
           "ka3 bu4 qi2 nuo4",
-          "kaputʃino"
+          "[kaputʃino]"
         ],
         [
           "浓咖啡",
@@ -4371,7 +4371,7 @@ window.BOOK_DATA[1] ={
           "fr/11967.mp3",
           "zh/11967.mp3",
           "nong2 ka1 fei1",
-          "ɛkspreso"
+          "[ɛkspreso]"
         ],
         [
           "爱尔兰咖啡",
@@ -4380,7 +4380,7 @@ window.BOOK_DATA[1] ={
           "fr/11968.mp3",
           "zh/11968.mp3",
           "ai4 er3 lan2 ka1 fei1",
-          "kafe irlɑ̃de"
+          "[kafe irlɑ̃de]"
         ],
         [
           "摩卡",
@@ -4389,7 +4389,7 @@ window.BOOK_DATA[1] ={
           "fr/11969.mp3",
           "zh/11969.mp3",
           "mo2 ka3",
-          "mɔka"
+          "[mɔka]"
         ],
         [
           "拿铁",
@@ -4398,7 +4398,7 @@ window.BOOK_DATA[1] ={
           "fr/11970.mp3",
           "zh/11970.mp3",
           "na2 tie3",
-          "late"
+          "[late]"
         ],
         [
           "脱脂咖啡",
@@ -4407,7 +4407,7 @@ window.BOOK_DATA[1] ={
           "fr/11971.mp3",
           "zh/11971.mp3",
           "tuo1 zhi1 ka1 fei1",
-          "kafe ekreme"
+          "[kafe ekreme]"
         ],
         [
           "黑咖啡",
@@ -4416,7 +4416,7 @@ window.BOOK_DATA[1] ={
           "fr/11972.mp3",
           "zh/11972.mp3",
           "hei1 ka1 fei1",
-          "kafe nwa:r"
+          "[kafe nwa:r]"
         ],
         [
           "牛奶咖啡",
@@ -4425,7 +4425,7 @@ window.BOOK_DATA[1] ={
           "fr/11973.mp3",
           "zh/11973.mp3",
           "niu2 nai3 ka1 fei1",
-          "kafe olɛ"
+          "[kafe olɛ]"
         ],
         [
           "速溶咖啡",
@@ -4434,7 +4434,7 @@ window.BOOK_DATA[1] ={
           "fr/11974.mp3",
           "zh/11974.mp3",
           "su4 rong2 ka1 fei1",
-          "kafe ɛ̃s tɑ̃tane"
+          "[kafe ɛ̃s tɑ̃tane]"
         ],
         [
           "提神的",
@@ -4443,7 +4443,7 @@ window.BOOK_DATA[1] ={
           "fr/11975.mp3",
           "zh/11975.mp3",
           "ti2 shen2 de5",
-          "r(ə)mɔ̃tɑ̃, ɑ̃:t"
+          "[r(ə)mɔ̃tɑ̃, ɑ̃:t]"
         ],
         [
           "普施咖啡",
@@ -4452,7 +4452,7 @@ window.BOOK_DATA[1] ={
           "fr/11976.mp3",
           "zh/11976.mp3",
           "pu3 shi1 ka1 fei1",
-          "pus kafe"
+          "[pus kafe]"
         ]
       ],
       "s": [
@@ -4501,7 +4501,7 @@ window.BOOK_DATA[1] ={
           "fr/11981.mp3",
           "zh/11981.mp3",
           "le4 qu4",
-          "plɛ(ə)zi:r"
+          "[plɛ(ə)zi:r]"
         ],
         [
           "杯子",
@@ -4510,7 +4510,7 @@ window.BOOK_DATA[1] ={
           "fr/11982.mp3",
           "zh/11982.mp3",
           "bei1 zi5",
-          "ta:s"
+          "[ta:s]"
         ],
         [
           "只，仅仅",
@@ -4519,7 +4519,7 @@ window.BOOK_DATA[1] ={
           "fr/11983.mp3",
           "zh/11983.mp3",
           "zhi3 ， jin3 jin3",
-          "sœlmɑ̃"
+          "[sœlmɑ̃]"
         ],
         [
           "肥胖的，厚的",
@@ -4528,7 +4528,7 @@ window.BOOK_DATA[1] ={
           "fr/11984.mp3",
           "zh/11984.mp3",
           "fei2 pang4 de5 ， hou4 de5",
-          "gro, o:s"
+          "[gro, o:s]"
         ],
         [
           "药材",
@@ -4537,7 +4537,7 @@ window.BOOK_DATA[1] ={
           "fr/11985.mp3",
           "zh/11985.mp3",
           "yao4 cai2",
-          "medikamɑ̃"
+          "[medikamɑ̃]"
         ]
       ]
     },
@@ -4552,7 +4552,7 @@ window.BOOK_DATA[1] ={
           "fr/11986.mp3",
           "zh/11986.mp3",
           "can1 ju4",
-          "kuve:r"
+          "[kuve:r]"
         ],
         [
           "餐具",
@@ -4561,7 +4561,7 @@ window.BOOK_DATA[1] ={
           "fr/11987.mp3",
           "zh/11987.mp3",
           "can1 ju4",
-          "vesɛl"
+          "[vesɛl]"
         ],
         [
           "餐具",
@@ -4570,7 +4570,7 @@ window.BOOK_DATA[1] ={
           "fr/11988.mp3",
           "zh/11988.mp3",
           "can1 ju4",
-          "sɛrvis d(ə) tabl"
+          "[sɛrvis d(ə) tabl]"
         ],
         [
           "餐具架",
@@ -4579,7 +4579,7 @@ window.BOOK_DATA[1] ={
           "fr/11989.mp3",
           "zh/11989.mp3",
           "can1 ju4 jia4",
-          "drɛswa:r"
+          "[drɛswa:r]"
         ],
         [
           "刀",
@@ -4588,7 +4588,7 @@ window.BOOK_DATA[1] ={
           "fr/11990.mp3",
           "zh/11990.mp3",
           "dao1",
-          "kuto"
+          "[kuto]"
         ],
         [
           "叉",
@@ -4597,7 +4597,7 @@ window.BOOK_DATA[1] ={
           "fr/11991.mp3",
           "zh/11991.mp3",
           "cha1",
-          "furʃɛt"
+          "[furʃɛt]"
         ],
         [
           "用……叉",
@@ -4606,7 +4606,7 @@ window.BOOK_DATA[1] ={
           "fr/11992.mp3",
           "zh/11992.mp3",
           "yong4 … … cha1",
-          "ɑ̃furʃe"
+          "[ɑ̃furʃe]"
         ],
         [
           "勺子",
@@ -4615,7 +4615,7 @@ window.BOOK_DATA[1] ={
           "fr/11993.mp3",
           "zh/11993.mp3",
           "shao2 zi5",
-          "kuijɛ:r"
+          "[kuijɛ:r]"
         ],
         [
           "筷子",
@@ -4624,7 +4624,7 @@ window.BOOK_DATA[1] ={
           "fr/11994.mp3",
           "zh/11994.mp3",
           "kuai4 zi5",
-          "bagɛt"
+          "[bagɛt]"
         ],
         [
           "碗",
@@ -4633,7 +4633,7 @@ window.BOOK_DATA[1] ={
           "fr/11995.mp3",
           "zh/11995.mp3",
           "wan3",
-          "bɔl"
+          "[bɔl]"
         ],
         [
           "碟子",
@@ -4642,7 +4642,7 @@ window.BOOK_DATA[1] ={
           "fr/11996.mp3",
           "zh/11996.mp3",
           "die2 zi5",
-          "p(ə)tit asjɛt"
+          "[p(ə)tit asjɛt]"
         ],
         [
           "盘子",
@@ -4651,7 +4651,7 @@ window.BOOK_DATA[1] ={
           "fr/11997.mp3",
           "zh/11997.mp3",
           "pan2 zi5",
-          "plato"
+          "[plato]"
         ],
         [
           "托盘",
@@ -4660,7 +4660,7 @@ window.BOOK_DATA[1] ={
           "fr/11998.mp3",
           "zh/11998.mp3",
           "tuo1 pan2",
-          "lɛʃfrit"
+          "[lɛʃfrit]"
         ],
         [
           "茶托",
@@ -4669,7 +4669,7 @@ window.BOOK_DATA[1] ={
           "fr/11999.mp3",
           "zh/11999.mp3",
           "cha2 tuo1",
-          "sukup"
+          "[sukup]"
         ],
         [
           "罐子",
@@ -4678,7 +4678,7 @@ window.BOOK_DATA[1] ={
           "fr/12000.mp3",
           "zh/12000.mp3",
           "guan4 zi5",
-          "po"
+          "[po]"
         ],
         [
           "壶",
@@ -4687,7 +4687,7 @@ window.BOOK_DATA[1] ={
           "fr/12001.mp3",
           "zh/12001.mp3",
           "hu2",
-          "tejɛ:r"
+          "[tejɛ:r]"
         ],
         [
           "舀",
@@ -4696,7 +4696,7 @@ window.BOOK_DATA[1] ={
           "fr/12002.mp3",
           "zh/12002.mp3",
           "yao3",
-          "pɥize"
+          "[pɥize]"
         ],
         [
           "桌布",
@@ -4705,7 +4705,7 @@ window.BOOK_DATA[1] ={
           "fr/12003.mp3",
           "zh/12003.mp3",
           "zhuo1 bu4",
-          "nap"
+          "[nap]"
         ],
         [
           "不锈钢",
@@ -4714,7 +4714,7 @@ window.BOOK_DATA[1] ={
           "fr/12004.mp3",
           "zh/12004.mp3",
           "bu2 xiu4 gang1",
-          "inɔks"
+          "[inɔks]"
         ],
         [
           "夹起",
@@ -4723,7 +4723,7 @@ window.BOOK_DATA[1] ={
           "fr/12005.mp3",
           "zh/12005.mp3",
           "jia1 qi3",
-          "prɛ(e)se"
+          "[prɛ(e)se]"
         ]
       ],
       "s": [
@@ -4781,7 +4781,7 @@ window.BOOK_DATA[1] ={
           "fr/12011.mp3",
           "zh/12011.mp3",
           "qing3 qiu2 ， yao4 qiu2",
-          "d(ə)mɑ̃de"
+          "[d(ə)mɑ̃de]"
         ],
         [
           "切割",
@@ -4790,7 +4790,7 @@ window.BOOK_DATA[1] ={
           "fr/12012.mp3",
           "zh/12012.mp3",
           "qie4 ge1",
-          "kupe"
+          "[kupe]"
         ],
         [
           "手腕",
@@ -4799,7 +4799,7 @@ window.BOOK_DATA[1] ={
           "fr/12013.mp3",
           "zh/12013.mp3",
           "shou3 wan4",
-          "pwanɛ"
+          "[pwanɛ]"
         ],
         [
           "竹子",
@@ -4808,7 +4808,7 @@ window.BOOK_DATA[1] ={
           "fr/12014.mp3",
           "zh/12014.mp3",
           "zhu2 zi5",
-          "bɑ̃bu"
+          "[bɑ̃bu]"
         ]
       ]
     },
@@ -4823,7 +4823,7 @@ window.BOOK_DATA[1] ={
           "fr/12015.mp3",
           "zh/12015.mp3",
           "feng1 sheng4 de5",
-          "kɔpjø, ø:z"
+          "[kɔpjø, ø:z]"
         ],
         [
           "简单的",
@@ -4832,7 +4832,7 @@ window.BOOK_DATA[1] ={
           "fr/12016.mp3",
           "zh/12016.mp3",
           "jian3 dan1 de5",
-          "sɛ̃:pl"
+          "[sɛ̃:pl]"
         ],
         [
           "礼仪",
@@ -4841,7 +4841,7 @@ window.BOOK_DATA[1] ={
           "fr/12017.mp3",
           "zh/12017.mp3",
           "li3 yi2",
-          "rit"
+          "[rit]"
         ],
         [
           "合适地",
@@ -4850,7 +4850,7 @@ window.BOOK_DATA[1] ={
           "fr/12018.mp3",
           "zh/12018.mp3",
           "he2 shi4 di4",
-          "kɔ̃vnablamɑ̃"
+          "[kɔ̃vnablamɑ̃]"
         ],
         [
           "不得体的",
@@ -4859,7 +4859,7 @@ window.BOOK_DATA[1] ={
           "fr/12019.mp3",
           "zh/12019.mp3",
           "bu4 de2 ti3 de5",
-          "deplase"
+          "[deplase]"
         ],
         [
           "令人满意的",
@@ -4868,7 +4868,7 @@ window.BOOK_DATA[1] ={
           "fr/12020.mp3",
           "zh/12020.mp3",
           "ling4 ren2 man3 yi4 de5",
-          "satisfazɑ̃, ɑ̃:t"
+          "[satisfazɑ̃, ɑ̃:t]"
         ],
         [
           "摆放",
@@ -4877,7 +4877,7 @@ window.BOOK_DATA[1] ={
           "fr/12021.mp3",
           "zh/12021.mp3",
           "bai3 fang4",
-          "plase"
+          "[plase]"
         ],
         [
           "弄脏",
@@ -4886,7 +4886,7 @@ window.BOOK_DATA[1] ={
           "fr/12022.mp3",
           "zh/12022.mp3",
           "nong4 zang4",
-          "sali:r"
+          "[sali:r]"
         ],
         [
           "饥饿",
@@ -4895,7 +4895,7 @@ window.BOOK_DATA[1] ={
           "fr/12023.mp3",
           "zh/12023.mp3",
           "ji1 e4",
-          "fɛ"
+          "[fɛ]"
         ],
         [
           "狼吞虎咽",
@@ -4904,7 +4904,7 @@ window.BOOK_DATA[1] ={
           "fr/12024.mp3",
           "zh/12024.mp3",
           "lang2 tun1 hu3 yan4",
-          "ɑ̃gluti:r"
+          "[ɑ̃gluti:r]"
         ],
         [
           "撕开",
@@ -4913,7 +4913,7 @@ window.BOOK_DATA[1] ={
           "fr/12025.mp3",
           "zh/12025.mp3",
           "si1 kai1",
-          "deʃire"
+          "[deʃire]"
         ],
         [
           "交换位置",
@@ -4922,7 +4922,7 @@ window.BOOK_DATA[1] ={
           "fr/12026.mp3",
           "zh/12026.mp3",
           "jiao1 huan4 wei4 zhi4",
-          "eʃɑ̃:ʒe"
+          "[eʃɑ̃:ʒe]"
         ],
         [
           "小口地吃",
@@ -4931,7 +4931,7 @@ window.BOOK_DATA[1] ={
           "fr/12027.mp3",
           "zh/12027.mp3",
           "xiao3 kou3 di4 chi1",
-          "siʁɔte"
+          "[siʁɔte]"
         ],
         [
           "擦",
@@ -4940,7 +4940,7 @@ window.BOOK_DATA[1] ={
           "fr/12028.mp3",
           "zh/12028.mp3",
           "ca1",
-          "frɔte"
+          "[frɔte]"
         ],
         [
           "抿",
@@ -4949,7 +4949,7 @@ window.BOOK_DATA[1] ={
           "fr/12029.mp3",
           "zh/12029.mp3",
           "min3",
-          "lise"
+          "[lise]"
         ],
         [
           "满的",
@@ -4958,7 +4958,7 @@ window.BOOK_DATA[1] ={
           "fr/12030.mp3",
           "zh/12030.mp3",
           "man3 de5",
-          "plɛ̃, ɛn"
+          "[plɛ̃, ɛn]"
         ],
         [
           "可以接受的",
@@ -4967,7 +4967,7 @@ window.BOOK_DATA[1] ={
           "fr/12031.mp3",
           "zh/12031.mp3",
           "ke3 yi3 jie1 shou4 de5",
-          "aksɛptabl"
+          "[aksɛptabl]"
         ]
       ],
       "s": [
@@ -5016,7 +5016,7 @@ window.BOOK_DATA[1] ={
           "fr/12036.mp3",
           "zh/12036.mp3",
           "xing2 wei4 ju3 zhi3",
-          "kɔ̃pɔrtamɑ̃"
+          "[kɔ̃pɔrtamɑ̃]"
         ],
         [
           "不道德的",
@@ -5025,7 +5025,7 @@ window.BOOK_DATA[1] ={
           "fr/12037.mp3",
           "zh/12037.mp3",
           "bu2 dao4 de2 de5",
-          "im(m)ɔral"
+          "[im(m)ɔral]"
         ],
         [
           "重新考虑",
@@ -5034,7 +5034,7 @@ window.BOOK_DATA[1] ={
           "fr/12038.mp3",
           "zh/12038.mp3",
           "zhong4 xin1 kao3 lv4",
-          "r(ə)pɑ̃se"
+          "[r(ə)pɑ̃se]"
         ],
         [
           "深深地",
@@ -5043,7 +5043,7 @@ window.BOOK_DATA[1] ={
           "fr/12039.mp3",
           "zh/12039.mp3",
           "shen1 shen1 di4",
-          "prɔfɔ̃demɑ̃"
+          "[prɔfɔ̃demɑ̃]"
         ],
         [
           "幸福的",
@@ -5052,7 +5052,7 @@ window.BOOK_DATA[1] ={
           "fr/12040.mp3",
           "zh/12040.mp3",
           "xing4 fu2 de5",
-          "œrø, øz"
+          "[œrø, øz]"
         ]
       ]
     },
@@ -5067,7 +5067,7 @@ window.BOOK_DATA[1] ={
           "fr/12041.mp3",
           "zh/12041.mp3",
           "bei1 zi5",
-          "kup"
+          "[kup]"
         ],
         [
           "马克杯",
@@ -5076,7 +5076,7 @@ window.BOOK_DATA[1] ={
           "fr/12042.mp3",
           "zh/12042.mp3",
           "ma3 ke4 bei1",
-          "gɔble"
+          "[gɔble]"
         ],
         [
           "玻璃马克杯",
@@ -5085,7 +5085,7 @@ window.BOOK_DATA[1] ={
           "fr/12043.mp3",
           "zh/12043.mp3",
           "bo1 li2 ma3 ke4 bei1",
-          "gɔble vɛ:r"
+          "[gɔble vɛ:r]"
         ],
         [
           "咖啡杯",
@@ -5094,7 +5094,7 @@ window.BOOK_DATA[1] ={
           "fr/12044.mp3",
           "zh/12044.mp3",
           "ka1 fei1 bei1",
-          "ta:s a kafe"
+          "[ta:s a kafe]"
         ],
         [
           "相配的",
@@ -5103,7 +5103,7 @@ window.BOOK_DATA[1] ={
           "fr/12045.mp3",
           "zh/12045.mp3",
           "xiang1 pei4 de5",
-          "kɔɔrdɔne"
+          "[kɔɔrdɔne]"
         ],
         [
           "啤酒杯",
@@ -5112,7 +5112,7 @@ window.BOOK_DATA[1] ={
           "fr/12046.mp3",
           "zh/12046.mp3",
           "pi2 jiu3 bei1",
-          "ta:s d(ə) bjɛ:r"
+          "[ta:s d(ə) bjɛ:r]"
         ],
         [
           "玻璃杯",
@@ -5121,7 +5121,7 @@ window.BOOK_DATA[1] ={
           "fr/12047.mp3",
           "zh/12047.mp3",
           "bo1 li2 bei1",
-          "vɛ:r"
+          "[vɛ:r]"
         ],
         [
           "搪瓷",
@@ -5130,7 +5130,7 @@ window.BOOK_DATA[1] ={
           "fr/12048.mp3",
           "zh/12048.mp3",
           "tang2 ci2",
-          "emaj"
+          "[emaj]"
         ],
         [
           "瓷制品",
@@ -5139,7 +5139,7 @@ window.BOOK_DATA[1] ={
           "fr/12049.mp3",
           "zh/12049.mp3",
           "ci2 zhi4 pin3",
-          "seramik"
+          "[seramik]"
         ],
         [
           "高脚杯",
@@ -5148,7 +5148,7 @@ window.BOOK_DATA[1] ={
           "fr/12050.mp3",
           "zh/12050.mp3",
           "gao1 jiao3 bei1",
-          "vɛ:r a pje"
+          "[vɛ:r a pje]"
         ],
         [
           "高脚杯",
@@ -5157,7 +5157,7 @@ window.BOOK_DATA[1] ={
           "fr/12051.mp3",
           "zh/12051.mp3",
           "gao1 jiao3 bei1",
-          "flyt"
+          "[flyt]"
         ],
         [
           "盖子",
@@ -5166,7 +5166,7 @@ window.BOOK_DATA[1] ={
           "fr/12052.mp3",
           "zh/12052.mp3",
           "gai4 zi5",
-          "kuverkl"
+          "[kuverkl]"
         ],
         [
           "小垫子",
@@ -5175,7 +5175,7 @@ window.BOOK_DATA[1] ={
           "fr/12053.mp3",
           "zh/12053.mp3",
           "xiao3 dian4 zi5",
-          "kusinɛ"
+          "[kusinɛ]"
         ],
         [
           "运动水壶",
@@ -5184,7 +5184,7 @@ window.BOOK_DATA[1] ={
           "fr/12054.mp3",
           "zh/12054.mp3",
           "yun4 dong4 shui3 hu2",
-          "butɛj d(ə) spɔ:r"
+          "[butɛj d(ə) spɔ:r]"
         ]
       ],
       "s": [
@@ -5233,7 +5233,7 @@ window.BOOK_DATA[1] ={
           "fr/12059.mp3",
           "zh/12059.mp3",
           "lin2 jin4 de5",
-          "prɔʃ"
+          "[prɔʃ]"
         ],
         [
           "支持支撑",
@@ -5242,7 +5242,7 @@ window.BOOK_DATA[1] ={
           "fr/12060.mp3",
           "zh/12060.mp3",
           "zhi1 chi2 zhi1 cheng1",
-          "sypɔrte"
+          "[sypɔrte]"
         ],
         [
           "乐观的",
@@ -5251,7 +5251,7 @@ window.BOOK_DATA[1] ={
           "fr/12061.mp3",
           "zh/12061.mp3",
           "le4 guan1 de5",
-          "ɔptimist"
+          "[ɔptimist]"
         ],
         [
           "忘记，遗忘",
@@ -5260,7 +5260,7 @@ window.BOOK_DATA[1] ={
           "fr/12062.mp3",
           "zh/12062.mp3",
           "wang4 ji4 ， yi2 wang4",
-          "ublije"
+          "[ublije]"
         ],
         [
           "专业的",
@@ -5269,7 +5269,7 @@ window.BOOK_DATA[1] ={
           "fr/12063.mp3",
           "zh/12063.mp3",
           "zhuan1 ye4 de5",
-          "spesjalize"
+          "[spesjalize]"
         ],
         [
           "发展",
@@ -5278,7 +5278,7 @@ window.BOOK_DATA[1] ={
           "fr/12064.mp3",
           "zh/12064.mp3",
           "fa1 zhan3",
-          "devlɔpmɑ̃"
+          "[devlɔpmɑ̃]"
         ]
       ]
     },
@@ -5293,7 +5293,7 @@ window.BOOK_DATA[1] ={
           "fr/12065.mp3",
           "zh/12065.mp3",
           "xiao3 chi1",
-          "snak"
+          "[snak]"
         ],
         [
           "点心",
@@ -5302,7 +5302,7 @@ window.BOOK_DATA[1] ={
           "fr/12066.mp3",
           "zh/12066.mp3",
           "dian3 xin1",
-          "gato"
+          "[gato]"
         ],
         [
           "酥脆的",
@@ -5311,7 +5311,7 @@ window.BOOK_DATA[1] ={
           "fr/12067.mp3",
           "zh/12067.mp3",
           "su1 cui4 de5",
-          "krustijɑ̃, ɑ̃t"
+          "[krustijɑ̃, ɑ̃t]"
         ],
         [
           "混杂的",
@@ -5320,7 +5320,7 @@ window.BOOK_DATA[1] ={
           "fr/12068.mp3",
           "zh/12068.mp3",
           "hun4 za2 de5",
-          "etɛrɔʒɛn"
+          "[etɛrɔʒɛn]"
         ],
         [
           "混合物",
@@ -5329,7 +5329,7 @@ window.BOOK_DATA[1] ={
           "fr/12069.mp3",
           "zh/12069.mp3",
           "hun4 he2 wu4",
-          "melɑ̃ʒe"
+          "[melɑ̃ʒe]"
         ],
         [
           "坚果",
@@ -5338,7 +5338,7 @@ window.BOOK_DATA[1] ={
           "fr/12070.mp3",
           "zh/12070.mp3",
           "jian1 guo3",
-          "frɥi a kɔk"
+          "[frɥi a kɔk]"
         ],
         [
           "少量",
@@ -5347,7 +5347,7 @@ window.BOOK_DATA[1] ={
           "fr/12071.mp3",
           "zh/12071.mp3",
           "shao3 liang4",
-          "fɛbl"
+          "[fɛbl]"
         ],
         [
           "含果肉的",
@@ -5356,7 +5356,7 @@ window.BOOK_DATA[1] ={
           "fr/12072.mp3",
           "zh/12072.mp3",
           "han2 guo3 rou4 de5",
-          "pylpø, ø:z"
+          "[pylpø, ø:z]"
         ],
         [
           "葡萄干",
@@ -5365,7 +5365,7 @@ window.BOOK_DATA[1] ={
           "fr/12073.mp3",
           "zh/12073.mp3",
           "pu2 tao2 gan4",
-          "rɛzɛ̃ sɛk"
+          "[rɛzɛ̃ sɛk]"
         ],
         [
           "花籽",
@@ -5374,7 +5374,7 @@ window.BOOK_DATA[1] ={
           "fr/12074.mp3",
           "zh/12074.mp3",
           "hua1 zi3",
-          "grɛ(ɛ)ne d(ə) turnasɔl"
+          "[grɛ(ɛ)ne d(ə) turnasɔl]"
         ],
         [
           "米花",
@@ -5383,7 +5383,7 @@ window.BOOK_DATA[1] ={
           "fr/12075.mp3",
           "zh/12075.mp3",
           "mi3 hua1",
-          "pɔpkɔrn"
+          "[pɔpkɔrn]"
         ],
         [
           "果冻",
@@ -5392,7 +5392,7 @@ window.BOOK_DATA[1] ={
           "fr/12076.mp3",
           "zh/12076.mp3",
           "guo3 dong4",
-          "ʒ(ə)le"
+          "[ʒ(ə)le]"
         ],
         [
           "开心果",
@@ -5401,7 +5401,7 @@ window.BOOK_DATA[1] ={
           "fr/12077.mp3",
           "zh/12077.mp3",
           "kai1 xin1 guo3",
-          "pistaʃ"
+          "[pistaʃ]"
         ],
         [
           "花生",
@@ -5410,7 +5410,7 @@ window.BOOK_DATA[1] ={
           "fr/12078.mp3",
           "zh/12078.mp3",
           "hua1 sheng1",
-          "araʃid"
+          "[araʃid]"
         ],
         [
           "糖果",
@@ -5419,7 +5419,7 @@ window.BOOK_DATA[1] ={
           "fr/12079.mp3",
           "zh/12079.mp3",
           "tang2 guo3",
-          "bɔ̃bɔ̃"
+          "[bɔ̃bɔ̃]"
         ],
         [
           "夹心糖",
@@ -5428,7 +5428,7 @@ window.BOOK_DATA[1] ={
           "fr/12080.mp3",
           "zh/12080.mp3",
           "jia1 xin1 tang2",
-          "bɔ̃bɔ̃ fure"
+          "[bɔ̃bɔ̃ fure]"
         ],
         [
           "布丁",
@@ -5437,7 +5437,7 @@ window.BOOK_DATA[1] ={
           "fr/12081.mp3",
           "zh/12081.mp3",
           "bu4 ding1",
-          "flɑ̃"
+          "[flɑ̃]"
         ]
       ],
       "s": [
@@ -5486,7 +5486,7 @@ window.BOOK_DATA[1] ={
           "fr/12086.mp3",
           "zh/12086.mp3",
           "guo4 min3 de5",
-          "alɛrʒik"
+          "[alɛrʒik]"
         ],
         [
           "果园",
@@ -5495,7 +5495,7 @@ window.BOOK_DATA[1] ={
           "fr/12087.mp3",
           "zh/12087.mp3",
           "guo3 yuan2",
-          "frɥitje"
+          "[frɥitje]"
         ]
       ]
     },
@@ -5510,7 +5510,7 @@ window.BOOK_DATA[1] ={
           "fr/12088.mp3",
           "zh/12088.mp3",
           "bing3 gan4",
-          "biskɥi"
+          "[biskɥi]"
         ],
         [
           "压缩饼干",
@@ -5519,7 +5519,7 @@ window.BOOK_DATA[1] ={
           "fr/12089.mp3",
           "zh/12089.mp3",
           "ya1 suo1 bing3 gan4",
-          "biskɥi kɔ̃prime"
+          "[biskɥi kɔ̃prime]"
         ],
         [
           "消化饼干",
@@ -5528,7 +5528,7 @@ window.BOOK_DATA[1] ={
           "fr/12090.mp3",
           "zh/12090.mp3",
           "xiao1 hua4 bing3 gan4",
-          "biskɥi diʒɛstif"
+          "[biskɥi diʒɛstif]"
         ],
         [
           "曲奇饼干",
@@ -5537,7 +5537,7 @@ window.BOOK_DATA[1] ={
           "fr/12091.mp3",
           "zh/12091.mp3",
           "qu1 qi2 bing3 gan4",
-          "kuki"
+          "[kuki]"
         ],
         [
           "饼干盒",
@@ -5546,7 +5546,7 @@ window.BOOK_DATA[1] ={
           "fr/12092.mp3",
           "zh/12092.mp3",
           "bing3 gan4 he2",
-          "bwat a biskɥi"
+          "[bwat a biskɥi]"
         ],
         [
           "华夫饼",
@@ -5555,7 +5555,7 @@ window.BOOK_DATA[1] ={
           "fr/12093.mp3",
           "zh/12093.mp3",
           "hua2 fu1 bing3",
-          "gofrə"
+          "[gofrə]"
         ],
         [
           "威化饼",
@@ -5564,7 +5564,7 @@ window.BOOK_DATA[1] ={
           "fr/12094.mp3",
           "zh/12094.mp3",
           "wei1 hua4 bing3",
-          "gofrɛt"
+          "[gofrɛt]"
         ],
         [
           "薄饼干",
@@ -5573,7 +5573,7 @@ window.BOOK_DATA[1] ={
           "fr/12095.mp3",
           "zh/12095.mp3",
           "bao2 bing3 gan4",
-          "krakœr"
+          "[krakœr]"
         ],
         [
           "福饼",
@@ -5582,7 +5582,7 @@ window.BOOK_DATA[1] ={
           "fr/12096.mp3",
           "zh/12096.mp3",
           "fu2 bing3",
-          "dɔny"
+          "[dɔny]"
         ],
         [
           "椒盐脆饼干",
@@ -5591,7 +5591,7 @@ window.BOOK_DATA[1] ={
           "fr/12097.mp3",
           "zh/12097.mp3",
           "jiao1 yan2 cui4 bing3 gan4",
-          "bredzɛl"
+          "[bredzɛl]"
         ],
         [
           "碎屑",
@@ -5600,7 +5600,7 @@ window.BOOK_DATA[1] ={
           "fr/12098.mp3",
           "zh/12098.mp3",
           "sui4 xie4",
-          "klast"
+          "[klast]"
         ],
         [
           "咸的",
@@ -5609,7 +5609,7 @@ window.BOOK_DATA[1] ={
           "fr/12099.mp3",
           "zh/12099.mp3",
           "xian2 de5",
-          "sale"
+          "[sale]"
         ],
         [
           "无味道的",
@@ -5618,7 +5618,7 @@ window.BOOK_DATA[1] ={
           "fr/12100.mp3",
           "zh/12100.mp3",
           "wu2 wei4 dao4 de5",
-          "ɛsipid"
+          "[ɛsipid]"
         ],
         [
           "皮塔饼",
@@ -5627,7 +5627,7 @@ window.BOOK_DATA[1] ={
           "fr/12101.mp3",
           "zh/12101.mp3",
           "pi2 ta3 bing3",
-          "pita"
+          "[pita]"
         ],
         [
           "蛋挞",
@@ -5636,7 +5636,7 @@ window.BOOK_DATA[1] ={
           "fr/12102.mp3",
           "zh/12102.mp3",
           "dan4 ta4",
-          "tart"
+          "[tart]"
         ],
         [
           "苹果派",
@@ -5645,7 +5645,7 @@ window.BOOK_DATA[1] ={
           "fr/12103.mp3",
           "zh/12103.mp3",
           "ping2 guo3 pai4",
-          "tart o pɔm"
+          "[tart o pɔm]"
         ]
       ],
       "s": [
@@ -5694,7 +5694,7 @@ window.BOOK_DATA[1] ={
           "fr/12108.mp3",
           "zh/12108.mp3",
           "zi4 ci2",
-          "mo"
+          "[mo]"
         ],
         [
           "海生的",
@@ -5703,7 +5703,7 @@ window.BOOK_DATA[1] ={
           "fr/12109.mp3",
           "zh/12109.mp3",
           "hai3 sheng1 de5",
-          "marɛ̃, in"
+          "[marɛ̃, in]"
         ],
         [
           "混合，搀和",
@@ -5712,7 +5712,7 @@ window.BOOK_DATA[1] ={
           "fr/12110.mp3",
           "zh/12110.mp3",
           "hun4 he2 ， chan1 he2",
-          "melɑ̃:"
+          "[melɑ̃:]"
         ],
         [
           "可以接受的",
@@ -5721,7 +5721,7 @@ window.BOOK_DATA[1] ={
           "fr/12111.mp3",
           "zh/12111.mp3",
           "ke3 yi3 jie1 shou4 de5",
-          "aksɛptabl"
+          "[aksɛptabl]"
         ],
         [
           "糕点，糕点制作法",
@@ -5730,7 +5730,7 @@ window.BOOK_DATA[1] ={
           "fr/12112.mp3",
           "zh/12112.mp3",
           "gao1 dian3 ， gao1 dian3 zhi4 zuo4 fa3",
-          "pa(a)tisri"
+          "[pa(a)tisri]"
         ],
         [
           "真理",
@@ -5739,7 +5739,7 @@ window.BOOK_DATA[1] ={
           "fr/12113.mp3",
           "zh/12113.mp3",
           "zhen1 li3",
-          "verite"
+          "[verite]"
         ],
         [
           "平原",
@@ -5748,7 +5748,7 @@ window.BOOK_DATA[1] ={
           "fr/12114.mp3",
           "zh/12114.mp3",
           "ping2 yuan2",
-          "plen"
+          "[plen]"
         ]
       ]
     },
@@ -5763,7 +5763,7 @@ window.BOOK_DATA[1] ={
           "fr/12115.mp3",
           "zh/12115.mp3",
           "leng3 cang2",
-          "refriʒera(ɑ)sjɔ̃"
+          "[refriʒera(ɑ)sjɔ̃]"
         ],
         [
           "解冻",
@@ -5772,7 +5772,7 @@ window.BOOK_DATA[1] ={
           "fr/12116.mp3",
           "zh/12116.mp3",
           "jie3 dong4",
-          "deʒɛl"
+          "[deʒɛl]"
         ],
         [
           "加热",
@@ -5781,7 +5781,7 @@ window.BOOK_DATA[1] ={
           "fr/12117.mp3",
           "zh/12117.mp3",
           "jia1 re4",
-          "ʃo:f"
+          "[ʃo:f]"
         ],
         [
           "泡菜",
@@ -5790,7 +5790,7 @@ window.BOOK_DATA[1] ={
           "fr/12118.mp3",
           "zh/12118.mp3",
           "pao4 cai4",
-          "varjɑ̃"
+          "[varjɑ̃]"
         ],
         [
           "装袋",
@@ -5799,7 +5799,7 @@ window.BOOK_DATA[1] ={
           "fr/12119.mp3",
           "zh/12119.mp3",
           "zhuang1 dai4",
-          "ɑ̃saʃa:ʒ"
+          "[ɑ̃saʃa:ʒ]"
         ],
         [
           "脱水",
@@ -5808,7 +5808,7 @@ window.BOOK_DATA[1] ={
           "fr/12120.mp3",
           "zh/12120.mp3",
           "tuo1 shui3",
-          "dezidratasjɔ̃"
+          "[dezidratasjɔ̃]"
         ],
         [
           "灭菌",
@@ -5817,7 +5817,7 @@ window.BOOK_DATA[1] ={
           "fr/12121.mp3",
           "zh/12121.mp3",
           "mie4 jun1",
-          "sterilize"
+          "[sterilize]"
         ],
         [
           "使变干",
@@ -5826,7 +5826,7 @@ window.BOOK_DATA[1] ={
           "fr/12122.mp3",
           "zh/12122.mp3",
           "shi3 bian4 gan4",
-          "deseʃe"
+          "[deseʃe]"
         ],
         [
           "风干",
@@ -5835,7 +5835,7 @@ window.BOOK_DATA[1] ={
           "fr/12123.mp3",
           "zh/12123.mp3",
           "feng1 gan4",
-          "seʃe a lɛ:r"
+          "[seʃe a lɛ:r]"
         ],
         [
           "储存",
@@ -5844,7 +5844,7 @@ window.BOOK_DATA[1] ={
           "fr/12124.mp3",
           "zh/12124.mp3",
           "chu3 cun2",
-          "amase"
+          "[amase]"
         ],
         [
           "烟熏",
@@ -5853,7 +5853,7 @@ window.BOOK_DATA[1] ={
           "fr/12125.mp3",
           "zh/12125.mp3",
           "yan1 xun1",
-          "fyme"
+          "[fyme]"
         ],
         [
           "新鲜的",
@@ -5862,7 +5862,7 @@ window.BOOK_DATA[1] ={
           "fr/12126.mp3",
           "zh/12126.mp3",
           "xin1 xian1 de5",
-          "frɛ, frɛʃ"
+          "[frɛ, frɛʃ]"
         ],
         [
           "防腐剂",
@@ -5871,7 +5871,7 @@ window.BOOK_DATA[1] ={
           "fr/12127.mp3",
           "zh/12127.mp3",
           "fang2 fu3 ji4",
-          "prezervatœ:r"
+          "[prezervatœ:r]"
         ],
         [
           "不新鲜的",
@@ -5880,7 +5880,7 @@ window.BOOK_DATA[1] ={
           "fr/12128.mp3",
           "zh/12128.mp3",
           "bu4 xin1 xian1 de5",
-          "rasi, iz"
+          "[rasi, iz]"
         ],
         [
           "添加剂",
@@ -5889,7 +5889,7 @@ window.BOOK_DATA[1] ={
           "fr/12129.mp3",
           "zh/12129.mp3",
           "tian1 jia1 ji4",
-          "aditif"
+          "[aditif]"
         ],
         [
           "食品添加剂",
@@ -5898,7 +5898,7 @@ window.BOOK_DATA[1] ={
           "fr/12130.mp3",
           "zh/12130.mp3",
           "shi2 pin3 tian1 jia1 ji4",
-          "aditif alimɑ̃tɛ:r"
+          "[aditif alimɑ̃tɛ:r]"
         ]
       ],
       "s": [
@@ -5938,7 +5938,7 @@ window.BOOK_DATA[1] ={
           "fr/12134.mp3",
           "zh/12134.mp3",
           "gong1 si1 ， tuan2 ti3",
-          "sɔsjete"
+          "[sɔsjete]"
         ],
         [
           "综合处理的",
@@ -5947,7 +5947,7 @@ window.BOOK_DATA[1] ={
           "fr/12135.mp3",
           "zh/12135.mp3",
           "zong1 he2 chu4 li3 de5",
-          "ɛ̃tegre"
+          "[ɛ̃tegre]"
         ],
         [
           "收集品，征集",
@@ -5956,7 +5956,7 @@ window.BOOK_DATA[1] ={
           "fr/12136.mp3",
           "zh/12136.mp3",
           "shou1 ji2 pin3 ， zheng1 ji2",
-          "kɔ(l)leksjɔ̃"
+          "[kɔ(l)leksjɔ̃]"
         ],
         [
           "活力",
@@ -5965,7 +5965,7 @@ window.BOOK_DATA[1] ={
           "fr/12137.mp3",
           "zh/12137.mp3",
           "huo2 li4",
-          "aktivite"
+          "[aktivite]"
         ],
         [
           "钻",
@@ -5974,7 +5974,7 @@ window.BOOK_DATA[1] ={
           "fr/12138.mp3",
           "zh/12138.mp3",
           "zuan1",
-          "perse"
+          "[perse]"
         ],
         [
           "使充气",
@@ -5983,7 +5983,7 @@ window.BOOK_DATA[1] ={
           "fr/12139.mp3",
           "zh/12139.mp3",
           "shi3 chong1 qi4",
-          "gɔ̃fle"
+          "[gɔ̃fle]"
         ],
         [
           "灿烂的",
@@ -5992,7 +5992,7 @@ window.BOOK_DATA[1] ={
           "fr/12140.mp3",
           "zh/12140.mp3",
           "can4 lan4 de5",
-          "splɑ̃did"
+          "[splɑ̃did]"
         ]
       ]
     }

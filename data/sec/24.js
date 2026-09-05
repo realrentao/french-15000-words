@@ -16,7 +16,7 @@ window.BOOK_DATA[24] = {
           "fr/10780.mp3",
           "zh/10780.mp3",
           "háng tiān tàn cè qì",
-          "ssd spasjal"
+          "[ssd spasjal]"
         ],
         [
           "卫星",
@@ -25,7 +25,7 @@ window.BOOK_DATA[24] = {
           "fr/10781.mp3",
           "zh/10781.mp3",
           "wèi xīng",
-          "satelit"
+          "[satelit]"
         ],
         [
           "空间站",
@@ -34,7 +34,7 @@ window.BOOK_DATA[24] = {
           "fr/10782.mp3",
           "zh/10782.mp3",
           "kōng jiān zhàn",
-          "stasj5spasjal"
+          "[stasj5spasjal]"
         ],
         [
           "雷达",
@@ -43,7 +43,7 @@ window.BOOK_DATA[24] = {
           "fr/10783.mp3",
           "zh/10783.mp3",
           "léi dá",
-          "radar"
+          "[radar]"
         ],
         [
           "载人火箭",
@@ -61,7 +61,7 @@ window.BOOK_DATA[24] = {
           "fr/10785.mp3",
           "zh/10785.mp3",
           "yǔ zhòu fēi chuán",
-          "bato despas"
+          "[bato despas]"
         ],
         [
           "航天飞机",
@@ -70,7 +70,7 @@ window.BOOK_DATA[24] = {
           "fr/10786.mp3",
           "zh/10786.mp3",
           "háng tiān fēi jī",
-          "navet spasjal"
+          "[navet spasjal]"
         ],
         [
           "无人飞船",
@@ -79,7 +79,7 @@ window.BOOK_DATA[24] = {
           "fr/10787.mp3",
           "zh/10787.mp3",
           "wú rén fēi chuán",
-          "äz& spasjo nš abite"
+          "[äz& spasjo nš abite]"
         ],
         [
           "火箭",
@@ -88,7 +88,7 @@ window.BOOK_DATA[24] = {
           "fr/10788.mp3",
           "zh/10788.mp3",
           "huǒ jiàn",
-          "fyze"
+          "[fyze]"
         ],
         [
           "太空船",
@@ -97,7 +97,7 @@ window.BOOK_DATA[24] = {
           "fr/10789.mp3",
           "zh/10789.mp3",
           "tài kōng chuán",
-          "astronef"
+          "[astronef]"
         ],
         [
           "运载火箭",
@@ -106,7 +106,7 @@ window.BOOK_DATA[24] = {
           "fr/10790.mp3",
           "zh/10790.mp3",
           "yùn zài huǒ jiàn",
-          "misil lozistik"
+          "[misil lozistik]"
         ],
         [
           "通信卫星",
@@ -115,7 +115,7 @@ window.BOOK_DATA[24] = {
           "fr/10791.mp3",
           "zh/10791.mp3",
           "tōng xìn wèi xīng",
-          "satelit d(a) komynika(a)sj5"
+          "[satelit d(a) komynika(a)sj5]"
         ],
         [
           "导航卫星",
@@ -124,7 +124,7 @@ window.BOOK_DATA[24] = {
           "fr/10792.mp3",
           "zh/10792.mp3",
           "dǎo háng wèi xīng",
-          "satelit d(a) naviga(a)sj5"
+          "[satelit d(a) naviga(a)sj5]"
         ]
       ],
       "s": [
@@ -164,7 +164,7 @@ window.BOOK_DATA[24] = {
           "",
           "zh/10796.mp3",
           "háng huì",
-          "korporaasjs"
+          "[korporaasjs]"
         ],
         [
           "",
@@ -173,7 +173,7 @@ window.BOOK_DATA[24] = {
           "fr/10797.mp3",
           "",
           "",
-          "bperatce:r"
+          "[bperatce:r]"
         ],
         [
           "操作员",
@@ -191,7 +191,7 @@ window.BOOK_DATA[24] = {
           "fr/10799.mp3",
           "zh/10799.mp3",
           "xì shù",
-          "modyl"
+          "[modyl]"
         ],
         [
           "火箭",

@@ -16,7 +16,7 @@ window.BOOK_DATA[18] = {
           "fr/10318.mp3",
           "zh/10318.mp3",
           "jiàn zhù fēng gé",
-          "stil darfitekty:r"
+          "[stil darfitekty:r]"
         ],
         [
           "密集的",
@@ -25,7 +25,7 @@ window.BOOK_DATA[18] = {
           "fr/10319.mp3",
           "zh/10319.mp3",
           "mì jí de",
-          "kšpakt"
+          "[kšpakt]"
         ],
         [
           "建筑师",
@@ -34,7 +34,7 @@ window.BOOK_DATA[18] = {
           "fr/10320.mp3",
           "zh/10320.mp3",
           "jiàn zhù shī",
-          "kstrykter,tris"
+          "[kstrykter,tris]"
         ],
         [
           "建筑",
@@ -43,7 +43,7 @@ window.BOOK_DATA[18] = {
           "fr/10321.mp3",
           "zh/10321.mp3",
           "jiàn zhù",
-          "kšstruir"
+          "[kšstruir]"
         ],
         [
           "圆形建筑物",
@@ -52,7 +52,7 @@ window.BOOK_DATA[18] = {
           "fr/10322.mp3",
           "zh/10322.mp3",
           "yuán xíng jiàn zhù wù",
-          "rot5:d"
+          "[rot5:d]"
         ],
         [
           "建筑物",
@@ -61,7 +61,7 @@ window.BOOK_DATA[18] = {
           "fr/10323.mp3",
           "zh/10323.mp3",
           "jiàn zhù wù",
-          "batima"
+          "[batima]"
         ],
         [
           "雄伟的",
@@ -70,7 +70,7 @@ window.BOOK_DATA[18] = {
           "fr/10324.mp3",
           "zh/10324.mp3",
           "xióng wěi de",
-          "grádjo:z"
+          "[grádjo:z]"
         ],
         [
           "圆屋顶",
@@ -88,7 +88,7 @@ window.BOOK_DATA[18] = {
           "fr/10326.mp3",
           "zh/10326.mp3",
           "yuán xíng de",
-          "r3d"
+          "[r3d]"
         ],
         [
           "孔",
@@ -97,7 +97,7 @@ window.BOOK_DATA[18] = {
           "fr/10327.mp3",
           "zh/10327.mp3",
           "kǒng",
-          "uverty:r"
+          "[uverty:r]"
         ],
         [
           "顶点",
@@ -106,7 +106,7 @@ window.BOOK_DATA[18] = {
           "fr/10328.mp3",
           "zh/10328.mp3",
           "dǐng diǎn",
-          "some"
+          "[some]"
         ],
         [
           "三角形的",
@@ -115,7 +115,7 @@ window.BOOK_DATA[18] = {
           "fr/10329.mp3",
           "zh/10329.mp3",
           "sān jiǎo xíng de",
-          "trijágyler"
+          "[trijágyler]"
         ],
         [
           "阁楼",
@@ -124,7 +124,7 @@ window.BOOK_DATA[18] = {
           "fr/10330.mp3",
           "zh/10330.mp3",
           "gé lóu",
-          "mäsard"
+          "[mäsard]"
         ]
       ],
       "s": [
@@ -200,7 +200,7 @@ window.BOOK_DATA[18] = {
           "",
           "zh/10338.mp3",
           "jiàn cì dì",
-          "progresivmä"
+          "[progresivmä]"
         ],
         [
           "石头",
@@ -209,7 +209,7 @@ window.BOOK_DATA[18] = {
           "fr/10339.mp3",
           "zh/10339.mp3",
           "shí tou",
-          "pjer"
+          "[pjer]"
         ],
         [
           "混凝土",
@@ -218,7 +218,7 @@ window.BOOK_DATA[18] = {
           "fr/10340.mp3",
           "zh/10340.mp3",
           "hùn níng tǔ",
-          "bet"
+          "[bet]"
         ],
         [
           "历",
@@ -227,7 +227,7 @@ window.BOOK_DATA[18] = {
           "fr/10341.mp3",
           "zh/10341.mp3",
           "lì",
-          "istorik"
+          "[istorik]"
         ],
         [
           "史的",
@@ -251,7 +251,7 @@ window.BOOK_DATA[18] = {
           "fr/10343.mp3",
           "zh/10343.mp3",
           "dú mù jù",
-          "senet"
+          "[senet]"
         ],
         [
           "歌剧",
@@ -260,7 +260,7 @@ window.BOOK_DATA[18] = {
           "fr/10344.mp3",
           "zh/10344.mp3",
           "gē jù",
-          "pera"
+          "[pera]"
         ],
         [
           "滑稽的",
@@ -269,7 +269,7 @@ window.BOOK_DATA[18] = {
           "fr/10345.mp3",
           "zh/10345.mp3",
           "huá jī de",
-          "ridikyl"
+          "[ridikyl]"
         ],
         [
           "话剧",
@@ -278,7 +278,7 @@ window.BOOK_DATA[18] = {
           "fr/10346.mp3",
           "zh/10346.mp3",
           "huà jù",
-          "teatr parle"
+          "[teatr parle]"
         ],
         [
           "历史剧",
@@ -287,7 +287,7 @@ window.BOOK_DATA[18] = {
           "fr/10347.mp3",
           "zh/10347.mp3",
           "lì shǐ jù",
-          "dram istorik"
+          "[dram istorik]"
         ],
         [
           "木偶",
@@ -296,7 +296,7 @@ window.BOOK_DATA[18] = {
           "fr/10348.mp3",
           "zh/10348.mp3",
           "mù ǒu",
-          "marjonet"
+          "[marjonet]"
         ],
         [
           "哑亚剧",
@@ -305,7 +305,7 @@ window.BOOK_DATA[18] = {
           "fr/10349.mp3",
           "zh/10349.mp3",
           "yǎ yà jù",
-          "pätomim"
+          "[pätomim]"
         ],
         [
           "彩排",
@@ -314,7 +314,7 @@ window.BOOK_DATA[18] = {
           "fr/10350.mp3",
           "zh/10350.mp3",
           "cǎi pái",
-          "repetisj kostyme"
+          "[repetisj kostyme]"
         ],
         [
           "角色",
@@ -323,7 +323,7 @@ window.BOOK_DATA[18] = {
           "fr/10351.mp3",
           "zh/10351.mp3",
           "jué sè",
-          "rol"
+          "[rol]"
         ],
         [
           "扮演",
@@ -332,7 +332,7 @@ window.BOOK_DATA[18] = {
           "fr/10352.mp3",
           "zh/10352.mp3",
           "bàn yǎn",
-          "karne"
+          "[karne]"
         ],
         [
           "人物",
@@ -341,7 +341,7 @@ window.BOOK_DATA[18] = {
           "fr/10353.mp3",
           "zh/10353.mp3",
           "rén wù",
-          "persona:3"
+          "[persona:3]"
         ],
         [
           "台词",
@@ -350,7 +350,7 @@ window.BOOK_DATA[18] = {
           "fr/10354.mp3",
           "zh/10354.mp3",
           "tái cí",
-          "tirad"
+          "[tirad]"
         ],
         [
           "序幕木偶",
@@ -359,7 +359,7 @@ window.BOOK_DATA[18] = {
           "fr/10355.mp3",
           "zh/10355.mp3",
           "xù mù mù ǒu",
-          "prolog"
+          "[prolog]"
         ]
       ],
       "s": [
@@ -408,7 +408,7 @@ window.BOOK_DATA[18] = {
           "fr/10360.mp3",
           "zh/10360.mp3",
           "kuài",
-          "morso"
+          "[morso]"
         ],
         [
           "填塞",
@@ -417,7 +417,7 @@ window.BOOK_DATA[18] = {
           "fr/10361.mp3",
           "zh/10361.mp3",
           "tián sè",
-          "bue"
+          "[bue]"
         ],
         [
           "此处",

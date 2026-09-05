@@ -16,7 +16,7 @@ window.BOOK_DATA[22] = {
           "fr/10563.mp3",
           "zh/10563.mp3",
           "pàn jué",
-          "3y3e"
+          "[3y3e]"
         ],
         [
           "死刑",
@@ -25,7 +25,7 @@ window.BOOK_DATA[22] = {
           "fr/10564.mp3",
           "zh/10564.mp3",
           "sǐ xíng",
-          "pen da mor"
+          "[pen da mor]"
         ],
         [
           "传票",
@@ -34,7 +34,7 @@ window.BOOK_DATA[22] = {
           "fr/10565.mp3",
           "zh/10565.mp3",
           "chuán piào",
-          "asinasj5"
+          "[asinasj5]"
         ],
         [
           "拘留",
@@ -43,7 +43,7 @@ window.BOOK_DATA[22] = {
           "fr/10566.mp3",
           "zh/10566.mp3",
           "jū liú",
-          "detnir"
+          "[detnir]"
         ],
         [
           "监禁",
@@ -52,7 +52,7 @@ window.BOOK_DATA[22] = {
           "fr/10567.mp3",
           "zh/10567.mp3",
           "jiān jìn",
-          "äprizone"
+          "[äprizone]"
         ],
         [
           "监禁",
@@ -61,7 +61,7 @@ window.BOOK_DATA[22] = {
           "fr/10568.mp3",
           "zh/10568.mp3",
           "jiān jìn",
-          "detnir"
+          "[detnir]"
         ],
         [
           "无辜的",
@@ -79,7 +79,7 @@ window.BOOK_DATA[22] = {
           "fr/10570.mp3",
           "zh/10570.mp3",
           "huǎn qī zhí xíng",
-          "syrsi degzekysj"
+          "[syrsi degzekysj]"
         ],
         [
           "罚款",
@@ -88,7 +88,7 @@ window.BOOK_DATA[22] = {
           "fr/10571.mp3",
           "zh/10571.mp3",
           "fá kuǎn",
-          "amäd"
+          "[amäd]"
         ],
         [
           "速捕",
@@ -97,7 +97,7 @@ window.BOOK_DATA[22] = {
           "fr/10572.mp3",
           "zh/10572.mp3",
           "sù bǔ",
-          "apreáde"
+          "[apreáde]"
         ],
         [
           "缓刑",
@@ -106,7 +106,7 @@ window.BOOK_DATA[22] = {
           "fr/10573.mp3",
           "zh/10573.mp3",
           "huǎn xíng",
-          "syrsi"
+          "[syrsi]"
         ],
         [
           "保释",
@@ -115,7 +115,7 @@ window.BOOK_DATA[22] = {
           "fr/10574.mp3",
           "zh/10574.mp3",
           "bǎo shì",
-          "meträ liberte su kosj5"
+          "[meträ liberte su kosj5]"
         ],
         [
           "赔偿",
@@ -124,7 +124,7 @@ window.BOOK_DATA[22] = {
           "fr/10575.mp3",
           "zh/10575.mp3",
           "péi cháng",
-          "dedomaze"
+          "[dedomaze]"
         ],
         [
           "惯犯",
@@ -133,7 +133,7 @@ window.BOOK_DATA[22] = {
           "fr/10576.mp3",
           "zh/10576.mp3",
           "guàn fàn",
-          "kriminel residivist"
+          "[kriminel residivist]"
         ],
         [
           "正当防卫",
@@ -142,7 +142,7 @@ window.BOOK_DATA[22] = {
           "fr/10577.mp3",
           "zh/10577.mp3",
           "zhèng dàng fáng wèi",
-          "lezitim defäs"
+          "[lezitim defäs]"
         ],
         [
           "宣告无罪",
@@ -151,7 +151,7 @@ window.BOOK_DATA[22] = {
           "fr/10578.mp3",
           "zh/10578.mp3",
           "xuān gào wú zuì",
-          "akitmä"
+          "[akitmä]"
         ]
       ],
       "s": [
@@ -191,7 +191,7 @@ window.BOOK_DATA[22] = {
           "fr/10582.mp3",
           "",
           "",
-          "portafcj"
+          "[portafcj]"
         ],
         [
           "皮夹子",
@@ -209,7 +209,7 @@ window.BOOK_DATA[22] = {
           "fr/10584.mp3",
           "zh/10584.mp3",
           "cháng guī",
-          "rutin"
+          "[rutin]"
         ],
         [
           "法庭",
@@ -218,7 +218,7 @@ window.BOOK_DATA[22] = {
           "fr/10585.mp3",
           "zh/10585.mp3",
           "fǎ tíng",
-          "tribynal"
+          "[tribynal]"
         ],
         [
           "罚款",
@@ -242,7 +242,7 @@ window.BOOK_DATA[22] = {
           "fr/10587.mp3",
           "zh/10587.mp3",
           "qǐ sù",
-          "pursyit"
+          "[pursyit]"
         ],
         [
           "控告",
@@ -251,7 +251,7 @@ window.BOOK_DATA[22] = {
           "fr/10588.mp3",
           "zh/10588.mp3",
           "kòng gào",
-          "akyze"
+          "[akyze]"
         ],
         [
           "提起公诉",
@@ -260,7 +260,7 @@ window.BOOK_DATA[22] = {
           "fr/10589.mp3",
           "zh/10589.mp3",
           "tí qǐ gōng sù",
-          "defere"
+          "[defere]"
         ],
         [
           "诉讼程序",
@@ -269,7 +269,7 @@ window.BOOK_DATA[22] = {
           "fr/10590.mp3",
           "zh/10590.mp3",
           "sù sòng chéng xù",
-          "prosedyr"
+          "[prosedyr]"
         ],
         [
           "审讯",
@@ -278,7 +278,7 @@ window.BOOK_DATA[22] = {
           "fr/10591.mp3",
           "zh/10591.mp3",
           "shěn xùn",
-          "ateroze"
+          "[ateroze]"
         ],
         [
           "审问",
@@ -287,7 +287,7 @@ window.BOOK_DATA[22] = {
           "fr/10592.mp3",
           "zh/10592.mp3",
           "shěn wèn",
-          "kyizine"
+          "[kyizine]"
         ],
         [
           "疑问",
@@ -296,7 +296,7 @@ window.BOOK_DATA[22] = {
           "fr/10593.mp3",
           "zh/10593.mp3",
           "yí wèn",
-          "dut"
+          "[dut]"
         ],
         [
           "听证",
@@ -305,7 +305,7 @@ window.BOOK_DATA[22] = {
           "fr/10594.mp3",
           "zh/10594.mp3",
           "tīng zhèng",
-          "odisj5"
+          "[odisj5]"
         ],
         [
           "控告",
@@ -314,7 +314,7 @@ window.BOOK_DATA[22] = {
           "fr/10595.mp3",
           "zh/10595.mp3",
           "kòng gào",
-          "kylpe"
+          "[kylpe]"
         ],
         [
           "起诉",
@@ -323,7 +323,7 @@ window.BOOK_DATA[22] = {
           "fr/10596.mp3",
           "zh/10596.mp3",
           "qǐ sù",
-          "egzerse de pursyit"
+          "[egzerse de pursyit]"
         ],
         [
           "诉讼",
@@ -332,7 +332,7 @@ window.BOOK_DATA[22] = {
           "fr/10597.mp3",
           "zh/10597.mp3",
           "sù sòng",
-          "prose"
+          "[prose]"
         ],
         [
           "案件",
@@ -341,7 +341,7 @@ window.BOOK_DATA[22] = {
           "fr/10598.mp3",
           "zh/10598.mp3",
           "àn jiàn",
-          "afer 3ydisjer"
+          "[afer 3ydisjer]"
         ],
         [
           "审理",
@@ -350,7 +350,7 @@ window.BOOK_DATA[22] = {
           "fr/10599.mp3",
           "zh/10599.mp3",
           "shěn lǐ",
-          "3y3e"
+          "[3y3e]"
         ],
         [
           "证人",
@@ -359,7 +359,7 @@ window.BOOK_DATA[22] = {
           "fr/10600.mp3",
           "zh/10600.mp3",
           "zhèng rén",
-          "temw"
+          "[temw]"
         ]
       ],
       "s": [
@@ -444,7 +444,7 @@ window.BOOK_DATA[22] = {
           "",
           "zh/10609.mp3",
           "què záo wú yí de",
-          "ktestabl"
+          "[ktestabl]"
         ],
         [
           "杀",
@@ -453,7 +453,7 @@ window.BOOK_DATA[22] = {
           "fr/10610.mp3",
           "zh/10610.mp3",
           "shā",
-          "mrtr"
+          "[mrtr]"
         ],
         [
           "人区杀",
@@ -495,7 +495,7 @@ window.BOOK_DATA[22] = {
           "fr/10614.mp3",
           "zh/10614.mp3",
           "zhèng jù",
-          "prv"
+          "[prv]"
         ],
         [
           "被告席",
@@ -504,7 +504,7 @@ window.BOOK_DATA[22] = {
           "fr/10615.mp3",
           "zh/10615.mp3",
           "bèi gào xí",
-          "bä dakyze"
+          "[bä dakyze]"
         ],
         [
           "误判",
@@ -513,7 +513,7 @@ window.BOOK_DATA[22] = {
           "fr/10616.mp3",
           "zh/10616.mp3",
           "wù pàn",
-          "3y3má crone"
+          "[3y3má crone]"
         ],
         [
           "宣誓",
@@ -522,7 +522,7 @@ window.BOOK_DATA[22] = {
           "fr/10617.mp3",
           "zh/10617.mp3",
           "xuān shì",
-          "fer sermä"
+          "[fer sermä]"
         ],
         [
           "驳回",
@@ -531,7 +531,7 @@ window.BOOK_DATA[22] = {
           "fr/10618.mp3",
           "zh/10618.mp3",
           "bó huí",
-          "debute"
+          "[debute]"
         ],
         [
           "未实现",
@@ -540,7 +540,7 @@ window.BOOK_DATA[22] = {
           "fr/10619.mp3",
           "zh/10619.mp3",
           "wèi shí xiàn",
-          "efwe"
+          "[efwe]"
         ],
         [
           "不法行为恐吓",
@@ -549,7 +549,7 @@ window.BOOK_DATA[22] = {
           "fr/10620.mp3",
           "zh/10620.mp3",
           "bù fǎ xíng wéi kǒng hè",
-          "pratik ilisit"
+          "[pratik ilisit]"
         ],
         [
           "诈骗",
@@ -558,7 +558,7 @@ window.BOOK_DATA[22] = {
           "fr/10621.mp3",
           "zh/10621.mp3",
           "zhà piàn",
-          "eskroke"
+          "[eskroke]"
         ],
         [
           "推",
@@ -567,7 +567,7 @@ window.BOOK_DATA[22] = {
           "fr/10622.mp3",
           "zh/10622.mp3",
           "tuī",
-          "fofyija"
+          "[fofyija]"
         ],
         [
           "贿路",
@@ -576,7 +576,7 @@ window.BOOK_DATA[22] = {
           "fr/10623.mp3",
           "zh/10623.mp3",
           "huì lù",
-          "koršpr"
+          "[koršpr]"
         ],
         [
           "违约",
@@ -585,7 +585,7 @@ window.BOOK_DATA[22] = {
           "fr/10624.mp3",
           "zh/10624.mp3",
           "wéi yuē",
-          "r5pr  k3tra"
+          "[r5pr  k3tra]"
         ],
         [
           "诉状",
@@ -594,7 +594,7 @@ window.BOOK_DATA[22] = {
           "fr/10625.mp3",
           "zh/10625.mp3",
           "sù zhuàng",
-          "raket"
+          "[raket]"
         ],
         [
           "缓期执行",
@@ -603,7 +603,7 @@ window.BOOK_DATA[22] = {
           "fr/10626.mp3",
           "zh/10626.mp3",
           "huǎn qī zhí xíng",
-          "syrsi degzekysj5"
+          "[syrsi degzekysj5]"
         ]
       ],
       "s": [
@@ -643,7 +643,7 @@ window.BOOK_DATA[22] = {
           "fr/10630.mp3",
           "",
           "",
-          "ktrabá:d"
+          "[ktrabá:d]"
         ],
         [
           "走私",
@@ -661,7 +661,7 @@ window.BOOK_DATA[22] = {
           "fr/10632.mp3",
           "zh/10632.mp3",
           "jié hūn",
-          "marjax3"
+          "[marjax3]"
         ],
         [
           "律师",
@@ -670,7 +670,7 @@ window.BOOK_DATA[22] = {
           "fr/10633.mp3",
           "zh/10633.mp3",
           "lǜ shī",
-          "avokaat"
+          "[avokaat]"
         ],
         [
           "",
@@ -679,7 +679,7 @@ window.BOOK_DATA[22] = {
           "fr/10634.mp3",
           "",
           "",
-          "presize"
+          "[presize]"
         ],
         [
           "明确指出",
@@ -703,7 +703,7 @@ window.BOOK_DATA[22] = {
           "fr/10636.mp3",
           "zh/10636.mp3",
           "dān wèi",
-          "ynite dyn organizasjš"
+          "[ynite dyn organizasjš]"
         ],
         [
           "团",
@@ -712,7 +712,7 @@ window.BOOK_DATA[22] = {
           "fr/10637.mp3",
           "zh/10637.mp3",
           "tuán",
-          "rezimá"
+          "[rezimá]"
         ],
         [
           "部队",
@@ -721,7 +721,7 @@ window.BOOK_DATA[22] = {
           "fr/10638.mp3",
           "zh/10638.mp3",
           "bù duì",
-          "arme"
+          "[arme]"
         ],
         [
           "旅",
@@ -730,7 +730,7 @@ window.BOOK_DATA[22] = {
           "fr/10639.mp3",
           "zh/10639.mp3",
           "lǚ",
-          "brigad"
+          "[brigad]"
         ],
         [
           "营",
@@ -739,7 +739,7 @@ window.BOOK_DATA[22] = {
           "fr/10640.mp3",
           "zh/10640.mp3",
           "yíng",
-          "bataj5"
+          "[bataj5]"
         ],
         [
           "步兵",
@@ -748,7 +748,7 @@ window.BOOK_DATA[22] = {
           "fr/10641.mp3",
           "zh/10641.mp3",
           "bù bīng",
-          "afätri"
+          "[afätri]"
         ],
         [
           "救援人员",
@@ -757,7 +757,7 @@ window.BOOK_DATA[22] = {
           "fr/10642.mp3",
           "zh/10642.mp3",
           "jiù yuán rén yuán",
-          "sovter"
+          "[sovter]"
         ],
         [
           "空军基地",
@@ -766,7 +766,7 @@ window.BOOK_DATA[22] = {
           "fr/10643.mp3",
           "zh/10643.mp3",
           "kōng jūn jī dì",
-          "baz aerjen"
+          "[baz aerjen]"
         ],
         [
           "空军",
@@ -775,7 +775,7 @@ window.BOOK_DATA[22] = {
           "fr/10644.mp3",
           "zh/10644.mp3",
           "kōng jūn",
-          "fors aerjen"
+          "[fors aerjen]"
         ],
         [
           "海军",
@@ -784,7 +784,7 @@ window.BOOK_DATA[22] = {
           "fr/10645.mp3",
           "zh/10645.mp3",
           "hǎi jūn",
-          "fors naval"
+          "[fors naval]"
         ],
         [
           "陆军",
@@ -793,7 +793,7 @@ window.BOOK_DATA[22] = {
           "fr/10646.mp3",
           "zh/10646.mp3",
           "lù jūn",
-          "fors terestr"
+          "[fors terestr]"
         ],
         [
           "军队",
@@ -802,7 +802,7 @@ window.BOOK_DATA[22] = {
           "fr/10647.mp3",
           "zh/10647.mp3",
           "jūn duì",
-          "frs arme"
+          "[frs arme]"
         ],
         [
           "反叛",
@@ -811,7 +811,7 @@ window.BOOK_DATA[22] = {
           "fr/10648.mp3",
           "zh/10648.mp3",
           "fǎn pàn",
-          "rabel"
+          "[rabel]"
         ],
         [
           "炮兵",
@@ -829,7 +829,7 @@ window.BOOK_DATA[22] = {
           "fr/10650.mp3",
           "zh/10650.mp3",
           "gōng bīng",
-          "&zenjxr"
+          "[&zenjxr]"
         ],
         [
           "指挥官",
@@ -838,7 +838,7 @@ window.BOOK_DATA[22] = {
           "fr/10651.mp3",
           "zh/10651.mp3",
           "zhǐ huī guān",
-          "komada, át"
+          "[komada, át]"
         ],
         [
           "命令",
@@ -905,7 +905,7 @@ window.BOOK_DATA[22] = {
           "fr/10658.mp3",
           "zh/10658.mp3",
           "zhèng huī huò",
-          "dilapide"
+          "[dilapide]"
         ],
         [
           "",
@@ -914,7 +914,7 @@ window.BOOK_DATA[22] = {
           "fr/10659.mp3",
           "",
           "",
-          "depozite:r"
+          "[depozite:r]"
         ],
         [
           "受托人",
@@ -932,7 +932,7 @@ window.BOOK_DATA[22] = {
           "fr/10661.mp3",
           "zh/10661.mp3",
           "qí bīng",
-          "kavalri"
+          "[kavalri]"
         ],
         [
           "全部的",
@@ -941,7 +941,7 @@ window.BOOK_DATA[22] = {
           "fr/10662.mp3",
           "zh/10662.mp3",
           "quán bù de",
-          "tu"
+          "[tu]"
         ],
         [
           "将军",
@@ -950,7 +950,7 @@ window.BOOK_DATA[22] = {
           "fr/10663.mp3",
           "zh/10663.mp3",
           "jiāng jūn",
-          "3eneral"
+          "[3eneral]"
         ]
       ]
     }

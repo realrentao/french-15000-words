@@ -16,7 +16,7 @@ window.BOOK_DATA[7] = {
           "fr/06724.mp3",
           "zh/06724.mp3",
           "yuán yì yuán dīng",
-          "zardinaz"
+          "[zardinaz]"
         ],
         [
           "园艺学园艺学家",
@@ -25,7 +25,7 @@ window.BOOK_DATA[7] = {
           "fr/06725.mp3",
           "zh/06725.mp3",
           "yuán yì xué yuán yì xué jiā",
-          "ortikyltyr"
+          "[ortikyltyr]"
         ],
         [
           "园艺的",
@@ -34,7 +34,7 @@ window.BOOK_DATA[7] = {
           "fr/06726.mp3",
           "zh/06726.mp3",
           "yuán yì de",
-          "Drtikol"
+          "[Drtikol]"
         ],
         [
           "园艺植物",
@@ -43,7 +43,7 @@ window.BOOK_DATA[7] = {
           "fr/06727.mp3",
           "zh/06727.mp3",
           "yuán yì zhí wù",
-          "plät zardinjer"
+          "[plät zardinjer]"
         ],
         [
           "园艺工具",
@@ -52,7 +52,7 @@ window.BOOK_DATA[7] = {
           "fr/06728.mp3",
           "zh/06728.mp3",
           "yuán yì gōng jù",
-          "uti da 3ardina3"
+          "[uti da 3ardina3]"
         ],
         [
           "园艺工人",
@@ -61,7 +61,7 @@ window.BOOK_DATA[7] = {
           "fr/06729.mp3",
           "zh/06729.mp3",
           "yuán yì gōng rén",
-          "zardinje,er"
+          "[zardinje,er]"
         ],
         [
           "种植",
@@ -70,7 +70,7 @@ window.BOOK_DATA[7] = {
           "fr/06730.mp3",
           "zh/06730.mp3",
           "zhòng zhí",
-          "plátaz"
+          "[plátaz]"
         ],
         [
           "修剪",
@@ -79,7 +79,7 @@ window.BOOK_DATA[7] = {
           "fr/06731.mp3",
           "zh/06731.mp3",
           "xiū jiǎn",
-          "elage"
+          "[elage]"
         ],
         [
           "修剪",
@@ -88,7 +88,7 @@ window.BOOK_DATA[7] = {
           "fr/06732.mp3",
           "zh/06732.mp3",
           "xiū jiǎn",
-          "kupe"
+          "[kupe]"
         ],
         [
           "蔓延的",
@@ -97,7 +97,7 @@ window.BOOK_DATA[7] = {
           "fr/06733.mp3",
           "zh/06733.mp3",
           "màn yán de",
-          "ávaisa, t"
+          "[ávaisa, t]"
         ],
         [
           "充足的",
@@ -106,7 +106,7 @@ window.BOOK_DATA[7] = {
           "fr/06734.mp3",
           "zh/06734.mp3",
           "chōng zú de",
-          "kplemáter"
+          "[kplemáter]"
         ],
         [
           "茂密的",
@@ -115,7 +115,7 @@ window.BOOK_DATA[7] = {
           "fr/06735.mp3",
           "zh/06735.mp3",
           "mào mì de",
-          "dry"
+          "[dry]"
         ],
         [
           "肥料",
@@ -124,7 +124,7 @@ window.BOOK_DATA[7] = {
           "fr/06736.mp3",
           "zh/06736.mp3",
           "féi liào",
-          "ägre"
+          "[ägre]"
         ],
         [
           "施肥",
@@ -133,7 +133,7 @@ window.BOOK_DATA[7] = {
           "fr/06737.mp3",
           "zh/06737.mp3",
           "shī féi",
-          "fertilizasj5"
+          "[fertilizasj5]"
         ],
         [
           "吸收",
@@ -142,7 +142,7 @@ window.BOOK_DATA[7] = {
           "fr/06738.mp3",
           "zh/06738.mp3",
           "xī shōu",
-          "asimile"
+          "[asimile]"
         ],
         [
           "发芽",
@@ -151,7 +151,7 @@ window.BOOK_DATA[7] = {
           "fr/06739.mp3",
           "zh/06739.mp3",
           "fā yá",
-          "3erme"
+          "[3erme]"
         ],
         [
           "发芽",
@@ -160,7 +160,7 @@ window.BOOK_DATA[7] = {
           "fr/06740.mp3",
           "zh/06740.mp3",
           "fā yá",
-          "deburma"
+          "[deburma]"
         ]
       ],
       "s": [
@@ -200,7 +200,7 @@ window.BOOK_DATA[7] = {
           "fr/06744.mp3",
           "zh/06744.mp3",
           "féi wò de",
-          "fertil"
+          "[fertil]"
         ],
         [
           "葡萄",
@@ -209,7 +209,7 @@ window.BOOK_DATA[7] = {
           "fr/06745.mp3",
           "zh/06745.mp3",
           "pú táo",
-          "vitikol"
+          "[vitikol]"
         ],
         [
           "种植的",
@@ -227,7 +227,7 @@ window.BOOK_DATA[7] = {
           "fr/06747.mp3",
           "zh/06747.mp3",
           "cǎi zhāi",
-          "kjet"
+          "[kjet]"
         ],
         [
           "",
@@ -236,7 +236,7 @@ window.BOOK_DATA[7] = {
           "fr/06748.mp3",
           "",
           "",
-          "peiz,an"
+          "[peiz,an]"
         ],
         [
           "农民",
@@ -269,7 +269,7 @@ window.BOOK_DATA[7] = {
           "fr/06751.mp3",
           "zh/06751.mp3",
           "yīn yuè",
-          "myzik"
+          "[myzik]"
         ],
         [
           "乐谱",
@@ -278,7 +278,7 @@ window.BOOK_DATA[7] = {
           "fr/06752.mp3",
           "zh/06752.mp3",
           "yuè pǔ",
-          "partisj5"
+          "[partisj5]"
         ],
         [
           "五线谱",
@@ -287,7 +287,7 @@ window.BOOK_DATA[7] = {
           "fr/06753.mp3",
           "zh/06753.mp3",
           "wǔ xiàn pǔ",
-          "porte"
+          "[porte]"
         ],
         [
           "演奏",
@@ -296,7 +296,7 @@ window.BOOK_DATA[7] = {
           "fr/06754.mp3",
           "zh/06754.mp3",
           "yǎn zòu",
-          "egzekysj5"
+          "[egzekysj5]"
         ],
         [
           "管铜乐器",
@@ -305,7 +305,7 @@ window.BOOK_DATA[7] = {
           "fr/06755.mp3",
           "zh/06755.mp3",
           "guǎn tóng yuè qì",
-          "&strymä a vá"
+          "[&strymä a vá]"
         ],
         [
           "木管乐器",
@@ -323,7 +323,7 @@ window.BOOK_DATA[7] = {
           "fr/06757.mp3",
           "zh/06757.mp3",
           "xián yuè qì",
-          "éstrymä a kord"
+          "[éstrymä a kord]"
         ],
         [
           "打击乐器",
@@ -332,7 +332,7 @@ window.BOOK_DATA[7] = {
           "fr/06758.mp3",
           "zh/06758.mp3",
           "dǎ jī yuè qì",
-          "&strymá a perkysj5"
+          "[&strymá a perkysj5]"
         ],
         [
           "短号",
@@ -341,7 +341,7 @@ window.BOOK_DATA[7] = {
           "fr/06759.mp3",
           "zh/06759.mp3",
           "duǎn hào",
-          "korne a pist"
+          "[korne a pist]"
         ],
         [
           "大号",
@@ -350,7 +350,7 @@ window.BOOK_DATA[7] = {
           "fr/06760.mp3",
           "zh/06760.mp3",
           "dà hào",
-          "tyba"
+          "[tyba]"
         ],
         [
           "长号",
@@ -359,7 +359,7 @@ window.BOOK_DATA[7] = {
           "fr/06761.mp3",
           "zh/06761.mp3",
           "cháng hào",
-          "tršbon"
+          "[tršbon]"
         ],
         [
           "小号",
@@ -368,7 +368,7 @@ window.BOOK_DATA[7] = {
           "fr/06762.mp3",
           "zh/06762.mp3",
           "xiǎo hào",
-          "korne"
+          "[korne]"
         ],
         [
           "军号",
@@ -377,7 +377,7 @@ window.BOOK_DATA[7] = {
           "fr/06763.mp3",
           "zh/06763.mp3",
           "jūn hào",
-          "kler"
+          "[kler]"
         ],
         [
           "长笛",
@@ -386,7 +386,7 @@ window.BOOK_DATA[7] = {
           "fr/06764.mp3",
           "zh/06764.mp3",
           "cháng dí",
-          "flyt"
+          "[flyt]"
         ],
         [
           "竖笛",
@@ -395,7 +395,7 @@ window.BOOK_DATA[7] = {
           "fr/06765.mp3",
           "zh/06765.mp3",
           "shù dí",
-          "tyrlyret"
+          "[tyrlyret]"
         ],
         [
           "短笛",
@@ -404,7 +404,7 @@ window.BOOK_DATA[7] = {
           "fr/06766.mp3",
           "zh/06766.mp3",
           "duǎn dí",
-          "pikolo"
+          "[pikolo]"
         ],
         [
           "巴松管",
@@ -413,7 +413,7 @@ window.BOOK_DATA[7] = {
           "fr/06767.mp3",
           "zh/06767.mp3",
           "bā sōng guǎn",
-          "bas5"
+          "[bas5]"
         ]
       ],
       "s": [
@@ -444,7 +444,7 @@ window.BOOK_DATA[7] = {
           "fr/06770.mp3",
           "zh/06770.mp3",
           "jīng cháng",
-          "suva"
+          "[suva]"
         ],
         [
           "有",
@@ -453,7 +453,7 @@ window.BOOK_DATA[7] = {
           "fr/06771.mp3",
           "zh/06771.mp3",
           "yǒu",
-          "parfwa"
+          "[parfwa]"
         ],
         [
           "时偶尔",
@@ -471,7 +471,7 @@ window.BOOK_DATA[7] = {
           "fr/06773.mp3",
           "zh/06773.mp3",
           "táo shù",
-          "peee"
+          "[peee]"
         ],
         [
           "使固定",
@@ -480,7 +480,7 @@ window.BOOK_DATA[7] = {
           "fr/06774.mp3",
           "zh/06774.mp3",
           "shǐ gù dìng",
-          "äkre"
+          "[äkre]"
         ],
         [
           "",
@@ -489,7 +489,7 @@ window.BOOK_DATA[7] = {
           "fr/06775.mp3",
           "",
           "",
-          "pertyrbe"
+          "[pertyrbe]"
         ],
         [
           "干扰",
@@ -522,7 +522,7 @@ window.BOOK_DATA[7] = {
           "fr/06778.mp3",
           "zh/06778.mp3",
           "shuāng huáng guǎn",
-          "obwa"
+          "[obwa]"
         ],
         [
           "萨克管",
@@ -531,7 +531,7 @@ window.BOOK_DATA[7] = {
           "fr/06779.mp3",
           "zh/06779.mp3",
           "sà kè guǎn",
-          "saksofon"
+          "[saksofon]"
         ],
         [
           "口琴口琴",
@@ -540,7 +540,7 @@ window.BOOK_DATA[7] = {
           "fr/06780.mp3",
           "zh/06780.mp3",
           "kǒu qín kǒu qín",
-          "armonika"
+          "[armonika]"
         ],
         [
           "",
@@ -558,7 +558,7 @@ window.BOOK_DATA[7] = {
           "fr/06782.mp3",
           "zh/06782.mp3",
           "líng gǔ cháng gǔ",
-          "taburê"
+          "[taburê]"
         ],
         [
           "定音鼓",
@@ -567,7 +567,7 @@ window.BOOK_DATA[7] = {
           "fr/06783.mp3",
           "zh/06783.mp3",
           "dìng yīn gǔ",
-          "tabal"
+          "[tabal]"
         ],
         [
           "响板",
@@ -576,7 +576,7 @@ window.BOOK_DATA[7] = {
           "fr/06784.mp3",
           "zh/06784.mp3",
           "xiǎng bǎn",
-          "kastanet"
+          "[kastanet]"
         ],
         [
           "",
@@ -585,7 +585,7 @@ window.BOOK_DATA[7] = {
           "fr/06785.mp3",
           "",
           "",
-          "stbal"
+          "[stbal]"
         ],
         [
           "木琴",
@@ -594,7 +594,7 @@ window.BOOK_DATA[7] = {
           "fr/06786.mp3",
           "zh/06786.mp3",
           "mù qín",
-          "gzilofon"
+          "[gzilofon]"
         ],
         [
           "手风琴",
@@ -603,7 +603,7 @@ window.BOOK_DATA[7] = {
           "fr/06787.mp3",
           "zh/06787.mp3",
           "shǒu fēng qín",
-          "akorde5"
+          "[akorde5]"
         ],
         [
           "鼓",
@@ -612,7 +612,7 @@ window.BOOK_DATA[7] = {
           "fr/06788.mp3",
           "zh/06788.mp3",
           "gǔ",
-          "tabur"
+          "[tabur]"
         ],
         [
           "鼓槌",
@@ -621,7 +621,7 @@ window.BOOK_DATA[7] = {
           "fr/06789.mp3",
           "zh/06789.mp3",
           "gǔ chuí",
-          "baget da täbur"
+          "[baget da täbur]"
         ],
         [
           "吉他",
@@ -630,7 +630,7 @@ window.BOOK_DATA[7] = {
           "fr/06790.mp3",
           "zh/06790.mp3",
           "jí tā",
-          "gitar"
+          "[gitar]"
         ],
         [
           "吉他手吉他",
@@ -639,7 +639,7 @@ window.BOOK_DATA[7] = {
           "fr/06791.mp3",
           "zh/06791.mp3",
           "jí tā shǒu jí tā",
-          "gitarist"
+          "[gitarist]"
         ]
       ],
       "s": [
@@ -670,7 +670,7 @@ window.BOOK_DATA[7] = {
           "fr/06794.mp3",
           "",
           "",
-          "esperäs"
+          "[esperäs]"
         ],
         [
           "希望",
@@ -688,7 +688,7 @@ window.BOOK_DATA[7] = {
           "fr/06796.mp3",
           "zh/06796.mp3",
           "tīng dào",
-          "ätädr"
+          "[ätädr]"
         ],
         [
           "",
@@ -697,7 +697,7 @@ window.BOOK_DATA[7] = {
           "fr/06797.mp3",
           "",
           "",
-          "fynebr"
+          "[fynebr]"
         ],
         [
           "忧郁的",
@@ -715,7 +715,7 @@ window.BOOK_DATA[7] = {
           "fr/06799.mp3",
           "zh/06799.mp3",
           "jiàn gé",
-          "terval"
+          "[terval]"
         ]
       ]
     },
@@ -730,7 +730,7 @@ window.BOOK_DATA[7] = {
           "fr/06800.mp3",
           "zh/06800.mp3",
           "gāng qín",
-          "pjano"
+          "[pjano]"
         ],
         [
           "钢琴家",
@@ -739,7 +739,7 @@ window.BOOK_DATA[7] = {
           "fr/06801.mp3",
           "zh/06801.mp3",
           "gāng qín jiā",
-          "pjanist"
+          "[pjanist]"
         ],
         [
           "作曲",
@@ -748,7 +748,7 @@ window.BOOK_DATA[7] = {
           "fr/06802.mp3",
           "zh/06802.mp3",
           "zuò qǔ",
-          "kšpoze"
+          "[kšpoze]"
         ],
         [
           "按",
@@ -757,7 +757,7 @@ window.BOOK_DATA[7] = {
           "fr/06803.mp3",
           "zh/06803.mp3",
           "àn",
-          "prese"
+          "[prese]"
         ],
         [
           "键盘",
@@ -766,7 +766,7 @@ window.BOOK_DATA[7] = {
           "fr/06804.mp3",
           "zh/06804.mp3",
           "jiàn pán",
-          "klavje"
+          "[klavje]"
         ],
         [
           "音锤",
@@ -775,7 +775,7 @@ window.BOOK_DATA[7] = {
           "fr/06805.mp3",
           "zh/06805.mp3",
           "yīn chuí",
-          "marto"
+          "[marto]"
         ],
         [
           "音调",
@@ -784,7 +784,7 @@ window.BOOK_DATA[7] = {
           "fr/06806.mp3",
           "zh/06806.mp3",
           "yīn diào",
-          "atonasj5"
+          "[atonasj5]"
         ],
         [
           "制音器",
@@ -793,7 +793,7 @@ window.BOOK_DATA[7] = {
           "fr/06807.mp3",
           "zh/06807.mp3",
           "zhì yīn qì",
-          "etufwar"
+          "[etufwar]"
         ],
         [
           "踏板",
@@ -802,7 +802,7 @@ window.BOOK_DATA[7] = {
           "fr/06808.mp3",
           "zh/06808.mp3",
           "tà bǎn",
-          "marfapje"
+          "[marfapje]"
         ],
         [
           "琴键",
@@ -811,7 +811,7 @@ window.BOOK_DATA[7] = {
           "fr/06809.mp3",
           "zh/06809.mp3",
           "qín jiàn",
-          "klavet"
+          "[klavet]"
         ],
         [
           "机械装置",
@@ -820,7 +820,7 @@ window.BOOK_DATA[7] = {
           "fr/06810.mp3",
           "zh/06810.mp3",
           "jī xiè zhuāng zhì",
-          "dispozitif mekanik"
+          "[dispozitif mekanik]"
         ],
         [
           "音板",
@@ -829,7 +829,7 @@ window.BOOK_DATA[7] = {
           "fr/06811.mp3",
           "zh/06811.mp3",
           "yīn bǎn",
-          "tabl darmoni"
+          "[tabl darmoni]"
         ],
         [
           "琴凳",
@@ -838,7 +838,7 @@ window.BOOK_DATA[7] = {
           "fr/06812.mp3",
           "zh/06812.mp3",
           "qín dèng",
-          "tabure da pjano"
+          "[tabure da pjano]"
         ],
         [
           "乐谱架",
@@ -847,7 +847,7 @@ window.BOOK_DATA[7] = {
           "fr/06813.mp3",
           "zh/06813.mp3",
           "yuè pǔ jià",
-          "pypitr a myzik"
+          "[pypitr a myzik]"
         ],
         [
           "单独的",
@@ -856,7 +856,7 @@ window.BOOK_DATA[7] = {
           "fr/06814.mp3",
           "zh/06814.mp3",
           "dān dú de",
-          "soliter"
+          "[soliter]"
         ],
         [
           "旋律优美的",
@@ -865,7 +865,7 @@ window.BOOK_DATA[7] = {
           "fr/06815.mp3",
           "zh/06815.mp3",
           "xuán lǜ yōu měi de",
-          "melodik"
+          "[melodik]"
         ]
       ],
       "s": [
@@ -923,7 +923,7 @@ window.BOOK_DATA[7] = {
           "fr/06821.mp3",
           "",
           "",
-          "&strymá"
+          "[&strymá]"
         ],
         [
           "器具",
@@ -941,7 +941,7 @@ window.BOOK_DATA[7] = {
           "fr/06823.mp3",
           "",
           "",
-          "ekspresjδ"
+          "[ekspresjδ]"
         ],
         [
           "表现",
@@ -959,7 +959,7 @@ window.BOOK_DATA[7] = {
           "fr/06825.mp3",
           "",
           "",
-          "deábyle"
+          "[deábyle]"
         ],
         [
           "排何",
@@ -977,7 +977,7 @@ window.BOOK_DATA[7] = {
           "fr/06827.mp3",
           "zh/06827.mp3",
           "líng huó de",
-          "a3il"
+          "[a3il]"
         ],
         [
           "旋律",
@@ -986,7 +986,7 @@ window.BOOK_DATA[7] = {
           "fr/06828.mp3",
           "zh/06828.mp3",
           "xuán lǜ",
-          "melodi"
+          "[melodi]"
         ]
       ]
     },
@@ -1001,7 +1001,7 @@ window.BOOK_DATA[7] = {
           "fr/06829.mp3",
           "zh/06829.mp3",
           "wǔ tái",
-          "sen"
+          "[sen]"
         ],
         [
           "幕布",
@@ -1010,7 +1010,7 @@ window.BOOK_DATA[7] = {
           "fr/06830.mp3",
           "zh/06830.mp3",
           "mù bù",
-          "rido"
+          "[rido]"
         ],
         [
           "设计",
@@ -1019,7 +1019,7 @@ window.BOOK_DATA[7] = {
           "fr/06831.mp3",
           "zh/06831.mp3",
           "shè jì",
-          "pla"
+          "[pla]"
         ],
         [
           "背景音乐",
@@ -1028,7 +1028,7 @@ window.BOOK_DATA[7] = {
           "fr/06832.mp3",
           "zh/06832.mp3",
           "bèi jǐng yīn yuè",
-          "myzik daf5"
+          "[myzik daf5]"
         ],
         [
           "台词",
@@ -1037,7 +1037,7 @@ window.BOOK_DATA[7] = {
           "fr/06833.mp3",
           "zh/06833.mp3",
           "tái cí",
-          "tirad"
+          "[tirad]"
         ],
         [
           "字幕",
@@ -1055,7 +1055,7 @@ window.BOOK_DATA[7] = {
           "fr/06835.mp3",
           "zh/06835.mp3",
           "chǎng jǐng wǔ tái zào xíng",
-          "senarjo"
+          "[senarjo]"
         ],
         [
           "布景",
@@ -1064,7 +1064,7 @@ window.BOOK_DATA[7] = {
           "fr/06836.mp3",
           "zh/06836.mp3",
           "bù jǐng",
-          "dekor"
+          "[dekor]"
         ],
         [
           "在舞台上",
@@ -1073,7 +1073,7 @@ window.BOOK_DATA[7] = {
           "fr/06837.mp3",
           "zh/06837.mp3",
           "zài wǔ tái shàng",
-          "syr sen"
+          "[syr sen]"
         ],
         [
           "表演",
@@ -1082,7 +1082,7 @@ window.BOOK_DATA[7] = {
           "fr/06838.mp3",
           "zh/06838.mp3",
           "biǎo yǎn",
-          "raprezäte"
+          "[raprezäte]"
         ],
         [
           "效果",
@@ -1091,7 +1091,7 @@ window.BOOK_DATA[7] = {
           "fr/06839.mp3",
           "zh/06839.mp3",
           "xiào guǒ",
-          "efe"
+          "[efe]"
         ],
         [
           "独幕剧歌剧木偶戏",
@@ -1100,7 +1100,7 @@ window.BOOK_DATA[7] = {
           "fr/06840.mp3",
           "zh/06840.mp3",
           "dú mù jù gē jù mù ǒu xì",
-          "senet"
+          "[senet]"
         ],
         [
           "彩排",
@@ -1109,7 +1109,7 @@ window.BOOK_DATA[7] = {
           "fr/06841.mp3",
           "zh/06841.mp3",
           "cǎi pái",
-          "repetisj5 kostyme"
+          "[repetisj5 kostyme]"
         ],
         [
           "高潮",
@@ -1118,7 +1118,7 @@ window.BOOK_DATA[7] = {
           "fr/06842.mp3",
           "zh/06842.mp3",
           "gāo cháo",
-          "apoze"
+          "[apoze]"
         ],
         [
           "角色",
@@ -1127,7 +1127,7 @@ window.BOOK_DATA[7] = {
           "fr/06843.mp3",
           "zh/06843.mp3",
           "jué sè",
-          "rol"
+          "[rol]"
         ]
       ],
       "s": [
@@ -1167,7 +1167,7 @@ window.BOOK_DATA[7] = {
           "fr/06847.mp3",
           "zh/06847.mp3",
           "yán sè",
-          "kulr"
+          "[kulr]"
         ],
         [
           "",
@@ -1176,7 +1176,7 @@ window.BOOK_DATA[7] = {
           "fr/06848.mp3",
           "",
           "",
-          "asosje"
+          "[asosje]"
         ],
         [
           "组合的",
@@ -1194,7 +1194,7 @@ window.BOOK_DATA[7] = {
           "fr/06850.mp3",
           "",
           "",
-          "dezordr"
+          "[dezordr]"
         ],
         [
           "混乱",
@@ -1212,7 +1212,7 @@ window.BOOK_DATA[7] = {
           "fr/06852.mp3",
           "zh/06852.mp3",
           "cān guān zhě",
-          "vizitcr"
+          "[vizitcr]"
         ]
       ]
     },
@@ -1227,7 +1227,7 @@ window.BOOK_DATA[7] = {
           "fr/06853.mp3",
           "zh/06853.mp3",
           "bó wù guǎn",
-          "myze"
+          "[myze]"
         ],
         [
           "历史博物馆",
@@ -1236,7 +1236,7 @@ window.BOOK_DATA[7] = {
           "fr/06854.mp3",
           "zh/06854.mp3",
           "lì shǐ bó wù guǎn",
-          "myze distwar"
+          "[myze distwar]"
         ],
         [
           "艺术博物馆位于蓬皮杜中",
@@ -1254,7 +1254,7 @@ window.BOOK_DATA[7] = {
           "fr/06856.mp3",
           "zh/06856.mp3",
           "jūn shì bó wù guǎn",
-          "myze da larme"
+          "[myze da larme]"
         ],
         [
           "科技馆",
@@ -1263,7 +1263,7 @@ window.BOOK_DATA[7] = {
           "fr/06857.mp3",
           "zh/06857.mp3",
           "kē jì guǎn",
-          "myze de sjäs eda la teknolozi"
+          "[myze de sjäs eda la teknolozi]"
         ],
         [
           "艺术博物馆",
@@ -1272,7 +1272,7 @@ window.BOOK_DATA[7] = {
           "fr/06858.mp3",
           "zh/06858.mp3",
           "yì shù bó wù guǎn",
-          "myze dar"
+          "[myze dar]"
         ],
         [
           "自然博物馆",
@@ -1281,7 +1281,7 @@ window.BOOK_DATA[7] = {
           "fr/06859.mp3",
           "zh/06859.mp3",
           "zì rán bó wù guǎn",
-          "myze distwar natyrel"
+          "[myze distwar natyrel]"
         ],
         [
           "专业博物馆",
@@ -1290,7 +1290,7 @@ window.BOOK_DATA[7] = {
           "fr/06860.mp3",
           "zh/06860.mp3",
           "zhuān yè bó wù guǎn",
-          "myze profesjonel"
+          "[myze profesjonel]"
         ],
         [
           "陈列",
@@ -1299,7 +1299,7 @@ window.BOOK_DATA[7] = {
           "fr/06861.mp3",
           "zh/06861.mp3",
           "chén liè",
-          "afia3"
+          "[afia3]"
         ],
         [
           "遗物",
@@ -1308,7 +1308,7 @@ window.BOOK_DATA[7] = {
           "fr/06862.mp3",
           "zh/06862.mp3",
           "yí wù",
-          "depuj"
+          "[depuj]"
         ],
         [
           "陈列",
@@ -1317,7 +1317,7 @@ window.BOOK_DATA[7] = {
           "fr/06863.mp3",
           "zh/06863.mp3",
           "chén liè",
-          "etalaze"
+          "[etalaze]"
         ],
         [
           "物品",
@@ -1335,7 +1335,7 @@ window.BOOK_DATA[7] = {
           "fr/06865.mp3",
           "zh/06865.mp3",
           "yì shù de",
-          "artistik"
+          "[artistik]"
         ],
         [
           "展览品",
@@ -1344,7 +1344,7 @@ window.BOOK_DATA[7] = {
           "fr/06866.mp3",
           "zh/06866.mp3",
           "zhǎn lǎn pǐn",
-          "Db3e ekspoze"
+          "[Db3e ekspoze]"
         ]
       ],
       "s": [
@@ -1384,7 +1384,7 @@ window.BOOK_DATA[7] = {
           "fr/06870.mp3",
           "",
           "",
-          "modern"
+          "[modern]"
         ],
         [
           "现代的",
@@ -1402,7 +1402,7 @@ window.BOOK_DATA[7] = {
           "fr/06872.mp3",
           "zh/06872.mp3",
           "cháo dài",
-          "dinasti"
+          "[dinasti]"
         ],
         [
           "",
@@ -1411,7 +1411,7 @@ window.BOOK_DATA[7] = {
           "fr/06873.mp3",
           "",
           "",
-          "grizaa:j"
+          "[grizaa:j]"
         ],
         [
           "阴沉",
@@ -1429,7 +1429,7 @@ window.BOOK_DATA[7] = {
           "fr/06875.mp3",
           "zh/06875.mp3",
           "cān",
-          "vizit:r"
+          "[vizit:r]"
         ],
         [
           "观者",
@@ -1453,7 +1453,7 @@ window.BOOK_DATA[7] = {
           "fr/06877.mp3",
           "zh/06877.mp3",
           "tiān wén xué",
-          "astronomi"
+          "[astronomi]"
         ],
         [
           "天文馆",
@@ -1462,7 +1462,7 @@ window.BOOK_DATA[7] = {
           "fr/06878.mp3",
           "zh/06878.mp3",
           "tiān wén guǎn",
-          "planetarjom"
+          "[planetarjom]"
         ],
         [
           "天文学的",
@@ -1471,7 +1471,7 @@ window.BOOK_DATA[7] = {
           "fr/06879.mp3",
           "zh/06879.mp3",
           "tiān wén xué de",
-          "astronomik"
+          "[astronomik]"
         ],
         [
           "天文学家",
@@ -1480,7 +1480,7 @@ window.BOOK_DATA[7] = {
           "fr/06880.mp3",
           "zh/06880.mp3",
           "tiān wén xué jiā",
-          "astronom"
+          "[astronom]"
         ],
         [
           "宇宙",
@@ -1489,7 +1489,7 @@ window.BOOK_DATA[7] = {
           "fr/06881.mp3",
           "zh/06881.mp3",
           "yǔ zhòu",
-          "yniver"
+          "[yniver]"
         ],
         [
           "月亮",
@@ -1498,7 +1498,7 @@ window.BOOK_DATA[7] = {
           "fr/06882.mp3",
           "zh/06882.mp3",
           "yuè liàng",
-          "lyn"
+          "[lyn]"
         ],
         [
           "星星",
@@ -1507,7 +1507,7 @@ window.BOOK_DATA[7] = {
           "fr/06883.mp3",
           "zh/06883.mp3",
           "xīng xīng",
-          "etwal"
+          "[etwal]"
         ],
         [
           "恒星的",
@@ -1516,7 +1516,7 @@ window.BOOK_DATA[7] = {
           "fr/06884.mp3",
           "zh/06884.mp3",
           "héng xīng de",
-          "steeler"
+          "[steeler]"
         ],
         [
           "行星",
@@ -1525,7 +1525,7 @@ window.BOOK_DATA[7] = {
           "fr/06885.mp3",
           "zh/06885.mp3",
           "xíng xīng",
-          "planet"
+          "[planet]"
         ],
         [
           "火星",
@@ -1534,7 +1534,7 @@ window.BOOK_DATA[7] = {
           "fr/06886.mp3",
           "zh/06886.mp3",
           "huǒ xīng",
-          "et&sel"
+          "[et&sel]"
         ],
         [
           "水星",
@@ -1543,7 +1543,7 @@ window.BOOK_DATA[7] = {
           "fr/06887.mp3",
           "zh/06887.mp3",
           "shuǐ xīng",
-          "merkyr"
+          "[merkyr]"
         ],
         [
           "土星",
@@ -1552,7 +1552,7 @@ window.BOOK_DATA[7] = {
           "fr/06888.mp3",
           "zh/06888.mp3",
           "tǔ xīng",
-          "satyrn"
+          "[satyrn]"
         ],
         [
           "望远镜天文台",
@@ -1561,7 +1561,7 @@ window.BOOK_DATA[7] = {
           "fr/06889.mp3",
           "zh/06889.mp3",
           "wàng yuǎn jìng tiān wén tái",
-          "teleskop"
+          "[teleskop]"
         ],
         [
           "行星",
@@ -1601,7 +1601,7 @@ window.BOOK_DATA[7] = {
           "fr/06893.mp3",
           "",
           "",
-          "amatcexr"
+          "[amatcexr]"
         ],
         [
           "爱好者",
@@ -1637,7 +1637,7 @@ window.BOOK_DATA[7] = {
           "fr/06897.mp3",
           "zh/06897.mp3",
           "fú ěr tài",
-          "volter"
+          "[volter]"
         ],
         [
           "",
@@ -1646,7 +1646,7 @@ window.BOOK_DATA[7] = {
           "fr/06898.mp3",
           "",
           "",
-          "frákofon"
+          "[frákofon]"
         ],
         [
           "讲法语的人",
@@ -1664,7 +1664,7 @@ window.BOOK_DATA[7] = {
           "fr/06900.mp3",
           "",
           "",
-          "asteroid"
+          "[asteroid]"
         ],
         [
           "小行星",
@@ -1688,7 +1688,7 @@ window.BOOK_DATA[7] = {
           "fr/06902.mp3",
           "zh/06902.mp3",
           "gǔ dǒng",
-          "átikite"
+          "[átikite]"
         ],
         [
           "古玩店",
@@ -1697,7 +1697,7 @@ window.BOOK_DATA[7] = {
           "fr/06903.mp3",
           "zh/06903.mp3",
           "gǔ wán diàn",
-          "magaz& da kyrjozite"
+          "[magaz& da kyrjozite]"
         ],
         [
           "旧货店",
@@ -1706,7 +1706,7 @@ window.BOOK_DATA[7] = {
           "fr/06904.mp3",
           "zh/06904.mp3",
           "jiù huò diàn",
-          "brikabrak"
+          "[brikabrak]"
         ],
         [
           "假货",
@@ -1715,7 +1715,7 @@ window.BOOK_DATA[7] = {
           "fr/06905.mp3",
           "zh/06905.mp3",
           "jiǎ huò",
-          "klkä"
+          "[klkä]"
         ],
         [
           "专家",
@@ -1724,7 +1724,7 @@ window.BOOK_DATA[7] = {
           "fr/06906.mp3",
           "zh/06906.mp3",
           "zhuān jiā",
-          "spesjalist"
+          "[spesjalist]"
         ],
         [
           "收藏",
@@ -1733,7 +1733,7 @@ window.BOOK_DATA[7] = {
           "fr/06907.mp3",
           "zh/06907.mp3",
           "shōu cáng",
-          "koleksjone"
+          "[koleksjone]"
         ],
         [
           "辨别",
@@ -1742,7 +1742,7 @@ window.BOOK_DATA[7] = {
           "fr/06908.mp3",
           "zh/06908.mp3",
           "biàn bié",
-          "dist&ge"
+          "[dist&ge]"
         ],
         [
           "鉴别能力强的",
@@ -1751,7 +1751,7 @@ window.BOOK_DATA[7] = {
           "fr/06909.mp3",
           "zh/06909.mp3",
           "jiàn bié néng lì qiáng de",
-          "kapasite a idätifje fort"
+          "[kapasite a idätifje fort]"
         ],
         [
           "铜绿",
@@ -1760,7 +1760,7 @@ window.BOOK_DATA[7] = {
           "fr/06910.mp3",
           "zh/06910.mp3",
           "tóng lǜ",
-          "verdagri"
+          "[verdagri]"
         ],
         [
           "复制",
@@ -1769,7 +1769,7 @@ window.BOOK_DATA[7] = {
           "fr/06911.mp3",
           "zh/06911.mp3",
           "fù zhì",
-          "raprodyir"
+          "[raprodyir]"
         ],
         [
           "保存",
@@ -1778,7 +1778,7 @@ window.BOOK_DATA[7] = {
           "fr/06912.mp3",
           "zh/06912.mp3",
           "bǎo cún",
-          "kšserve"
+          "[kšserve]"
         ],
         [
           "商人",
@@ -1787,7 +1787,7 @@ window.BOOK_DATA[7] = {
           "fr/06913.mp3",
           "zh/06913.mp3",
           "shāng rén",
-          "komersa, t"
+          "[komersa, t]"
         ],
         [
           "流通",
@@ -1796,7 +1796,7 @@ window.BOOK_DATA[7] = {
           "fr/06914.mp3",
           "zh/06914.mp3",
           "liú tōng",
-          "sirkyle"
+          "[sirkyle]"
         ],
         [
           "铜币",
@@ -1805,7 +1805,7 @@ window.BOOK_DATA[7] = {
           "fr/06915.mp3",
           "zh/06915.mp3",
           "tóng bì",
-          "pjes á kyivr"
+          "[pjes á kyivr]"
         ],
         [
           "增值",
@@ -1814,7 +1814,7 @@ window.BOOK_DATA[7] = {
           "fr/06916.mp3",
           "zh/06916.mp3",
           "zēng zhí",
-          "valorizasj5"
+          "[valorizasj5]"
         ],
         [
           "仿制品",
@@ -1823,7 +1823,7 @@ window.BOOK_DATA[7] = {
           "fr/06917.mp3",
           "zh/06917.mp3",
           "fǎng zhì pǐn",
-          "imitasj5"
+          "[imitasj5]"
         ],
         [
           "伪装的",
@@ -1832,7 +1832,7 @@ window.BOOK_DATA[7] = {
           "fr/06918.mp3",
           "zh/06918.mp3",
           "wěi zhuāng de",
-          "degize"
+          "[degize]"
         ]
       ],
       "s": [
@@ -1863,7 +1863,7 @@ window.BOOK_DATA[7] = {
           "fr/06921.mp3",
           "",
           "",
-          "áprcer"
+          "[áprcer]"
         ],
         [
           "皇帝",
@@ -1881,7 +1881,7 @@ window.BOOK_DATA[7] = {
           "fr/06923.mp3",
           "",
           "",
-          "dinasti"
+          "[dinasti]"
         ],
         [
           "朝代",
@@ -1899,7 +1899,7 @@ window.BOOK_DATA[7] = {
           "fr/06925.mp3",
           "",
           "",
-          "diver,ers"
+          "[diver,ers]"
         ],
         [
           "不同的",
@@ -1917,7 +1917,7 @@ window.BOOK_DATA[7] = {
           "fr/06927.mp3",
           "",
           "",
-          "äsestral"
+          "[äsestral]"
         ],
         [
           "祖先的",

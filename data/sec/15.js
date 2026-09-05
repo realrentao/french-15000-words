@@ -16,7 +16,7 @@ window.BOOK_DATA[15] = {
           "fr/09800.mp3",
           "zh/09800.mp3",
           "shāng yè",
-          "komers"
+          "[komers]"
         ],
         [
           "行业",
@@ -25,7 +25,7 @@ window.BOOK_DATA[15] = {
           "fr/09801.mp3",
           "zh/09801.mp3",
           "háng yè",
-          "metje"
+          "[metje]"
         ],
         [
           "农业",
@@ -34,7 +34,7 @@ window.BOOK_DATA[15] = {
           "fr/09802.mp3",
           "zh/09802.mp3",
           "nóng yè",
-          "agrikyltyr"
+          "[agrikyltyr]"
         ],
         [
           "服务业",
@@ -43,7 +43,7 @@ window.BOOK_DATA[15] = {
           "fr/09803.mp3",
           "zh/09803.mp3",
           "fú wù yè",
-          "servis"
+          "[servis]"
         ],
         [
           "旅游业",
@@ -52,7 +52,7 @@ window.BOOK_DATA[15] = {
           "fr/09804.mp3",
           "zh/09804.mp3",
           "lǚ yóu yè",
-          "turism"
+          "[turism]"
         ],
         [
           "信息科学",
@@ -61,7 +61,7 @@ window.BOOK_DATA[15] = {
           "fr/09805.mp3",
           "zh/09805.mp3",
           "xìn xī kē xué",
-          "sjäs aformatik"
+          "[sjäs aformatik]"
         ],
         [
           "通信业",
@@ -70,7 +70,7 @@ window.BOOK_DATA[15] = {
           "fr/09806.mp3",
           "zh/09806.mp3",
           "tōng xìn yè",
-          "l&dystri de komynikasjö"
+          "[l&dystri de komynikasjö]"
         ],
         [
           "广告业",
@@ -79,7 +79,7 @@ window.BOOK_DATA[15] = {
           "fr/09807.mp3",
           "zh/09807.mp3",
           "guǎng gào yè",
-          "pyblisite"
+          "[pyblisite]"
         ],
         [
           "公共关系",
@@ -88,7 +88,7 @@ window.BOOK_DATA[15] = {
           "fr/09808.mp3",
           "zh/09808.mp3",
           "gōng gòng guān xì",
-          "ralasj pyblik"
+          "[ralasj pyblik]"
         ],
         [
           "房地产业",
@@ -97,7 +97,7 @@ window.BOOK_DATA[15] = {
           "fr/09809.mp3",
           "zh/09809.mp3",
           "fáng dì chǎn yè",
-          "imobilje"
+          "[imobilje]"
         ],
         [
           "娱乐",
@@ -106,7 +106,7 @@ window.BOOK_DATA[15] = {
           "fr/09810.mp3",
           "zh/09810.mp3",
           "yú lè",
-          "amyzmá"
+          "[amyzmá]"
         ],
         [
           "咨询顾问",
@@ -115,7 +115,7 @@ window.BOOK_DATA[15] = {
           "fr/09811.mp3",
           "zh/09811.mp3",
           "zī xún gù wèn",
-          "kšsyltá"
+          "[kšsyltá]"
         ],
         [
           "进出口业",
@@ -124,7 +124,7 @@ window.BOOK_DATA[15] = {
           "fr/09812.mp3",
           "zh/09812.mp3",
           "jìn chū kǒu yè",
-          "sektcer por ekspor"
+          "[sektcer por ekspor]"
         ],
         [
           "印刷",
@@ -133,7 +133,7 @@ window.BOOK_DATA[15] = {
           "fr/09813.mp3",
           "zh/09813.mp3",
           "yìn shuā",
-          "&prime"
+          "[&prime]"
         ],
         [
           "环境",
@@ -142,7 +142,7 @@ window.BOOK_DATA[15] = {
           "fr/10911.mp3",
           "zh/10911.mp3",
           "huán jìng",
-          "ävironma"
+          "[ävironma]"
         ],
         [
           "环境的",
@@ -151,7 +151,7 @@ window.BOOK_DATA[15] = {
           "fr/10912.mp3",
           "zh/10912.mp3",
           "huán jìng de",
-          "ábiätal"
+          "[ábiätal]"
         ],
         [
           "环保税",
@@ -160,7 +160,7 @@ window.BOOK_DATA[15] = {
           "fr/10913.mp3",
           "zh/10913.mp3",
           "huán bǎo shuì",
-          "ekotaks"
+          "[ekotaks]"
         ],
         [
           "环保意识",
@@ -169,7 +169,7 @@ window.BOOK_DATA[15] = {
           "fr/10914.mp3",
           "zh/10914.mp3",
           "huán bǎo yì shí",
-          "säsibilizaa)sj5a lávironma"
+          "[säsibilizaa)sj5a lávironma]"
         ],
         [
           "保护",
@@ -178,7 +178,7 @@ window.BOOK_DATA[15] = {
           "fr/10915.mp3",
           "zh/10915.mp3",
           "bǎo hù",
-          "proteze"
+          "[proteze]"
         ],
         [
           "改善",
@@ -187,7 +187,7 @@ window.BOOK_DATA[15] = {
           "fr/10916.mp3",
           "zh/10916.mp3",
           "gǎi shàn",
-          "ameljore"
+          "[ameljore]"
         ],
         [
           "危机励美化",
@@ -196,7 +196,7 @@ window.BOOK_DATA[15] = {
           "fr/10917.mp3",
           "zh/10917.mp3",
           "wēi jī lì měi huà",
-          "kriz"
+          "[kriz]"
         ],
         [
           "适应",
@@ -205,7 +205,7 @@ window.BOOK_DATA[15] = {
           "fr/10918.mp3",
           "zh/10918.mp3",
           "shì yìng",
-          "adapte"
+          "[adapte]"
         ],
         [
           "保持",
@@ -214,7 +214,7 @@ window.BOOK_DATA[15] = {
           "fr/10919.mp3",
           "zh/10919.mp3",
           "bǎo chí",
-          "métnir"
+          "[métnir]"
         ],
         [
           "自净",
@@ -223,7 +223,7 @@ window.BOOK_DATA[15] = {
           "fr/10920.mp3",
           "zh/10920.mp3",
           "zì jìng",
-          "otoepvraso"
+          "[otoepvraso]"
         ],
         [
           "水质",
@@ -232,7 +232,7 @@ window.BOOK_DATA[15] = {
           "fr/10921.mp3",
           "zh/10921.mp3",
           "shuǐ zhì",
-          "kalite do"
+          "[kalite do]"
         ],
         [
           "植被",
@@ -241,7 +241,7 @@ window.BOOK_DATA[15] = {
           "fr/10922.mp3",
           "zh/10922.mp3",
           "zhí bèi",
-          "vezeta(a)sj5"
+          "[vezeta(a)sj5]"
         ],
         [
           "植物",
@@ -250,7 +250,7 @@ window.BOOK_DATA[15] = {
           "fr/10923.mp3",
           "zh/10923.mp3",
           "zhí wù",
-          "plät"
+          "[plät]"
         ],
         [
           "无污染的",
@@ -259,7 +259,7 @@ window.BOOK_DATA[15] = {
           "fr/10924.mp3",
           "zh/10924.mp3",
           "wú wū rǎn de",
-          "propr"
+          "[propr]"
         ]
       ],
       "s": [
@@ -326,7 +326,7 @@ window.BOOK_DATA[15] = {
           "fr/09817.mp3",
           "",
           "",
-          "komä:d"
+          "[komä:d]"
         ],
         [
           "订购的货物",
@@ -353,7 +353,7 @@ window.BOOK_DATA[15] = {
           "fr/09820.mp3",
           "zh/09820.mp3",
           "zhǔ yào dì",
-          "prsipalma"
+          "[prsipalma]"
         ],
         [
           "",
@@ -371,7 +371,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09822.mp3",
           "cù jìn",
-          "promuvwar"
+          "[promuvwar]"
         ],
         [
           "",
@@ -407,7 +407,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09826.mp3",
           "tóu zī",
-          "vestisma"
+          "[vestisma]"
         ],
         [
           "",
@@ -425,7 +425,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/10929.mp3",
           "sǔn huài",
-          "degradaasj5"
+          "[degradaasj5]"
         ],
         [
           "",
@@ -434,7 +434,7 @@ window.BOOK_DATA[15] = {
           "fr/10930.mp3",
           "",
           "",
-          "säsibilize"
+          "[säsibilize]"
         ],
         [
           "使神秘",
@@ -452,7 +452,7 @@ window.BOOK_DATA[15] = {
           "fr/10932.mp3",
           "zh/10932.mp3",
           "tǔ dì",
-          "sol"
+          "[sol]"
         ]
       ]
     },
@@ -467,7 +467,7 @@ window.BOOK_DATA[15] = {
           "fr/09827.mp3",
           "zh/09827.mp3",
           "shǐ guó yǒu huà",
-          "nasjonalize"
+          "[nasjonalize]"
         ],
         [
           "国有化",
@@ -476,7 +476,7 @@ window.BOOK_DATA[15] = {
           "fr/09828.mp3",
           "zh/09828.mp3",
           "guó yǒu huà",
-          "nasjonalizasj5"
+          "[nasjonalizasj5]"
         ],
         [
           "国内生产总值",
@@ -485,7 +485,7 @@ window.BOOK_DATA[15] = {
           "fr/09829.mp3",
           "zh/09829.mp3",
           "guó nèi shēng chǎn zǒng zhí",
-          "prodyi éterjer bryt"
+          "[prodyi éterjer bryt]"
         ],
         [
           "国民生产总值",
@@ -494,7 +494,7 @@ window.BOOK_DATA[15] = {
           "fr/09830.mp3",
           "zh/09830.mp3",
           "guó mín shēng chǎn zǒng zhí",
-          "prodyi nasjonal bryt"
+          "[prodyi nasjonal bryt]"
         ],
         [
           "私有化",
@@ -503,7 +503,7 @@ window.BOOK_DATA[15] = {
           "fr/09831.mp3",
           "zh/09831.mp3",
           "sī yǒu huà",
-          "privatizasj5"
+          "[privatizasj5]"
         ],
         [
           "经济",
@@ -512,7 +512,7 @@ window.BOOK_DATA[15] = {
           "fr/09832.mp3",
           "zh/09832.mp3",
           "jīng jì",
-          "ekonomi"
+          "[ekonomi]"
         ],
         [
           "经济的",
@@ -521,7 +521,7 @@ window.BOOK_DATA[15] = {
           "fr/09833.mp3",
           "zh/09833.mp3",
           "jīng jì de",
-          "ekonomik"
+          "[ekonomik]"
         ],
         [
           "经济地",
@@ -530,7 +530,7 @@ window.BOOK_DATA[15] = {
           "fr/09834.mp3",
           "zh/09834.mp3",
           "jīng jì dì",
-          "ekonomikmá"
+          "[ekonomikmá]"
         ],
         [
           "经济繁荣",
@@ -539,7 +539,7 @@ window.BOOK_DATA[15] = {
           "fr/09835.mp3",
           "zh/09835.mp3",
           "jīng jì fán róng",
-          "ekonomi prosper"
+          "[ekonomi prosper]"
         ],
         [
           "金融地",
@@ -548,7 +548,7 @@ window.BOOK_DATA[15] = {
           "fr/09836.mp3",
           "zh/09836.mp3",
           "jīn róng dì",
-          "finäsjermä"
+          "[finäsjermä]"
         ],
         [
           "危机经济衰退",
@@ -557,7 +557,7 @@ window.BOOK_DATA[15] = {
           "fr/09837.mp3",
           "zh/09837.mp3",
           "wēi jī jīng jì shuāi tuì",
-          "kriz"
+          "[kriz]"
         ],
         [
           "萧条的",
@@ -566,7 +566,7 @@ window.BOOK_DATA[15] = {
           "fr/09838.mp3",
           "zh/09838.mp3",
           "xiāo tiáo de",
-          "stagna,át"
+          "[stagna,át]"
         ],
         [
           "萧条",
@@ -575,7 +575,7 @@ window.BOOK_DATA[15] = {
           "fr/09839.mp3",
           "zh/09839.mp3",
           "xiāo tiáo",
-          "resesj5"
+          "[resesj5]"
         ],
         [
           "复苏",
@@ -584,7 +584,7 @@ window.BOOK_DATA[15] = {
           "fr/09840.mp3",
           "zh/09840.mp3",
           "fù sū",
-          "ravivr"
+          "[ravivr]"
         ],
         [
           "通货膨胀",
@@ -593,7 +593,7 @@ window.BOOK_DATA[15] = {
           "fr/09841.mp3",
           "zh/09841.mp3",
           "tōng huò péng zhàng",
-          "8flasj5"
+          "[8flasj5]"
         ],
         [
           "污染",
@@ -602,7 +602,7 @@ window.BOOK_DATA[15] = {
           "fr/10933.mp3",
           "zh/10933.mp3",
           "wū rǎn",
-          "pol(l)ysj5"
+          "[pol(l)ysj5]"
         ],
         [
           "污染工业粉尘",
@@ -611,7 +611,7 @@ window.BOOK_DATA[15] = {
           "fr/10934.mp3",
           "zh/10934.mp3",
           "wū rǎn gōng yè fěn chén",
-          "ktamina(a)sjδ"
+          "[ktamina(a)sjδ]"
         ],
         [
           "化学的噪音污染",
@@ -620,7 +620,7 @@ window.BOOK_DATA[15] = {
           "fr/10935.mp3",
           "zh/10935.mp3",
           "huà xué de zào yīn wū rǎn",
-          "fimik"
+          "[fimik]"
         ],
         [
           "视觉上的",
@@ -629,7 +629,7 @@ window.BOOK_DATA[15] = {
           "fr/10936.mp3",
           "zh/10936.mp3",
           "shì jué shàng de",
-          "vizuel"
+          "[vizuel]"
         ],
         [
           "大气的",
@@ -638,7 +638,7 @@ window.BOOK_DATA[15] = {
           "fr/10937.mp3",
           "zh/10937.mp3",
           "dà qì de",
-          "atmosferik"
+          "[atmosferik]"
         ],
         [
           "毒气",
@@ -647,7 +647,7 @@ window.BOOK_DATA[15] = {
           "fr/10938.mp3",
           "zh/10938.mp3",
           "dú qì",
-          "gaa:z toksik"
+          "[gaa:z toksik]"
         ],
         [
           "水污染",
@@ -656,7 +656,7 @@ window.BOOK_DATA[15] = {
           "fr/10939.mp3",
           "zh/10939.mp3",
           "shuǐ wū rǎn",
-          "poll)ysj da lo"
+          "[poll)ysj da lo]"
         ],
         [
           "污染等级",
@@ -665,7 +665,7 @@ window.BOOK_DATA[15] = {
           "fr/10940.mp3",
           "zh/10940.mp3",
           "wū rǎn děng jí",
-          "dagre da pol(l)ysj5"
+          "[dagre da pol(l)ysj5]"
         ],
         [
           "污染物",
@@ -674,7 +674,7 @@ window.BOOK_DATA[15] = {
           "fr/10941.mp3",
           "zh/10941.mp3",
           "wū rǎn wù",
-          "poll)uá,á:t"
+          "[poll)uá,á:t]"
         ],
         [
           "污点",
@@ -750,7 +750,7 @@ window.BOOK_DATA[15] = {
           "fr/09845.mp3",
           "",
           "",
-          "avestismä"
+          "[avestismä]"
         ],
         [
           "投资",
@@ -768,7 +768,7 @@ window.BOOK_DATA[15] = {
           "fr/09847.mp3",
           "",
           "",
-          "éfrastryktyr"
+          "[éfrastryktyr]"
         ],
         [
           "底层结构",
@@ -795,7 +795,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09850.mp3",
           "diàn xìn",
-          "telekomynikasj5"
+          "[telekomynikasj5]"
         ],
         [
           "",
@@ -822,7 +822,7 @@ window.BOOK_DATA[15] = {
           "fr/10946.mp3",
           "",
           "",
-          "ekstksj5"
+          "[ekstksj5]"
         ],
         [
           "熄灭",
@@ -840,7 +840,7 @@ window.BOOK_DATA[15] = {
           "fr/10948.mp3",
           "",
           "",
-          "ekstäsj5"
+          "[ekstäsj5]"
         ],
         [
           "延伸",
@@ -858,7 +858,7 @@ window.BOOK_DATA[15] = {
           "fr/10950.mp3",
           "zh/10950.mp3",
           "bìng rén",
-          "malad"
+          "[malad]"
         ]
       ]
     },
@@ -873,7 +873,7 @@ window.BOOK_DATA[15] = {
           "fr/09853.mp3",
           "zh/09853.mp3",
           "guó jì de",
-          "&ternasjonal"
+          "[&ternasjonal]"
         ],
         [
           "贸易顺差",
@@ -882,7 +882,7 @@ window.BOOK_DATA[15] = {
           "fr/09854.mp3",
           "zh/09854.mp3",
           "mào yì shùn chā",
-          "komers"
+          "[komers]"
         ],
         [
           "赤字",
@@ -891,7 +891,7 @@ window.BOOK_DATA[15] = {
           "fr/09856.mp3",
           "zh/09856.mp3",
           "chì zì",
-          "defisit"
+          "[defisit]"
         ],
         [
           "促进",
@@ -900,7 +900,7 @@ window.BOOK_DATA[15] = {
           "fr/09857.mp3",
           "zh/09857.mp3",
           "cù jìn",
-          "promuvwar"
+          "[promuvwar]"
         ],
         [
           "大大地",
@@ -909,7 +909,7 @@ window.BOOK_DATA[15] = {
           "fr/09858.mp3",
           "zh/09858.mp3",
           "dà dà dì",
-          "vafmá"
+          "[vafmá]"
         ],
         [
           "贸易差额",
@@ -918,7 +918,7 @@ window.BOOK_DATA[15] = {
           "fr/09859.mp3",
           "zh/09859.mp3",
           "mào yì chā é",
-          "baläs komersjal"
+          "[baläs komersjal]"
         ],
         [
           "贸易伙伴",
@@ -927,7 +927,7 @@ window.BOOK_DATA[15] = {
           "fr/09860.mp3",
           "zh/09860.mp3",
           "mào yì huǒ bàn",
-          "partaner komersjal"
+          "[partaner komersjal]"
         ],
         [
           "廉价推销",
@@ -936,7 +936,7 @@ window.BOOK_DATA[15] = {
           "fr/09861.mp3",
           "zh/09861.mp3",
           "lián jià tuī xiāo",
-          "diskunt"
+          "[diskunt]"
         ],
         [
           "收支差额",
@@ -945,7 +945,7 @@ window.BOOK_DATA[15] = {
           "fr/09862.mp3",
           "zh/09862.mp3",
           "shōu zhī chāi é",
-          "ekar ätrle r(a)set ele depäs"
+          "[ekar ätrle r(a)set ele depäs]"
         ],
         [
           "生意经济活动",
@@ -954,7 +954,7 @@ window.BOOK_DATA[15] = {
           "fr/09863.mp3",
           "zh/09863.mp3",
           "shēng yì jīng jì huó dòng",
-          "afer"
+          "[afer]"
         ],
         [
           "加工",
@@ -963,7 +963,7 @@ window.BOOK_DATA[15] = {
           "fr/09864.mp3",
           "zh/09864.mp3",
           "jiā gōng",
-          "fasone"
+          "[fasone]"
         ],
         [
           "三角债",
@@ -972,7 +972,7 @@ window.BOOK_DATA[15] = {
           "fr/09865.mp3",
           "zh/09865.mp3",
           "sān jiǎo zhài",
-          "det trijágyler"
+          "[det trijágyler]"
         ]
       ],
       "s": [
@@ -1012,7 +1012,7 @@ window.BOOK_DATA[15] = {
           "fr/09869.mp3",
           "zh/09869.mp3",
           "huǒ shān",
-          "volkä"
+          "[volkä]"
         ],
         [
           "",
@@ -1021,7 +1021,7 @@ window.BOOK_DATA[15] = {
           "fr/09870.mp3",
           "",
           "",
-          "previzj5"
+          "[previzj5]"
         ],
         [
           "预见预料",
@@ -1039,7 +1039,7 @@ window.BOOK_DATA[15] = {
           "fr/09872.mp3",
           "",
           "",
-          "patronal"
+          "[patronal]"
         ],
         [
           "资方的",
@@ -1057,7 +1057,7 @@ window.BOOK_DATA[15] = {
           "fr/09874.mp3",
           "",
           "",
-          "prelevmä"
+          "[prelevmä]"
         ],
         [
           "预先扣除",
@@ -1081,7 +1081,7 @@ window.BOOK_DATA[15] = {
           "fr/09876.mp3",
           "zh/09876.mp3",
           "kāi fàng jià gé",
-          "debloke le pri"
+          "[debloke le pri]"
         ],
         [
           "贸易保护主义",
@@ -1090,7 +1090,7 @@ window.BOOK_DATA[15] = {
           "fr/09877.mp3",
           "zh/09877.mp3",
           "mào yì bǎo hù zhǔ yì",
-          "proteksjonism da komers"
+          "[proteksjonism da komers]"
         ],
         [
           "贸易保护主义者",
@@ -1099,7 +1099,7 @@ window.BOOK_DATA[15] = {
           "fr/09878.mp3",
           "zh/09878.mp3",
           "mào yì bǎo hù zhǔ yì zhě",
-          "proteksjonist"
+          "[proteksjonist]"
         ],
         [
           "创新",
@@ -1108,7 +1108,7 @@ window.BOOK_DATA[15] = {
           "fr/09879.mp3",
           "zh/09879.mp3",
           "chuàng xīn",
-          "inovasj5"
+          "[inovasj5]"
         ],
         [
           "创新的",
@@ -1117,7 +1117,7 @@ window.BOOK_DATA[15] = {
           "fr/09880.mp3",
           "zh/09880.mp3",
           "chuàng xīn de",
-          "inova, át"
+          "[inova, át]"
         ],
         [
           "新技术",
@@ -1126,7 +1126,7 @@ window.BOOK_DATA[15] = {
           "fr/09881.mp3",
           "zh/09881.mp3",
           "xīn jì shù",
-          "nuvel teknik"
+          "[nuvel teknik]"
         ],
         [
           "改革开放政策",
@@ -1135,7 +1135,7 @@ window.BOOK_DATA[15] = {
           "fr/09882.mp3",
           "zh/09882.mp3",
           "gǎi gé kāi fàng zhèng cè",
-          "politik da reform e duvertyr"
+          "[politik da reform e duvertyr]"
         ],
         [
           "五好家庭",
@@ -1153,7 +1153,7 @@ window.BOOK_DATA[15] = {
           "fr/09884.mp3",
           "zh/09884.mp3",
           "wàn yuán hù",
-          "mena3 da milj5"
+          "[mena3 da milj5]"
         ],
         [
           "手机",
@@ -1162,7 +1162,7 @@ window.BOOK_DATA[15] = {
           "fr/09885.mp3",
           "zh/09885.mp3",
           "shǒu jī",
-          "telefon mobil"
+          "[telefon mobil]"
         ],
         [
           "喇叭裤",
@@ -1171,7 +1171,7 @@ window.BOOK_DATA[15] = {
           "fr/09886.mp3",
           "zh/09886.mp3",
           "lǎ bā kù",
-          "pätalš a pat delefa"
+          "[pätalš a pat delefa]"
         ],
         [
           "喇叭裙",
@@ -1180,7 +1180,7 @@ window.BOOK_DATA[15] = {
           "fr/09887.mp3",
           "zh/09887.mp3",
           "lǎ bā qún",
-          "3yp evaze"
+          "[3yp evaze]"
         ],
         [
           "菜篮子工程",
@@ -1189,7 +1189,7 @@ window.BOOK_DATA[15] = {
           "fr/09888.mp3",
           "zh/09888.mp3",
           "cài lán zi gōng chéng",
-          "pro3e dy panje da la menazer"
+          "[pro3e dy panje da la menazer]"
         ]
       ],
       "s": [
@@ -1229,7 +1229,7 @@ window.BOOK_DATA[15] = {
           "fr/09892.mp3",
           "",
           "",
-          "tervanir"
+          "[tervanir]"
         ],
         [
           "干预",
@@ -1247,7 +1247,7 @@ window.BOOK_DATA[15] = {
           "fr/09894.mp3",
           "zh/09894.mp3",
           "ān fàng",
-          "depo"
+          "[depo]"
         ],
         [
           "存放",
@@ -1265,7 +1265,7 @@ window.BOOK_DATA[15] = {
           "fr/09896.mp3",
           "zh/09896.mp3",
           "bì kāi",
-          "evite"
+          "[evite]"
         ],
         [
           "",
@@ -1292,7 +1292,7 @@ window.BOOK_DATA[15] = {
           "fr/09899.mp3",
           "",
           "",
-          "dispozitif"
+          "[dispozitif]"
         ],
         [
           "机构装置",
@@ -1325,7 +1325,7 @@ window.BOOK_DATA[15] = {
           "fr/09902.mp3",
           "zh/09902.mp3",
           "shāng pǐn qīng xiāo",
-          "acmpin de marfádiz"
+          "[acmpin de marfádiz]"
         ],
         [
           "反倾销",
@@ -1334,7 +1334,7 @@ window.BOOK_DATA[15] = {
           "fr/09903.mp3",
           "zh/09903.mp3",
           "fǎn qīng xiāo",
-          "átidxmpin"
+          "[átidxmpin]"
         ],
         [
           "海关担保",
@@ -1343,7 +1343,7 @@ window.BOOK_DATA[15] = {
           "fr/09904.mp3",
           "zh/09904.mp3",
           "hǎi guān dān bǎo",
-          "garäti de dwan"
+          "[garäti de dwan]"
         ],
         [
           "商业纠纷",
@@ -1352,7 +1352,7 @@ window.BOOK_DATA[15] = {
           "fr/09905.mp3",
           "zh/09905.mp3",
           "shāng yè jiū fēn",
-          "liti3 komersjo"
+          "[liti3 komersjo]"
         ],
         [
           "调解",
@@ -1361,7 +1361,7 @@ window.BOOK_DATA[15] = {
           "fr/09906.mp3",
           "zh/09906.mp3",
           "tiáo jiě",
-          "ksilje"
+          "[ksilje]"
         ],
         [
           "贸易管制",
@@ -1370,7 +1370,7 @@ window.BOOK_DATA[15] = {
           "fr/09907.mp3",
           "zh/09907.mp3",
           "mào yì guǎn zhì",
-          "ktrol dy komers"
+          "[ktrol dy komers]"
         ],
         [
           "分批装运",
@@ -1388,7 +1388,7 @@ window.BOOK_DATA[15] = {
           "fr/09909.mp3",
           "zh/09909.mp3",
           "shè fǎ huò dé",
-          "brige"
+          "[brige]"
         ],
         [
           "关税壁垒",
@@ -1397,7 +1397,7 @@ window.BOOK_DATA[15] = {
           "fr/09910.mp3",
           "zh/09910.mp3",
           "guān shuì bì lěi",
-          "barjer dwanjer"
+          "[barjer dwanjer]"
         ],
         [
           "可诉补贴",
@@ -1406,7 +1406,7 @@ window.BOOK_DATA[15] = {
           "fr/09911.mp3",
           "zh/09911.mp3",
           "kě sù bǔ tiē",
-          "sybväsjktestabl"
+          "[sybväsjktestabl]"
         ],
         [
           "一体化进程",
@@ -1415,7 +1415,7 @@ window.BOOK_DATA[15] = {
           "fr/09912.mp3",
           "zh/09912.mp3",
           "yī tǐ huà jìn chéng",
-          "prosesys détegrasjö"
+          "[prosesys détegrasjö]"
         ],
         [
           "创新者",
@@ -1424,7 +1424,7 @@ window.BOOK_DATA[15] = {
           "fr/09913.mp3",
           "zh/09913.mp3",
           "chuàng xīn zhě",
-          "inovatcer"
+          "[inovatcer]"
         ]
       ],
       "s": [
@@ -1464,7 +1464,7 @@ window.BOOK_DATA[15] = {
           "fr/09917.mp3",
           "",
           "",
-          "neämw&"
+          "[neämw&]"
         ],
         [
           "但是",
@@ -1482,7 +1482,7 @@ window.BOOK_DATA[15] = {
           "fr/09919.mp3",
           "",
           "",
-          "egratine"
+          "[egratine]"
         ],
         [
           "抓伤",
@@ -1509,7 +1509,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09922.mp3",
           "dì zhōng hǎi",
-          "mediterane"
+          "[mediterane]"
         ]
       ]
     },
@@ -1533,7 +1533,7 @@ window.BOOK_DATA[15] = {
           "fr/09924.mp3",
           "zh/09924.mp3",
           "rì yuán",
-          "jen"
+          "[jen]"
         ],
         [
           "比索",
@@ -1542,7 +1542,7 @@ window.BOOK_DATA[15] = {
           "fr/09925.mp3",
           "zh/09925.mp3",
           "bǐ suǒ",
-          "pezo"
+          "[pezo]"
         ],
         [
           "法郎",
@@ -1551,7 +1551,7 @@ window.BOOK_DATA[15] = {
           "fr/09926.mp3",
           "zh/09926.mp3",
           "fǎ láng",
-          "fra"
+          "[fra]"
         ],
         [
           "人民币",
@@ -1569,7 +1569,7 @@ window.BOOK_DATA[15] = {
           "fr/09928.mp3",
           "zh/09928.mp3",
           "yìng shì",
-          "mone"
+          "[mone]"
         ],
         [
           "流通",
@@ -1578,7 +1578,7 @@ window.BOOK_DATA[15] = {
           "fr/09930.mp3",
           "zh/09930.mp3",
           "liú tōng",
-          "sirkyle"
+          "[sirkyle]"
         ],
         [
           "伪造",
@@ -1587,7 +1587,7 @@ window.BOOK_DATA[15] = {
           "fr/09931.mp3",
           "zh/09931.mp3",
           "wěi zào",
-          "kStrafer"
+          "[kStrafer]"
         ],
         [
           "假钞",
@@ -1596,7 +1596,7 @@ window.BOOK_DATA[15] = {
           "fr/09932.mp3",
           "zh/09932.mp3",
           "jiǎ chāo",
-          "fo:s mone"
+          "[fo:s mone]"
         ],
         [
           "贬值",
@@ -1605,7 +1605,7 @@ window.BOOK_DATA[15] = {
           "fr/09933.mp3",
           "zh/09933.mp3",
           "biǎn zhí",
-          "devalorizasjö"
+          "[devalorizasjö]"
         ],
         [
           "增值",
@@ -1614,7 +1614,7 @@ window.BOOK_DATA[15] = {
           "fr/09934.mp3",
           "zh/09934.mp3",
           "zēng zhí",
-          "valorizasjš"
+          "[valorizasjš]"
         ],
         [
           "资金",
@@ -1623,7 +1623,7 @@ window.BOOK_DATA[15] = {
           "fr/09935.mp3",
           "zh/09935.mp3",
           "zī jīn",
-          "f5"
+          "[f5]"
         ],
         [
           "资金",
@@ -1632,7 +1632,7 @@ window.BOOK_DATA[15] = {
           "fr/09936.mp3",
           "zh/09936.mp3",
           "zī jīn",
-          "kapital"
+          "[kapital]"
         ],
         [
           "增值",
@@ -1641,7 +1641,7 @@ window.BOOK_DATA[15] = {
           "fr/09937.mp3",
           "zh/09937.mp3",
           "zēng zhí",
-          "plyvaly"
+          "[plyvaly]"
         ],
         [
           "使贬值假的伪造",
@@ -1650,7 +1650,7 @@ window.BOOK_DATA[15] = {
           "fr/09938.mp3",
           "zh/09938.mp3",
           "shǐ biǎn zhí jiǎ de wěi zào",
-          "devalorize"
+          "[devalorize]"
         ]
       ],
       "s": [
@@ -1681,7 +1681,7 @@ window.BOOK_DATA[15] = {
           "fr/09941.mp3",
           "",
           "",
-          "abád5"
+          "[abád5]"
         ],
         [
           "放弃抛弃",
@@ -1708,7 +1708,7 @@ window.BOOK_DATA[15] = {
           "fr/09944.mp3",
           "",
           "",
-          "proporsjö"
+          "[proporsjö]"
         ],
         [
           "比率",
@@ -1726,7 +1726,7 @@ window.BOOK_DATA[15] = {
           "fr/09946.mp3",
           "",
           "",
-          "posibilite"
+          "[posibilite]"
         ],
         [
           "可能性",
@@ -1750,7 +1750,7 @@ window.BOOK_DATA[15] = {
           "fr/09948.mp3",
           "zh/09948.mp3",
           "yìng tōng huò",
-          "mone fort"
+          "[mone fort]"
         ],
         [
           "软通货",
@@ -1759,7 +1759,7 @@ window.BOOK_DATA[15] = {
           "fr/09949.mp3",
           "zh/09949.mp3",
           "ruǎn tōng huò",
-          "d(a)viz febl"
+          "[d(a)viz febl]"
         ],
         [
           "国际货币制度",
@@ -1768,7 +1768,7 @@ window.BOOK_DATA[15] = {
           "fr/09950.mp3",
           "zh/09950.mp3",
           "guó jì huò bì zhì dù",
-          "la sistem moneter Eternasjonal"
+          "[la sistem moneter Eternasjonal]"
         ],
         [
           "货币购买力",
@@ -1786,7 +1786,7 @@ window.BOOK_DATA[15] = {
           "fr/09952.mp3",
           "zh/09952.mp3",
           "rè qián",
-          "arzä f0"
+          "[arzä f0]"
         ],
         [
           "洗钱",
@@ -1795,7 +1795,7 @@ window.BOOK_DATA[15] = {
           "fr/09953.mp3",
           "zh/09953.mp3",
           "xǐ qián",
-          "blafimá"
+          "[blafimá]"
         ],
         [
           "现货",
@@ -1822,7 +1822,7 @@ window.BOOK_DATA[15] = {
           "fr/09956.mp3",
           "zh/09956.mp3",
           "jīng jì zhèng cè",
-          "politik ekonomik"
+          "[politik ekonomik]"
         ],
         [
           "印花税",
@@ -1831,7 +1831,7 @@ window.BOOK_DATA[15] = {
           "fr/09957.mp3",
           "zh/09957.mp3",
           "yìn huā shuì",
-          "tbr"
+          "[tbr]"
         ],
         [
           "计划经济",
@@ -1840,7 +1840,7 @@ window.BOOK_DATA[15] = {
           "fr/09958.mp3",
           "zh/09958.mp3",
           "jì huà jīng jì",
-          "ekonomi planifje"
+          "[ekonomi planifje]"
         ],
         [
           "混合经济",
@@ -1849,7 +1849,7 @@ window.BOOK_DATA[15] = {
           "fr/09959.mp3",
           "zh/09959.mp3",
           "hùn hé jīng jì",
-          "ekonomi mikst"
+          "[ekonomi mikst]"
         ],
         [
           "政治经济学",
@@ -1858,7 +1858,7 @@ window.BOOK_DATA[15] = {
           "fr/09960.mp3",
           "zh/09960.mp3",
           "zhèng zhì jīng jì xué",
-          "ekonomi politik"
+          "[ekonomi politik]"
         ]
       ],
       "s": [
@@ -1898,7 +1898,7 @@ window.BOOK_DATA[15] = {
           "fr/09964.mp3",
           "",
           "",
-          "fraternite"
+          "[fraternite]"
         ],
         [
           "博爱",
@@ -1916,7 +1916,7 @@ window.BOOK_DATA[15] = {
           "fr/09966.mp3",
           "",
           "",
-          "patrimwan"
+          "[patrimwan]"
         ],
         [
           "遗产",
@@ -1961,7 +1961,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09971.mp3",
           "jí tǐ",
-          "kollektivite"
+          "[kollektivite]"
         ],
         [
           "地方的",
@@ -1970,7 +1970,7 @@ window.BOOK_DATA[15] = {
           "fr/09972.mp3",
           "zh/09972.mp3",
           "dì fāng de",
-          "lokal"
+          "[lokal]"
         ]
       ]
     },
@@ -1994,7 +1994,7 @@ window.BOOK_DATA[15] = {
           "fr/09974.mp3",
           "zh/09974.mp3",
           "chū",
-          "ekspor"
+          "[ekspor]"
         ],
         [
           "商船",
@@ -2003,7 +2003,7 @@ window.BOOK_DATA[15] = {
           "fr/09975.mp3",
           "zh/09975.mp3",
           "shāng chuán",
-          "navir marfä"
+          "[navir marfä]"
         ],
         [
           "发票",
@@ -2012,7 +2012,7 @@ window.BOOK_DATA[15] = {
           "fr/09976.mp3",
           "zh/09976.mp3",
           "fā piào",
-          "faktyr"
+          "[faktyr]"
         ],
         [
           "百分比",
@@ -2021,7 +2021,7 @@ window.BOOK_DATA[15] = {
           "fr/09977.mp3",
           "zh/09977.mp3",
           "bǎi fēn bǐ",
-          "pursätaz"
+          "[pursätaz]"
         ],
         [
           "成本",
@@ -2030,7 +2030,7 @@ window.BOOK_DATA[15] = {
           "fr/09978.mp3",
           "zh/09978.mp3",
           "chéng běn",
-          "ku da prodyksj5"
+          "[ku da prodyksj5]"
         ],
         [
           "运费",
@@ -2039,7 +2039,7 @@ window.BOOK_DATA[15] = {
           "fr/09979.mp3",
           "zh/09979.mp3",
           "yùn fèi",
-          "fre"
+          "[fre]"
         ],
         [
           "保险",
@@ -2048,7 +2048,7 @@ window.BOOK_DATA[15] = {
           "fr/09980.mp3",
           "zh/09980.mp3",
           "bǎo xiǎn",
-          "asyras"
+          "[asyras]"
         ],
         [
           "花费",
@@ -2057,7 +2057,7 @@ window.BOOK_DATA[15] = {
           "fr/09981.mp3",
           "zh/09981.mp3",
           "huā fèi",
-          "depäs"
+          "[depäs]"
         ],
         [
           "利润",
@@ -2066,7 +2066,7 @@ window.BOOK_DATA[15] = {
           "fr/09982.mp3",
           "zh/09982.mp3",
           "lì rùn",
-          "benefis"
+          "[benefis]"
         ],
         [
           "毛利",
@@ -2075,7 +2075,7 @@ window.BOOK_DATA[15] = {
           "fr/09983.mp3",
           "zh/09983.mp3",
           "máo lì",
-          "benefis bryt"
+          "[benefis bryt]"
         ],
         [
           "纯收入",
@@ -2084,7 +2084,7 @@ window.BOOK_DATA[15] = {
           "fr/09984.mp3",
           "zh/09984.mp3",
           "chún shōu rù",
-          "ravny net"
+          "[ravny net]"
         ],
         [
           "支付款",
@@ -2093,7 +2093,7 @@ window.BOOK_DATA[15] = {
           "fr/09985.mp3",
           "zh/09985.mp3",
           "zhī fù kuǎn",
-          "debursamá"
+          "[debursamá]"
         ],
         [
           "因素",
@@ -2102,7 +2102,7 @@ window.BOOK_DATA[15] = {
           "fr/09986.mp3",
           "zh/09986.mp3",
           "yīn sù",
-          "faktoer"
+          "[faktoer]"
         ],
         [
           "出价高于别人",
@@ -2111,7 +2111,7 @@ window.BOOK_DATA[15] = {
           "fr/09987.mp3",
           "zh/09987.mp3",
           "chū jià gāo yú bié rén",
-          "áferir syr"
+          "[áferir syr]"
         ]
       ],
       "s": [
@@ -2160,7 +2160,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09992.mp3",
           "shēn kè dì",
-          "prof5dema"
+          "[prof5dema]"
         ],
         [
           "",
@@ -2178,7 +2178,7 @@ window.BOOK_DATA[15] = {
           "fr/09994.mp3",
           "zh/09994.mp3",
           "bù biàn zhī chù",
-          "kvenjäs"
+          "[kvenjäs]"
         ],
         [
           "",
@@ -2196,7 +2196,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/09996.mp3",
           "zhěn duàn",
-          "djagnostike"
+          "[djagnostike]"
         ]
       ]
     },
@@ -2211,7 +2211,7 @@ window.BOOK_DATA[15] = {
           "fr/09997.mp3",
           "zh/09997.mp3",
           "shì chǎng",
-          "marfe"
+          "[marfe]"
         ],
         [
           "资本市场",
@@ -2220,7 +2220,7 @@ window.BOOK_DATA[15] = {
           "fr/09998.mp3",
           "zh/09998.mp3",
           "zī běn shì chǎng",
-          "marfe finásje"
+          "[marfe finásje]"
         ],
         [
           "融资",
@@ -2229,7 +2229,7 @@ window.BOOK_DATA[15] = {
           "fr/09999.mp3",
           "zh/09999.mp3",
           "róng zī",
-          "finasma"
+          "[finasma]"
         ],
         [
           "交易量",
@@ -2247,7 +2247,7 @@ window.BOOK_DATA[15] = {
           "fr/10001.mp3",
           "zh/10001.mp3",
           "zhěng gǔ",
-          "aksj5 átjeir"
+          "[aksj5 átjeir]"
         ],
         [
           "保证金",
@@ -2256,7 +2256,7 @@ window.BOOK_DATA[15] = {
           "fr/10002.mp3",
           "zh/10002.mp3",
           "bǎo zhèng jīn",
-          "depo da garáti"
+          "[depo da garáti]"
         ],
         [
           "保证金账户",
@@ -2274,7 +2274,7 @@ window.BOOK_DATA[15] = {
           "fr/10004.mp3",
           "zh/10004.mp3",
           "xuǎn zé quán",
-          "drwa dopsjö"
+          "[drwa dopsjö]"
         ],
         [
           "到期日",
@@ -2283,7 +2283,7 @@ window.BOOK_DATA[15] = {
           "fr/10005.mp3",
           "zh/10005.mp3",
           "dào qī rì",
-          "eeäs"
+          "[eeäs]"
         ],
         [
           "利用",
@@ -2292,7 +2292,7 @@ window.BOOK_DATA[15] = {
           "fr/10006.mp3",
           "zh/10006.mp3",
           "lì yòng",
-          "ytilize"
+          "[ytilize]"
         ],
         [
           "稳定的",
@@ -2301,7 +2301,7 @@ window.BOOK_DATA[15] = {
           "fr/10007.mp3",
           "zh/10007.mp3",
           "wěn dìng de",
-          "stabl"
+          "[stabl]"
         ],
         [
           "市场调查",
@@ -2310,7 +2310,7 @@ window.BOOK_DATA[15] = {
           "fr/10008.mp3",
           "zh/10008.mp3",
           "shì chǎng diào chá",
-          "merkatik"
+          "[merkatik]"
         ],
         [
           "表明",
@@ -2319,7 +2319,7 @@ window.BOOK_DATA[15] = {
           "fr/10009.mp3",
           "zh/10009.mp3",
           "biǎo míng",
-          "manifeste"
+          "[manifeste]"
         ],
         [
           "繁荣的",
@@ -2328,7 +2328,7 @@ window.BOOK_DATA[15] = {
           "fr/10010.mp3",
           "zh/10010.mp3",
           "fán róng de",
-          "prosper"
+          "[prosper]"
         ]
       ],
       "s": [
@@ -2377,7 +2377,7 @@ window.BOOK_DATA[15] = {
           "fr/10015.mp3",
           "zh/10015.mp3",
           "chǎn pǐn",
-          "produi"
+          "[produi]"
         ],
         [
           "全",
@@ -2386,7 +2386,7 @@ window.BOOK_DATA[15] = {
           "fr/10016.mp3",
           "zh/10016.mp3",
           "quán",
-          "mšdjal"
+          "[mšdjal]"
         ],
         [
           "球的世界的",
@@ -2404,7 +2404,7 @@ window.BOOK_DATA[15] = {
           "fr/10018.mp3",
           "",
           "",
-          "uverty:r"
+          "[uverty:r]"
         ],
         [
           "打开",
@@ -2431,7 +2431,7 @@ window.BOOK_DATA[15] = {
           "",
           "zh/10021.mp3",
           "kè guān de",
-          "ksiderabl"
+          "[ksiderabl]"
         ]
       ]
     },
@@ -2446,7 +2446,7 @@ window.BOOK_DATA[15] = {
           "fr/10022.mp3",
           "zh/10022.mp3",
           "huá ěr jiē",
-          "wal strit"
+          "[wal strit]"
         ],
         [
           "金融上的",
@@ -2455,7 +2455,7 @@ window.BOOK_DATA[15] = {
           "fr/10023.mp3",
           "zh/10023.mp3",
           "jīn róng shàng de",
-          "marfe finäsje"
+          "[marfe finäsje]"
         ],
         [
           "战争债券",
@@ -2473,7 +2473,7 @@ window.BOOK_DATA[15] = {
           "fr/10025.mp3",
           "zh/10025.mp3",
           "mào xiǎn",
-          "savátyre"
+          "[savátyre]"
         ],
         [
           "凭证",
@@ -2482,7 +2482,7 @@ window.BOOK_DATA[15] = {
           "fr/10026.mp3",
           "zh/10026.mp3",
           "píng zhèng",
-          "sertifika"
+          "[sertifika]"
         ],
         [
           "财富效益",
@@ -2491,7 +2491,7 @@ window.BOOK_DATA[15] = {
           "fr/10027.mp3",
           "zh/10027.mp3",
           "cái fù xiào yì",
-          "avátaz da patrimwan"
+          "[avátaz da patrimwan]"
         ],
         [
           "财富管理",
@@ -2500,7 +2500,7 @@ window.BOOK_DATA[15] = {
           "fr/10028.mp3",
           "zh/10028.mp3",
           "cái fù guǎn lǐ",
-          "zestj5da patrimwan"
+          "[zestj5da patrimwan]"
         ],
         [
           "减值",
@@ -2509,7 +2509,7 @@ window.BOOK_DATA[15] = {
           "fr/10029.mp3",
           "zh/10029.mp3",
           "jiǎn zhí",
-          "redyksjda valcer"
+          "[redyksjda valcer]"
         ],
         [
           "注销",
@@ -2518,7 +2518,7 @@ window.BOOK_DATA[15] = {
           "fr/10030.mp3",
           "zh/10030.mp3",
           "zhù xiāo",
-          "rezilje"
+          "[rezilje]"
         ],
         [
           "流动比率",
@@ -2527,7 +2527,7 @@ window.BOOK_DATA[15] = {
           "fr/10031.mp3",
           "zh/10031.mp3",
           "liú dòng bǐ lǜ",
-          "rasjo da likidite"
+          "[rasjo da likidite]"
         ],
         [
           "白皮书",
@@ -2545,7 +2545,7 @@ window.BOOK_DATA[15] = {
           "fr/10033.mp3",
           "zh/10033.mp3",
           "fēn pèi",
-          "distribye"
+          "[distribye]"
         ],
         [
           "份额",
@@ -2554,7 +2554,7 @@ window.BOOK_DATA[15] = {
           "fr/10034.mp3",
           "zh/10034.mp3",
           "fèn é",
-          "kštribysj"
+          "[kštribysj]"
         ]
       ],
       "s": [
@@ -2585,7 +2585,7 @@ window.BOOK_DATA[15] = {
           "fr/10037.mp3",
           "zh/10037.mp3",
           "lǐng háng yuán",
-          "pilt"
+          "[pilt]"
         ],
         [
           "",
@@ -2594,7 +2594,7 @@ window.BOOK_DATA[15] = {
           "fr/10038.mp3",
           "",
           "",
-          "evidamä"
+          "[evidamä]"
         ],
         [
           "明显地",
@@ -2612,7 +2612,7 @@ window.BOOK_DATA[15] = {
           "fr/10040.mp3",
           "zh/10040.mp3",
           "dān xīn",
-          "träs"
+          "[träs]"
         ],
         [
           "",
@@ -2639,7 +2639,7 @@ window.BOOK_DATA[15] = {
           "fr/10043.mp3",
           "",
           "",
-          "&tegralite"
+          "[&tegralite]"
         ],
         [
           "完整",

@@ -16,7 +16,7 @@ window.BOOK_DATA[2] = {
           "fr/03329.mp3",
           "zh/03329.mp3",
           "tóu fà",
-          "a)va"
+          "[a)va]"
         ],
         [
           "分叉",
@@ -25,7 +25,7 @@ window.BOOK_DATA[2] = {
           "fr/03330.mp3",
           "zh/03330.mp3",
           "fēn chà",
-          "bifyrka(a)sjš"
+          "[bifyrka(a)sjš]"
         ],
         [
           "头皮屑",
@@ -34,7 +34,7 @@ window.BOOK_DATA[2] = {
           "fr/03331.mp3",
           "zh/03331.mp3",
           "tóu pí xiè",
-          "pe(el)likyl"
+          "[pe(el)likyl]"
         ],
         [
           "长的",
@@ -43,7 +43,7 @@ window.BOOK_DATA[2] = {
           "fr/03332.mp3",
           "zh/03332.mp3",
           "zhǎng de",
-          "5:g"
+          "[5:g]"
         ],
         [
           "短的",
@@ -52,7 +52,7 @@ window.BOOK_DATA[2] = {
           "fr/03333.mp3",
           "zh/03333.mp3",
           "duǎn de",
-          "kurt"
+          "[kurt]"
         ],
         [
           "秃的",
@@ -61,7 +61,7 @@ window.BOOK_DATA[2] = {
           "fr/03334.mp3",
           "zh/03334.mp3",
           "tū de",
-          "[ov"
+          "[ov]"
         ],
         [
           "光秀的",
@@ -70,7 +70,7 @@ window.BOOK_DATA[2] = {
           "fr/03335.mp3",
           "zh/03335.mp3",
           "guāng xiù de",
-          "pale"
+          "[pale]"
         ],
         [
           "油性的",
@@ -79,7 +79,7 @@ window.BOOK_DATA[2] = {
           "fr/03336.mp3",
           "zh/03336.mp3",
           "yóu xìng de",
-          "yil,z"
+          "[yil,z]"
         ],
         [
           "一缕毛发",
@@ -88,7 +88,7 @@ window.BOOK_DATA[2] = {
           "fr/03337.mp3",
           "zh/03337.mp3",
           "yī lǚ máo fà",
-          "file da S(a)vo"
+          "[file da S(a)vo]"
         ],
         [
           "弄乱",
@@ -97,7 +97,7 @@ window.BOOK_DATA[2] = {
           "fr/03338.mp3",
           "zh/03338.mp3",
           "nòng luàn",
-          "bulverse"
+          "[bulverse]"
         ],
         [
           "蓬乱的",
@@ -106,7 +106,7 @@ window.BOOK_DATA[2] = {
           "fr/03339.mp3",
           "zh/03339.mp3",
           "péng luàn de",
-          "efavle"
+          "[efavle]"
         ],
         [
           "混乱",
@@ -115,7 +115,7 @@ window.BOOK_DATA[2] = {
           "fr/03340.mp3",
           "zh/03340.mp3",
           "hùn luàn",
-          "dezordr"
+          "[dezordr]"
         ],
         [
           "假发",
@@ -124,7 +124,7 @@ window.BOOK_DATA[2] = {
           "fr/03341.mp3",
           "zh/03341.mp3",
           "jiǎ fā",
-          "pe(e)ryk"
+          "[pe(e)ryk]"
         ],
         [
           "假发",
@@ -133,7 +133,7 @@ window.BOOK_DATA[2] = {
           "fr/03342.mp3",
           "zh/03342.mp3",
           "jiǎ fā",
-          "posti"
+          "[posti]"
         ],
         [
           "卷发",
@@ -142,7 +142,7 @@ window.BOOK_DATA[2] = {
           "fr/03343.mp3",
           "zh/03343.mp3",
           "juǎn fà",
-          "frizyr"
+          "[frizyr]"
         ],
         [
           "直的",
@@ -151,7 +151,7 @@ window.BOOK_DATA[2] = {
           "fr/03344.mp3",
           "zh/03344.mp3",
           "zhí de",
-          "drwaat"
+          "[drwaat]"
         ],
         [
           "干燥的",
@@ -160,7 +160,7 @@ window.BOOK_DATA[2] = {
           "fr/03345.mp3",
           "zh/03345.mp3",
           "gān zào de",
-          "sek"
+          "[sek]"
         ],
         [
           "稀疏的头发",
@@ -169,7 +169,7 @@ window.BOOK_DATA[2] = {
           "fr/03346.mp3",
           "zh/03346.mp3",
           "xī shū de tóu fà",
-          "[(a)vo rar"
+          "[(a)vo rar]"
         ],
         [
           "副食商场",
@@ -178,7 +178,7 @@ window.BOOK_DATA[2] = {
           "fr/03411.mp3",
           "zh/03411.mp3",
           "fù shí shāng chǎng",
-          "al"
+          "[al]"
         ],
         [
           "店",
@@ -187,7 +187,7 @@ window.BOOK_DATA[2] = {
           "fr/03412.mp3",
           "zh/03412.mp3",
           "diàn",
-          "magazé"
+          "[magazé]"
         ],
         [
           "店",
@@ -196,7 +196,7 @@ window.BOOK_DATA[2] = {
           "fr/03413.mp3",
           "zh/03413.mp3",
           "diàn",
-          "butik"
+          "[butik]"
         ],
         [
           "连锁店",
@@ -205,7 +205,7 @@ window.BOOK_DATA[2] = {
           "fr/03414.mp3",
           "zh/03414.mp3",
           "lián suǒ diàn",
-          "magaz& a sykyrsal"
+          "[magaz& a sykyrsal]"
         ],
         [
           "杂货铺",
@@ -214,7 +214,7 @@ window.BOOK_DATA[2] = {
           "fr/03415.mp3",
           "zh/03415.mp3",
           "zá huò pù",
-          "baza:r"
+          "[baza:r]"
         ],
         [
           "超市",
@@ -223,7 +223,7 @@ window.BOOK_DATA[2] = {
           "fr/03416.mp3",
           "zh/03416.mp3",
           "chāo shì",
-          "sypermarfe"
+          "[sypermarfe]"
         ],
         [
           "书店",
@@ -232,7 +232,7 @@ window.BOOK_DATA[2] = {
           "fr/03417.mp3",
           "zh/03417.mp3",
           "shū diàn",
-          "libre(e)ri"
+          "[libre(e)ri]"
         ],
         [
           "杂货店",
@@ -241,7 +241,7 @@ window.BOOK_DATA[2] = {
           "fr/03418.mp3",
           "zh/03418.mp3",
           "zá huò diàn",
-          "episri"
+          "[episri]"
         ],
         [
           "百货商场",
@@ -250,7 +250,7 @@ window.BOOK_DATA[2] = {
           "fr/03419.mp3",
           "zh/03419.mp3",
           "bǎi huò shāng chǎng",
-          "grämagazé"
+          "[grämagazé]"
         ],
         [
           "五金店",
@@ -259,7 +259,7 @@ window.BOOK_DATA[2] = {
           "fr/03420.mp3",
           "zh/03420.mp3",
           "wǔ jīn diàn",
-          "k&kajri"
+          "[k&kajri]"
         ],
         [
           "珠宝店",
@@ -268,7 +268,7 @@ window.BOOK_DATA[2] = {
           "fr/03421.mp3",
           "zh/03421.mp3",
           "zhū bǎo diàn",
-          "bizutri"
+          "[bizutri]"
         ],
         [
           "当铺",
@@ -277,7 +277,7 @@ window.BOOK_DATA[2] = {
           "fr/03422.mp3",
           "zh/03422.mp3",
           "dàng pù",
-          "m5dpjete"
+          "[m5dpjete]"
         ],
         [
           "茶馆",
@@ -286,7 +286,7 @@ window.BOOK_DATA[2] = {
           "fr/03423.mp3",
           "zh/03423.mp3",
           "chá guǎn",
-          "mez5 da te"
+          "[mez5 da te]"
         ],
         [
           "寄卖商店",
@@ -295,7 +295,7 @@ window.BOOK_DATA[2] = {
           "fr/03424.mp3",
           "zh/03424.mp3",
           "jì mài shāng diàn",
-          "magaz& d(a) komisj5"
+          "[magaz& d(a) komisj5]"
         ],
         [
           "玩具店",
@@ -304,7 +304,7 @@ window.BOOK_DATA[2] = {
           "fr/03425.mp3",
           "zh/03425.mp3",
           "wán jù diàn",
-          "magaz&da 3we"
+          "[magaz&da 3we]"
         ],
         [
           "蔬菜水果店",
@@ -313,7 +313,7 @@ window.BOOK_DATA[2] = {
           "fr/03426.mp3",
           "zh/03426.mp3",
           "shū cài shuǐ guǒ diàn",
-          "marfä d(a legym"
+          "[marfä d(a legym]"
         ],
         [
           "宠物店",
@@ -322,7 +322,7 @@ window.BOOK_DATA[2] = {
           "fr/03427.mp3",
           "zh/03427.mp3",
           "chǒng wù diàn",
-          "animalri"
+          "[animalri]"
         ],
         [
           "肉店",
@@ -331,7 +331,7 @@ window.BOOK_DATA[2] = {
           "fr/03428.mp3",
           "zh/03428.mp3",
           "ròu diàn",
-          "bufri"
+          "[bufri]"
         ],
         [
           "面包店",
@@ -340,7 +340,7 @@ window.BOOK_DATA[2] = {
           "fr/03429.mp3",
           "zh/03429.mp3",
           "miàn bāo diàn",
-          "bulázri"
+          "[bulázri]"
         ],
         [
           "咖啡店",
@@ -349,7 +349,7 @@ window.BOOK_DATA[2] = {
           "fr/03430.mp3",
           "zh/03430.mp3",
           "kā fēi diàn",
-          "kafe"
+          "[kafe]"
         ],
         [
           "家庭",
@@ -358,7 +358,7 @@ window.BOOK_DATA[2] = {
           "fr/04171.mp3",
           "zh/04171.mp3",
           "jiā tíng",
-          "famij"
+          "[famij]"
         ],
         [
           "一家人",
@@ -376,7 +376,7 @@ window.BOOK_DATA[2] = {
           "fr/04173.mp3",
           "zh/04173.mp3",
           "guān xì",
-          "r(a)la(a)sj5"
+          "[r(a)la(a)sj5]"
         ],
         [
           "妻子",
@@ -385,7 +385,7 @@ window.BOOK_DATA[2] = {
           "fr/04174.mp3",
           "zh/04174.mp3",
           "qī zǐ",
-          "fam"
+          "[fam]"
         ],
         [
           "丈夫",
@@ -394,7 +394,7 @@ window.BOOK_DATA[2] = {
           "fr/04175.mp3",
           "zh/04175.mp3",
           "zhàng fū",
-          "mari"
+          "[mari]"
         ],
         [
           "妈妈",
@@ -403,7 +403,7 @@ window.BOOK_DATA[2] = {
           "fr/04176.mp3",
           "zh/04176.mp3",
           "mā mā",
-          "mer"
+          "[mer]"
         ],
         [
           "父亲",
@@ -412,7 +412,7 @@ window.BOOK_DATA[2] = {
           "fr/04177.mp3",
           "zh/04177.mp3",
           "fù qīn",
-          "perr"
+          "[perr]"
         ],
         [
           "儿子",
@@ -421,7 +421,7 @@ window.BOOK_DATA[2] = {
           "fr/04178.mp3",
           "zh/04178.mp3",
           "ér zi",
-          "fis"
+          "[fis]"
         ],
         [
           "女儿",
@@ -430,7 +430,7 @@ window.BOOK_DATA[2] = {
           "fr/04179.mp3",
           "zh/04179.mp3",
           "nǚ ér",
-          "fij"
+          "[fij]"
         ],
         [
           "亲戚",
@@ -439,7 +439,7 @@ window.BOOK_DATA[2] = {
           "fr/04180.mp3",
           "zh/04180.mp3",
           "qīn qī",
-          "de para"
+          "[de para]"
         ],
         [
           "爷爷外公",
@@ -448,7 +448,7 @@ window.BOOK_DATA[2] = {
           "fr/04181.mp3",
           "zh/04181.mp3",
           "yé yé wài gōng",
-          "gräper"
+          "[gräper]"
         ],
         [
           "奶奶姥姥",
@@ -457,7 +457,7 @@ window.BOOK_DATA[2] = {
           "fr/04182.mp3",
           "zh/04182.mp3",
           "nǎi nǎi lǎo lao",
-          "grämer"
+          "[grämer]"
         ],
         [
           "叔叔",
@@ -466,7 +466,7 @@ window.BOOK_DATA[2] = {
           "fr/04183.mp3",
           "zh/04183.mp3",
           "shū shū",
-          "3kl"
+          "[3kl]"
         ],
         [
           "姑母",
@@ -484,7 +484,7 @@ window.BOOK_DATA[2] = {
           "fr/04185.mp3",
           "zh/04185.mp3",
           "qīn jìn de",
-          "familje,c:r"
+          "[familje,c:r]"
         ],
         [
           "亲属",
@@ -493,7 +493,7 @@ window.BOOK_DATA[2] = {
           "fr/04186.mp3",
           "zh/04186.mp3",
           "qīn shǔ",
-          "paráte"
+          "[paráte]"
         ],
         [
           "表兄弟",
@@ -502,7 +502,7 @@ window.BOOK_DATA[2] = {
           "fr/04187.mp3",
           "zh/04187.mp3",
           "biǎo xiōng dì",
-          "kuze"
+          "[kuze]"
         ],
         [
           "侄女",
@@ -511,7 +511,7 @@ window.BOOK_DATA[2] = {
           "fr/04188.mp3",
           "zh/04188.mp3",
           "zhí nǚ",
-          "njes"
+          "[njes]"
         ],
         [
           "",
@@ -520,7 +520,7 @@ window.BOOK_DATA[2] = {
           "fr/04189.mp3",
           "",
           "",
-          "k5fjä:s"
+          "[k5fjä:s]"
         ],
         [
           "侄子窗一家人",
@@ -529,7 +529,7 @@ window.BOOK_DATA[2] = {
           "fr/04190.mp3",
           "zh/04190.mp3",
           "zhí zi chuāng yī jiā rén",
-          "navo"
+          "[navo]"
         ]
       ],
       "s": [
@@ -641,7 +641,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/03351.mp3",
           "mù dì dì",
-          "destinaasj5"
+          "[destinaasj5]"
         ],
         [
           "",
@@ -650,7 +650,7 @@ window.BOOK_DATA[2] = {
           "fr/03352.mp3",
           "",
           "",
-          "parazit"
+          "[parazit]"
         ],
         [
           "多余的",
@@ -668,7 +668,7 @@ window.BOOK_DATA[2] = {
           "fr/03354.mp3",
           "zh/03354.mp3",
           "qì hòu",
-          "klima"
+          "[klima]"
         ],
         [
           "",
@@ -677,7 +677,7 @@ window.BOOK_DATA[2] = {
           "fr/03355.mp3",
           "",
           "",
-          "ktinätal"
+          "[ktinätal]"
         ],
         [
           "大陆性的",
@@ -695,7 +695,7 @@ window.BOOK_DATA[2] = {
           "fr/03434.mp3",
           "",
           "",
-          "mena:3"
+          "[mena:3]"
         ],
         [
           "家务",
@@ -713,7 +713,7 @@ window.BOOK_DATA[2] = {
           "fr/03436.mp3",
           "",
           "",
-          "ekonomik"
+          "[ekonomik]"
         ],
         [
           "经济的",
@@ -731,7 +731,7 @@ window.BOOK_DATA[2] = {
           "fr/03438.mp3",
           "zh/03438.mp3",
           "biān cè",
-          "fwe"
+          "[fwe]"
         ],
         [
           "品牌名称",
@@ -740,7 +740,7 @@ window.BOOK_DATA[2] = {
           "fr/03439.mp3",
           "zh/03439.mp3",
           "pǐn pái míng chēng",
-          "lyks"
+          "[lyks]"
         ],
         [
           "",
@@ -749,7 +749,7 @@ window.BOOK_DATA[2] = {
           "fr/03440.mp3",
           "",
           "",
-          "eparne"
+          "[eparne]"
         ],
         [
           "节省节约",
@@ -767,7 +767,7 @@ window.BOOK_DATA[2] = {
           "fr/04195.mp3",
           "zh/04195.mp3",
           "kǒu lián hé de",
-          "alje"
+          "[alje]"
         ],
         [
           "",
@@ -776,7 +776,7 @@ window.BOOK_DATA[2] = {
           "fr/04196.mp3",
           "",
           "",
-          "kviksj5"
+          "[kviksj5]"
         ],
         [
           "信心",
@@ -803,7 +803,7 @@ window.BOOK_DATA[2] = {
           "fr/04199.mp3",
           "zh/04199.mp3",
           "kuān róng",
-          "tolere"
+          "[tolere]"
         ]
       ]
     },
@@ -818,7 +818,7 @@ window.BOOK_DATA[2] = {
           "fr/03357.mp3",
           "zh/03357.mp3",
           "lǐ fà diàn",
-          "sal5 d(a kwafy:r"
+          "[sal5 d(a kwafy:r]"
         ],
         [
           "理发师",
@@ -827,7 +827,7 @@ window.BOOK_DATA[2] = {
           "fr/03358.mp3",
           "zh/03358.mp3",
           "lǐ fà shī",
-          "artist kapil(l)e:r"
+          "[artist kapil(l)e:r]"
         ],
         [
           "理发师",
@@ -836,7 +836,7 @@ window.BOOK_DATA[2] = {
           "fr/03359.mp3",
           "zh/03359.mp3",
           "lǐ fà shī",
-          "barbje"
+          "[barbje]"
         ],
         [
           "理发",
@@ -845,7 +845,7 @@ window.BOOK_DATA[2] = {
           "fr/03360.mp3",
           "zh/03360.mp3",
           "lǐ fà",
-          "safe:r kupe le S(a)va"
+          "[safe:r kupe le S(a)va]"
         ],
         [
           "发型",
@@ -854,7 +854,7 @@ window.BOOK_DATA[2] = {
           "fr/03361.mp3",
           "zh/03361.mp3",
           "fà xíng",
-          "kwafy:r"
+          "[kwafy:r]"
         ],
         [
           "发型",
@@ -863,7 +863,7 @@ window.BOOK_DATA[2] = {
           "fr/03362.mp3",
           "zh/03362.mp3",
           "fà xíng",
-          "kup"
+          "[kup]"
         ],
         [
           "理发",
@@ -872,7 +872,7 @@ window.BOOK_DATA[2] = {
           "fr/03363.mp3",
           "zh/03363.mp3",
           "lǐ fà",
-          "kup de a)vo"
+          "[kup de a)vo]"
         ],
         [
           "理发",
@@ -881,7 +881,7 @@ window.BOOK_DATA[2] = {
           "fr/03364.mp3",
           "zh/03364.mp3",
           "lǐ fà",
-          "kwafe"
+          "[kwafe]"
         ],
         [
           "修剪",
@@ -890,7 +890,7 @@ window.BOOK_DATA[2] = {
           "fr/03365.mp3",
           "zh/03365.mp3",
           "xiū jiǎn",
-          "taaje"
+          "[taaje]"
         ],
         [
           "平头",
@@ -908,7 +908,7 @@ window.BOOK_DATA[2] = {
           "fr/03367.mp3",
           "zh/03367.mp3",
           "liú hǎi er",
-          "frá"
+          "[frá]"
         ],
         [
           "剪",
@@ -917,7 +917,7 @@ window.BOOK_DATA[2] = {
           "fr/03368.mp3",
           "zh/03368.mp3",
           "jiǎn",
-          "t5dr"
+          "[t5dr]"
         ],
         [
           "卷曲的",
@@ -926,7 +926,7 @@ window.BOOK_DATA[2] = {
           "fr/03369.mp3",
           "zh/03369.mp3",
           "juǎn qū de",
-          "frize"
+          "[frize]"
         ],
         [
           "烫发",
@@ -935,7 +935,7 @@ window.BOOK_DATA[2] = {
           "fr/03370.mp3",
           "zh/03370.mp3",
           "tàng fà",
-          "frize le avo"
+          "[frize le avo]"
         ],
         [
           "分开",
@@ -944,7 +944,7 @@ window.BOOK_DATA[2] = {
           "fr/03371.mp3",
           "zh/03371.mp3",
           "fēn kāi",
-          "divizj5"
+          "[divizj5]"
         ],
         [
           "分开",
@@ -953,7 +953,7 @@ window.BOOK_DATA[2] = {
           "fr/03372.mp3",
           "zh/03372.mp3",
           "fēn kāi",
-          "separe"
+          "[separe]"
         ],
         [
           "边",
@@ -962,7 +962,7 @@ window.BOOK_DATA[2] = {
           "fr/03373.mp3",
           "zh/03373.mp3",
           "biān",
-          "urle"
+          "[urle]"
         ],
         [
           "中央",
@@ -971,7 +971,7 @@ window.BOOK_DATA[2] = {
           "fr/03374.mp3",
           "zh/03374.mp3",
           "zhōng yāng",
-          "milja"
+          "[milja]"
         ],
         [
           "电脑",
@@ -989,7 +989,7 @@ window.BOOK_DATA[2] = {
           "fr/04090.mp3",
           "zh/04090.mp3",
           "jiàn pán",
-          "klavje"
+          "[klavje]"
         ],
         [
           "笔记本",
@@ -998,7 +998,7 @@ window.BOOK_DATA[2] = {
           "fr/04091.mp3",
           "zh/04091.mp3",
           "bǐ jì běn",
-          "portabl"
+          "[portabl]"
         ],
         [
           "平板电脑",
@@ -1007,7 +1007,7 @@ window.BOOK_DATA[2] = {
           "fr/04092.mp3",
           "zh/04092.mp3",
           "píng bǎn diàn nǎo",
-          "tablot"
+          "[tablot]"
         ],
         [
           "数据",
@@ -1016,7 +1016,7 @@ window.BOOK_DATA[2] = {
           "fr/04093.mp3",
           "zh/04093.mp3",
           "shù jù",
-          "data"
+          "[data]"
         ],
         [
           "黑客",
@@ -1025,7 +1025,7 @@ window.BOOK_DATA[2] = {
           "fr/04094.mp3",
           "zh/04094.mp3",
           "hēi kè",
-          "pirat"
+          "[pirat]"
         ],
         [
           "硬件",
@@ -1034,7 +1034,7 @@ window.BOOK_DATA[2] = {
           "fr/04095.mp3",
           "zh/04095.mp3",
           "yìng jiàn",
-          "materjel"
+          "[materjel]"
         ],
         [
           "软件",
@@ -1043,7 +1043,7 @@ window.BOOK_DATA[2] = {
           "fr/04096.mp3",
           "zh/04096.mp3",
           "ruǎn jiàn",
-          "lzisjel"
+          "[lzisjel]"
         ],
         [
           "鼠标",
@@ -1052,7 +1052,7 @@ window.BOOK_DATA[2] = {
           "fr/04097.mp3",
           "zh/04097.mp3",
           "shǔ biāo",
-          "suri"
+          "[suri]"
         ],
         [
           "联机的",
@@ -1061,7 +1061,7 @@ window.BOOK_DATA[2] = {
           "fr/04098.mp3",
           "zh/04098.mp3",
           "lián jī de",
-          "ä lin"
+          "[ä lin]"
         ],
         [
           "脱机的阁程序",
@@ -1070,7 +1070,7 @@ window.BOOK_DATA[2] = {
           "fr/04099.mp3",
           "zh/04099.mp3",
           "tuō jī de gé chéng xù",
-          "program"
+          "[program]"
         ],
         [
           "窗口",
@@ -1079,7 +1079,7 @@ window.BOOK_DATA[2] = {
           "fr/04100.mp3",
           "zh/04100.mp3",
           "chuāng kǒu",
-          "apertyr"
+          "[apertyr]"
         ],
         [
           "缩放",
@@ -1088,7 +1088,7 @@ window.BOOK_DATA[2] = {
           "fr/04101.mp3",
           "zh/04101.mp3",
           "suō fàng",
-          "k5dása(a)sj5"
+          "[k5dása(a)sj5]"
         ],
         [
           "同步",
@@ -1097,7 +1097,7 @@ window.BOOK_DATA[2] = {
           "fr/04102.mp3",
           "zh/04102.mp3",
           "tóng bù",
-          "s&kroniza(a)sj5"
+          "[s&kroniza(a)sj5]"
         ],
         [
           "打印机",
@@ -1106,7 +1106,7 @@ window.BOOK_DATA[2] = {
           "fr/04103.mp3",
           "zh/04103.mp3",
           "dǎ yìn jī",
-          "mafin d&primri"
+          "[mafin d&primri]"
         ],
         [
           "网络",
@@ -1115,7 +1115,7 @@ window.BOOK_DATA[2] = {
           "fr/04104.mp3",
           "zh/04104.mp3",
           "wǎng luò",
-          "rezo"
+          "[rezo]"
         ],
         [
           "无线的",
@@ -1124,7 +1124,7 @@ window.BOOK_DATA[2] = {
           "fr/04105.mp3",
           "zh/04105.mp3",
           "wú xiàn de",
-          "säfil"
+          "[säfil]"
         ]
       ],
       "s": [
@@ -1218,7 +1218,7 @@ window.BOOK_DATA[2] = {
           "fr/03380.mp3",
           "",
           "",
-          "manykyre"
+          "[manykyre]"
         ],
         [
           "指甲护理",
@@ -1236,7 +1236,7 @@ window.BOOK_DATA[2] = {
           "fr/03382.mp3",
           "zh/03382.mp3",
           "gěi shū tóu",
-          "kwafe"
+          "[kwafe]"
         ],
         [
           "魅力",
@@ -1245,7 +1245,7 @@ window.BOOK_DATA[2] = {
           "fr/03383.mp3",
           "zh/03383.mp3",
           "mèi lì",
-          "glxma"
+          "[glxma]"
         ],
         [
           "理发",
@@ -1263,7 +1263,7 @@ window.BOOK_DATA[2] = {
           "fr/04110.mp3",
           "zh/04110.mp3",
           "qīn rù",
-          "ävair"
+          "[ävair]"
         ],
         [
           "",
@@ -1272,7 +1272,7 @@ window.BOOK_DATA[2] = {
           "fr/04111.mp3",
           "",
           "",
-          "abityelmá"
+          "[abityelmá]"
         ],
         [
           "通常一般",
@@ -1290,7 +1290,7 @@ window.BOOK_DATA[2] = {
           "fr/04113.mp3",
           "zh/04113.mp3",
           "xuǎn jí",
-          "ekstre"
+          "[ekstre]"
         ],
         [
           "",
@@ -1299,7 +1299,7 @@ window.BOOK_DATA[2] = {
           "fr/04114.mp3",
           "",
           "",
-          "pyblisite"
+          "[pyblisite]"
         ],
         [
           "广告",
@@ -1323,7 +1323,7 @@ window.BOOK_DATA[2] = {
           "fr/01567.mp3",
           "zh/01567.mp3",
           "fú shǒu tī",
-          "eskalje avek rásp"
+          "[eskalje avek rásp]"
         ],
         [
           "电梯",
@@ -1332,7 +1332,7 @@ window.BOOK_DATA[2] = {
           "fr/01568.mp3",
           "zh/01568.mp3",
           "diàn tī",
-          "asascir"
+          "[asascir]"
         ],
         [
           "楼梯",
@@ -1341,7 +1341,7 @@ window.BOOK_DATA[2] = {
           "fr/01569.mp3",
           "zh/01569.mp3",
           "lóu tī",
-          "eskalje"
+          "[eskalje]"
         ],
         [
           "栏杆",
@@ -1350,7 +1350,7 @@ window.BOOK_DATA[2] = {
           "fr/01570.mp3",
           "zh/01570.mp3",
           "lán gān",
-          "parape"
+          "[parape]"
         ],
         [
           "楼梯段",
@@ -1359,7 +1359,7 @@ window.BOOK_DATA[2] = {
           "fr/01571.mp3",
           "zh/01571.mp3",
           "lóu tī duàn",
-          "vole deskalje"
+          "[vole deskalje]"
         ],
         [
           "螺旋形的",
@@ -1368,7 +1368,7 @@ window.BOOK_DATA[2] = {
           "fr/01572.mp3",
           "zh/01572.mp3",
           "luó xuán xíng de",
-          "elikoid"
+          "[elikoid]"
         ],
         [
           "眩晕的",
@@ -1377,7 +1377,7 @@ window.BOOK_DATA[2] = {
           "fr/01573.mp3",
           "zh/01573.mp3",
           "xuàn yūn de",
-          "verti"
+          "[verti]"
         ],
         [
           "一步",
@@ -1386,7 +1386,7 @@ window.BOOK_DATA[2] = {
           "fr/01574.mp3",
           "zh/01574.mp3",
           "yī bù",
-          "paa"
+          "[paa]"
         ],
         [
           "扶手",
@@ -1395,7 +1395,7 @@ window.BOOK_DATA[2] = {
           "fr/01575.mp3",
           "zh/01575.mp3",
           "fú shǒu",
-          "apyi"
+          "[apyi]"
         ],
         [
           "栏杆",
@@ -1404,7 +1404,7 @@ window.BOOK_DATA[2] = {
           "fr/01576.mp3",
           "zh/01576.mp3",
           "lán gān",
-          "balystrad"
+          "[balystrad]"
         ],
         [
           "故障短缺少某物",
@@ -1413,7 +1413,7 @@ window.BOOK_DATA[2] = {
           "fr/01577.mp3",
           "zh/01577.mp3",
           "gù zhàng duǎn quē shǎo mǒu wù",
-          "pan"
+          "[pan]"
         ],
         [
           "楼下励出故障",
@@ -1422,7 +1422,7 @@ window.BOOK_DATA[2] = {
           "fr/01578.mp3",
           "zh/01578.mp3",
           "lóu xià lì chū gù zhàng",
-          "dasu"
+          "[dasu]"
         ],
         [
           "修理",
@@ -1431,7 +1431,7 @@ window.BOOK_DATA[2] = {
           "fr/01579.mp3",
           "zh/01579.mp3",
           "xiū lǐ",
-          "repare"
+          "[repare]"
         ],
         [
           "楼层",
@@ -1440,7 +1440,7 @@ window.BOOK_DATA[2] = {
           "fr/01580.mp3",
           "zh/01580.mp3",
           "lóu céng",
-          "eta"
+          "[eta]"
         ],
         [
           "纤",
@@ -1449,7 +1449,7 @@ window.BOOK_DATA[2] = {
           "fr/01581.mp3",
           "zh/01581.mp3",
           "xiān",
-          "ätrave"
+          "[ätrave]"
         ],
         [
           "摔倒",
@@ -1458,7 +1458,7 @@ window.BOOK_DATA[2] = {
           "fr/01582.mp3",
           "zh/01582.mp3",
           "shuāi dǎo",
-          "t5be"
+          "[t5be]"
         ],
         [
           "洗发水客头发养护",
@@ -1467,7 +1467,7 @@ window.BOOK_DATA[2] = {
           "fr/03385.mp3",
           "zh/03385.mp3",
           "xǐ fà shuǐ kè tóu fà yǎng hù",
-          "[äpwé"
+          "[äpwé]"
         ],
         [
           "发夹",
@@ -1476,7 +1476,7 @@ window.BOOK_DATA[2] = {
           "fr/03386.mp3",
           "zh/03386.mp3",
           "fā jiā",
-          "ep&:gl aSava"
+          "[ep&:gl aSava]"
         ],
         [
           "卷起",
@@ -1485,7 +1485,7 @@ window.BOOK_DATA[2] = {
           "fr/03387.mp3",
           "zh/03387.mp3",
           "juǎn qǐ",
-          "r(a)trusma"
+          "[r(a)trusma]"
         ],
         [
           "乳胶",
@@ -1494,7 +1494,7 @@ window.BOOK_DATA[2] = {
           "fr/03388.mp3",
           "zh/03388.mp3",
           "rǔ jiāo",
-          "emylsjδ"
+          "[emylsjδ]"
         ],
         [
           "吹风机",
@@ -1503,7 +1503,7 @@ window.BOOK_DATA[2] = {
           "fr/03389.mp3",
           "zh/03389.mp3",
           "chuī fēng jī",
-          "sefwair a J(a)vo"
+          "[sefwair a J(a)vo]"
         ],
         [
           "吹风机",
@@ -1512,7 +1512,7 @@ window.BOOK_DATA[2] = {
           "fr/03390.mp3",
           "zh/03390.mp3",
           "chuī fēng jī",
-          "seffavo"
+          "[seffavo]"
         ],
         [
           "护发素",
@@ -1521,7 +1521,7 @@ window.BOOK_DATA[2] = {
           "fr/03391.mp3",
           "zh/03391.mp3",
           "hù fà sù",
-          "kšdisjöncr"
+          "[kšdisjöncr]"
         ],
         [
           "发蜡",
@@ -1530,7 +1530,7 @@ window.BOOK_DATA[2] = {
           "fr/03392.mp3",
           "zh/03392.mp3",
           "fà là",
-          "pomad"
+          "[pomad]"
         ],
         [
           "护法用品",
@@ -1539,7 +1539,7 @@ window.BOOK_DATA[2] = {
           "fr/03393.mp3",
           "zh/03393.mp3",
           "hù fǎ yòng pǐn",
-          "artikl pur kdisjone le S(a)va"
+          "[artikl pur kdisjone le S(a)va]"
         ],
         [
           "夹子",
@@ -1548,7 +1548,7 @@ window.BOOK_DATA[2] = {
           "fr/03394.mp3",
           "zh/03394.mp3",
           "jiā zi",
-          "p&s"
+          "[p&s]"
         ],
         [
           "软化",
@@ -1557,7 +1557,7 @@ window.BOOK_DATA[2] = {
           "fr/03395.mp3",
           "zh/03395.mp3",
           "ruǎn huà",
-          "amoli:r"
+          "[amoli:r]"
         ],
         [
           "定型摩丝",
@@ -1566,7 +1566,7 @@ window.BOOK_DATA[2] = {
           "fr/03396.mp3",
           "zh/03396.mp3",
           "dìng xíng mó sī",
-          "mus kwafat"
+          "[mus kwafat]"
         ],
         [
           "染色",
@@ -1575,7 +1575,7 @@ window.BOOK_DATA[2] = {
           "fr/03397.mp3",
           "zh/03397.mp3",
           "rǎn sè",
-          "kolorasj5"
+          "[kolorasj5]"
         ],
         [
           "剪刀",
@@ -1584,7 +1584,7 @@ window.BOOK_DATA[2] = {
           "fr/03398.mp3",
           "zh/03398.mp3",
           "jiǎn dāo",
-          "sizo"
+          "[sizo]"
         ],
         [
           "冲洗",
@@ -1593,7 +1593,7 @@ window.BOOK_DATA[2] = {
           "fr/03399.mp3",
           "zh/03399.mp3",
           "chōng xǐ",
-          "r&se"
+          "[r&se]"
         ],
         [
           "梳理",
@@ -1602,7 +1602,7 @@ window.BOOK_DATA[2] = {
           "fr/03400.mp3",
           "zh/03400.mp3",
           "shū lǐ",
-          "deme(e)le"
+          "[deme(e)le]"
         ],
         [
           "网",
@@ -1611,7 +1611,7 @@ window.BOOK_DATA[2] = {
           "fr/04116.mp3",
           "zh/04116.mp3",
           "wǎng",
-          "ternet"
+          "[ternet]"
         ],
         [
           "网页",
@@ -1620,7 +1620,7 @@ window.BOOK_DATA[2] = {
           "fr/04117.mp3",
           "zh/04117.mp3",
           "wǎng yè",
-          "netpaz"
+          "[netpaz]"
         ],
         [
           "主页",
@@ -1638,7 +1638,7 @@ window.BOOK_DATA[2] = {
           "fr/04119.mp3",
           "zh/04119.mp3",
           "fú wù qì",
-          "servcer"
+          "[servcer]"
         ],
         [
           "点击数",
@@ -1647,7 +1647,7 @@ window.BOOK_DATA[2] = {
           "fr/04120.mp3",
           "zh/04120.mp3",
           "diǎn jī shù",
-          "afifaz"
+          "[afifaz]"
         ],
         [
           "网上冲浪",
@@ -1656,7 +1656,7 @@ window.BOOK_DATA[2] = {
           "fr/04121.mp3",
           "zh/04121.mp3",
           "wǎng shàng chōng làng",
-          "scerfe"
+          "[scerfe]"
         ],
         [
           "注销",
@@ -1665,7 +1665,7 @@ window.BOOK_DATA[2] = {
           "fr/04122.mp3",
           "zh/04122.mp3",
           "zhù xiāo",
-          "anyle"
+          "[anyle]"
         ],
         [
           "网民",
@@ -1674,7 +1674,7 @@ window.BOOK_DATA[2] = {
           "fr/04123.mp3",
           "zh/04123.mp3",
           "wǎng mín",
-          "aternot"
+          "[aternot]"
         ],
         [
           "页面浏览人数",
@@ -1683,7 +1683,7 @@ window.BOOK_DATA[2] = {
           "fr/04124.mp3",
           "zh/04124.mp3",
           "yè miàn liú lǎn rén shù",
-          "nbr da pa3 vy"
+          "[nbr da pa3 vy]"
         ],
         [
           "刷新",
@@ -1692,7 +1692,7 @@ window.BOOK_DATA[2] = {
           "fr/04125.mp3",
           "zh/04125.mp3",
           "shuā xīn",
-          "ranuvle"
+          "[ranuvle]"
         ],
         [
           "源文件",
@@ -1701,7 +1701,7 @@ window.BOOK_DATA[2] = {
           "fr/04126.mp3",
           "zh/04126.mp3",
           "yuán wén jiàn",
-          "fifje surs"
+          "[fifje surs]"
         ],
         [
           "视频点播",
@@ -1710,7 +1710,7 @@ window.BOOK_DATA[2] = {
           "fr/04127.mp3",
           "zh/04127.mp3",
           "shì pín diǎn bō",
-          "video a la d(a)má:d"
+          "[video a la d(a)má:d]"
         ],
         [
           "网络管理员",
@@ -1719,7 +1719,7 @@ window.BOOK_DATA[2] = {
           "fr/04128.mp3",
           "zh/04128.mp3",
           "wǎng luò guǎn lǐ yuán",
-          "metr da la twal"
+          "[metr da la twal]"
         ],
         [
           "浏览器",
@@ -1728,7 +1728,7 @@ window.BOOK_DATA[2] = {
           "fr/04129.mp3",
           "zh/04129.mp3",
           "liú lǎn qì",
-          "'brauze"
+          "['brauze]"
         ],
         [
           "联系",
@@ -1737,7 +1737,7 @@ window.BOOK_DATA[2] = {
           "fr/04130.mp3",
           "zh/04130.mp3",
           "lián xì",
-          "konekte"
+          "[konekte]"
         ]
       ],
       "s": [
@@ -1876,7 +1876,7 @@ window.BOOK_DATA[2] = {
           "fr/01588.mp3",
           "",
           "",
-          "sinifje"
+          "[sinifje]"
         ],
         [
           "意味着",
@@ -1894,7 +1894,7 @@ window.BOOK_DATA[2] = {
           "fr/01590.mp3",
           "",
           "",
-          "f5ksjone"
+          "[f5ksjone]"
         ],
         [
           "起作用",
@@ -1912,7 +1912,7 @@ window.BOOK_DATA[2] = {
           "fr/01592.mp3",
           "",
           "",
-          "äs&t"
+          "[äs&t]"
         ],
         [
           "怀孕的",
@@ -1930,7 +1930,7 @@ window.BOOK_DATA[2] = {
           "fr/01594.mp3",
           "zh/01594.mp3",
           "chuán zhī",
-          "naivre"
+          "[naivre]"
         ],
         [
           "",
@@ -1939,7 +1939,7 @@ window.BOOK_DATA[2] = {
           "fr/01595.mp3",
           "",
           "",
-          "trwa(a)zjem"
+          "[trwa(a)zjem]"
         ],
         [
           "第三",
@@ -1975,7 +1975,7 @@ window.BOOK_DATA[2] = {
           "fr/03408.mp3",
           "zh/03408.mp3",
           "gōng diàn",
-          "pale"
+          "[pale]"
         ],
         [
           "祈福祷告",
@@ -1984,7 +1984,7 @@ window.BOOK_DATA[2] = {
           "fr/03409.mp3",
           "zh/03409.mp3",
           "qí fú dǎo gào",
-          "prije"
+          "[prije]"
         ],
         [
           "吹风机",
@@ -2002,7 +2002,7 @@ window.BOOK_DATA[2] = {
           "fr/04135.mp3",
           "",
           "",
-          "liseen"
+          "[liseen]"
         ],
         [
           "公立高中学生",
@@ -2020,7 +2020,7 @@ window.BOOK_DATA[2] = {
           "fr/04137.mp3",
           "zh/04137.mp3",
           "zī xún",
-          "ksylte"
+          "[ksylte]"
         ],
         [
           "稀释",
@@ -2029,7 +2029,7 @@ window.BOOK_DATA[2] = {
           "fr/04138.mp3",
           "zh/04138.mp3",
           "xī shì",
-          "dilye"
+          "[dilye]"
         ],
         [
           "",
@@ -2038,7 +2038,7 @@ window.BOOK_DATA[2] = {
           "fr/04139.mp3",
           "",
           "",
-          "gaz,z"
+          "[gaz,z]"
         ],
         [
           "气体的",
@@ -2062,7 +2062,7 @@ window.BOOK_DATA[2] = {
           "fr/01597.mp3",
           "zh/01597.mp3",
           "lóu tī liáng",
-          "eifr"
+          "[eifr]"
         ],
         [
           "楼梯井",
@@ -2071,7 +2071,7 @@ window.BOOK_DATA[2] = {
           "fr/01598.mp3",
           "zh/01598.mp3",
           "lóu tī jǐng",
-          "ka:3 deskalje"
+          "[ka:3 deskalje]"
         ],
         [
           "狭窄的",
@@ -2080,7 +2080,7 @@ window.BOOK_DATA[2] = {
           "fr/01599.mp3",
           "zh/01599.mp3",
           "xiá zhǎi de",
-          "etrike"
+          "[etrike]"
         ],
         [
           "宽的",
@@ -2089,7 +2089,7 @@ window.BOOK_DATA[2] = {
           "fr/01600.mp3",
           "zh/01600.mp3",
           "kuān de",
-          "lar3"
+          "[lar3]"
         ],
         [
           "楼梯平台",
@@ -2098,7 +2098,7 @@ window.BOOK_DATA[2] = {
           "fr/01601.mp3",
           "zh/01601.mp3",
           "lóu tī píng tái",
-          "palje"
+          "[palje]"
         ],
         [
           "通风口",
@@ -2107,7 +2107,7 @@ window.BOOK_DATA[2] = {
           "fr/01602.mp3",
           "zh/01602.mp3",
           "tōng fēng kǒu",
-          "trš:p de vatilasjo"
+          "[trš:p de vatilasjo]"
         ],
         [
           "改变",
@@ -2116,7 +2116,7 @@ window.BOOK_DATA[2] = {
           "fr/01603.mp3",
           "zh/01603.mp3",
           "gǎi biàn",
-          "träsforme"
+          "[träsforme]"
         ],
         [
           "明亮的",
@@ -2125,7 +2125,7 @@ window.BOOK_DATA[2] = {
           "fr/01604.mp3",
           "zh/01604.mp3",
           "míng liàng de",
-          "kler"
+          "[kler]"
         ],
         [
           "昏暗的",
@@ -2134,7 +2134,7 @@ window.BOOK_DATA[2] = {
           "fr/01605.mp3",
           "zh/01605.mp3",
           "hūn àn de",
-          "sinistr"
+          "[sinistr]"
         ],
         [
           "凌乱",
@@ -2143,7 +2143,7 @@ window.BOOK_DATA[2] = {
           "fr/01606.mp3",
           "zh/01606.mp3",
           "líng luàn",
-          "dezordone"
+          "[dezordone]"
         ],
         [
           "杂乱",
@@ -2152,7 +2152,7 @@ window.BOOK_DATA[2] = {
           "fr/01607.mp3",
           "zh/01607.mp3",
           "zá luàn",
-          "pelmel"
+          "[pelmel]"
         ],
         [
           "笨重地",
@@ -2161,7 +2161,7 @@ window.BOOK_DATA[2] = {
           "fr/01608.mp3",
           "zh/01608.mp3",
           "bèn zhòng dì",
-          "pazamá"
+          "[pazamá]"
         ],
         [
           "出去",
@@ -2170,7 +2170,7 @@ window.BOOK_DATA[2] = {
           "fr/01609.mp3",
           "zh/01609.mp3",
           "chū qù",
-          "sortir"
+          "[sortir]"
         ],
         [
           "宽的",
@@ -2179,7 +2179,7 @@ window.BOOK_DATA[2] = {
           "fr/01610.mp3",
           "zh/01610.mp3",
           "kuān de",
-          "spasj,:z"
+          "[spasj,:z]"
         ],
         [
           "狭小的",
@@ -2188,7 +2188,7 @@ window.BOOK_DATA[2] = {
           "fr/01611.mp3",
           "zh/01611.mp3",
           "xiá xiǎo de",
-          "etrwa, t"
+          "[etrwa, t]"
         ],
         [
           "闲置的",
@@ -2197,7 +2197,7 @@ window.BOOK_DATA[2] = {
           "fr/01612.mp3",
           "zh/01612.mp3",
           "xián zhì de",
-          "libr"
+          "[libr]"
         ],
         [
           "杂物",
@@ -2206,7 +2206,7 @@ window.BOOK_DATA[2] = {
           "fr/01613.mp3",
           "zh/01613.mp3",
           "zá wù",
-          "bastrê:g"
+          "[bastrê:g]"
         ],
         [
           "博客",
@@ -2215,7 +2215,7 @@ window.BOOK_DATA[2] = {
           "fr/04141.mp3",
           "zh/04141.mp3",
           "bó kè",
-          "blg"
+          "[blg]"
         ],
         [
           "微博",
@@ -2224,7 +2224,7 @@ window.BOOK_DATA[2] = {
           "fr/04142.mp3",
           "zh/04142.mp3",
           "wēi bó",
-          "mikr5bl5"
+          "[mikr5bl5]"
         ],
         [
           "订阅",
@@ -2233,7 +2233,7 @@ window.BOOK_DATA[2] = {
           "fr/04143.mp3",
           "zh/04143.mp3",
           "dìng yuè",
-          "abone"
+          "[abone]"
         ],
         [
           "隐藏",
@@ -2242,7 +2242,7 @@ window.BOOK_DATA[2] = {
           "fr/04144.mp3",
           "zh/04144.mp3",
           "yǐn cáng",
-          "kae"
+          "[kae]"
         ],
         [
           "用户名",
@@ -2251,7 +2251,7 @@ window.BOOK_DATA[2] = {
           "fr/04145.mp3",
           "zh/04145.mp3",
           "yòng hù míng",
-          "n d ytilizatcer"
+          "[n d ytilizatcer]"
         ],
         [
           "评论",
@@ -2260,7 +2260,7 @@ window.BOOK_DATA[2] = {
           "fr/04146.mp3",
           "zh/04146.mp3",
           "píng lùn",
-          "kritike"
+          "[kritike]"
         ],
         [
           "回复",
@@ -2269,7 +2269,7 @@ window.BOOK_DATA[2] = {
           "fr/04147.mp3",
           "zh/04147.mp3",
           "huí fù",
-          "repšdr"
+          "[repšdr]"
         ],
         [
           "文章",
@@ -2278,7 +2278,7 @@ window.BOOK_DATA[2] = {
           "fr/04148.mp3",
           "zh/04148.mp3",
           "wén zhāng",
-          "artikl"
+          "[artikl]"
         ],
         [
           "退出",
@@ -2287,7 +2287,7 @@ window.BOOK_DATA[2] = {
           "fr/04149.mp3",
           "zh/04149.mp3",
           "tuì chū",
-          "kite"
+          "[kite]"
         ],
         [
           "注册",
@@ -2296,7 +2296,7 @@ window.BOOK_DATA[2] = {
           "fr/04150.mp3",
           "zh/04150.mp3",
           "zhù cè",
-          "depoze"
+          "[depoze]"
         ],
         [
           "邮件",
@@ -2305,7 +2305,7 @@ window.BOOK_DATA[2] = {
           "fr/04151.mp3",
           "zh/04151.mp3",
           "yóu jiàn",
-          "kurje"
+          "[kurje]"
         ],
         [
           "电子邮件",
@@ -2314,7 +2314,7 @@ window.BOOK_DATA[2] = {
           "fr/04152.mp3",
           "zh/04152.mp3",
           "diàn zi yóu jiàn",
-          "imel"
+          "[imel]"
         ],
         [
           "删除",
@@ -2323,7 +2323,7 @@ window.BOOK_DATA[2] = {
           "fr/04153.mp3",
           "zh/04153.mp3",
           "shān chú",
-          "syprime"
+          "[syprime]"
         ],
         [
           "发送",
@@ -2332,7 +2332,7 @@ window.BOOK_DATA[2] = {
           "fr/04154.mp3",
           "zh/04154.mp3",
           "fā sòng",
-          "emetr"
+          "[emetr]"
         ],
         [
           "取消",
@@ -2341,7 +2341,7 @@ window.BOOK_DATA[2] = {
           "fr/04155.mp3",
           "zh/04155.mp3",
           "qǔ xiāo",
-          "anyle"
+          "[anyle]"
         ],
         [
           "新词",
@@ -2350,7 +2350,7 @@ window.BOOK_DATA[2] = {
           "fr/04156.mp3",
           "zh/04156.mp3",
           "xīn cí",
-          "neolozism"
+          "[neolozism]"
         ]
       ],
       "s": [
@@ -2417,7 +2417,7 @@ window.BOOK_DATA[2] = {
           "fr/01616.mp3",
           "",
           "",
-          "dese(eni"
+          "[dese(eni]"
         ],
         [
           "十年",
@@ -2435,7 +2435,7 @@ window.BOOK_DATA[2] = {
           "fr/01618.mp3",
           "",
           "",
-          "dezorme"
+          "[dezorme]"
         ],
         [
           "今后",
@@ -2471,7 +2471,7 @@ window.BOOK_DATA[2] = {
           "fr/01622.mp3",
           "zh/01622.mp3",
           "xiǎo xī",
-          "ryiso"
+          "[ryiso]"
         ],
         [
           "",
@@ -2480,7 +2480,7 @@ window.BOOK_DATA[2] = {
           "fr/04161.mp3",
           "",
           "",
-          "pratike"
+          "[pratike]"
         ],
         [
           "实施实行",
@@ -2498,7 +2498,7 @@ window.BOOK_DATA[2] = {
           "fr/04163.mp3",
           "",
           "",
-          "opstakl"
+          "[opstakl]"
         ],
         [
           "障碍",
@@ -2525,7 +2525,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/04166.mp3",
           "shāng rén",
-          "marfäad"
+          "[marfäad]"
         ],
         [
           "几乎不",
@@ -2534,7 +2534,7 @@ window.BOOK_DATA[2] = {
           "fr/04167.mp3",
           "zh/04167.mp3",
           "jī hū bù",
-          "ger"
+          "[ger]"
         ],
         [
           "",
@@ -2552,7 +2552,7 @@ window.BOOK_DATA[2] = {
           "",
           "",
           "",
-          "komynika(a)sj5"
+          "[komynika(a)sj5]"
         ],
         [
           "联络联系",
@@ -2576,7 +2576,7 @@ window.BOOK_DATA[2] = {
           "fr/01623.mp3",
           "zh/01623.mp3",
           "mén",
-          "port"
+          "[port]"
         ],
         [
           "大门",
@@ -2585,7 +2585,7 @@ window.BOOK_DATA[2] = {
           "fr/01624.mp3",
           "zh/01624.mp3",
           "dà mén",
-          "portaj"
+          "[portaj]"
         ],
         [
           "入口",
@@ -2594,7 +2594,7 @@ window.BOOK_DATA[2] = {
           "fr/01625.mp3",
           "zh/01625.mp3",
           "rù kǒu",
-          "ätre"
+          "[ätre]"
         ],
         [
           "前门",
@@ -2603,7 +2603,7 @@ window.BOOK_DATA[2] = {
           "fr/01626.mp3",
           "zh/01626.mp3",
           "qián mén",
-          "part da da)vá"
+          "[part da da)vá]"
         ],
         [
           "后门",
@@ -2612,7 +2612,7 @@ window.BOOK_DATA[2] = {
           "fr/01627.mp3",
           "zh/01627.mp3",
           "hòu mén",
-          "port daderjeir"
+          "[port daderjeir]"
         ],
         [
           "猫洞",
@@ -2630,7 +2630,7 @@ window.BOOK_DATA[2] = {
           "fr/01629.mp3",
           "zh/01629.mp3",
           "xuán zhuǎn mén",
-          "turnike"
+          "[turnike]"
         ],
         [
           "自动门",
@@ -2639,7 +2639,7 @@ window.BOOK_DATA[2] = {
           "fr/01630.mp3",
           "zh/01630.mp3",
           "zì dòng mén",
-          "5o)tomatik"
+          "[5o)tomatik]"
         ],
         [
           "拉励关",
@@ -2648,7 +2648,7 @@ window.BOOK_DATA[2] = {
           "fr/01631.mp3",
           "zh/01631.mp3",
           "lā lì guān",
-          "tire"
+          "[tire]"
         ],
         [
           "推",
@@ -2657,7 +2657,7 @@ window.BOOK_DATA[2] = {
           "fr/01632.mp3",
           "zh/01632.mp3",
           "tuī",
-          "puse"
+          "[puse]"
         ],
         [
           "锁",
@@ -2666,7 +2666,7 @@ window.BOOK_DATA[2] = {
           "fr/01633.mp3",
           "zh/01633.mp3",
           "suǒ",
-          "seeryr"
+          "[seeryr]"
         ],
         [
           "钥匙",
@@ -2675,7 +2675,7 @@ window.BOOK_DATA[2] = {
           "fr/01634.mp3",
           "zh/01634.mp3",
           "yào shi",
-          "kle"
+          "[kle]"
         ],
         [
           "敲门",
@@ -2684,7 +2684,7 @@ window.BOOK_DATA[2] = {
           "fr/01635.mp3",
           "zh/01635.mp3",
           "qiāo mén",
-          "frape"
+          "[frape]"
         ],
         [
           "室外的",
@@ -2693,7 +2693,7 @@ window.BOOK_DATA[2] = {
           "fr/01636.mp3",
           "zh/01636.mp3",
           "shì wài de",
-          "eksterjx:r"
+          "[eksterjx:r]"
         ],
         [
           "门槛",
@@ -2702,7 +2702,7 @@ window.BOOK_DATA[2] = {
           "fr/01637.mp3",
           "zh/01637.mp3",
           "mén kǎn",
-          "sj"
+          "[sj]"
         ],
         [
           "门把手",
@@ -2711,7 +2711,7 @@ window.BOOK_DATA[2] = {
           "fr/01638.mp3",
           "zh/01638.mp3",
           "mén bà shǒu",
-          "bek da kom"
+          "[bek da kom]"
         ],
         [
           "门框",
@@ -2760,7 +2760,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/01643.mp3",
           "chéng kè",
-          "paasaeer"
+          "[paasaeer]"
         ],
         [
           "方式",
@@ -2769,7 +2769,7 @@ window.BOOK_DATA[2] = {
           "fr/01644.mp3",
           "zh/01644.mp3",
           "fāng shì",
-          "mwaj"
+          "[mwaj]"
         ],
         [
           "影子",
@@ -2787,7 +2787,7 @@ window.BOOK_DATA[2] = {
           "fr/01646.mp3",
           "zh/01646.mp3",
           "kuà guò",
-          "frafir"
+          "[frafir]"
         ],
         [
           "踩踏",
@@ -2796,7 +2796,7 @@ window.BOOK_DATA[2] = {
           "fr/01647.mp3",
           "zh/01647.mp3",
           "cǎi tà",
-          "pjetine"
+          "[pjetine]"
         ],
         [
           "小",
@@ -2829,7 +2829,7 @@ window.BOOK_DATA[2] = {
           "fr/01650.mp3",
           "zh/01650.mp3",
           "chuāng hù",
-          "fa)netr"
+          "[fa)netr]"
         ],
         [
           "百叶窗",
@@ -2838,7 +2838,7 @@ window.BOOK_DATA[2] = {
           "fr/01651.mp3",
           "zh/01651.mp3",
           "bǎi yè chuāng",
-          "persjen"
+          "[persjen]"
         ],
         [
           "百叶窗",
@@ -2847,7 +2847,7 @@ window.BOOK_DATA[2] = {
           "fr/01652.mp3",
           "zh/01652.mp3",
           "bǎi yè chuāng",
-          "3aluzi"
+          "[3aluzi]"
         ],
         [
           "天窗",
@@ -2856,7 +2856,7 @@ window.BOOK_DATA[2] = {
           "fr/01653.mp3",
           "zh/01653.mp3",
           "tiān chuāng",
-          "lykarn"
+          "[lykarn]"
         ],
         [
           "打开",
@@ -2865,7 +2865,7 @@ window.BOOK_DATA[2] = {
           "fr/01654.mp3",
           "zh/01654.mp3",
           "dǎ kāi",
-          "uvrir"
+          "[uvrir]"
         ],
         [
           "关上",
@@ -2874,7 +2874,7 @@ window.BOOK_DATA[2] = {
           "fr/01655.mp3",
           "zh/01655.mp3",
           "guān shàng",
-          "ferme"
+          "[ferme]"
         ],
         [
           "玻璃",
@@ -2883,7 +2883,7 @@ window.BOOK_DATA[2] = {
           "fr/01656.mp3",
           "zh/01656.mp3",
           "bō lí",
-          "ver"
+          "[ver]"
         ],
         [
           "摇动",
@@ -2892,7 +2892,7 @@ window.BOOK_DATA[2] = {
           "fr/01657.mp3",
           "zh/01657.mp3",
           "yáo dòng",
-          "s(a)kwe"
+          "[s(a)kwe]"
         ],
         [
           "打破",
@@ -2901,7 +2901,7 @@ window.BOOK_DATA[2] = {
           "fr/01658.mp3",
           "zh/01658.mp3",
           "dǎ pò",
-          "brize"
+          "[brize]"
         ],
         [
           "加固",
@@ -2910,7 +2910,7 @@ window.BOOK_DATA[2] = {
           "fr/01659.mp3",
           "zh/01659.mp3",
           "jiā gù",
-          "ráforsa3"
+          "[ráforsa3]"
         ],
         [
           "全景的",
@@ -2919,7 +2919,7 @@ window.BOOK_DATA[2] = {
           "fr/01660.mp3",
           "zh/01660.mp3",
           "quán jǐng de",
-          "panoramik"
+          "[panoramik]"
         ],
         [
           "玻璃窗",
@@ -2928,7 +2928,7 @@ window.BOOK_DATA[2] = {
           "fr/01661.mp3",
           "zh/01661.mp3",
           "bō lí chuāng",
-          "vitr"
+          "[vitr]"
         ],
         [
           "透明的",
@@ -2937,7 +2937,7 @@ window.BOOK_DATA[2] = {
           "fr/01662.mp3",
           "zh/01662.mp3",
           "tòu míng de",
-          "tráspará, át"
+          "[tráspará, át]"
         ],
         [
           "易碎的",
@@ -2946,7 +2946,7 @@ window.BOOK_DATA[2] = {
           "fr/01663.mp3",
           "zh/01663.mp3",
           "yì suì de",
-          "fra3il"
+          "[fra3il]"
         ],
         [
           "反射",
@@ -2955,7 +2955,7 @@ window.BOOK_DATA[2] = {
           "fr/01664.mp3",
           "zh/01664.mp3",
           "fǎn shè",
-          "raflete"
+          "[raflete]"
         ],
         [
           "窗钩",
@@ -2964,7 +2964,7 @@ window.BOOK_DATA[2] = {
           "fr/01665.mp3",
           "zh/01665.mp3",
           "chuāng gōu",
-          "kroe"
+          "[kroe]"
         ],
         [
           "窗",
@@ -2973,7 +2973,7 @@ window.BOOK_DATA[2] = {
           "fr/01666.mp3",
           "zh/01666.mp3",
           "chuāng",
-          "arso"
+          "[arso]"
         ],
         [
           "窗把手打开",
@@ -2982,7 +2982,7 @@ window.BOOK_DATA[2] = {
           "fr/01667.mp3",
           "zh/01667.mp3",
           "chuāng bǎ shǒu dǎ kāi",
-          "lev vitr"
+          "[lev vitr]"
         ]
       ],
       "s": [
@@ -3022,7 +3022,7 @@ window.BOOK_DATA[2] = {
           "fr/01671.mp3",
           "",
           "",
-          "botur"
+          "[botur]"
         ],
         [
           "在周围在四周",
@@ -3040,7 +3040,7 @@ window.BOOK_DATA[2] = {
           "fr/01673.mp3",
           "",
           "",
-          "avgl"
+          "[avgl]"
         ],
         [
           "瞎的失明的",
@@ -3058,7 +3058,7 @@ window.BOOK_DATA[2] = {
           "fr/01675.mp3",
           "zh/01675.mp3",
           "yā suì",
-          "ekraze"
+          "[ekraze]"
         ],
         [
           "",
@@ -3067,7 +3067,7 @@ window.BOOK_DATA[2] = {
           "fr/01676.mp3",
           "",
           "",
-          "fragmá"
+          "[fragmá]"
         ],
         [
           "碎片",
@@ -3085,7 +3085,7 @@ window.BOOK_DATA[2] = {
           "fr/01678.mp3",
           "",
           "",
-          "sägläá:t"
+          "[sägläá:t]"
         ],
         [
           "带血的",
@@ -3109,7 +3109,7 @@ window.BOOK_DATA[2] = {
           "fr/01680.mp3",
           "zh/01680.mp3",
           "cháng shā fā",
-          "kanape"
+          "[kanape]"
         ],
         [
           "长沙发",
@@ -3118,7 +3118,7 @@ window.BOOK_DATA[2] = {
           "fr/01681.mp3",
           "zh/01681.mp3",
           "cháng shā fā",
-          "sofa"
+          "[sofa]"
         ],
         [
           "沙发床",
@@ -3127,7 +3127,7 @@ window.BOOK_DATA[2] = {
           "fr/01682.mp3",
           "zh/01682.mp3",
           "shā fā chuáng",
-          "diva"
+          "[diva]"
         ],
         [
           "可改变的",
@@ -3136,7 +3136,7 @@ window.BOOK_DATA[2] = {
           "fr/01683.mp3",
           "zh/01683.mp3",
           "kě gǎi biàn de",
-          "kvertibl"
+          "[kvertibl]"
         ],
         [
           "扶手",
@@ -3145,7 +3145,7 @@ window.BOOK_DATA[2] = {
           "fr/01684.mp3",
           "zh/01684.mp3",
           "fú shǒu",
-          "akurtwair"
+          "[akurtwair]"
         ],
         [
           "椅子",
@@ -3154,7 +3154,7 @@ window.BOOK_DATA[2] = {
           "fr/01685.mp3",
           "zh/01685.mp3",
           "yǐ zi",
-          "ez"
+          "[ez]"
         ],
         [
           "凳子",
@@ -3163,7 +3163,7 @@ window.BOOK_DATA[2] = {
           "fr/01686.mp3",
           "zh/01686.mp3",
           "dèng zi",
-          "tabure"
+          "[tabure]"
         ],
         [
           "地毯",
@@ -3172,7 +3172,7 @@ window.BOOK_DATA[2] = {
           "fr/01687.mp3",
           "zh/01687.mp3",
           "dì tǎn",
-          "tapi"
+          "[tapi]"
         ],
         [
           "小地毯",
@@ -3181,7 +3181,7 @@ window.BOOK_DATA[2] = {
           "fr/01688.mp3",
           "zh/01688.mp3",
           "xiǎo dì tǎn",
-          "karpet"
+          "[karpet]"
         ],
         [
           "茶几",
@@ -3190,7 +3190,7 @@ window.BOOK_DATA[2] = {
           "fr/01689.mp3",
           "zh/01689.mp3",
           "chá jī",
-          "tabl ba:s"
+          "[tabl ba:s]"
         ],
         [
           "烟灰缸",
@@ -3199,7 +3199,7 @@ window.BOOK_DATA[2] = {
           "fr/01690.mp3",
           "zh/01690.mp3",
           "yān huī gāng",
-          "sádrije"
+          "[sádrije]"
         ],
         [
           "扶手椅",
@@ -3208,7 +3208,7 @@ window.BOOK_DATA[2] = {
           "fr/01691.mp3",
           "zh/01691.mp3",
           "fú shǒu yǐ",
-          "fotxj"
+          "[fotxj]"
         ],
         [
           "鱼缸",
@@ -3217,7 +3217,7 @@ window.BOOK_DATA[2] = {
           "fr/01692.mp3",
           "zh/01692.mp3",
           "yú gāng",
-          "akwarjom"
+          "[akwarjom]"
         ],
         [
           "壁炉",
@@ -3235,7 +3235,7 @@ window.BOOK_DATA[2] = {
           "fr/01694.mp3",
           "zh/01694.mp3",
           "shí yòng de jiā jù",
-          "ytilite:r"
+          "[ytilite:r]"
         ],
         [
           "摆放坐下",
@@ -3244,7 +3244,7 @@ window.BOOK_DATA[2] = {
           "fr/01695.mp3",
           "zh/01695.mp3",
           "bǎi fàng zuò xià",
-          "plase"
+          "[plase]"
         ]
       ],
       "s": [
@@ -3284,7 +3284,7 @@ window.BOOK_DATA[2] = {
           "fr/01699.mp3",
           "",
           "",
-          "realist"
+          "[realist]"
         ],
         [
           "现实的",
@@ -3302,7 +3302,7 @@ window.BOOK_DATA[2] = {
           "fr/01701.mp3",
           "",
           "",
-          "pursui:vr"
+          "[pursui:vr]"
         ],
         [
           "追踪追赶",
@@ -3320,7 +3320,7 @@ window.BOOK_DATA[2] = {
           "fr/01703.mp3",
           "zh/01703.mp3",
           "xíng xīng",
-          "planet"
+          "[planet]"
         ],
         [
           "",
@@ -3329,7 +3329,7 @@ window.BOOK_DATA[2] = {
           "fr/01704.mp3",
           "",
           "",
-          "äksbre"
+          "[äksbre]"
         ],
         [
           "堵塞",
@@ -3347,7 +3347,7 @@ window.BOOK_DATA[2] = {
           "fr/01706.mp3",
           "",
           "",
-          "manifik"
+          "[manifik]"
         ],
         [
           "豪华的",
@@ -3365,7 +3365,7 @@ window.BOOK_DATA[2] = {
           "fr/01708.mp3",
           "zh/01708.mp3",
           "dǎ hā qiàn",
-          "baje"
+          "[baje]"
         ]
       ]
     },
@@ -3380,7 +3380,7 @@ window.BOOK_DATA[2] = {
           "fr/01709.mp3",
           "zh/01709.mp3",
           "chuáng",
-          "li"
+          "[li]"
         ],
         [
           "摇篮",
@@ -3389,7 +3389,7 @@ window.BOOK_DATA[2] = {
           "fr/01710.mp3",
           "zh/01710.mp3",
           "yáo lán",
-          "berso"
+          "[berso]"
         ],
         [
           "单人床",
@@ -3398,7 +3398,7 @@ window.BOOK_DATA[2] = {
           "fr/01711.mp3",
           "zh/01711.mp3",
           "dān rén chuáng",
-          "li a yn plas"
+          "[li a yn plas]"
         ],
         [
           "双人床",
@@ -3407,7 +3407,7 @@ window.BOOK_DATA[2] = {
           "fr/01712.mp3",
           "zh/01712.mp3",
           "shuāng rén chuáng",
-          "li a do plas"
+          "[li a do plas]"
         ],
         [
           "床架",
@@ -3416,7 +3416,7 @@ window.BOOK_DATA[2] = {
           "fr/01713.mp3",
           "zh/01713.mp3",
           "chuáng jià",
-          "ali"
+          "[ali]"
         ],
         [
           "一套家具",
@@ -3425,7 +3425,7 @@ window.BOOK_DATA[2] = {
           "fr/01714.mp3",
           "zh/01714.mp3",
           "yī tào jiā jù",
-          "syit"
+          "[syit]"
         ],
         [
           "床垫",
@@ -3434,7 +3434,7 @@ window.BOOK_DATA[2] = {
           "fr/01715.mp3",
           "zh/01715.mp3",
           "chuáng diàn",
-          "matla"
+          "[matla]"
         ],
         [
           "枕头",
@@ -3443,7 +3443,7 @@ window.BOOK_DATA[2] = {
           "fr/01716.mp3",
           "zh/01716.mp3",
           "zhěn tou",
-          "gree)je"
+          "[gree)je]"
         ],
         [
           "枕套",
@@ -3452,7 +3452,7 @@ window.BOOK_DATA[2] = {
           "fr/01717.mp3",
           "zh/01717.mp3",
           "zhěn tào",
-          "te"
+          "[te]"
         ],
         [
           "羽绒被",
@@ -3461,7 +3461,7 @@ window.BOOK_DATA[2] = {
           "fr/01718.mp3",
           "zh/01718.mp3",
           "yǔ róng bèi",
-          "kwet"
+          "[kwet]"
         ],
         [
           "毛毯",
@@ -3470,7 +3470,7 @@ window.BOOK_DATA[2] = {
           "fr/01719.mp3",
           "zh/01719.mp3",
           "máo tǎn",
-          "dra d(alen"
+          "[dra d(alen]"
         ],
         [
           "被褥",
@@ -3479,7 +3479,7 @@ window.BOOK_DATA[2] = {
           "fr/01720.mp3",
           "zh/01720.mp3",
           "bèi rù",
-          "litri"
+          "[litri]"
         ],
         [
           "床单",
@@ -3488,7 +3488,7 @@ window.BOOK_DATA[2] = {
           "fr/01721.mp3",
           "zh/01721.mp3",
           "chuáng dān",
-          "dra d(a) li"
+          "[dra d(a) li]"
         ],
         [
           "床单",
@@ -3497,7 +3497,7 @@ window.BOOK_DATA[2] = {
           "fr/01722.mp3",
           "zh/01722.mp3",
           "chuáng dān",
-          "twal a dra"
+          "[twal a dra]"
         ],
         [
           "小睡",
@@ -3506,7 +3506,7 @@ window.BOOK_DATA[2] = {
           "fr/01723.mp3",
           "zh/01723.mp3",
           "xiǎo shuì",
-          "som"
+          "[som]"
         ],
         [
           "凉席",
@@ -3515,7 +3515,7 @@ window.BOOK_DATA[2] = {
           "fr/01724.mp3",
           "zh/01724.mp3",
           "liáng xí",
-          "nat"
+          "[nat]"
         ],
         [
           "蚊帐",
@@ -3524,7 +3524,7 @@ window.BOOK_DATA[2] = {
           "fr/01725.mp3",
           "zh/01725.mp3",
           "wén zhàng",
-          "mustike:r"
+          "[mustike:r]"
         ],
         [
           "床垫",
@@ -3533,7 +3533,7 @@ window.BOOK_DATA[2] = {
           "fr/01726.mp3",
           "zh/01726.mp3",
           "chuáng diàn",
-          "alez"
+          "[alez]"
         ],
         [
           "床脚双人床",
@@ -3542,7 +3542,7 @@ window.BOOK_DATA[2] = {
           "fr/01727.mp3",
           "zh/01727.mp3",
           "chuáng jiǎo shuāng rén chuáng",
-          "pie dy li"
+          "[pie dy li]"
         ]
       ],
       "s": [
@@ -3573,7 +3573,7 @@ window.BOOK_DATA[2] = {
           "fr/01730.mp3",
           "zh/01730.mp3",
           "rēng tóu",
-          "3ate"
+          "[3ate]"
         ],
         [
           "",
@@ -3582,7 +3582,7 @@ window.BOOK_DATA[2] = {
           "fr/01731.mp3",
           "",
           "",
-          "ra)säble"
+          "[ra)säble]"
         ],
         [
           "相似",
@@ -3600,7 +3600,7 @@ window.BOOK_DATA[2] = {
           "fr/01733.mp3",
           "",
           "",
-          "fäto:m"
+          "[fäto:m]"
         ],
         [
           "鬼怪",
@@ -3618,7 +3618,7 @@ window.BOOK_DATA[2] = {
           "fr/01735.mp3",
           "",
           "",
-          "kolbkatair"
+          "[kolbkatair]"
         ],
         [
           "寝室",
@@ -3642,7 +3642,7 @@ window.BOOK_DATA[2] = {
           "fr/01737.mp3",
           "zh/01737.mp3",
           "huà zhuāng pǐn",
-          "kosmetik"
+          "[kosmetik]"
         ],
         [
           "口红",
@@ -3651,7 +3651,7 @@ window.BOOK_DATA[2] = {
           "fr/01738.mp3",
           "zh/01738.mp3",
           "kǒu hóng",
-          "ru:3a levr"
+          "[ru:3a levr]"
         ],
         [
           "镜子",
@@ -3660,7 +3660,7 @@ window.BOOK_DATA[2] = {
           "fr/01739.mp3",
           "zh/01739.mp3",
           "jìng zi",
-          "mirwar"
+          "[mirwar]"
         ],
         [
           "梳子",
@@ -3669,7 +3669,7 @@ window.BOOK_DATA[2] = {
           "fr/01740.mp3",
           "zh/01740.mp3",
           "shū zi",
-          "pen"
+          "[pen]"
         ],
         [
           "吹风机",
@@ -3678,7 +3678,7 @@ window.BOOK_DATA[2] = {
           "fr/01741.mp3",
           "zh/01741.mp3",
           "chuī fēng jī",
-          "seSa)va"
+          "[seSa)va]"
         ],
         [
           "容器",
@@ -3687,7 +3687,7 @@ window.BOOK_DATA[2] = {
           "fr/01742.mp3",
           "zh/01742.mp3",
           "róng qì",
-          "resipja"
+          "[resipja]"
         ],
         [
           "指甲刀",
@@ -3696,7 +3696,7 @@ window.BOOK_DATA[2] = {
           "fr/01743.mp3",
           "zh/01743.mp3",
           "zhǐ jiǎ dāo",
-          "kup 3:gl"
+          "[kup 3:gl]"
         ],
         [
           "发夹",
@@ -3705,7 +3705,7 @@ window.BOOK_DATA[2] = {
           "fr/01744.mp3",
           "zh/01744.mp3",
           "fā jiā",
-          "epgla S(a)vo"
+          "[epgla S(a)vo]"
         ],
         [
           "粉底",
@@ -3723,7 +3723,7 @@ window.BOOK_DATA[2] = {
           "fr/01746.mp3",
           "zh/01746.mp3",
           "fěn pū",
-          "upet a pudr"
+          "[upet a pudr]"
         ],
         [
           "眼线笔",
@@ -3732,7 +3732,7 @@ window.BOOK_DATA[2] = {
           "fr/01747.mp3",
           "zh/01747.mp3",
           "yǎn xiàn bǐ",
-          "kštuir jo"
+          "[kštuir jo]"
         ],
         [
           "睫毛膏",
@@ -3750,7 +3750,7 @@ window.BOOK_DATA[2] = {
           "fr/01749.mp3",
           "zh/01749.mp3",
           "shuā",
-          "brose"
+          "[brose]"
         ],
         [
           "润肤液",
@@ -3759,7 +3759,7 @@ window.BOOK_DATA[2] = {
           "fr/01750.mp3",
           "zh/01750.mp3",
           "rùn fū yè",
-          "astré3á"
+          "[astré3á]"
         ],
         [
           "香水",
@@ -3768,7 +3768,7 @@ window.BOOK_DATA[2] = {
           "fr/01751.mp3",
           "zh/01751.mp3",
           "xiāng shuǐ",
-          "parf"
+          "[parf]"
         ],
         [
           "化妆",
@@ -3777,7 +3777,7 @@ window.BOOK_DATA[2] = {
           "fr/01752.mp3",
           "zh/01752.mp3",
           "huà zhuāng",
-          "makije"
+          "[makije]"
         ],
         [
           "洗甲水",
@@ -3786,7 +3786,7 @@ window.BOOK_DATA[2] = {
           "fr/01753.mp3",
           "zh/01753.mp3",
           "xǐ jiǎ shuǐ",
-          "disolva"
+          "[disolva]"
         ],
         [
           "发蜡",
@@ -3795,7 +3795,7 @@ window.BOOK_DATA[2] = {
           "fr/01754.mp3",
           "zh/01754.mp3",
           "fà là",
-          "pomad"
+          "[pomad]"
         ],
         [
           "芳香剂",
@@ -3804,7 +3804,7 @@ window.BOOK_DATA[2] = {
           "fr/01755.mp3",
           "zh/01755.mp3",
           "fāng xiāng jì",
-          "aromat"
+          "[aromat]"
         ],
         [
           "洗涤剂洗面奶",
@@ -3813,7 +3813,7 @@ window.BOOK_DATA[2] = {
           "fr/01756.mp3",
           "zh/01756.mp3",
           "xǐ dí jì xǐ miàn nǎi",
-          "losj5"
+          "[losj5]"
         ]
       ],
       "s": [
@@ -3853,7 +3853,7 @@ window.BOOK_DATA[2] = {
           "fr/01760.mp3",
           "",
           "",
-          "kkyrä:s"
+          "[kkyrä:s]"
         ],
         [
           "竞争",
@@ -3871,7 +3871,7 @@ window.BOOK_DATA[2] = {
           "fr/01762.mp3",
           "",
           "",
-          "afarne"
+          "[afarne]"
         ],
         [
           "激烈的",
@@ -3889,7 +3889,7 @@ window.BOOK_DATA[2] = {
           "fr/01764.mp3",
           "",
           "",
-          "optimist"
+          "[optimist]"
         ],
         [
           "乐观的",
@@ -3907,7 +3907,7 @@ window.BOOK_DATA[2] = {
           "fr/01766.mp3",
           "",
           "",
-          "potásjalite"
+          "[potásjalite]"
         ],
         [
           "潜力",
@@ -3931,7 +3931,7 @@ window.BOOK_DATA[2] = {
           "fr/01768.mp3",
           "zh/01768.mp3",
           "shū fáng",
-          "sal d etyd"
+          "[sal d etyd]"
         ],
         [
           "书",
@@ -3940,7 +3940,7 @@ window.BOOK_DATA[2] = {
           "fr/01769.mp3",
           "zh/01769.mp3",
           "shū",
-          "livr"
+          "[livr]"
         ],
         [
           "书斋",
@@ -3949,7 +3949,7 @@ window.BOOK_DATA[2] = {
           "fr/01770.mp3",
           "zh/01770.mp3",
           "shū zhāi",
-          "kabine d(a) travaj"
+          "[kabine d(a) travaj]"
         ],
         [
           "宽的",
@@ -3958,7 +3958,7 @@ window.BOOK_DATA[2] = {
           "fr/01771.mp3",
           "zh/01771.mp3",
           "kuān de",
-          "vast"
+          "[vast]"
         ],
         [
           "书签",
@@ -3967,7 +3967,7 @@ window.BOOK_DATA[2] = {
           "fr/01772.mp3",
           "zh/01772.mp3",
           "shū qiān",
-          "sine"
+          "[sine]"
         ],
         [
           "书柜",
@@ -3976,7 +3976,7 @@ window.BOOK_DATA[2] = {
           "fr/01773.mp3",
           "zh/01773.mp3",
           "shū guì",
-          "biblijotek"
+          "[biblijotek]"
         ],
         [
           "堆起",
@@ -3985,7 +3985,7 @@ window.BOOK_DATA[2] = {
           "fr/01774.mp3",
           "zh/01774.mp3",
           "duī qǐ",
-          "átase"
+          "[átase]"
         ],
         [
           "地图册",
@@ -3994,7 +3994,7 @@ window.BOOK_DATA[2] = {
           "fr/01775.mp3",
           "zh/01775.mp3",
           "dì tú cè",
-          "atlas"
+          "[atlas]"
         ],
         [
           "抽尼",
@@ -4003,7 +4003,7 @@ window.BOOK_DATA[2] = {
           "fr/01776.mp3",
           "zh/01776.mp3",
           "chōu ní",
-          "tirwar"
+          "[tirwar]"
         ],
         [
           "作品",
@@ -4012,7 +4012,7 @@ window.BOOK_DATA[2] = {
           "fr/01777.mp3",
           "zh/01777.mp3",
           "zuò pǐn",
-          "travo"
+          "[travo]"
         ],
         [
           "百科全书",
@@ -4021,7 +4021,7 @@ window.BOOK_DATA[2] = {
           "fr/01778.mp3",
           "zh/01778.mp3",
           "bǎi kē quán shū",
-          "ásiklopedi"
+          "[ásiklopedi]"
         ],
         [
           "学识渊博的",
@@ -4030,7 +4030,7 @@ window.BOOK_DATA[2] = {
           "fr/01779.mp3",
           "zh/01779.mp3",
           "xué shí yuān bó de",
-          "sava, á:t"
+          "[sava, á:t]"
         ],
         [
           "页",
@@ -4048,7 +4048,7 @@ window.BOOK_DATA[2] = {
           "fr/01781.mp3",
           "zh/01781.mp3",
           "dú",
-          "lir"
+          "[lir]"
         ],
         [
           "读书",
@@ -4057,7 +4057,7 @@ window.BOOK_DATA[2] = {
           "fr/01782.mp3",
           "zh/01782.mp3",
           "dú shū",
-          "etydje"
+          "[etydje]"
         ],
         [
           "铅笔",
@@ -4066,7 +4066,7 @@ window.BOOK_DATA[2] = {
           "fr/01783.mp3",
           "zh/01783.mp3",
           "qiān bǐ",
-          "krej5"
+          "[krej5]"
         ],
         [
           "钢笔",
@@ -4075,7 +4075,7 @@ window.BOOK_DATA[2] = {
           "fr/01784.mp3",
           "zh/01784.mp3",
           "gāng bǐ",
-          "plym"
+          "[plym]"
         ],
         [
           "笔筒",
@@ -4084,7 +4084,7 @@ window.BOOK_DATA[2] = {
           "fr/01785.mp3",
           "zh/01785.mp3",
           "bǐ tǒng",
-          "pwé:t dy p&so"
+          "[pwé:t dy p&so]"
         ],
         [
           "自来水笔",
@@ -4093,7 +4093,7 @@ window.BOOK_DATA[2] = {
           "fr/01786.mp3",
           "zh/01786.mp3",
           "zì lái shuǐ bǐ",
-          "stilo"
+          "[stilo]"
         ],
         [
           "转椅",
@@ -4142,7 +4142,7 @@ window.BOOK_DATA[2] = {
           "fr/01792.mp3",
           "zh/01792.mp3",
           "huì",
-          "desine"
+          "[desine]"
         ],
         [
           "画描述",
@@ -4160,7 +4160,7 @@ window.BOOK_DATA[2] = {
           "fr/01794.mp3",
           "zh/01794.mp3",
           "yìng de",
-          "rizid"
+          "[rizid]"
         ],
         [
           "严重地",
@@ -4169,7 +4169,7 @@ window.BOOK_DATA[2] = {
           "fr/01795.mp3",
           "zh/01795.mp3",
           "yán zhòng dì",
-          "seere"
+          "[seere]"
         ],
         [
           "黑的严密的",
@@ -4187,7 +4187,7 @@ window.BOOK_DATA[2] = {
           "fr/01797.mp3",
           "zh/01797.mp3",
           "chū bǎn",
-          "edisj5"
+          "[edisj5]"
         ],
         [
           "",
@@ -4205,7 +4205,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/01799.mp3",
           "jiā jù",
-          "mobilje,cr"
+          "[mobilje,cr]"
         ],
         [
           "",
@@ -4214,7 +4214,7 @@ window.BOOK_DATA[2] = {
           "fr/01800.mp3",
           "",
           "",
-          "kuramä"
+          "[kuramä]"
         ],
         [
           "流利地",
@@ -4238,7 +4238,7 @@ window.BOOK_DATA[2] = {
           "fr/01802.mp3",
           "zh/01802.mp3",
           "yáng tái",
-          "balk5"
+          "[balk5]"
         ],
         [
           "走廊",
@@ -4247,7 +4247,7 @@ window.BOOK_DATA[2] = {
           "fr/01803.mp3",
           "zh/01803.mp3",
           "zǒu láng",
-          "kulwair"
+          "[kulwair]"
         ],
         [
           "走廊",
@@ -4256,7 +4256,7 @@ window.BOOK_DATA[2] = {
           "fr/01804.mp3",
           "zh/01804.mp3",
           "zǒu láng",
-          "korido:r"
+          "[korido:r]"
         ],
         [
           "窗台",
@@ -4265,7 +4265,7 @@ window.BOOK_DATA[2] = {
           "fr/01805.mp3",
           "zh/01805.mp3",
           "chuāng tái",
-          "fanetr"
+          "[fanetr]"
         ],
         [
           "窗帘",
@@ -4274,7 +4274,7 @@ window.BOOK_DATA[2] = {
           "fr/01806.mp3",
           "zh/01806.mp3",
           "chuāng lián",
-          "rido"
+          "[rido]"
         ],
         [
           "视野",
@@ -4292,7 +4292,7 @@ window.BOOK_DATA[2] = {
           "fr/01808.mp3",
           "zh/01808.mp3",
           "shì yě",
-          "vy"
+          "[vy]"
         ],
         [
           "开阔的",
@@ -4301,7 +4301,7 @@ window.BOOK_DATA[2] = {
           "fr/01809.mp3",
           "zh/01809.mp3",
           "kāi kuò de",
-          "dekuvert"
+          "[dekuvert]"
         ],
         [
           "超出",
@@ -4310,7 +4310,7 @@ window.BOOK_DATA[2] = {
           "fr/01810.mp3",
           "zh/01810.mp3",
           "chāo chū",
-          "depa(a)se"
+          "[depa(a)se]"
         ],
         [
           "眩晕",
@@ -4319,7 +4319,7 @@ window.BOOK_DATA[2] = {
           "fr/01811.mp3",
           "zh/01811.mp3",
           "xuàn yūn",
-          "verti3"
+          "[verti3]"
         ],
         [
           "俯瞰",
@@ -4328,7 +4328,7 @@ window.BOOK_DATA[2] = {
           "fr/01813.mp3",
           "zh/01813.mp3",
           "fǔ kàn",
-          "ra)garde ve:rla ba"
+          "[ra)garde ve:rla ba]"
         ],
         [
           "清晰地",
@@ -4337,7 +4337,7 @@ window.BOOK_DATA[2] = {
           "fr/01814.mp3",
           "zh/01814.mp3",
           "qīng xī dì",
-          "netmá"
+          "[netmá]"
         ],
         [
           "模糊地",
@@ -4346,7 +4346,7 @@ window.BOOK_DATA[2] = {
           "fr/01815.mp3",
           "zh/01815.mp3",
           "mó hú dì",
-          "kšfyzemá"
+          "[kšfyzemá]"
         ],
         [
           "凌乱的",
@@ -4355,7 +4355,7 @@ window.BOOK_DATA[2] = {
           "fr/01816.mp3",
           "zh/01816.mp3",
           "líng luàn de",
-          "dezordone"
+          "[dezordone]"
         ],
         [
           "晾晒",
@@ -4364,7 +4364,7 @@ window.BOOK_DATA[2] = {
           "fr/01817.mp3",
           "zh/01817.mp3",
           "liàng shài",
-          "ckspoze"
+          "[ckspoze]"
         ],
         [
           "晒衣绳",
@@ -4373,7 +4373,7 @@ window.BOOK_DATA[2] = {
           "fr/01818.mp3",
           "zh/01818.mp3",
           "shài yī shéng",
-          "kord"
+          "[kord]"
         ],
         [
           "鸟笼",
@@ -4382,7 +4382,7 @@ window.BOOK_DATA[2] = {
           "fr/01819.mp3",
           "zh/01819.mp3",
           "niǎo lóng",
-          "ka"
+          "[ka]"
         ],
         [
           "钩",
@@ -4391,7 +4391,7 @@ window.BOOK_DATA[2] = {
           "fr/01820.mp3",
           "zh/01820.mp3",
           "gōu",
-          "klu"
+          "[klu]"
         ]
       ],
       "s": [
@@ -4440,7 +4440,7 @@ window.BOOK_DATA[2] = {
           "fr/01826.mp3",
           "zh/01826.mp3",
           "guāng xiàn",
-          "rej"
+          "[rej]"
         ],
         [
           "注",
@@ -4449,7 +4449,7 @@ window.BOOK_DATA[2] = {
           "fr/01827.mp3",
           "zh/01827.mp3",
           "zhù",
-          "atäsj5"
+          "[atäsj5]"
         ],
         [
           "意关心",
@@ -4467,7 +4467,7 @@ window.BOOK_DATA[2] = {
           "fr/01829.mp3",
           "zh/01829.mp3",
           "shù de",
-          "fja3"
+          "[fja3]"
         ],
         [
           "全部叶子",
@@ -4485,7 +4485,7 @@ window.BOOK_DATA[2] = {
           "fr/01831.mp3",
           "zh/01831.mp3",
           "bù",
-          "imobil"
+          "[imobil]"
         ]
       ]
     },
@@ -4500,7 +4500,7 @@ window.BOOK_DATA[2] = {
           "fr/01832.mp3",
           "zh/01832.mp3",
           "chē kù",
-          "gara3"
+          "[gara3]"
         ],
         [
           "车库门",
@@ -4518,7 +4518,7 @@ window.BOOK_DATA[2] = {
           "fr/01834.mp3",
           "zh/01834.mp3",
           "suǒ",
-          "seeryr"
+          "[seeryr]"
         ],
         [
           "躲藏",
@@ -4527,7 +4527,7 @@ window.BOOK_DATA[2] = {
           "fr/01835.mp3",
           "zh/01835.mp3",
           "duǒ cáng",
-          "kafe"
+          "[kafe]"
         ],
         [
           "破旧的",
@@ -4536,7 +4536,7 @@ window.BOOK_DATA[2] = {
           "fr/01836.mp3",
           "zh/01836.mp3",
           "pò jiù de",
-          "povr"
+          "[povr]"
         ],
         [
           "倒车励倒车",
@@ -4545,7 +4545,7 @@ window.BOOK_DATA[2] = {
           "fr/01837.mp3",
           "zh/01837.mp3",
           "dào chē lì dào chē",
-          "vers"
+          "[vers]"
         ],
         [
           "落后的",
@@ -4554,7 +4554,7 @@ window.BOOK_DATA[2] = {
           "fr/01838.mp3",
           "zh/01838.mp3",
           "luò hòu de",
-          "retro(o)grad"
+          "[retro(o)grad]"
         ],
         [
           "向后",
@@ -4563,7 +4563,7 @@ window.BOOK_DATA[2] = {
           "fr/01839.mp3",
           "zh/01839.mp3",
           "xiàng hòu",
-          "arjer"
+          "[arjer]"
         ],
         [
           "附带的",
@@ -4572,7 +4572,7 @@ window.BOOK_DATA[2] = {
           "fr/01840.mp3",
           "zh/01840.mp3",
           "fù dài de",
-          "s(a)g5derr"
+          "[s(a)g5derr]"
         ],
         [
           "储藏",
@@ -4581,7 +4581,7 @@ window.BOOK_DATA[2] = {
           "fr/01841.mp3",
           "zh/01841.mp3",
           "chǔ cáng",
-          "kserve"
+          "[kserve]"
         ],
         [
           "容纳",
@@ -4590,7 +4590,7 @@ window.BOOK_DATA[2] = {
           "fr/01842.mp3",
           "zh/01842.mp3",
           "róng nà",
-          "kštnir"
+          "[kštnir]"
         ],
         [
           "停车",
@@ -4599,7 +4599,7 @@ window.BOOK_DATA[2] = {
           "fr/01843.mp3",
           "zh/01843.mp3",
           "tíng chē",
-          "arete"
+          "[arete]"
         ],
         [
           "报废",
@@ -4608,7 +4608,7 @@ window.BOOK_DATA[2] = {
           "fr/01844.mp3",
           "zh/01844.mp3",
           "bào fèi",
-          "deklare"
+          "[deklare]"
         ],
         [
           "卡住",
@@ -4617,7 +4617,7 @@ window.BOOK_DATA[2] = {
           "fr/01845.mp3",
           "zh/01845.mp3",
           "kǎ zhù",
-          "bloke"
+          "[bloke]"
         ],
         [
           "地下的",
@@ -4626,7 +4626,7 @@ window.BOOK_DATA[2] = {
           "fr/01846.mp3",
           "zh/01846.mp3",
           "dì xià de",
-          "ipo3e"
+          "[ipo3e]"
         ],
         [
           "整理",
@@ -4635,7 +4635,7 @@ window.BOOK_DATA[2] = {
           "fr/01847.mp3",
           "zh/01847.mp3",
           "zhěng lǐ",
-          "aráze"
+          "[aráze]"
         ],
         [
           "整齐的",
@@ -4644,7 +4644,7 @@ window.BOOK_DATA[2] = {
           "fr/01848.mp3",
           "zh/01848.mp3",
           "zhěng qí de",
-          "regylje,er"
+          "[regylje,er]"
         ]
       ],
       "s": [
@@ -4693,7 +4693,7 @@ window.BOOK_DATA[2] = {
           "fr/01853.mp3",
           "",
           "",
-          "brikol"
+          "[brikol]"
         ],
         [
           "小东西零碎东西",
@@ -4720,7 +4720,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/01856.mp3",
           "zhì lì de",
-          "teellektuel"
+          "[teellektuel]"
         ],
         [
           "",
@@ -4729,7 +4729,7 @@ window.BOOK_DATA[2] = {
           "fr/01857.mp3",
           "",
           "",
-          "atraksjδ"
+          "[atraksjδ]"
         ],
         [
           "吸引力",
@@ -4747,7 +4747,7 @@ window.BOOK_DATA[2] = {
           "fr/01859.mp3",
           "",
           "",
-          "pasjäät"
+          "[pasjäät]"
         ],
         [
           "耐心的",
@@ -4771,7 +4771,7 @@ window.BOOK_DATA[2] = {
           "fr/01861.mp3",
           "zh/01861.mp3",
           "zū jīn zū lìn",
-          "lwaje"
+          "[lwaje]"
         ],
         [
           "租约",
@@ -4780,7 +4780,7 @@ window.BOOK_DATA[2] = {
           "fr/01862.mp3",
           "zh/01862.mp3",
           "zū yuē",
-          "baj"
+          "[baj]"
         ],
         [
           "转租",
@@ -4789,7 +4789,7 @@ window.BOOK_DATA[2] = {
           "fr/01863.mp3",
           "zh/01863.mp3",
           "zhuǎn zū",
-          "su loka(a)sj5"
+          "[su loka(a)sj5]"
         ],
         [
           "租赁期",
@@ -4798,7 +4798,7 @@ window.BOOK_DATA[2] = {
           "fr/01864.mp3",
           "zh/01864.mp3",
           "zū lìn qī",
-          "limit da baj"
+          "[limit da baj]"
         ],
         [
           "出租",
@@ -4807,7 +4807,7 @@ window.BOOK_DATA[2] = {
           "fr/01865.mp3",
           "zh/01865.mp3",
           "chū zū",
-          "Iwe"
+          "[Iwe]"
         ],
         [
           "出租的房屋",
@@ -4816,7 +4816,7 @@ window.BOOK_DATA[2] = {
           "fr/01866.mp3",
           "zh/01866.mp3",
           "chū zū de fáng wū",
-          "ä:br a lwe"
+          "[ä:br a lwe]"
         ],
         [
           "出租",
@@ -4825,7 +4825,7 @@ window.BOOK_DATA[2] = {
           "fr/01867.mp3",
           "zh/01867.mp3",
           "chū zū",
-          "aferme"
+          "[aferme]"
         ],
         [
           "公寓小公寓众朝向",
@@ -4834,7 +4834,7 @@ window.BOOK_DATA[2] = {
           "fr/01868.mp3",
           "zh/01868.mp3",
           "gōng yù xiǎo gōng yù zhòng cháo xiàng",
-          "apartamá"
+          "[apartamá]"
         ],
         [
           "代理人",
@@ -4843,7 +4843,7 @@ window.BOOK_DATA[2] = {
           "fr/01869.mp3",
           "zh/01869.mp3",
           "dài lǐ rén",
-          "a3a"
+          "[a3a]"
         ],
         [
           "期限",
@@ -4852,7 +4852,7 @@ window.BOOK_DATA[2] = {
           "fr/01870.mp3",
           "zh/01870.mp3",
           "qī xiàn",
-          "term"
+          "[term]"
         ],
         [
           "一段时间",
@@ -4861,7 +4861,7 @@ window.BOOK_DATA[2] = {
           "fr/01871.mp3",
           "zh/01871.mp3",
           "yī duàn shí jiān",
-          "momá"
+          "[momá]"
         ],
         [
           "房东",
@@ -4870,7 +4870,7 @@ window.BOOK_DATA[2] = {
           "fr/01872.mp3",
           "zh/01872.mp3",
           "fáng dōng",
-          "proprijete:r"
+          "[proprijete:r]"
         ],
         [
           "居住人",
@@ -4879,7 +4879,7 @@ window.BOOK_DATA[2] = {
           "fr/01873.mp3",
           "zh/01873.mp3",
           "jū zhù rén",
-          "abita,á:t"
+          "[abita,á:t]"
         ]
       ],
       "s": [
@@ -4919,7 +4919,7 @@ window.BOOK_DATA[2] = {
           "fr/01877.mp3",
           "",
           "",
-          "maternel"
+          "[maternel]"
         ],
         [
           "幼儿园",
@@ -4937,7 +4937,7 @@ window.BOOK_DATA[2] = {
           "fr/01879.mp3",
           "zh/01879.mp3",
           "rì guǎn zi",
-          "pip"
+          "[pip]"
         ],
         [
           "流流动",
@@ -4946,7 +4946,7 @@ window.BOOK_DATA[2] = {
           "fr/01880.mp3",
           "zh/01880.mp3",
           "liú liú dòng",
-          "kule"
+          "[kule]"
         ],
         [
           "",
@@ -4964,7 +4964,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/01882.mp3",
           "tuī jiàn jiè shào",
-          "rakomade"
+          "[rakomade]"
         ],
         [
           "房客",
@@ -4973,7 +4973,7 @@ window.BOOK_DATA[2] = {
           "fr/01883.mp3",
           "zh/01883.mp3",
           "fáng kè",
-          "lokatar"
+          "[lokatar]"
         ],
         [
           "公寓",
@@ -4997,7 +4997,7 @@ window.BOOK_DATA[2] = {
           "fr/01885.mp3",
           "zh/01885.mp3",
           "bān jiā",
-          "demenaze"
+          "[demenaze]"
         ],
         [
           "搬家工人",
@@ -5006,7 +5006,7 @@ window.BOOK_DATA[2] = {
           "fr/01886.mp3",
           "zh/01886.mp3",
           "bān jiā gōng rén",
-          "demenazc:r"
+          "[demenazc:r]"
         ],
         [
           "距离",
@@ -5015,7 +5015,7 @@ window.BOOK_DATA[2] = {
           "fr/01887.mp3",
           "zh/01887.mp3",
           "jù lí",
-          "distá:s"
+          "[distá:s]"
         ],
         [
           "接近",
@@ -5024,7 +5024,7 @@ window.BOOK_DATA[2] = {
           "fr/01888.mp3",
           "zh/01888.mp3",
           "jiē jìn",
-          "aprofe"
+          "[aprofe]"
         ],
         [
           "附近的",
@@ -5042,7 +5042,7 @@ window.BOOK_DATA[2] = {
           "fr/01890.mp3",
           "zh/01890.mp3",
           "yuǎn de",
-          "elwane"
+          "[elwane]"
         ],
         [
           "距离",
@@ -5051,7 +5051,7 @@ window.BOOK_DATA[2] = {
           "fr/01891.mp3",
           "zh/01891.mp3",
           "jù lí",
-          "distasjasj5"
+          "[distasjasj5]"
         ],
         [
           "方便的",
@@ -5060,7 +5060,7 @@ window.BOOK_DATA[2] = {
           "fr/01892.mp3",
           "zh/01892.mp3",
           "fāng biàn de",
-          "koaot"
+          "[koaot]"
         ],
         [
           "货车",
@@ -5069,7 +5069,7 @@ window.BOOK_DATA[2] = {
           "fr/01893.mp3",
           "zh/01893.mp3",
           "huò chē",
-          "kamj"
+          "[kamj]"
         ],
         [
           "折叠",
@@ -5078,7 +5078,7 @@ window.BOOK_DATA[2] = {
           "fr/01894.mp3",
           "zh/01894.mp3",
           "zhé dié",
-          "plije"
+          "[plije]"
         ],
         [
           "可折叠的",
@@ -5087,7 +5087,7 @@ window.BOOK_DATA[2] = {
           "fr/01895.mp3",
           "zh/01895.mp3",
           "kě zhé dié de",
-          "plija,á:t"
+          "[plija,á:t]"
         ],
         [
           "打开包装",
@@ -5096,7 +5096,7 @@ window.BOOK_DATA[2] = {
           "fr/01896.mp3",
           "zh/01896.mp3",
           "dǎ kāi bāo zhuāng",
-          "debale"
+          "[debale]"
         ],
         [
           "运送",
@@ -5105,7 +5105,7 @@ window.BOOK_DATA[2] = {
           "fr/01897.mp3",
           "zh/01897.mp3",
           "yùn sòng",
-          "ávwaje"
+          "[ávwaje]"
         ],
         [
           "装载",
@@ -5114,7 +5114,7 @@ window.BOOK_DATA[2] = {
           "fr/01898.mp3",
           "zh/01898.mp3",
           "zhuāng zài",
-          "arzmá"
+          "[arzmá]"
         ],
         [
           "重的",
@@ -5123,7 +5123,7 @@ window.BOOK_DATA[2] = {
           "fr/01899.mp3",
           "zh/01899.mp3",
           "zhòng de",
-          "lururd"
+          "[lururd]"
         ],
         [
           "装满",
@@ -5132,7 +5132,7 @@ window.BOOK_DATA[2] = {
           "fr/01900.mp3",
           "zh/01900.mp3",
           "zhuāng mǎn",
-          "kšble"
+          "[kšble]"
         ],
         [
           "搬开",
@@ -5141,7 +5141,7 @@ window.BOOK_DATA[2] = {
           "fr/01901.mp3",
           "zh/01901.mp3",
           "bān kāi",
-          "ekarte"
+          "[ekarte]"
         ],
         [
           "装御工",
@@ -5150,7 +5150,7 @@ window.BOOK_DATA[2] = {
           "fr/01902.mp3",
           "zh/01902.mp3",
           "zhuāng yù gōng",
-          "debardxr"
+          "[debardxr]"
         ]
       ],
       "s": [
@@ -5199,7 +5199,7 @@ window.BOOK_DATA[2] = {
           "fr/01907.mp3",
           "",
           "",
-          "demare"
+          "[demare]"
         ],
         [
           "开始",
@@ -5217,7 +5217,7 @@ window.BOOK_DATA[2] = {
           "fr/01909.mp3",
           "",
           "",
-          "mätcr"
+          "[mätcr]"
         ],
         [
           "说的人",
@@ -5235,7 +5235,7 @@ window.BOOK_DATA[2] = {
           "fr/01911.mp3",
           "zh/01911.mp3",
           "zuì fàn",
-          "kriminel"
+          "[kriminel]"
         ],
         [
           "抱怨",
@@ -5244,7 +5244,7 @@ window.BOOK_DATA[2] = {
           "fr/01912.mp3",
           "zh/01912.mp3",
           "bào yuàn",
-          "modir"
+          "[modir]"
         ],
         [
           "光荣",
@@ -5253,7 +5253,7 @@ window.BOOK_DATA[2] = {
           "fr/01913.mp3",
           "zh/01913.mp3",
           "guāng róng",
-          "glwar"
+          "[glwar]"
         ],
         [
           "包装",
@@ -5262,7 +5262,7 @@ window.BOOK_DATA[2] = {
           "fr/01914.mp3",
           "zh/01914.mp3",
           "bāo zhuāng",
-          "äbale"
+          "[äbale]"
         ]
       ]
     },
@@ -5277,7 +5277,7 @@ window.BOOK_DATA[2] = {
           "fr/01915.mp3",
           "zh/01915.mp3",
           "zhuāng xiū",
-          "dekore"
+          "[dekore]"
         ],
         [
           "重建",
@@ -5286,7 +5286,7 @@ window.BOOK_DATA[2] = {
           "fr/01916.mp3",
           "zh/01916.mp3",
           "chóng jiàn",
-          "restitysj5"
+          "[restitysj5]"
         ],
         [
           "建筑工",
@@ -5295,7 +5295,7 @@ window.BOOK_DATA[2] = {
           "fr/01917.mp3",
           "zh/01917.mp3",
           "jiàn zhù gōng",
-          "uvrijer dy batimá"
+          "[uvrijer dy batimá]"
         ],
         [
           "藤",
@@ -5304,7 +5304,7 @@ window.BOOK_DATA[2] = {
           "fr/01918.mp3",
           "zh/01918.mp3",
           "téng",
-          "kan"
+          "[kan]"
         ],
         [
           "软木",
@@ -5313,7 +5313,7 @@ window.BOOK_DATA[2] = {
           "fr/01919.mp3",
           "zh/01919.mp3",
           "ruǎn mù",
-          "lje3"
+          "[lje3]"
         ],
         [
           "黑檀木",
@@ -5322,7 +5322,7 @@ window.BOOK_DATA[2] = {
           "fr/01920.mp3",
           "zh/01920.mp3",
           "hēi tán mù",
-          "eben"
+          "[eben]"
         ],
         [
           "瓷砖",
@@ -5331,7 +5331,7 @@ window.BOOK_DATA[2] = {
           "fr/01921.mp3",
           "zh/01921.mp3",
           "cí zhuān",
-          "brikd(afajá:s"
+          "[brikd(afajá:s]"
         ],
         [
           "木头",
@@ -5340,7 +5340,7 @@ window.BOOK_DATA[2] = {
           "fr/01922.mp3",
           "zh/01922.mp3",
           "mù tou",
-          "bwaa"
+          "[bwaa]"
         ],
         [
           "刷漆",
@@ -5349,7 +5349,7 @@ window.BOOK_DATA[2] = {
           "fr/01923.mp3",
           "zh/01923.mp3",
           "shuā qī",
-          "pty:r"
+          "[pty:r]"
         ],
         [
           "漆刷",
@@ -5358,7 +5358,7 @@ window.BOOK_DATA[2] = {
           "fr/01924.mp3",
           "zh/01924.mp3",
           "qī shuā",
-          "vernir"
+          "[vernir]"
         ],
         [
           "壁纸",
@@ -5367,7 +5367,7 @@ window.BOOK_DATA[2] = {
           "fr/01925.mp3",
           "zh/01925.mp3",
           "bì zhǐ",
-          "papje puxr le my:r"
+          "[papje puxr le my:r]"
         ],
         [
           "使焕然一新",
@@ -5376,7 +5376,7 @@ window.BOOK_DATA[2] = {
           "fr/01926.mp3",
           "zh/01926.mp3",
           "shǐ huàn rán yì xīn",
-          "depusjere"
+          "[depusjere]"
         ],
         [
           "粘着",
@@ -5385,7 +5385,7 @@ window.BOOK_DATA[2] = {
           "fr/01927.mp3",
           "zh/01927.mp3",
           "zhān zhe",
-          "kole"
+          "[kole]"
         ],
         [
           "暗淡的",
@@ -5394,7 +5394,7 @@ window.BOOK_DATA[2] = {
           "fr/01928.mp3",
           "zh/01928.mp3",
           "àn dàn de",
-          "npsky:r"
+          "[npsky:r]"
         ],
         [
           "泥瓦工程",
@@ -5403,7 +5403,7 @@ window.BOOK_DATA[2] = {
           "fr/01929.mp3",
           "zh/01929.mp3",
           "ní wǎ gōng chéng",
-          "masonri"
+          "[masonri]"
         ],
         [
           "油漆桶",
@@ -5421,7 +5421,7 @@ window.BOOK_DATA[2] = {
           "fr/01931.mp3",
           "zh/01931.mp3",
           "dòng kǒng",
-          "tru"
+          "[tru]"
         ],
         [
           "油漆刷",
@@ -5430,7 +5430,7 @@ window.BOOK_DATA[2] = {
           "fr/01932.mp3",
           "zh/01932.mp3",
           "yóu qī shuā",
-          "bros"
+          "[bros]"
         ]
       ],
       "s": [
@@ -5470,7 +5470,7 @@ window.BOOK_DATA[2] = {
           "fr/01936.mp3",
           "",
           "",
-          "pomo"
+          "[pomo]"
         ],
         [
           "手杖柄",
@@ -5488,7 +5488,7 @@ window.BOOK_DATA[2] = {
           "fr/01938.mp3",
           "",
           "",
-          "bpstakl"
+          "[bpstakl]"
         ],
         [
           "障碍障碍物",
@@ -5506,7 +5506,7 @@ window.BOOK_DATA[2] = {
           "fr/01940.mp3",
           "",
           "",
-          "plae"
+          "[plae]"
         ],
         [
           "地板",
@@ -5524,7 +5524,7 @@ window.BOOK_DATA[2] = {
           "fr/01942.mp3",
           "zh/01942.mp3",
           "duì xiàng",
-          "k3tr"
+          "[k3tr]"
         ]
       ]
     },
@@ -5539,7 +5539,7 @@ window.BOOK_DATA[2] = {
           "fr/01943.mp3",
           "zh/01943.mp3",
           "lǚ guǎn",
-          "o5tel"
+          "[o5tel]"
         ],
         [
           "小旅馆",
@@ -5548,7 +5548,7 @@ window.BOOK_DATA[2] = {
           "fr/01944.mp3",
           "zh/01944.mp3",
           "xiǎo lǚ guǎn",
-          "ober3"
+          "[ober3]"
         ],
         [
           "预订或保留",
@@ -5557,7 +5557,7 @@ window.BOOK_DATA[2] = {
           "fr/01945.mp3",
           "zh/01945.mp3",
           "yù dìng huò bǎo liú",
-          "rezerve"
+          "[rezerve]"
         ],
         [
           "保留的位子",
@@ -5566,7 +5566,7 @@ window.BOOK_DATA[2] = {
           "fr/01946.mp3",
           "zh/01946.mp3",
           "bǎo liú de wèi zi",
-          "ra"
+          "[ra]"
         ],
         [
           "为某事安排时间",
@@ -5575,7 +5575,7 @@ window.BOOK_DATA[2] = {
           "fr/01947.mp3",
           "zh/01947.mp3",
           "wèi mǒu shì ān pái shí jiān",
-          "aráze"
+          "[aráze]"
         ],
         [
           "取消",
@@ -5584,7 +5584,7 @@ window.BOOK_DATA[2] = {
           "fr/01948.mp3",
           "zh/01948.mp3",
           "qǔ xiāo",
-          "syprime"
+          "[syprime]"
         ],
         [
           "表格",
@@ -5593,7 +5593,7 @@ window.BOOK_DATA[2] = {
           "fr/01949.mp3",
           "zh/01949.mp3",
           "biǎo gé",
-          "tablo"
+          "[tablo]"
         ],
         [
           "填写",
@@ -5602,7 +5602,7 @@ window.BOOK_DATA[2] = {
           "fr/01950.mp3",
           "zh/01950.mp3",
           "tián xiě",
-          "räplir"
+          "[räplir]"
         ],
         [
           "接待",
@@ -5611,7 +5611,7 @@ window.BOOK_DATA[2] = {
           "fr/01951.mp3",
           "zh/01951.mp3",
           "jiē dài",
-          "akxjir"
+          "[akxjir]"
         ],
         [
           "小费",
@@ -5620,7 +5620,7 @@ window.BOOK_DATA[2] = {
           "fr/01952.mp3",
           "zh/01952.mp3",
           "xiǎo fèi",
-          "purbwa:r"
+          "[purbwa:r]"
         ],
         [
           "舒适惬意的",
@@ -5629,7 +5629,7 @@ window.BOOK_DATA[2] = {
           "fr/01953.mp3",
           "zh/01953.mp3",
           "shū shì qiè yì de",
-          "agreabl"
+          "[agreabl]"
         ],
         [
           "节俭的",
@@ -5638,7 +5638,7 @@ window.BOOK_DATA[2] = {
           "fr/01954.mp3",
           "zh/01954.mp3",
           "jié jiǎn de",
-          "ekonom"
+          "[ekonom]"
         ],
         [
           "奢华",
@@ -5647,7 +5647,7 @@ window.BOOK_DATA[2] = {
           "fr/01955.mp3",
           "zh/01955.mp3",
           "shē huá",
-          "lyksy,:z"
+          "[lyksy,:z]"
         ],
         [
           "预定座位",
@@ -5656,7 +5656,7 @@ window.BOOK_DATA[2] = {
           "fr/01956.mp3",
           "zh/01956.mp3",
           "yù dìng zuò wèi",
-          "plas ratny"
+          "[plas ratny]"
         ],
         [
           "房客",
@@ -5665,7 +5665,7 @@ window.BOOK_DATA[2] = {
           "fr/01957.mp3",
           "zh/01957.mp3",
           "fáng kè",
-          "lskater"
+          "[lskater]"
         ]
       ],
       "s": [
@@ -5723,7 +5723,7 @@ window.BOOK_DATA[2] = {
           "fr/01963.mp3",
           "zh/01963.mp3",
           "kǒu zuò wèi",
-          "sje3"
+          "[sje3]"
         ],
         [
           "",
@@ -5732,7 +5732,7 @@ window.BOOK_DATA[2] = {
           "fr/01964.mp3",
           "",
           "",
-          "aeropo:r"
+          "[aeropo:r]"
         ],
         [
           "飞机场",
@@ -5750,7 +5750,7 @@ window.BOOK_DATA[2] = {
           "fr/01966.mp3",
           "zh/01966.mp3",
           "qǐng qiú",
-          "prijer"
+          "[prijer]"
         ],
         [
           "",
@@ -5768,7 +5768,7 @@ window.BOOK_DATA[2] = {
           "",
           "zh/01968.mp3",
           "xuān chēng",
-          "deklaraasj5"
+          "[deklaraasj5]"
         ],
         [
           "海关",
@@ -5777,7 +5777,7 @@ window.BOOK_DATA[2] = {
           "fr/01969.mp3",
           "zh/01969.mp3",
           "hǎi guān",
-          "dwan"
+          "[dwan]"
         ]
       ]
     },

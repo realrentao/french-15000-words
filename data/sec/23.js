@@ -16,7 +16,7 @@ window.BOOK_DATA[23] = {
           "fr/10664.mp3",
           "zh/10664.mp3",
           "shǒu qiāng",
-          "pistole"
+          "[pistole]"
         ],
         [
           "步枪",
@@ -25,7 +25,7 @@ window.BOOK_DATA[23] = {
           "fr/10665.mp3",
           "zh/10665.mp3",
           "bù qiāng",
-          "fyzi"
+          "[fyzi]"
         ],
         [
           "机关枪",
@@ -34,7 +34,7 @@ window.BOOK_DATA[23] = {
           "fr/10666.mp3",
           "zh/10666.mp3",
           "jī guān qiāng",
-          "mitrajoz"
+          "[mitrajoz]"
         ],
         [
           "左轮",
@@ -43,7 +43,7 @@ window.BOOK_DATA[23] = {
           "fr/10667.mp3",
           "zh/10667.mp3",
           "zuǒ lún",
-          "revolver"
+          "[revolver]"
         ],
         [
           "气枪",
@@ -52,7 +52,7 @@ window.BOOK_DATA[23] = {
           "fr/10668.mp3",
           "zh/10668.mp3",
           "qì qiāng",
-          "fyzi a er köprime"
+          "[fyzi a er köprime]"
         ],
         [
           "准确度",
@@ -61,7 +61,7 @@ window.BOOK_DATA[23] = {
           "fr/10669.mp3",
           "zh/10669.mp3",
           "zhǔn què dù",
-          "fidelite"
+          "[fidelite]"
         ],
         [
           "射击",
@@ -70,7 +70,7 @@ window.BOOK_DATA[23] = {
           "fr/10670.mp3",
           "zh/10670.mp3",
           "shè jī",
-          "tire"
+          "[tire]"
         ],
         [
           "可调的",
@@ -79,7 +79,7 @@ window.BOOK_DATA[23] = {
           "fr/10671.mp3",
           "zh/10671.mp3",
           "kě diào de",
-          "k[vertibl"
+          "[k[vertibl]"
         ],
         [
           "扳机",
@@ -88,7 +88,7 @@ window.BOOK_DATA[23] = {
           "fr/10672.mp3",
           "zh/10672.mp3",
           "bān jī",
-          "deklik"
+          "[deklik]"
         ],
         [
           "点火",
@@ -97,7 +97,7 @@ window.BOOK_DATA[23] = {
           "fr/10673.mp3",
           "zh/10673.mp3",
           "diǎn huǒ",
-          "salyme  fo"
+          "[salyme  fo]"
         ],
         [
           "弹药",
@@ -106,7 +106,7 @@ window.BOOK_DATA[23] = {
           "fr/10674.mp3",
           "zh/10674.mp3",
           "dàn yào",
-          "mynisj5"
+          "[mynisj5]"
         ],
         [
           "射程",
@@ -115,7 +115,7 @@ window.BOOK_DATA[23] = {
           "fr/10675.mp3",
           "zh/10675.mp3",
           "shè chéng",
-          "porte da tir"
+          "[porte da tir]"
         ],
         [
           "瞄准",
@@ -124,7 +124,7 @@ window.BOOK_DATA[23] = {
           "fr/10676.mp3",
           "zh/10676.mp3",
           "miáo zhǔn",
-          "epole"
+          "[epole]"
         ],
         [
           "炮火",
@@ -133,7 +133,7 @@ window.BOOK_DATA[23] = {
           "fr/10677.mp3",
           "zh/10677.mp3",
           "pào huǒ",
-          "kanonad"
+          "[kanonad]"
         ],
         [
           "子弹",
@@ -142,7 +142,7 @@ window.BOOK_DATA[23] = {
           "fr/10678.mp3",
           "zh/10678.mp3",
           "zǐ dàn",
-          "bal"
+          "[bal]"
         ],
         [
           "防弹衣",
@@ -151,7 +151,7 @@ window.BOOK_DATA[23] = {
           "fr/10679.mp3",
           "zh/10679.mp3",
           "fáng dàn yī",
-          "par bal"
+          "[par bal]"
         ],
         [
           "开火",
@@ -160,7 +160,7 @@ window.BOOK_DATA[23] = {
           "fr/10680.mp3",
           "zh/10680.mp3",
           "kāi huǒ",
-          "uvrir la fo"
+          "[uvrir la fo]"
         ]
       ],
       "s": [
@@ -200,7 +200,7 @@ window.BOOK_DATA[23] = {
           "fr/10684.mp3",
           "zh/10684.mp3",
           "sǎn bīng",
-          "tirajcr"
+          "[tirajcr]"
         ],
         [
           "爱情",
@@ -209,7 +209,7 @@ window.BOOK_DATA[23] = {
           "fr/10685.mp3",
           "zh/10685.mp3",
           "ài qíng",
-          "afeksj5"
+          "[afeksj5]"
         ],
         [
           "",
@@ -218,7 +218,7 @@ window.BOOK_DATA[23] = {
           "fr/10686.mp3",
           "",
           "",
-          "promnad"
+          "[promnad]"
         ],
         [
           "散步",
@@ -242,7 +242,7 @@ window.BOOK_DATA[23] = {
           "fr/10688.mp3",
           "zh/10688.mp3",
           "hé de",
-          "nykleer"
+          "[nykleer]"
         ],
         [
           "放射",
@@ -251,7 +251,7 @@ window.BOOK_DATA[23] = {
           "fr/10689.mp3",
           "zh/10689.mp3",
           "fàng shè",
-          "rejone"
+          "[rejone]"
         ],
         [
           "核武器",
@@ -269,7 +269,7 @@ window.BOOK_DATA[23] = {
           "fr/10691.mp3",
           "zh/10691.mp3",
           "zhà dàn",
-          "b5b"
+          "[b5b]"
         ],
         [
           "火箭发射筒",
@@ -278,7 +278,7 @@ window.BOOK_DATA[23] = {
           "fr/10692.mp3",
           "zh/10692.mp3",
           "huǒ jiàn fā shè tǒng",
-          "tyb lás fyze"
+          "[tyb lás fyze]"
         ],
         [
           "发射",
@@ -287,7 +287,7 @@ window.BOOK_DATA[23] = {
           "fr/10693.mp3",
           "zh/10693.mp3",
           "fā shè",
-          "läse"
+          "[läse]"
         ],
         [
           "放射",
@@ -296,7 +296,7 @@ window.BOOK_DATA[23] = {
           "fr/10694.mp3",
           "zh/10694.mp3",
           "fàng shè",
-          "radjasj5"
+          "[radjasj5]"
         ],
         [
           "资料库",
@@ -305,7 +305,7 @@ window.BOOK_DATA[23] = {
           "fr/10695.mp3",
           "zh/10695.mp3",
           "zī liào kù",
-          "sätr da dokymátasj["
+          "[sätr da dokymátasj[]"
         ],
         [
           "通气道",
@@ -314,7 +314,7 @@ window.BOOK_DATA[23] = {
           "fr/10696.mp3",
           "zh/10696.mp3",
           "tōng qì dào",
-          "kanal der"
+          "[kanal der]"
         ],
         [
           "原子弹",
@@ -323,7 +323,7 @@ window.BOOK_DATA[23] = {
           "fr/10697.mp3",
           "zh/10697.mp3",
           "yuán zǐ dàn",
-          "b5b atomik"
+          "[b5b atomik]"
         ],
         [
           "氢弹",
@@ -332,7 +332,7 @@ window.BOOK_DATA[23] = {
           "fr/10698.mp3",
           "zh/10698.mp3",
           "qīng dàn",
-          "bšb a idro3en"
+          "[bšb a idro3en]"
         ],
         [
           "投放",
@@ -341,7 +341,7 @@ window.BOOK_DATA[23] = {
           "fr/10699.mp3",
           "zh/10699.mp3",
           "tóu fàng",
-          "large"
+          "[large]"
         ],
         [
           "热核武器",
@@ -350,7 +350,7 @@ window.BOOK_DATA[23] = {
           "fr/10700.mp3",
           "zh/10700.mp3",
           "rè hé wǔ qì",
-          "arm termonykleer"
+          "[arm termonykleer]"
         ],
         [
           "冲击波",
@@ -359,7 +359,7 @@ window.BOOK_DATA[23] = {
           "fr/10701.mp3",
           "zh/10701.mp3",
           "chōng jī bō",
-          "sufl"
+          "[sufl]"
         ],
         [
           "放射性的",
@@ -368,7 +368,7 @@ window.BOOK_DATA[23] = {
           "fr/10702.mp3",
           "zh/10702.mp3",
           "fàng shè xìng de",
-          "radjoaktif, iv"
+          "[radjoaktif, iv]"
         ]
       ],
       "s": [
@@ -417,7 +417,7 @@ window.BOOK_DATA[23] = {
           "fr/10707.mp3",
           "",
           "",
-          "defäsiv"
+          "[defäsiv]"
         ],
         [
           "防御的",
@@ -453,7 +453,7 @@ window.BOOK_DATA[23] = {
           "fr/10711.mp3",
           "",
           "",
-          "diktat:r"
+          "[diktat:r]"
         ],
         [
           "独裁者",
@@ -486,7 +486,7 @@ window.BOOK_DATA[23] = {
           "fr/10714.mp3",
           "zh/10714.mp3",
           "yáo kòng dǎo dàn",
-          "misil telegide"
+          "[misil telegide]"
         ],
         [
           "洲际导弹",
@@ -495,7 +495,7 @@ window.BOOK_DATA[23] = {
           "fr/10715.mp3",
           "zh/10715.mp3",
           "zhōu jì dǎo dàn",
-          "misil Eterkštinátal"
+          "[misil Eterkštinátal]"
         ],
         [
           "弹头地对地导弹",
@@ -504,7 +504,7 @@ window.BOOK_DATA[23] = {
           "fr/10716.mp3",
           "zh/10716.mp3",
           "dàn tóu dì duì dì dǎo dàn",
-          "á3€ sol sol"
+          "[á3€ sol sol]"
         ],
         [
           "地对空导弹",
@@ -513,7 +513,7 @@ window.BOOK_DATA[23] = {
           "fr/10717.mp3",
           "zh/10717.mp3",
           "dì duì kōng dǎo dàn",
-          "áz& sol er"
+          "[áz& sol er]"
         ],
         [
           "航对空导弹",
@@ -522,7 +522,7 @@ window.BOOK_DATA[23] = {
           "fr/10718.mp3",
           "zh/10718.mp3",
           "háng duì kōng dǎo dàn",
-          "misil er er"
+          "[misil er er]"
         ],
         [
           "地对空导弹",
@@ -531,7 +531,7 @@ window.BOOK_DATA[23] = {
           "fr/10719.mp3",
           "zh/10719.mp3",
           "dì duì kōng dǎo dàn",
-          "misil sol er"
+          "[misil sol er]"
         ],
         [
           "空对地导弹",
@@ -540,7 +540,7 @@ window.BOOK_DATA[23] = {
           "fr/10720.mp3",
           "zh/10720.mp3",
           "kōng duì dì dǎo dàn",
-          "áz& sjel sol"
+          "[áz& sjel sol]"
         ],
         [
           "反辐射导弹",
@@ -549,7 +549,7 @@ window.BOOK_DATA[23] = {
           "fr/10721.mp3",
           "zh/10721.mp3",
           "fǎn fú shè dǎo dàn",
-          "misil áti radjasj5"
+          "[misil áti radjasj5]"
         ],
         [
           "反舰导弹",
@@ -558,7 +558,7 @@ window.BOOK_DATA[23] = {
           "fr/10722.mp3",
           "zh/10722.mp3",
           "fǎn jiàn dǎo dàn",
-          "misiläti syrfas"
+          "[misiläti syrfas]"
         ],
         [
           "反潜导弹",
@@ -567,7 +567,7 @@ window.BOOK_DATA[23] = {
           "fr/10723.mp3",
           "zh/10723.mp3",
           "fǎn qián dǎo dàn",
-          "á3&áti su marin"
+          "[á3&áti su marin]"
         ],
         [
           "反弹道导弹",
@@ -576,7 +576,7 @@ window.BOOK_DATA[23] = {
           "fr/10724.mp3",
           "zh/10724.mp3",
           "fǎn tán dào dǎo dàn",
-          "áz‘ átibalistik"
+          "[áz‘ átibalistik]"
         ]
       ],
       "s": [
@@ -625,7 +625,7 @@ window.BOOK_DATA[23] = {
           "",
           "zh/10729.mp3",
           "bào zhà de",
-          "cksplozifi"
+          "[cksplozifi]"
         ],
         [
           "密林",
@@ -634,7 +634,7 @@ window.BOOK_DATA[23] = {
           "fr/10730.mp3",
           "zh/10730.mp3",
           "mì lín",
-          "maki"
+          "[maki]"
         ],
         [
           "",
@@ -667,7 +667,7 @@ window.BOOK_DATA[23] = {
           "fr/10733.mp3",
           "zh/10733.mp3",
           "zhàn dòu jī",
-          "ascr"
+          "[ascr]"
         ],
         [
           "潜望镜",
@@ -676,7 +676,7 @@ window.BOOK_DATA[23] = {
           "fr/10734.mp3",
           "zh/10734.mp3",
           "qián wàng jìng",
-          "periskop"
+          "[periskop]"
         ],
         [
           "鱼雷",
@@ -685,7 +685,7 @@ window.BOOK_DATA[23] = {
           "fr/10735.mp3",
           "zh/10735.mp3",
           "yú léi",
-          "torpij"
+          "[torpij]"
         ],
         [
           "发射机",
@@ -694,7 +694,7 @@ window.BOOK_DATA[23] = {
           "fr/10736.mp3",
           "zh/10736.mp3",
           "fā shè jī",
-          "emeter"
+          "[emeter]"
         ],
         [
           "中途拦截载",
@@ -703,7 +703,7 @@ window.BOOK_DATA[23] = {
           "fr/10737.mp3",
           "zh/10737.mp3",
           "zhōng tú lán jié zài",
-          "&tersepsj5"
+          "[&tersepsj5]"
         ],
         [
           "坦克",
@@ -712,7 +712,7 @@ window.BOOK_DATA[23] = {
           "fr/10738.mp3",
           "zh/10738.mp3",
           "tǎn kè",
-          "tak"
+          "[tak]"
         ],
         [
           "侦察",
@@ -721,7 +721,7 @@ window.BOOK_DATA[23] = {
           "fr/10739.mp3",
           "zh/10739.mp3",
           "zhēn chá",
-          "rakonetr"
+          "[rakonetr]"
         ],
         [
           "驱逐舰",
@@ -730,7 +730,7 @@ window.BOOK_DATA[23] = {
           "fr/10740.mp3",
           "zh/10740.mp3",
           "qū zhú jiàn",
-          "ktra torpijce:r"
+          "[ktra torpijce:r]"
         ],
         [
           "航空母舰",
@@ -739,7 +739,7 @@ window.BOOK_DATA[23] = {
           "fr/10741.mp3",
           "zh/10741.mp3",
           "háng kōng mǔ jiàn",
-          "veso port aeronef"
+          "[veso port aeronef]"
         ],
         [
           "巡洋舰",
@@ -748,7 +748,7 @@ window.BOOK_DATA[23] = {
           "fr/10742.mp3",
           "zh/10742.mp3",
           "xún yáng jiàn",
-          "krwazcr"
+          "[krwazcr]"
         ],
         [
           "护卫舰",
@@ -757,7 +757,7 @@ window.BOOK_DATA[23] = {
           "fr/10743.mp3",
           "zh/10743.mp3",
           "hù wèi jiàn",
-          "avizo"
+          "[avizo]"
         ],
         [
           "护卫舰",
@@ -766,7 +766,7 @@ window.BOOK_DATA[23] = {
           "fr/10744.mp3",
           "zh/10744.mp3",
           "hù wèi jiàn",
-          "eskortxr"
+          "[eskortxr]"
         ],
         [
           "导弹护卫母舰",
@@ -775,7 +775,7 @@ window.BOOK_DATA[23] = {
           "fr/10745.mp3",
           "zh/10745.mp3",
           "dǎo dàn hù wèi mǔ jiàn",
-          "veso da fregat lás á3é"
+          "[veso da fregat lás á3é]"
         ],
         [
           "战舰",
@@ -784,7 +784,7 @@ window.BOOK_DATA[23] = {
           "fr/10746.mp3",
           "zh/10746.mp3",
           "zhàn jiàn",
-          "navir da gerr"
+          "[navir da gerr]"
         ],
         [
           "一样的",
@@ -793,7 +793,7 @@ window.BOOK_DATA[23] = {
           "fr/10747.mp3",
           "zh/10747.mp3",
           "yī yàng de",
-          "mem"
+          "[mem]"
         ]
       ],
       "s": [
@@ -842,7 +842,7 @@ window.BOOK_DATA[23] = {
           "fr/10752.mp3",
           "",
           "",
-          "radjofonik"
+          "[radjofonik]"
         ],
         [
           "无线电广播的",

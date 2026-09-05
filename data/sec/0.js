@@ -16,7 +16,7 @@ window.BOOK_DATA[0] ={
           "fr/12141.mp3",
           "zh/12141.mp3",
           "yi1 fu2",
-          "vɛtmɑ̃"
+          "[vɛtmɑ̃]"
         ],
         [
           "穿衣服",
@@ -25,7 +25,7 @@ window.BOOK_DATA[0] ={
           "fr/12142.mp3",
           "zh/12142.mp3",
           "chuan1 yi1 fu2",
-          "abije"
+          "[abije]"
         ],
         [
           "制服",
@@ -34,7 +34,7 @@ window.BOOK_DATA[0] ={
           "fr/12143.mp3",
           "zh/12143.mp3",
           "zhi4 fu2",
-          "ynifɔrm"
+          "[ynifɔrm]"
         ],
         [
           "内衣",
@@ -43,7 +43,7 @@ window.BOOK_DATA[0] ={
           "fr/12144.mp3",
           "zh/12144.mp3",
           "nei4 yi1",
-          "su vɛtmɑ̃"
+          "[su vɛtmɑ̃]"
         ],
         [
           "女礼服",
@@ -52,7 +52,7 @@ window.BOOK_DATA[0] ={
           "fr/12145.mp3",
           "zh/12145.mp3",
           "nv3 li3 fu2",
-          "t(ə)ny"
+          "[t(ə)ny]"
         ],
         [
           "浴衣",
@@ -61,7 +61,7 @@ window.BOOK_DATA[0] ={
           "fr/12146.mp3",
           "zh/12146.mp3",
           "yu4 yi1",
-          "pɛ(ɲ)wa:r"
+          "[pɛ(ɲ)wa:r]"
         ],
         [
           "燕尾服",
@@ -70,7 +70,7 @@ window.BOOK_DATA[0] ={
           "fr/12147.mp3",
           "zh/12147.mp3",
           "yan4 wei3 fu2",
-          "kø d(ə) mɔry"
+          "[kø d(ə) mɔry]"
         ],
         [
           "睡袍",
@@ -79,7 +79,7 @@ window.BOOK_DATA[0] ={
           "fr/12148.mp3",
           "zh/12148.mp3",
           "shui4 pao2",
-          "piʒama"
+          "[piʒama]"
         ],
         [
           "运动服",
@@ -88,7 +88,7 @@ window.BOOK_DATA[0] ={
           "fr/12149.mp3",
           "zh/12149.mp3",
           "yun4 dong4 fu2",
-          "vɛtmɑ̃ dy spɔ:r"
+          "[vɛtmɑ̃ dy spɔ:r]"
         ],
         [
           "领带",
@@ -97,7 +97,7 @@ window.BOOK_DATA[0] ={
           "fr/12150.mp3",
           "zh/12150.mp3",
           "ling3 dai4",
-          "kravat"
+          "[kravat]"
         ],
         [
           "套装",
@@ -106,7 +106,7 @@ window.BOOK_DATA[0] ={
           "fr/12151.mp3",
           "zh/12151.mp3",
           "tao4 zhuang1",
-          "kɔstym"
+          "[kɔstym]"
         ],
         [
           "服装的",
@@ -115,7 +115,7 @@ window.BOOK_DATA[0] ={
           "fr/12152.mp3",
           "zh/12152.mp3",
           "fu2 zhuang1 de5",
-          "vɛstimɑ̃te:r"
+          "[vɛstimɑ̃te:r]"
         ],
         [
           "正式的",
@@ -124,7 +124,7 @@ window.BOOK_DATA[0] ={
           "fr/12153.mp3",
           "zh/12153.mp3",
           "zheng4 shi4 de5",
-          "fɔrmɛl"
+          "[fɔrmɛl]"
         ],
         [
           "时尚的",
@@ -133,7 +133,7 @@ window.BOOK_DATA[0] ={
           "fr/12154.mp3",
           "zh/12154.mp3",
           "shi2 shang4 de5",
-          "mɔdɛrn"
+          "[mɔdɛrn]"
         ],
         [
           "非正式的",
@@ -142,7 +142,7 @@ window.BOOK_DATA[0] ={
           "fr/12155.mp3",
           "zh/12155.mp3",
           "fei1 zheng4 shi4 de5",
-          "ɛ̃fɔrmɛl"
+          "[ɛ̃fɔrmɛl]"
         ],
         [
           "游泳衣",
@@ -151,7 +151,7 @@ window.BOOK_DATA[0] ={
           "fr/12156.mp3",
           "zh/12156.mp3",
           "you2 yong3 yi1",
-          "majo d(ə) bɛ"
+          "[majo d(ə) bɛ]"
         ]
       ],
       "s": [
@@ -200,7 +200,7 @@ window.BOOK_DATA[0] ={
           "fr/12161.mp3",
           "zh/12161.mp3",
           "nv3 xing4 de5",
-          "feminɛ"
+          "[feminɛ]"
         ],
         [
           "开发地，经营场所",
@@ -209,7 +209,7 @@ window.BOOK_DATA[0] ={
           "fr/12162.mp3",
           "zh/12162.mp3",
           "kai1 fa1 di4 ， jing1 ying2 chang3 suo3",
-          "ɛksplwata(a)sjɔ̃"
+          "[ɛksplwata(a)sjɔ̃]"
         ],
         [
           "支持",
@@ -218,7 +218,7 @@ window.BOOK_DATA[0] ={
           "fr/12163.mp3",
           "zh/12163.mp3",
           "zhi1 chi2",
-          "sutjɛ"
+          "[sutjɛ]"
         ],
         [
           "大衣，外套",
@@ -227,7 +227,7 @@ window.BOOK_DATA[0] ={
           "fr/12164.mp3",
           "zh/12164.mp3",
           "da4 yi1 ， wai4 tao4",
-          "mɑ̃to"
+          "[mɑ̃to]"
         ],
         [
           "热的",
@@ -236,7 +236,7 @@ window.BOOK_DATA[0] ={
           "fr/12165.mp3",
           "zh/12165.mp3",
           "re4 de5",
-          "ʃo, o:d"
+          "[ʃo, o:d]"
         ]
       ]
     },
@@ -251,7 +251,7 @@ window.BOOK_DATA[0] ={
           "fr/12166.mp3",
           "zh/12166.mp3",
           "yi1 liao4 ， yuan2 liao4",
-          "tisy"
+          "[tisy]"
         ],
         [
           "布料",
@@ -260,7 +260,7 @@ window.BOOK_DATA[0] ={
           "fr/12167.mp3",
           "zh/12167.mp3",
           "bu4 liao4",
-          "etɔf"
+          "[etɔf]"
         ],
         [
           "质地，手感",
@@ -269,7 +269,7 @@ window.BOOK_DATA[0] ={
           "fr/12168.mp3",
           "zh/12168.mp3",
           "zhi4 di4 ， shou3 gan3",
-          "tɛksty:r"
+          "[tɛksty:r]"
         ],
         [
           "棉花",
@@ -278,7 +278,7 @@ window.BOOK_DATA[0] ={
           "fr/12169.mp3",
           "zh/12169.mp3",
           "mian2 hua1",
-          "kɔtɔ̃"
+          "[kɔtɔ̃]"
         ],
         [
           "蚕丝",
@@ -287,7 +287,7 @@ window.BOOK_DATA[0] ={
           "fr/12170.mp3",
           "zh/12170.mp3",
           "can2 si1",
-          "swa"
+          "[swa]"
         ],
         [
           "羊毛，毛料衣物",
@@ -296,7 +296,7 @@ window.BOOK_DATA[0] ={
           "fr/12171.mp3",
           "zh/12171.mp3",
           "yang2 mao2 ， mao2 liao4 yi1 wu4",
-          "lɛn"
+          "[lɛn]"
         ],
         [
           "涤纶",
@@ -305,7 +305,7 @@ window.BOOK_DATA[0] ={
           "fr/12172.mp3",
           "zh/12172.mp3",
           "di2 lun2",
-          "pɔliɛster"
+          "[pɔliɛster]"
         ],
         [
           "涤棉",
@@ -323,7 +323,7 @@ window.BOOK_DATA[0] ={
           "fr/12174.mp3",
           "zh/12174.mp3",
           "si1 rong2 ， tian1 e2 rong2",
-          "v(ə)lu:r d(ə) swa"
+          "[v(ə)lu:r d(ə) swa]"
         ],
         [
           "帆布",
@@ -332,7 +332,7 @@ window.BOOK_DATA[0] ={
           "fr/12175.mp3",
           "zh/12175.mp3",
           "fan1 bu4",
-          "twal"
+          "[twal]"
         ],
         [
           "皮革",
@@ -341,7 +341,7 @@ window.BOOK_DATA[0] ={
           "fr/12176.mp3",
           "zh/12176.mp3",
           "pi2 ge2",
-          "kɥi:r"
+          "[kɥi:r]"
         ],
         [
           "质量",
@@ -350,7 +350,7 @@ window.BOOK_DATA[0] ={
           "fr/12177.mp3",
           "zh/12177.mp3",
           "zhi4 liang4",
-          "kalite"
+          "[kalite]"
         ],
         [
           "以……资格/身份",
@@ -368,7 +368,7 @@ window.BOOK_DATA[0] ={
           "fr/12179.mp3",
           "zh/12179.mp3",
           "chu4 mo1",
-          "tuʃ"
+          "[tuʃ]"
         ],
         [
           "柔软的",
@@ -377,7 +377,7 @@ window.BOOK_DATA[0] ={
           "fr/12180.mp3",
           "zh/12180.mp3",
           "rou2 ruan3 de5",
-          "supl"
+          "[supl]"
         ],
         [
           "合成纤维",
@@ -386,7 +386,7 @@ window.BOOK_DATA[0] ={
           "fr/12181.mp3",
           "zh/12181.mp3",
           "he2 cheng2 xian1 wei2",
-          "fibr sɛtetik"
+          "[fibr sɛtetik]"
         ],
         [
           "可渗透的",
@@ -395,7 +395,7 @@ window.BOOK_DATA[0] ={
           "fr/12182.mp3",
           "zh/12182.mp3",
           "ke3 shen4 tou4 de5",
-          "permeabl"
+          "[permeabl]"
         ],
         [
           "平绒",
@@ -404,7 +404,7 @@ window.BOOK_DATA[0] ={
           "fr/12183.mp3",
           "zh/12183.mp3",
           "ping2 rong2",
-          "pan"
+          "[pan]"
         ]
       ],
       "s": [
@@ -462,7 +462,7 @@ window.BOOK_DATA[0] ={
           "fr/12189.mp3",
           "zh/12189.mp3",
           "pi2 fu1",
-          "po"
+          "[po]"
         ],
         [
           "只，仅仅",
@@ -471,7 +471,7 @@ window.BOOK_DATA[0] ={
           "fr/12190.mp3",
           "zh/12190.mp3",
           "zhi3 ， jin3 jin3",
-          "sœlmɑ̃"
+          "[sœlmɑ̃]"
         ],
         [
           "奴隶",
@@ -480,7 +480,7 @@ window.BOOK_DATA[0] ={
           "fr/12191.mp3",
           "zh/12191.mp3",
           "nu2 li4",
-          "ɛskla:v"
+          "[ɛskla:v]"
         ],
         [
           "高傲",
@@ -489,7 +489,7 @@ window.BOOK_DATA[0] ={
           "fr/12192.mp3",
           "zh/12192.mp3",
           "gao1 ao4",
-          "arɔgɑ̃:s"
+          "[arɔgɑ̃:s]"
         ],
         [
           "宁愿，宁可",
@@ -498,7 +498,7 @@ window.BOOK_DATA[0] ={
           "fr/12193.mp3",
           "zh/12193.mp3",
           "ning2 yuan4 ， ning2 ke3",
-          "prefere"
+          "[prefere]"
         ]
       ]
     },
@@ -513,7 +513,7 @@ window.BOOK_DATA[0] ={
           "fr/12194.mp3",
           "zh/12194.mp3",
           "lv4 se4 de5",
-          "vɛ:r, ɛrt"
+          "[vɛ:r, ɛrt]"
         ],
         [
           "翡翠绿",
@@ -522,7 +522,7 @@ window.BOOK_DATA[0] ={
           "fr/12195.mp3",
           "zh/12195.mp3",
           "fei3 cui4 lv4",
-          "vɛrt ɛmrod"
+          "[vɛrt ɛmrod]"
         ],
         [
           "橄榄绿",
@@ -531,7 +531,7 @@ window.BOOK_DATA[0] ={
           "fr/12196.mp3",
           "zh/12196.mp3",
           "gan3 lan3 lv4",
-          "vɛrt ɔlivje"
+          "[vɛrt ɔlivje]"
         ],
         [
           "浅绿色",
@@ -540,7 +540,7 @@ window.BOOK_DATA[0] ={
           "fr/12197.mp3",
           "zh/12197.mp3",
           "qian3 lv4 se4",
-          "vɛrt mus"
+          "[vɛrt mus]"
         ],
         [
           "海绿色",
@@ -549,7 +549,7 @@ window.BOOK_DATA[0] ={
           "fr/12198.mp3",
           "zh/12198.mp3",
           "hai3 lv4 se4",
-          "vɛrt mɛ:r"
+          "[vɛrt mɛ:r]"
         ],
         [
           "芥末黄",
@@ -558,7 +558,7 @@ window.BOOK_DATA[0] ={
           "fr/12199.mp3",
           "zh/12199.mp3",
           "jie4 mo4 huang2",
-          "ʒo:n fɔ̃se"
+          "[ʒo:n fɔ̃se]"
         ],
         [
           "黄色的",
@@ -567,7 +567,7 @@ window.BOOK_DATA[0] ={
           "fr/12200.mp3",
           "zh/12200.mp3",
           "huang2 se4 de5",
-          "ʒo:n"
+          "[ʒo:n]"
         ],
         [
           "柠檬黄",
@@ -576,7 +576,7 @@ window.BOOK_DATA[0] ={
           "fr/12201.mp3",
           "zh/12201.mp3",
           "ning2 meng2 huang2",
-          "ʒo:n sitrɔ̃"
+          "[ʒo:n sitrɔ̃]"
         ],
         [
           "微黄色的",
@@ -585,7 +585,7 @@ window.BOOK_DATA[0] ={
           "fr/12202.mp3",
           "zh/12202.mp3",
           "wei1 huang2 se4 de5",
-          "ʒo:n mus"
+          "[ʒo:n mus]"
         ],
         [
           "金色",
@@ -594,7 +594,7 @@ window.BOOK_DATA[0] ={
           "fr/12203.mp3",
           "zh/12203.mp3",
           "jin1 se4",
-          "dɔre"
+          "[dɔre]"
         ],
         [
           "褐色",
@@ -603,7 +603,7 @@ window.BOOK_DATA[0] ={
           "fr/12204.mp3",
           "zh/12204.mp3",
           "he4 se4",
-          "brœ̃, yn"
+          "[brœ̃, yn]"
         ],
         [
           "米色",
@@ -612,7 +612,7 @@ window.BOOK_DATA[0] ={
           "fr/12205.mp3",
           "zh/12205.mp3",
           "mi3 se4",
-          "bɛ:ʒ"
+          "[bɛ:ʒ]"
         ],
         [
           "黄绿色",
@@ -621,7 +621,7 @@ window.BOOK_DATA[0] ={
           "fr/12206.mp3",
           "zh/12206.mp3",
           "huang2 lv4 se4",
-          "ʒo:n vɛrt"
+          "[ʒo:n vɛrt]"
         ],
         [
           "黄褐色",
@@ -630,7 +630,7 @@ window.BOOK_DATA[0] ={
           "fr/12207.mp3",
           "zh/12207.mp3",
           "huang2 he4 se4",
-          "ʒo:n brœ̃, yn"
+          "[ʒo:n brœ̃, yn]"
         ],
         [
           "桔黄色",
@@ -639,7 +639,7 @@ window.BOOK_DATA[0] ={
           "fr/12208.mp3",
           "zh/12208.mp3",
           "ju2 huang2 se4",
-          "ɔrɑ̃:ʒ"
+          "[ɔrɑ̃:ʒ]"
         ],
         [
           "翠绿色的",
@@ -648,7 +648,7 @@ window.BOOK_DATA[0] ={
           "fr/12209.mp3",
           "zh/12209.mp3",
           "cui4 lv4 se4 de5",
-          "ɛmrod"
+          "[ɛmrod]"
         ],
         [
           "暗绿色",
@@ -657,7 +657,7 @@ window.BOOK_DATA[0] ={
           "fr/12210.mp3",
           "zh/12210.mp3",
           "an4 lv4 se4",
-          "vɛrt fɔ̃se"
+          "[vɛrt fɔ̃se]"
         ]
       ],
       "s": [
@@ -706,7 +706,7 @@ window.BOOK_DATA[0] ={
           "fr/12215.mp3",
           "zh/12215.mp3",
           "shou3 zhuo2",
-          "brasle"
+          "[brasle]"
         ],
         [
           "古代",
@@ -715,7 +715,7 @@ window.BOOK_DATA[0] ={
           "fr/12216.mp3",
           "zh/12216.mp3",
           "gu3 dai4",
-          "ɑ̃tikite"
+          "[ɑ̃tikite]"
         ],
         [
           "象征",
@@ -724,7 +724,7 @@ window.BOOK_DATA[0] ={
           "fr/12217.mp3",
           "zh/12217.mp3",
           "xiang4 zheng1",
-          "ɑ̃blɛm"
+          "[ɑ̃blɛm]"
         ],
         [
           "和平",
@@ -733,7 +733,7 @@ window.BOOK_DATA[0] ={
           "fr/12218.mp3",
           "zh/12218.mp3",
           "he2 ping2",
-          "pɛ"
+          "[pɛ]"
         ],
         [
           "光荣",
@@ -742,7 +742,7 @@ window.BOOK_DATA[0] ={
           "fr/12219.mp3",
           "zh/12219.mp3",
           "guang1 rong2",
-          "glwa:r"
+          "[glwa:r]"
         ],
         [
           "家具",
@@ -751,7 +751,7 @@ window.BOOK_DATA[0] ={
           "fr/12220.mp3",
           "zh/12220.mp3",
           "jia1 ju4",
-          "mœbl"
+          "[mœbl]"
         ]
       ]
     },
@@ -766,7 +766,7 @@ window.BOOK_DATA[0] ={
           "fr/12221.mp3",
           "zh/12221.mp3",
           "lan2 se4 de5",
-          "blø"
+          "[blø]"
         ],
         [
           "蔚蓝的",
@@ -775,7 +775,7 @@ window.BOOK_DATA[0] ={
           "fr/12222.mp3",
           "zh/12222.mp3",
           "wei4 lan2 de5",
-          "azyre"
+          "[azyre]"
         ],
         [
           "深蓝色",
@@ -784,7 +784,7 @@ window.BOOK_DATA[0] ={
           "fr/12223.mp3",
           "zh/12223.mp3",
           "shen1 lan2 se4",
-          "blø prɔfɔ̃"
+          "[blø prɔfɔ̃]"
         ],
         [
           "天蓝色",
@@ -793,7 +793,7 @@ window.BOOK_DATA[0] ={
           "fr/12224.mp3",
           "zh/12224.mp3",
           "tian1 lan2 se4",
-          "blø sjɛl"
+          "[blø sjɛl]"
         ],
         [
           "深蓝色",
@@ -802,7 +802,7 @@ window.BOOK_DATA[0] ={
           "fr/12225.mp3",
           "zh/12225.mp3",
           "shen1 lan2 se4",
-          "blø fɔ̃se"
+          "[blø fɔ̃se]"
         ],
         [
           "深蓝色",
@@ -811,7 +811,7 @@ window.BOOK_DATA[0] ={
           "fr/12226.mp3",
           "zh/12226.mp3",
           "shen1 lan2 se4",
-          "blø sɔ̃br"
+          "[blø sɔ̃br]"
         ],
         [
           "海蓝色",
@@ -820,7 +820,7 @@ window.BOOK_DATA[0] ={
           "fr/12227.mp3",
           "zh/12227.mp3",
           "hai3 lan2 se4",
-          "blø me:r"
+          "[blø me:r]"
         ],
         [
           "宝蓝色",
@@ -829,7 +829,7 @@ window.BOOK_DATA[0] ={
           "fr/12228.mp3",
           "zh/12228.mp3",
           "bao3 lan2 se4",
-          "blø djamɑ̃t"
+          "[blø djamɑ̃t]"
         ],
         [
           "紫色的",
@@ -838,7 +838,7 @@ window.BOOK_DATA[0] ={
           "fr/12229.mp3",
           "zh/12229.mp3",
           "zi3 se4 de5",
-          "vjɔlɛ, ɛt"
+          "[vjɔlɛ, ɛt]"
         ],
         [
           "浅紫色",
@@ -847,7 +847,7 @@ window.BOOK_DATA[0] ={
           "fr/12230.mp3",
           "zh/12230.mp3",
           "qian3 zi3 se4",
-          "vjɔlɛ kle:r"
+          "[vjɔlɛ kle:r]"
         ],
         [
           "紫红色",
@@ -856,7 +856,7 @@ window.BOOK_DATA[0] ={
           "fr/12231.mp3",
           "zh/12231.mp3",
           "zi3 hong2 se4",
-          "purpr"
+          "[purpr]"
         ],
         [
           "紫罗兰",
@@ -865,7 +865,7 @@ window.BOOK_DATA[0] ={
           "fr/12232.mp3",
           "zh/12232.mp3",
           "zi3 luo2 lan2",
-          "ʒirɔfle"
+          "[ʒirɔfle]"
         ],
         [
           "丁香紫",
@@ -874,7 +874,7 @@ window.BOOK_DATA[0] ={
           "fr/12233.mp3",
           "zh/12233.mp3",
           "ding1 xiang1 zi3",
-          "lila(a)"
+          "[lila(a)]"
         ],
         [
           "浅紫色",
@@ -883,7 +883,7 @@ window.BOOK_DATA[0] ={
           "fr/12234.mp3",
           "zh/12234.mp3",
           "qian3 zi3 se4",
-          "mov"
+          "[mov]"
         ]
       ],
       "s": [
@@ -950,7 +950,7 @@ window.BOOK_DATA[0] ={
           "fr/12241.mp3",
           "zh/12241.mp3",
           "tai4 ping2 yang2",
-          "pasifik"
+          "[pasifik]"
         ],
         [
           "梦想",
@@ -959,7 +959,7 @@ window.BOOK_DATA[0] ={
           "fr/12242.mp3",
           "zh/12242.mp3",
           "meng4 xiang3",
-          "re:v"
+          "[re:v]"
         ],
         [
           "深色的",
@@ -968,7 +968,7 @@ window.BOOK_DATA[0] ={
           "fr/12243.mp3",
           "zh/12243.mp3",
           "shen1 se4 de5",
-          "fɔ̃se"
+          "[fɔ̃se]"
         ]
       ]
     },
@@ -983,7 +983,7 @@ window.BOOK_DATA[0] ={
           "fr/12244.mp3",
           "zh/12244.mp3",
           "hong2 se4",
-          "ru:ʒ"
+          "[ru:ʒ]"
         ],
         [
           "淡红色",
@@ -992,7 +992,7 @@ window.BOOK_DATA[0] ={
           "fr/12245.mp3",
           "zh/12245.mp3",
           "dan4 hong2 se4",
-          "ruʒa:tr"
+          "[ruʒa:tr]"
         ],
         [
           "粉红色",
@@ -1001,7 +1001,7 @@ window.BOOK_DATA[0] ={
           "fr/12246.mp3",
           "zh/12246.mp3",
           "fen3 hong2 se4",
-          "ro:z"
+          "[ro:z]"
         ],
         [
           "深红色",
@@ -1010,7 +1010,7 @@ window.BOOK_DATA[0] ={
           "fr/12247.mp3",
           "zh/12247.mp3",
           "shen1 hong2 se4",
-          "ro:z fɔ̃se"
+          "[ro:z fɔ̃se]"
         ],
         [
           "朱红色",
@@ -1019,7 +1019,7 @@ window.BOOK_DATA[0] ={
           "fr/12248.mp3",
           "zh/12248.mp3",
           "zhu1 hong2 se4",
-          "vermijɔ̃"
+          "[vermijɔ̃]"
         ],
         [
           "深红色",
@@ -1028,7 +1028,7 @@ window.BOOK_DATA[0] ={
           "fr/12249.mp3",
           "zh/12249.mp3",
           "shen1 hong2 se4",
-          "ro:z sɔ̃:br"
+          "[ro:z sɔ̃:br]"
         ],
         [
           "猩红色",
@@ -1037,7 +1037,7 @@ window.BOOK_DATA[0] ={
           "fr/12250.mp3",
           "zh/12250.mp3",
           "xing1 hong2 se4",
-          "ekarlat"
+          "[ekarlat]"
         ],
         [
           "银色",
@@ -1046,7 +1046,7 @@ window.BOOK_DATA[0] ={
           "fr/12251.mp3",
           "zh/12251.mp3",
           "yin2 se4",
-          "arʒɑ̃te"
+          "[arʒɑ̃te]"
         ],
         [
           "黑色",
@@ -1055,7 +1055,7 @@ window.BOOK_DATA[0] ={
           "fr/12252.mp3",
           "zh/12252.mp3",
           "hei1 se4",
-          "nwa:r"
+          "[nwa:r]"
         ],
         [
           "青铜色",
@@ -1064,7 +1064,7 @@ window.BOOK_DATA[0] ={
           "fr/12253.mp3",
           "zh/12253.mp3",
           "qing1 tong2 se4",
-          "brɔ̃:z"
+          "[brɔ̃:z]"
         ],
         [
           "白色",
@@ -1073,7 +1073,7 @@ window.BOOK_DATA[0] ={
           "fr/12254.mp3",
           "zh/12254.mp3",
           "bai2 se4",
-          "blɑ̃, ɑ̃ʃ"
+          "[blɑ̃, ɑ̃ʃ]"
         ],
         [
           "象牙白",
@@ -1082,7 +1082,7 @@ window.BOOK_DATA[0] ={
           "fr/12255.mp3",
           "zh/12255.mp3",
           "xiang4 ya2 bai2",
-          "ivwa:r"
+          "[ivwa:r]"
         ],
         [
           "乳白色",
@@ -1091,7 +1091,7 @@ window.BOOK_DATA[0] ={
           "fr/12256.mp3",
           "zh/12256.mp3",
           "ru3 bai2 se4",
-          "letø, ø:z"
+          "[letø, ø:z]"
         ],
         [
           "灰色",
@@ -1100,7 +1100,7 @@ window.BOOK_DATA[0] ={
           "fr/12257.mp3",
           "zh/12257.mp3",
           "hui1 se4",
-          "gri, z"
+          "[gri, z]"
         ],
         [
           "棕色",
@@ -1109,7 +1109,7 @@ window.BOOK_DATA[0] ={
           "fr/12258.mp3",
           "zh/12258.mp3",
           "zong1 se4",
-          "marɔ̃"
+          "[marɔ̃]"
         ],
         [
           "浅棕色",
@@ -1118,7 +1118,7 @@ window.BOOK_DATA[0] ={
           "fr/12259.mp3",
           "zh/12259.mp3",
           "qian3 zong1 se4",
-          "marɔ̃ kle:r"
+          "[marɔ̃ kle:r]"
         ],
         [
           "彩色",
@@ -1127,7 +1127,7 @@ window.BOOK_DATA[0] ={
           "fr/12260.mp3",
           "zh/12260.mp3",
           "cai3 se4",
-          "kulœ:r"
+          "[kulœ:r]"
         ]
       ],
       "s": [
@@ -1185,7 +1185,7 @@ window.BOOK_DATA[0] ={
           "fr/12266.mp3",
           "zh/12266.mp3",
           "che1 liang4",
-          "vwaty:r"
+          "[vwaty:r]"
         ],
         [
           "起源，开始",
@@ -1194,7 +1194,7 @@ window.BOOK_DATA[0] ={
           "fr/12267.mp3",
           "zh/12267.mp3",
           "qi3 yuan2 ， kai1 shi3",
-          "ɔriʒin"
+          "[ɔriʒin]"
         ],
         [
           "包容，含有",
@@ -1203,7 +1203,7 @@ window.BOOK_DATA[0] ={
           "fr/12268.mp3",
           "zh/12268.mp3",
           "bao1 rong2 ， han2 you3",
-          "kɔ̃tni:r"
+          "[kɔ̃tni:r]"
         ],
         [
           "可自由处理的",
@@ -1212,7 +1212,7 @@ window.BOOK_DATA[0] ={
           "fr/12269.mp3",
           "zh/12269.mp3",
           "ke3 zi4 you2 chu4 li3 de5",
-          "dispɔ̃nibl"
+          "[dispɔ̃nibl]"
         ]
       ]
     },
@@ -1227,7 +1227,7 @@ window.BOOK_DATA[0] ={
           "fr/12270.mp3",
           "zh/12270.mp3",
           "（ fu2 zhuang1 / yan2 se4 ） xiang1 pei4 de5",
-          "sejɑ̃, ɑ̃:t"
+          "[sejɑ̃, ɑ̃:t]"
         ],
         [
           "得体的",
@@ -1236,7 +1236,7 @@ window.BOOK_DATA[0] ={
           "fr/12271.mp3",
           "zh/12271.mp3",
           "de2 ti3 de5",
-          "kɔvnabl"
+          "[kɔvnabl]"
         ],
         [
           "与……相配",
@@ -1245,7 +1245,7 @@ window.BOOK_DATA[0] ={
           "fr/12272.mp3",
           "zh/12272.mp3",
           "yu3 … … xiang1 pei4",
-          "asɔrti:r"
+          "[asɔrti:r]"
         ],
         [
           "朴素的",
@@ -1254,7 +1254,7 @@ window.BOOK_DATA[0] ={
           "fr/12273.mp3",
           "zh/12273.mp3",
           "pu3 su4 de5",
-          "sɛ̃:pl"
+          "[sɛ̃:pl]"
         ],
         [
           "漂亮雅致的",
@@ -1263,7 +1263,7 @@ window.BOOK_DATA[0] ={
           "fr/12274.mp3",
           "zh/12274.mp3",
           "piao1 liang4 ya3 zhi4 de5",
-          "elegɑ̃, ɑ̃:t"
+          "[elegɑ̃, ɑ̃:t]"
         ],
         [
           "比例",
@@ -1272,7 +1272,7 @@ window.BOOK_DATA[0] ={
           "fr/12275.mp3",
           "zh/12275.mp3",
           "bi3 li4",
-          "prɔpɔrsjɔ̃"
+          "[prɔpɔrsjɔ̃]"
         ],
         [
           "运动的",
@@ -1281,7 +1281,7 @@ window.BOOK_DATA[0] ={
           "fr/12276.mp3",
           "zh/12276.mp3",
           "yun4 dong4 de5",
-          "spɔrtif, iv"
+          "[spɔrtif, iv]"
         ],
         [
           "衣服的风格",
@@ -1290,7 +1290,7 @@ window.BOOK_DATA[0] ={
           "fr/12277.mp3",
           "zh/12277.mp3",
           "yi1 fu2 de5 feng1 ge2",
-          "stil"
+          "[stil]"
         ],
         [
           "肤色",
@@ -1299,7 +1299,7 @@ window.BOOK_DATA[0] ={
           "fr/12278.mp3",
           "zh/12278.mp3",
           "fu1 se4",
-          "tɛ"
+          "[tɛ]"
         ],
         [
           "最近的",
@@ -1308,7 +1308,7 @@ window.BOOK_DATA[0] ={
           "fr/12279.mp3",
           "zh/12279.mp3",
           "zui4 jin4 de5",
-          "resɑ̃, ɑ̃:t"
+          "[resɑ̃, ɑ̃:t]"
         ],
         [
           "适当的",
@@ -1317,7 +1317,7 @@ window.BOOK_DATA[0] ={
           "fr/12280.mp3",
           "zh/12280.mp3",
           "shi4 dang1 de5",
-          "aprɔprije"
+          "[aprɔprije]"
         ],
         [
           "招摇",
@@ -1326,7 +1326,7 @@ window.BOOK_DATA[0] ={
           "fr/12281.mp3",
           "zh/12281.mp3",
           "zhao1 yao2",
-          "fɑ̃fa:r"
+          "[fɑ̃fa:r]"
         ],
         [
           "完美的",
@@ -1335,7 +1335,7 @@ window.BOOK_DATA[0] ={
           "fr/12282.mp3",
           "zh/12282.mp3",
           "wan2 mei3 de5",
-          "parfɛ"
+          "[parfɛ]"
         ],
         [
           "流行",
@@ -1344,7 +1344,7 @@ window.BOOK_DATA[0] ={
           "fr/12283.mp3",
           "zh/12283.mp3",
           "liu2 xing2",
-          "ɑ̃ vɔg"
+          "[ɑ̃ vɔg]"
         ],
         [
           "多种色彩的",
@@ -1353,7 +1353,7 @@ window.BOOK_DATA[0] ={
           "fr/12284.mp3",
           "zh/12284.mp3",
           "duo1 zhong3 se4 cai3 de5",
-          "myltikɔlɔ:r"
+          "[myltikɔlɔ:r]"
         ],
         [
           "印象",
@@ -1362,7 +1362,7 @@ window.BOOK_DATA[0] ={
           "fr/12285.mp3",
           "zh/12285.mp3",
           "yin4 xiang4",
-          "ɛ̃p rɛ(e)sjɔ̃"
+          "[ɛ̃p rɛ(e)sjɔ̃]"
         ],
         [
           "细节",
@@ -1371,7 +1371,7 @@ window.BOOK_DATA[0] ={
           "fr/12286.mp3",
           "zh/12286.mp3",
           "xi4 jie2",
-          "detaj"
+          "[detaj]"
         ]
       ],
       "s": [
@@ -1438,7 +1438,7 @@ window.BOOK_DATA[0] ={
           "fr/12293.mp3",
           "zh/12293.mp3",
           "li4 shi3",
-          "istwa:r"
+          "[istwa:r]"
         ],
         [
           "周期，阶段",
@@ -1447,7 +1447,7 @@ window.BOOK_DATA[0] ={
           "fr/12294.mp3",
           "zh/12294.mp3",
           "zhou1 qi1 ， jie1 duan4",
-          "perjɔd"
+          "[perjɔd]"
         ],
         [
           "屈辱",
@@ -1456,7 +1456,7 @@ window.BOOK_DATA[0] ={
           "fr/12295.mp3",
           "zh/12295.mp3",
           "qu1 ru3",
-          "ɛsylte"
+          "[ɛsylte]"
         ],
         [
           "困难的",
@@ -1465,7 +1465,7 @@ window.BOOK_DATA[0] ={
           "fr/12296.mp3",
           "zh/12296.mp3",
           "kun4 nan2 de5",
-          "dy:r"
+          "[dy:r]"
         ],
         [
           "高墙",
@@ -1474,7 +1474,7 @@ window.BOOK_DATA[0] ={
           "fr/12297.mp3",
           "zh/12297.mp3",
           "gao1 qiang2",
-          "myra:j"
+          "[myra:j]"
         ]
       ]
     },
@@ -1489,7 +1489,7 @@ window.BOOK_DATA[0] ={
           "fr/12298.mp3",
           "zh/12298.mp3",
           "zui4 xin1 kuan3 shi4",
-          "dɛrnje stil"
+          "[dɛrnje stil]"
         ],
         [
           "流行",
@@ -1498,7 +1498,7 @@ window.BOOK_DATA[0] ={
           "fr/12299.mp3",
           "zh/12299.mp3",
           "liu2 xing2",
-          "pɔpyle:r"
+          "[pɔpyle:r]"
         ],
         [
           "过时的",
@@ -1507,7 +1507,7 @@ window.BOOK_DATA[0] ={
           "fr/12300.mp3",
           "zh/12300.mp3",
           "guo4 shi2 de5",
-          "pa(a)se"
+          "[pa(a)se]"
         ],
         [
           "领结",
@@ -1516,7 +1516,7 @@ window.BOOK_DATA[0] ={
           "fr/12301.mp3",
           "zh/12301.mp3",
           "ling3 jie2",
-          "kravat"
+          "[kravat]"
         ],
         [
           "蝴蝶结",
@@ -1525,7 +1525,7 @@ window.BOOK_DATA[0] ={
           "fr/12302.mp3",
           "zh/12302.mp3",
           "hu2 die2 jie2",
-          "nø papijɔ̃"
+          "[nø papijɔ̃]"
         ],
         [
           "领口",
@@ -1534,7 +1534,7 @@ window.BOOK_DATA[0] ={
           "fr/12303.mp3",
           "zh/12303.mp3",
           "ling3 kou3",
-          "kɔle"
+          "[kɔle]"
         ],
         [
           "U型领",
@@ -1543,7 +1543,7 @@ window.BOOK_DATA[0] ={
           "fr/12304.mp3",
           "zh/12304.mp3",
           "U xing2 ling3",
-          "kɔl-y"
+          "[kɔl-y]"
         ],
         [
           "V型领",
@@ -1552,7 +1552,7 @@ window.BOOK_DATA[0] ={
           "fr/12305.mp3",
           "zh/12305.mp3",
           "V xing2 ling3",
-          "kɔl-ve"
+          "[kɔl-ve]"
         ],
         [
           "尺寸",
@@ -1561,7 +1561,7 @@ window.BOOK_DATA[0] ={
           "fr/12306.mp3",
           "zh/12306.mp3",
           "chi3 cun4",
-          "pwɛ̃ty:r"
+          "[pwɛ̃ty:r]"
         ],
         [
           "尺码",
@@ -1570,7 +1570,7 @@ window.BOOK_DATA[0] ={
           "fr/12307.mp3",
           "zh/12307.mp3",
           "chi3 ma3",
-          "ta:(a)j"
+          "[ta:(a)j]"
         ],
         [
           "小号的",
@@ -1579,7 +1579,7 @@ window.BOOK_DATA[0] ={
           "fr/12308.mp3",
           "zh/12308.mp3",
           "xiao3 hao4 de5",
-          "p(ə)ti, it"
+          "[p(ə)ti, it]"
         ],
         [
           "中号的",
@@ -1588,7 +1588,7 @@ window.BOOK_DATA[0] ={
           "fr/12309.mp3",
           "zh/12309.mp3",
           "zhong1 hao4 de5",
-          "mwajɛ̃, ɛn"
+          "[mwajɛ̃, ɛn]"
         ],
         [
           "大号的",
@@ -1597,7 +1597,7 @@ window.BOOK_DATA[0] ={
           "fr/12310.mp3",
           "zh/12310.mp3",
           "da4 hao4 de5",
-          "larʒ"
+          "[larʒ]"
         ],
         [
           "胸围",
@@ -1606,7 +1606,7 @@ window.BOOK_DATA[0] ={
           "fr/12311.mp3",
           "zh/12311.mp3",
           "xiong1 wei2",
-          "tu:r d(ə) pwatrın"
+          "[tu:r d(ə) pwatrın]"
         ],
         [
           "腰围",
@@ -1615,7 +1615,7 @@ window.BOOK_DATA[0] ={
           "fr/12312.mp3",
           "zh/12312.mp3",
           "yao1 wei2",
-          "tu:r d(a) ta:(a)j"
+          "[tu:r d(a) ta:(a)j]"
         ],
         [
           "剪裁",
@@ -1624,7 +1624,7 @@ window.BOOK_DATA[0] ={
           "fr/12313.mp3",
           "zh/12313.mp3",
           "jian3 cai2",
-          "ta(a)je"
+          "[ta(a)je]"
         ],
         [
           "高翻领",
@@ -1633,7 +1633,7 @@ window.BOOK_DATA[0] ={
           "fr/12314.mp3",
           "zh/12314.mp3",
           "gao1 fan1 ling3",
-          "kɔl rule"
+          "[kɔl rule]"
         ]
       ],
       "s": [
@@ -1691,7 +1691,7 @@ window.BOOK_DATA[0] ={
           "fr/12320.mp3",
           "zh/12320.mp3",
           "gan3 nian4 ， gou4 si1",
-          "kɔ̃sɛpsjɔ̃"
+          "[kɔ̃sɛpsjɔ̃]"
         ],
         [
           "缺少，缺乏",
@@ -1700,7 +1700,7 @@ window.BOOK_DATA[0] ={
           "fr/12321.mp3",
           "zh/12321.mp3",
           "que1 shao3 ， que1 fa2",
-          "mɑ̃ke"
+          "[mɑ̃ke]"
         ],
         [
           "将来，未来",
@@ -1709,7 +1709,7 @@ window.BOOK_DATA[0] ={
           "fr/12322.mp3",
           "zh/12322.mp3",
           "jiang1 lai2 ， wei4 lai2",
-          "fyty:r"
+          "[fyty:r]"
         ],
         [
           "可自由处理的",
@@ -1718,7 +1718,7 @@ window.BOOK_DATA[0] ={
           "fr/12323.mp3",
           "zh/12323.mp3",
           "ke3 zi4 you2 chu4 li3 de5",
-          "dispɔnibl"
+          "[dispɔnibl]"
         ],
         [
           "样品卡",
@@ -1727,7 +1727,7 @@ window.BOOK_DATA[0] ={
           "fr/12324.mp3",
           "zh/12324.mp3",
           "yang4 pin3 ka3",
-          "nyɑ̃sje"
+          "[nyɑ̃sje]"
         ]
       ]
     },
@@ -1742,7 +1742,7 @@ window.BOOK_DATA[0] ={
           "fr/12325.mp3",
           "zh/12325.mp3",
           "wu2 bian1 ruan3 mao4",
-          "bɔnɛ"
+          "[bɔnɛ]"
         ],
         [
           "帽子",
@@ -1751,7 +1751,7 @@ window.BOOK_DATA[0] ={
           "fr/12326.mp3",
           "zh/12326.mp3",
           "mao4 zi5",
-          "kwafy:r"
+          "[kwafy:r]"
         ],
         [
           "帽子",
@@ -1760,7 +1760,7 @@ window.BOOK_DATA[0] ={
           "fr/12327.mp3",
           "zh/12327.mp3",
           "mao4 zi5",
-          "ʃapo"
+          "[ʃapo]"
         ],
         [
           "圆顶礼帽",
@@ -1769,7 +1769,7 @@ window.BOOK_DATA[0] ={
           "fr/12328.mp3",
           "zh/12328.mp3",
           "yuan2 ding3 li3 mao4",
-          "ʃapo malɔ̃"
+          "[ʃapo malɔ̃]"
         ],
         [
           "草帽",
@@ -1778,7 +1778,7 @@ window.BOOK_DATA[0] ={
           "fr/12329.mp3",
           "zh/12329.mp3",
           "cao3 mao4",
-          "pajasɔ̃"
+          "[pajasɔ̃]"
         ],
         [
           "大皮毛帽",
@@ -1787,7 +1787,7 @@ window.BOOK_DATA[0] ={
           "fr/12330.mp3",
           "zh/12330.mp3",
           "da4 pi2 mao2 mao4",
-          "ʃapka"
+          "[ʃapka]"
         ],
         [
           "兜帽",
@@ -1796,7 +1796,7 @@ window.BOOK_DATA[0] ={
           "fr/12331.mp3",
           "zh/12331.mp3",
           "dou1 mao4",
-          "ʃaprɔ̃"
+          "[ʃaprɔ̃]"
         ],
         [
           "鸭舌帽",
@@ -1805,7 +1805,7 @@ window.BOOK_DATA[0] ={
           "fr/12332.mp3",
           "zh/12332.mp3",
           "ya1 she2 mao4",
-          "kaskɛt"
+          "[kaskɛt]"
         ],
         [
           "贝雷帽",
@@ -1814,7 +1814,7 @@ window.BOOK_DATA[0] ={
           "fr/12333.mp3",
           "zh/12333.mp3",
           "bei4 lei2 mao4",
-          "berɛ"
+          "[berɛ]"
         ],
         [
           "圆顶小帽",
@@ -1823,7 +1823,7 @@ window.BOOK_DATA[0] ={
           "fr/12334.mp3",
           "zh/12334.mp3",
           "yuan2 ding3 xiao3 mao4",
-          "kipa"
+          "[kipa]"
         ],
         [
           "戴着",
@@ -1832,7 +1832,7 @@ window.BOOK_DATA[0] ={
           "fr/12335.mp3",
           "zh/12335.mp3",
           "dai4 zhe5",
-          "pɔrte"
+          "[pɔrte]"
         ],
         [
           "发型，帽子",
@@ -1841,7 +1841,7 @@ window.BOOK_DATA[0] ={
           "fr/12336.mp3",
           "zh/12336.mp3",
           "fa1 xing2 ， mao4 zi5",
-          "kwafy:r"
+          "[kwafy:r]"
         ],
         [
           "头巾",
@@ -1850,7 +1850,7 @@ window.BOOK_DATA[0] ={
           "fr/12337.mp3",
           "zh/12337.mp3",
           "tou2 jin1",
-          "eʃarp"
+          "[eʃarp]"
         ],
         [
           "耳机，头盔",
@@ -1859,7 +1859,7 @@ window.BOOK_DATA[0] ={
           "fr/12338.mp3",
           "zh/12338.mp3",
           "er3 ji1 ， tou2 kui1",
-          "kask"
+          "[kask]"
         ],
         [
           "帽顶",
@@ -1868,7 +1868,7 @@ window.BOOK_DATA[0] ={
           "fr/12339.mp3",
           "zh/12339.mp3",
           "mao4 ding3",
-          "kalɔt"
+          "[kalɔt]"
         ],
         [
           "带，箍",
@@ -1877,7 +1877,7 @@ window.BOOK_DATA[0] ={
           "fr/12340.mp3",
           "zh/12340.mp3",
           "dai4 ， gu1",
-          "sɛrso"
+          "[sɛrso]"
         ],
         [
           "帽纱",
@@ -1886,7 +1886,7 @@ window.BOOK_DATA[0] ={
           "fr/12341.mp3",
           "zh/12341.mp3",
           "mao4 sha1",
-          "vwalaʒ dœ̃ ʃapo"
+          "[vwalaʒ dœ̃ ʃapo]"
         ],
         [
           "帽舌",
@@ -1895,7 +1895,7 @@ window.BOOK_DATA[0] ={
           "fr/12342.mp3",
           "zh/12342.mp3",
           "mao4 she2",
-          "vizjɛ:r"
+          "[vizjɛ:r]"
         ]
       ],
       "s": [
@@ -1962,7 +1962,7 @@ window.BOOK_DATA[0] ={
           "fr/12349.mp3",
           "zh/12349.mp3",
           "geng4 hao3 de5",
-          "mɛ(ə)jœ:r"
+          "[mɛ(ə)jœ:r]"
         ],
         [
           "版本",
@@ -1971,7 +1971,7 @@ window.BOOK_DATA[0] ={
           "fr/12350.mp3",
           "zh/12350.mp3",
           "ban3 ben3",
-          "vɛrsjɔ̃"
+          "[vɛrsjɔ̃]"
         ],
         [
           "合适的",
@@ -1980,7 +1980,7 @@ window.BOOK_DATA[0] ={
           "fr/12351.mp3",
           "zh/12351.mp3",
           "he2 shi4 de5",
-          "kɔvni:r"
+          "[kɔvni:r]"
         ],
         [
           "流行，风行一时",
@@ -1989,7 +1989,7 @@ window.BOOK_DATA[0] ={
           "fr/12352.mp3",
           "zh/12352.mp3",
           "liu2 xing2 ， feng1 xing2 yi4 shi2",
-          "a la mɔd"
+          "[a la mɔd]"
         ]
       ]
     },
@@ -2004,7 +2004,7 @@ window.BOOK_DATA[0] ={
           "fr/12353.mp3",
           "zh/12353.mp3",
           "duan3 wai4 tao4 ， da4 yi1",
-          "vest"
+          "[vest]"
         ],
         [
           "大衣",
@@ -2013,7 +2013,7 @@ window.BOOK_DATA[0] ={
           "fr/12354.mp3",
           "zh/12354.mp3",
           "da4 yi1",
-          "pardasy"
+          "[pardasy]"
         ],
         [
           "短大衣",
@@ -2022,7 +2022,7 @@ window.BOOK_DATA[0] ={
           "fr/12355.mp3",
           "zh/12355.mp3",
           "duan3 da4 yi1",
-          "mɑ̃to d(ə) d(ə)mi sezɔ̃"
+          "[mɑ̃to d(ə) d(ə)mi sezɔ̃]"
         ],
         [
           "西装上衣",
@@ -2031,7 +2031,7 @@ window.BOOK_DATA[0] ={
           "fr/12356.mp3",
           "zh/12356.mp3",
           "xi1 zhuang1 shang4 yi1",
-          "vestɔ̃"
+          "[vestɔ̃]"
         ],
         [
           "女衬衫",
@@ -2040,7 +2040,7 @@ window.BOOK_DATA[0] ={
           "fr/12357.mp3",
           "zh/12357.mp3",
           "nv3 chen4 shan1",
-          "blu:z"
+          "[blu:z]"
         ],
         [
           "衬衫",
@@ -2049,7 +2049,7 @@ window.BOOK_DATA[0] ={
           "fr/12358.mp3",
           "zh/12358.mp3",
           "chen4 shan1",
-          "ʃ(ə)mi:z"
+          "[ʃ(ə)mi:z]"
         ],
         [
           "T恤衫",
@@ -2058,7 +2058,7 @@ window.BOOK_DATA[0] ={
           "fr/12359.mp3",
           "zh/12359.mp3",
           "T xu4 shan1",
-          "'ti ʃə:t"
+          "['ti ʃə:t]"
         ],
         [
           "汗衫",
@@ -2067,7 +2067,7 @@ window.BOOK_DATA[0] ={
           "fr/12360.mp3",
           "zh/12360.mp3",
           "han4 shan1",
-          "majo"
+          "[majo]"
         ],
         [
           "毛衣",
@@ -2076,7 +2076,7 @@ window.BOOK_DATA[0] ={
           "fr/12361.mp3",
           "zh/12361.mp3",
           "mao2 yi1",
-          "tʃiko"
+          "[tʃiko]"
         ],
         [
           "开襟短上衣",
@@ -2085,7 +2085,7 @@ window.BOOK_DATA[0] ={
           "fr/12362.mp3",
           "zh/12362.mp3",
           "kai1 jin1 duan3 shang4 yi1",
-          "bɔleʃo"
+          "[bɔleʃo]"
         ],
         [
           "无袖毛衣",
@@ -2094,7 +2094,7 @@ window.BOOK_DATA[0] ={
           "fr/12363.mp3",
           "zh/12363.mp3",
           "wu2 xiu4 mao2 yi1",
-          "tʃiko sɑ̃mɑ̃ʃ"
+          "[tʃiko sɑ̃mɑ̃ʃ]"
         ],
         [
           "坎肩",
@@ -2103,7 +2103,7 @@ window.BOOK_DATA[0] ={
           "fr/12364.mp3",
           "zh/12364.mp3",
           "kan3 jian1",
-          "ʒile"
+          "[ʒile]"
         ],
         [
           "背心",
@@ -2112,7 +2112,7 @@ window.BOOK_DATA[0] ={
           "fr/12365.mp3",
           "zh/12365.mp3",
           "bei4 xin1",
-          "vɛtmɑ̃ sɑ̃ mɑ̃ʃ"
+          "[vɛtmɑ̃ sɑ̃ mɑ̃ʃ]"
         ],
         [
           "内衣",
@@ -2121,7 +2121,7 @@ window.BOOK_DATA[0] ={
           "fr/12366.mp3",
           "zh/12366.mp3",
           "nei4 yi1",
-          "vɛtmɑ̃ d(ə) d(ə)su"
+          "[vɛtmɑ̃ d(ə) d(ə)su]"
         ],
         [
           "乳罩",
@@ -2130,7 +2130,7 @@ window.BOOK_DATA[0] ={
           "fr/12367.mp3",
           "zh/12367.mp3",
           "ru3 zhao4",
-          "brasjɛʃ"
+          "[brasjɛʃ]"
         ],
         [
           "袖口",
@@ -2139,7 +2139,7 @@ window.BOOK_DATA[0] ={
           "fr/12368.mp3",
           "zh/12368.mp3",
           "xiu4 kou3",
-          "mɑ̃ʃɛt"
+          "[mɑ̃ʃɛt]"
         ],
         [
           "无袖的",
@@ -2148,7 +2148,7 @@ window.BOOK_DATA[0] ={
           "fr/12369.mp3",
           "zh/12369.mp3",
           "wu2 xiu4 de5",
-          "sɑ̃mɑ̃ʃ"
+          "[sɑ̃mɑ̃ʃ]"
         ],
         [
           "纽扣",
@@ -2157,7 +2157,7 @@ window.BOOK_DATA[0] ={
           "fr/12370.mp3",
           "zh/12370.mp3",
           "niu3 kou4",
-          "butɔ̃"
+          "[butɔ̃]"
         ],
         [
           "宽松的",
@@ -2166,7 +2166,7 @@ window.BOOK_DATA[0] ={
           "fr/12371.mp3",
           "zh/12371.mp3",
           "kuan1 song1 de5",
-          "lɑ:ʃ"
+          "[lɑ:ʃ]"
         ],
         [
           "紧的",
@@ -2175,7 +2175,7 @@ window.BOOK_DATA[0] ={
           "fr/12372.mp3",
           "zh/12372.mp3",
           "jin3 de5",
-          "se(ɛ)ʃe"
+          "[se(ɛ)ʃe]"
         ],
         [
           "紧身的",
@@ -2184,7 +2184,7 @@ window.BOOK_DATA[0] ={
           "fr/12373.mp3",
           "zh/12373.mp3",
           "jin3 shen1 de5",
-          "mulɑ̃"
+          "[mulɑ̃]"
         ]
       ],
       "s": [
@@ -2242,7 +2242,7 @@ window.BOOK_DATA[0] ={
           "fr/12379.mp3",
           "zh/12379.mp3",
           "shi4 yan4",
-          "ese(ɛ)je"
+          "[ese(ɛ)je]"
         ],
         [
           "有助于",
@@ -2251,7 +2251,7 @@ window.BOOK_DATA[0] ={
           "fr/12380.mp3",
           "zh/12380.mp3",
           "you3 zhu4 yu2",
-          "kɔ̃tʃibɥe"
+          "[kɔ̃tʃibɥe]"
         ],
         [
           "发展",
@@ -2260,7 +2260,7 @@ window.BOOK_DATA[0] ={
           "fr/12381.mp3",
           "zh/12381.mp3",
           "fa1 zhan3",
-          "devlɔpmɑ̃"
+          "[devlɔpmɑ̃]"
         ],
         [
           "产业",
@@ -2269,7 +2269,7 @@ window.BOOK_DATA[0] ={
           "fr/12382.mp3",
           "zh/12382.mp3",
           "chan3 ye4",
-          "ɛ̃d ystri"
+          "[ɛ̃d ystri]"
         ],
         [
           "窄的",
@@ -2278,7 +2278,7 @@ window.BOOK_DATA[0] ={
           "fr/12383.mp3",
           "zh/12383.mp3",
           "zhai3 de5",
-          "etʃwa, t"
+          "[etʃwa, t]"
         ],
         [
           "末端",
@@ -2287,7 +2287,7 @@ window.BOOK_DATA[0] ={
           "fr/12384.mp3",
           "zh/12384.mp3",
           "mo4 duan1",
-          "bu"
+          "[bu]"
         ],
         [
           "高大的",
@@ -2296,7 +2296,7 @@ window.BOOK_DATA[0] ={
           "fr/12385.mp3",
           "zh/12385.mp3",
           "gao1 da4 de5",
-          "gʃɑ̃, ɑ̃d"
+          "[gʃɑ̃, ɑ̃d]"
         ]
       ]
     },
@@ -2311,7 +2311,7 @@ window.BOOK_DATA[0] ={
           "fr/12386.mp3",
           "zh/12386.mp3",
           "ku4 zi5",
-          "pɑ̃talɔ̃"
+          "[pɑ̃talɔ̃]"
         ],
         [
           "牛仔裤",
@@ -2320,7 +2320,7 @@ window.BOOK_DATA[0] ={
           "fr/12387.mp3",
           "zh/12387.mp3",
           "niu2 zai3 ku4",
-          "dʒin"
+          "[dʒin]"
         ],
         [
           "喇叭裤",
@@ -2329,7 +2329,7 @@ window.BOOK_DATA[0] ={
           "fr/12388.mp3",
           "zh/12388.mp3",
           "la3 ba1 ku4",
-          "pɑ̃talɔ̃ evaze"
+          "[pɑ̃talɔ̃ evaze]"
         ],
         [
           "内裤",
@@ -2338,7 +2338,7 @@ window.BOOK_DATA[0] ={
           "fr/12389.mp3",
           "zh/12389.mp3",
           "nei4 ku4",
-          "kylɔt"
+          "[kylɔt]"
         ],
         [
           "短裤",
@@ -2347,7 +2347,7 @@ window.BOOK_DATA[0] ={
           "fr/12390.mp3",
           "zh/12390.mp3",
           "duan3 ku4",
-          "ʃɔrt"
+          "[ʃɔrt]"
         ],
         [
           "灯笼裤",
@@ -2356,7 +2356,7 @@ window.BOOK_DATA[0] ={
           "fr/12391.mp3",
           "zh/12391.mp3",
           "deng1 long2 ku4",
-          "pɑ̃talɔ̃ bufɑ̃t"
+          "[pɑ̃talɔ̃ bufɑ̃t]"
         ],
         [
           "背带裤",
@@ -2365,7 +2365,7 @@ window.BOOK_DATA[0] ={
           "fr/12392.mp3",
           "zh/12392.mp3",
           "bei4 dai4 ku4",
-          "salɔpɛt"
+          "[salɔpɛt]"
         ],
         [
           "短衬裤",
@@ -2374,7 +2374,7 @@ window.BOOK_DATA[0] ={
           "fr/12393.mp3",
           "zh/12393.mp3",
           "duan3 chen4 ku4",
-          "kalsɔ̃"
+          "[kalsɔ̃]"
         ],
         [
           "马裤",
@@ -2383,7 +2383,7 @@ window.BOOK_DATA[0] ={
           "fr/12394.mp3",
           "zh/12394.mp3",
           "ma3 ku4",
-          "kylɔt d(ə)ʃ(ə)val"
+          "[kylɔt d(ə)ʃ(ə)val]"
         ],
         [
           "背带",
@@ -2392,7 +2392,7 @@ window.BOOK_DATA[0] ={
           "fr/12395.mp3",
           "zh/12395.mp3",
           "bei4 dai4",
-          "bratɛl"
+          "[bratɛl]"
         ],
         [
           "裤腿",
@@ -2401,7 +2401,7 @@ window.BOOK_DATA[0] ={
           "fr/12396.mp3",
           "zh/12396.mp3",
           "ku4 tui3",
-          "ʒɑ̃:bd(ə) pɑ̃talɔ̃"
+          "[ʒɑ̃:bd(ə) pɑ̃talɔ̃]"
         ],
         [
           "口袋",
@@ -2410,7 +2410,7 @@ window.BOOK_DATA[0] ={
           "fr/12397.mp3",
           "zh/12397.mp3",
           "kou3 dai4",
-          "pɔʃ"
+          "[pɔʃ]"
         ],
         [
           "拉链",
@@ -2419,7 +2419,7 @@ window.BOOK_DATA[0] ={
           "fr/12398.mp3",
           "zh/12398.mp3",
           "la1 lian4",
-          "zip"
+          "[zip]"
         ],
         [
           "装拉链",
@@ -2428,7 +2428,7 @@ window.BOOK_DATA[0] ={
           "fr/12399.mp3",
           "zh/12399.mp3",
           "zhuang1 la1 lian4",
-          "zipe"
+          "[zipe]"
         ],
         [
           "扣子",
@@ -2437,7 +2437,7 @@ window.BOOK_DATA[0] ={
           "fr/12400.mp3",
           "zh/12400.mp3",
           "kou4 zi5",
-          "butɔ̃"
+          "[butɔ̃]"
         ],
         [
           "宽松的",
@@ -2446,7 +2446,7 @@ window.BOOK_DATA[0] ={
           "fr/12401.mp3",
           "zh/12401.mp3",
           "kuan1 song1 de5",
-          "la:ʃ"
+          "[la:ʃ]"
         ],
         [
           "松弛",
@@ -2455,7 +2455,7 @@ window.BOOK_DATA[0] ={
           "fr/12402.mp3",
           "zh/12402.mp3",
           "song1 chi2",
-          "r(ə)lakse"
+          "[r(ə)lakse]"
         ],
         [
           "下垂",
@@ -2464,7 +2464,7 @@ window.BOOK_DATA[0] ={
           "fr/12403.mp3",
           "zh/12403.mp3",
           "xia4 chui2",
-          "pɑ̃dr"
+          "[pɑ̃dr]"
         ]
       ],
       "s": [
@@ -2513,7 +2513,7 @@ window.BOOK_DATA[0] ={
           "fr/12408.mp3",
           "zh/12408.mp3",
           "pai4 qian3",
-          "ɑ̃vwaje"
+          "[ɑ̃vwaje]"
         ],
         [
           "直立，站着",
@@ -2522,7 +2522,7 @@ window.BOOK_DATA[0] ={
           "fr/12409.mp3",
           "zh/12409.mp3",
           "zhi2 li4 ， zhan4 zhe5",
-          "dabu"
+          "[dabu]"
         ],
         [
           "理念",
@@ -2531,7 +2531,7 @@ window.BOOK_DATA[0] ={
           "fr/12410.mp3",
           "zh/12410.mp3",
           "li3 nian4",
-          "kɔ̃sɛpsjɔ̃"
+          "[kɔ̃sɛpsjɔ̃]"
         ],
         [
           "按摩",
@@ -2540,7 +2540,7 @@ window.BOOK_DATA[0] ={
           "fr/12411.mp3",
           "zh/12411.mp3",
           "an4 mo2",
-          "masa:ʒ"
+          "[masa:ʒ]"
         ],
         [
           "不可缺少的",
@@ -2549,7 +2549,7 @@ window.BOOK_DATA[0] ={
           "fr/12412.mp3",
           "zh/12412.mp3",
           "bu4 ke3 que1 shao3 de5",
-          "ɛ̃tegrɑ̃, ɑ̃:t"
+          "[ɛ̃tegrɑ̃, ɑ̃:t]"
         ],
         [
           "放松，松开",
@@ -2558,7 +2558,7 @@ window.BOOK_DATA[0] ={
           "fr/12413.mp3",
           "zh/12413.mp3",
           "fang4 song1 ， song1 kai1",
-          "detɑ̃dr"
+          "[detɑ̃dr]"
         ]
       ]
     },
@@ -2573,7 +2573,7 @@ window.BOOK_DATA[0] ={
           "fr/12414.mp3",
           "zh/12414.mp3",
           "qun2 zi5",
-          "ʒyp"
+          "[ʒyp]"
         ],
         [
           "连衣裙",
@@ -2582,7 +2582,7 @@ window.BOOK_DATA[0] ={
           "fr/12415.mp3",
           "zh/12415.mp3",
           "lian2 yi1 qun2",
-          "rɔb"
+          "[rɔb]"
         ],
         [
           "迷你短裙",
@@ -2591,7 +2591,7 @@ window.BOOK_DATA[0] ={
           "fr/12416.mp3",
           "zh/12416.mp3",
           "mi2 ni3 duan3 qun2",
-          "miniʒyp"
+          "[miniʒyp]"
         ],
         [
           "芭蕾舞裙",
@@ -2600,7 +2600,7 @@ window.BOOK_DATA[0] ={
           "fr/12417.mp3",
           "zh/12417.mp3",
           "ba1 lei3 wu3 qun2",
-          "ʒyp d(ə) balɛ"
+          "[ʒyp d(ə) balɛ]"
         ],
         [
           "短褶裙",
@@ -2609,7 +2609,7 @@ window.BOOK_DATA[0] ={
           "fr/12418.mp3",
           "zh/12418.mp3",
           "duan3 zhe3 qun2",
-          "ʒyp plise"
+          "[ʒyp plise]"
         ],
         [
           "喇叭裙",
@@ -2618,7 +2618,7 @@ window.BOOK_DATA[0] ={
           "fr/12419.mp3",
           "zh/12419.mp3",
           "la3 ba1 qun2",
-          "ʒyp evase"
+          "[ʒyp evase]"
         ],
         [
           "开衩裙",
@@ -2627,7 +2627,7 @@ window.BOOK_DATA[0] ={
           "fr/12420.mp3",
           "zh/12420.mp3",
           "kai1 cha3 qun2",
-          "ʒyp fɑ̃dy"
+          "[ʒyp fɑ̃dy]"
         ],
         [
           "衬裙",
@@ -2636,7 +2636,7 @@ window.BOOK_DATA[0] ={
           "fr/12421.mp3",
           "zh/12421.mp3",
           "chen4 qun2",
-          "ʒypɔ̃"
+          "[ʒypɔ̃]"
         ],
         [
           "旗袍",
@@ -2645,7 +2645,7 @@ window.BOOK_DATA[0] ={
           "fr/12422.mp3",
           "zh/12422.mp3",
           "qi2 pao2",
-          "ʒyp ʃinwa:z"
+          "[ʒyp ʃinwa:z]"
         ],
         [
           "无袖连衣裙",
@@ -2654,7 +2654,7 @@ window.BOOK_DATA[0] ={
           "fr/12423.mp3",
           "zh/12423.mp3",
           "wu2 xiu4 lian2 yi1 qun2",
-          "rɔb sɑ̃ mɑ̃:ʃ"
+          "[rɔb sɑ̃ mɑ̃:ʃ]"
         ],
         [
           "宽松连衣裙",
@@ -2663,7 +2663,7 @@ window.BOOK_DATA[0] ={
           "fr/12424.mp3",
           "zh/12424.mp3",
           "kuan1 song1 lian2 yi1 qun2",
-          "rɔb lɑ:ʃ"
+          "[rɔb lɑ:ʃ]"
         ],
         [
           "和服",
@@ -2672,7 +2672,7 @@ window.BOOK_DATA[0] ={
           "fr/12425.mp3",
           "zh/12425.mp3",
           "he2 fu2",
-          "kimɔno"
+          "[kimɔno]"
         ],
         [
           "透明的",
@@ -2681,7 +2681,7 @@ window.BOOK_DATA[0] ={
           "fr/12426.mp3",
           "zh/12426.mp3",
           "tou4 ming2 de5",
-          "trɑ̃sparɑ̃, ɑ̃:t"
+          "[trɑ̃sparɑ̃, ɑ̃:t]"
         ],
         [
           "褶裙",
@@ -2690,7 +2690,7 @@ window.BOOK_DATA[0] ={
           "fr/12427.mp3",
           "zh/12427.mp3",
           "zhe3 qun2",
-          "ʒyp a pli"
+          "[ʒyp a pli]"
         ],
         [
           "裙腰",
@@ -2699,7 +2699,7 @@ window.BOOK_DATA[0] ={
           "fr/12428.mp3",
           "zh/12428.mp3",
           "qun2 yao1",
-          "ɑ̃pjɛsmɑ̃"
+          "[ɑ̃pjɛsmɑ̃]"
         ]
       ],
       "s": [
@@ -2748,7 +2748,7 @@ window.BOOK_DATA[0] ={
           "fr/12433.mp3",
           "zh/12433.mp3",
           "huai2 yi2 ， cai1 ce4",
-          "supsɔne"
+          "[supsɔne]"
         ],
         [
           "风道，网状结构",
@@ -2757,7 +2757,7 @@ window.BOOK_DATA[0] ={
           "fr/12434.mp3",
           "zh/12434.mp3",
           "feng1 dao4 ， wang3 zhuang4 jie2 gou4",
-          "majaʒ"
+          "[majaʒ]"
         ],
         [
           "合适的",
@@ -2766,7 +2766,7 @@ window.BOOK_DATA[0] ={
           "fr/12435.mp3",
           "zh/12435.mp3",
           "he2 shi4 de5",
-          "aprɔprije"
+          "[aprɔprije]"
         ]
       ]
     },
@@ -2781,7 +2781,7 @@ window.BOOK_DATA[0] ={
           "fr/12436.mp3",
           "zh/12436.mp3",
           "xie2",
-          "ʃosy:ʁ"
+          "[ʃosy:ʁ]"
         ],
         [
           "木屐",
@@ -2790,7 +2790,7 @@ window.BOOK_DATA[0] ={
           "fr/12437.mp3",
           "zh/12437.mp3",
           "mu4 ji1",
-          "sabo"
+          "[sabo]"
         ],
         [
           "靴子",
@@ -2799,7 +2799,7 @@ window.BOOK_DATA[0] ={
           "fr/12438.mp3",
           "zh/12438.mp3",
           "xue1 zi5",
-          "bɔt"
+          "[bɔt]"
         ],
         [
           "拖鞋",
@@ -2808,7 +2808,7 @@ window.BOOK_DATA[0] ={
           "fr/12439.mp3",
           "zh/12439.mp3",
           "tuo1 xie2",
-          "pɑ̃tufl"
+          "[pɑ̃tufl]"
         ],
         [
           "凉鞋",
@@ -2817,7 +2817,7 @@ window.BOOK_DATA[0] ={
           "fr/12440.mp3",
           "zh/12440.mp3",
           "liang2 xie2",
-          "sɑ̃dal"
+          "[sɑ̃dal]"
         ],
         [
           "帆布鞋",
@@ -2826,7 +2826,7 @@ window.BOOK_DATA[0] ={
           "fr/12441.mp3",
           "zh/12441.mp3",
           "fan1 bu4 xie2",
-          "sulje d(ə) twal"
+          "[sulje d(ə) twal]"
         ],
         [
           "运动鞋",
@@ -2835,7 +2835,7 @@ window.BOOK_DATA[0] ={
           "fr/12442.mp3",
           "zh/12442.mp3",
           "yun4 dong4 xie2",
-          "ʃosy:ʁ d(ə) spɔ:ʁ"
+          "[ʃosy:ʁ d(ə) spɔ:ʁ]"
         ],
         [
           "高跟鞋",
@@ -2844,7 +2844,7 @@ window.BOOK_DATA[0] ={
           "fr/12443.mp3",
           "zh/12443.mp3",
           "gao1 gen1 xie2",
-          "sulje a ota lɔ̃"
+          "[sulje a ota lɔ̃]"
         ],
         [
           "无带矮跟鞋",
@@ -2853,7 +2853,7 @@ window.BOOK_DATA[0] ={
           "fr/12444.mp3",
           "zh/12444.mp3",
           "wu2 dai4 ai3 gen1 xie2",
-          "sulje a ba talɔ̃"
+          "[sulje a ba talɔ̃]"
         ],
         [
           "鞋底",
@@ -2862,7 +2862,7 @@ window.BOOK_DATA[0] ={
           "fr/12445.mp3",
           "zh/12445.mp3",
           "xie2 di3",
-          "s(ə)mɛl"
+          "[s(ə)mɛl]"
         ],
         [
           "短袜",
@@ -2871,7 +2871,7 @@ window.BOOK_DATA[0] ={
           "fr/12446.mp3",
           "zh/12446.mp3",
           "duan3 wa4",
-          "ʃosɛt"
+          "[ʃosɛt]"
         ],
         [
           "长袜",
@@ -2880,7 +2880,7 @@ window.BOOK_DATA[0] ={
           "fr/12447.mp3",
           "zh/12447.mp3",
           "zhang3 wa4",
-          "ba"
+          "[ba]"
         ],
         [
           "后跟",
@@ -2889,7 +2889,7 @@ window.BOOK_DATA[0] ={
           "fr/12448.mp3",
           "zh/12448.mp3",
           "hou4 gen1",
-          "talɔ̃"
+          "[talɔ̃]"
         ],
         [
           "系紧",
@@ -2898,7 +2898,7 @@ window.BOOK_DATA[0] ={
           "fr/12449.mp3",
           "zh/12449.mp3",
           "xi4 jin3",
-          "fikse"
+          "[fikse]"
         ],
         [
           "一双，一对",
@@ -2907,7 +2907,7 @@ window.BOOK_DATA[0] ={
           "fr/12450.mp3",
           "zh/12450.mp3",
           "yi4 shuang1 ， yi2 dui4",
-          "pɛ:ʁ"
+          "[pɛ:ʁ]"
         ],
         [
           "厚实坚固的",
@@ -2916,7 +2916,7 @@ window.BOOK_DATA[0] ={
           "fr/12451.mp3",
           "zh/12451.mp3",
           "hou4 shi2 jian1 gu4 de5",
-          "sɔlid"
+          "[sɔlid]"
         ],
         [
           "拖鞋",
@@ -2925,7 +2925,7 @@ window.BOOK_DATA[0] ={
           "fr/12452.mp3",
           "zh/12452.mp3",
           "tuo1 xie2",
-          "ʃosɔ̃"
+          "[ʃosɔ̃]"
         ],
         [
           "高帮皮鞋",
@@ -2934,7 +2934,7 @@ window.BOOK_DATA[0] ={
           "fr/12453.mp3",
           "zh/12453.mp3",
           "gao1 bang1 pi2 xie2",
-          "bɔtin"
+          "[bɔtin]"
         ],
         [
           "旧鞋",
@@ -2943,7 +2943,7 @@ window.BOOK_DATA[0] ={
           "fr/12454.mp3",
           "zh/12454.mp3",
           "jiu4 xie2",
-          "savat"
+          "[savat]"
         ]
       ],
       "s": [
@@ -2992,7 +2992,7 @@ window.BOOK_DATA[0] ={
           "fr/12459.mp3",
           "zh/12459.mp3",
           "jing1 chang2 ， chang2 chang2",
-          "suvɑ̃"
+          "[suvɑ̃]"
         ],
         [
           "高兴的",
@@ -3001,7 +3001,7 @@ window.BOOK_DATA[0] ={
           "fr/12460.mp3",
           "zh/12460.mp3",
           "gao1 xing1 de5",
-          "ɛ:z"
+          "[ɛ:z]"
         ],
         [
           "改变",
@@ -3010,7 +3010,7 @@ window.BOOK_DATA[0] ={
           "fr/12461.mp3",
           "zh/12461.mp3",
           "gai3 bian4",
-          "trɑ̃sfɔrme"
+          "[trɑ̃sfɔrme]"
         ],
         [
           "南瓜",
@@ -3019,7 +3019,7 @@ window.BOOK_DATA[0] ={
           "fr/12462.mp3",
           "zh/12462.mp3",
           "nan2 gua1",
-          "sitʁuj"
+          "[sitʁuj]"
         ],
         [
           "穿",
@@ -3028,7 +3028,7 @@ window.BOOK_DATA[0] ={
           "fr/12463.mp3",
           "zh/12463.mp3",
           "chuan1",
-          "mɛtʁ"
+          "[mɛtʁ]"
         ],
         [
           "高的",
@@ -3037,7 +3037,7 @@ window.BOOK_DATA[0] ={
           "fr/12464.mp3",
           "zh/12464.mp3",
           "gao1 de5",
-          "o, o:t"
+          "[o, o:t]"
         ]
       ]
     },
@@ -3052,7 +3052,7 @@ window.BOOK_DATA[0] ={
           "fr/12465.mp3",
           "zh/12465.mp3",
           "shou3 dai4 ， bei4 bao1",
-          "pakta:ʒ"
+          "[pakta:ʒ]"
         ],
         [
           "手提包",
@@ -3061,7 +3061,7 @@ window.BOOK_DATA[0] ={
           "fr/12466.mp3",
           "zh/12466.mp3",
           "shou3 ti2 bao1",
-          "sadjak a mɛ"
+          "[sadjak a mɛ]"
         ],
         [
           "公文包",
@@ -3070,7 +3070,7 @@ window.BOOK_DATA[0] ={
           "fr/12467.mp3",
           "zh/12467.mp3",
           "gong1 wen2 bao1",
-          "pɔrt dɔkymɑ̃"
+          "[pɔrt dɔkymɑ̃]"
         ],
         [
           "背包",
@@ -3079,7 +3079,7 @@ window.BOOK_DATA[0] ={
           "fr/12468.mp3",
           "zh/12468.mp3",
           "bei4 bao1",
-          "sak a do"
+          "[sak a do]"
         ],
         [
           "旅行袋",
@@ -3088,7 +3088,7 @@ window.BOOK_DATA[0] ={
           "fr/12469.mp3",
           "zh/12469.mp3",
           "lv3 xing2 dai4",
-          "sak d(ə) nɥi"
+          "[sak d(ə) nɥi]"
         ],
         [
           "塑料的",
@@ -3097,7 +3097,7 @@ window.BOOK_DATA[0] ={
           "fr/12470.mp3",
           "zh/12470.mp3",
           "su4 liao4 de5",
-          "plastik"
+          "[plastik]"
         ],
         [
           "手提箱",
@@ -3106,7 +3106,7 @@ window.BOOK_DATA[0] ={
           "fr/12471.mp3",
           "zh/12471.mp3",
           "shou3 ti2 xiang1",
-          "vali:z"
+          "[vali:z]"
         ],
         [
           "旅行箱",
@@ -3115,7 +3115,7 @@ window.BOOK_DATA[0] ={
           "fr/12472.mp3",
           "zh/12472.mp3",
           "lv3 xing2 xiang1",
-          "mal"
+          "[mal]"
         ],
         [
           "钱包",
@@ -3124,7 +3124,7 @@ window.BOOK_DATA[0] ={
           "fr/12473.mp3",
           "zh/12473.mp3",
           "qian2 bao1",
-          "pɔrtmɔnɛ"
+          "[pɔrtmɔnɛ]"
         ],
         [
           "书包",
@@ -3133,7 +3133,7 @@ window.BOOK_DATA[0] ={
           "fr/12474.mp3",
           "zh/12474.mp3",
           "shu1 bao1",
-          "kartabl"
+          "[kartabl]"
         ],
         [
           "公文包",
@@ -3142,7 +3142,7 @@ window.BOOK_DATA[0] ={
           "fr/12475.mp3",
           "zh/12475.mp3",
           "gong1 wen2 bao1",
-          "sɛrvjɛt"
+          "[sɛrvjɛt]"
         ],
         [
           "挎包",
@@ -3151,7 +3151,7 @@ window.BOOK_DATA[0] ={
           "fr/12476.mp3",
           "zh/12476.mp3",
           "kua4 bao1",
-          "sakɔʃ"
+          "[sakɔʃ]"
         ],
         [
           "薄的",
@@ -3160,7 +3160,7 @@ window.BOOK_DATA[0] ={
           "fr/12477.mp3",
           "zh/12477.mp3",
           "bao2 de5",
-          "leʒe, ɛ:r"
+          "[leʒe, ɛ:r]"
         ],
         [
           "厚的",
@@ -3169,7 +3169,7 @@ window.BOOK_DATA[0] ={
           "fr/12478.mp3",
           "zh/12478.mp3",
           "hou4 de5",
-          "epɛ, ɛs"
+          "[epɛ, ɛs]"
         ],
         [
           "松紧带",
@@ -3178,7 +3178,7 @@ window.BOOK_DATA[0] ={
           "fr/12479.mp3",
           "zh/12479.mp3",
           "song1 jin3 dai4",
-          "elastisite"
+          "[elastisite]"
         ],
         [
           "内衬",
@@ -3187,7 +3187,7 @@ window.BOOK_DATA[0] ={
           "fr/12480.mp3",
           "zh/12480.mp3",
           "nei4 chen4",
-          "suvɛtmɑ̃"
+          "[suvɛtmɑ̃]"
         ]
       ],
       "s": [
@@ -3236,7 +3236,7 @@ window.BOOK_DATA[0] ={
           "fr/12485.mp3",
           "zh/12485.mp3",
           "pai4 qian3 ， da3 fa1",
-          "ɑ̃vwaje"
+          "[ɑ̃vwaje]"
         ],
         [
           "公立中学，中学时代",
@@ -3245,7 +3245,7 @@ window.BOOK_DATA[0] ={
           "fr/12486.mp3",
           "zh/12486.mp3",
           "gong1 li4 zhong1 xue2 ， zhong1 xue2 shi2 dai4",
-          "lise"
+          "[lise]"
         ],
         [
           "传染，感染",
@@ -3254,7 +3254,7 @@ window.BOOK_DATA[0] ={
           "fr/12487.mp3",
           "zh/12487.mp3",
           "chuan2 ran3 ， gan3 ran3",
-          "kɔ̃tamine"
+          "[kɔ̃tamine]"
         ],
         [
           "可自由处理的",
@@ -3263,7 +3263,7 @@ window.BOOK_DATA[0] ={
           "fr/12488.mp3",
           "zh/12488.mp3",
           "ke3 zi4 you2 chu4 li3 de5",
-          "dispɔnibl"
+          "[dispɔnibl]"
         ],
         [
           "大门，正门",
@@ -3272,7 +3272,7 @@ window.BOOK_DATA[0] ={
           "fr/12489.mp3",
           "zh/12489.mp3",
           "da4 men2 ， zheng4 men2",
-          "pɔrtaj"
+          "[pɔrtaj]"
         ],
         [
           "眉毛",
@@ -3281,7 +3281,7 @@ window.BOOK_DATA[0] ={
           "fr/12490.mp3",
           "zh/12490.mp3",
           "mei2 mao2",
-          "sursil"
+          "[sursil]"
         ]
       ]
     },
@@ -3296,7 +3296,7 @@ window.BOOK_DATA[0] ={
           "fr/12491.mp3",
           "zh/12491.mp3",
           "pei4 jian4",
-          "aksɛ(ə)swa:r"
+          "[aksɛ(ə)swa:r]"
         ],
         [
           "珠宝",
@@ -3305,7 +3305,7 @@ window.BOOK_DATA[0] ={
           "fr/12492.mp3",
           "zh/12492.mp3",
           "zhu1 bao3",
-          "biʒu"
+          "[biʒu]"
         ],
         [
           "围巾",
@@ -3314,7 +3314,7 @@ window.BOOK_DATA[0] ={
           "fr/12493.mp3",
           "zh/12493.mp3",
           "wei2 jin1",
-          "eʃarp"
+          "[eʃarp]"
         ],
         [
           "披肩",
@@ -3323,7 +3323,7 @@ window.BOOK_DATA[0] ={
           "fr/12494.mp3",
           "zh/12494.mp3",
           "pi1 jian1",
-          "ʃa:l"
+          "[ʃa:l]"
         ],
         [
           "手套",
@@ -3332,7 +3332,7 @@ window.BOOK_DATA[0] ={
           "fr/12495.mp3",
           "zh/12495.mp3",
           "shou3 tao4",
-          "gɑ̃"
+          "[gɑ̃]"
         ],
         [
           "项链",
@@ -3341,7 +3341,7 @@ window.BOOK_DATA[0] ={
           "fr/12496.mp3",
           "zh/12496.mp3",
           "xiang4 lian4",
-          "kɔlje"
+          "[kɔlje]"
         ],
         [
           "戒指",
@@ -3350,7 +3350,7 @@ window.BOOK_DATA[0] ={
           "fr/12497.mp3",
           "zh/12497.mp3",
           "jie4 zhi3",
-          "bag"
+          "[bag]"
         ],
         [
           "耳环",
@@ -3359,7 +3359,7 @@ window.BOOK_DATA[0] ={
           "fr/12498.mp3",
           "zh/12498.mp3",
           "er3 huan2",
-          "bukl d ɔrɛj"
+          "[bukl d ɔrɛj]"
         ],
         [
           "装饰，佩戴",
@@ -3368,7 +3368,7 @@ window.BOOK_DATA[0] ={
           "fr/12499.mp3",
           "zh/12499.mp3",
           "zhuang1 shi4 ， pei4 dai4",
-          "ɔrne"
+          "[ɔrne]"
         ],
         [
           "胸针",
@@ -3377,7 +3377,7 @@ window.BOOK_DATA[0] ={
           "fr/12500.mp3",
           "zh/12500.mp3",
           "xiong1 zhen1",
-          "brɔʃ"
+          "[brɔʃ]"
         ],
         [
           "手镯",
@@ -3386,7 +3386,7 @@ window.BOOK_DATA[0] ={
           "fr/12501.mp3",
           "zh/12501.mp3",
           "shou3 zhuo2",
-          "brasle"
+          "[brasle]"
         ],
         [
           "廉价小饰物",
@@ -3395,7 +3395,7 @@ window.BOOK_DATA[0] ={
           "fr/12502.mp3",
           "zh/12502.mp3",
           "lian2 jia4 xiao3 shi4 wu4",
-          "pary:r"
+          "[pary:r]"
         ],
         [
           "丝带",
@@ -3404,7 +3404,7 @@ window.BOOK_DATA[0] ={
           "fr/12503.mp3",
           "zh/12503.mp3",
           "si1 dai4",
-          "rybɑ̃"
+          "[rybɑ̃]"
         ],
         [
           "钻石",
@@ -3413,7 +3413,7 @@ window.BOOK_DATA[0] ={
           "fr/12504.mp3",
           "zh/12504.mp3",
           "zuan1 shi2",
-          "djamɑ̃"
+          "[djamɑ̃]"
         ],
         [
           "珍珠",
@@ -3422,7 +3422,7 @@ window.BOOK_DATA[0] ={
           "fr/12505.mp3",
           "zh/12505.mp3",
           "zhen1 zhu1",
-          "pɛrl"
+          "[pɛrl]"
         ],
         [
           "流苏，穗",
@@ -3431,7 +3431,7 @@ window.BOOK_DATA[0] ={
           "fr/12506.mp3",
           "zh/12506.mp3",
           "liu2 su1 ， sui4",
-          "frɑ̃:ʒ"
+          "[frɑ̃:ʒ]"
         ],
         [
           "镀",
@@ -3440,7 +3440,7 @@ window.BOOK_DATA[0] ={
           "fr/12507.mp3",
           "zh/12507.mp3",
           "du4",
-          "plake"
+          "[plake]"
         ],
         [
           "饰物",
@@ -3449,7 +3449,7 @@ window.BOOK_DATA[0] ={
           "fr/12508.mp3",
           "zh/12508.mp3",
           "shi4 wu4",
-          "parmɑ̃"
+          "[parmɑ̃]"
         ],
         [
           "垂饰",
@@ -3458,7 +3458,7 @@ window.BOOK_DATA[0] ={
           "fr/12509.mp3",
           "zh/12509.mp3",
           "chui2 shi4",
-          "lɑ̃brəkɛ"
+          "[lɑ̃brəkɛ]"
         ]
       ],
       "s": [
@@ -3507,7 +3507,7 @@ window.BOOK_DATA[0] ={
           "fr/12514.mp3",
           "zh/12514.mp3",
           "fu2 he2 ， shi4 he2",
-          "kɔrespɔ̃:dr"
+          "[kɔrespɔ̃:dr]"
         ],
         [
           "突然，即刻",
@@ -3516,7 +3516,7 @@ window.BOOK_DATA[0] ={
           "fr/12515.mp3",
           "zh/12515.mp3",
           "tu1 ran2 ， ji2 ke4",
-          "sudɛnmɑ̃"
+          "[sudɛnmɑ̃]"
         ],
         [
           "大大地，显著",
@@ -3525,7 +3525,7 @@ window.BOOK_DATA[0] ={
           "fr/12516.mp3",
           "zh/12516.mp3",
           "da4 da4 di4 ， xian3 zhu4",
-          "kɔ̃sidərabləmɑ̃"
+          "[kɔ̃sidərabləmɑ̃]"
         ],
         [
           "自己的",
@@ -3534,7 +3534,7 @@ window.BOOK_DATA[0] ={
           "fr/12517.mp3",
           "zh/12517.mp3",
           "zi4 ji3 de5",
-          "prɔpr"
+          "[prɔpr]"
         ]
       ]
     }
