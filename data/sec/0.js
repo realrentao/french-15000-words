@@ -15,7 +15,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12141.mp3",
           "zh/12141.mp3",
-          "yi1 fu2",
+          "yī fú",
           "[vɛtmɑ̃]"
         ],
         [
@@ -24,7 +24,7 @@ window.BOOK_DATA[0] ={
           "v.pr",
           "fr/12142.mp3",
           "zh/12142.mp3",
-          "chuan1 yi1 fu2",
+          "chuān yī fú",
           "[abije]"
         ],
         [
@@ -33,7 +33,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12143.mp3",
           "zh/12143.mp3",
-          "zhi4 fu2",
+          "zhì fú",
           "[ynifɔrm]"
         ],
         [
@@ -42,7 +42,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12144.mp3",
           "zh/12144.mp3",
-          "nei4 yi1",
+          "nèi yī",
           "[su vɛtmɑ̃]"
         ],
         [
@@ -51,7 +51,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12145.mp3",
           "zh/12145.mp3",
-          "nv3 li3 fu2",
+          "nǚ lǐ fú",
           "[t(ə)ny]"
         ],
         [
@@ -60,7 +60,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12146.mp3",
           "zh/12146.mp3",
-          "yu4 yi1",
+          "yù yī",
           "[pɛ(ɲ)wa:r]"
         ],
         [
@@ -69,7 +69,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12147.mp3",
           "zh/12147.mp3",
-          "yan4 wei3 fu2",
+          "yàn wěi fú",
           "[kø d(ə) mɔry]"
         ],
         [
@@ -78,7 +78,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12148.mp3",
           "zh/12148.mp3",
-          "shui4 pao2",
+          "shuì páo",
           "[piʒama]"
         ],
         [
@@ -87,7 +87,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12149.mp3",
           "zh/12149.mp3",
-          "yun4 dong4 fu2",
+          "yùn dòng fú",
           "[vɛtmɑ̃ dy spɔ:r]"
         ],
         [
@@ -96,7 +96,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12150.mp3",
           "zh/12150.mp3",
-          "ling3 dai4",
+          "lǐng dài",
           "[kravat]"
         ],
         [
@@ -105,7 +105,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12151.mp3",
           "zh/12151.mp3",
-          "tao4 zhuang1",
+          "tào zhuāng",
           "[kɔstym]"
         ],
         [
@@ -114,7 +114,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12152.mp3",
           "zh/12152.mp3",
-          "fu2 zhuang1 de5",
+          "fú zhuāng de",
           "[vɛstimɑ̃te:r]"
         ],
         [
@@ -123,7 +123,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12153.mp3",
           "zh/12153.mp3",
-          "zheng4 shi4 de5",
+          "zhèng shì de",
           "[fɔrmɛl]"
         ],
         [
@@ -132,7 +132,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12154.mp3",
           "zh/12154.mp3",
-          "shi2 shang4 de5",
+          "shí shàng de",
           "[mɔdɛrn]"
         ],
         [
@@ -141,7 +141,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12155.mp3",
           "zh/12155.mp3",
-          "fei1 zheng4 shi4 de5",
+          "fēi zhèng shì de",
           "[ɛ̃fɔrmɛl]"
         ],
         [
@@ -150,7 +150,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12156.mp3",
           "zh/12156.mp3",
-          "you2 yong3 yi1",
+          "yóu yǒng yī",
           "[majo d(ə) bɛ]"
         ]
       ],
@@ -161,7 +161,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12157.mp3",
           "zh/12157.mp3",
-          "ni3 xi3 huan1 tian1 lan2 de5 hai2 shi4 shen1 lan2 de5 zhi4 fu2 ？",
+          "nǐ xǐ huān tiān lán de hái shì shēn lán de zhì fú ？",
           ""
         ],
         [
@@ -170,7 +170,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12158.mp3",
           "zh/12158.mp3",
-          "zhe4 tiao2 ling3 dai4 hen3 piao1 liang4 ， er2 qie3 bu2 tai4 gui4 。",
+          "zhè tiáo lǐng dài hěn piāo liàng ， ér qiě bú tài guì 。",
           ""
         ],
         [
@@ -179,7 +179,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12159.mp3",
           "zh/12159.mp3",
-          "nv3 shi4 de5 zhe5 zhuang1 sui2 zhe5 li4 shi3 de5 tui1 yi2 fa1 sheng1 le5 hen3 da4 de5 bian4 hua4 。",
+          "nǚ shì de zhe zhuāng suí zhe lì shǐ de tuī yí fā shēng le hěn dà de biàn huà 。",
           ""
         ],
         [
@@ -188,7 +188,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12160.mp3",
           "zh/12160.mp3",
-          "zhu3 yao4 jing1 ying2 wen2 xiong1 、 you2 yong3 yi1 、 pi1 feng1 、 wa4 zi5 、 nei4 ku4 、 chun2 mian2 nei4 yi1 、 bao3 nuan3 nei4 yi1 。",
+          "zhǔ yào jīng yíng wén xiōng 、 yóu yǒng yī 、 pī fēng 、 wà zi 、 nèi kù 、 chún mián nèi yī 、 bǎo nuǎn nèi yī 。",
           ""
         ]
       ],
@@ -199,7 +199,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12161.mp3",
           "zh/12161.mp3",
-          "nv3 xing4 de5",
+          "nǚ xìng de",
           "[feminɛ]"
         ],
         [
@@ -208,7 +208,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12162.mp3",
           "zh/12162.mp3",
-          "kai1 fa1 di4 ， jing1 ying2 chang3 suo3",
+          "kāi fā dì ， jīng yíng chǎng suǒ",
           "[ɛksplwata(a)sjɔ̃]"
         ],
         [
@@ -217,7 +217,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12163.mp3",
           "zh/12163.mp3",
-          "zhi1 chi2",
+          "zhī chí",
           "[sutjɛ]"
         ],
         [
@@ -226,7 +226,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12164.mp3",
           "zh/12164.mp3",
-          "da4 yi1 ， wai4 tao4",
+          "dà yī ， wài tào",
           "[mɑ̃to]"
         ],
         [
@@ -235,7 +235,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12165.mp3",
           "zh/12165.mp3",
-          "re4 de5",
+          "rè de",
           "[ʃo, o:d]"
         ]
       ]
@@ -250,7 +250,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12166.mp3",
           "zh/12166.mp3",
-          "yi1 liao4 ， yuan2 liao4",
+          "yī liào ， yuán liào",
           "[tisy]"
         ],
         [
@@ -259,7 +259,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12167.mp3",
           "zh/12167.mp3",
-          "bu4 liao4",
+          "bù liào",
           "[etɔf]"
         ],
         [
@@ -268,7 +268,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12168.mp3",
           "zh/12168.mp3",
-          "zhi4 di4 ， shou3 gan3",
+          "zhì dì ， shǒu gǎn",
           "[tɛksty:r]"
         ],
         [
@@ -277,7 +277,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12169.mp3",
           "zh/12169.mp3",
-          "mian2 hua1",
+          "mián huā",
           "[kɔtɔ̃]"
         ],
         [
@@ -286,7 +286,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12170.mp3",
           "zh/12170.mp3",
-          "can2 si1",
+          "cán sī",
           "[swa]"
         ],
         [
@@ -295,7 +295,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12171.mp3",
           "zh/12171.mp3",
-          "yang2 mao2 ， mao2 liao4 yi1 wu4",
+          "yáng máo ， máo liào yī wù",
           "[lɛn]"
         ],
         [
@@ -304,7 +304,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12172.mp3",
           "zh/12172.mp3",
-          "di2 lun2",
+          "dí lún",
           "[pɔliɛster]"
         ],
         [
@@ -313,7 +313,7 @@ window.BOOK_DATA[0] ={
           "名",
           "fr/12173.mp3",
           "zh/12173.mp3",
-          "di2 mian2",
+          "dí mián",
           ""
         ],
         [
@@ -322,7 +322,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12174.mp3",
           "zh/12174.mp3",
-          "si1 rong2 ， tian1 e2 rong2",
+          "sī róng ， tiān é róng",
           "[v(ə)lu:r d(ə) swa]"
         ],
         [
@@ -331,7 +331,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12175.mp3",
           "zh/12175.mp3",
-          "fan1 bu4",
+          "fān bù",
           "[twal]"
         ],
         [
@@ -340,7 +340,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12176.mp3",
           "zh/12176.mp3",
-          "pi2 ge2",
+          "pí gé",
           "[kɥi:r]"
         ],
         [
@@ -349,7 +349,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12177.mp3",
           "zh/12177.mp3",
-          "zhi4 liang4",
+          "zhì liàng",
           "[kalite]"
         ],
         [
@@ -358,7 +358,7 @@ window.BOOK_DATA[0] ={
           "固",
           "fr/12178.mp3",
           "zh/12178.mp3",
-          "yi3 … … zi1 ge2 / shen1 fen4",
+          "yǐ … … zī gé / shēn fèn",
           ""
         ],
         [
@@ -367,7 +367,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12179.mp3",
           "zh/12179.mp3",
-          "chu4 mo1",
+          "chù mō",
           "[tuʃ]"
         ],
         [
@@ -376,7 +376,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12180.mp3",
           "zh/12180.mp3",
-          "rou2 ruan3 de5",
+          "róu ruǎn de",
           "[supl]"
         ],
         [
@@ -385,7 +385,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12181.mp3",
           "zh/12181.mp3",
-          "he2 cheng2 xian1 wei2",
+          "hé chéng xiān wéi",
           "[fibr sɛtetik]"
         ],
         [
@@ -394,7 +394,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12182.mp3",
           "zh/12182.mp3",
-          "ke3 shen4 tou4 de5",
+          "kě shèn tòu de",
           "[permeabl]"
         ],
         [
@@ -403,7 +403,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12183.mp3",
           "zh/12183.mp3",
-          "ping2 rong2",
+          "píng róng",
           "[pan]"
         ]
       ],
@@ -414,7 +414,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12184.mp3",
           "zh/12184.mp3",
-          "zhe4 jian4 yi1 fu2 de5 mian4 liao4 hen3 shu1 fu2 ， dui4 pi2 fu1 mei2 you3 ren4 he2 shang1 hai4 。",
+          "zhè jiàn yī fú de miàn liào hěn shū fú ， duì pí fū méi yǒu rèn hé shāng hài 。",
           ""
         ],
         [
@@ -423,7 +423,7 @@ window.BOOK_DATA[0] ={
           "《乱世佳人》",
           "fr/12185.mp3",
           "zh/12185.mp3",
-          "wo3 men5 you3 de5 zhi3 shi4 mian2 hua1 、 nu2 li4 he2 zi4 da4 。",
+          "wǒ men yǒu de zhǐ shì mián huā 、 nú lì hé zì dà 。",
           ""
         ],
         [
@@ -432,7 +432,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12186.mp3",
           "zh/12186.mp3",
-          "zhe4 jian4 qun2 zi5 shi4 si1 chou2 zuo4 de5 ， dui4 ma5 ？",
+          "zhè jiàn qún zi shì sī chóu zuò de ， duì ma ？",
           ""
         ],
         [
@@ -441,7 +441,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12187.mp3",
           "zh/12187.mp3",
-          "ning2 que1 wu2 lan4 。",
+          "níng quē wú làn 。",
           ""
         ],
         [
@@ -450,7 +450,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12188.mp3",
           "zh/12188.mp3",
-          "ta1 ju4 you3 fang2 shui3 、 tou4 shi1 、 fang2 feng1 、 bao3 nuan3 de5 gong1 neng2 。",
+          "tā jù yǒu fáng shuǐ 、 tòu shī 、 fáng fēng 、 bǎo nuǎn de gōng néng 。",
           ""
         ]
       ],
@@ -461,7 +461,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12189.mp3",
           "zh/12189.mp3",
-          "pi2 fu1",
+          "pí fū",
           "[po]"
         ],
         [
@@ -470,7 +470,7 @@ window.BOOK_DATA[0] ={
           "adv.",
           "fr/12190.mp3",
           "zh/12190.mp3",
-          "zhi3 ， jin3 jin3",
+          "zhǐ ， jǐn jǐn",
           "[sœlmɑ̃]"
         ],
         [
@@ -479,7 +479,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12191.mp3",
           "zh/12191.mp3",
-          "nu2 li4",
+          "nú lì",
           "[ɛskla:v]"
         ],
         [
@@ -488,7 +488,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12192.mp3",
           "zh/12192.mp3",
-          "gao1 ao4",
+          "gāo ào",
           "[arɔgɑ̃:s]"
         ],
         [
@@ -497,7 +497,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12193.mp3",
           "zh/12193.mp3",
-          "ning2 yuan4 ， ning2 ke3",
+          "níng yuàn ， níng kě",
           "[prefere]"
         ]
       ]
@@ -512,7 +512,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12194.mp3",
           "zh/12194.mp3",
-          "lv4 se4 de5",
+          "lǜ sè de",
           "[vɛ:r, ɛrt]"
         ],
         [
@@ -521,7 +521,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12195.mp3",
           "zh/12195.mp3",
-          "fei3 cui4 lv4",
+          "fěi cuì lǜ",
           "[vɛrt ɛmrod]"
         ],
         [
@@ -530,7 +530,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12196.mp3",
           "zh/12196.mp3",
-          "gan3 lan3 lv4",
+          "gǎn lǎn lǜ",
           "[vɛrt ɔlivje]"
         ],
         [
@@ -539,7 +539,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12197.mp3",
           "zh/12197.mp3",
-          "qian3 lv4 se4",
+          "qiǎn lǜ sè",
           "[vɛrt mus]"
         ],
         [
@@ -548,7 +548,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12198.mp3",
           "zh/12198.mp3",
-          "hai3 lv4 se4",
+          "hǎi lǜ sè",
           "[vɛrt mɛ:r]"
         ],
         [
@@ -557,7 +557,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12199.mp3",
           "zh/12199.mp3",
-          "jie4 mo4 huang2",
+          "jiè mò huáng",
           "[ʒo:n fɔ̃se]"
         ],
         [
@@ -566,7 +566,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12200.mp3",
           "zh/12200.mp3",
-          "huang2 se4 de5",
+          "huáng sè de",
           "[ʒo:n]"
         ],
         [
@@ -575,7 +575,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12201.mp3",
           "zh/12201.mp3",
-          "ning2 meng2 huang2",
+          "níng méng huáng",
           "[ʒo:n sitrɔ̃]"
         ],
         [
@@ -584,7 +584,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12202.mp3",
           "zh/12202.mp3",
-          "wei1 huang2 se4 de5",
+          "wēi huáng sè de",
           "[ʒo:n mus]"
         ],
         [
@@ -593,7 +593,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12203.mp3",
           "zh/12203.mp3",
-          "jin1 se4",
+          "jīn sè",
           "[dɔre]"
         ],
         [
@@ -602,7 +602,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12204.mp3",
           "zh/12204.mp3",
-          "he4 se4",
+          "hè sè",
           "[brœ̃, yn]"
         ],
         [
@@ -611,7 +611,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12205.mp3",
           "zh/12205.mp3",
-          "mi3 se4",
+          "mǐ sè",
           "[bɛ:ʒ]"
         ],
         [
@@ -620,7 +620,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12206.mp3",
           "zh/12206.mp3",
-          "huang2 lv4 se4",
+          "huáng lǜ sè",
           "[ʒo:n vɛrt]"
         ],
         [
@@ -629,7 +629,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12207.mp3",
           "zh/12207.mp3",
-          "huang2 he4 se4",
+          "huáng hè sè",
           "[ʒo:n brœ̃, yn]"
         ],
         [
@@ -638,7 +638,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12208.mp3",
           "zh/12208.mp3",
-          "ju2 huang2 se4",
+          "jú huáng sè",
           "[ɔrɑ̃:ʒ]"
         ],
         [
@@ -647,7 +647,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12209.mp3",
           "zh/12209.mp3",
-          "cui4 lv4 se4 de5",
+          "cuì lǜ sè de",
           "[ɛmrod]"
         ],
         [
@@ -656,7 +656,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12210.mp3",
           "zh/12210.mp3",
-          "an4 lv4 se4",
+          "àn lǜ sè",
           "[vɛrt fɔ̃se]"
         ]
       ],
@@ -667,7 +667,7 @@ window.BOOK_DATA[0] ={
           "《大侦探福尔摩斯》",
           "fr/12211.mp3",
           "zh/12211.mp3",
-          "ta1 de5 fei3 cui4 shou3 zhuo2 bu2 jian4 le5 。",
+          "tā de fěi cuì shǒu zhuó bú jiàn le 。",
           ""
         ],
         [
@@ -676,7 +676,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12212.mp3",
           "zh/12212.mp3",
-          "gan3 lan3 shu4 zai4 gu3 dai4 shi4 he2 ping2 he2 guang1 rong2 de5 xiang4 zheng1 。",
+          "gǎn lǎn shù zài gǔ dài shì hé píng hé guāng róng de xiàng zhēng 。",
           ""
         ],
         [
@@ -685,7 +685,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12213.mp3",
           "zh/12213.mp3",
-          "rang4 wo3 men5 gong4 tong2 nu3 li4 gong4 chuang4 lv4 se4 jia1 yuan2 ！",
+          "ràng wǒ men gòng tóng nǔ lì gòng chuàng lǜ sè jiā yuán ！",
           ""
         ],
         [
@@ -694,7 +694,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12214.mp3",
           "zh/12214.mp3",
-          "jia1 ju4 shi4 huang2 se4 he2 mi3 se4 de5 。",
+          "jiā jù shì huáng sè hé mǐ sè de 。",
           ""
         ]
       ],
@@ -705,7 +705,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12215.mp3",
           "zh/12215.mp3",
-          "shou3 zhuo2",
+          "shǒu zhuó",
           "[brasle]"
         ],
         [
@@ -714,7 +714,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12216.mp3",
           "zh/12216.mp3",
-          "gu3 dai4",
+          "gǔ dài",
           "[ɑ̃tikite]"
         ],
         [
@@ -723,7 +723,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12217.mp3",
           "zh/12217.mp3",
-          "xiang4 zheng1",
+          "xiàng zhēng",
           "[ɑ̃blɛm]"
         ],
         [
@@ -732,7 +732,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12218.mp3",
           "zh/12218.mp3",
-          "he2 ping2",
+          "hé píng",
           "[pɛ]"
         ],
         [
@@ -741,7 +741,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12219.mp3",
           "zh/12219.mp3",
-          "guang1 rong2",
+          "guāng róng",
           "[glwa:r]"
         ],
         [
@@ -750,7 +750,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12220.mp3",
           "zh/12220.mp3",
-          "jia1 ju4",
+          "jiā jù",
           "[mœbl]"
         ]
       ]
@@ -765,7 +765,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12221.mp3",
           "zh/12221.mp3",
-          "lan2 se4 de5",
+          "lán sè de",
           "[blø]"
         ],
         [
@@ -774,7 +774,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12222.mp3",
           "zh/12222.mp3",
-          "wei4 lan2 de5",
+          "wèi lán de",
           "[azyre]"
         ],
         [
@@ -783,7 +783,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12223.mp3",
           "zh/12223.mp3",
-          "shen1 lan2 se4",
+          "shēn lán sè",
           "[blø prɔfɔ̃]"
         ],
         [
@@ -792,7 +792,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12224.mp3",
           "zh/12224.mp3",
-          "tian1 lan2 se4",
+          "tiān lán sè",
           "[blø sjɛl]"
         ],
         [
@@ -801,7 +801,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12225.mp3",
           "zh/12225.mp3",
-          "shen1 lan2 se4",
+          "shēn lán sè",
           "[blø fɔ̃se]"
         ],
         [
@@ -810,7 +810,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12226.mp3",
           "zh/12226.mp3",
-          "shen1 lan2 se4",
+          "shēn lán sè",
           "[blø sɔ̃br]"
         ],
         [
@@ -819,7 +819,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12227.mp3",
           "zh/12227.mp3",
-          "hai3 lan2 se4",
+          "hǎi lán sè",
           "[blø me:r]"
         ],
         [
@@ -828,7 +828,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12228.mp3",
           "zh/12228.mp3",
-          "bao3 lan2 se4",
+          "bǎo lán sè",
           "[blø djamɑ̃t]"
         ],
         [
@@ -837,7 +837,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12229.mp3",
           "zh/12229.mp3",
-          "zi3 se4 de5",
+          "zǐ sè de",
           "[vjɔlɛ, ɛt]"
         ],
         [
@@ -846,7 +846,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12230.mp3",
           "zh/12230.mp3",
-          "qian3 zi3 se4",
+          "qiǎn zǐ sè",
           "[vjɔlɛ kle:r]"
         ],
         [
@@ -855,7 +855,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12231.mp3",
           "zh/12231.mp3",
-          "zi3 hong2 se4",
+          "zǐ hóng sè",
           "[purpr]"
         ],
         [
@@ -864,7 +864,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12232.mp3",
           "zh/12232.mp3",
-          "zi3 luo2 lan2",
+          "zǐ luó lán",
           "[ʒirɔfle]"
         ],
         [
@@ -873,7 +873,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12233.mp3",
           "zh/12233.mp3",
-          "ding1 xiang1 zi3",
+          "dīng xiāng zǐ",
           "[lila(a)]"
         ],
         [
@@ -882,7 +882,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12234.mp3",
           "zh/12234.mp3",
-          "qian3 zi3 se4",
+          "qiǎn zǐ sè",
           "[mov]"
         ]
       ],
@@ -893,7 +893,7 @@ window.BOOK_DATA[0] ={
           "《肖申克的救赎》",
           "fr/12235.mp3",
           "zh/12235.mp3",
-          "wo3 xi1 wang4 tai4 ping2 yang2 de5 hai3 shui3 ru2 tong2 meng4 zhong1 yi2 yang4 lan2 。",
+          "wǒ xī wàng tài píng yáng de hǎi shuǐ rú tóng mèng zhōng yí yàng lán 。",
           ""
         ],
         [
@@ -902,7 +902,7 @@ window.BOOK_DATA[0] ={
           "《穿普拉达的女王》",
           "fr/12236.mp3",
           "zh/12236.mp3",
-          "shi4 shi2 shang4 ， na4 yi1 fu2 shi4 shen1 lan2 se4 de5 。",
+          "shì shí shàng ， nà yī fú shì shēn lán sè de 。",
           ""
         ],
         [
@@ -911,7 +911,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12237.mp3",
           "zh/12237.mp3",
-          "zi3 se4 hen3 shi4 he2 ni3 。",
+          "zǐ sè hěn shì hé nǐ 。",
           ""
         ],
         [
@@ -920,7 +920,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12238.mp3",
           "zh/12238.mp3",
-          "ai1 li3 ke4 jiang1 yu3 qi1 zi5 gong4 fu4 lan2 se4 hai3 an4 du4 mi4 yue4 。",
+          "āi lǐ kè jiāng yǔ qī zi gòng fù lán sè hǎi àn dù mì yuè 。",
           ""
         ],
         [
@@ -929,7 +929,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12239.mp3",
           "zh/12239.mp3",
-          "wo3 xi1 wang4 yu4 zhe5 yi2 ge4 ding1 xiang1 yi2 yang4 jie2 zhe5 chou2 yuan4 de5 gu1 niang2 。",
+          "wǒ xī wàng yù zhe yí gè dīng xiāng yí yàng jié zhe chóu yuàn de gū niáng 。",
           ""
         ],
         [
@@ -938,7 +938,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12240.mp3",
           "zh/12240.mp3",
-          "qian3 zi3 se4 shi4 yi4 zhong3 liu2 xing2 se4 。",
+          "qiǎn zǐ sè shì yì zhǒng liú xíng sè 。",
           ""
         ]
       ],
@@ -949,7 +949,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12241.mp3",
           "zh/12241.mp3",
-          "tai4 ping2 yang2",
+          "tài píng yáng",
           "[pasifik]"
         ],
         [
@@ -958,7 +958,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12242.mp3",
           "zh/12242.mp3",
-          "meng4 xiang3",
+          "mèng xiǎng",
           "[re:v]"
         ],
         [
@@ -967,7 +967,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12243.mp3",
           "zh/12243.mp3",
-          "shen1 se4 de5",
+          "shēn sè de",
           "[fɔ̃se]"
         ]
       ]
@@ -982,7 +982,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12244.mp3",
           "zh/12244.mp3",
-          "hong2 se4",
+          "hóng sè",
           "[ru:ʒ]"
         ],
         [
@@ -991,7 +991,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12245.mp3",
           "zh/12245.mp3",
-          "dan4 hong2 se4",
+          "dàn hóng sè",
           "[ruʒa:tr]"
         ],
         [
@@ -1000,7 +1000,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12246.mp3",
           "zh/12246.mp3",
-          "fen3 hong2 se4",
+          "fěn hóng sè",
           "[ro:z]"
         ],
         [
@@ -1009,7 +1009,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12247.mp3",
           "zh/12247.mp3",
-          "shen1 hong2 se4",
+          "shēn hóng sè",
           "[ro:z fɔ̃se]"
         ],
         [
@@ -1018,7 +1018,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12248.mp3",
           "zh/12248.mp3",
-          "zhu1 hong2 se4",
+          "zhū hóng sè",
           "[vermijɔ̃]"
         ],
         [
@@ -1027,7 +1027,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12249.mp3",
           "zh/12249.mp3",
-          "shen1 hong2 se4",
+          "shēn hóng sè",
           "[ro:z sɔ̃:br]"
         ],
         [
@@ -1036,7 +1036,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12250.mp3",
           "zh/12250.mp3",
-          "xing1 hong2 se4",
+          "xīng hóng sè",
           "[ekarlat]"
         ],
         [
@@ -1045,7 +1045,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12251.mp3",
           "zh/12251.mp3",
-          "yin2 se4",
+          "yín sè",
           "[arʒɑ̃te]"
         ],
         [
@@ -1054,7 +1054,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12252.mp3",
           "zh/12252.mp3",
-          "hei1 se4",
+          "hēi sè",
           "[nwa:r]"
         ],
         [
@@ -1063,7 +1063,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12253.mp3",
           "zh/12253.mp3",
-          "qing1 tong2 se4",
+          "qīng tóng sè",
           "[brɔ̃:z]"
         ],
         [
@@ -1072,7 +1072,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12254.mp3",
           "zh/12254.mp3",
-          "bai2 se4",
+          "bái sè",
           "[blɑ̃, ɑ̃ʃ]"
         ],
         [
@@ -1081,7 +1081,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12255.mp3",
           "zh/12255.mp3",
-          "xiang4 ya2 bai2",
+          "xiàng yá bái",
           "[ivwa:r]"
         ],
         [
@@ -1090,7 +1090,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12256.mp3",
           "zh/12256.mp3",
-          "ru3 bai2 se4",
+          "rǔ bái sè",
           "[letø, ø:z]"
         ],
         [
@@ -1099,7 +1099,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12257.mp3",
           "zh/12257.mp3",
-          "hui1 se4",
+          "huī sè",
           "[gri, z]"
         ],
         [
@@ -1108,7 +1108,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12258.mp3",
           "zh/12258.mp3",
-          "zong1 se4",
+          "zōng sè",
           "[marɔ̃]"
         ],
         [
@@ -1117,7 +1117,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12259.mp3",
           "zh/12259.mp3",
-          "qian3 zong1 se4",
+          "qiǎn zōng sè",
           "[marɔ̃ kle:r]"
         ],
         [
@@ -1126,7 +1126,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12260.mp3",
           "zh/12260.mp3",
-          "cai3 se4",
+          "cǎi sè",
           "[kulœ:r]"
         ]
       ],
@@ -1137,7 +1137,7 @@ window.BOOK_DATA[0] ={
           "《雨人》",
           "fr/12261.mp3",
           "zh/12261.mp3",
-          "yin1 wei4 che1 shang4 de5 zuo4 wei4 yuan2 lai2 shi4 he4 se4 pi2 ge2 ， xian4 zai4 ta1 men5 shi4 an4 hong2 se4 de5 。",
+          "yīn wèi chē shàng de zuò wèi yuán lái shì hè sè pí gé ， xiàn zài tā men shì àn hóng sè de 。",
           ""
         ],
         [
@@ -1146,7 +1146,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12262.mp3",
           "zh/12262.mp3",
-          "sheng1 huo2 hen3 mei3 hao3 。",
+          "shēng huó hěn měi hǎo 。",
           ""
         ],
         [
@@ -1155,7 +1155,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12263.mp3",
           "zh/12263.mp3",
-          "wu1 yun2 shi3 tian1 kong1 yin1 an4 qi3 lai2 。",
+          "wū yún shǐ tiān kōng yīn àn qǐ lái 。",
           ""
         ],
         [
@@ -1164,7 +1164,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12264.mp3",
           "zh/12264.mp3",
-          "yu3 hei1 se4 yi2 yang4 ， bai2 se4 bing4 bu2 suan4 yi4 zhong3 se4 cai3 ， shi4 shi2 shang4 ， bai2 se4 bao1 han2 le5 suo3 you3 de5 yan2 se4 。 ta1 shi4 chun2 jing4 de5 xiang4 zheng1 。",
+          "yǔ hēi sè yí yàng ， bái sè bìng bú suàn yì zhǒng sè cǎi ， shì shí shàng ， bái sè bāo hán le suǒ yǒu de yán sè 。 tā shì chún jìng de xiàng zhēng 。",
           ""
         ],
         [
@@ -1173,7 +1173,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12265.mp3",
           "zh/12265.mp3",
-          "zhe4 jian4 yi1 fu2 de5 yan2 se4 hen3 duo1 ， ni3 ke3 yi3 gen1 ju4 tu2 pian4 xuan3 ze2 。",
+          "zhè jiàn yī fú de yán sè hěn duō ， nǐ kě yǐ gēn jù tú piàn xuǎn zé 。",
           ""
         ]
       ],
@@ -1184,7 +1184,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12266.mp3",
           "zh/12266.mp3",
-          "che1 liang4",
+          "chē liàng",
           "[vwaty:r]"
         ],
         [
@@ -1193,7 +1193,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12267.mp3",
           "zh/12267.mp3",
-          "qi3 yuan2 ， kai1 shi3",
+          "qǐ yuán ， kāi shǐ",
           "[ɔriʒin]"
         ],
         [
@@ -1202,7 +1202,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12268.mp3",
           "zh/12268.mp3",
-          "bao1 rong2 ， han2 you3",
+          "bāo róng ， hán yǒu",
           "[kɔ̃tni:r]"
         ],
         [
@@ -1211,7 +1211,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12269.mp3",
           "zh/12269.mp3",
-          "ke3 zi4 you2 chu4 li3 de5",
+          "kě zì yóu chù lǐ de",
           "[dispɔ̃nibl]"
         ]
       ]
@@ -1226,7 +1226,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12270.mp3",
           "zh/12270.mp3",
-          "（ fu2 zhuang1 / yan2 se4 ） xiang1 pei4 de5",
+          "（ fú zhuāng / yán sè ） xiāng pèi de",
           "[sejɑ̃, ɑ̃:t]"
         ],
         [
@@ -1235,7 +1235,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12271.mp3",
           "zh/12271.mp3",
-          "de2 ti3 de5",
+          "dé tǐ de",
           "[kɔvnabl]"
         ],
         [
@@ -1244,7 +1244,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12272.mp3",
           "zh/12272.mp3",
-          "yu3 … … xiang1 pei4",
+          "yǔ … … xiāng pèi",
           "[asɔrti:r]"
         ],
         [
@@ -1253,7 +1253,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12273.mp3",
           "zh/12273.mp3",
-          "pu3 su4 de5",
+          "pǔ sù de",
           "[sɛ̃:pl]"
         ],
         [
@@ -1262,7 +1262,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12274.mp3",
           "zh/12274.mp3",
-          "piao1 liang4 ya3 zhi4 de5",
+          "piāo liàng yǎ zhì de",
           "[elegɑ̃, ɑ̃:t]"
         ],
         [
@@ -1271,7 +1271,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12275.mp3",
           "zh/12275.mp3",
-          "bi3 li4",
+          "bǐ lì",
           "[prɔpɔrsjɔ̃]"
         ],
         [
@@ -1280,7 +1280,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12276.mp3",
           "zh/12276.mp3",
-          "yun4 dong4 de5",
+          "yùn dòng de",
           "[spɔrtif, iv]"
         ],
         [
@@ -1289,7 +1289,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12277.mp3",
           "zh/12277.mp3",
-          "yi1 fu2 de5 feng1 ge2",
+          "yī fú de fēng gé",
           "[stil]"
         ],
         [
@@ -1298,7 +1298,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12278.mp3",
           "zh/12278.mp3",
-          "fu1 se4",
+          "fū sè",
           "[tɛ]"
         ],
         [
@@ -1307,7 +1307,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12279.mp3",
           "zh/12279.mp3",
-          "zui4 jin4 de5",
+          "zuì jìn de",
           "[resɑ̃, ɑ̃:t]"
         ],
         [
@@ -1316,7 +1316,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12280.mp3",
           "zh/12280.mp3",
-          "shi4 dang1 de5",
+          "shì dāng de",
           "[aprɔprije]"
         ],
         [
@@ -1325,7 +1325,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12281.mp3",
           "zh/12281.mp3",
-          "zhao1 yao2",
+          "zhāo yáo",
           "[fɑ̃fa:r]"
         ],
         [
@@ -1334,7 +1334,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12282.mp3",
           "zh/12282.mp3",
-          "wan2 mei3 de5",
+          "wán měi de",
           "[parfɛ]"
         ],
         [
@@ -1343,7 +1343,7 @@ window.BOOK_DATA[0] ={
           "固",
           "fr/12283.mp3",
           "zh/12283.mp3",
-          "liu2 xing2",
+          "liú xíng",
           "[ɑ̃ vɔg]"
         ],
         [
@@ -1352,7 +1352,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12284.mp3",
           "zh/12284.mp3",
-          "duo1 zhong3 se4 cai3 de5",
+          "duō zhǒng sè cǎi de",
           "[myltikɔlɔ:r]"
         ],
         [
@@ -1361,7 +1361,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12285.mp3",
           "zh/12285.mp3",
-          "yin4 xiang4",
+          "yìn xiàng",
           "[ɛ̃p rɛ(e)sjɔ̃]"
         ],
         [
@@ -1370,7 +1370,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12286.mp3",
           "zh/12286.mp3",
-          "xi4 jie2",
+          "xì jié",
           "[detaj]"
         ]
       ],
@@ -1381,7 +1381,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12287.mp3",
           "zh/12287.mp3",
-          "hui1 mao4 zi5 he2 ni3 de5 lian3 se4 yi4 dian3 dou1 bu2 pei4 。",
+          "huī mào zi hé nǐ de liǎn sè yì diǎn dōu bú pèi 。",
           ""
         ],
         [
@@ -1390,7 +1390,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12288.mp3",
           "zh/12288.mp3",
-          "jin4 dai4 de5 zhong1 guo2 jing1 li4 le5 yi2 duan4 qu1 ru3 he2 tong4 ku3 de5 li4 shi3 。",
+          "jìn dài de zhōng guó jīng lì le yí duàn qū rǔ hé tòng kǔ de lì shǐ 。",
           ""
         ],
         [
@@ -1399,7 +1399,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12289.mp3",
           "zh/12289.mp3",
-          "ta1 shi4 yi2 wei4 di4 di4 dao4 dao4 de5 shang4 liu2 she4 hui4 de5 ren2 。",
+          "tā shì yí wèi dì dì dào dào de shàng liú shè huì de rén 。",
           ""
         ],
         [
@@ -1408,7 +1408,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12290.mp3",
           "zh/12290.mp3",
-          "nin2 dui4 can1 guan1 zhang3 cheng2 de5 yin4 xiang4 ru2 he2 ？",
+          "nín duì cān guān zhǎng chéng de yìn xiàng rú hé ？",
           ""
         ],
         [
@@ -1417,7 +1417,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12291.mp3",
           "zh/12291.mp3",
-          "xi4 jie2 jue2 ding4 cheng2 bai4 。",
+          "xì jié jué dìng chéng bài 。",
           ""
         ],
         [
@@ -1426,7 +1426,7 @@ window.BOOK_DATA[0] ={
           "《音乐之声》",
           "fr/12292.mp3",
           "zh/12292.mp3",
-          "zhen1 de5 ， wo3 xiang3 wo3 mei2 you3 shen2 me5 he2 shi4 de5 yi1 fu2 。",
+          "zhēn de ， wǒ xiǎng wǒ méi yǒu shén me hé shì de yī fú 。",
           ""
         ]
       ],
@@ -1437,7 +1437,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12293.mp3",
           "zh/12293.mp3",
-          "li4 shi3",
+          "lì shǐ",
           "[istwa:r]"
         ],
         [
@@ -1446,7 +1446,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12294.mp3",
           "zh/12294.mp3",
-          "zhou1 qi1 ， jie1 duan4",
+          "zhōu qī ， jiē duàn",
           "[perjɔd]"
         ],
         [
@@ -1455,7 +1455,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12295.mp3",
           "zh/12295.mp3",
-          "qu1 ru3",
+          "qū rǔ",
           "[ɛsylte]"
         ],
         [
@@ -1464,7 +1464,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12296.mp3",
           "zh/12296.mp3",
-          "kun4 nan2 de5",
+          "kùn nán de",
           "[dy:r]"
         ],
         [
@@ -1473,7 +1473,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12297.mp3",
           "zh/12297.mp3",
-          "gao1 qiang2",
+          "gāo qiáng",
           "[myra:j]"
         ]
       ]
@@ -1488,7 +1488,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12298.mp3",
           "zh/12298.mp3",
-          "zui4 xin1 kuan3 shi4",
+          "zuì xīn kuǎn shì",
           "[dɛrnje stil]"
         ],
         [
@@ -1497,7 +1497,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12299.mp3",
           "zh/12299.mp3",
-          "liu2 xing2",
+          "liú xíng",
           "[pɔpyle:r]"
         ],
         [
@@ -1506,7 +1506,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12300.mp3",
           "zh/12300.mp3",
-          "guo4 shi2 de5",
+          "guò shí de",
           "[pa(a)se]"
         ],
         [
@@ -1515,7 +1515,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12301.mp3",
           "zh/12301.mp3",
-          "ling3 jie2",
+          "lǐng jié",
           "[kravat]"
         ],
         [
@@ -1524,7 +1524,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12302.mp3",
           "zh/12302.mp3",
-          "hu2 die2 jie2",
+          "hú dié jié",
           "[nø papijɔ̃]"
         ],
         [
@@ -1533,7 +1533,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12303.mp3",
           "zh/12303.mp3",
-          "ling3 kou3",
+          "lǐng kǒu",
           "[kɔle]"
         ],
         [
@@ -1542,7 +1542,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12304.mp3",
           "zh/12304.mp3",
-          "U xing2 ling3",
+          "U xíng lǐng",
           "[kɔl-y]"
         ],
         [
@@ -1551,7 +1551,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12305.mp3",
           "zh/12305.mp3",
-          "V xing2 ling3",
+          "V xíng lǐng",
           "[kɔl-ve]"
         ],
         [
@@ -1560,7 +1560,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12306.mp3",
           "zh/12306.mp3",
-          "chi3 cun4",
+          "chǐ cùn",
           "[pwɛ̃ty:r]"
         ],
         [
@@ -1569,7 +1569,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12307.mp3",
           "zh/12307.mp3",
-          "chi3 ma3",
+          "chǐ mǎ",
           "[ta:(a)j]"
         ],
         [
@@ -1578,7 +1578,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12308.mp3",
           "zh/12308.mp3",
-          "xiao3 hao4 de5",
+          "xiǎo hào de",
           "[p(ə)ti, it]"
         ],
         [
@@ -1587,7 +1587,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12309.mp3",
           "zh/12309.mp3",
-          "zhong1 hao4 de5",
+          "zhōng hào de",
           "[mwajɛ̃, ɛn]"
         ],
         [
@@ -1596,7 +1596,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12310.mp3",
           "zh/12310.mp3",
-          "da4 hao4 de5",
+          "dà hào de",
           "[larʒ]"
         ],
         [
@@ -1605,7 +1605,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12311.mp3",
           "zh/12311.mp3",
-          "xiong1 wei2",
+          "xiōng wéi",
           "[tu:r d(ə) pwatrın]"
         ],
         [
@@ -1614,7 +1614,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12312.mp3",
           "zh/12312.mp3",
-          "yao1 wei2",
+          "yāo wéi",
           "[tu:r d(a) ta:(a)j]"
         ],
         [
@@ -1623,7 +1623,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12313.mp3",
           "zh/12313.mp3",
-          "jian3 cai2",
+          "jiǎn cái",
           "[ta(a)je]"
         ],
         [
@@ -1632,7 +1632,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12314.mp3",
           "zh/12314.mp3",
-          "gao1 fan1 ling3",
+          "gāo fān lǐng",
           "[kɔl rule]"
         ]
       ],
@@ -1643,7 +1643,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12315.mp3",
           "zh/12315.mp3",
-          "zhe4 jian4 qun2 zi5 de5 she4 ji4 que1 fa2 te4 se4 。",
+          "zhè jiàn qún zi de shè jì quē fá tè sè 。",
           ""
         ],
         [
@@ -1652,7 +1652,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12316.mp3",
           "zh/12316.mp3",
-          "you3 yi2 ju4 you3 ming2 de5 yan4 yu3 shuo1 de5 jiu4 shi4 zhu1 de5 shen1 shang4 dou1 shi4 bao3 。",
+          "yǒu yí jù yǒu míng de yàn yǔ shuō de jiù shì zhū de shēn shàng dōu shì bǎo 。",
           ""
         ],
         [
@@ -1661,7 +1661,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12317.mp3",
           "zh/12317.mp3",
-          "wo3 xian4 zai4 li2 kai1 ， shi4 wei4 le5 can1 yan3 ni3 de5 wei4 lai2 。",
+          "wǒ xiàn zài lí kāi ， shì wèi le cān yǎn nǐ de wèi lái 。",
           ""
         ],
         [
@@ -1670,7 +1670,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12318.mp3",
           "zh/12318.mp3",
-          "zhe4 jian4 qun2 zi5 de5 chi3 ma3 hen3 duo1 ， ni3 ke3 yi3 gen1 ju4 tu2 biao3 xuan3 ze2 。",
+          "zhè jiàn qún zi de chǐ mǎ hěn duō ， nǐ kě yǐ gēn jù tú biǎo xuǎn zé 。",
           ""
         ],
         [
@@ -1679,7 +1679,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12319.mp3",
           "zh/12319.mp3",
-          "wo3 de5 yao1 wei2 shi4 2 4 fa3 cun4 。",
+          "wǒ de yāo wéi shì 2 4 fǎ cùn 。",
           ""
         ]
       ],
@@ -1690,7 +1690,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12320.mp3",
           "zh/12320.mp3",
-          "gan3 nian4 ， gou4 si1",
+          "gǎn niàn ， gòu sī",
           "[kɔ̃sɛpsjɔ̃]"
         ],
         [
@@ -1699,7 +1699,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12321.mp3",
           "zh/12321.mp3",
-          "que1 shao3 ， que1 fa2",
+          "quē shǎo ， quē fá",
           "[mɑ̃ke]"
         ],
         [
@@ -1708,7 +1708,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12322.mp3",
           "zh/12322.mp3",
-          "jiang1 lai2 ， wei4 lai2",
+          "jiāng lái ， wèi lái",
           "[fyty:r]"
         ],
         [
@@ -1717,7 +1717,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12323.mp3",
           "zh/12323.mp3",
-          "ke3 zi4 you2 chu4 li3 de5",
+          "kě zì yóu chù lǐ de",
           "[dispɔnibl]"
         ],
         [
@@ -1726,7 +1726,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12324.mp3",
           "zh/12324.mp3",
-          "yang4 pin3 ka3",
+          "yàng pǐn kǎ",
           "[nyɑ̃sje]"
         ]
       ]
@@ -1741,7 +1741,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12325.mp3",
           "zh/12325.mp3",
-          "wu2 bian1 ruan3 mao4",
+          "wú biān ruǎn mào",
           "[bɔnɛ]"
         ],
         [
@@ -1750,7 +1750,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12326.mp3",
           "zh/12326.mp3",
-          "mao4 zi5",
+          "mào zi",
           "[kwafy:r]"
         ],
         [
@@ -1759,7 +1759,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12327.mp3",
           "zh/12327.mp3",
-          "mao4 zi5",
+          "mào zi",
           "[ʃapo]"
         ],
         [
@@ -1768,7 +1768,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12328.mp3",
           "zh/12328.mp3",
-          "yuan2 ding3 li3 mao4",
+          "yuán dǐng lǐ mào",
           "[ʃapo malɔ̃]"
         ],
         [
@@ -1777,7 +1777,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12329.mp3",
           "zh/12329.mp3",
-          "cao3 mao4",
+          "cǎo mào",
           "[pajasɔ̃]"
         ],
         [
@@ -1786,7 +1786,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12330.mp3",
           "zh/12330.mp3",
-          "da4 pi2 mao2 mao4",
+          "dà pí máo mào",
           "[ʃapka]"
         ],
         [
@@ -1795,7 +1795,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12331.mp3",
           "zh/12331.mp3",
-          "dou1 mao4",
+          "dōu mào",
           "[ʃaprɔ̃]"
         ],
         [
@@ -1804,7 +1804,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12332.mp3",
           "zh/12332.mp3",
-          "ya1 she2 mao4",
+          "yā shé mào",
           "[kaskɛt]"
         ],
         [
@@ -1813,7 +1813,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12333.mp3",
           "zh/12333.mp3",
-          "bei4 lei2 mao4",
+          "bèi léi mào",
           "[berɛ]"
         ],
         [
@@ -1822,7 +1822,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12334.mp3",
           "zh/12334.mp3",
-          "yuan2 ding3 xiao3 mao4",
+          "yuán dǐng xiǎo mào",
           "[kipa]"
         ],
         [
@@ -1831,7 +1831,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12335.mp3",
           "zh/12335.mp3",
-          "dai4 zhe5",
+          "dài zhe",
           "[pɔrte]"
         ],
         [
@@ -1840,7 +1840,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12336.mp3",
           "zh/12336.mp3",
-          "fa1 xing2 ， mao4 zi5",
+          "fā xíng ， mào zi",
           "[kwafy:r]"
         ],
         [
@@ -1849,7 +1849,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12337.mp3",
           "zh/12337.mp3",
-          "tou2 jin1",
+          "tóu jīn",
           "[eʃarp]"
         ],
         [
@@ -1858,7 +1858,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12338.mp3",
           "zh/12338.mp3",
-          "er3 ji1 ， tou2 kui1",
+          "ěr jī ， tóu kuī",
           "[kask]"
         ],
         [
@@ -1867,7 +1867,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12339.mp3",
           "zh/12339.mp3",
-          "mao4 ding3",
+          "mào dǐng",
           "[kalɔt]"
         ],
         [
@@ -1876,7 +1876,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12340.mp3",
           "zh/12340.mp3",
-          "dai4 ， gu1",
+          "dài ， gū",
           "[sɛrso]"
         ],
         [
@@ -1885,7 +1885,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12341.mp3",
           "zh/12341.mp3",
-          "mao4 sha1",
+          "mào shā",
           "[vwalaʒ dœ̃ ʃapo]"
         ],
         [
@@ -1894,7 +1894,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12342.mp3",
           "zh/12342.mp3",
-          "mao4 she2",
+          "mào shé",
           "[vizjɛ:r]"
         ]
       ],
@@ -1905,7 +1905,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12343.mp3",
           "zh/12343.mp3",
-          "zhe4 shi4 yi2 lu4 huo4 se4 。",
+          "zhè shì yí lù huò sè 。",
           ""
         ],
         [
@@ -1914,7 +1914,7 @@ window.BOOK_DATA[0] ={
           "《绝望的主妇》",
           "fr/12344.mp3",
           "zh/12344.mp3",
-          "ni3 dai4 zhe5 yi4 ding3 fei1 chang2 da4 de5 mao4 zi5 。",
+          "nǐ dài zhe yì dǐng fēi cháng dà de mào zi 。",
           ""
         ],
         [
@@ -1923,7 +1923,7 @@ window.BOOK_DATA[0] ={
           "《绝望的主妇》",
           "fr/12345.mp3",
           "zh/12345.mp3",
-          "wo3 ren4 wei4 zhe4 shi4 《 xiao3 hong2 mao4 》 zui4 hao3 de5 yi2 ge4 ban3 ben3 。",
+          "wǒ rèn wèi zhè shì 《 xiǎo hóng mào 》 zuì hǎo de yí gè bǎn běn 。",
           ""
         ],
         [
@@ -1932,7 +1932,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12346.mp3",
           "zh/12346.mp3",
-          "zhe4 ge4 fa1 xing2 hen3 shi4 he2 ni3 de5 lian3 xing2 。",
+          "zhè gè fā xíng hěn shì hé nǐ de liǎn xíng 。",
           ""
         ],
         [
@@ -1941,7 +1941,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12347.mp3",
           "zh/12347.mp3",
-          "yuan2 ding3 li3 mao4 yi3 jing1 bu2 zai4 shi2 mao2 le5 。",
+          "yuán dǐng lǐ mào yǐ jīng bú zài shí máo le 。",
           ""
         ],
         [
@@ -1950,7 +1950,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12348.mp3",
           "zh/12348.mp3",
-          "zhe4 li3 mei2 you3 er3 ji1 。",
+          "zhè lǐ méi yǒu ěr jī 。",
           ""
         ]
       ],
@@ -1961,7 +1961,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12349.mp3",
           "zh/12349.mp3",
-          "geng4 hao3 de5",
+          "gèng hǎo de",
           "[mɛ(ə)jœ:r]"
         ],
         [
@@ -1970,7 +1970,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12350.mp3",
           "zh/12350.mp3",
-          "ban3 ben3",
+          "bǎn běn",
           "[vɛrsjɔ̃]"
         ],
         [
@@ -1979,7 +1979,7 @@ window.BOOK_DATA[0] ={
           "v.i.",
           "fr/12351.mp3",
           "zh/12351.mp3",
-          "he2 shi4 de5",
+          "hé shì de",
           "[kɔvni:r]"
         ],
         [
@@ -1988,7 +1988,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12352.mp3",
           "zh/12352.mp3",
-          "liu2 xing2 ， feng1 xing2 yi4 shi2",
+          "liú xíng ， fēng xíng yì shí",
           "[a la mɔd]"
         ]
       ]
@@ -2003,7 +2003,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12353.mp3",
           "zh/12353.mp3",
-          "duan3 wai4 tao4 ， da4 yi1",
+          "duǎn wài tào ， dà yī",
           "[vest]"
         ],
         [
@@ -2012,7 +2012,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12354.mp3",
           "zh/12354.mp3",
-          "da4 yi1",
+          "dà yī",
           "[pardasy]"
         ],
         [
@@ -2021,7 +2021,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12355.mp3",
           "zh/12355.mp3",
-          "duan3 da4 yi1",
+          "duǎn dà yī",
           "[mɑ̃to d(ə) d(ə)mi sezɔ̃]"
         ],
         [
@@ -2030,7 +2030,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12356.mp3",
           "zh/12356.mp3",
-          "xi1 zhuang1 shang4 yi1",
+          "xī zhuāng shàng yī",
           "[vestɔ̃]"
         ],
         [
@@ -2039,7 +2039,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12357.mp3",
           "zh/12357.mp3",
-          "nv3 chen4 shan1",
+          "nǚ chèn shān",
           "[blu:z]"
         ],
         [
@@ -2048,7 +2048,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12358.mp3",
           "zh/12358.mp3",
-          "chen4 shan1",
+          "chèn shān",
           "[ʃ(ə)mi:z]"
         ],
         [
@@ -2057,7 +2057,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12359.mp3",
           "zh/12359.mp3",
-          "T xu4 shan1",
+          "T xù shān",
           "['ti ʃə:t]"
         ],
         [
@@ -2066,7 +2066,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12360.mp3",
           "zh/12360.mp3",
-          "han4 shan1",
+          "hàn shān",
           "[majo]"
         ],
         [
@@ -2075,7 +2075,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12361.mp3",
           "zh/12361.mp3",
-          "mao2 yi1",
+          "máo yī",
           "[tʃiko]"
         ],
         [
@@ -2084,7 +2084,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12362.mp3",
           "zh/12362.mp3",
-          "kai1 jin1 duan3 shang4 yi1",
+          "kāi jīn duǎn shàng yī",
           "[bɔleʃo]"
         ],
         [
@@ -2093,7 +2093,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12363.mp3",
           "zh/12363.mp3",
-          "wu2 xiu4 mao2 yi1",
+          "wú xiù máo yī",
           "[tʃiko sɑ̃mɑ̃ʃ]"
         ],
         [
@@ -2102,7 +2102,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12364.mp3",
           "zh/12364.mp3",
-          "kan3 jian1",
+          "kǎn jiān",
           "[ʒile]"
         ],
         [
@@ -2111,7 +2111,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12365.mp3",
           "zh/12365.mp3",
-          "bei4 xin1",
+          "bèi xīn",
           "[vɛtmɑ̃ sɑ̃ mɑ̃ʃ]"
         ],
         [
@@ -2120,7 +2120,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12366.mp3",
           "zh/12366.mp3",
-          "nei4 yi1",
+          "nèi yī",
           "[vɛtmɑ̃ d(ə) d(ə)su]"
         ],
         [
@@ -2129,7 +2129,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12367.mp3",
           "zh/12367.mp3",
-          "ru3 zhao4",
+          "rǔ zhào",
           "[brasjɛʃ]"
         ],
         [
@@ -2138,7 +2138,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12368.mp3",
           "zh/12368.mp3",
-          "xiu4 kou3",
+          "xiù kǒu",
           "[mɑ̃ʃɛt]"
         ],
         [
@@ -2147,7 +2147,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12369.mp3",
           "zh/12369.mp3",
-          "wu2 xiu4 de5",
+          "wú xiù de",
           "[sɑ̃mɑ̃ʃ]"
         ],
         [
@@ -2156,7 +2156,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12370.mp3",
           "zh/12370.mp3",
-          "niu3 kou4",
+          "niǔ kòu",
           "[butɔ̃]"
         ],
         [
@@ -2165,7 +2165,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12371.mp3",
           "zh/12371.mp3",
-          "kuan1 song1 de5",
+          "kuān sōng de",
           "[lɑ:ʃ]"
         ],
         [
@@ -2174,7 +2174,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12372.mp3",
           "zh/12372.mp3",
-          "jin3 de5",
+          "jǐn de",
           "[se(ɛ)ʃe]"
         ],
         [
@@ -2183,7 +2183,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12373.mp3",
           "zh/12373.mp3",
-          "jin3 shen1 de5",
+          "jǐn shēn de",
           "[mulɑ̃]"
         ]
       ],
@@ -2194,7 +2194,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12374.mp3",
           "zh/12374.mp3",
-          "zhe4 jian4 wai4 tao4 hen3 shi4 he2 ni3 。",
+          "zhè jiàn wài tào hěn shì hé nǐ 。",
           ""
         ],
         [
@@ -2203,7 +2203,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12375.mp3",
           "zh/12375.mp3",
-          "wo3 hen3 xi3 huan1 zhe4 jian4 chen4 yi1 ， neng2 shi4 yi2 xia4 ma5 ？",
+          "wǒ hěn xǐ huān zhè jiàn chèn yī ， néng shì yí xià ma ？",
           ""
         ],
         [
@@ -2212,7 +2212,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12376.mp3",
           "zh/12376.mp3",
-          "ta1 wei4 fa1 zhan3 zhen1 zhi1 xing2 ye4 zuo4 chu1 le5 gong4 xian4 。",
+          "tā wèi fā zhǎn zhēn zhī xíng yè zuò chū le gòng xiàn 。",
           ""
         ],
         [
@@ -2221,7 +2221,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12377.mp3",
           "zh/12377.mp3",
-          "zhe4 shuang1 xie2 zhai3 le5 dian3 ， jiao3 jian1 you3 dian3 jin3 。",
+          "zhè shuāng xié zhǎi le diǎn ， jiǎo jiān yǒu diǎn jǐn 。",
           ""
         ],
         [
@@ -2230,7 +2230,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12378.mp3",
           "zh/12378.mp3",
-          "ta1 zu2 gou4 gao1 ， neng2 gou4 an4 dian4 ti1 de5 an4 niu3 。",
+          "tā zú gòu gāo ， néng gòu àn diàn tī de àn niǔ 。",
           ""
         ]
       ],
@@ -2241,7 +2241,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12379.mp3",
           "zh/12379.mp3",
-          "shi4 yan4",
+          "shì yàn",
           "[ese(ɛ)je]"
         ],
         [
@@ -2250,7 +2250,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12380.mp3",
           "zh/12380.mp3",
-          "you3 zhu4 yu2",
+          "yǒu zhù yú",
           "[kɔ̃tʃibɥe]"
         ],
         [
@@ -2259,7 +2259,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12381.mp3",
           "zh/12381.mp3",
-          "fa1 zhan3",
+          "fā zhǎn",
           "[devlɔpmɑ̃]"
         ],
         [
@@ -2268,7 +2268,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12382.mp3",
           "zh/12382.mp3",
-          "chan3 ye4",
+          "chǎn yè",
           "[ɛ̃d ystri]"
         ],
         [
@@ -2277,7 +2277,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12383.mp3",
           "zh/12383.mp3",
-          "zhai3 de5",
+          "zhǎi de",
           "[etʃwa, t]"
         ],
         [
@@ -2286,7 +2286,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12384.mp3",
           "zh/12384.mp3",
-          "mo4 duan1",
+          "mò duān",
           "[bu]"
         ],
         [
@@ -2295,7 +2295,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12385.mp3",
           "zh/12385.mp3",
-          "gao1 da4 de5",
+          "gāo dà de",
           "[gʃɑ̃, ɑ̃d]"
         ]
       ]
@@ -2310,7 +2310,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12386.mp3",
           "zh/12386.mp3",
-          "ku4 zi5",
+          "kù zi",
           "[pɑ̃talɔ̃]"
         ],
         [
@@ -2319,7 +2319,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12387.mp3",
           "zh/12387.mp3",
-          "niu2 zai3 ku4",
+          "niú zǎi kù",
           "[dʒin]"
         ],
         [
@@ -2328,7 +2328,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12388.mp3",
           "zh/12388.mp3",
-          "la3 ba1 ku4",
+          "lǎ bā kù",
           "[pɑ̃talɔ̃ evaze]"
         ],
         [
@@ -2337,7 +2337,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12389.mp3",
           "zh/12389.mp3",
-          "nei4 ku4",
+          "nèi kù",
           "[kylɔt]"
         ],
         [
@@ -2346,7 +2346,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12390.mp3",
           "zh/12390.mp3",
-          "duan3 ku4",
+          "duǎn kù",
           "[ʃɔrt]"
         ],
         [
@@ -2355,7 +2355,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12391.mp3",
           "zh/12391.mp3",
-          "deng1 long2 ku4",
+          "dēng lóng kù",
           "[pɑ̃talɔ̃ bufɑ̃t]"
         ],
         [
@@ -2364,7 +2364,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12392.mp3",
           "zh/12392.mp3",
-          "bei4 dai4 ku4",
+          "bèi dài kù",
           "[salɔpɛt]"
         ],
         [
@@ -2373,7 +2373,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12393.mp3",
           "zh/12393.mp3",
-          "duan3 chen4 ku4",
+          "duǎn chèn kù",
           "[kalsɔ̃]"
         ],
         [
@@ -2382,7 +2382,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12394.mp3",
           "zh/12394.mp3",
-          "ma3 ku4",
+          "mǎ kù",
           "[kylɔt d(ə)ʃ(ə)val]"
         ],
         [
@@ -2391,7 +2391,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12395.mp3",
           "zh/12395.mp3",
-          "bei4 dai4",
+          "bèi dài",
           "[bratɛl]"
         ],
         [
@@ -2400,7 +2400,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12396.mp3",
           "zh/12396.mp3",
-          "ku4 tui3",
+          "kù tuǐ",
           "[ʒɑ̃:bd(ə) pɑ̃talɔ̃]"
         ],
         [
@@ -2409,7 +2409,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12397.mp3",
           "zh/12397.mp3",
-          "kou3 dai4",
+          "kǒu dài",
           "[pɔʃ]"
         ],
         [
@@ -2418,7 +2418,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12398.mp3",
           "zh/12398.mp3",
-          "la1 lian4",
+          "lā liàn",
           "[zip]"
         ],
         [
@@ -2427,7 +2427,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12399.mp3",
           "zh/12399.mp3",
-          "zhuang1 la1 lian4",
+          "zhuāng lā liàn",
           "[zipe]"
         ],
         [
@@ -2436,7 +2436,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12400.mp3",
           "zh/12400.mp3",
-          "kou4 zi5",
+          "kòu zi",
           "[butɔ̃]"
         ],
         [
@@ -2445,7 +2445,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12401.mp3",
           "zh/12401.mp3",
-          "kuan1 song1 de5",
+          "kuān sōng de",
           "[la:ʃ]"
         ],
         [
@@ -2454,7 +2454,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12402.mp3",
           "zh/12402.mp3",
-          "song1 chi2",
+          "sōng chí",
           "[r(ə)lakse]"
         ],
         [
@@ -2463,7 +2463,7 @@ window.BOOK_DATA[0] ={
           "v.i.",
           "fr/12403.mp3",
           "zh/12403.mp3",
-          "xia4 chui2",
+          "xià chuí",
           "[pɑ̃dr]"
         ]
       ],
@@ -2474,7 +2474,7 @@ window.BOOK_DATA[0] ={
           "《牛仔裤的夏天》",
           "fr/12404.mp3",
           "zh/12404.mp3",
-          "wo3 yi3 wei4 ku4 zi5 ji4 lai2 hou4 yi2 qie4 dou1 hui4 hao3 qi3 lai2 ， wo3 zhen1 shi4 bai2 ri4 zuo4 meng4 。",
+          "wǒ yǐ wèi kù zi jì lái hòu yí qiè dōu huì hǎo qǐ lái ， wǒ zhēn shì bái rì zuò mèng 。",
           ""
         ],
         [
@@ -2483,7 +2483,7 @@ window.BOOK_DATA[0] ={
           "《哈利波特与魔法师》",
           "fr/12405.mp3",
           "zh/12405.mp3",
-          "you3 ge4 hen3 fang1 bian4 de5 dong1 xi1 zai4 ni3 de5 kou3 dai4 li3 。",
+          "yǒu gè hěn fāng biàn de dōng xī zài nǐ de kǒu dài lǐ 。",
           ""
         ],
         [
@@ -2492,7 +2492,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12406.mp3",
           "zh/12406.mp3",
-          "zhe4 kuan3 yi1 fu2 de5 la1 lian4 she4 ji4 hen3 du2 te4 。",
+          "zhè kuǎn yī fú de lā liàn shè jì hěn dú tè 。",
           ""
         ],
         [
@@ -2501,7 +2501,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12407.mp3",
           "zh/12407.mp3",
-          "an4 mo2 shi4 zhong1 guo2 wen2 hua4 bu4 ke3 huo4 que1 de5 yi2 bu4 fen1 ， an4 mo2 ke3 yi3 rang4 ren2 fang4 song1 、 jian3 ya1 ， zai4 fan2 mang2 gong1 zuo4 yi4 tian1 zhi1 hou4 xiang3 shou4 shu1 shi4 。",
+          "àn mó shì zhōng guó wén huà bù kě huò quē de yí bù fēn ， àn mó kě yǐ ràng rén fàng sōng 、 jiǎn yā ， zài fán máng gōng zuò yì tiān zhī hòu xiǎng shòu shū shì 。",
           ""
         ]
       ],
@@ -2512,7 +2512,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12408.mp3",
           "zh/12408.mp3",
-          "pai4 qian3",
+          "pài qiǎn",
           "[ɑ̃vwaje]"
         ],
         [
@@ -2521,7 +2521,7 @@ window.BOOK_DATA[0] ={
           "adv.",
           "fr/12409.mp3",
           "zh/12409.mp3",
-          "zhi2 li4 ， zhan4 zhe5",
+          "zhí lì ， zhàn zhe",
           "[dabu]"
         ],
         [
@@ -2530,7 +2530,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12410.mp3",
           "zh/12410.mp3",
-          "li3 nian4",
+          "lǐ niàn",
           "[kɔ̃sɛpsjɔ̃]"
         ],
         [
@@ -2539,7 +2539,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12411.mp3",
           "zh/12411.mp3",
-          "an4 mo2",
+          "àn mó",
           "[masa:ʒ]"
         ],
         [
@@ -2548,7 +2548,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12412.mp3",
           "zh/12412.mp3",
-          "bu4 ke3 que1 shao3 de5",
+          "bù kě quē shǎo de",
           "[ɛ̃tegrɑ̃, ɑ̃:t]"
         ],
         [
@@ -2557,7 +2557,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12413.mp3",
           "zh/12413.mp3",
-          "fang4 song1 ， song1 kai1",
+          "fàng sōng ， sōng kāi",
           "[detɑ̃dr]"
         ]
       ]
@@ -2572,7 +2572,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12414.mp3",
           "zh/12414.mp3",
-          "qun2 zi5",
+          "qún zi",
           "[ʒyp]"
         ],
         [
@@ -2581,7 +2581,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12415.mp3",
           "zh/12415.mp3",
-          "lian2 yi1 qun2",
+          "lián yī qún",
           "[rɔb]"
         ],
         [
@@ -2590,7 +2590,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12416.mp3",
           "zh/12416.mp3",
-          "mi2 ni3 duan3 qun2",
+          "mí nǐ duǎn qún",
           "[miniʒyp]"
         ],
         [
@@ -2599,7 +2599,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12417.mp3",
           "zh/12417.mp3",
-          "ba1 lei3 wu3 qun2",
+          "bā lěi wǔ qún",
           "[ʒyp d(ə) balɛ]"
         ],
         [
@@ -2608,7 +2608,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12418.mp3",
           "zh/12418.mp3",
-          "duan3 zhe3 qun2",
+          "duǎn zhě qún",
           "[ʒyp plise]"
         ],
         [
@@ -2617,7 +2617,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12419.mp3",
           "zh/12419.mp3",
-          "la3 ba1 qun2",
+          "lǎ bā qún",
           "[ʒyp evase]"
         ],
         [
@@ -2626,7 +2626,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12420.mp3",
           "zh/12420.mp3",
-          "kai1 cha3 qun2",
+          "kāi chǎ qún",
           "[ʒyp fɑ̃dy]"
         ],
         [
@@ -2635,7 +2635,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12421.mp3",
           "zh/12421.mp3",
-          "chen4 qun2",
+          "chèn qún",
           "[ʒypɔ̃]"
         ],
         [
@@ -2644,7 +2644,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12422.mp3",
           "zh/12422.mp3",
-          "qi2 pao2",
+          "qí páo",
           "[ʒyp ʃinwa:z]"
         ],
         [
@@ -2653,7 +2653,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12423.mp3",
           "zh/12423.mp3",
-          "wu2 xiu4 lian2 yi1 qun2",
+          "wú xiù lián yī qún",
           "[rɔb sɑ̃ mɑ̃:ʃ]"
         ],
         [
@@ -2662,7 +2662,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12424.mp3",
           "zh/12424.mp3",
-          "kuan1 song1 lian2 yi1 qun2",
+          "kuān sōng lián yī qún",
           "[rɔb lɑ:ʃ]"
         ],
         [
@@ -2671,7 +2671,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12425.mp3",
           "zh/12425.mp3",
-          "he2 fu2",
+          "hé fú",
           "[kimɔno]"
         ],
         [
@@ -2680,7 +2680,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12426.mp3",
           "zh/12426.mp3",
-          "tou4 ming2 de5",
+          "tòu míng de",
           "[trɑ̃sparɑ̃, ɑ̃:t]"
         ],
         [
@@ -2689,7 +2689,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12427.mp3",
           "zh/12427.mp3",
-          "zhe3 qun2",
+          "zhě qún",
           "[ʒyp a pli]"
         ],
         [
@@ -2698,7 +2698,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12428.mp3",
           "zh/12428.mp3",
-          "qun2 yao1",
+          "qún yāo",
           "[ɑ̃pjɛsmɑ̃]"
         ]
       ],
@@ -2709,7 +2709,7 @@ window.BOOK_DATA[0] ={
           "《公主日记2》",
           "fr/12429.mp3",
           "zh/12429.mp3",
-          "ni3 jiu4 yong4 qun2 zi5 gai4 zhu4 ， mei2 ren2 hui4 huai2 yi2 de5 。",
+          "nǐ jiù yòng qún zi gài zhù ， méi rén huì huái yí de 。",
           ""
         ],
         [
@@ -2718,7 +2718,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12430.mp3",
           "zh/12430.mp3",
-          "ni3 jue2 de2 ni3 chuan1 dai4 wang3 yan3 de5 bai2 qun2 zi5 qu4 can1 jia1 hun1 li3 he2 shi4 ma5 ？",
+          "nǐ jué dé nǐ chuān dài wǎng yǎn de bái qún zi qù cān jiā hūn lǐ hé shì ma ？",
           ""
         ],
         [
@@ -2727,7 +2727,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12431.mp3",
           "zh/12431.mp3",
-          "ru2 guo3 ni3 lian4 xi2 rou2 dao4 ， bu2 yao4 wang4 ji4 chuan1 he2 fu2 。",
+          "rú guǒ nǐ liàn xí róu dào ， bú yào wàng jì chuān hé fú 。",
           ""
         ],
         [
@@ -2736,7 +2736,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12432.mp3",
           "zh/12432.mp3",
-          "mei3 nian2 jiu3 yue4 fen4 ， tian1 kong1 zhe4 yang4 qing1 che4 ， kong1 qi4 you4 ru2 ci3 tou4 ming2 。",
+          "měi nián jiǔ yuè fèn ， tiān kōng zhè yàng qīng chè ， kōng qì yòu rú cǐ tòu míng 。",
           ""
         ]
       ],
@@ -2747,7 +2747,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12433.mp3",
           "zh/12433.mp3",
-          "huai2 yi2 ， cai1 ce4",
+          "huái yí ， cāi cè",
           "[supsɔne]"
         ],
         [
@@ -2756,7 +2756,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12434.mp3",
           "zh/12434.mp3",
-          "feng1 dao4 ， wang3 zhuang4 jie2 gou4",
+          "fēng dào ， wǎng zhuàng jié gòu",
           "[majaʒ]"
         ],
         [
@@ -2765,7 +2765,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12435.mp3",
           "zh/12435.mp3",
-          "he2 shi4 de5",
+          "hé shì de",
           "[aprɔprije]"
         ]
       ]
@@ -2780,7 +2780,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12436.mp3",
           "zh/12436.mp3",
-          "xie2",
+          "xié",
           "[ʃosy:ʁ]"
         ],
         [
@@ -2789,7 +2789,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12437.mp3",
           "zh/12437.mp3",
-          "mu4 ji1",
+          "mù jī",
           "[sabo]"
         ],
         [
@@ -2798,7 +2798,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12438.mp3",
           "zh/12438.mp3",
-          "xue1 zi5",
+          "xuē zi",
           "[bɔt]"
         ],
         [
@@ -2807,7 +2807,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12439.mp3",
           "zh/12439.mp3",
-          "tuo1 xie2",
+          "tuō xié",
           "[pɑ̃tufl]"
         ],
         [
@@ -2816,7 +2816,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12440.mp3",
           "zh/12440.mp3",
-          "liang2 xie2",
+          "liáng xié",
           "[sɑ̃dal]"
         ],
         [
@@ -2825,7 +2825,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12441.mp3",
           "zh/12441.mp3",
-          "fan1 bu4 xie2",
+          "fān bù xié",
           "[sulje d(ə) twal]"
         ],
         [
@@ -2834,7 +2834,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12442.mp3",
           "zh/12442.mp3",
-          "yun4 dong4 xie2",
+          "yùn dòng xié",
           "[ʃosy:ʁ d(ə) spɔ:ʁ]"
         ],
         [
@@ -2843,7 +2843,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12443.mp3",
           "zh/12443.mp3",
-          "gao1 gen1 xie2",
+          "gāo gēn xié",
           "[sulje a ota lɔ̃]"
         ],
         [
@@ -2852,7 +2852,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12444.mp3",
           "zh/12444.mp3",
-          "wu2 dai4 ai3 gen1 xie2",
+          "wú dài ǎi gēn xié",
           "[sulje a ba talɔ̃]"
         ],
         [
@@ -2861,7 +2861,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12445.mp3",
           "zh/12445.mp3",
-          "xie2 di3",
+          "xié dǐ",
           "[s(ə)mɛl]"
         ],
         [
@@ -2870,7 +2870,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12446.mp3",
           "zh/12446.mp3",
-          "duan3 wa4",
+          "duǎn wà",
           "[ʃosɛt]"
         ],
         [
@@ -2879,7 +2879,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12447.mp3",
           "zh/12447.mp3",
-          "zhang3 wa4",
+          "zhǎng wà",
           "[ba]"
         ],
         [
@@ -2888,7 +2888,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12448.mp3",
           "zh/12448.mp3",
-          "hou4 gen1",
+          "hòu gēn",
           "[talɔ̃]"
         ],
         [
@@ -2897,7 +2897,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12449.mp3",
           "zh/12449.mp3",
-          "xi4 jin3",
+          "xì jǐn",
           "[fikse]"
         ],
         [
@@ -2906,7 +2906,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12450.mp3",
           "zh/12450.mp3",
-          "yi4 shuang1 ， yi2 dui4",
+          "yì shuāng ， yí duì",
           "[pɛ:ʁ]"
         ],
         [
@@ -2915,7 +2915,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12451.mp3",
           "zh/12451.mp3",
-          "hou4 shi2 jian1 gu4 de5",
+          "hòu shí jiān gù de",
           "[sɔlid]"
         ],
         [
@@ -2924,7 +2924,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12452.mp3",
           "zh/12452.mp3",
-          "tuo1 xie2",
+          "tuō xié",
           "[ʃosɔ̃]"
         ],
         [
@@ -2933,7 +2933,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12453.mp3",
           "zh/12453.mp3",
-          "gao1 bang1 pi2 xie2",
+          "gāo bāng pí xié",
           "[bɔtin]"
         ],
         [
@@ -2942,7 +2942,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12454.mp3",
           "zh/12454.mp3",
-          "jiu4 xie2",
+          "jiù xié",
           "[savat]"
         ]
       ],
@@ -2953,7 +2953,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12455.mp3",
           "zh/12455.mp3",
-          "wo3 ping2 chang2 xi3 huan1 chuan1 ping2 di3 xie2 ， yin1 wei4 ta1 bi3 jiao4 shu1 fu2 。",
+          "wǒ píng cháng xǐ huān chuān píng dǐ xié ， yīn wèi tā bǐ jiào shū fú 。",
           ""
         ],
         [
@@ -2962,7 +2962,7 @@ window.BOOK_DATA[0] ={
           "《罗马假日》",
           "fr/12456.mp3",
           "zh/12456.mp3",
-          "zai4 wu3 ye4 ， wo3 hui4 bian4 chu1 yi2 ge4 nan2 gua1 ， bing4 qie3 chuan1 zhe5 wo3 de5 shui3 jing1 xie2 li2 kai1 。",
+          "zài wǔ yè ， wǒ huì biàn chū yí gè nán guā ， bìng qiě chuān zhe wǒ de shuǐ jīng xié lí kāi 。",
           ""
         ],
         [
@@ -2971,7 +2971,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12457.mp3",
           "zh/12457.mp3",
-          "ta1 hen3 xiao3 ， dan4 shi4 ta1 hui4 chuan1 wa4 zi5 。",
+          "tā hěn xiǎo ， dàn shì tā huì chuān wà zi 。",
           ""
         ],
         [
@@ -2980,7 +2980,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12458.mp3",
           "zh/12458.mp3",
-          "zhe4 ge4 xie2 gen1 tai4 gao1 le5 。",
+          "zhè gè xié gēn tài gāo le 。",
           ""
         ]
       ],
@@ -2991,7 +2991,7 @@ window.BOOK_DATA[0] ={
           "adv.",
           "fr/12459.mp3",
           "zh/12459.mp3",
-          "jing1 chang2 ， chang2 chang2",
+          "jīng cháng ， cháng cháng",
           "[suvɑ̃]"
         ],
         [
@@ -3000,7 +3000,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12460.mp3",
           "zh/12460.mp3",
-          "gao1 xing1 de5",
+          "gāo xīng de",
           "[ɛ:z]"
         ],
         [
@@ -3009,7 +3009,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12461.mp3",
           "zh/12461.mp3",
-          "gai3 bian4",
+          "gǎi biàn",
           "[trɑ̃sfɔrme]"
         ],
         [
@@ -3018,7 +3018,7 @@ window.BOOK_DATA[0] ={
           "n.f.",
           "fr/12462.mp3",
           "zh/12462.mp3",
-          "nan2 gua1",
+          "nán guā",
           "[sitʁuj]"
         ],
         [
@@ -3027,7 +3027,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12463.mp3",
           "zh/12463.mp3",
-          "chuan1",
+          "chuān",
           "[mɛtʁ]"
         ],
         [
@@ -3036,7 +3036,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12464.mp3",
           "zh/12464.mp3",
-          "gao1 de5",
+          "gāo de",
           "[o, o:t]"
         ]
       ]
@@ -3051,7 +3051,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12465.mp3",
           "zh/12465.mp3",
-          "shou3 dai4 ， bei4 bao1",
+          "shǒu dài ， bèi bāo",
           "[pakta:ʒ]"
         ],
         [
@@ -3060,7 +3060,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12466.mp3",
           "zh/12466.mp3",
-          "shou3 ti2 bao1",
+          "shǒu tí bāo",
           "[sadjak a mɛ]"
         ],
         [
@@ -3069,7 +3069,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12467.mp3",
           "zh/12467.mp3",
-          "gong1 wen2 bao1",
+          "gōng wén bāo",
           "[pɔrt dɔkymɑ̃]"
         ],
         [
@@ -3078,7 +3078,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12468.mp3",
           "zh/12468.mp3",
-          "bei4 bao1",
+          "bèi bāo",
           "[sak a do]"
         ],
         [
@@ -3087,7 +3087,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12469.mp3",
           "zh/12469.mp3",
-          "lv3 xing2 dai4",
+          "lǚ xíng dài",
           "[sak d(ə) nɥi]"
         ],
         [
@@ -3096,7 +3096,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12470.mp3",
           "zh/12470.mp3",
-          "su4 liao4 de5",
+          "sù liào de",
           "[plastik]"
         ],
         [
@@ -3105,7 +3105,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12471.mp3",
           "zh/12471.mp3",
-          "shou3 ti2 xiang1",
+          "shǒu tí xiāng",
           "[vali:z]"
         ],
         [
@@ -3114,7 +3114,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12472.mp3",
           "zh/12472.mp3",
-          "lv3 xing2 xiang1",
+          "lǚ xíng xiāng",
           "[mal]"
         ],
         [
@@ -3123,7 +3123,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12473.mp3",
           "zh/12473.mp3",
-          "qian2 bao1",
+          "qián bāo",
           "[pɔrtmɔnɛ]"
         ],
         [
@@ -3132,7 +3132,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12474.mp3",
           "zh/12474.mp3",
-          "shu1 bao1",
+          "shū bāo",
           "[kartabl]"
         ],
         [
@@ -3141,7 +3141,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12475.mp3",
           "zh/12475.mp3",
-          "gong1 wen2 bao1",
+          "gōng wén bāo",
           "[sɛrvjɛt]"
         ],
         [
@@ -3150,7 +3150,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12476.mp3",
           "zh/12476.mp3",
-          "kua4 bao1",
+          "kuà bāo",
           "[sakɔʃ]"
         ],
         [
@@ -3159,7 +3159,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12477.mp3",
           "zh/12477.mp3",
-          "bao2 de5",
+          "báo de",
           "[leʒe, ɛ:r]"
         ],
         [
@@ -3168,7 +3168,7 @@ window.BOOK_DATA[0] ={
           "形",
           "fr/12478.mp3",
           "zh/12478.mp3",
-          "hou4 de5",
+          "hòu de",
           "[epɛ, ɛs]"
         ],
         [
@@ -3177,7 +3177,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12479.mp3",
           "zh/12479.mp3",
-          "song1 jin3 dai4",
+          "sōng jǐn dài",
           "[elastisite]"
         ],
         [
@@ -3186,7 +3186,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12480.mp3",
           "zh/12480.mp3",
-          "nei4 chen4",
+          "nèi chèn",
           "[suvɛtmɑ̃]"
         ]
       ],
@@ -3197,7 +3197,7 @@ window.BOOK_DATA[0] ={
           "《越狱》",
           "fr/12481.mp3",
           "zh/12481.mp3",
-          "xian1 sheng1 ， ni3 de5 bao1 li3 yi3 jing1 you3 5 0 wan4 mei3 yuan2 le5 。",
+          "xiān shēng ， nǐ de bāo lǐ yǐ jīng yǒu 5 0 wàn měi yuán le 。",
           ""
         ],
         [
@@ -3206,7 +3206,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12482.mp3",
           "zh/12482.mp3",
-          "wo3 song4 le5 ta1 yi2 ge4 shou3 ti2 bao1 ， zuo4 wei4 ta1 de5 sheng1 ri4 li3 wu4 。",
+          "wǒ sòng le tā yí gè shǒu tí bāo ， zuò wèi tā de shēng rì lǐ wù 。",
           ""
         ],
         [
@@ -3215,7 +3215,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12483.mp3",
           "zh/12483.mp3",
-          "ben3 zhou1 yi4 ， S a i n t - M a u r de5 A r s o n v a l gao1 zhong1 ， bei4 gan3 ran3 de5 xue2 sheng1 you3 ge4 \" dian4 zi5 shu1 bao1 \" ， ye3 jiu4 shi4 shuo1 ta1 men5 jiang1 zai4 hu4 lian2 wang3 shang4 shang4 ke4 。",
+          "běn zhōu yì ， S a i n t - M a u r de A r s o n v a l gāo zhōng ， bèi gǎn rǎn de xué shēng yǒu gè \" diàn zi shū bāo \" ， yě jiù shì shuō tā men jiāng zài hù lián wǎng shàng shàng kè 。",
           ""
         ],
         [
@@ -3224,7 +3224,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12484.mp3",
           "zh/12484.mp3",
-          "ta1 zhang3 zhe5 yi4 shuang1 huang2 yan3 jing1 he2 nong2 mi4 de5 mei2 mao2 。",
+          "tā zhǎng zhe yì shuāng huáng yǎn jīng hé nóng mì de méi máo 。",
           ""
         ]
       ],
@@ -3235,7 +3235,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12485.mp3",
           "zh/12485.mp3",
-          "pai4 qian3 ， da3 fa1",
+          "pài qiǎn ， dǎ fā",
           "[ɑ̃vwaje]"
         ],
         [
@@ -3244,7 +3244,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12486.mp3",
           "zh/12486.mp3",
-          "gong1 li4 zhong1 xue2 ， zhong1 xue2 shi2 dai4",
+          "gōng lì zhōng xué ， zhōng xué shí dài",
           "[lise]"
         ],
         [
@@ -3253,7 +3253,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12487.mp3",
           "zh/12487.mp3",
-          "chuan2 ran3 ， gan3 ran3",
+          "chuán rǎn ， gǎn rǎn",
           "[kɔ̃tamine]"
         ],
         [
@@ -3262,7 +3262,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12488.mp3",
           "zh/12488.mp3",
-          "ke3 zi4 you2 chu4 li3 de5",
+          "kě zì yóu chù lǐ de",
           "[dispɔnibl]"
         ],
         [
@@ -3271,7 +3271,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12489.mp3",
           "zh/12489.mp3",
-          "da4 men2 ， zheng4 men2",
+          "dà mén ， zhèng mén",
           "[pɔrtaj]"
         ],
         [
@@ -3280,7 +3280,7 @@ window.BOOK_DATA[0] ={
           "n.m.",
           "fr/12490.mp3",
           "zh/12490.mp3",
-          "mei2 mao2",
+          "méi máo",
           "[sursil]"
         ]
       ]
@@ -3295,7 +3295,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12491.mp3",
           "zh/12491.mp3",
-          "pei4 jian4",
+          "pèi jiàn",
           "[aksɛ(ə)swa:r]"
         ],
         [
@@ -3304,7 +3304,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12492.mp3",
           "zh/12492.mp3",
-          "zhu1 bao3",
+          "zhū bǎo",
           "[biʒu]"
         ],
         [
@@ -3313,7 +3313,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12493.mp3",
           "zh/12493.mp3",
-          "wei2 jin1",
+          "wéi jīn",
           "[eʃarp]"
         ],
         [
@@ -3322,7 +3322,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12494.mp3",
           "zh/12494.mp3",
-          "pi1 jian1",
+          "pī jiān",
           "[ʃa:l]"
         ],
         [
@@ -3331,7 +3331,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12495.mp3",
           "zh/12495.mp3",
-          "shou3 tao4",
+          "shǒu tào",
           "[gɑ̃]"
         ],
         [
@@ -3340,7 +3340,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12496.mp3",
           "zh/12496.mp3",
-          "xiang4 lian4",
+          "xiàng liàn",
           "[kɔlje]"
         ],
         [
@@ -3349,7 +3349,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12497.mp3",
           "zh/12497.mp3",
-          "jie4 zhi3",
+          "jiè zhǐ",
           "[bag]"
         ],
         [
@@ -3358,7 +3358,7 @@ window.BOOK_DATA[0] ={
           "inv.",
           "fr/12498.mp3",
           "zh/12498.mp3",
-          "er3 huan2",
+          "ěr huán",
           "[bukl d ɔrɛj]"
         ],
         [
@@ -3367,7 +3367,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12499.mp3",
           "zh/12499.mp3",
-          "zhuang1 shi4 ， pei4 dai4",
+          "zhuāng shì ， pèi dài",
           "[ɔrne]"
         ],
         [
@@ -3376,7 +3376,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12500.mp3",
           "zh/12500.mp3",
-          "xiong1 zhen1",
+          "xiōng zhēn",
           "[brɔʃ]"
         ],
         [
@@ -3385,7 +3385,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12501.mp3",
           "zh/12501.mp3",
-          "shou3 zhuo2",
+          "shǒu zhuó",
           "[brasle]"
         ],
         [
@@ -3394,7 +3394,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12502.mp3",
           "zh/12502.mp3",
-          "lian2 jia4 xiao3 shi4 wu4",
+          "lián jià xiǎo shì wù",
           "[pary:r]"
         ],
         [
@@ -3403,7 +3403,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12503.mp3",
           "zh/12503.mp3",
-          "si1 dai4",
+          "sī dài",
           "[rybɑ̃]"
         ],
         [
@@ -3412,7 +3412,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12504.mp3",
           "zh/12504.mp3",
-          "zuan1 shi2",
+          "zuān shí",
           "[djamɑ̃]"
         ],
         [
@@ -3421,7 +3421,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12505.mp3",
           "zh/12505.mp3",
-          "zhen1 zhu1",
+          "zhēn zhū",
           "[pɛrl]"
         ],
         [
@@ -3430,7 +3430,7 @@ window.BOOK_DATA[0] ={
           "f.",
           "fr/12506.mp3",
           "zh/12506.mp3",
-          "liu2 su1 ， sui4",
+          "liú sū ， suì",
           "[frɑ̃:ʒ]"
         ],
         [
@@ -3439,7 +3439,7 @@ window.BOOK_DATA[0] ={
           "v.t.",
           "fr/12507.mp3",
           "zh/12507.mp3",
-          "du4",
+          "dù",
           "[plake]"
         ],
         [
@@ -3448,7 +3448,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12508.mp3",
           "zh/12508.mp3",
-          "shi4 wu4",
+          "shì wù",
           "[parmɑ̃]"
         ],
         [
@@ -3457,7 +3457,7 @@ window.BOOK_DATA[0] ={
           "m.",
           "fr/12509.mp3",
           "zh/12509.mp3",
-          "chui2 shi4",
+          "chuí shì",
           "[lɑ̃brəkɛ]"
         ]
       ],
@@ -3468,7 +3468,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12510.mp3",
           "zh/12510.mp3",
-          "zhe4 ge4 wei2 jin1 he2 ni3 de5 yi1 fu2 hen3 da1 。",
+          "zhè gè wéi jīn hé nǐ de yī fú hěn dā 。",
           ""
         ],
         [
@@ -3477,7 +3477,7 @@ window.BOOK_DATA[0] ={
           "《项链》",
           "fr/12511.mp3",
           "zh/12511.mp3",
-          "hui2 jia1 hou4 ， ta1 tuo1 yi1 shi2 tu1 ran2 fa1 xian4 xiang4 lian4 bu2 jian4 le5 ， fu1 fu4 da4 wei4 jing1 hai4 ， zai4 bian4 xun2 wu2 zhe5 de5 qing2 kuang4 xia4 ， zhi3 hao3 pei2 chang2 。",
+          "huí jiā hòu ， tā tuō yī shí tū rán fā xiàn xiàng liàn bú jiàn le ， fū fù dà wèi jīng hài ， zài biàn xún wú zhe de qíng kuàng xià ， zhǐ hǎo péi cháng 。",
           ""
         ],
         [
@@ -3486,7 +3486,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12512.mp3",
           "zh/12512.mp3",
-          "mei3 ge4 nv3 ren2 dou1 meng4 xiang3 yong1 you3 zi4 ji3 de5 zuan1 jie4 。",
+          "měi gè nǚ rén dōu mèng xiǎng yōng yǒu zì jǐ de zuān jiè 。",
           ""
         ],
         [
@@ -3495,7 +3495,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12513.mp3",
           "zh/12513.mp3",
-          "kan4 zhe5 rong2 yi4 ， zuo4 qi3 lai2 nan2 。",
+          "kàn zhe róng yì ， zuò qǐ lái nán 。",
           ""
         ]
       ],
@@ -3506,7 +3506,7 @@ window.BOOK_DATA[0] ={
           "",
           "fr/12514.mp3",
           "zh/12514.mp3",
-          "fu2 he2 ， shi4 he2",
+          "fú hé ， shì hé",
           "[kɔrespɔ̃:dr]"
         ],
         [
@@ -3515,7 +3515,7 @@ window.BOOK_DATA[0] ={
           "adv.",
           "fr/12515.mp3",
           "zh/12515.mp3",
-          "tu1 ran2 ， ji2 ke4",
+          "tū rán ， jí kè",
           "[sudɛnmɑ̃]"
         ],
         [
@@ -3524,7 +3524,7 @@ window.BOOK_DATA[0] ={
           "adv.",
           "fr/12516.mp3",
           "zh/12516.mp3",
-          "da4 da4 di4 ， xian3 zhu4",
+          "dà dà dì ， xiǎn zhù",
           "[kɔ̃sidərabləmɑ̃]"
         ],
         [
@@ -3533,7 +3533,7 @@ window.BOOK_DATA[0] ={
           "adj.",
           "fr/12517.mp3",
           "zh/12517.mp3",
-          "zi4 ji3 de5",
+          "zì jǐ de",
           "[prɔpr]"
         ]
       ]
