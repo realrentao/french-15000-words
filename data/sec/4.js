@@ -1,572 +1,546 @@
 window.BOOK_DATA = window.BOOK_DATA || {};
-window.BOOK_DATA[4] = {
+window.BOOK_DATA[4] ={
   "gid": 4,
   "no": "5",
   "name": "行",
   "gname": "基本生活",
   "secs": [
     {
+      "no": 1,
+      "name": "陆上交通工具",
+      "w": [
+        [
+          "车",
+          "véhicule",
+          "m.",
+          "fr/13233.mp3",
+          "zh/13233.mp3",
+          "chē",
+          "veikyl"
+        ],
+        [
+          "汽车",
+          "voiture",
+          "f.",
+          "fr/13234.mp3",
+          "zh/13234.mp3",
+          "qì chē",
+          "vwaty:r"
+        ],
+        [
+          "驾驶",
+          "conduire",
+          "v.t.",
+          "fr/13235.mp3",
+          "zh/13235.mp3",
+          "jià shǐ",
+          "kɔ̃dɥi:r"
+        ],
+        [
+          "出租车",
+          "taxi",
+          "m.",
+          "fr/13236.mp3",
+          "zh/13236.mp3",
+          "chū zū chē",
+          "taksi"
+        ],
+        [
+          "公交车",
+          "bus",
+          "m.",
+          "fr/13237.mp3",
+          "zh/13237.mp3",
+          "gōng jiāo chē",
+          "bys"
+        ],
+        [
+          "摩托车",
+          "moto",
+          "f.",
+          "fr/13238.mp3",
+          "zh/13238.mp3",
+          "mó tuō chē",
+          "mɔtɔ"
+        ],
+        [
+          "卡车",
+          "camion",
+          "m.",
+          "fr/13239.mp3",
+          "zh/13239.mp3",
+          "kǎ chē",
+          "kamjɔ̃"
+        ],
+        [
+          "卡车",
+          "camionnette",
+          "f.",
+          "fr/13240.mp3",
+          "zh/13240.mp3",
+          "kǎ chē",
+          "kamjɔnɛt"
+        ],
+        [
+          "卡车司机",
+          "camionneur",
+          "m.",
+          "fr/13241.mp3",
+          "zh/13241.mp3",
+          "kǎ chē sī jī",
+          "kamjɔnœ:r"
+        ],
+        [
+          "自行车",
+          "vélo",
+          "m.",
+          "fr/13242.mp3",
+          "zh/13242.mp3",
+          "zì xíng chē",
+          "velo"
+        ],
+        [
+          "火车",
+          "train",
+          "m.",
+          "fr/13243.mp3",
+          "zh/13243.mp3",
+          "huǒ chē",
+          "trɛ"
+        ],
+        [
+          "地铁",
+          "métro",
+          "m.",
+          "fr/13244.mp3",
+          "zh/13244.mp3",
+          "dì tiě",
+          "metro"
+        ],
+        [
+          "马车",
+          "chariot",
+          "m.",
+          "fr/13245.mp3",
+          "zh/13245.mp3",
+          "mǎ chē",
+          "ʃarjo"
+        ],
+        [
+          "二轮马车",
+          "charrette",
+          "f.",
+          "fr/13246.mp3",
+          "zh/13246.mp3",
+          "èr lún mǎ chē",
+          "ʃarɛt"
+        ],
+        [
+          "有轨电车",
+          "tramway",
+          "m.",
+          "fr/13247.mp3",
+          "zh/13247.mp3",
+          "yǒu gǔi diàn chē",
+          "tramwɛ"
+        ],
+        [
+          "无轨电车",
+          "trolleybus",
+          "m.",
+          "fr/13248.mp3",
+          "zh/13248.mp3",
+          "wú gǔi diàn chē",
+          "trɔlɛbys"
+        ],
+        [
+          "拖拉机",
+          "tracteur",
+          "m.",
+          "fr/13249.mp3",
+          "zh/13249.mp3",
+          "tuō lā jī",
+          "traktœ:r"
+        ],
+        [
+          "自行车",
+          "bicyclette",
+          "f.",
+          "fr/13250.mp3",
+          "zh/13250.mp3",
+          "zì xíng chē",
+          "bisiklɛt"
+        ],
+        [
+          "机动两轮车",
+          "motocycle",
+          "m.",
+          "fr/13251.mp3",
+          "zh/13251.mp3",
+          "jī dòng liǎng lún chē",
+          "mɔtɔsikl"
+        ],
+        [
+          "卧铺车",
+          "wagon-lit",
+          "m.",
+          "fr/13252.mp3",
+          "zh/13252.mp3",
+          "wò pù chē",
+          "vagɔ̃li"
+        ],
+        [
+          "快车",
+          "express",
+          "inv.",
+          "fr/13253.mp3",
+          "zh/13253.mp3",
+          "kuài chē",
+          "ɛkspres"
+        ],
+        [
+          "慢车",
+          "omnibus",
+          "m.",
+          "fr/13254.mp3",
+          "zh/13254.mp3",
+          "màn chē",
+          "ɔmnibys"
+        ],
+        [
+          "三轮脚踏车",
+          "tricycle",
+          "m.",
+          "fr/13255.mp3",
+          "zh/13255.mp3",
+          "sān lún jiǎo tà chē",
+          "trisikl"
+        ]
+      ],
+      "s": [
+        [
+          "Au printemps dernier, la voiture de mes parents est tombé du pont au lac.",
+          "去年春天，我父母的车从桥上掉进了湖里。",
+          "《吸血鬼日记》",
+          "fr/13256.mp3",
+          "zh/13256.mp3",
+          "qù nián chūn tiān ， wǒ fù mǔ de chē cóng qiáo shàng diào jìn le hú lǐ 。",
+          ""
+        ],
+        [
+          "La station de bus est loin d'ici?",
+          "公共汽车站离这远吗？",
+          "",
+          "fr/13257.mp3",
+          "zh/13257.mp3",
+          "gōng gòng qì chē zhàn lí zhè yuǎn ma ？",
+          ""
+        ],
+        [
+          "Tous les jours, il va au travail à bicyclette.",
+          "他每天骑自行车上班。",
+          "",
+          "fr/13258.mp3",
+          "zh/13258.mp3",
+          "tā měi tiān qí zì xíng chē shàng bān 。",
+          ""
+        ],
+        [
+          "Je ne suis pas intéressé aux miniatures du train, aux magasins qui les vendent et à leurs clientsdéchirants.",
+          "我对火车模型没兴趣，对卖他们的商店以及那些令人心碎的顾客们都没兴趣。",
+          "《生活大爆炸》",
+          "fr/13259.mp3",
+          "zh/13259.mp3",
+          "wǒ dùi huǒ chē mó xíng méi xīng qù ， dùi mài tā men de shāng diàn yǐ jí nà xiē lìng rén xīn sùi de gù kè men dōu méi xīng qù 。",
+          ""
+        ],
+        [
+          "Je transforme notre chariot en char à voile.",
+          "我把我们的马车改成带帆马车了。",
+          "",
+          "fr/13260.mp3",
+          "zh/13260.mp3",
+          "wǒ bǎ wǒ men de mǎ chē gǎi chéng dài fān mǎ chē le 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "跌倒，落下",
+          "tomber",
+          "v.i.",
+          "fr/13261.mp3",
+          "zh/13261.mp3",
+          "diē dào ， luò xià",
+          "tɔ̃be"
+        ],
+        [
+          "桥",
+          "pont",
+          "n.m.",
+          "fr/13262.mp3",
+          "zh/13262.mp3",
+          "qiáo",
+          "pɔ̃"
+        ],
+        [
+          "缩小的模型",
+          "miniature",
+          "n.f.",
+          "fr/13263.mp3",
+          "zh/13263.mp3",
+          "suō xiǎo de mó xíng",
+          "minjaty:r"
+        ],
+        [
+          "撕破，撕裂",
+          "déchirer",
+          "v.t.",
+          "fr/13264.mp3",
+          "zh/13264.mp3",
+          "sī pò ， sī liè",
+          "deʃire"
+        ],
+        [
+          "改变，改造",
+          "transformer",
+          "v.t.",
+          "fr/13265.mp3",
+          "zh/13265.mp3",
+          "gǎi biàn ， gǎi zào",
+          "trɑ̃sfɔrme"
+        ]
+      ]
+    },
+    {
       "no": 2,
       "name": "其他交通工具",
       "w": [
         [
           "交通工具",
-          "Imoyen de transport",
+          "moyen de transport",
           "m.",
-          "fr/01970.mp3",
-          "zh/01970.mp3",
+          "fr/13266.mp3",
+          "zh/13266.mp3",
           "jiāo tōng gōng jù",
-          "[mwaj& d(a tráspoir]"
+          "mwajɛ̃ d(ə) trɑ̃spɔ:r"
         ],
         [
-          "上船励下船",
-          "embarquer i. F débarquer",
-          "",
-          "fr/01971.mp3",
-          "zh/01971.mp3",
-          "shàng chuán lì xià chuán",
-          "[ábarke]"
+          "上船",
+          "embarquer",
+          "v.i.",
+          "fr/13267.mp3",
+          "zh/13267.mp3",
+          "shàng chuán",
+          "ɑ̃barke"
+        ],
+        [
+          "下船",
+          "débarquer",
+          "v.i.",
+          "fr/13268.mp3",
+          "zh/13268.mp3",
+          "xià chuán",
+          "debarke"
         ],
         [
           "飞机",
           "avion",
           "m.",
-          "fr/01972.mp3",
-          "zh/01972.mp3",
+          "fr/13269.mp3",
+          "zh/13269.mp3",
           "fēi jī",
-          "[avj5]"
+          "avjɔ̃"
         ],
         [
           "飞行器",
           "aérodyne",
           "m.",
-          "fr/01973.mp3",
-          "zh/01973.mp3",
+          "fr/13270.mp3",
+          "zh/13270.mp3",
           "fēi xíng qì",
-          "[aerodin]"
+          "aerodin"
         ],
         [
           "热气球",
-          "montgolfiere .",
-          "",
-          "fr/01974.mp3",
-          "zh/01974.mp3",
+          "montgolfière",
+          "f.",
+          "fr/13271.mp3",
+          "zh/13271.mp3",
           "rè qì qiú",
-          "[mšgolfje:r]"
+          "mɔ̃gɔlfjɛ:r"
         ],
         [
           "着陆",
-          "atterrir i.",
-          "",
-          "fr/01975.mp3",
-          "zh/01975.mp3",
-          "zhuó lù",
-          "[ate(eri:r]"
+          "atterrir",
+          "v.i.",
+          "fr/13272.mp3",
+          "zh/13272.mp3",
+          "zhe lù",
+          "atɛ(ə)ri:r"
         ],
         [
           "平稳的",
           "stable",
-          "",
-          "fr/01976.mp3",
-          "zh/01976.mp3",
+          "形",
+          "fr/13273.mp3",
+          "zh/13273.mp3",
           "píng wěn de",
-          "[stabl]"
+          "stabl"
         ],
         [
-          "起飞晕机",
-          "décoller i. avoir le mal de I'air",
-          "",
-          "fr/01977.mp3",
-          "zh/01977.mp3",
-          "qǐ fēi yūn jī",
-          "[dekole]"
+          "起飞",
+          "décoller",
+          "v.i.",
+          "fr/13274.mp3",
+          "zh/13274.mp3",
+          "qǐ fēi",
+          "dekɔle"
+        ],
+        [
+          "晕机",
+          "avoir le mal de l'air",
+          "名",
+          "fr/13275.mp3",
+          "zh/13275.mp3",
+          "yūn jī",
+          "avwa:r l(ə) mal d(ə) lɛ:r"
         ],
         [
           "舟",
           "bateau",
           "m.",
-          "fr/01978.mp3",
-          "zh/01978.mp3",
+          "fr/13276.mp3",
+          "zh/13276.mp3",
           "zhōu",
-          "[bato]"
+          "bato"
         ],
         [
           "漂浮",
-          "flotteri",
-          "",
-          "fr/01979.mp3",
-          "zh/01979.mp3",
+          "flotter",
+          "v.i.",
+          "fr/13277.mp3",
+          "zh/13277.mp3",
           "piāo fú",
-          "[flote]"
+          "flɔte"
         ],
         [
           "航行",
-          "naviguer i.",
-          "",
-          "fr/01980.mp3",
-          "zh/01980.mp3",
+          "naviguer",
+          "v.i.",
+          "fr/13278.mp3",
+          "zh/13278.mp3",
           "háng xíng",
-          "[navige]"
+          "navige"
         ],
         [
           "返回",
           "rentrer",
-          "",
-          "fr/01981.mp3",
-          "zh/01981.mp3",
-          "fǎn huí",
-          "[rätre]"
+          "v.i.",
+          "fr/13279.mp3",
+          "zh/13279.mp3",
+          "fǎn húi",
+          "rɑ̃tre"
         ],
         [
           "划船",
           "pagayer",
-          "",
-          "fr/01982.mp3",
-          "zh/01982.mp3",
-          "huá chuán",
-          "[page(eje]"
+          "v.i.",
+          "fr/13280.mp3",
+          "zh/13280.mp3",
+          "huà chuán",
+          "paɡe(ə)ʒe"
         ],
         [
           "运送",
           "expédier",
-          "",
-          "fr/01983.mp3",
-          "zh/01983.mp3",
+          "v.i.",
+          "fr/13281.mp3",
+          "zh/13281.mp3",
           "yùn sòng",
-          "[ekspedje]"
+          "ɛkspedje"
         ],
         [
           "造船厂",
           "chantier naval",
           "m.",
-          "fr/01984.mp3",
-          "zh/01984.mp3",
+          "fr/13282.mp3",
+          "zh/13282.mp3",
           "zào chuán chǎng",
-          "[átje naval]"
+          "ʃɑ̃tje naval"
         ],
         [
           "小船",
-          "] canot",
-          "m",
-          "fr/01985.mp3",
-          "zh/01985.mp3",
+          "canot",
+          "m.",
+          "fr/13283.mp3",
+          "zh/13283.mp3",
           "xiǎo chuán",
-          "[kano]"
+          "kano"
         ],
         [
           "船舰",
           "navire",
-          "m",
-          "fr/01986.mp3",
-          "zh/01986.mp3",
+          "m.",
+          "fr/13284.mp3",
+          "zh/13284.mp3",
           "chuán jiàn",
-          "[navir]"
+          "navi:r"
         ],
         [
           "汽艇",
           "autocanot",
-          "",
-          "fr/01987.mp3",
-          "zh/01987.mp3",
+          "名",
+          "fr/13285.mp3",
+          "zh/13285.mp3",
           "qì tǐng",
-          "[otokano]"
-        ],
-        [
-          "花店",
-          "magasin de fleurs",
-          "m.",
-          "fr/03442.mp3",
-          "zh/03442.mp3",
-          "huā diàn",
-          "[magaz&da flcer]"
-        ],
-        [
-          "花",
-          "fleur",
-          "",
-          "fr/03443.mp3",
-          "zh/03443.mp3",
-          "huā",
-          "[flcr]"
-        ],
-        [
-          "玫瑰",
-          "rose",
-          "",
-          "fr/03444.mp3",
-          "zh/03444.mp3",
-          "méi guī",
-          "[roz]"
-        ],
-        [
-          "百合向日葵",
-          "lysm tournesol",
-          "m.",
-          "fr/03445.mp3",
-          "zh/03445.mp3",
-          "bǎi hé xiàng rì kuí",
-          "[lis]"
-        ],
-        [
-          "子花",
-          "gardenia",
-          "m.",
-          "fr/03446.mp3",
-          "zh/03446.mp3",
-          "zi huā",
-          "[gardenja]"
-        ],
-        [
-          "山茶花",
-          "camélia",
-          "m.",
-          "fr/03447.mp3",
-          "zh/03447.mp3",
-          "shān chá huā",
-          "[kamelja]"
-        ],
-        [
-          "风信子",
-          "endymion",
-          "m.",
-          "fr/03448.mp3",
-          "zh/03448.mp3",
-          "fēng xìn zǐ",
-          "[endymi5]"
-        ],
-        [
-          "郁金香",
-          "tulipe",
-          "",
-          "fr/03449.mp3",
-          "zh/03449.mp3",
-          "yù jīn xiāng",
-          "[tylip]"
-        ],
-        [
-          "茉莉",
-          "jasmin",
-          "m",
-          "fr/03450.mp3",
-          "zh/03450.mp3",
-          "mò lì",
-          "[3asm]"
-        ],
-        [
-          "菊花雏菊",
-          "chrysantheme marguerite",
-          "",
-          "fr/03451.mp3",
-          "zh/03451.mp3",
-          "jú huā chú jú",
-          "[krizätem]"
-        ],
-        [
-          "康乃馨",
-          "illet commun",
-          "m.",
-          "fr/03452.mp3",
-          "zh/03452.mp3",
-          "kāng nǎi xīn",
-          "[je komo]"
-        ],
-        [
-          "凤仙花",
-          "balsamine",
-          "",
-          "fr/03453.mp3",
-          "zh/03453.mp3",
-          "fèng xiān huā",
-          "[balzamin]"
-        ],
-        [
-          "丁香",
-          "Tilas",
-          "m",
-          "fr/03454.mp3",
-          "zh/03454.mp3",
-          "dīng xiāng",
-          "[lilaa]"
-        ],
-        [
-          "牡丹",
-          "pivoine /.",
-          "",
-          "fr/03455.mp3",
-          "zh/03455.mp3",
-          "mǔ dān",
-          "[pivwan]"
-        ],
-        [
-          "薰衣草",
-          "lavande",
-          "",
-          "fr/03456.mp3",
-          "zh/03456.mp3",
-          "xūn yī cǎo",
-          "[lavá:d]"
-        ],
-        [
-          "紫罗兰",
-          "violette",
-          "m",
-          "fr/03457.mp3",
-          "zh/03457.mp3",
-          "zǐ luó lán",
-          "[vjolet]"
-        ],
-        [
-          "情人",
-          "amant",
-          "",
-          "fr/04200.mp3",
-          "zh/04200.mp3",
-          "qíng rén",
-          "[amä]"
-        ],
-        [
-          "朋友",
-          "ami,e",
-          "",
-          "fr/04201.mp3",
-          "zh/04201.mp3",
-          "péng yǒu",
-          "[ami]"
-        ],
-        [
-          "友谊",
-          "amitie",
-          "",
-          "fr/04202.mp3",
-          "zh/04202.mp3",
-          "yǒu yì",
-          "[amitje]"
-        ],
-        [
-          "增进",
-          "encourager t.",
-          "",
-          "fr/04203.mp3",
-          "zh/04203.mp3",
-          "zēng jìn",
-          "[ákuraze]"
-        ],
-        [
-          "浪漫的",
-          "romantique",
-          "",
-          "fr/04204.mp3",
-          "zh/04204.mp3",
-          "làng màn de",
-          "[romátik]"
-        ],
-        [
-          "惊喜",
-          "surprise",
-          "f.",
-          "fr/04205.mp3",
-          "zh/04205.mp3",
-          "jīng xǐ",
-          "[syrpriz]"
-        ],
-        [
-          "约会",
-          "rendez-vous",
-          "m.",
-          "fr/04206.mp3",
-          "zh/04206.mp3",
-          "yuē huì",
-          "[rädevu]"
-        ],
-        [
-          "约会",
-          "rancard",
-          "m",
-          "fr/04207.mp3",
-          "zh/04207.mp3",
-          "yuē huì",
-          "[rakar]"
-        ],
-        [
-          "分手求婚",
-          "se dire adieu t. demander la main",
-          "f.",
-          "fr/04208.mp3",
-          "zh/04208.mp3",
-          "fēn shǒu qiú hūn",
-          "[s dir adjo]"
-        ],
-        [
-          "迷人的",
-          "attrayant,e",
-          "",
-          "fr/04209.mp3",
-          "zh/04209.mp3",
-          "mí rén de",
-          "[atrejá t]"
-        ],
-        [
-          "真诚的",
-          "sincere",
-          "",
-          "fr/04210.mp3",
-          "zh/04210.mp3",
-          "zhēn chéng de",
-          "[sser]"
-        ],
-        [
-          "无私的",
-          "désintéressée",
-          "",
-          "fr/04211.mp3",
-          "zh/04211.mp3",
-          "wú sī de",
-          "[dez&terese]"
-        ],
-        [
-          "伙伴",
-          "compagnon",
-          "m.",
-          "fr/04212.mp3",
-          "zh/04212.mp3",
-          "huǒ bàn",
-          "[kšpanš]"
-        ],
-        [
-          "陪伴",
-          "accompagner t.",
-          "",
-          "fr/04213.mp3",
-          "zh/04213.mp3",
-          "péi bàn",
-          "[akšpane]"
-        ],
-        [
-          "同性恋",
-          "amour homo sexuel",
-          "m.",
-          "fr/04214.mp3",
-          "zh/04214.mp3",
-          "tóng xìng liàn",
-          "[amur omoseksyel]"
-        ],
-        [
-          "性别",
-          "sexe",
-          "m",
-          "fr/04215.mp3",
-          "zh/04215.mp3",
-          "xìng bié",
-          "[seks]"
-        ],
-        [
-          "异性",
-          "sexe oppose",
-          "m.",
-          "fr/04216.mp3",
-          "zh/04216.mp3",
-          "yì xìng",
-          "[seks opoze]"
+          "otokano"
         ]
       ],
       "s": [
         [
-          "Mesdames et messieurs, on va atterrir.Veuillez attacher vos ceintures, s'il vous plait.",
+          "Mesdames et messieurs, on va atterrir. Veuillez attacher vos ceintures, s'il vous plaît.",
           "女士们，先生们，我们马上就要降落。请系好安全带。",
           "",
-          "fr/01988.mp3",
-          "zh/01988.mp3",
-          "nǚ shì men xiān shēng men wǒ men mǎ shàng jiù yào jiàng luò qǐng jì hǎo ān quán dài",
+          "fr/13286.mp3",
+          "zh/13286.mp3",
+          "nǚ shì men ， xiān shēng men ， wǒ men mǎ shàng jiù yào jiàng luò 。 qǐng xì hǎo ān quán dài 。",
           ""
         ],
         [
-          "Dites Technip espéra que vous conduisez le bateau a lautre cotéde lle.",
+          "Dites Technip espéra que vous conduisez le bateau à l'autre côté de l'île.",
           "萨伊德希望你驾驶那艘船去岛的另一边。",
           "《迷失》",
-          "fr/01989.mp3",
-          "zh/01989.mp3",
-          "sà yī dé xī wàng nǐ jià shǐ nà sōu chuán qù dǎo de lìng yī biān",
+          "fr/13287.mp3",
+          "zh/13287.mp3",
+          "sà yī dé xī wàng nǐ jià shǐ nà sōu chuán qù dǎo de lìng yì biān 。",
           ""
         ],
         [
           "Si vous pouvez naviguer en toute sécurité le jour, c'est une sorte de bonne fortune.",
           "如果你能够平安地度过一天，那就是一种福气了。",
           "",
-          "fr/01990.mp3",
-          "zh/01990.mp3",
-          "rú guǒ nǐ néng gòu píng ān dì dù guò yī tiān nà jiù shì yī zhǒng fú qì le",
+          "fr/13288.mp3",
+          "zh/13288.mp3",
+          "rú guǒ nǐ néng gòu píng ān dì dù guò yì tiān ， nà jiù shì yì zhǒng fú qì le 。",
           ""
         ],
         [
-          "Il peut pagayer le bateau commeun pirate.",
+          "Il peut pagayer le bateau comme un pirate.",
           "他能像海盗一样划船。",
           "《老友记》",
-          "fr/01991.mp3",
-          "zh/01991.mp3",
-          "tā néng xiàng hǎi dào yī yàng huá chuán",
+          "fr/13289.mp3",
+          "zh/13289.mp3",
+          "tā néng xiàng hǎi dào yí yàng huà chuán 。",
           ""
         ],
         [
-          "Le naivre a heurté contre uneroche.- Fh.",
-          "船撞在了一块岩石上",
+          "Le navire a heurté contre une roche.",
+          "船撞在了一块岩石上。",
           "",
-          "fr/01992.mp3",
-          "zh/01992.mp3",
-          "chuán zhuàng zài le yī kuài yán shí shàng",
-          ""
-        ],
-        [
-          "Si tu aimes une fleur qui se trouve dans une étoile,cest doux, la nuit, de regarder le ciel.Toutes les étoiles sont feuris.",
-          "如果你爱上了某个星球的一朵花，那么，只要在夜晚仰望星空，就会觉得漫天的繁星就像一朵朵盛开的花。",
-          "一《小王子》",
-          "fr/03458.mp3",
-          "zh/03458.mp3",
-          "rú guǒ nǐ ài shàng le mǒu gè xīng qiú de yī duǒ huā nà me zhǐ yào zài yè wǎn yǎng wàng xīng kōng jiù huì jué de màn tiān de fán xīng jiù xiàng yī duǒ duǒ shèng kāi de huā",
-          ""
-        ],
-        [
-          "Cest le temps que tu as perdu pour ta rose qui fait ta rose si importante. Tu deviens responsable pour toujours de ce que tu as apprivoisé.E",
-          "正是你为你的玫瑰所花费的时间，才让你的玫瑰变得如此重要。你永远对你所驯养过的事物负有责任。",
-          "《小王子》",
-          "fr/03459.mp3",
-          "zh/03459.mp3",
-          "zhèng shì nǐ wèi nǐ de méi guī suǒ huā fèi de shí jiān cái ràng nǐ de méi guī biàn dé rú cǐ zhòng yào nǐ yǒng yuǎn duì nǐ suǒ xùn yǎng guò de shì wù fù yǒu zé rèn",
-          ""
-        ],
-        [
-          "On connait bien tous quil y a pas mal de champs de la- vande en Provence,on y re- tournera parce que la saison de lavande est plutöt en juillet.",
-          "我们都知道在普罗旺斯有不少的薰衣草田，我们会再去，因为薰衣草盛开的季节是七月左右。",
-          "",
-          "fr/03460.mp3",
-          "zh/03460.mp3",
-          "wǒ men dōu zhī dào zài pǔ luó wàng sī yǒu bù shǎo de xūn yī cǎo tián wǒ men huì zài qù yīn wèi xūn yī cǎo shèng kāi de jì jié shì qī yuè zuǒ yòu",
-          ""
-        ],
-        [
-          "Son livre LAmant,prix Goncourt en 1985,relatant une partie de son temps passé au Vietnam a connu un immense",
-          "1985年的龚古尔奖和极大的成功，书中叙述的是她在越南度过的时期。",
-          "succes.她的《情人》获得了",
-          "fr/04217.mp3",
-          "zh/04217.mp3",
-          "nián de gōng gǔ ěr jiǎng hé jí dà de chéng gōng shū zhōng xù shù de shì tā zài yuè nán dù guò de shí qī",
-          ""
-        ],
-        [
-          "La France,je l'aime parce qu'il a l'histoire tres long- temps, et les pays roman- tiques X",
-          "法国我热爱他是因为他有悠久的历史，另外还是浪漫主义的国度",
-          "",
-          "fr/04218.mp3",
-          "zh/04218.mp3",
-          "fǎ guó wǒ rè ài tā shì yīn wèi tā yǒu yōu jiǔ de lì shǐ lìng wài hái shì làng màn zhǔ yì de guó dù",
-          ""
-        ],
-        [
-          "Cest une couleur chaude la couleur de l'amour desinte- ressé mais aussi la couleur de la passion. Melée au noir elle symbolise l'amourégoiste.",
-          "这是暖色，属于无私爱情的色彩，也是激情的颜色。与黑色搭配，便象征着自私的爱。",
-          "",
-          "fr/04219.mp3",
-          "zh/04219.mp3",
-          "zhè shì nuǎn sè shǔ yú wú sī ài qíng de sè cǎi yě shì jī qíng de yán sè yǔ hēi sè dā pèi biàn xiàng zhēng zhe zì sī de ài",
+          "fr/13290.mp3",
+          "zh/13290.mp3",
+          "chuán zhuàng zài le yí kuài yán shí shàng 。",
           ""
         ]
       ],
@@ -575,172 +549,1356 @@ window.BOOK_DATA[4] = {
           "捆系",
           "attacher",
           "v.t.",
-          "fr/01993.mp3",
-          "zh/01993.mp3",
+          "fr/13291.mp3",
+          "zh/13291.mp3",
           "kǔn xì",
-          "[atafe]"
+          "ataʃe"
         ],
         [
           "腰带",
           "ceinture",
-          "f.",
-          "fr/01994.mp3",
-          "zh/01994.mp3",
+          "n.f.",
+          "fr/13292.mp3",
+          "zh/13292.mp3",
           "yāo dài",
-          "[styr]"
+          "sɛ̃ty:r"
         ],
         [
-          "岛",
-          "ilen.",
-          "",
-          "fr/01995.mp3",
-          "zh/01995.mp3",
-          "dǎo",
-          "[l]"
+          "岛屿",
+          "île",
+          "n.f.",
+          "fr/13293.mp3",
+          "zh/13293.mp3",
+          "dǎo yǔ",
+          "il"
         ],
         [
           "海盗",
           "pirate",
           "n.m.",
-          "fr/01996.mp3",
-          "zh/01996.mp3",
+          "fr/13294.mp3",
+          "zh/13294.mp3",
           "hǎi dào",
-          "[pirat]"
+          "pirat"
+        ]
+      ]
+    },
+    {
+      "no": 3,
+      "name": "交通事故",
+      "w": [
+        [
+          "驾驶证",
+          "permis de conduire",
+          "m.",
+          "fr/13295.mp3",
+          "zh/13295.mp3",
+          "jià shǐ zhèng",
+          "permi d(ə) kɔ̃dyi:r"
+        ],
+        [
+          "新手",
+          "novice",
+          "名",
+          "fr/13296.mp3",
+          "zh/13296.mp3",
+          "xīn shǒu",
+          "nɔvis"
+        ],
+        [
+          "事故",
+          "accident",
+          "m.",
+          "fr/13297.mp3",
+          "zh/13297.mp3",
+          "shì gù",
+          "aksidɑ̃"
+        ],
+        [
+          "车祸",
+          "accident de route",
+          "m.",
+          "fr/13298.mp3",
+          "zh/13298.mp3",
+          "chē huò",
+          "aksidɑ̃ d(ə) rut"
+        ],
+        [
+          "交通事故",
+          "accident de la circulation",
+          "m.",
+          "fr/13299.mp3",
+          "zh/13299.mp3",
+          "jiāo tōng shì gù",
+          "aksidɑ̃ d(ə) la sirkyla(a)sjɔ̃"
+        ],
+        [
+          "现场",
+          "scène",
+          "f.",
+          "fr/13300.mp3",
+          "zh/13300.mp3",
+          "xiàn chǎng",
+          "sɛn"
+        ],
+        [
+          "撞车",
+          "heurter",
+          "v.",
+          "fr/13301.mp3",
+          "zh/13301.mp3",
+          "zhuàng chē",
+          "œrte"
+        ],
+        [
+          "敲竹杠",
+          "fusilier",
+          "m.",
+          "fr/13302.mp3",
+          "zh/13302.mp3",
+          "qiāo zhú gāng",
+          "fyzilje"
+        ],
+        [
+          "死亡",
+          "mourir",
+          "v.",
+          "fr/13303.mp3",
+          "zh/13303.mp3",
+          "sǐ wáng",
+          "muri:r"
+        ],
+        [
+          "严重的",
+          "grave",
+          "形",
+          "fr/13304.mp3",
+          "zh/13304.mp3",
+          "yán zhòng de",
+          "gra:v"
+        ],
+        [
+          "损失",
+          "dommage",
+          "m.",
+          "fr/13305.mp3",
+          "zh/13305.mp3",
+          "sǔn shī",
+          "dɔma:ʒ"
+        ],
+        [
+          "受伤",
+          "blesser",
+          "v.",
+          "fr/13306.mp3",
+          "zh/13306.mp3",
+          "shòu shāng",
+          "ble(ɛ)se"
+        ],
+        [
+          "受伤",
+          "meurtrir",
+          "v.",
+          "fr/13307.mp3",
+          "zh/13307.mp3",
+          "shòu shāng",
+          "mœrtri:r"
+        ],
+        [
+          "淤血",
+          "hématome",
+          "m.",
+          "fr/13308.mp3",
+          "zh/13308.mp3",
+          "yū xuè",
+          "emɔtɔm"
+        ],
+        [
+          "爆炸",
+          "exploser",
+          "v.",
+          "fr/13309.mp3",
+          "zh/13309.mp3",
+          "bào zhà",
+          "ɛksploze"
+        ],
+        [
+          "交通规则",
+          "règle de circulation",
+          "m.",
+          "fr/13310.mp3",
+          "zh/13310.mp3",
+          "jiāo tōng gūi zé",
+          "regl d(ə) sirkyla(a)sjɔ̃"
+        ]
+      ],
+      "s": [
+        [
+          "Pour cette industrie, j'étais un novice.",
+          "对于这个行业，我是个新手。",
+          "",
+          "fr/13311.mp3",
+          "zh/13311.mp3",
+          "dùi yú zhè gè xíng yè ， wǒ shì gè xīn shǒu 。",
+          ""
+        ],
+        [
+          "Les deux voitures se sont heurtées de plein fouet.",
+          "这两辆车猛烈相撞。",
+          "",
+          "fr/13312.mp3",
+          "zh/13312.mp3",
+          "zhè liǎng liàng chē měng liè xiāng zhuàng 。",
+          ""
+        ],
+        [
+          "Je n'ai pas envie de mourir, mais je crois que j'ai assez vécu.",
+          "我没有去死的意愿，但是我想，我已经活得够长了。",
+          "",
+          "fr/13313.mp3",
+          "zh/13313.mp3",
+          "wǒ méi yǒu qù sǐ de yì yuàn ， dàn shì wǒ xiǎng ， wǒ yǐ jīng huó dé gòu zhǎng le 。",
+          ""
+        ],
+        [
+          "Un jour, elle va exploser, mourir et donner naissance à d'autres étoiles.",
+          "很快有一天它就会爆炸、消亡，产生新的恒星。",
+          "",
+          "fr/13314.mp3",
+          "zh/13314.mp3",
+          "hěn kuài yǒu yì tiān tā jiù hùi bào zhà 、 xiāo wáng ， chǎn shēng xīn de héng xīng 。",
+          ""
+        ],
+        [
+          "Cette convention a pour objet d'harmoniser les règles de circulation routière entre les États contractantset d'assurer leur observation afin de faciliter la circulation routière internationale et d'accroître la sécuritésur les routes.",
+          "该公约旨在协调指导缔约国之间公路运输的规则，确保遵守这些规则，以便促进国际公路运输，增强公路安全性。",
+          "",
+          "fr/13315.mp3",
+          "zh/13315.mp3",
+          "gāi gōng yuē zhǐ zài xié diào zhǐ dǎo dì yuē guó zhī jiān gōng lù yùn shū de gūi zé ， què bǎo zūn shǒu zhè xiē gūi zé ， yǐ biàn cù jìn guó jì gōng lù yùn shū ， zēng qiáng gōng lù ān quán xìng 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "工业",
+          "industrie",
+          "n.f.",
+          "fr/13316.mp3",
+          "zh/13316.mp3",
+          "gōng yè",
+          "ɛdystri"
+        ],
+        [
+          "车",
+          "voiture",
+          "n.f.",
+          "fr/13317.mp3",
+          "zh/13317.mp3",
+          "chē",
+          "vwaty:r"
+        ],
+        [
+          "完全的",
+          "plein, e",
+          "a.",
+          "fr/13318.mp3",
+          "zh/13318.mp3",
+          "wán quán de",
+          "plɛ̃, ɛn"
+        ],
+        [
+          "鞭子",
+          "fouet",
+          "n.m.",
+          "fr/13319.mp3",
+          "zh/13319.mp3",
+          "biān zi",
+          "fwɛ"
         ],
         [
           "星星",
           "étoile",
-          "",
-          "fr/03461.mp3",
-          "zh/03461.mp3",
-          "xīng xīng",
-          "[etwal]"
-        ],
-        [
-          "",
-          "responsable",
-          "",
-          "fr/03462.mp3",
-          "",
-          "",
-          "[respsabl]"
-        ],
-        [
-          "负责的",
-          "ad",
-          "",
-          "fr/03463.mp3",
-          "zh/03463.mp3",
-          "fù zé de",
-          ""
-        ],
-        [
-          "",
-          "l apprivoiser",
-          "",
-          "fr/03464.mp3",
-          "",
-          "",
-          "[aprivwaze]"
-        ],
-        [
-          "化",
-          "",
-          "",
-          "",
-          "zh/03465.mp3",
-          "huà",
-          ""
-        ],
-        [
-          "",
-          "immense",
-          "adj.",
-          "fr/04220.mp3",
-          "",
-          "",
-          "[im(m)á:s]"
-        ],
-        [
-          "巨大的",
-          "",
-          "",
-          "",
-          "zh/04221.mp3",
-          "jù dà de",
-          ""
-        ],
-        [
-          "",
-          "longtemps",
-          "n.m",
-          "fr/04222.mp3",
-          "",
-          "",
-          "[15tä]"
-        ],
-        [
-          "长久",
-          "KA",
-          "",
-          "fr/04223.mp3",
-          "zh/04223.mp3",
-          "cháng jiǔ",
-          ""
-        ],
-        [
-          "",
-          "chaude",
-          "adj.",
-          "fr/04224.mp3",
-          "",
-          "",
-          "[o,o:d]"
-        ],
-        [
-          "暖的",
-          "",
-          "",
-          "",
-          "zh/04225.mp3",
-          "nuǎn de",
-          ""
-        ],
-        [
-          "",
-          "passion",
           "n.f.",
-          "fr/04226.mp3",
-          "",
-          "",
-          "[paasj5]"
+          "fr/13320.mp3",
+          "zh/13320.mp3",
+          "xīng xīng",
+          "etwal"
         ],
         [
-          "激情",
+          "缔约国",
+          "contractant, e",
+          "n.",
+          "fr/13321.mp3",
+          "zh/13321.mp3",
+          "dì yuē guó",
+          "kɔ̃traktɑ̃, ɑ̃:t"
+        ]
+      ]
+    },
+    {
+      "no": 4,
+      "name": "方向与位置",
+      "w": [
+        [
+          "方向",
+          "direction",
+          "f.",
+          "fr/13322.mp3",
+          "zh/13322.mp3",
+          "fāng xiàng",
+          "dirɛksjɔ̃"
+        ],
+        [
+          "东",
+          "est",
+          "m.",
+          "fr/13323.mp3",
+          "zh/13323.mp3",
+          "dōng",
+          "ɛst"
+        ],
+        [
+          "西",
+          "ouest",
+          "m.",
+          "fr/13324.mp3",
+          "zh/13324.mp3",
+          "xī",
+          "wɛst"
+        ],
+        [
+          "南",
+          "sud",
+          "m.",
+          "fr/13325.mp3",
+          "zh/13325.mp3",
+          "nán",
+          "syd"
+        ],
+        [
+          "北",
+          "nord",
+          "m.",
+          "fr/13326.mp3",
+          "zh/13326.mp3",
+          "běi",
+          "nɔ:r"
+        ],
+        [
+          "中",
+          "milieu",
+          "m.",
+          "fr/13327.mp3",
+          "zh/13327.mp3",
+          "zhōng",
+          "miljø"
+        ],
+        [
+          "西北",
+          "nord-ouest",
+          "m.",
+          "fr/13328.mp3",
+          "zh/13328.mp3",
+          "xī běi",
+          "nɔrwɛst"
+        ],
+        [
+          "东北",
+          "nord-est",
+          "m.",
+          "fr/13329.mp3",
+          "zh/13329.mp3",
+          "dōng běi",
+          "nɔrɛst"
+        ],
+        [
+          "西南",
+          "sud-ouest",
+          "m.",
+          "fr/13330.mp3",
+          "zh/13330.mp3",
+          "xī nán",
+          "sydwɛst"
+        ],
+        [
+          "东南",
+          "sud-est",
+          "m.",
+          "fr/13331.mp3",
+          "zh/13331.mp3",
+          "dōng nán",
+          "sydɛst"
+        ],
+        [
+          "上",
+          "dessus",
+          "m.",
+          "fr/13332.mp3",
+          "zh/13332.mp3",
+          "shàng",
+          "d(ə)sy"
+        ],
+        [
+          "下",
+          "dessous",
+          "m.",
+          "fr/13333.mp3",
+          "zh/13333.mp3",
+          "xià",
+          "d(ə)su"
+        ],
+        [
+          "右",
+          "droite",
+          "n.f.",
+          "fr/13334.mp3",
+          "zh/13334.mp3",
+          "yòu",
+          "drwat"
+        ],
+        [
+          "左",
+          "gauche",
+          "m.",
+          "fr/13335.mp3",
+          "zh/13335.mp3",
+          "zuǒ",
+          "go:ʃ"
+        ],
+        [
+          "前",
+          "devant",
+          "副",
+          "fr/13336.mp3",
+          "zh/13336.mp3",
+          "qián",
+          "d(ə)vɑ̃"
+        ],
+        [
+          "后",
+          "derrière",
+          "副",
+          "fr/13337.mp3",
+          "zh/13337.mp3",
+          "hòu",
+          "dɛrjɛ:r"
+        ],
+        [
+          "哪里",
+          "où",
+          "副",
+          "fr/13338.mp3",
+          "zh/13338.mp3",
+          "nǎ lǐ",
+          "u"
+        ],
+        [
+          "之后",
+          "après",
+          "介",
+          "fr/13339.mp3",
+          "zh/13339.mp3",
+          "zhī hòu",
+          "aprɛ"
+        ],
+        [
+          "之前",
+          "avant",
+          "介",
+          "fr/13340.mp3",
+          "zh/13340.mp3",
+          "zhī qián",
+          "avɑ̃"
+        ],
+        [
+          "方向盘",
+          "volant",
+          "m.",
+          "fr/13341.mp3",
+          "zh/13341.mp3",
+          "fāng xiàng pán",
+          "vɔlɑ̃"
+        ],
+        [
+          "望远镜",
+          "téléscope",
+          "m.",
+          "fr/13342.mp3",
+          "zh/13342.mp3",
+          "wàng yuǎn jìng",
+          "tɛleskɔp"
+        ],
+        [
+          "指南针",
+          "boussole",
+          "f.",
+          "fr/13343.mp3",
+          "zh/13343.mp3",
+          "zhǐ nán zhēn",
+          "busɔl"
+        ]
+      ],
+      "s": [
+        [
+          "La Pologne se trouve à l'est de la France.",
+          "波兰在法国的东面。",
           "",
-          "",
-          "",
-          "zh/04227.mp3",
-          "jī qíng",
+          "fr/13344.mp3",
+          "zh/13344.mp3",
+          "bō lán zài fǎ guó de dōng miàn 。",
           ""
         ],
         [
+          "Les ours polaires habitent au Pôle Nord.",
+          "北极熊生活在北极。",
           "",
-          "symboliser",
-          "vt.",
-          "fr/04228.mp3",
-          "",
-          "",
-          "[s&bolize]"
+          "fr/13345.mp3",
+          "zh/13345.mp3",
+          "běi jí xióng shēng huó zài běi jí 。",
+          ""
         ],
         [
-          "象征标志",
+          "Vous tournerez la deuxième rue à gauche.",
+          "您在第二个路口左转。",
           "",
-          "",
-          "",
-          "zh/04229.mp3",
-          "xiàng zhēng biāo zhì",
+          "fr/13346.mp3",
+          "zh/13346.mp3",
+          "nín zài dì èr gè lù kǒu zuǒ zhuǎn 。",
           ""
+        ],
+        [
+          "Après un an, le chien est encore excité en vous voyant rentrer.",
+          "一年以后，那条狗在你进门的时候仍会很激动。",
+          "",
+          "fr/13347.mp3",
+          "zh/13347.mp3",
+          "yì nián yǐ hòu ， nà tiáo gǒu zài nǐ jìn mén de shí hòu réng hùi hěn jī dòng 。",
+          ""
+        ],
+        [
+          "Il baigne ses pieds dans l'eau chaude avant de se coucher.",
+          "他睡前用热水泡脚。",
+          "",
+          "fr/13348.mp3",
+          "zh/13348.mp3",
+          "tā shùi qián yòng rè shǔi pào jiǎo 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "波兰",
+          "Pologne",
+          "n.f.",
+          "fr/13349.mp3",
+          "zh/13349.mp3",
+          "bō lán",
+          "pɔlɔn"
+        ],
+        [
+          "居住",
+          "habiter",
+          "v.i.",
+          "fr/13350.mp3",
+          "zh/13350.mp3",
+          "jū zhù",
+          "abite"
+        ],
+        [
+          "转动",
+          "tourner",
+          "v.t.",
+          "fr/13351.mp3",
+          "zh/13351.mp3",
+          "zhuǎn dòng",
+          "turne"
+        ],
+        [
+          "第二",
+          "deuxième",
+          "a.",
+          "fr/13352.mp3",
+          "zh/13352.mp3",
+          "dì èr",
+          "døzjɛm"
+        ],
+        [
+          "受刺激的",
+          "excité",
+          "adj.",
+          "fr/13353.mp3",
+          "zh/13353.mp3",
+          "shòu cì jī de",
+          "ɛksite"
+        ],
+        [
+          "睡觉",
+          "coucher",
+          "v.pr.",
+          "fr/13354.mp3",
+          "zh/13354.mp3",
+          "shùi jué",
+          "kuʃe"
+        ]
+      ]
+    },
+    {
+      "no": 5,
+      "name": "十字路口",
+      "w": [
+        [
+          "十字路口",
+          "carrefour",
+          "m.",
+          "fr/13355.mp3",
+          "zh/13355.mp3",
+          "shí zì lù kǒu",
+          "karfu:r"
+        ],
+        [
+          "交通",
+          "trafic",
+          "m.",
+          "fr/13356.mp3",
+          "zh/13356.mp3",
+          "jiāo tōng",
+          "trafik"
+        ],
+        [
+          "拥挤",
+          "comble",
+          "形",
+          "fr/13357.mp3",
+          "zh/13357.mp3",
+          "yōng jǐ",
+          "kɔ̃:bl"
+        ],
+        [
+          "路口",
+          "croisement",
+          "m.",
+          "fr/13358.mp3",
+          "zh/13358.mp3",
+          "lù kǒu",
+          "krwazmɑ̃"
+        ],
+        [
+          "人行道",
+          "trottoir",
+          "m.",
+          "fr/13359.mp3",
+          "zh/13359.mp3",
+          "rén xíng dào",
+          "trɔtwa:r"
+        ],
+        [
+          "人行道",
+          "bas-côté",
+          "m.",
+          "fr/13360.mp3",
+          "zh/13360.mp3",
+          "rén xíng dào",
+          "ba:s kɔte"
+        ],
+        [
+          "斑马线",
+          "passage piéton",
+          "m.",
+          "fr/13361.mp3",
+          "zh/13361.mp3",
+          "bān mǎ xiàn",
+          "pa(a)sa:ʒ pjetɔ̃"
+        ],
+        [
+          "行人",
+          "passant, e",
+          "名",
+          "fr/13362.mp3",
+          "zh/13362.mp3",
+          "xíng rén",
+          "pa(a)sɑ̃, ɑ̃:t"
+        ],
+        [
+          "人行道",
+          "passage",
+          "m.",
+          "fr/13363.mp3",
+          "zh/13363.mp3",
+          "rén xíng dào",
+          "pa(a)sa:ʒ"
+        ],
+        [
+          "横穿",
+          "traverser",
+          "v.",
+          "fr/13364.mp3",
+          "zh/13364.mp3",
+          "héng chuān",
+          "traverse"
+        ],
+        [
+          "横过",
+          "croiser",
+          "v.",
+          "fr/13365.mp3",
+          "zh/13365.mp3",
+          "héng guò",
+          "krwaze"
+        ],
+        [
+          "穿行",
+          "trajet",
+          "m.",
+          "fr/13366.mp3",
+          "zh/13366.mp3",
+          "chuān xíng",
+          "traʒɛ"
+        ],
+        [
+          "临时路障",
+          "barricade",
+          "f.",
+          "fr/13367.mp3",
+          "zh/13367.mp3",
+          "lín shí lù zhàng",
+          "barikad"
+        ],
+        [
+          "停顿",
+          "cesser",
+          "v.",
+          "fr/13368.mp3",
+          "zh/13368.mp3",
+          "tíng dùn",
+          "se(ɛ)se"
+        ],
+        [
+          "路边",
+          "bord de la route",
+          "f.",
+          "fr/13369.mp3",
+          "zh/13369.mp3",
+          "lù biān",
+          "bɔ:r d(ə) la rut"
+        ],
+        [
+          "急速地",
+          "vivement",
+          "副",
+          "fr/13370.mp3",
+          "zh/13370.mp3",
+          "jí sù dì",
+          "vivmɑ̃"
+        ]
+      ],
+      "s": [
+        [
+          "Vous dites qu'il semble y avoir les violations de la circulation.",
+          "你说的好像是交通违规似的。",
+          "《越狱》",
+          "fr/13371.mp3",
+          "zh/13371.mp3",
+          "nǐ shuō de hǎo xiàng shì jiāo tōng wéi gūi shì de 。",
+          ""
+        ],
+        [
+          "Elle ne passera pas par cette rue pour visiter la statue de fossiles.",
+          "她才不会穿过这条街去探望那尊雕像。",
+          "《绝望的主妇》",
+          "fr/13372.mp3",
+          "zh/13372.mp3",
+          "tā cái bú hùi chuān guò zhè tiáo jiē qù tàn wàng nà zūn diāo xiàng 。",
+          ""
+        ],
+        [
+          "Une bibliothèque, c'est le carrefour de tous les rêves de l'humanité.",
+          "一座图书馆，即是人类通往所有梦想的十字路口。",
+          "",
+          "fr/13373.mp3",
+          "zh/13373.mp3",
+          "yí zuò tú shū guǎn ， jí shì rén lèi tōng wǎng suǒ yǒu mèng xiǎng de shí zì lù kǒu 。",
+          ""
+        ],
+        [
+          "Je préfère être un passant dans cette ville.",
+          "在这个城市我情愿做个过客。",
+          "",
+          "fr/13374.mp3",
+          "zh/13374.mp3",
+          "zài zhè gè chéng shì wǒ qíng yuàn zuò gè guò kè 。",
+          ""
+        ],
+        [
+          "Je te souviens comme l'eau dans la rivière de xijiang, qui se jette à l'est sans cesser.",
+          "忆君心似西江水，日夜东流无歇时。",
+          "",
+          "fr/13375.mp3",
+          "zh/13375.mp3",
+          "yì jūn xīn shì xī jiāng shǔi ， rì yè dōng liú wú xiē shí 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "违法",
+          "violation",
+          "n.f.",
+          "fr/13376.mp3",
+          "zh/13376.mp3",
+          "wéi fǎ",
+          "vjɔla(a)zjɔ̃"
+        ],
+        [
+          "雕像",
+          "statue",
+          "n.f.",
+          "fr/13377.mp3",
+          "zh/13377.mp3",
+          "diāo xiàng",
+          "staty"
+        ],
+        [
+          "化石",
+          "fossile",
+          "n.m.",
+          "fr/13378.mp3",
+          "zh/13378.mp3",
+          "huà shí",
+          "fo(ɔ)sil"
+        ],
+        [
+          "图书馆",
+          "bibliothèque",
+          "n.f.",
+          "fr/13379.mp3",
+          "zh/13379.mp3",
+          "tú shū guǎn",
+          "biblijɔtɛk"
+        ],
+        [
+          "人类",
+          "humanité",
+          "n.f.",
+          "fr/13380.mp3",
+          "zh/13380.mp3",
+          "rén lèi",
+          "ymanite"
+        ]
+      ]
+    },
+    {
+      "no": 6,
+      "name": "地下通道",
+      "w": [
+        [
+          "乞丐",
+          "mendiant, e",
+          "名",
+          "fr/13381.mp3",
+          "zh/13381.mp3",
+          "qǐ gài",
+          "mɑ̃djɑ̃, ɑ̃t"
+        ],
+        [
+          "通道",
+          "passage",
+          "m.",
+          "fr/13382.mp3",
+          "zh/13382.mp3",
+          "tōng dào",
+          "pa(a)sa:ʒ"
+        ],
+        [
+          "通风",
+          "aérer",
+          "v.t.",
+          "fr/13383.mp3",
+          "zh/13383.mp3",
+          "tōng fēng",
+          "aɛre"
+        ],
+        [
+          "书报亭",
+          "kiosque",
+          "m.",
+          "fr/13384.mp3",
+          "zh/13384.mp3",
+          "shū bào tíng",
+          "kjɔsk"
+        ],
+        [
+          "人群",
+          "presse",
+          "f.",
+          "fr/13385.mp3",
+          "zh/13385.mp3",
+          "rén qún",
+          "prɛs"
+        ],
+        [
+          "人群",
+          "foule",
+          "f.",
+          "fr/13386.mp3",
+          "zh/13386.mp3",
+          "rén qún",
+          "ful"
+        ],
+        [
+          "拥挤",
+          "encombrer",
+          "v.t.",
+          "fr/13387.mp3",
+          "zh/13387.mp3",
+          "yōng jǐ",
+          "ɑ̃kɔ̃bre"
+        ],
+        [
+          "海报",
+          "affiche",
+          "f.",
+          "fr/13388.mp3",
+          "zh/13388.mp3",
+          "hǎi bào",
+          "afiʃ"
+        ],
+        [
+          "无家可归",
+          "sans abri",
+          "inv.",
+          "fr/13389.mp3",
+          "zh/13389.mp3",
+          "wú jiā kě gūi",
+          "sɑ̃zabri"
+        ],
+        [
+          "垃圾桶",
+          "poubelle",
+          "f.",
+          "fr/13390.mp3",
+          "zh/13390.mp3",
+          "lā jī tǒng",
+          "pubɛl"
+        ],
+        [
+          "垃圾",
+          "ordure",
+          "f.",
+          "fr/13391.mp3",
+          "zh/13391.mp3",
+          "lā jī",
+          "ɔrdy:r"
+        ],
+        [
+          "丢弃",
+          "abandonner",
+          "v.t.",
+          "fr/13392.mp3",
+          "zh/13392.mp3",
+          "diū qì",
+          "abɑ̃dɔne"
+        ],
+        [
+          "踩",
+          "piétinement",
+          "m.",
+          "fr/13393.mp3",
+          "zh/13393.mp3",
+          "cǎi",
+          "pjetinmɑ̃"
+        ],
+        [
+          "跺脚",
+          "trépigner",
+          "v.i.",
+          "fr/13394.mp3",
+          "zh/13394.mp3",
+          "duò jiǎo",
+          "trepine"
+        ],
+        [
+          "蜂拥",
+          "rush",
+          "m.",
+          "fr/13395.mp3",
+          "zh/13395.mp3",
+          "fēng yōng",
+          "rœʃ"
+        ],
+        [
+          "扔到垃圾堆里",
+          "jeter au rebut",
+          "v.t.",
+          "fr/13396.mp3",
+          "zh/13396.mp3",
+          "rēng dào lā jī dūi lǐ",
+          "ʒ(ə)te o ra, eby"
+        ],
+        [
+          "地下的",
+          "souterrain",
+          "形",
+          "fr/13397.mp3",
+          "zh/13397.mp3",
+          "dì xià de",
+          "sutɛrɛ̃, ɛn"
+        ],
+        [
+          "地下通道",
+          "passage souterrain",
+          "m.",
+          "fr/13398.mp3",
+          "zh/13398.mp3",
+          "dì xià tōng dào",
+          "pasaʒ sutɛrɛ"
+        ]
+      ],
+      "s": [
+        [
+          "Dans chaque incident, la violence est provoqué par certaines personnes dans la foule.",
+          "在每期事件当中，暴力都是被人群当中的某些人挑起的。",
+          "《别对我说谎》",
+          "fr/13399.mp3",
+          "zh/13399.mp3",
+          "zài měi qī shì jiàn dāng zhōng ， bào lì dōu shì bèi rén qún dāng zhōng de mǒu xiē rén tiāo qǐ de 。",
+          ""
+        ],
+        [
+          "Nous ne pouvons plus vivre sans abri. S'il te plaît, aide-nous à nous loger.",
+          "我们不能再这样没有庇护的生活了，请帮助我们安个家吧。",
+          "",
+          "fr/13400.mp3",
+          "zh/13400.mp3",
+          "wǒ men bù néng zài zhè yàng méi yǒu bì hù de shēng huó le ， qǐng bāng zhù wǒ men ān gè jiā ba 。",
+          ""
+        ],
+        [
+          "Je sais que c'est une poubelle, coquin.",
+          "我知道是垃圾桶，机灵鬼。",
+          "《绝望的主妇》",
+          "fr/13401.mp3",
+          "zh/13401.mp3",
+          "wǒ zhī dào shì lā jī tǒng ， jī líng gǔi 。",
+          ""
+        ],
+        [
+          "Je t'aime, pour que tu sois heureux, je peux tout abandonner.",
+          "我爱你，为了你的幸福，我愿意放弃一切。",
+          "",
+          "fr/13402.mp3",
+          "zh/13402.mp3",
+          "wǒ ài nǐ ， wèi le nǐ de xìng fú ， wǒ yuàn yì fàng qì yí qiè 。",
+          ""
+        ],
+        [
+          "Le piétinement a été le résultat de l'homme-fait.",
+          "这次踩踏事件是人为的结果。",
+          "",
+          "fr/13403.mp3",
+          "zh/13403.mp3",
+          "zhè cì cǎi tà shì jiàn shì rén wèi de jié guǒ 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "事件",
+          "incident",
+          "n.m.",
+          "fr/13404.mp3",
+          "zh/13404.mp3",
+          "shì jiàn",
+          "ɛ̃s idɑ̃"
+        ],
+        [
+          "挑拨，挑起",
+          "provoquer",
+          "v.t.",
+          "fr/13405.mp3",
+          "zh/13405.mp3",
+          "tiāo bō ， tiāo qǐ",
+          "prɔvɔke"
+        ],
+        [
+          "小淘气",
+          "coquin, e",
+          "n.",
+          "fr/13406.mp3",
+          "zh/13406.mp3",
+          "xiǎo táo qì",
+          "kɔkɛ̃, in"
+        ],
+        [
+          "留宿",
+          "loger",
+          "v.t.",
+          "fr/13407.mp3",
+          "zh/13407.mp3",
+          "liú sù",
+          "lɔʒe"
+        ],
+        [
+          "结果",
+          "résultat",
+          "n.m.",
+          "fr/13408.mp3",
+          "zh/13408.mp3",
+          "jié guǒ",
+          "rezytɑ"
+        ]
+      ]
+    },
+    {
+      "no": 7,
+      "name": "公交站",
+      "w": [
+        [
+          "乘客",
+          "passager, ère",
+          "名",
+          "fr/13409.mp3",
+          "zh/13409.mp3",
+          "chéng kè",
+          "pa(a)saʒe, ɛr"
+        ],
+        [
+          "车站",
+          "station",
+          "f.",
+          "fr/13410.mp3",
+          "zh/13410.mp3",
+          "chē zhàn",
+          "sta(a)sjɔ̃"
+        ],
+        [
+          "公交站",
+          "station de bus",
+          "f.",
+          "fr/13411.mp3",
+          "zh/13411.mp3",
+          "gōng jiāo zhàn",
+          "sta(a)sjɔ̃ d(ə) bys"
+        ],
+        [
+          "优先权",
+          "privilégié",
+          "m.",
+          "fr/13412.mp3",
+          "zh/13412.mp3",
+          "yōu xiān quán",
+          "privileʒje"
+        ],
+        [
+          "平台",
+          "balcon",
+          "m.",
+          "fr/13413.mp3",
+          "zh/13413.mp3",
+          "píng tái",
+          "balkɔ̃"
+        ],
+        [
+          "车票",
+          "billet",
+          "m.",
+          "fr/13414.mp3",
+          "zh/13414.mp3",
+          "chē piào",
+          "bijɛ"
+        ],
+        [
+          "暂停",
+          "suspendre",
+          "v.t.",
+          "fr/13415.mp3",
+          "zh/13415.mp3",
+          "zàn tíng",
+          "syspɑ̃:dr"
+        ],
+        [
+          "目的地",
+          "destination",
+          "f.",
+          "fr/13416.mp3",
+          "zh/13416.mp3",
+          "mù de dì",
+          "destina(a)sjɔ̃"
+        ],
+        [
+          "乘",
+          "prendre",
+          "v.t.",
+          "fr/13417.mp3",
+          "zh/13417.mp3",
+          "chéng",
+          "prɑ̃:dr"
+        ],
+        [
+          "进入车里",
+          "accéder",
+          "v.i.",
+          "fr/13418.mp3",
+          "zh/13418.mp3",
+          "jìn rù chē lǐ",
+          "aksede"
+        ],
+        [
+          "刷卡",
+          "payer par carte",
+          "v.t.",
+          "fr/13419.mp3",
+          "zh/13419.mp3",
+          "shuā kǎ",
+          "pɛje par kart"
+        ],
+        [
+          "免费的",
+          "gratuit, e",
+          "形",
+          "fr/13420.mp3",
+          "zh/13420.mp3",
+          "miǎn fèi de",
+          "gratɥi, ɥit"
+        ],
+        [
+          "预付费",
+          "prépayement",
+          "m.",
+          "fr/13421.mp3",
+          "zh/13421.mp3",
+          "yù fù fèi",
+          "prɛpeʒemɑ̃"
+        ],
+        [
+          "票价",
+          "prix du ticket",
+          "m.",
+          "fr/13422.mp3",
+          "zh/13422.mp3",
+          "piào jià",
+          "pri dy tikɛ"
+        ],
+        [
+          "免费地",
+          "gratuitement",
+          "副",
+          "fr/13423.mp3",
+          "zh/13423.mp3",
+          "miǎn fèi dì",
+          "gratɥitmɑ̃"
+        ],
+        [
+          "乘客",
+          "voyageur, euse",
+          "名",
+          "fr/13424.mp3",
+          "zh/13424.mp3",
+          "chéng kè",
+          "vwajaʒœ:r, ø:z"
+        ]
+      ],
+      "s": [
+        [
+          "Le bonheur n'est pas une destination mais un mode de vie. Le plus important ce n'est pas de savoir oùaller mais comment y aller...",
+          "幸福不是终点而是一种生活方式，重要的不是去哪里，而是怎么去……",
+          "",
+          "fr/13425.mp3",
+          "zh/13425.mp3",
+          "xìng fú bú shì zhōng diǎn ér shì yì zhǒng shēng huó fāng shì ， zhòng yào de bú shì qù nǎ lǐ ， ér shì zěn me qù … …",
+          ""
+        ],
+        [
+          "Soit boire ou prendre le métro pour rentrer à la maison.",
+          "要么喝酒，要么乘地铁回家。",
+          "《绯闻女孩》",
+          "fr/13426.mp3",
+          "zh/13426.mp3",
+          "yào me hē jiǔ ， yào me chéng dì tiě húi jiā 。",
+          ""
+        ],
+        [
+          "Il y a un barman super mignon, il m'a donné une boisson gratuite de soude.",
+          "那里有个超可爱的调酒师，他免费给我汽水喝。",
+          "《美女上错身》",
+          "fr/13427.mp3",
+          "zh/13427.mp3",
+          "nà lǐ yǒu gè chāo kě ài de diào jiǔ shī ， tā miǎn fèi gěi wǒ qì shǔi hē 。",
+          ""
+        ],
+        [
+          "L'achat de deux livres vous donne droit à un troisième gratuit.",
+          "买了两本书的可获得一本免费赠书。",
+          "",
+          "fr/13428.mp3",
+          "zh/13428.mp3",
+          "mǎi le liǎng běn shū de kě huò dé yì běn miǎn fèi zèng shū 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "地铁",
+          "métro",
+          "n.m.",
+          "fr/13429.mp3",
+          "zh/13429.mp3",
+          "dì tiě",
+          "metro"
+        ],
+        [
+          "酒吧店员",
+          "barman",
+          "n.",
+          "fr/13430.mp3",
+          "zh/13430.mp3",
+          "jiǔ ba diàn yuán",
+          "ba:man"
+        ],
+        [
+          "娇小可爱",
+          "mignon, ne",
+          "n.m.",
+          "fr/13431.mp3",
+          "zh/13431.mp3",
+          "jiāo xiǎo kě ài",
+          "miɲɔ̃, ɔn"
+        ],
+        [
+          "汽水",
+          "soude",
+          "n.f.",
+          "fr/13432.mp3",
+          "zh/13432.mp3",
+          "qì shǔi",
+          "sud"
+        ],
+        [
+          "购买",
+          "achat",
+          "n.m.",
+          "fr/13433.mp3",
+          "zh/13433.mp3",
+          "gòu mǎi",
+          "aʃa"
+        ],
+        [
+          "权利",
+          "droit",
+          "n.m.",
+          "fr/13434.mp3",
+          "zh/13434.mp3",
+          "quán lì",
+          "drwa"
+        ],
+        [
+          "第三",
+          "troisième",
+          "adj.",
+          "fr/13435.mp3",
+          "zh/13435.mp3",
+          "dì sān",
+          "trwa(a)zjɛm"
         ]
       ]
     },
@@ -752,248 +1910,230 @@ window.BOOK_DATA[4] = {
           "慢车",
           "train omnibus",
           "m.",
-          "fr/02059.mp3",
-          "zh/02059.mp3",
+          "fr/13436.mp3",
+          "zh/13436.mp3",
           "màn chē",
-          "[tromnibys]"
+          "trɛ ɔmnibys"
         ],
         [
           "快车",
           "express",
           "inv.",
-          "fr/02060.mp3",
-          "zh/02060.mp3",
+          "fr/13437.mp3",
+          "zh/13437.mp3",
           "kuài chē",
-          "[ekspres]"
+          "ɛkspres"
         ],
         [
           "车站",
-          "station ].",
-          "",
-          "fr/02061.mp3",
-          "zh/02061.mp3",
+          "station",
+          "f.",
+          "fr/13438.mp3",
+          "zh/13438.mp3",
           "chē zhàn",
-          "[sta(a)sj5]"
+          "sta(a)sjɔ̃"
         ],
         [
           "火车站",
           "gare",
-          "",
-          "fr/02062.mp3",
-          "zh/02062.mp3",
+          "f.",
+          "fr/13439.mp3",
+          "zh/13439.mp3",
           "huǒ chē zhàn",
-          "[gar]"
+          "ga:r"
         ],
         [
           "铁轨",
           "rail",
-          "m",
-          "fr/02063.mp3",
-          "zh/02063.mp3",
-          "tiě guǐ",
-          "[raj]"
+          "m.",
+          "fr/13440.mp3",
+          "zh/13440.mp3",
+          "tiě gǔi",
+          "ra:j"
         ],
         [
           "准时的",
-          "ponctuel,elle",
-          "",
-          "fr/02064.mp3",
-          "zh/02064.mp3",
+          "ponctuel, elle",
+          "形",
+          "fr/13441.mp3",
+          "zh/13441.mp3",
           "zhǔn shí de",
-          "[p3ktuel]"
+          "pɔ̃ktyɛl"
         ],
         [
           "出示",
-          "presenter",
-          "",
-          "fr/02065.mp3",
-          "zh/02065.mp3",
+          "présenter",
+          "v.",
+          "fr/13442.mp3",
+          "zh/13442.mp3",
           "chū shì",
-          "[prezäte]"
+          "prezɑ̃te"
         ],
         [
           "超载",
-          "surcharge /",
-          "",
-          "fr/02066.mp3",
-          "zh/02066.mp3",
+          "surcharge",
+          "f.",
+          "fr/13443.mp3",
+          "zh/13443.mp3",
           "chāo zài",
-          "[syrfar3]"
+          "syrʃarʒ"
         ],
         [
           "出站口",
           "exit",
-          "m",
-          "fr/02067.mp3",
-          "zh/02067.mp3",
+          "m.",
+          "fr/13444.mp3",
+          "zh/13444.mp3",
           "chū zhàn kǒu",
-          "[egzit]"
+          "ɛgzit"
         ],
         [
           "单程票",
           "billet aller",
           "m.",
-          "fr/02068.mp3",
-          "zh/02068.mp3",
+          "fr/13445.mp3",
+          "zh/13445.mp3",
           "dān chéng piào",
-          "[bije ale]"
+          "bijɛ ale"
         ],
         [
           "往返票",
           "aller-retour",
           "m.",
-          "fr/02069.mp3",
-          "zh/02069.mp3",
+          "fr/13446.mp3",
+          "zh/13446.mp3",
           "wǎng fǎn piào",
-          "[alertur]"
+          "alɛrtur"
         ],
         [
           "车厢",
           "wagon",
-          "m",
-          "fr/02070.mp3",
-          "zh/02070.mp3",
+          "m.",
+          "fr/13447.mp3",
+          "zh/13447.mp3",
           "chē xiāng",
-          "[vag]"
+          "vagɔ̃"
         ],
         [
           "卧铺",
-          "wagonlit",
+          "wagon-lit",
           "m.",
-          "fr/02071.mp3",
-          "zh/02071.mp3",
+          "fr/13448.mp3",
+          "zh/13448.mp3",
           "wò pù",
-          "[vagšli]"
+          "vagɔ̃li"
         ],
         [
           "铁路",
-          "chemin de fer Jamed fer]",
+          "chemin de fer",
           "m.",
-          "fr/02072.mp3",
-          "zh/02072.mp3",
+          "fr/13449.mp3",
+          "zh/13449.mp3",
           "tiě lù",
-          ""
+          "ʃamɛ̃ d fer"
         ],
         [
-          "高速火车高速火车",
-          "traina grande vitesse traina grande vitesse",
-          "",
-          "fr/02073.mp3",
-          "zh/02073.mp3",
-          "gāo sù huǒ chē gāo sù huǒ chē",
-          "[tr&a grá:d vites]"
+          "高速火车",
+          "train à grande vitesse",
+          "m.",
+          "fr/13450.mp3",
+          "zh/13450.mp3",
+          "gāo sù huǒ chē",
+          "trɛ a gra:d vites"
         ]
       ],
       "s": [
         [
-          "Les intemperies entrainent beaucoup de perturbations sur les rails et sur les routes. Xil.",
-          "恶劣的天气影响了铁路和公路的交通",
-          "",
-          "fr/02074.mp3",
-          "zh/02074.mp3",
-          "è liè de tiān qì yǐng xiǎng le tiě lù hé gōng lù de jiāo tōng",
+          "L'évadé a finalement été pris à la gare centrale.",
+          "逃脱者终于在中央火车站被抓到了。",
+          "《马达加斯加2》",
+          "fr/13451.mp3",
+          "zh/13451.mp3",
+          "táo tuō zhě zhōng yú zài zhōng yāng huǒ chē zhàn bèi zhuā dào le 。",
           ""
         ],
         [
-          "Le métro, cest un moyen plus fiable,il est ponctuel et rapide, pas comme sur le sol, il y a toujours des bouchons. XI T",
-          "地铁是更可靠的交通工具它准时迅捷不像在地面上总是堵车。",
+          "Les intempéries entraînent beaucoup de perturbations sur les rails et sur les routes.",
+          "恶劣的天气影响了铁路和公路的交通。",
           "",
-          "fr/02075.mp3",
-          "zh/02075.mp3",
-          "dì tiě shì gèng kě kào de jiāo tōng gōng jù tā zhǔn shí xùn jié bù xiàng zài dì miàn shàng zǒng shì dǔ chē",
+          "fr/13452.mp3",
+          "zh/13452.mp3",
+          "è liè de tiān qì yǐng xiǎng le tiě lù hé gōng lù de jiāo tōng 。",
           ""
         ],
         [
-          "II y a des places libres dans tous les wagons.",
+          "Le métro, c'est un moyen plus fiable, il est ponctuel et rapide, pas comme sur le sol, il y a toujours desbouchons.",
+          "地铁是更可靠的交通工具，它准时、迅捷。不像在地面上，总是堵车。",
+          "",
+          "fr/13453.mp3",
+          "zh/13453.mp3",
+          "dì tiě shì gèng kě kào de jiāo tōng gōng jù ， tā zhǔn shí 、 xùn jié 。 bú xiàng zài dì miàn shàng ， zǒng shì dǔ chē 。",
+          ""
+        ],
+        [
+          "Il y a des places libres dans tous les wagons.",
           "每节车厢都有空位。",
           "",
-          "fr/02076.mp3",
-          "zh/02076.mp3",
-          "měi jié chē xiāng dōu yǒu kòng wèi",
+          "fr/13454.mp3",
+          "zh/13454.mp3",
+          "měi jié chē xiāng dōu yǒu kōng wèi 。",
           ""
         ]
       ],
       "e": [
         [
           "逃走的人",
-          "évadé,e",
-          "",
-          "fr/02077.mp3",
-          "zh/02077.mp3",
+          "évadé, e",
+          "n.",
+          "fr/13455.mp3",
+          "zh/13455.mp3",
           "táo zǒu de rén",
-          "[evade]"
+          "evade"
         ],
         [
-          "",
-          "finalement ad",
-          "",
-          "fr/02078.mp3",
-          "",
-          "",
-          "[finalmá]"
-        ],
-        [
-          "最后总之",
-          "",
-          "",
-          "",
-          "zh/02079.mp3",
-          "zuì hòu zǒng zhī",
-          ""
-        ],
-        [
-          "",
-          "central,e ad.",
-          "",
-          "fr/02080.mp3",
-          "",
-          "",
-          "[sätral]"
+          "最后，总之",
+          "finalement",
+          "adv.",
+          "fr/13456.mp3",
+          "zh/13456.mp3",
+          "zùi hòu ， zǒng zhī",
+          "finalmɑ̃"
         ],
         [
           "中央的",
-          "",
-          "",
-          "",
-          "zh/02081.mp3",
+          "central, e",
+          "adj.",
+          "fr/13457.mp3",
+          "zh/13457.mp3",
           "zhōng yāng de",
-          ""
-        ],
-        [
-          "",
-          "intempéries",
-          "",
-          "fr/02082.mp3",
-          "",
-          "",
-          "[&täperi]"
+          "sɑ̃tral"
         ],
         [
           "天气",
-          "n.pl. x",
-          "",
-          "fr/02083.mp3",
-          "zh/02083.mp3",
+          "intempéries",
+          "n.pl.",
+          "fr/13458.mp3",
+          "zh/13458.mp3",
           "tiān qì",
-          ""
+          "ẽtɑ̃peri"
         ],
         [
           "可靠的",
           "fiable",
           "adj.",
-          "fr/02084.mp3",
-          "zh/02084.mp3",
+          "fr/13459.mp3",
+          "zh/13459.mp3",
           "kě kào de",
-          "[fjabl]"
+          "fjabl"
         ],
         [
           "拥堵",
-          "bouchon .",
-          "m.",
-          "fr/02085.mp3",
-          "zh/02085.mp3",
+          "bouchon",
+          "n.m.",
+          "fr/13460.mp3",
+          "zh/13460.mp3",
           "yōng dǔ",
-          "[bu5]"
+          "buʃɔ̃"
         ]
       ]
     },
@@ -1005,284 +2145,239 @@ window.BOOK_DATA[4] = {
           "地铁",
           "métro",
           "m.",
-          "fr/02086.mp3",
-          "zh/02086.mp3",
+          "fr/13461.mp3",
+          "zh/13461.mp3",
           "dì tiě",
-          "[metro]"
+          "metro"
         ],
         [
           "换乘",
-          "transférer .",
-          "",
-          "fr/02087.mp3",
-          "zh/02087.mp3",
+          "transférer",
+          "v.t.",
+          "fr/13462.mp3",
+          "zh/13462.mp3",
           "huàn chéng",
-          "[träsfere]"
+          "trɑ̃sfere"
         ],
         [
           "换乘",
           "changer",
-          "",
-          "fr/02088.mp3",
-          "zh/02088.mp3",
+          "v.t.",
+          "fr/13463.mp3",
+          "zh/13463.mp3",
           "huàn chéng",
-          "[ä3e]"
+          "ʃɑ̃ʒe"
         ],
         [
           "排队",
           "faire la queue",
-          "",
-          "fr/02089.mp3",
-          "zh/02089.mp3",
-          "pái duì",
-          "[fesr la ko]"
+          "动",
+          "fr/13464.mp3",
+          "zh/13464.mp3",
+          "pái dùi",
+          "fɛ:r la kø"
         ],
         [
           "缝隙",
           "fissure",
-          "",
-          "fr/02090.mp3",
-          "zh/02090.mp3",
+          "f.",
+          "fr/13465.mp3",
+          "zh/13465.mp3",
           "fèng xì",
-          "[fisyr]"
+          "fisy:r"
         ],
         [
           "留心",
-          "méfier pr",
-          "",
-          "fr/02091.mp3",
-          "zh/02091.mp3",
+          "méfier",
+          "v.pr.",
+          "fr/13466.mp3",
+          "zh/13466.mp3",
           "liú xīn",
-          "[mefje]"
+          "mefje"
         ],
         [
           "小心的",
-          "]vavisé,e",
-          "",
-          "fr/02092.mp3",
-          "zh/02092.mp3",
+          "avisé, e",
+          "形",
+          "fr/13467.mp3",
+          "zh/13467.mp3",
           "xiǎo xīn de",
-          "[avize]"
+          "avize"
         ],
         [
           "错过",
-          "manquer .",
-          "",
-          "fr/02093.mp3",
-          "zh/02093.mp3",
+          "manquer",
+          "v.t.",
+          "fr/13468.mp3",
+          "zh/13468.mp3",
           "cuò guò",
-          "[make]"
+          "mɑ̃ke"
         ],
         [
           "末班车",
           "dernier autobus",
           "m.",
-          "fr/02094.mp3",
-          "zh/02094.mp3",
+          "fr/13469.mp3",
+          "zh/13469.mp3",
           "mò bān chē",
-          "[dernje (o)tobys]"
+          "dɛrnjɛ ɔ(o)tɔbys"
         ],
         [
           "来回程",
-          "aller-retourale ratur]",
+          "aller-retour",
           "m.",
-          "fr/02095.mp3",
-          "zh/02095.mp3",
-          "lái huí chéng",
-          ""
+          "fr/13470.mp3",
+          "zh/13470.mp3",
+          "lái húi chéng",
+          "ale ratyr"
         ],
         [
           "外加的",
-          "supplémen- taire",
-          "",
-          "fr/02096.mp3",
-          "zh/02096.mp3",
+          "supplémentaire",
+          "形",
+          "fr/13471.mp3",
+          "zh/13471.mp3",
           "wài jiā de",
-          "[syplemáte:r]"
+          "syplẽmɑ̃tɛ:r"
         ],
         [
           "售货亭",
           "kiosque",
           "m.",
-          "fr/02097.mp3",
-          "zh/02097.mp3",
+          "fr/13472.mp3",
+          "zh/13472.mp3",
           "shòu huò tíng",
-          "[kjosk]"
+          "kjɔsk"
         ],
         [
           "残疾",
-          "anticapee",
-          "",
-          "fr/02098.mp3",
-          "zh/02098.mp3",
+          "anticapé, e",
+          "形",
+          "fr/13473.mp3",
+          "zh/13473.mp3",
           "cán jí",
-          "[átikabe]"
+          "ɑ̃tikape"
         ],
         [
           "残疾",
-          "invalidité .",
-          "",
-          "fr/02099.mp3",
-          "zh/02099.mp3",
+          "invalidité, e",
+          "f.",
+          "fr/13474.mp3",
+          "zh/13474.mp3",
           "cán jí",
-          "[&validite]"
+          "ɛ̃v alidite"
         ],
         [
           "地铁路线图",
-          "plan du metro",
+          "plan du métro",
           "m.",
-          "fr/02100.mp3",
-          "zh/02100.mp3",
+          "fr/13475.mp3",
+          "zh/13475.mp3",
           "dì tiě lù xiàn tú",
-          "[plä dy metro]"
+          "plɑ̃ dy metro"
         ],
         [
           "地下通道",
           "passage souterrain",
           "m.",
-          "fr/02101.mp3",
-          "zh/02101.mp3",
+          "fr/13476.mp3",
+          "zh/13476.mp3",
           "dì xià tōng dào",
-          "[pa(a)sa:3 suteré]"
+          "pa(ɑ)sa:ʒ sutɛrɛ"
         ]
       ],
       "s": [
         [
-          "Voici de jolies stations de metro a Paris. Dans les grandes stations de métro,il y a des distributeurs automatiques.",
+          "Voici de jolies stations de métro à Paris. Dans les grandes stations de métro, il y a des distributeursautomatiques.",
           "这些就是引人注目的巴黎地铁站。各大地铁站都有自动售票机。",
           "",
-          "fr/02102.mp3",
-          "zh/02102.mp3",
-          "zhè xiē jiù shì yǐn rén zhù mù dì bā lí dì tiě zhàn gè dà dì tiě zhàn dōu yǒu zì dòng shòu piào jī",
+          "fr/13477.mp3",
+          "zh/13477.mp3",
+          "zhè xiē jiù shì yǐn rén zhù mù de bā lí dì tiě zhàn 。 gè dà dì tiě zhàn dōu yǒu zì dòng shòu piào jī 。",
           ""
         ],
         [
-          "En Franceon dit la table bonne table>et le ceremo- nial qui accompagne l'elabo ration et la dégustation est un plaisir supplémentaire quand nos cinq sens sont en eveil. Pensez-vous que j'ai juste une invalidité temporaire?",
-          "在法国，我们习惯称餐桌为“美味的餐桌”，当我们的五感被唤醒时，那些桌面的装饰以及味觉的享受是一种额外的愉悦。你认为我只是暂时残疾吗？",
+          "En France, on dit la table «bonne table» et le cérémonial qui accompagne l'élaboration et la dégustationest un plaisir supplémentaire quand nos cinq sens sont en éveil.",
+          "在法国，我们习惯称餐桌为\"美味的餐桌\"，当我们的五感被唤醒时，那些桌面的装饰以及味觉的享受是一种额外的愉悦。",
+          "",
+          "fr/13478.mp3",
+          "zh/13478.mp3",
+          "zài fǎ guó ， wǒ men xí guàn chēng cān zhuō wèi \" měi wèi de cān zhuō \" ， dāng wǒ men de wǔ gǎn bèi huàn xǐng shí ， nà xiē zhuō miàn de zhuāng shì yǐ jí wèi jué de xiǎng shòu shì yì zhǒng é wài de yú yuè 。",
+          ""
+        ],
+        [
+          "Pensez-vous que j'ai juste une invalidité temporaire?",
+          "你认为我只是暂时残疾吗？",
           "《迷失》",
-          "fr/02103.mp3",
-          "zh/02103.mp3",
-          "zài fǎ guó wǒ men xí guàn chēng cān zhuō wèi měi wèi de cān zhuō dāng wǒ men de wǔ gǎn bèi huàn xǐng shí nà xiē zhuō miàn de zhuāng shì yǐ jí wèi jué de xiǎng shòu shì yī zhǒng é wài de yú yuè nǐ rèn wéi wǒ zhǐ shì zàn shí cán jí ma",
+          "fr/13479.mp3",
+          "zh/13479.mp3",
+          "nǐ rèn wèi wǒ zhǐ shì zàn shí cán jí ma ？",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "distributeur",
-          "",
-          "fr/02104.mp3",
-          "",
-          "",
-          "[distribytxr]"
-        ],
-        [
           "分配器",
-          "",
+          "distributeur",
           "n.m.",
-          "",
-          "zh/02105.mp3",
+          "fr/13480.mp3",
+          "zh/13480.mp3",
           "fēn pèi qì",
-          ""
-        ],
-        [
-          "",
-          "automatique",
-          "",
-          "fr/02106.mp3",
-          "",
-          "",
-          ""
+          "distribytœ:r"
         ],
         [
           "自动的",
-          "otomatik]",
-          "adj",
-          "fr/02107.mp3",
-          "zh/02107.mp3",
+          "automatique",
+          "adj.",
+          "fr/13481.mp3",
+          "zh/13481.mp3",
           "zì dòng de",
-          ""
-        ],
-        [
-          "",
-          "cérémonial",
-          "",
-          "fr/02108.mp3",
-          "",
-          "",
-          "[seremonjal]"
+          "ɔ(o)tɔmatik"
         ],
         [
           "礼仪",
-          "",
+          "cérémonial",
           "n.m.",
-          "",
-          "zh/02109.mp3",
+          "fr/13482.mp3",
+          "zh/13482.mp3",
           "lǐ yí",
-          ""
+          "seremɔnjal"
         ],
         [
-          "",
+          "制造，精制",
           "élaboration",
-          "",
-          "fr/02110.mp3",
-          "",
-          "",
-          "[elabora(a)sj5]"
-        ],
-        [
-          "制造精制",
-          "",
           "n.m.",
-          "",
-          "zh/02111.mp3",
-          "zhì zào jīng zhì",
-          ""
-        ],
-        [
-          "",
-          "dégustation",
-          "",
-          "fr/02112.mp3",
-          "",
-          "",
-          ""
+          "fr/13483.mp3",
+          "zh/13483.mp3",
+          "zhì zào ， jīng zhì",
+          "elabora(ɑ)ʒjɔ̃"
         ],
         [
           "品尝",
-          "",
-          "nf",
-          "",
-          "zh/02113.mp3",
+          "dégustation",
+          "n.f.",
+          "fr/13484.mp3",
+          "zh/13484.mp3",
           "pǐn cháng",
-          "[degystaasj5]"
+          "degyʃta(ɑ)ʒjɔ̃"
         ],
         [
           "显示",
           "éveil",
           "n.m.",
-          "fr/02114.mp3",
-          "zh/02114.mp3",
+          "fr/13485.mp3",
+          "zh/13485.mp3",
           "xiǎn shì",
-          "[evej]"
-        ],
-        [
-          "",
-          "temporaire",
-          "",
-          "fr/02115.mp3",
-          "",
-          "",
-          "[täpore:r]"
+          "evɛj"
         ],
         [
           "暂时的",
-          "",
+          "temporaire",
           "adj.",
-          "",
-          "zh/02116.mp3",
+          "fr/13486.mp3",
+          "zh/13486.mp3",
           "zàn shí de",
-          ""
+          "tɑ̃pɔrɛ:r"
         ]
       ]
     },
@@ -1292,250 +2387,232 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "验票员",
-          "controleur euse",
-          "",
-          "fr/02117.mp3",
-          "zh/02117.mp3",
+          "contrôleur, euse",
+          "名",
+          "fr/13487.mp3",
+          "zh/13487.mp3",
           "yàn piào yuán",
-          "[ktrolr,az]"
+          "kɔ̃trolœ:r, øz"
         ],
         [
           "头顶",
           "vertex",
-          "m",
-          "fr/02118.mp3",
-          "zh/02118.mp3",
+          "m.",
+          "fr/13488.mp3",
+          "zh/13488.mp3",
           "tóu dǐng",
-          "[verteks]"
+          "vertɛks"
         ],
         [
           "站台票",
           "billet de quai",
           "m.",
-          "fr/02119.mp3",
-          "zh/02119.mp3",
+          "fr/13489.mp3",
+          "zh/13489.mp3",
           "zhàn tái piào",
-          "[bije d(a) ke]"
+          "bijɛ d(ə) kɛ"
         ],
         [
           "乘务员",
           "personnel du train",
           "m.",
-          "fr/02120.mp3",
-          "zh/02120.mp3",
+          "fr/13490.mp3",
+          "zh/13490.mp3",
           "chéng wù yuán",
-          "[personel dy tre]"
+          "pɛrsɔnɛl dy trɛ"
         ],
         [
           "引导",
-          "guidert",
-          "",
-          "fr/02121.mp3",
-          "zh/02121.mp3",
+          "guider",
+          "v.",
+          "fr/13491.mp3",
+          "zh/13491.mp3",
           "yǐn dǎo",
-          "[gide]"
+          "gidɛ"
         ],
         [
           "疏散",
-          "dispersion /",
-          "",
-          "fr/02122.mp3",
-          "zh/02122.mp3",
+          "dispersion",
+          "f.",
+          "fr/13492.mp3",
+          "zh/13492.mp3",
           "shū sàn",
-          "[dispersj5]"
+          "dispɛrsjɔ̃"
         ],
         [
           "脱轨",
-          "dérailler i.",
-          "",
-          "fr/02123.mp3",
-          "zh/02123.mp3",
-          "tuō guǐ",
-          "[dera(a)je]"
+          "dérailler",
+          "v.",
+          "fr/13493.mp3",
+          "zh/13493.mp3",
+          "tuō gǔi",
+          "dera(a)je"
         ],
         [
           "紧急出口",
           "Issue de Secours",
-          "",
-          "fr/02124.mp3",
-          "zh/02124.mp3",
+          "名",
+          "fr/13494.mp3",
+          "zh/13494.mp3",
           "jǐn jí chū kǒu",
-          "[isy d(a s(a)ku:r]"
+          "isy d(ə) s(ə)ku:r"
         ],
         [
           "使用",
           "utiliser",
-          "",
-          "fr/02125.mp3",
-          "zh/02125.mp3",
+          "v.",
+          "fr/13495.mp3",
+          "zh/13495.mp3",
           "shǐ yòng",
-          "[ytilize]"
+          "ytilize"
         ],
         [
           "行李",
           "bagage",
           "m.",
-          "fr/02126.mp3",
-          "zh/02126.mp3",
+          "fr/13496.mp3",
+          "zh/13496.mp3",
           "xíng lǐ",
-          "[bagai3]"
+          "baga:ʒ"
         ],
         [
           "行李",
           "effets",
-          "m",
-          "fr/02127.mp3",
-          "zh/02127.mp3",
+          "m.",
+          "fr/13497.mp3",
+          "zh/13497.mp3",
           "xíng lǐ",
-          "[efe]"
+          "efɛ"
         ],
         [
           "行李车",
-          "wagona bagage",
+          "wagon à bagage",
           "m.",
-          "fr/02128.mp3",
-          "zh/02128.mp3",
+          "fr/13498.mp3",
+          "zh/13498.mp3",
           "xíng lǐ chē",
-          "[vaga baga:3]"
+          "vagɔ̃ a baga:ʒ"
         ],
         [
           "扶手",
           "appui",
           "m.",
-          "fr/02129.mp3",
-          "zh/02129.mp3",
+          "fr/13499.mp3",
+          "zh/13499.mp3",
           "fú shǒu",
-          "[apui]"
+          "apɥi"
         ],
         [
           "手推车",
           "surtout",
           "m.",
-          "fr/02130.mp3",
-          "zh/02130.mp3",
-          "shǒu tuī chē",
-          "[syrtu]"
+          "fr/13500.mp3",
+          "zh/13500.mp3",
+          "shǒu tūi chē",
+          "syrtu"
         ],
         [
           "传递",
           "transmettre",
-          "",
-          "fr/02131.mp3",
-          "zh/02131.mp3",
+          "v.",
+          "fr/13501.mp3",
+          "zh/13501.mp3",
           "chuán dì",
-          "[träsmetr]"
+          "trɑ̃smɛtr"
         ],
         [
           "行李架",
-          "porte-bagages m.iny",
-          "",
-          "fr/02132.mp3",
-          "zh/02132.mp3",
+          "porte-bagages",
+          "inv.",
+          "fr/13502.mp3",
+          "zh/13502.mp3",
           "xíng lǐ jià",
-          "[portabaga3]"
+          "pɔrt(ə)bagaʒ"
         ],
         [
           "逃避",
-          "évasion /.",
-          "",
-          "fr/02133.mp3",
-          "zh/02133.mp3",
+          "évasion",
+          "f.",
+          "fr/13503.mp3",
+          "zh/13503.mp3",
           "táo bì",
-          "[eva(a)zj5]"
+          "eva(a)zjɔ̃"
         ]
       ],
       "s": [
         [
-          "Préparez votre billet!Il faut le montrer au controleur.",
+          "Préparez votre billet! Il faut le montrer au contrôleur.",
           "准备好车票，出示给查票员。",
           "",
-          "fr/02134.mp3",
-          "zh/02134.mp3",
-          "zhǔn bèi hǎo chē piào chū shì gěi chá piào yuán",
+          "fr/13504.mp3",
+          "zh/13504.mp3",
+          "zhǔn bèi hǎo chē piào ， chū shì gěi chá piào yuán 。",
           ""
         ],
         [
-          "Cet aveugle se guide a I'aide dune baton.iz",
+          "Cet aveugle se guide à l'aide d'une bâton.",
           "这个盲人靠手杖走路。",
           "",
-          "fr/02135.mp3",
-          "zh/02135.mp3",
-          "zhè ge máng rén kào shǒu zhàng zǒu lù",
+          "fr/13505.mp3",
+          "zh/13505.mp3",
+          "zhè gè máng rén kào shǒu zhàng zǒu lù 。",
           ""
         ],
         [
-          "Ce train peut derailler.",
+          "Ce train peut dérailler.",
           "火车可能脱轨。",
           "",
-          "fr/02136.mp3",
-          "zh/02136.mp3",
-          "huǒ chē kě néng tuō guǐ",
+          "fr/13506.mp3",
+          "zh/13506.mp3",
+          "huǒ chē kě néng tuō gǔi 。",
           ""
         ],
         [
-          "Jai trop de bagages, le deplacement est d'un tas dennuis.",
-          "我的行李太多了搬家很麻烦。",
+          "J'ai trop de bagages, le déplacement est d'un tas d'ennuis.",
+          "我的行李太多了，搬家很麻烦。",
           "",
-          "fr/02137.mp3",
-          "zh/02137.mp3",
-          "wǒ de xíng lǐ tài duō le bān jiā hěn má fán",
+          "fr/13507.mp3",
+          "zh/13507.mp3",
+          "wǒ de xíng lǐ tài duō le ， bān jiā hěn má fán 。",
           ""
         ],
         [
-          "Transmettez mes respects avos parents.",
+          "Transmettez mes respects à vos parents.",
           "请代问你的父母好。",
           "",
-          "fr/02138.mp3",
-          "zh/02138.mp3",
-          "qǐng dài wèn nǐ de fù mǔ hǎo",
+          "fr/13508.mp3",
+          "zh/13508.mp3",
+          "qǐng dài wèn nǐ de fù mǔ hǎo 。",
           ""
         ],
         [
-          "Lévasion ne peut pas ré- soudre le probleme.",
-          "逃避是解决不了间题的。",
+          "L'évasion ne peut pas résoudre le problème.",
+          "逃避是解决不了问题的。",
           "",
-          "fr/02139.mp3",
-          "zh/02139.mp3",
-          "táo bì shì jiě jué bù liǎo jiān tí de",
+          "fr/13509.mp3",
+          "zh/13509.mp3",
+          "táo bì shì jiě jué bù le wèn tí de 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "déplacement",
-          "",
-          "fr/02140.mp3",
-          "",
-          "",
-          "[deplasmä]"
-        ],
-        [
           "移动",
-          "",
+          "déplacement",
           "n.m.",
-          "",
-          "zh/02141.mp3",
+          "fr/13510.mp3",
+          "zh/13510.mp3",
           "yí dòng",
-          ""
+          "deplasmɑ̃"
         ],
         [
           "麻烦",
           "ennuis",
           "n.m.",
-          "fr/02142.mp3",
-          "zh/02142.mp3",
+          "fr/13511.mp3",
+          "zh/13511.mp3",
           "má fán",
-          "[änyi]"
-        ],
-        [
-          "行李",
-          "bagage",
-          "",
-          "fr/02143.mp3",
-          "zh/02143.mp3",
-          "xíng lǐ",
-          ""
+          "ɑ̃nɥi"
         ]
       ]
     },
@@ -1545,250 +2622,223 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "停机坪",
-          "station avion /.",
-          "",
-          "fr/02144.mp3",
-          "zh/02144.mp3",
+          "station avion",
+          "f.",
+          "fr/13512.mp3",
+          "zh/13512.mp3",
           "tíng jī píng",
-          "[sta(a)sj5 avj5]"
+          "sta(ɑ)sjɔ̃ avjɔ̃"
         ],
         [
           "机场跑道",
           "runway",
           "m.",
-          "fr/02145.mp3",
-          "zh/02145.mp3",
+          "fr/13513.mp3",
+          "zh/13513.mp3",
           "jī chǎng pǎo dào",
-          "['ranwei]"
+          "'rʌnwei"
         ],
         [
           "滑行飞机",
           "rouleur",
           "m.",
-          "fr/02146.mp3",
-          "zh/02146.mp3",
+          "fr/13514.mp3",
+          "zh/13514.mp3",
           "huá xíng fēi jī",
-          "[rulæ:r]"
+          "rulœ:r"
         ],
         [
           "小飞机场",
-          "lt aéroport",
+          "aéroport",
           "m.",
-          "fr/02147.mp3",
-          "zh/02147.mp3",
+          "fr/13515.mp3",
+          "zh/13515.mp3",
           "xiǎo fēi jī chǎng",
-          "[aeropoir]"
+          "aerɔpɔ:r"
         ],
         [
           "机场",
           "aérodrome",
           "m.",
-          "fr/02148.mp3",
-          "zh/02148.mp3",
+          "fr/13516.mp3",
+          "zh/13516.mp3",
           "jī chǎng",
-          "[aerodro:m]"
+          "aerɔdro:m"
         ],
         [
           "检查",
           "inspecter",
-          "",
-          "fr/02149.mp3",
-          "zh/02149.mp3",
+          "v.t.",
+          "fr/13517.mp3",
+          "zh/13517.mp3",
           "jiǎn chá",
-          "[Espekte]"
+          "ɛ̃s pɛkte"
         ],
         [
           "建设",
-          "construction /",
-          "",
-          "fr/02150.mp3",
-          "zh/02150.mp3",
+          "construction",
+          "f.",
+          "fr/13518.mp3",
+          "zh/13518.mp3",
           "jiàn shè",
-          "[kstryksjö]"
+          "kɔ̃stryksjɔ̃"
         ],
         [
           "准备",
-          "préparer .",
-          "",
-          "fr/02151.mp3",
-          "zh/02151.mp3",
+          "préparer",
+          "v.t.",
+          "fr/13519.mp3",
+          "zh/13519.mp3",
           "zhǔn bèi",
-          "[prepare]"
+          "prepare"
         ],
         [
           "允许",
-          "permettre .",
-          "",
-          "fr/02152.mp3",
-          "zh/02152.mp3",
+          "permettre",
+          "v.t.",
+          "fr/13520.mp3",
+          "zh/13520.mp3",
           "yǔn xǔ",
-          "[permetr]"
+          "pɛrmɛtr"
         ],
         [
           "离开",
           "quitter",
-          "",
-          "fr/02153.mp3",
-          "zh/02153.mp3",
+          "v.t.",
+          "fr/13521.mp3",
+          "zh/13521.mp3",
           "lí kāi",
-          "[kite]"
+          "kite"
         ],
         [
           "下降",
           "descendre",
-          "",
-          "fr/02154.mp3",
-          "zh/02154.mp3",
+          "v.t.",
+          "fr/13522.mp3",
+          "zh/13522.mp3",
           "xià jiàng",
-          "[desä:dr]"
+          "desɑ̃:dr"
         ],
         [
           "盘旋",
-          "tournoyer i.",
-          "",
-          "fr/02155.mp3",
-          "zh/02155.mp3",
+          "tournoyer",
+          "v.i.",
+          "fr/13523.mp3",
+          "zh/13523.mp3",
           "pán xuán",
-          "[turnwaje]"
+          "turnwaje"
         ],
         [
           "着陆",
-          "atterrir i",
-          "",
-          "fr/02156.mp3",
-          "zh/02156.mp3",
-          "zhuó lù",
-          "[ate(eri:r]"
+          "atterrir",
+          "v.i.",
+          "fr/13524.mp3",
+          "zh/13524.mp3",
+          "zhe lù",
+          "atɛ(ɛ)ri:r"
         ],
         [
           "航线",
-          "route aérienne /",
-          "",
-          "fr/02157.mp3",
-          "zh/02157.mp3",
+          "route aérienne",
+          "f.",
+          "fr/13525.mp3",
+          "zh/13525.mp3",
           "háng xiàn",
-          "[rut aerjen]"
+          "rut aerjɛn"
         ],
         [
           "到达",
-          "arriver i",
-          "",
-          "fr/02158.mp3",
-          "zh/02158.mp3",
+          "arriver",
+          "v.i.",
+          "fr/13526.mp3",
+          "zh/13526.mp3",
           "dào dá",
-          "[arive]"
+          "arive"
         ],
         [
           "延误",
           "contretemps",
-          "m",
-          "fr/02159.mp3",
-          "zh/02159.mp3",
+          "m.",
+          "fr/13527.mp3",
+          "zh/13527.mp3",
           "yán wù",
-          "[kštrata]"
+          "kɔ̃trətɑ̃"
         ]
       ],
       "s": [
         [
-          "Mise en place en 31 dé- cembre,2002, cette ligne connecte l'Aéroport de Pu- dong a la station de métro Longyang Road et a pour lon- gueur 31km. Léducation humaine doit préparer chacun a vivre pour autrui,afin de revivre dans autrui.",
-          "这条线路于2002年12月31日开通，总里程为31公里，连接着浦东国际机场和龙阳路地铁站。人类的全部教育应该培养每个人为他人而生活，以便能生活在他人的心中。",
+          "Mise en place en 31 décembre, 2002, cette ligne connecte l'Aéroport de Pudong à la station de métroLongyang Road et a pour longueur 31 km.",
+          "这条线路于2002年12月31日开通，总里程为31公里，连接着浦东国际机场和龙阳路地铁站。",
           "",
-          "fr/02160.mp3",
-          "zh/02160.mp3",
-          "zhè tiáo xiàn lù yú nián yuè rì kāi tōng zǒng lǐ chéng wèi gōng lǐ lián jiē zhe pǔ dōng guó jì jī chǎng hé lóng yáng lù dì tiě zhàn rén lèi de quán bù jiào yù yīng gāi péi yǎng měi gè rén wèi tā rén ér shēng huó yǐ biàn néng shēng huó zài tā rén de xīn zhōng",
+          "fr/13528.mp3",
+          "zh/13528.mp3",
+          "zhè tiáo xiàn lù yú 2 0 0 2 nián 1 2 yuè 3 1 rì kāi tōng ， zǒng lǐ chéng wèi 3 1 gōng lǐ ， lián jiē zhe pǔ dōng guó jì jī chǎng hé lóng yáng lù dì tiě zhàn 。",
           ""
         ],
         [
-          "La receveuse aide une vi- eille femme a descendre de 1autobus. TA#",
-          "女售票员帮助一位妈妈下公共汽车",
+          "L'éducation humaine doit préparer chacun à vivre pour autrui, afin de revivre dans l'autrui.",
+          "人类的全部教育应该培养每个人为他人而生活，以便能生活在他人的心中。",
           "",
-          "fr/02161.mp3",
-          "zh/02161.mp3",
-          "nǚ shòu piào yuán bāng zhù yī wèi mā mā xià gōng gòng qì chē",
+          "fr/13529.mp3",
+          "zh/13529.mp3",
+          "rén lèi de quán bù jiào yù yīng gāi péi yǎng měi gè rén wèi tā rén ér shēng huó ， yǐ biàn néng shēng huó zài tā rén de xīn zhōng 。",
+          ""
+        ],
+        [
+          "La receveuse aide une vieille femme à descendre de l'autobus.",
+          "女售票员帮助一位老奶奶下公共汽车。",
+          "",
+          "fr/13530.mp3",
+          "zh/13530.mp3",
+          "nǚ shòu piào yuán bāng zhù yí wèi lǎo nǎi nǎi xià gōng gòng qì chē 。",
           ""
         ],
         [
           "Ce contretemps a démoli mes projets.",
           "这次延误破坏了我的计划。",
           "",
-          "fr/02162.mp3",
-          "zh/02162.mp3",
-          "zhè cì yán wù pò huài le wǒ de jì huà",
+          "fr/13531.mp3",
+          "zh/13531.mp3",
+          "zhè cì yán wù pò huài le wǒ de jì huà 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "longueur n",
-          "",
-          "fr/02163.mp3",
-          "",
-          "",
-          "[15ger]"
-        ],
-        [
           "长度",
-          "",
-          "",
-          "",
-          "zh/02164.mp3",
-          "cháng dù",
-          ""
+          "longueur",
+          "n.f.",
+          "fr/13532.mp3",
+          "zh/13532.mp3",
+          "zhǎng dù",
+          "lɔ̃gœ:r"
         ],
         [
           "别人",
           "autrui",
-          "pron",
-          "fr/02165.mp3",
-          "zh/02165.mp3",
+          "pron.",
+          "fr/13533.mp3",
+          "zh/13533.mp3",
           "bié rén",
-          "[otryi]"
-        ],
-        [
-          "",
-          "recerveur,eure",
-          "",
-          "fr/02166.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "[rasavcrz]"
+          "otrɥi"
         ],
         [
           "税务员",
-          "",
-          "",
-          "",
-          "zh/02168.mp3",
-          "shuì wù yuán",
-          ""
-        ],
-        [
-          "",
-          "démolir",
-          "vt",
-          "fr/02169.mp3",
-          "",
-          "",
-          "[demoli:r]"
+          "receveur, eure",
+          "n.",
+          "fr/13534.mp3",
+          "zh/13534.mp3",
+          "shùi wù yuán",
+          "rəsəvœr, øz"
         ],
         [
           "毁坏",
-          "",
-          "",
-          "",
-          "zh/02170.mp3",
-          "huǐ huài",
-          ""
+          "démolir",
+          "v.t.",
+          "fr/13535.mp3",
+          "zh/13535.mp3",
+          "hǔi huài",
+          "demɔli:r"
         ]
       ]
     },
@@ -1798,232 +2848,205 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "手提行李",
-          "bagages main",
+          "bagages à main",
           "m.",
-          "fr/02171.mp3",
-          "zh/02171.mp3",
+          "fr/13536.mp3",
+          "zh/13536.mp3",
           "shǒu tí xíng lǐ",
-          "[bagai3 a m&]"
+          "baga:ʒ a mɛ"
         ],
         [
           "候机室",
           "salle d'attente d'aéroport",
           "f.",
-          "fr/02172.mp3",
-          "zh/02172.mp3",
+          "fr/13537.mp3",
+          "zh/13537.mp3",
           "hòu jī shì",
-          "[sal atä:t eropo:r]"
+          "sal atɑ̃:t erɔpɔ:r"
         ],
         [
           "航班",
           "vol",
-          "m",
-          "fr/02173.mp3",
-          "zh/02173.mp3",
+          "m.",
+          "fr/13538.mp3",
+          "zh/13538.mp3",
           "háng bān",
-          "[vl]"
+          "vɔl"
         ],
         [
           "数字",
-          "chiffreSifr]",
-          "m",
-          "fr/02174.mp3",
-          "zh/02174.mp3",
+          "chiffre",
+          "m.",
+          "fr/13539.mp3",
+          "zh/13539.mp3",
           "shù zì",
-          ""
+          "ʃifr"
         ],
         [
           "信息",
-          "information /",
-          "",
-          "fr/02175.mp3",
-          "zh/02175.mp3",
+          "information",
+          "f.",
+          "fr/13540.mp3",
+          "zh/13540.mp3",
           "xìn xī",
-          "[aformaasj]"
+          "ɛ̃fɔrma(ɑ)sjɔ̃"
         ],
         [
           "问询处",
           "bureau des renseignements",
           "m.",
-          "fr/02176.mp3",
-          "zh/02176.mp3",
+          "fr/13541.mp3",
+          "zh/13541.mp3",
           "wèn xún chù",
-          "[byro de rásenmá]"
+          "byro de rɑ̃sɛnmɑ̃"
         ],
         [
           "国内的",
           "domestique",
-          "",
-          "fr/02177.mp3",
-          "zh/02177.mp3",
+          "形",
+          "fr/13542.mp3",
+          "zh/13542.mp3",
           "guó nèi de",
-          "[domestik]"
+          "dɔmestik"
         ],
         [
           "国际的",
-          "international.e",
-          "",
-          "fr/02178.mp3",
-          "zh/02178.mp3",
+          "international, e",
+          "形",
+          "fr/13543.mp3",
+          "zh/13543.mp3",
           "guó jì de",
-          "[&ternasjonal]"
+          "ɛ̃tɛrnasjɔnal"
         ],
         [
           "时间表",
-          "Bhoraire orexr]",
-          "m",
-          "fr/02179.mp3",
-          "zh/02179.mp3",
+          "horaire",
+          "m.",
+          "fr/13544.mp3",
+          "zh/13544.mp3",
           "shí jiān biǎo",
-          ""
+          "ɔrɛ:r"
         ],
         [
-          "免税的贵宾室",
+          "免税的",
           "franche",
-          "",
-          "fr/02180.mp3",
-          "zh/02180.mp3",
-          "miǎn shuì de guì bīn shì",
-          "[fra salle des hotes distingués[sal de o:t dist£ge]"
+          "形",
+          "fr/13545.mp3",
+          "zh/13545.mp3",
+          "miǎn shùi de",
+          "frɑ̃:ʃ"
+        ],
+        [
+          "贵宾室",
+          "salle des hôtes distingués",
+          "名",
+          "fr/13546.mp3",
+          "zh/13546.mp3",
+          "gùi bīn shì",
+          "sal de o:t distɛ̃g e"
         ],
         [
           "休息室",
-          "salle derepos /",
-          "",
-          "fr/02181.mp3",
-          "zh/02181.mp3",
+          "salle de repos",
+          "f.",
+          "fr/13547.mp3",
+          "zh/13547.mp3",
           "xiū xī shì",
-          "[sal d(a) r(e)po]"
+          "sal d(ə) r(ə)po"
         ],
         [
           "通行证",
           "laisser-passer",
           "m.",
-          "fr/02182.mp3",
-          "zh/02182.mp3",
+          "fr/13548.mp3",
+          "zh/13548.mp3",
           "tōng xíng zhèng",
-          "[lese pase]"
+          "lese pase"
         ],
         [
           "失物招领处",
           "bureau des objets trouvés",
-          "m",
-          "fr/02183.mp3",
-          "zh/02183.mp3",
+          "m.",
+          "fr/13549.mp3",
+          "zh/13549.mp3",
           "shī wù zhāo lǐng chù",
-          "[byro de obze truve]"
+          "byro de ɔbʒe truve"
         ]
       ],
       "s": [
         [
-          "Il y avait 148mariages mixtes a Shanghai jusqua 1978 et le chiffre augmente chaque année avec la reforme et l'ou- verture.1978E148",
-          "到年已有对登记的跨国婚姻，而且随着改革开放，这个数字在逐年增加。",
-          "",
-          "fr/02184.mp3",
-          "zh/02184.mp3",
-          "dào nián yǐ yǒu duì dēng jì de kuà guó hūn yīn ér qiě suí zhe gǎi gé kāi fàng zhè ge shù zì zài zhú nián zēng jiā",
+          "Ils veulent s'assurer que vous avez suffisamment d'information et peut être condamné.",
+          "他们要确认你有足够多的而且能够定罪的信息。",
+          "《越狱》",
+          "fr/13550.mp3",
+          "zh/13550.mp3",
+          "tā men yào què rèn nǐ yǒu zú gòu duō de ér qiě néng gòu dìng zùi de xìn xī 。",
           ""
         ],
         [
-          "Il se renseigne aupres du serveur sur les horaires.",
-          "他向大厅服务员间时间。",
+          "Il y avait 148 mariages mixtes à Shanghai jusqu'à 1978 et le chiffre augmente chaque année avec laréforme et l'ouverture.",
+          "到1978年，已有148对登记的跨国婚姻，而且随着改革开放，这个数字在逐年增加。",
           "",
-          "fr/02185.mp3",
-          "zh/02185.mp3",
-          "tā xiàng dà tīng fú wù yuán jiān shí jiān",
+          "fr/13551.mp3",
+          "zh/13551.mp3",
+          "dào 1 9 7 8 nián ， yǐ yǒu 1 4 8 dùi dēng jì de kuà guó hūn yīn ， ér qiě súi zhe gǎi gé kāi fàng ， zhè gè shù zì zài zhú nián zēng jiā 。",
+          ""
+        ],
+        [
+          "Il se renseigne auprès du serveur sur les horaires.",
+          "他向大厅服务员问时间。",
+          "",
+          "fr/13552.mp3",
+          "zh/13552.mp3",
+          "tā xiàng dà tīng fú wù yuán wèn shí jiān 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "足够地，充分地",
           "suffisamment",
-          "",
-          "fr/02186.mp3",
-          "",
-          "",
-          "[syfizamä]"
-        ],
-        [
-          "足够地充分地",
-          "",
           "adv.",
-          "",
-          "zh/02187.mp3",
-          "zú gòu dì chōng fèn dì",
-          ""
-        ],
-        [
-          "",
-          "condamné,e",
-          "",
-          "fr/02188.mp3",
-          "",
-          "",
-          "[kdane]"
+          "fr/13553.mp3",
+          "zh/13553.mp3",
+          "zú gòu dì ， chōng fēn dì",
+          "syfizamɑ̃"
         ],
         [
           "被定罪的",
-          "",
+          "condamné, e",
           "adj.",
-          "",
-          "zh/02189.mp3",
-          "bèi dìng zuì de",
-          ""
+          "fr/13554.mp3",
+          "zh/13554.mp3",
+          "bèi dìng zùi de",
+          "kɔ̃dane"
         ],
         [
           "混合的",
           "mixte",
           "adj.",
-          "fr/02190.mp3",
-          "zh/02190.mp3",
+          "fr/13555.mp3",
+          "zh/13555.mp3",
           "hùn hé de",
-          "[mikst]"
+          "mikst"
         ],
         [
-          "",
-          "la réforme et I'ouverture",
-          "",
-          "fr/02191.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "改革",
-          "reform el'uverty:r]",
-          "",
-          "fr/02192.mp3",
-          "zh/02192.mp3",
-          "gǎi gé",
-          ""
-        ],
-        [
-          "开放",
-          "",
-          "",
-          "",
-          "zh/02193.mp3",
-          "kāi fàng",
-          ""
-        ],
-        [
-          "",
-          "renseigner",
-          "",
-          "fr/02194.mp3",
-          "",
-          "",
-          "[räseane]"
+          "改革开放",
+          "la réforme et l'ouverture",
+          "loc.",
+          "fr/13556.mp3",
+          "zh/13556.mp3",
+          "gǎi gé kāi fàng",
+          "reform e l'uverty:r"
         ],
         [
           "告知",
-          "",
-          "",
-          "",
-          "zh/02195.mp3",
+          "renseigner",
+          "v.t.",
+          "fr/13557.mp3",
+          "zh/13557.mp3",
           "gào zhī",
-          ""
+          "rɑ̃se(ɛ)ne"
         ]
       ]
     },
@@ -2033,232 +3056,205 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "安全",
-          "sécurite /.",
-          "",
-          "fr/02196.mp3",
-          "zh/02196.mp3",
+          "sécurité",
+          "f.",
+          "fr/13558.mp3",
+          "zh/13558.mp3",
           "ān quán",
-          "[sekyrite]"
+          "sekyrite"
         ],
         [
           "安检",
-          "controle de sécurité",
+          "contrôle de sécurité",
           "m.",
-          "fr/02197.mp3",
-          "zh/02197.mp3",
+          "fr/13559.mp3",
+          "zh/13559.mp3",
           "ān jiǎn",
-          "[ktrol da sekyrite]"
+          "kɔ̃trɔl d(ə) sekyrite"
         ],
         [
           "安全",
-          "süreté",
-          "",
-          "fr/02198.mp3",
-          "zh/02198.mp3",
+          "sûreté",
+          "f.",
+          "fr/13560.mp3",
+          "zh/13560.mp3",
           "ān quán",
-          "[syrte]"
+          "syrte"
         ],
         [
           "保安人员",
           "garde de sécurité",
           "m.",
-          "fr/02199.mp3",
-          "zh/02199.mp3",
+          "fr/13561.mp3",
+          "zh/13561.mp3",
           "bǎo ān rén yuán",
-          "[gard da) sekyrite]"
+          "gard d(ə) sekyrite"
         ],
         [
           "仔细检查",
           "scan",
-          "",
-          "fr/02200.mp3",
-          "zh/02200.mp3",
-          "zǐ xì jiǎn chá",
-          "[skan]"
+          "v.t.",
+          "fr/13562.mp3",
+          "zh/13562.mp3",
+          "zǎi xì jiǎn chá",
+          "skan"
         ],
         [
           "扫视",
-          "promener ses regards ä",
-          "",
-          "fr/02201.mp3",
-          "zh/02201.mp3",
+          "promener ses regards à",
+          "v.t.",
+          "fr/13563.mp3",
+          "zh/13563.mp3",
           "sǎo shì",
-          "[promne se r(a)gair a]"
+          "prɔmne se r(ə)ga:r a"
         ],
         [
           "传送带",
-          "tapis trans porteur",
+          "tapis transporteur",
           "m.",
-          "fr/02202.mp3",
-          "zh/02202.mp3",
+          "fr/13564.mp3",
+          "zh/13564.mp3",
           "chuán sòng dài",
-          "[tapi trásportæxr]"
+          "tapi trɑ̃spɔrtœ:r"
         ],
         [
           "检查站",
-          "poste de contrle",
+          "poste de contrôle",
           "m.",
-          "fr/02203.mp3",
-          "zh/02203.mp3",
+          "fr/13565.mp3",
+          "zh/13565.mp3",
           "jiǎn chá zhàn",
-          "[post da) kötro:l]"
+          "pɔst d(ə) kɔ̃tro:l"
         ],
         [
           "安检员",
           "censeur",
           "m.",
-          "fr/02204.mp3",
-          "zh/02204.mp3",
+          "fr/13566.mp3",
+          "zh/13566.mp3",
           "ān jiǎn yuán",
-          "[säscir]"
+          "sɑ̃sœ:r"
         ],
         [
           "易燃物",
           "combustible",
           "m.",
-          "fr/02205.mp3",
-          "zh/02205.mp3",
+          "fr/13567.mp3",
+          "zh/13567.mp3",
           "yì rán wù",
-          "[k5bystibl]"
+          "kɔ̃bystibl"
         ],
         [
           "行李票",
           "bulletin de bagage",
           "m.",
-          "fr/02206.mp3",
-          "zh/02206.mp3",
+          "fr/13568.mp3",
+          "zh/13568.mp3",
           "xíng lǐ piào",
-          "[bylt&da baga:3]"
+          "byltɛ̃ d(ə) baga:ʒ"
         ],
         [
           "检测",
-          "détection /",
-          "",
-          "fr/02207.mp3",
-          "zh/02207.mp3",
+          "détection",
+          "f.",
+          "fr/13569.mp3",
+          "zh/13569.mp3",
           "jiǎn cè",
-          "[deteksj5]"
+          "deteksjɔ̃"
         ],
         [
           "检查员",
-          "controleur euse",
-          "",
-          "fr/02208.mp3",
-          "zh/02208.mp3",
+          "contrôleur, euse",
+          "名",
+          "fr/13570.mp3",
+          "zh/13570.mp3",
           "jiǎn chá yuán",
-          "[ktrolr,z]"
+          "kɔ̃trɔlœ:r, øz"
         ],
         [
           "调度员",
-          "régulateurtrice",
+          "régulateur, trice",
           "m.",
-          "fr/02209.mp3",
-          "zh/02209.mp3",
+          "fr/13571.mp3",
+          "zh/13571.mp3",
           "diào dù yuán",
-          "[regylatesr, tris]"
+          "regylatœ:r, tris"
         ]
       ],
       "s": [
         [
-          "Javais une impression de totale sécurite. XA.",
-          "我感到一种完全的安全感",
+          "J'avais une impression de totale sécurité.",
+          "我感到一种完全的安全感。",
           "",
-          "fr/02210.mp3",
-          "zh/02210.mp3",
-          "wǒ gǎn dào yī zhǒng wán quán de ān quán gǎn",
+          "fr/13572.mp3",
+          "zh/13572.mp3",
+          "wǒ gǎn dào yì zhǒng wán quán de ān quán gǎn 。",
           ""
         ],
         [
-          "Les combustibles peuvent etre classés en combustible solide, combustible liquide, combustible gazeux.",
+          "Les combustibles peuvent être classés en combustible solide, combustible liquide, combustible gazeux.",
           "燃料可分为固体燃料、液体燃料和气体燃料。",
           "",
-          "fr/02211.mp3",
-          "zh/02211.mp3",
-          "rán liào kě fēn wéi gù tǐ rán liào yè tǐ rán liào hé qì tǐ rán liào",
+          "fr/13573.mp3",
+          "zh/13573.mp3",
+          "rán liào kě fēn wèi gù tǐ rán liào 、 yè tǐ rán liào hé qì tǐ rán liào 。",
           ""
         ],
         [
           "Son matériel de détection et de la qualité des outils de gestion pour assurer la qualité du produit.",
           "完善的检测设备及品质管理手段保证了产品的质量。",
           "",
-          "fr/02212.mp3",
-          "zh/02212.mp3",
-          "wán shàn de jiǎn cè shè bèi jí pǐn zhì guǎn lǐ shǒu duàn bǎo zhèng le chǎn pǐn de zhì liàng",
+          "fr/13574.mp3",
+          "zh/13574.mp3",
+          "wán shàn de jiǎn cè shè bèi jí pǐn zhì guǎn lǐ shǒu duàn bǎo zhèng le chǎn pǐn de zhì liàng 。",
           ""
         ],
         [
-          "Avant l'arrivée du contro leur,les ingenieurs s'enfer ment dans les toilettes. I TE.",
-          "在查票员来之前工程师们躲进了卫生间",
+          "Avant l'arrivée du contrôleur, les ingénieurs s'enferment dans les toilettes.",
+          "在查票员来之前，工程师们躲进了卫生间。",
           "",
-          "fr/02213.mp3",
-          "zh/02213.mp3",
-          "zài chá piào yuán lái zhī qián gōng chéng shī men duǒ jìn le wèi shēng jiān",
+          "fr/13575.mp3",
+          "zh/13575.mp3",
+          "zài chá piào yuán lái zhī qián ， gōng chéng shī men duǒ jìn le wèi shēng jiān 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "impression",
-          "",
-          "fr/02214.mp3",
-          "",
-          "",
-          "[&pree)sjδ]"
-        ],
-        [
           "印象",
-          "",
-          "f.",
-          "",
-          "zh/02215.mp3",
+          "impression",
+          "n.f.",
+          "fr/13576.mp3",
+          "zh/13576.mp3",
           "yìn xiàng",
-          ""
+          "ɛ̃p re(e)sjɔ̃"
         ],
         [
           "固体的",
-          "solide a.",
-          "",
-          "fr/02216.mp3",
-          "zh/02216.mp3",
+          "solide",
+          "a.",
+          "fr/13577.mp3",
+          "zh/13577.mp3",
           "gù tǐ de",
-          "[solid]"
-        ],
-        [
-          "",
-          "ingénieur",
-          "n.m",
-          "fr/02217.mp3",
-          "",
-          "",
-          "[&zenjr]"
+          "sɔlid"
         ],
         [
           "工程师",
-          "",
-          "",
-          "",
-          "zh/02218.mp3",
+          "ingénieur",
+          "n.m.",
+          "fr/13578.mp3",
+          "zh/13578.mp3",
           "gōng chéng shī",
-          ""
-        ],
-        [
-          "",
-          "toilettes n.pl",
-          "",
-          "fr/02219.mp3",
-          "",
-          "",
-          "[twalet]"
+          "ɛ̃ʒ enjœ:r"
         ],
         [
           "洗漱间",
-          "",
-          "",
-          "",
-          "zh/02220.mp3",
+          "toilettes",
+          "n.pl.",
+          "fr/13579.mp3",
+          "zh/13579.mp3",
           "xǐ shù jiān",
-          ""
+          "twalɛt"
         ]
       ]
     },
@@ -2268,250 +3264,223 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "停车",
-          "sarréter t.",
-          "",
-          "fr/02221.mp3",
-          "zh/02221.mp3",
+          "s'arrêter",
+          "v.t.",
+          "fr/13580.mp3",
+          "zh/13580.mp3",
           "tíng chē",
-          "[sarete]"
+          "saretɛ"
         ],
         [
           "停车场",
-          "lieu de sta tionnement",
+          "lieu de stationnement",
           "m.",
-          "fr/02222.mp3",
-          "zh/02222.mp3",
+          "fr/13581.mp3",
+          "zh/13581.mp3",
           "tíng chē chǎng",
-          "[ljo d(a stasjonmá]"
+          "ljø d(ə) stasjɔnmɑ̃"
         ],
         [
           "罚款",
           "amende",
           "f.",
-          "fr/02223.mp3",
-          "zh/02223.mp3",
+          "fr/13582.mp3",
+          "zh/13582.mp3",
           "fá kuǎn",
-          "[amá:d]"
+          "amɑ̃:d"
         ],
         [
           "违规停车罚款",
-          "contra vention ].",
-          "",
-          "fr/02224.mp3",
-          "zh/02224.mp3",
-          "wéi guī tíng chē fá kuǎn",
-          "[ktraväsj5]"
+          "contravention",
+          "f.",
+          "fr/13583.mp3",
+          "zh/13583.mp3",
+          "wéi gūi tíng chē fá kuǎn",
+          "kɔ̃travɑ̃sjɔ̃"
         ],
         [
           "停车场",
           "parc-auto",
           "m.",
-          "fr/02225.mp3",
-          "zh/02225.mp3",
+          "fr/13584.mp3",
+          "zh/13584.mp3",
           "tíng chē chǎng",
-          "[park (0)to]"
+          "park ɔ(o)to"
         ],
         [
           "楼层",
           "étage",
-          "m",
-          "fr/02226.mp3",
-          "zh/02226.mp3",
-          "lóu céng",
-          "[eta3]"
-        ],
-        [
-          "路旁停车处",
-          "place d'arret",
-          "f.",
-          "fr/02227.mp3",
-          "zh/02227.mp3",
-          "lù páng tíng chē chù",
-          "[plas dare]"
-        ],
-        [
-          "路旁停车处",
-          "parcde stationnement",
           "m.",
-          "fr/02228.mp3",
-          "zh/02228.mp3",
+          "fr/13585.mp3",
+          "zh/13585.mp3",
+          "lóu céng",
+          "eta:ʒ"
+        ],
+        [
+          "路旁停车处",
+          "place d'arrêt",
+          "f.",
+          "fr/13586.mp3",
+          "zh/13586.mp3",
           "lù páng tíng chē chù",
-          "[park d(a) stasjonmá]"
+          "plas darɛ"
+        ],
+        [
+          "路旁停车处",
+          "parc de stationnement",
+          "m.",
+          "fr/13587.mp3",
+          "zh/13587.mp3",
+          "lù páng tíng chē chù",
+          "park d(ə) stasjɔnmɑ̃"
         ],
         [
           "停车位",
           "créneau",
           "m.",
-          "fr/02229.mp3",
-          "zh/02229.mp3",
+          "fr/13588.mp3",
+          "zh/13588.mp3",
           "tíng chē wèi",
-          "[kreno]"
+          "kreno"
         ],
         [
           "间隔",
           "intervalle",
           "m.",
-          "fr/02230.mp3",
-          "zh/02230.mp3",
-          "jiàn gé",
-          "[&terval]"
+          "fr/13589.mp3",
+          "zh/13589.mp3",
+          "jiān gé",
+          "ɛ̃tɛrval"
         ],
         [
           "黄线",
-          "ligne jaunelin 30:nl",
+          "ligne jaune",
           "f.",
-          "fr/02231.mp3",
-          "zh/02231.mp3",
+          "fr/13590.mp3",
+          "zh/13590.mp3",
           "huáng xiàn",
-          ""
+          "liʒ ʒo:n"
         ],
         [
           "公用的",
-          "publicique",
-          "",
-          "fr/02232.mp3",
-          "zh/02232.mp3",
+          "public, ique",
+          "形",
+          "fr/13591.mp3",
+          "zh/13591.mp3",
           "gōng yòng de",
-          "[pyblik]"
+          "pyblik"
         ],
         [
           "私人的",
-          "privé",
-          "",
-          "fr/02233.mp3",
-          "zh/02233.mp3",
+          "privé, e",
+          "形",
+          "fr/13592.mp3",
+          "zh/13592.mp3",
           "sī rén de",
-          "[prive]"
+          "prive"
         ],
         [
           "停车线",
-          "ligne darret",
+          "ligne d'arrêt",
           "f.",
-          "fr/02234.mp3",
-          "zh/02234.mp3",
+          "fr/13593.mp3",
+          "zh/13593.mp3",
           "tíng chē xiàn",
-          "[lin d are]"
+          "liʒ d arɛ"
         ],
         [
           "停车线",
           "dégagement",
           "m.",
-          "fr/02235.mp3",
-          "zh/02235.mp3",
+          "fr/13594.mp3",
+          "zh/13594.mp3",
           "tíng chē xiàn",
-          "[degazmá]"
+          "degɑʒmɑ̃"
         ]
       ],
       "s": [
         [
-          "Si vous nous laissez passer dans la zone de stationne- ment, la sécurite va verifier notre voiture",
+          "Si vous nous laissez passer dans la zone de stationnement, la sécurité va vérifier notre voiture?",
           "如果你能让我们进入停车区，保安会检查我们的车吗？",
           "《越狱》",
-          "fr/02236.mp3",
-          "zh/02236.mp3",
-          "rú guǒ nǐ néng ràng wǒ men jìn rù tíng chē qū bǎo ān huì jiǎn chá wǒ men de chē ma",
+          "fr/13595.mp3",
+          "zh/13595.mp3",
+          "rú guǒ nǐ néng ràng wǒ men jìn rù tíng chē qū ， bǎo ān hùi jiǎn chá wǒ men de chē ma ？",
           ""
         ],
         [
-          "Défense de stationner sous peine damende.i",
-          "禁止停车违者罚款。",
+          "Défense de stationner sous peine d'amende.",
+          "禁止停车，违者罚款。",
           "",
-          "fr/02237.mp3",
-          "zh/02237.mp3",
-          "jìn zhǐ tíng chē wéi zhě fá kuǎn",
+          "fr/13596.mp3",
+          "zh/13596.mp3",
+          "jìn zhǐ tíng chē ， wéi zhě fá kuǎn 。",
           ""
         ],
         [
-          "Vous n'avez pas vu l'écri teau? Contravention! ?x 1A!",
-          "你没有看到这告示牌吗交违章罚金",
+          "Vous n'avez pas vu l'écriteau? Contravention!",
+          "你没有看到这告示牌吗？交违章罚金！",
           "",
-          "fr/02238.mp3",
-          "zh/02238.mp3",
-          "nǐ méi yǒu kàn dào zhè gào shì pái ma jiāo wéi zhāng fá jīn",
+          "fr/13597.mp3",
+          "zh/13597.mp3",
+          "nǐ méi yǒu kàn dào zhè gào shì pái ma ？ jiāo wéi zhāng fá jīn ！",
           ""
         ],
         [
-          "Ne pas discuter de mes problemes prives.",
+          "Ne pas discuter de mes problèmes privés.",
           "不要讨论我的私人问题。",
           "",
-          "fr/02239.mp3",
-          "zh/02239.mp3",
-          "bú yào tǎo lùn wǒ de sī rén wèn tí",
+          "fr/13598.mp3",
+          "zh/13598.mp3",
+          "bú yào tǎo lùn wǒ de sī rén wèn tí 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "停留，停车",
           "stationnement",
-          "",
-          "fr/02240.mp3",
-          "",
-          "",
-          "[stasjonmá]"
-        ],
-        [
-          "停留停车",
-          "",
-          "nm",
-          "",
-          "zh/02241.mp3",
-          "tíng liú tíng chē",
-          ""
+          "n.m.",
+          "fr/13599.mp3",
+          "zh/13599.mp3",
+          "tíng liú ， tíng chē",
+          "stasjɔnmɑ̃"
         ],
         [
           "检查",
-          "verifier v.",
-          "",
-          "fr/02242.mp3",
-          "zh/02242.mp3",
+          "verifier",
+          "v.t.",
+          "fr/13600.mp3",
+          "zh/13600.mp3",
           "jiǎn chá",
-          "[verifje]"
+          "verifje"
         ],
         [
           "禁止",
           "défense",
           "n.f.",
-          "fr/02243.mp3",
-          "zh/02243.mp3",
+          "fr/13601.mp3",
+          "zh/13601.mp3",
           "jìn zhǐ",
-          "[defäs]"
+          "defɑ̃:s"
         ],
         [
           "停留",
           "stationner",
-          "vi.",
-          "fr/02244.mp3",
-          "zh/02244.mp3",
+          "v.i.",
+          "fr/13602.mp3",
+          "zh/13602.mp3",
           "tíng liú",
-          "[stasjone]"
+          "stasjɔne"
         ],
         [
           "通告",
           "écriteau",
           "n.m.",
-          "fr/02245.mp3",
-          "zh/02245.mp3",
+          "fr/13603.mp3",
+          "zh/13603.mp3",
           "tōng gào",
-          "[ekrito]"
-        ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "停车场",
-          "lieu de stationnement",
-          "",
-          "fr/02247.mp3",
-          "zh/02247.mp3",
-          "tíng chē chǎng",
-          ""
+          "ekrito"
         ]
       ]
     },
@@ -2522,249 +3491,231 @@ window.BOOK_DATA[4] = {
         [
           "易燃的",
           "combustible",
-          "",
-          "fr/02248.mp3",
-          "zh/02248.mp3",
+          "形",
+          "fr/13604.mp3",
+          "zh/13604.mp3",
           "yì rán de",
-          "[k5bystibl]"
+          "kɔ̃bystibl"
         ],
         [
           "易爆性",
-          "détonabilité /.",
-          "",
-          "fr/02249.mp3",
-          "zh/02249.mp3",
+          "détonabilité",
+          "f.",
+          "fr/13605.mp3",
+          "zh/13605.mp3",
           "yì bào xìng",
-          "[detonabilide]"
+          "detɔnabilite"
         ],
         [
           "增加",
-          "augmenter .",
-          "",
-          "fr/02250.mp3",
-          "zh/02250.mp3",
+          "augmenter",
+          "v.t.",
+          "fr/13606.mp3",
+          "zh/13606.mp3",
           "zēng jiā",
-          "[ogmäte]"
+          "ɔ̃(g)mɑ̃te"
         ],
         [
-          "放加",
-          "ajouter .",
-          "",
-          "fr/02251.mp3",
-          "zh/02251.mp3",
-          "fàng jiā",
-          "[azute]"
+          "放，加",
+          "ajouter",
+          "v.t.",
+          "fr/13607.mp3",
+          "zh/13607.mp3",
+          "fàng ， jiā",
+          "aʒute"
         ],
         [
           "汽油",
           "essence",
           "f.",
-          "fr/02252.mp3",
-          "zh/02252.mp3",
+          "fr/13608.mp3",
+          "zh/13608.mp3",
           "qì yóu",
-          "[esa:s]"
+          "esɑ̃:s"
         ],
         [
           "石油",
           "pétrole",
-          "m",
-          "fr/02253.mp3",
-          "zh/02253.mp3",
+          "m.",
+          "fr/13609.mp3",
+          "zh/13609.mp3",
           "shí yóu",
-          "[petrol]"
+          "petrɔl"
         ],
         [
           "柴油",
           "mazout",
           "m.",
-          "fr/02254.mp3",
-          "zh/02254.mp3",
+          "fr/13610.mp3",
+          "zh/13610.mp3",
           "chái yóu",
-          "[mazut]"
+          "mazut"
         ],
         [
           "缺乏",
-          "manquer .",
-          "",
-          "fr/02255.mp3",
-          "zh/02255.mp3",
+          "manquer",
+          "v.t.",
+          "fr/13611.mp3",
+          "zh/13611.mp3",
           "quē fá",
-          "[mäke]"
+          "mɑ̃ke"
         ],
         [
           "汽车加油站",
-          "station d'essence [sta(a)sj5 desa:sl",
+          "station d'essence",
           "f.",
-          "fr/02256.mp3",
-          "zh/02256.mp3",
+          "fr/13612.mp3",
+          "zh/13612.mp3",
           "qì chē jiā yóu zhàn",
-          ""
+          "sta(a)sjɔ̃ desɑ̃:s"
         ],
         [
           "汽车加油站",
-          "station- service",
-          "",
-          "fr/02257.mp3",
-          "zh/02257.mp3",
+          "station-service",
+          "f.",
+          "fr/13613.mp3",
+          "zh/13613.mp3",
           "qì chē jiā yóu zhàn",
-          "[stasj servis]"
+          "stasjɔ̃ servis"
         ],
         [
           "汽油箱",
-          "boitea essence[bwat a esarsl",
+          "boîte à essence",
           "f.",
-          "fr/02258.mp3",
-          "zh/02258.mp3",
+          "fr/13614.mp3",
+          "zh/13614.mp3",
           "qì yóu xiāng",
-          ""
+          "bwat a esɑ̃:s"
         ],
         [
           "禁止",
           "interdire",
-          "",
-          "fr/02259.mp3",
-          "zh/02259.mp3",
+          "v.t.",
+          "fr/13615.mp3",
+          "zh/13615.mp3",
           "jìn zhǐ",
-          "[Eterdir]"
+          "ɛ̃tɛrdi:r"
         ],
         [
           "烟头",
           "mégot",
-          "m",
-          "fr/02260.mp3",
-          "zh/02260.mp3",
+          "m.",
+          "fr/13616.mp3",
+          "zh/13616.mp3",
           "yān tóu",
-          "[mego]"
+          "mego"
         ],
         [
           "火花",
           "étincelle",
           "f.",
-          "fr/02261.mp3",
-          "zh/02261.mp3",
+          "fr/13617.mp3",
+          "zh/13617.mp3",
           "huǒ huā",
-          "[et&sel]"
+          "etɛ̃s ɛl"
         ],
         [
           "无铅汽油",
-          "lessence sans plomb",
+          "l'essence sans plomb",
           "f.",
-          "fr/02262.mp3",
-          "zh/02262.mp3",
+          "fr/13618.mp3",
+          "zh/13618.mp3",
           "wú qiān qì yóu",
-          "[lesä:s sá pl5]"
-        ],
-        [
-          "雷烟",
-          "fumer",
-          "vi.",
-          "fr/02263.mp3",
-          "zh/02263.mp3",
-          "léi yān",
-          "[fyme]"
+          "lesɑ̃:s sɑ̃ plɔ̃"
         ]
       ],
       "s": [
         [
-          "Les combustibles sont la premiere source dénergie utilisée par l'homme pour le chauffage domestique,I'éclai- rage et l'industrie. TT",
-          "燃料是人类用于家庭取暖照明和工业的第一能源。",
+          "Les combustibles sont la première source d'énergie utilisée par l'homme pour le chauffage domestique,l'éclairage et l'industrie.",
+          "燃料是人类用于家庭取暖、照明和工业的第一能源。",
           "",
-          "fr/02264.mp3",
-          "zh/02264.mp3",
-          "rán liào shì rén lèi yòng yú jiā tíng qǔ nuǎn zhào míng hé gōng yè de dì yī néng yuán",
+          "fr/13619.mp3",
+          "zh/13619.mp3",
+          "rán liào shì rén lèi yòng yú jiā tíng qǔ nuǎn 、 zhào míng hé gōng yè de dì yì néng yuán 。",
           ""
         ],
         [
-          "On s'arréte a une station dessence. F.",
-          "我们在一家加油站停了下来",
+          "On s'arrête à une station d'essence.",
+          "我们在一家加油站停了下来。",
           "",
-          "fr/02265.mp3",
-          "zh/02265.mp3",
-          "wǒ men zài yī jiā jiā yóu zhàn tíng le xià lái",
+          "fr/13620.mp3",
+          "zh/13620.mp3",
+          "wǒ men zài yì jiā jiā yóu zhàn tíng le xià lái 。",
           ""
         ],
         [
           "Il est interdit de fumer.",
           "禁止抽烟。",
           "",
-          "fr/02266.mp3",
-          "zh/02266.mp3",
-          "jìn zhǐ chōu yān",
+          "fr/13621.mp3",
+          "zh/13621.mp3",
+          "jìn zhǐ chōu yān 。",
           ""
         ],
         [
-          "Nous avons été fondée en 2005,a Whitehead Road sta tion d'essence a coté du port, la vielle ville lots et pratique",
+          "Nous avons été fondée en 2005, à Whitehead Road station d'essence à côté du port, la vielle ville lots etpratique.",
           "我们成立于2005年，位于港口路白石加油站旁，繁华地段，交通方便。",
           "",
-          "fr/02267.mp3",
-          "zh/02267.mp3",
-          "wǒ men chéng lì yú nián wèi yú gǎng kǒu lù bái shí jiā yóu zhàn páng fán huá dì duàn jiāo tōng fāng biàn",
+          "fr/13622.mp3",
+          "zh/13622.mp3",
+          "wǒ men chéng lì yú 2 0 0 5 nián ， wèi yú gǎng kǒu lù bái shí jiā yóu zhàn páng ， fán huá dì duàn ， jiāo tōng fāng biàn 。",
           ""
         ],
         [
-          "Le Qingdao est une belle station balnéaire,la prospérité économique de la ville por- tuaire moderne.",
+          "Le Qingdao est une belle station balnéaire, la prospérité économique de la ville portuaire moderne.",
           "青岛更是风景秀丽的避暑胜地，经济繁荣的现代化港口城市。",
           "",
-          "fr/02268.mp3",
-          "zh/02268.mp3",
-          "qīng dǎo gèng shì fēng jǐng xiù lì de bì shǔ shèng dì jīng jì fán róng de xiàn dài huà gǎng kǒu chéng shì",
+          "fr/13623.mp3",
+          "zh/13623.mp3",
+          "qīng dǎo gèng shì fēng jǐng xiù lì de bì shǔ shèng dì ， jīng jì fán róng de xiàn dài huà gǎng kǒu chéng shì 。",
           ""
         ],
         [
-          "Dans les materiaux de construction, fumer est in- terdit.",
-          "在建材城里吸烟是被禁止的。",
+          "Dans les matériaux de construction, fumer est interdit.",
+          "在建材城里，吸烟是被禁止的。",
           "",
-          "fr/02269.mp3",
-          "zh/02269.mp3",
-          "zài jiàn cái chéng lǐ xī yān shì bèi jìn zhǐ de",
+          "fr/13624.mp3",
+          "zh/13624.mp3",
+          "zài jiàn cái chéng lǐ ， xī yān shì bèi jìn zhǐ de 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "domestique",
-          "",
-          "fr/02270.mp3",
-          "",
-          "",
-          "[domastik]"
-        ],
-        [
           "家庭的",
-          "",
-          "",
-          "",
-          "zh/02271.mp3",
+          "domestique",
+          "a.",
+          "fr/13625.mp3",
+          "zh/13625.mp3",
           "jiā tíng de",
-          ""
+          "dɔmɛstik"
         ],
         [
           "工业",
-          "industriedystri] nf.I",
-          "",
-          "fr/02272.mp3",
-          "zh/02272.mp3",
+          "industrie",
+          "n.f.",
+          "fr/13626.mp3",
+          "zh/13626.mp3",
           "gōng yè",
-          ""
+          "ɛ̃d y stri"
         ],
         [
-          "",
-          "matériau",
-          "n.m.",
-          "fr/02273.mp3",
-          "",
-          "",
-          "[materjo]"
+          "冒烟",
+          "fumer",
+          "v.i.",
+          "fr/13627.mp3",
+          "zh/13627.mp3",
+          "mào yān",
+          "fyme"
         ],
         [
           "建筑材料",
-          "",
-          "",
-          "",
-          "zh/02274.mp3",
+          "matériau",
+          "n.m.",
+          "fr/13628.mp3",
+          "zh/13628.mp3",
           "jiàn zhù cái liào",
-          ""
+          "materjo"
         ]
       ]
     },
@@ -2775,303 +3726,285 @@ window.BOOK_DATA[4] = {
         [
           "港口",
           "port",
-          "m",
-          "fr/02275.mp3",
-          "zh/02275.mp3",
+          "m.",
+          "fr/13629.mp3",
+          "zh/13629.mp3",
           "gǎng kǒu",
-          "[por]"
+          "pɔ:r"
         ],
         [
           "到达",
-          "atteindre .",
-          "",
-          "fr/02276.mp3",
-          "zh/02276.mp3",
+          "atteindre",
+          "v.t.",
+          "fr/13630.mp3",
+          "zh/13630.mp3",
           "dào dá",
-          "[ate:dr]"
+          "atɛ̃:dr"
         ],
         [
           "航道",
-          "chenal anal]",
-          "m",
-          "fr/02277.mp3",
-          "zh/02277.mp3",
+          "chenal",
+          "m.",
+          "fr/13631.mp3",
+          "zh/13631.mp3",
           "háng dào",
-          ""
+          "ʃ(ə)nal"
         ],
         [
           "码头",
-          "débarcadere",
+          "débarcadère",
           "m.",
-          "fr/02278.mp3",
-          "zh/02278.mp3",
+          "fr/13632.mp3",
+          "zh/13632.mp3",
           "mǎ tóu",
-          "[debarkade:r]"
+          "debarkadɛ:r"
         ],
         [
           "码头",
           "quai",
           "m.",
-          "fr/02279.mp3",
-          "zh/02279.mp3",
+          "fr/13633.mp3",
+          "zh/13633.mp3",
           "mǎ tóu",
-          "[ke]"
+          "ke"
         ],
         [
           "码头",
-          "embarcadere",
+          "embarcadère",
           "m.",
-          "fr/02280.mp3",
-          "zh/02280.mp3",
+          "fr/13634.mp3",
+          "zh/13634.mp3",
           "mǎ tóu",
-          "[ábarkadesr]"
+          "ɑ̃barkadɛ:r"
         ],
         [
           "码头",
           "dock",
           "m.",
-          "fr/02281.mp3",
-          "zh/02281.mp3",
+          "fr/13635.mp3",
+          "zh/13635.mp3",
           "mǎ tóu",
-          "[dok]"
+          "dɔk"
         ],
         [
           "码头工人",
-          "Idocker",
+          "docker",
           "m.",
-          "fr/02282.mp3",
-          "zh/02282.mp3",
+          "fr/13636.mp3",
+          "zh/13636.mp3",
           "mǎ tóu gōng rén",
-          "[doker]"
+          "dɔker"
         ],
         [
           "停泊港",
-          "port de relache mt.",
-          "",
-          "fr/02283.mp3",
-          "zh/02283.mp3",
-          "tíng bó gǎng",
-          "[por darala]"
+          "port de relâche",
+          "m.",
+          "fr/13637.mp3",
+          "zh/13637.mp3",
+          "tíng pō gǎng",
+          "pɔ:r d(ə) r(ə)la:ʃ"
         ],
         [
           "停泊地",
           "ancrage",
           "m.",
-          "fr/02284.mp3",
-          "zh/02284.mp3",
-          "tíng bó dì",
-          "[ákra:3]"
+          "fr/13638.mp3",
+          "zh/13638.mp3",
+          "tíng pō dì",
+          "ɑ̃kra:ʒ"
         ],
         [
           "灯塔",
           "phare",
-          "m",
-          "fr/02285.mp3",
-          "zh/02285.mp3",
+          "m.",
+          "fr/13639.mp3",
+          "zh/13639.mp3",
           "dēng tǎ",
-          "[far]"
+          "fa:r"
         ],
         [
           "集装箱",
           "container",
           "m.",
-          "fr/02286.mp3",
-          "zh/02286.mp3",
+          "fr/13640.mp3",
+          "zh/13640.mp3",
           "jí zhuāng xiāng",
-          "[kštener]"
+          "kɔ̃tenœr"
         ],
         [
           "货物",
-          "marchandise ádi:z]/.",
-          "",
-          "fr/02287.mp3",
-          "zh/02287.mp3",
+          "marchandise",
+          "f.",
+          "fr/13641.mp3",
+          "zh/13641.mp3",
           "huò wù",
-          "[mar]"
+          "marʃɑ̃di:z"
         ],
         [
           "海浪",
-          "vague[vagl",
-          "",
-          "fr/02288.mp3",
-          "zh/02288.mp3",
+          "vague",
+          "f.",
+          "fr/13642.mp3",
+          "zh/13642.mp3",
           "hǎi làng",
-          ""
+          "vag"
         ],
         [
           "搁浅",
-          "échouer i.",
-          "",
-          "fr/02289.mp3",
-          "zh/02289.mp3",
+          "échouer",
+          "v.i.",
+          "fr/13643.mp3",
+          "zh/13643.mp3",
           "gē qiǎn",
-          "[ewe]"
+          "eʃwe"
         ],
         [
           "搁浅",
           "échouage",
           "m.",
-          "fr/02290.mp3",
-          "zh/02290.mp3",
+          "fr/13644.mp3",
+          "zh/13644.mp3",
           "gē qiǎn",
-          "[efwa:3]"
+          "eʃwa:ʒ"
         ],
         [
           "浅的",
           "bas",
-          "",
-          "fr/02291.mp3",
-          "zh/02291.mp3",
+          "形",
+          "fr/13645.mp3",
+          "zh/13645.mp3",
           "qiǎn de",
-          "[ba]"
+          "bɑ"
         ],
         [
           "深的",
-          "profond",
-          "",
-          "fr/02292.mp3",
-          "zh/02292.mp3",
+          "profond, e",
+          "形",
+          "fr/13646.mp3",
+          "zh/13646.mp3",
           "shēn de",
-          "[prof5,d]"
+          "prɔfɔ̃, d"
         ],
         [
           "港口费用",
-          "frais por tuaires",
-          "",
-          "fr/02293.mp3",
-          "zh/02293.mp3",
+          "frais portuaires",
+          "名",
+          "fr/13647.mp3",
+          "zh/13647.mp3",
           "gǎng kǒu fèi yòng",
-          "[fre portyer]"
+          "frɛ pɔrtɥɛr"
         ],
         [
           "港口的",
           "portuaire",
-          "",
-          "fr/02294.mp3",
-          "zh/02294.mp3",
+          "形",
+          "fr/13648.mp3",
+          "zh/13648.mp3",
           "gǎng kǒu de",
-          "[portyer]"
+          "pɔrtɥɛr"
         ]
       ],
       "s": [
         [
-          "En France,les raffineries de pétrole se sont installées a proximité des grands ports.",
+          "En France, les raffineries de pétrole se sont installées à proximité des grands ports.",
           "在法国，炼油厂都设在大型港口附近。",
           "",
-          "fr/02295.mp3",
-          "zh/02295.mp3",
-          "zài fǎ guó liàn yóu chǎng dōu shè zài dà xíng gǎng kǒu fù jìn",
+          "fr/13649.mp3",
+          "zh/13649.mp3",
+          "zài fǎ guó ， liàn yóu chǎng dōu shè zài dà xíng gǎng kǒu fù jìn 。",
           ""
         ],
         [
-          "Elle frappe tout le monde sur le quai, a la recherche de l'un des conteneurs d'expédition. F",
-          "她击倒了码头上的所有人在找一只随船运来的集装箱。",
+          "Elle frappe tout le monde sur le quai, à la recherche de l'un des conteneurs d'expédition.",
+          "她击倒了码头上的所有人，在找一只随船运来的集装箱。",
           "《英雄》",
-          "fr/02296.mp3",
-          "zh/02296.mp3",
-          "tā jī dào le mǎ tóu shàng de suǒ yǒu rén zài zhǎo yī zhī suí chuán yùn lái de jí zhuāng xiāng",
+          "fr/13650.mp3",
+          "zh/13650.mp3",
+          "tā jī dào le mǎ tóu shàng de suǒ yǒu rén ， zài zhǎo yì zhǐ súi chuán yùn lái de jí zhuāng xiāng 。",
           ""
         ],
         [
-          "Il voulait savoir a quel poste a quai s'arrete ce bateau prive.f",
+          "Il voulait savoir à quel poste à quai s'arrête ce bateau privé.",
           "他想知道私人艇停在哪个泊位。",
-          "一《越狱》",
-          "fr/02297.mp3",
-          "zh/02297.mp3",
-          "tā xiǎng zhī dào sī rén tǐng tíng zài nǎ ge bó wèi",
+          "《越狱》",
+          "fr/13651.mp3",
+          "zh/13651.mp3",
+          "tā xiǎng zhī dào sī rén tǐng tíng zài nǎ gè pō wèi 。",
           ""
         ],
         [
           "Tu a vu le phare sur la mer?",
-          "你看见海上的灯塔没",
+          "你看见海上的灯塔没？",
           "",
-          "fr/02298.mp3",
-          "zh/02298.mp3",
-          "nǐ kàn jiàn hǎi shàng de dēng tǎ méi",
+          "fr/13652.mp3",
+          "zh/13652.mp3",
+          "nǐ kàn jiàn hǎi shàng de dēng tǎ méi ？",
           ""
         ],
         [
-          "Le bateau s'est échoué sur unécueil.",
-          "船在暗礁上搁浅了",
+          "Le bateau s'est échoué sur un écueil.",
+          "船在暗礁上搁浅了。",
           "",
-          "fr/02299.mp3",
-          "zh/02299.mp3",
-          "chuán zài àn jiāo shàng gē qiǎn le",
+          "fr/13653.mp3",
+          "zh/13653.mp3",
+          "chuán zài àn jiāo shàng gē qiǎn le 。",
           ""
         ],
         [
-          "C'est le réservoir d'eau potable des Québécois et I'une des plus importantes voies na- vigables du globe. Z-",
-          "它是魁北克可饮用水的蓄水池，也是全球最重要的航道之一",
+          "C'est le réservoir d'eau potable des Québécois et l'une des plus importantes voies navigables du globe.",
+          "它是魁北克可饮用水的蓄水池，也是全球最重要的航道之一。",
           "",
-          "fr/02300.mp3",
-          "zh/02300.mp3",
-          "tā shì kuí běi kè kě yǐn yòng shuǐ de xù shuǐ chí yě shì quán qiú zuì zhòng yào de háng dào zhī yī",
+          "fr/13654.mp3",
+          "zh/13654.mp3",
+          "tā shì kúi běi kè kě yǐn yòng shǔi de xù shǔi chí ， yě shì quán qiú zùi zhòng yào de háng dào zhī yī 。",
           ""
         ]
       ],
       "e": [
         [
           "击打",
-          "frapper v",
-          "",
-          "fr/02301.mp3",
-          "zh/02301.mp3",
+          "frapper",
+          "v.t.",
+          "fr/13655.mp3",
+          "zh/13655.mp3",
           "jī dǎ",
-          "[frape]"
-        ],
-        [
-          "",
-          "expédition",
-          "",
-          "fr/02302.mp3",
-          "",
-          "",
-          "[ckspedisj5]"
+          "frɑpe"
         ],
         [
           "运送",
-          "",
-          "nf.",
-          "",
-          "zh/02303.mp3",
+          "expédition",
+          "n.f.",
+          "fr/13656.mp3",
+          "zh/13656.mp3",
           "yùn sòng",
-          ""
+          "ɛkspedisjɔ̃"
         ],
         [
           "大海",
           "mer",
-          "",
-          "fr/02304.mp3",
-          "zh/02304.mp3",
+          "n.f.",
+          "fr/13657.mp3",
+          "zh/13657.mp3",
           "dà hǎi",
-          "[mar]"
+          "mɛ:r"
         ],
         [
           "暗礁",
           "écueil",
           "n.m.",
-          "fr/02305.mp3",
-          "zh/02305.mp3",
+          "fr/13658.mp3",
+          "zh/13658.mp3",
           "àn jiāo",
-          "[ekj]"
-        ],
-        [
-          "",
-          "réservoir",
-          "",
-          "fr/02306.mp3",
-          "",
-          "",
-          "[rezarvwa:r]"
+          "ekœj"
         ],
         [
           "蓄水池",
-          "n.m.k",
-          "",
-          "fr/02307.mp3",
-          "zh/02307.mp3",
-          "xù shuǐ chí",
-          ""
+          "réservoir",
+          "n.m.",
+          "fr/13659.mp3",
+          "zh/13659.mp3",
+          "xù shǔi chí",
+          "rezɛrvwa:r"
         ]
       ]
     },
@@ -3082,240 +4015,231 @@ window.BOOK_DATA[4] = {
         [
           "高速公路",
           "autoroute",
-          "",
-          "fr/02308.mp3",
-          "zh/02308.mp3",
+          "f.",
+          "fr/13660.mp3",
+          "zh/13660.mp3",
           "gāo sù gōng lù",
-          "[o)torut]"
+          "ɔ(o)tɔrut"
         ],
         [
           "高速公路",
           "route rapide",
-          "f",
-          "fr/02309.mp3",
-          "zh/02309.mp3",
+          "f.",
+          "fr/13661.mp3",
+          "zh/13661.mp3",
           "gāo sù gōng lù",
-          "[rut rapid]"
+          "rut rapid"
         ],
         [
           "环城公路",
-          "péripherique",
+          "périphérique",
           "m.",
-          "fr/02310.mp3",
-          "zh/02310.mp3",
+          "fr/13662.mp3",
+          "zh/13662.mp3",
           "huán chéng gōng lù",
-          "[periferik]"
+          "periferik"
         ],
         [
           "交叉路口",
-          "patte-doie",
+          "patte-d'oie",
           "f.",
-          "fr/02311.mp3",
-          "zh/02311.mp3",
+          "fr/13663.mp3",
+          "zh/13663.mp3",
           "jiāo chā lù kǒu",
-          "[patdwa]"
+          "patdwa"
         ],
         [
           "拐弯",
           "détour",
-          "m",
-          "fr/02312.mp3",
-          "zh/02312.mp3",
+          "m.",
+          "fr/13664.mp3",
+          "zh/13664.mp3",
           "guǎi wān",
-          "[detur]"
+          "detu:r"
         ],
         [
           "拐弯",
-          "tourner t",
-          "",
-          "fr/02313.mp3",
-          "zh/02313.mp3",
+          "tourner",
+          "v.t.",
+          "fr/13665.mp3",
+          "zh/13665.mp3",
           "guǎi wān",
-          "[turne]"
+          "turne"
         ],
         [
           "岔道",
           "bifurcation",
           "f.",
-          "fr/02314.mp3",
-          "zh/02314.mp3",
+          "fr/13666.mp3",
+          "zh/13666.mp3",
           "chà dào",
-          "[bifyrka(a)sj5]"
+          "bifyrka(ɑ)sjɔ̃"
         ],
         [
           "道路曲折",
           "twist",
           "m.",
-          "fr/02315.mp3",
-          "zh/02315.mp3",
+          "fr/13667.mp3",
+          "zh/13667.mp3",
           "dào lù qū zhé",
-          "[twist]"
+          "twist"
         ],
         [
           "车道",
           "chaussée",
           "f.",
-          "fr/02316.mp3",
-          "zh/02316.mp3",
+          "fr/13668.mp3",
+          "zh/13668.mp3",
           "chē dào",
-          "[Sose]"
+          "ʃose"
         ],
         [
           "慢行车道",
-          "troisieme voie",
+          "troisième voie",
           "f.",
-          "fr/02317.mp3",
-          "zh/02317.mp3",
+          "fr/13669.mp3",
+          "zh/13669.mp3",
           "màn xíng chē dào",
-          "[trwa(a)zjem vwa]"
+          "trwɑ(ɑ)zjɛm vwa"
         ],
         [
           "快行车道",
           "voie express",
           "inv.",
-          "fr/02318.mp3",
-          "zh/02318.mp3",
+          "fr/13670.mp3",
+          "zh/13670.mp3",
           "kuài xíng chē dào",
-          "[vwa ekspres]"
+          "vwa ɛkspres"
         ],
         [
           "超车",
           "devancement",
           "m.",
-          "fr/02319.mp3",
-          "zh/02319.mp3",
+          "fr/13671.mp3",
+          "zh/13671.mp3",
           "chāo chē",
-          "[d(a)väsma]"
+          "d(ə)vɑ̃smɑ̃"
         ],
         [
           "收费的高速路",
-          "auto- route ä péage otoruta pea:3l",
+          "autoroute à péage",
           "f.",
-          "fr/02320.mp3",
-          "zh/02320.mp3",
+          "fr/13672.mp3",
+          "zh/13672.mp3",
           "shōu fèi de gāo sù lù",
-          ""
+          "ɔ(o)tɔrut a pea:ʒ"
         ],
         [
           "收费的",
-          "payante",
-          "",
-          "fr/02321.mp3",
-          "zh/02321.mp3",
+          "payant, e",
+          "形",
+          "fr/13673.mp3",
+          "zh/13673.mp3",
           "shōu fèi de",
-          "[peja,at]"
+          "pejɑ̃, ɑ̃t"
         ],
         [
           "收费站",
           "péage",
           "m.",
-          "fr/02322.mp3",
-          "zh/02322.mp3",
+          "fr/13674.mp3",
+          "zh/13674.mp3",
           "shōu fèi zhàn",
-          "[peaiy]"
+          "pea:ʒ"
         ],
         [
           "超速",
-          "survitesse ].",
-          "",
-          "fr/02323.mp3",
-          "zh/02323.mp3",
+          "survitesse",
+          "f.",
+          "fr/13675.mp3",
+          "zh/13675.mp3",
           "chāo sù",
-          "[syrvites]"
+          "syrvites"
         ],
         [
           "限度",
           "limite",
-          "",
-          "fr/02324.mp3",
-          "zh/02324.mp3",
+          "f.",
+          "fr/13676.mp3",
+          "zh/13676.mp3",
           "xiàn dù",
-          "[limit]"
+          "limit"
         ]
       ],
       "s": [
         [
-          "] Ils klaxonnent a vous, parce que vous conduisez trop lentement dans la voie rapide. ET.",
-          "他们对你按喇叭是因为你在快车道上开得太慢了",
+          "Ils klaxonnent à vous, parce que vous conduisez trop lentement dans la voie rapide.",
+          "他们对你按喇叭是因为你在快车道上开得太慢了。",
           "《绝望的主妇》",
-          "fr/02325.mp3",
-          "zh/02325.mp3",
-          "tā men duì nǐ àn lǎ bā shì yīn wèi nǐ zài kuài chē dào shàng kāi dé tài màn le",
+          "fr/13677.mp3",
+          "zh/13677.mp3",
+          "tā men dùi nǐ àn lǎ bā shì yīn wèi nǐ zài kuài chē dào shàng kāi dé tài màn le 。",
           ""
         ],
         [
-          "Nous marchons dans la bifurcation de la route,vous tournez a gauche,je tourne a droite.X",
-          "我们走在分叉路口你向左，我向右。",
+          "Nous marchons dans la bifurcation de la route, vous tournez à gauche, je tourne à droite.",
+          "我们走在分叉路口，你向左，我向右。",
           "",
-          "fr/02326.mp3",
-          "zh/02326.mp3",
-          "wǒ men zǒu zài fēn chà lù kǒu nǐ xiàng zuǒ wǒ xiàng yòu",
+          "fr/13678.mp3",
+          "zh/13678.mp3",
+          "wǒ men zǒu zài fēn chā lù kǒu ， nǐ xiàng zuǒ ， wǒ xiàng yòu 。",
           ""
         ],
         [
-          "Lors de l'accident,elle traversaitlachaussée. E.",
-          "事故发生时她正横穿马路",
+          "Lors de l'accident, elle traversait la chaussée.",
+          "事故发生时，她正横穿马路。",
           "",
-          "fr/02327.mp3",
-          "zh/02327.mp3",
-          "shì gù fā shēng shí tā zhèng héng chuān mǎ lù",
+          "fr/13679.mp3",
+          "zh/13679.mp3",
+          "shì gù fā shēng shí ， tā zhèng héng chuān mǎ lù 。",
           ""
         ],
         [
-          "LAgence nationale zam- bienne des fonds du réseau routier a élaboré un pro- gramme décennal a hauteur de 1,6 milliard de dollars,destine a l'expansion,la mise a niveau et la maintenance des routes,y compris la construction d'au toroutes a péage en faisant appel a des partenariats pu- blic-prive.",
+          "L'Agence nationale zambienne des fonds du réseau routier a élaboré un programme décennal à hauteurde 1,6 milliard de dollars, destiné à l'expansion, la mise à niveau et la maintenance des routes, y comprisla construction d'autoroutes à péage en faisant appel à des partenariats public-privé.",
           "赞比亚国家道路基金机构制订了一个为期十年的16亿美元方案，扩展、提升和维修道路，包括利用公私伙伴关系建设收费公路。",
           "",
-          "fr/02328.mp3",
-          "zh/02328.mp3",
-          "zàn bǐ yà guó jiā dào lù jī jīn jī gòu zhì dìng le yí gè wéi qī shí nián de yì měi yuán fāng àn kuò zhǎn tí shēng hé wéi xiū dào lù bāo kuò lì yòng gōng sī huǒ bàn guān xì jiàn shè shōu fèi gōng lù",
+          "fr/13680.mp3",
+          "zh/13680.mp3",
+          "zàn bǐ yà guó jiā dào lù jī jīn jī gòu zhì dìng le yí gè wèi qī shí nián de 1 6 yì měi yuán fāng àn ， kuò zhǎn 、 tí shēng hé wéi xiū dào lù ， bāo kuò lì yòng gōng sī huǒ bàn guān xì jiàn shè shōu fèi gōng lù 。",
           ""
         ],
         [
-          "C'est aux passagers de ré- gler le peage.",
-          "过路费过桥费应由乘客支付。",
+          "C'est aux passagers de régler le péage.",
+          "过路费、过桥费应由乘客支付。",
           "",
-          "fr/02329.mp3",
-          "zh/02329.mp3",
-          "guò lù fèi guò qiáo fèi yīng yóu chéng kè zhī fù",
+          "fr/13681.mp3",
+          "zh/13681.mp3",
+          "guò lù fèi 、 guò qiáo fèi yīng yóu chéng kè zhī fù 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "klaxonner",
-          "vi.",
-          "fr/02330.mp3",
-          "",
-          "",
-          "[klaksone]"
-        ],
-        [
           "按汽车喇叭",
-          "",
-          "",
-          "",
-          "zh/02331.mp3",
+          "klaxonner",
+          "v.i.",
+          "fr/13682.mp3",
+          "zh/13682.mp3",
           "àn qì chē lǎ bā",
-          ""
+          "klaksɔne"
         ],
         [
           "事故",
           "accident",
           "n.m.",
-          "fr/02332.mp3",
-          "zh/02332.mp3",
+          "fr/13683.mp3",
+          "zh/13683.mp3",
           "shì gù",
-          "[aksida]"
+          "aksidɑ̃"
         ],
         [
           "使遵守规则",
           "régler",
-          "vt",
-          "fr/02333.mp3",
-          "zh/02333.mp3",
-          "shǐ zūn shǒu guī zé",
-          "[regle]"
+          "v.t.",
+          "fr/13684.mp3",
+          "zh/13684.mp3",
+          "shǐ zūn shǒu gūi zé",
+          "regle"
         ]
       ]
     },
@@ -3325,268 +4249,241 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "红绿灯",
-          "feux de cir culation",
-          "",
-          "fr/02334.mp3",
-          "zh/02334.mp3",
+          "feux de circulation",
+          "名",
+          "fr/13685.mp3",
+          "zh/13685.mp3",
           "hóng lǜ dēng",
-          "[fa d(a sirkyla(a)sj5]"
+          "fø d(ə) sirkyla(ə)sjɔ̃"
         ],
         [
           "规则",
-          "regle",
-          "f",
-          "fr/02335.mp3",
-          "zh/02335.mp3",
-          "guī zé",
-          "[regl]"
+          "règle",
+          "f.",
+          "fr/13686.mp3",
+          "zh/13686.mp3",
+          "gūi zé",
+          "rɛgl"
         ],
         [
           "交通规则",
-          "code dela route",
+          "code de la route",
           "m.",
-          "fr/02336.mp3",
-          "zh/02336.mp3",
-          "jiāo tōng guī zé",
-          "[kod d(a) la rut]"
+          "fr/13687.mp3",
+          "zh/13687.mp3",
+          "jiāo tōng gūi zé",
+          "kɔd d(ə) la rut"
         ],
         [
           "相反的",
           "contraire",
-          "",
-          "fr/02337.mp3",
-          "zh/02337.mp3",
+          "形",
+          "fr/13688.mp3",
+          "zh/13688.mp3",
           "xiāng fǎn de",
-          "[kštreir]"
+          "kɔ̃trɛ:r"
         ],
         [
           "路牌",
           "poteau indicateur",
           "m.",
-          "fr/02338.mp3",
-          "zh/02338.mp3",
+          "fr/13689.mp3",
+          "zh/13689.mp3",
           "lù pái",
-          "[poto &dikatc:r]"
+          "pɔto ɛ̃d ikatœ:r"
         ],
         [
           "交通标志",
           "panneaux de signalisation",
           "f.",
-          "fr/02339.mp3",
-          "zh/02339.mp3",
+          "fr/13690.mp3",
+          "zh/13690.mp3",
           "jiāo tōng biāo zhì",
-          "[pano d(a) sinaliza(a)sjδ]"
+          "pano d(ə) sinaliza(ə)sjɔ̃"
         ],
         [
           "绕过",
-          "contourner t.",
-          "",
-          "fr/02340.mp3",
-          "zh/02340.mp3",
+          "contourner",
+          "v.t.",
+          "fr/13691.mp3",
+          "zh/13691.mp3",
           "rào guò",
-          "[kšturne]"
+          "kɔ̃turne"
         ],
         [
           "绿化带",
           "espace vert",
           "m.",
-          "fr/02341.mp3",
-          "zh/02341.mp3",
+          "fr/13692.mp3",
+          "zh/13692.mp3",
           "lǜ huà dài",
-          "[Espas verr]"
+          "ɛspas vɛ:r"
         ],
         [
           "关闭的",
-          "clos,e",
-          "",
-          "fr/02342.mp3",
-          "zh/02342.mp3",
+          "clos, e",
+          "形",
+          "fr/13693.mp3",
+          "zh/13693.mp3",
           "guān bì de",
-          "[klo,o]"
+          "klo, o:z"
         ],
         [
           "信号灯",
           "signal",
-          "m",
-          "fr/02343.mp3",
-          "zh/02343.mp3",
+          "m.",
+          "fr/13694.mp3",
+          "zh/13694.mp3",
           "xìn hào dēng",
-          "[sinal]"
+          "siɲal"
         ],
         [
           "跟随",
           "suivre",
-          "",
-          "fr/02344.mp3",
-          "zh/02344.mp3",
-          "gēn suí",
-          "[syivr]"
+          "v.t.",
+          "fr/13695.mp3",
+          "zh/13695.mp3",
+          "gēn súi",
+          "sɥi:vr"
         ],
         [
           "路边",
           "bord de la route",
           "m.",
-          "fr/02345.mp3",
-          "zh/02345.mp3",
+          "fr/13696.mp3",
+          "zh/13696.mp3",
           "lù biān",
-          "[bo:r d(a) la rut]"
+          "bɔ:r d(ə) la rut"
         ],
         [
           "道路施工",
-          "Iconstruction de la route",
+          "construction de la route",
           "f.",
-          "fr/02346.mp3",
-          "zh/02346.mp3",
+          "fr/13697.mp3",
+          "zh/13697.mp3",
           "dào lù shī gōng",
-          "[köstryksjδ d(a) la rut]"
+          "kɔ̃stryksjɔ̃ d(ə) la rut"
         ],
         [
           "红灯",
-          "T feu rouge",
+          "feu rouge",
           "m.",
-          "fr/02347.mp3",
-          "zh/02347.mp3",
+          "fr/13698.mp3",
+          "zh/13698.mp3",
           "hóng dēng",
-          "[fo ru:3]"
+          "fø ru:ʒ"
         ],
         [
           "维持治安",
-          "maintenir I'ordret",
-          "",
-          "fr/02348.mp3",
-          "zh/02348.mp3",
+          "maintenir l'ordre",
+          "v.t.",
+          "fr/13699.mp3",
+          "zh/13699.mp3",
           "wéi chí zhì ān",
-          "[m&ta)nir brdr]"
+          "mɛ̃t(ə)nir lɔrdr"
         ],
         [
           "绿灯",
-          "T feu vert [fa ver",
-          "m",
-          "fr/02349.mp3",
-          "zh/02349.mp3",
+          "feu vert",
+          "m.",
+          "fr/13700.mp3",
+          "zh/13700.mp3",
           "lǜ dēng",
-          ""
+          "fø vɛr"
         ],
         [
           "黄灯",
-          "feu jaune fo 30rn]",
+          "feu jaune",
           "m.",
-          "fr/02350.mp3",
-          "zh/02350.mp3",
+          "fr/13701.mp3",
+          "zh/13701.mp3",
           "huáng dēng",
-          ""
+          "fø ʒo:n"
         ],
         [
           "尾灯",
-          "T feu arriere",
+          "feu arrière",
           "m.",
-          "fr/02351.mp3",
-          "zh/02351.mp3",
+          "fr/13702.mp3",
+          "zh/13702.mp3",
           "wěi dēng",
-          "[f arjezr]"
+          "fø arjɛ:r"
         ]
       ],
       "s": [
         [
-          "Jai fait une marque dans la marge, vous connaissez les signes correspondants.",
+          "J'ai fait une marque dans la marge, vous connaissez les signes correspondants.",
           "我在空白处做了标记，你知道对应的路标。",
-          "一《越狱》",
-          "fr/02352.mp3",
-          "zh/02352.mp3",
-          "wǒ zài kòng bái chù zuò le biāo jì nǐ zhī dào duì yìng de lù biāo",
+          "《越狱》",
+          "fr/13703.mp3",
+          "zh/13703.mp3",
+          "wǒ zài kōng bái chù zuò le biāo jì ， nǐ zhī dào dùi yīng de lù biāo 。",
           ""
         ],
         [
           "La douceur est le contraire de la violence.",
           "温柔与粗暴相对立。",
           "",
-          "fr/02353.mp3",
-          "zh/02353.mp3",
-          "wēn róu yǔ cū bào xiāng duì lì",
+          "fr/13704.mp3",
+          "zh/13704.mp3",
+          "wēn róu yǔ cū bào xiāng dùi lì 。",
           ""
         ],
         [
-          "Je tiens á contourner toutes les douleurs impuissantes pour vous rencontrer ä nouveau.",
+          "Je tiens à contourner toutes les douleurs impuissantes pour vous rencontrer à nouveau.",
           "我想绕过所有的无奈悲伤遇见你。",
           "",
-          "fr/02354.mp3",
-          "zh/02354.mp3",
-          "wǒ xiǎng rào guò suǒ yǒu de wú nài bēi shāng yù jiàn nǐ",
+          "fr/13705.mp3",
+          "zh/13705.mp3",
+          "wǒ xiǎng rào guò suǒ yǒu de wú nài bēi shāng yù jiàn nǐ 。",
           ""
         ],
         [
-          "Mes chers compatriotes, j'ai confiance dans les forces de la France.Je suis certain du chemin qu'il nous faut suivre",
+          "Mes chers compatriotes, j'ai confiance dans les forces de la France. Je suis certain du chemin qu'il nousfaut suivre.",
           "亲爱的同胞们，我对法国人民的聪明才干充满信心。我对我们共同前进的方向充满信心。",
           "",
-          "fr/02355.mp3",
-          "zh/02355.mp3",
-          "qīn ài de tóng bāo men wǒ duì fǎ guó rén mín de cōng míng cái gàn chōng mǎn xìn xīn wǒ duì wǒ men gòng tóng qián jìn de fāng xiàng chōng mǎn xìn xīn",
+          "fr/13706.mp3",
+          "zh/13706.mp3",
+          "qīn ài de tóng bāo men ， wǒ dùi fǎ guó rén mín de cōng míng cái gàn chōng mǎn xìn xīn 。 wǒ dùi wǒ men gòng tóng qián jìn de fāng xiàng chōng mǎn xìn xīn 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "页面空白处",
           "marge",
           "n.f.",
-          "fr/02356.mp3",
-          "",
-          "",
-          "[mar3]"
+          "fr/13707.mp3",
+          "zh/13707.mp3",
+          "yè miàn kōng bái chù",
+          "marʒ"
         ],
         [
-          "页面空白处",
-          "",
-          "",
-          "",
-          "zh/02357.mp3",
-          "yè miàn kòng bái chù",
-          ""
-        ],
-        [
-          "",
-          "correspondant,e",
-          "",
-          "fr/02358.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "一致的相应的",
-          "",
-          "",
-          "",
-          "zh/02359.mp3",
-          "yí zhì de xiāng yìng de",
-          ""
+          "一致的，相应的",
+          "correspondant, e",
+          "adj.",
+          "fr/13708.mp3",
+          "zh/13708.mp3",
+          "yí zhì de ， xiāng yīng de",
+          "kɔrespɔ̃dɑ̃, ɑ̃:t"
         ],
         [
           "暴力",
           "violence",
-          "f.",
-          "fr/02360.mp3",
-          "zh/02360.mp3",
+          "n.f.",
+          "fr/13709.mp3",
+          "zh/13709.mp3",
           "bào lì",
-          "[vjoläs]"
-        ],
-        [
-          "",
-          "compatriote",
-          "",
-          "fr/02361.mp3",
-          "",
-          "",
-          "[kpatrijot]"
+          "vjɔlɑ̃:s"
         ],
         [
           "同胞",
-          "",
-          "",
-          "",
-          "zh/02362.mp3",
+          "compatriote",
+          "n.",
+          "fr/13710.mp3",
+          "zh/13710.mp3",
           "tóng bāo",
-          ""
+          "kɔ̃patrijɔt"
         ]
       ]
     },
@@ -3597,276 +4494,240 @@ window.BOOK_DATA[4] = {
         [
           "海关",
           "douane",
-          "f",
-          "fr/02363.mp3",
-          "zh/02363.mp3",
+          "f.",
+          "fr/13711.mp3",
+          "zh/13711.mp3",
           "hǎi guān",
-          "[dwan]"
+          "dwan"
         ],
         [
           "海关人员",
-          "douanier,ere",
+          "douanier, ère",
           "m.",
-          "fr/02364.mp3",
-          "zh/02364.mp3",
+          "fr/13712.mp3",
+          "zh/13712.mp3",
           "hǎi guān rén yuán",
-          "[dwanje,er]"
+          "dwanje, ɛ:r"
         ],
         [
           "税",
           "taxe",
-          "",
-          "fr/02365.mp3",
-          "zh/02365.mp3",
-          "shuì",
-          "[taks]"
+          "f.",
+          "fr/13713.mp3",
+          "zh/13713.mp3",
+          "shùi",
+          "taks"
         ],
         [
           "申报",
-          "déclaration .",
-          "",
-          "fr/02366.mp3",
-          "zh/02366.mp3",
+          "déclaration",
+          "f.",
+          "fr/13714.mp3",
+          "zh/13714.mp3",
           "shēn bào",
-          "[deklara(a)sj5]"
+          "deklara(ɑ)sjɔ̃"
         ],
         [
           "书面通知",
-          "noticeécrite",
+          "notice écrite",
           "f.",
-          "fr/02367.mp3",
-          "zh/02367.mp3",
+          "fr/13715.mp3",
+          "zh/13715.mp3",
           "shū miàn tōng zhī",
-          "[notis ekrit]"
+          "nɔtis ekrit"
         ],
         [
           "报关员",
           "déclarant en douane",
           "m.",
-          "fr/02368.mp3",
-          "zh/02368.mp3",
+          "fr/13716.mp3",
+          "zh/13716.mp3",
           "bào guān yuán",
-          "[deklarää dwan]"
+          "deklarɑ̃ ɑ̃ dwan"
         ],
         [
           "关税",
           "droits de douane",
           "m.",
-          "fr/02369.mp3",
-          "zh/02369.mp3",
-          "guān shuì",
-          "[drwa(a)t d(a) dwan]"
+          "fr/13717.mp3",
+          "zh/13717.mp3",
+          "guān shùi",
+          "drwa(ɑ)t d(ə) dwan"
         ],
         [
           "免税的",
           "franche",
-          "",
-          "fr/02370.mp3",
-          "zh/02370.mp3",
-          "miǎn shuì de",
-          "[fra]"
+          "形",
+          "fr/13718.mp3",
+          "zh/13718.mp3",
+          "miǎn shùi de",
+          "frɑ̃ʃ"
         ],
         [
           "免税港",
           "port franc",
           "m.",
-          "fr/02371.mp3",
-          "zh/02371.mp3",
-          "miǎn shuì gǎng",
-          "[po:rfräk]"
+          "fr/13719.mp3",
+          "zh/13719.mp3",
+          "miǎn shùi gǎng",
+          "pɔ:r frɑ̃k"
         ],
         [
           "手续",
           "procédure",
-          "f",
-          "fr/02372.mp3",
-          "zh/02372.mp3",
+          "f.",
+          "fr/13720.mp3",
+          "zh/13720.mp3",
           "shǒu xù",
-          "[prosedyir]"
+          "prɔsedy:r"
         ],
         [
           "没收",
-          "confisquer .",
-          "",
-          "fr/02373.mp3",
-          "zh/02373.mp3",
-          "mò shōu",
-          "[kfiske]"
+          "confisquer",
+          "v.t.",
+          "fr/13721.mp3",
+          "zh/13721.mp3",
+          "méi shōu",
+          "kɔ̃fiske"
         ],
         [
           "进口",
           "importer",
-          "",
-          "fr/02374.mp3",
-          "zh/02374.mp3",
+          "v.t.",
+          "fr/13722.mp3",
+          "zh/13722.mp3",
           "jìn kǒu",
-          "[&porte]"
+          "ɛ̃p ɔrte"
         ],
         [
           "出口",
-          "exporter t.",
-          "",
-          "fr/02375.mp3",
-          "zh/02375.mp3",
+          "exporter",
+          "v.t.",
+          "fr/13723.mp3",
+          "zh/13723.mp3",
           "chū kǒu",
-          "[eksporte]"
+          "ɛkspɔrte"
         ],
         [
           "倾销",
           "dumping",
           "m.",
-          "fr/02376.mp3",
-          "zh/02376.mp3",
+          "fr/13724.mp3",
+          "zh/13724.mp3",
           "qīng xiāo",
-          "[dmpin]"
+          "dœmpiŋ"
         ],
         [
           "许可",
-          "permettre t.",
-          "",
-          "fr/02377.mp3",
-          "zh/02377.mp3",
+          "permettre",
+          "v.t.",
+          "fr/13725.mp3",
+          "zh/13725.mp3",
           "xǔ kě",
-          "[permetr]"
+          "permɛtr"
         ],
         [
           "海关手续",
-          "formalités douanieres",
-          "",
-          "fr/02378.mp3",
-          "zh/02378.mp3",
+          "formalités douanières",
+          "名",
+          "fr/13726.mp3",
+          "zh/13726.mp3",
           "hǎi guān shǒu xù",
-          "[forma- lide dwanje:r]"
+          "fɔrmalite dwanje:r"
         ],
         [
           "海关费",
           "frais de douane",
           "m.",
-          "fr/02379.mp3",
-          "zh/02379.mp3",
+          "fr/13727.mp3",
+          "zh/13727.mp3",
           "hǎi guān fèi",
-          "[fre da dwan]"
+          "fre d(ə) dwan"
         ],
         [
           "海关检查",
-          "visitede douane",
+          "visite de douane",
           "f.",
-          "fr/02380.mp3",
-          "zh/02380.mp3",
+          "fr/13728.mp3",
+          "zh/13728.mp3",
           "hǎi guān jiǎn chá",
-          "[visit da dwan]"
+          "visit d(ə) dwan"
         ]
       ],
       "s": [
         [
-          "Nous sommes a l'applica tion des mesures douanieres delimmigration.",
+          "Nous sommes à l'application des mesures douanières de l'immigration.",
           "我们是移民局海关执法处的。",
           "《丑女贝蒂》",
-          "fr/02381.mp3",
-          "zh/02381.mp3",
-          "wǒ men shì yí mín jú hǎi guān zhí fǎ chù de",
+          "fr/13729.mp3",
+          "zh/13729.mp3",
+          "wǒ men shì yí mín jú hǎi guān zhí fǎ chù de 。",
           ""
         ],
         [
-          "Les importateurs sont au- torisés chaque mois a déduire de la taxe a payer sur leurs ventes la taxe acquittée des services douaniers. ft",
-          "进口商每个月可以从其应缴的销售交易税中扣减已经缴纳的海关服务税",
+          "Les importateurs sont autorisés chaque mois à déduire de la taxe à payer sur leurs ventes la taxeacquittée des services douaniers.",
+          "进口商每个月可以从其应缴的销售交易税中扣减已经缴纳的海关服务税。",
           "",
-          "fr/02382.mp3",
-          "zh/02382.mp3",
-          "jìn kǒu shāng měi gè yuè kě yǐ cóng qí yīng jiǎo de xiāo shòu jiāo yì shuì zhōng kòu jiǎn yǐ jīng jiǎo nà de hǎi guān fú wù shuì",
+          "fr/13730.mp3",
+          "zh/13730.mp3",
+          "jìn kǒu shāng měi gè yuè kě yǐ cóng qí yīng jiǎo de xiāo shòu jiāo yì shùi zhōng kòu jiǎn yǐ jīng jiǎo nà de hǎi guān fú wù shùi 。",
           ""
         ],
         [
-          "Permettre a nos produits detre plus saines et vertes,la satisfaction de la clientele!i",
+          "Permettre à nos produits d'être plus saines et vertes, la satisfaction de la clientèle!",
           "让我们的产品更加绿色健康，顾客满意！",
           "",
-          "fr/02383.mp3",
-          "zh/02383.mp3",
-          "ràng wǒ men de chǎn pǐn gèng jiā lǜ sè jiàn kāng gù kè mǎn yì",
+          "fr/13731.mp3",
+          "zh/13731.mp3",
+          "ràng wǒ men de chǎn pǐn gèng jiā lǜ sè jiàn kāng ， gù kè mǎn yì ！",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "immigration",
-          "",
-          "fr/02384.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "入境移民",
-          "ABE",
-          "",
-          "fr/02385.mp3",
-          "zh/02385.mp3",
+          "immigration",
+          "n.f.",
+          "fr/13732.mp3",
+          "zh/13732.mp3",
           "rù jìng yí mín",
-          ""
-        ],
-        [
-          "",
-          "importateurtric",
-          "",
-          "fr/02386.mp3",
-          "",
-          "",
-          ""
+          "im(m)igra(ɑ)sjɔ̃"
         ],
         [
           "进口商",
-          "portatr,tris]n",
-          "",
-          "fr/02387.mp3",
-          "zh/02387.mp3",
+          "importateur, tric",
+          "n.",
+          "fr/13733.mp3",
+          "zh/13733.mp3",
           "jìn kǒu shāng",
-          ""
+          "ɛ̃p ɔrtatœ:r, tris"
         ],
         [
           "扣除",
-          "déduire.",
-          "",
-          "fr/02388.mp3",
-          "zh/02388.mp3",
+          "déduire",
+          "v.t.",
+          "fr/13734.mp3",
+          "zh/13734.mp3",
           "kòu chú",
-          "[dedyir]"
-        ],
-        [
-          "",
-          "acquitté,e",
-          "adj",
-          "fr/02389.mp3",
-          "",
-          "",
-          "[akite]"
+          "dedɥi:r"
         ],
         [
           "支付的",
-          "",
-          "",
-          "",
-          "zh/02390.mp3",
+          "acquitté, e",
+          "adj.",
+          "fr/13735.mp3",
+          "zh/13735.mp3",
           "zhī fù de",
-          ""
-        ],
-        [
-          "",
-          "satisfaction",
-          "",
-          "fr/02391.mp3",
-          "",
-          "",
-          "[satisfaksj]"
+          "akite"
         ],
         [
           "满意",
-          "nf",
-          "m",
-          "fr/02392.mp3",
-          "zh/02392.mp3",
+          "satisfaction",
+          "n.f.",
+          "fr/13736.mp3",
+          "zh/13736.mp3",
           "mǎn yì",
-          ""
+          "satisfaksjɔ̃"
         ]
       ]
     },
@@ -3875,233 +4736,215 @@ window.BOOK_DATA[4] = {
       "name": "开车各种状况",
       "w": [
         [
-          "加速加速",
-          "accélérer presser t.",
-          "",
-          "fr/02393.mp3",
-          "zh/02393.mp3",
-          "jiā sù jiā sù",
-          "[akselere]"
+          "加速",
+          "accélérer",
+          "v.i.",
+          "fr/13737.mp3",
+          "zh/13737.mp3",
+          "jiā sù",
+          "aksɛlere"
+        ],
+        [
+          "加速",
+          "presser",
+          "v.i.",
+          "fr/13738.mp3",
+          "zh/13738.mp3",
+          "jiā sù",
+          "prɛ(e)se"
         ],
         [
           "减速",
           "ralentir",
-          "",
-          "fr/02394.mp3",
-          "zh/02394.mp3",
+          "v.i.",
+          "fr/13739.mp3",
+          "zh/13739.mp3",
           "jiǎn sù",
-          "[ralatir]"
+          "ralɑ̃ti:r"
         ],
         [
           "拥挤不堪的",
-          "encombré,e",
-          "",
-          "fr/02395.mp3",
-          "zh/02395.mp3",
+          "encombré, e",
+          "形",
+          "fr/13740.mp3",
+          "zh/13740.mp3",
           "yōng jǐ bù kān de",
-          "[äkbre]"
+          "ɑ̃kɔ̃bʀe"
         ],
         [
           "失灵",
-          "fonctionner mal i.",
-          "",
-          "fr/02396.mp3",
-          "zh/02396.mp3",
+          "fonctionner mal",
+          "v.i.",
+          "fr/13741.mp3",
+          "zh/13741.mp3",
           "shī líng",
-          "[f5ksjone mal]"
+          "fɔ̃ksjɔne mal"
         ],
         [
           "粗心的",
-          "négligente",
-          "",
-          "fr/02397.mp3",
-          "zh/02397.mp3",
+          "négligent, e",
+          "形",
+          "fr/13742.mp3",
+          "zh/13742.mp3",
           "cū xīn de",
-          "[neglizát]"
+          "neglizɑ̃, t"
         ],
         [
           "驾车",
-          "conduire .",
-          "",
-          "fr/02398.mp3",
-          "zh/02398.mp3",
+          "conduire",
+          "v.t.",
+          "fr/13743.mp3",
+          "zh/13743.mp3",
           "jià chē",
-          "[kšdui:r]"
+          "kɔ̃d4i:r"
         ],
         [
           "违章",
-          "contravention .",
-          "",
-          "fr/02399.mp3",
-          "zh/02399.mp3",
+          "contravention",
+          "f.",
+          "fr/13744.mp3",
+          "zh/13744.mp3",
           "wéi zhāng",
-          "[kštravásjö]"
+          "kɔ̃travɑ̃sjɔ̃"
         ],
         [
           "闯红灯",
-          "T griller un feu rouge",
-          "",
-          "fr/02400.mp3",
-          "zh/02400.mp3",
+          "griller un feu rouge",
+          "动",
+          "fr/13745.mp3",
+          "zh/13745.mp3",
           "chuǎng hóng dēng",
-          "[grijef ru:3]"
+          "gʀije œ fø ʀu:ʒ"
         ],
         [
           "疲劳",
-          "fatiguefatigl",
-          "",
-          "fr/02401.mp3",
-          "zh/02401.mp3",
+          "fatigue",
+          "f.",
+          "fr/13746.mp3",
+          "zh/13746.mp3",
           "pí láo",
-          ""
+          "fatig"
         ],
         [
           "撞上",
-          "buteri.",
-          "",
-          "fr/02402.mp3",
-          "zh/02402.mp3",
+          "buter",
+          "v.i.",
+          "fr/13747.mp3",
+          "zh/13747.mp3",
           "zhuàng shàng",
-          "[byte]"
+          "byte"
         ],
         [
           "相撞",
-          "heurter [certe",
-          "",
-          "fr/02403.mp3",
-          "zh/02403.mp3",
+          "heurter",
+          "v.t.",
+          "fr/13748.mp3",
+          "zh/13748.mp3",
           "xiāng zhuàng",
-          ""
+          "œʀte"
         ],
         [
           "轻微地",
-          "légerement",
-          "",
-          "fr/02404.mp3",
-          "zh/02404.mp3",
+          "légèrement",
+          "副",
+          "fr/13749.mp3",
+          "zh/13749.mp3",
           "qīng wēi dì",
-          "[lezermá]"
+          "leʒɛʀmɑ̃"
         ],
         [
           "严重的",
           "grave",
-          "",
-          "fr/02405.mp3",
-          "zh/02405.mp3",
+          "形",
+          "fr/13750.mp3",
+          "zh/13750.mp3",
           "yán zhòng de",
-          "[grav]"
+          "gʀa:v"
         ],
         [
           "速度",
           "vitesse",
-          "",
-          "fr/02406.mp3",
-          "zh/02406.mp3",
+          "f.",
+          "fr/13751.mp3",
+          "zh/13751.mp3",
           "sù dù",
-          "[vites]"
+          "vites"
         ],
         [
           "绕行",
-          "itinéraire détournélitinere:r deturne]",
+          "itinéraire détourné",
           "m.",
-          "fr/02407.mp3",
-          "zh/02407.mp3",
+          "fr/13752.mp3",
+          "zh/13752.mp3",
           "rào xíng",
-          ""
+          "itineʀe:r detuʀne"
         ],
         [
           "交通堵塞",
-          "embouteil lage",
+          "embouteillage",
           "m.",
-          "fr/02408.mp3",
-          "zh/02408.mp3",
-          "jiāo tōng dǔ sè",
-          "[ábutejaz]"
+          "fr/13753.mp3",
+          "zh/13753.mp3",
+          "jiāo tōng dǔ sāi",
+          "ɑ̃butejaʒ"
         ],
         [
           "禁止通行",
           "passage interdit",
           "m.",
-          "fr/02409.mp3",
-          "zh/02409.mp3",
+          "fr/13754.mp3",
+          "zh/13754.mp3",
           "jìn zhǐ tōng xíng",
-          "[pa(a)sa:3 Eterdit]"
+          "pa(a)sa:ʒ ɛ̃tɛʀdit"
         ]
       ],
       "s": [
         [
-          "L'amour est une catas- trophe magnifiquesavoir qu'on fonce dans un mur, et accelerer quand meme.",
-          "爱是场大不幸：明知道会撞上南墙，仍要决绝地前进，甚至于加快步伐。",
+          "L'amour est une catastrophe magnifique: savoir qu'on fonce dans un mur, et accélérer quand même.",
+          "爱是一场大不幸：明知道会撞上南墙，仍要决绝地前进，甚至于加快步伐。",
           "",
-          "fr/02410.mp3",
-          "zh/02410.mp3",
-          "ài shì chǎng dà bù xìng míng zhī dào huì zhuàng shàng nán qiáng réng yào jué jué dì qián jìn shèn zhì yú jiā kuài bù fá",
+          "fr/13755.mp3",
+          "zh/13755.mp3",
+          "ài shì yì chǎng dà bú xìng ： míng zhī dào hùi zhuàng shàng nán qiáng ， réng yào jué jué dì qián jìn ， shèn zhì yú jiā kuài bù fá 。",
           ""
         ],
         [
-          "Les heures supplemen- taires continuent, alors je me sens tres fatigu.",
-          "连续的加班让我感到很疲意。",
+          "Les heures supplémentaires continuent, alors je me sens très fatigué.",
+          "连续的加班，让我感到很疲惫。",
           "",
-          "fr/02411.mp3",
-          "zh/02411.mp3",
-          "lián xù de jiā bān ràng wǒ gǎn dào hěn pí yì",
+          "fr/13756.mp3",
+          "zh/13756.mp3",
+          "lián xù de jiā bān ， ràng wǒ gǎn dào hěn pí bèi 。",
           ""
         ],
         [
-          "Le métro est pratique, ils relient tous les endroits et ils n'ont pas de problemes d'em- bouteillage, mais dans le métro aux heures de point on a beaucoup de monde. XX EX T+",
-          "地铁很方便四通八达又不用受路上交通堵塞的限制可是上下班时间十分拥挤",
+          "Le métro est pratique, ils relient tous les endroits et ils n'ont pas de problèmes d'embouteillage, maisdans le métro aux heures de point on a beaucoup de monde.",
+          "地铁很方便，四通八达，又不用受路上交通堵塞的限制，可是上下班时间十分拥挤。",
           "",
-          "fr/02412.mp3",
-          "zh/02412.mp3",
-          "dì tiě hěn fāng biàn sì tōng bā dá yòu bù yòng shòu lù shàng jiāo tōng dǔ sè de xiàn zhì kě shì shàng xià bān shí jiān shí fēn yōng jǐ",
+          "fr/13757.mp3",
+          "zh/13757.mp3",
+          "dì tiě hěn fāng biàn ， sì tōng bā dá ， yòu bú yòng shòu lù shàng jiāo tōng dǔ sāi de xiàn zhì ， kě shì shàng xià bān shí jiān shí fēn yōng jǐ 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "catastrophe",
-          "",
-          "fr/02413.mp3",
-          "",
-          "",
-          "[katastrof]"
-        ],
-        [
           "灾难",
-          "",
-          "nf.",
-          "",
-          "zh/02414.mp3",
-          "zāi nàn",
-          ""
+          "catastrophe",
+          "n.f.",
+          "fr/13758.mp3",
+          "zh/13758.mp3",
+          "zāi nán",
+          "katastrɔf"
         ],
         [
-          "",
+          "补充的，外加的",
           "supplémentaire",
-          "",
-          "fr/02415.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "补充的外加的",
-          "",
-          "",
-          "",
-          "zh/02416.mp3",
-          "bǔ chōng de wài jiā de",
-          ""
-        ],
-        [
-          "闯红灯",
-          "Tgilerun feurouge",
-          "",
-          "fr/02417.mp3",
-          "zh/02417.mp3",
-          "chuǎng hóng dēng",
-          ""
+          "adj.",
+          "fr/13759.mp3",
+          "zh/13759.mp3",
+          "bǔ chōng de ， wài jiā de",
+          "sypləmɑ̃tɛ:r"
         ]
       ]
     },
@@ -4112,294 +4955,267 @@ window.BOOK_DATA[4] = {
         [
           "方向盘",
           "volant",
-          "m",
-          "fr/02418.mp3",
-          "zh/02418.mp3",
+          "m.",
+          "fr/13760.mp3",
+          "zh/13760.mp3",
           "fāng xiàng pán",
-          "[vola]"
+          "vɔlɑ̃"
         ],
         [
           "仪表板",
           "panneau de bord",
-          "m",
-          "fr/02419.mp3",
-          "zh/02419.mp3",
+          "m.",
+          "fr/13761.mp3",
+          "zh/13761.mp3",
           "yí biǎo bǎn",
-          "[pano dabo:r]"
+          "pano d(ə) bɔ:r"
         ],
         [
           "座椅",
-          "siege",
-          "m",
-          "fr/02420.mp3",
-          "zh/02420.mp3",
+          "siège",
+          "m.",
+          "fr/13762.mp3",
+          "zh/13762.mp3",
           "zuò yǐ",
-          "[sje]"
+          "sjɛ:ʒ"
         ],
         [
           "安全带",
-          "ceinture de sécurité /.",
-          "",
-          "fr/02421.mp3",
-          "zh/02421.mp3",
+          "ceinture de sécurité",
+          "f.",
+          "fr/13763.mp3",
+          "zh/13763.mp3",
           "ān quán dài",
-          "[setyr d(a sekyrite]"
+          "sɛtyr d(ə) sekyrite"
         ],
         [
           "里程表",
-          "carnet kilo métrique [karne",
-          "",
-          "fr/02422.mp3",
-          "zh/02422.mp3",
-          "lǐ chéng biǎo",
-          ""
-        ],
-        [
-          "机运转正常",
-          "kilometrik]",
+          "carnet kilométrique",
           "m.",
-          "fr/02423.mp3",
-          "zh/02423.mp3",
-          "jī yùn zhuàn zhèng cháng",
-          ""
+          "fr/13764.mp3",
+          "zh/13764.mp3",
+          "lǐ chéng biǎo",
+          "karne kilɔmetrik"
         ],
         [
           "车胎",
           "pneu",
-          "m",
-          "fr/02424.mp3",
-          "zh/02424.mp3",
+          "m.",
+          "fr/13765.mp3",
+          "zh/13765.mp3",
           "chē tāi",
-          "[pno]"
+          "pnø"
         ],
         [
           "挡风玻璃",
           "pare-brise",
           "inv.",
-          "fr/02425.mp3",
-          "zh/02425.mp3",
+          "fr/13766.mp3",
+          "zh/13766.mp3",
           "dǎng fēng bō lí",
-          "[par briz]"
+          "par bri:z"
         ],
         [
           "前灯",
           "phare",
-          "m",
-          "fr/02426.mp3",
-          "zh/02426.mp3",
+          "m.",
+          "fr/13767.mp3",
+          "zh/13767.mp3",
           "qián dēng",
-          "[far]"
+          "fa:r"
         ],
         [
           "速度表",
-          "chro- notachy-metre",
-          "m",
-          "fr/02427.mp3",
-          "zh/02427.mp3",
+          "chronotachy-mètre",
+          "m.",
+          "fr/13768.mp3",
+          "zh/13768.mp3",
           "sù dù biǎo",
-          "[kronotakimetr]"
+          "krɔnotakimɛtr"
         ],
         [
           "后备箱",
-          "bac deréserve",
+          "bac de réserve",
           "m.",
-          "fr/02428.mp3",
-          "zh/02428.mp3",
+          "fr/13769.mp3",
+          "zh/13769.mp3",
           "hòu bèi xiāng",
-          "[bak d(a) rezerv]"
+          "bak d(ə) rezɛrv"
         ],
         [
           "发动机",
           "moteur",
-          "m",
-          "fr/02429.mp3",
-          "zh/02429.mp3",
+          "m.",
+          "fr/13770.mp3",
+          "zh/13770.mp3",
           "fā dòng jī",
-          "[motcexr]"
+          "mɔtœ:r"
         ],
         [
           "喇叭",
           "klaxon",
-          "m",
-          "fr/02430.mp3",
-          "zh/02430.mp3",
+          "m.",
+          "fr/13771.mp3",
+          "zh/13771.mp3",
           "lǎ bā",
-          "[klaksš]"
+          "klaksɔ̃"
         ],
         [
           "车轮",
           "roue",
-          "",
-          "fr/02431.mp3",
-          "zh/02431.mp3",
+          "f.",
+          "fr/13772.mp3",
+          "zh/13772.mp3",
           "chē lún",
-          "[ru]"
+          "ru"
         ],
         [
           "保险杠",
-          "Ipare-chocs",
+          "pare-chocs",
           "inv.",
-          "fr/02432.mp3",
-          "zh/02432.mp3",
+          "fr/13773.mp3",
+          "zh/13773.mp3",
           "bǎo xiǎn gāng",
-          "[par fok]"
+          "par ʃɔk"
         ],
         [
           "离合器",
           "embrayage",
           "m.",
-          "fr/02433.mp3",
-          "zh/02433.mp3",
+          "fr/13774.mp3",
+          "zh/13774.mp3",
           "lí hé qì",
-          "[ábreja:3]"
+          "ɑ̃breja:ʒ"
         ],
         [
           "变速器",
           "variateur",
           "m.",
-          "fr/02434.mp3",
-          "zh/02434.mp3",
+          "fr/13775.mp3",
+          "zh/13775.mp3",
           "biàn sù qì",
-          "[varjatcer]"
+          "varjatœr"
         ],
         [
           "尾灯",
-          "T falot",
+          "falot",
           "m.",
-          "fr/02435.mp3",
-          "zh/02435.mp3",
+          "fr/13776.mp3",
+          "zh/13776.mp3",
           "wěi dēng",
-          "[falot]"
+          "falɔt"
         ],
         [
           "雨刷",
           "essuie-glace",
           "m.",
-          "fr/02436.mp3",
-          "zh/02436.mp3",
+          "fr/13777.mp3",
+          "zh/13777.mp3",
           "yǔ shuā",
-          "[esyi glas]"
+          "esɥi glas"
         ],
         [
           "侧镜",
           "miroir latéral",
           "m.",
-          "fr/02437.mp3",
-          "zh/02437.mp3",
+          "fr/13778.mp3",
+          "zh/13778.mp3",
           "cè jìng",
-          "[mirwazr lateral]"
+          "mirwa:r lateral"
         ]
       ],
       "s": [
         [
-          "Des jeunes boivent plus que de raison,prennent le volant et ont un accident.-",
-          "一伙年轻人在醉酒后瓶车，出了车祸。",
+          "Des jeunes boivent plus que de raison, prennent le volant et ont un accident.",
+          "一伙年轻人在醉酒后飙车，出了车祸。",
           "",
-          "fr/02438.mp3",
-          "zh/02438.mp3",
-          "yī huǒ nián qīng rén zài zuì jiǔ hòu píng chē chū le chē huò",
+          "fr/13779.mp3",
+          "zh/13779.mp3",
+          "yì huǒ nián qīng rén zài zùi jiǔ hòu biāo chē ， chū le chē huò 。",
           ""
         ],
         [
-          "Dans une automobile,les roues obeissent au volant.",
+          "Dans une automobile, les roues obéissent au volant.",
           "汽车的轮子是受方向盘控制的。",
           "",
-          "fr/02439.mp3",
-          "zh/02439.mp3",
-          "qì chē de lún zi shì shòu fāng xiàng pán kòng zhì de",
+          "fr/13780.mp3",
+          "zh/13780.mp3",
+          "qì chē de lún zi shì shòu fāng xiàng pán kòng zhì de 。",
           ""
         ],
         [
           "Le moteur tourne rond.",
-          "发",
+          "发动机运转正常。",
           "",
-          "fr/02440.mp3",
-          "zh/02440.mp3",
-          "fā",
+          "fr/13781.mp3",
+          "zh/13781.mp3",
+          "fā dòng jī yùn zhuǎn zhèng cháng 。",
           ""
         ],
         [
-          "Si les causes exactes de l'accident ne sont pas encore connues, il semblerait que la crevaison d'un pneu soit a loriginedudrame. Fis.",
-          "尽管事故的具体原因还没有查明，但迹象表明事故是一轮胎爆胎所致",
+          "Si les causes exactes de l'accident ne sont pas encore connues, il semblerait que la crevaison d'un pneusoit à l'origine du drame.",
+          "尽管事故的具体原因还没有查明，但迹象表明事故是一轮胎爆胎所致。",
           "",
-          "fr/02441.mp3",
-          "zh/02441.mp3",
-          "jǐn guǎn shì gù de jù tǐ yuán yīn hái méi yǒu chá míng dàn jì xiàng biǎo míng shì gù shì yī lún tāi bào tāi suǒ zhì",
+          "fr/13782.mp3",
+          "zh/13782.mp3",
+          "jǐn guǎn shì gù de jù tǐ yuán yīn hái méi yǒu chá míng ， dàn jì xiàng biǎo míng shì gù shì yì lún tāi bào tāi suǒ zhì 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "automobile",
-          "",
-          "fr/02442.mp3",
-          "",
-          "",
-          "[(otomobil]"
-        ],
-        [
           "汽车",
-          "",
-          "nf.",
-          "",
-          "zh/02443.mp3",
+          "automobile",
+          "n.f.",
+          "fr/13783.mp3",
+          "zh/13783.mp3",
           "qì chē",
-          ""
+          "ɔ(tɔ)mɔbil"
         ],
         [
           "顺从",
-          "obéir vt.ind.",
-          "",
-          "fr/02444.mp3",
-          "zh/02444.mp3",
+          "obéir",
+          "v.t.ind.",
+          "fr/13784.mp3",
+          "zh/13784.mp3",
           "shùn cóng",
-          "[beir]"
+          "ɔbei:r"
         ],
         [
           "方向盘",
           "volant",
           "n.m.",
-          "fr/02445.mp3",
-          "zh/02445.mp3",
+          "fr/13785.mp3",
+          "zh/13785.mp3",
           "fāng xiàng pán",
-          "[vola]"
+          "vɔlɑ̃"
         ],
         [
           "转动",
           "tourner",
-          "vi.",
-          "fr/02446.mp3",
-          "zh/02446.mp3",
+          "v.i.",
+          "fr/13786.mp3",
+          "zh/13786.mp3",
           "zhuǎn dòng",
-          "[turne]"
-        ],
-        [
-          "",
-          "crevaison .",
-          "f.",
-          "fr/02447.mp3",
-          "",
-          "",
-          "[kravez]"
+          "turne"
         ],
         [
           "破裂",
-          "",
-          "",
-          "",
-          "zh/02448.mp3",
+          "crevaison",
+          "n.f.",
+          "fr/13787.mp3",
+          "zh/13787.mp3",
           "pò liè",
-          ""
+          "kravɛzɔ̃"
         ],
         [
           "悲剧",
           "drame",
           "n.m.",
-          "fr/02449.mp3",
-          "zh/02449.mp3",
+          "fr/13788.mp3",
+          "zh/13788.mp3",
           "bēi jù",
-          "[dram]"
+          "dram"
         ]
       ]
     },
@@ -4409,295 +5225,241 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "维修",
-          "entretenir .",
-          "",
-          "fr/02450.mp3",
-          "zh/02450.mp3",
+          "entretenir",
+          "v.t.",
+          "fr/13789.mp3",
+          "zh/13789.mp3",
           "wéi xiū",
-          "[átratni:r]"
+          "ɑ̃trətni:r"
         ],
         [
           "保养",
           "entretien",
           "m.",
-          "fr/02451.mp3",
-          "zh/02451.mp3",
+          "fr/13790.mp3",
+          "zh/13790.mp3",
           "bǎo yǎng",
-          "[átratjê]"
+          "ɑ̃trətjɛ"
         ],
         [
           "修理",
           "réparer",
-          "",
-          "fr/02452.mp3",
-          "zh/02452.mp3",
+          "动",
+          "fr/13791.mp3",
+          "zh/13791.mp3",
           "xiū lǐ",
-          "[repare]"
+          "repɑ̃re"
         ],
         [
           "修理",
-          "remettre en état t.",
-          "",
-          "fr/02454.mp3",
-          "zh/02454.mp3",
+          "remettre en état",
+          "v.t.",
+          "fr/13792.mp3",
+          "zh/13792.mp3",
           "xiū lǐ",
-          "[ra)metr á eta]"
+          "r(ə)mɛtr ɑ̃ eta"
         ],
         [
           "润滑",
           "lubrifier",
-          "",
-          "fr/02455.mp3",
-          "zh/02455.mp3",
+          "v.t.",
+          "fr/13793.mp3",
+          "zh/13793.mp3",
           "rùn huá",
-          "[lybrifje]"
+          "lybrifje"
         ],
         [
           "发电机",
-          "géneratrice /.",
-          "",
-          "fr/02456.mp3",
-          "zh/02456.mp3",
+          "génératrice",
+          "f.",
+          "fr/13794.mp3",
+          "zh/13794.mp3",
           "fā diàn jī",
-          "[zeneratris]"
+          "ʒeneratris"
         ],
         [
           "生锈的",
           "enrouillé",
-          "",
-          "fr/02457.mp3",
-          "zh/02457.mp3",
+          "形",
+          "fr/13795.mp3",
+          "zh/13795.mp3",
           "shēng xiù de",
-          "[äruje]"
+          "ɑ̃ruje"
         ],
         [
-          "阀门活塞",
-          "valve pisto",
-          "nm.",
-          "fr/02458.mp3",
-          "zh/02458.mp3",
-          "fá mén huó sāi",
-          "[valv]"
+          "阀门",
+          "valve",
+          "f.",
+          "fr/13796.mp3",
+          "zh/13796.mp3",
+          "fá mén",
+          "valv"
+        ],
+        [
+          "活塞",
+          "piston",
+          "m.",
+          "fr/13797.mp3",
+          "zh/13797.mp3",
+          "huó sāi",
+          "pistɔ̃"
         ],
         [
           "打蜡",
           "cirer",
-          "",
-          "fr/02459.mp3",
-          "zh/02459.mp3",
+          "v.t.",
+          "fr/13798.mp3",
+          "zh/13798.mp3",
           "dǎ là",
-          "[sire]"
+          "sire"
         ],
         [
           "千斤顶",
           "cric",
-          "m",
-          "fr/02460.mp3",
-          "zh/02460.mp3",
+          "m.",
+          "fr/13799.mp3",
+          "zh/13799.mp3",
           "qiān jīn dǐng",
-          "[krik]"
+          "krik"
         ],
         [
           "防冻装置",
           "dégelant",
           "m.",
-          "fr/02461.mp3",
-          "zh/02461.mp3",
+          "fr/13800.mp3",
+          "zh/13800.mp3",
           "fáng dòng zhuāng zhì",
-          "[deglá]"
+          "deglɑ̃"
         ],
         [
           "机械的",
           "mécanique",
-          "",
-          "fr/02462.mp3",
-          "zh/02462.mp3",
+          "形",
+          "fr/13801.mp3",
+          "zh/13801.mp3",
           "jī xiè de",
-          "[mekanik]"
+          "mekanik"
         ],
         [
           "打滑",
-          "Tdérapement",
+          "dérapement",
           "m.",
-          "fr/02463.mp3",
-          "zh/02463.mp3",
+          "fr/13802.mp3",
+          "zh/13802.mp3",
           "dǎ huá",
-          "[derapma]"
+          "derapmɑ̃"
         ],
         [
           "过热",
-          "surchauffe .",
-          "",
-          "fr/02464.mp3",
-          "zh/02464.mp3",
+          "surchauffe",
+          "f.",
+          "fr/13803.mp3",
+          "zh/13803.mp3",
           "guò rè",
-          "[syrfof]"
+          "syrʃof"
         ],
         [
-          "拆卸维修",
-          "démontage entretenir",
-          "",
-          "fr/02465.mp3",
-          "zh/02465.mp3",
-          "chāi xiè wéi xiū",
-          "[dem5ta:3]"
+          "拆卸",
+          "démontage",
+          "m.",
+          "fr/13804.mp3",
+          "zh/13804.mp3",
+          "chāi xiè",
+          "demɔ̃ta:ʒ"
         ]
       ],
       "s": [
         [
-          "Assis dans la voiture sans un entretien régulier,je me suis senti un peu inquiet.",
-          "坐在没有定期维修的车子里，我",
+          "Assis dans la voiture sans un entretien régulier, je me suis senti un peu inquiet.",
+          "坐在没有定期维修的车子里，我感到有点担心。",
           "",
-          "fr/02466.mp3",
-          "zh/02466.mp3",
-          "zuò zài méi yǒu dìng qī wéi xiū de chē zi lǐ wǒ",
+          "fr/13805.mp3",
+          "zh/13805.mp3",
+          "zuò zài méi yǒu dìng qī wéi xiū de chē zi lǐ ， wǒ gǎn dào yǒu diǎn dān xīn 。",
           ""
         ],
         [
           "Je répare cette coupe.",
           "我在修这个杯子。",
           "《绝望的主妇》",
-          "fr/02467.mp3",
-          "zh/02467.mp3",
-          "wǒ zài xiū zhè ge bēi zi",
+          "fr/13806.mp3",
+          "zh/13806.mp3",
+          "wǒ zài xiū zhè gè bēi zi 。",
           ""
         ],
         [
-          "Empecher la croissance trop rapide de notre économie de se transformer en véritable surchauffe et la hausse struc- turelle des prix de dégénerer en inffation galopante.",
+          "Empêcher la croissance trop rapide de notre économie de se transformer en véritable surchauffe et lahausse structurelle des prix de dégénérer en inflation galopante.",
           "防止经济增长由偏快转为过热，防止价格由结构性上涨演变为明显通货膨胀。",
           "",
-          "fr/02468.mp3",
-          "zh/02468.mp3",
-          "fáng zhǐ jīng jì zēng zhǎng yóu piān kuài zhuǎn wéi guò rè fáng zhǐ jià gé yóu jié gòu xìng shàng zhǎng yǎn biàn wèi míng xiǎn tōng huò péng zhàng",
+          "fr/13807.mp3",
+          "zh/13807.mp3",
+          "fáng zhǐ jīng jì zēng zhǎng yóu piān kuài zhuǎn wèi guò rè ， fáng zhǐ jià gé yóu jié gòu xìng shàng zhǎng yǎn biàn wèi míng xiǎn tōng huò péng zhàng 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "有规律的",
           "régulier",
           "adj.",
-          "fr/02469.mp3",
-          "",
-          "",
-          "[regylje]"
+          "fr/13808.mp3",
+          "zh/13808.mp3",
+          "yǒu gūi lǜ de",
+          "regylje"
         ],
         [
-          "有规律的",
-          "",
-          "",
-          "",
-          "zh/02470.mp3",
-          "yǒu guī lǜ de",
-          ""
-        ],
-        [
-          "不",
-          "inquiete",
+          "不安的",
+          "inquiet, e",
           "adj.",
-          "fr/02471.mp3",
-          "zh/02471.mp3",
-          "bù",
-          "[kjet]"
-        ],
-        [
-          "安的",
-          "",
-          "",
-          "",
-          "zh/02472.mp3",
-          "ān de",
-          ""
-        ],
-        [
-          "",
-          "Bempécher",
-          "v.t",
-          "fr/02473.mp3",
-          "",
-          "",
-          "[äpeeJe]"
+          "fr/13809.mp3",
+          "zh/13809.mp3",
+          "bù ān de",
+          "ɛ̃k je, t"
         ],
         [
           "阻止",
-          "BALE",
-          "",
-          "fr/02474.mp3",
-          "zh/02474.mp3",
+          "empêcher",
+          "v.t.",
+          "fr/13810.mp3",
+          "zh/13810.mp3",
           "zǔ zhǐ",
-          ""
+          "ɑ̃pe(ɛ)ʃe"
         ],
         [
-          "真",
+          "真正的",
           "véritable",
           "adj.",
-          "fr/02475.mp3",
-          "zh/02475.mp3",
-          "zhēn",
-          "[veritabl]"
-        ],
-        [
-          "正的",
-          "",
-          "",
-          "",
-          "zh/02476.mp3",
-          "zhèng de",
-          ""
-        ],
-        [
-          "",
-          "structuel,elle",
-          "",
-          "fr/02477.mp3",
-          "",
-          "",
-          ""
+          "fr/13811.mp3",
+          "zh/13811.mp3",
+          "zhēn zhèng de",
+          "veritabl"
         ],
         [
           "结构性",
-          "",
-          "f.",
-          "",
-          "zh/02478.mp3",
+          "structurel, elle",
+          "n.f.",
+          "fr/13812.mp3",
+          "zh/13812.mp3",
           "jié gòu xìng",
-          "[stryktyrel]"
-        ],
-        [
-          "",
-          "dégénérer",
-          "v.i.",
-          "fr/02479.mp3",
-          "",
-          "",
-          "[dezenere]"
+          "stryktyrɛl"
         ],
         [
           "退化",
-          "BIC",
-          "",
-          "fr/02480.mp3",
-          "zh/02480.mp3",
-          "tuì huà",
-          ""
-        ],
-        [
-          "",
-          "inflation",
-          "n.f",
-          "fr/02481.mp3",
-          "",
-          "",
-          "[&flaasj5]"
+          "dégénérer",
+          "v.i.",
+          "fr/13813.mp3",
+          "zh/13813.mp3",
+          "tùi huà",
+          "deʒenere"
         ],
         [
           "通货膨胀",
-          "RK",
-          "",
-          "fr/02482.mp3",
-          "zh/02482.mp3",
+          "inflation",
+          "n.f.",
+          "fr/13814.mp3",
+          "zh/13814.mp3",
           "tōng huò péng zhàng",
-          ""
+          "ɛ̃fla(ɑ̃)sjɔ̃"
         ]
       ]
     },
@@ -4707,277 +5469,250 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "游艇",
-          "yachtjot",
-          "m",
-          "fr/02483.mp3",
-          "zh/02483.mp3",
+          "yacht",
+          "m.",
+          "fr/13815.mp3",
+          "zh/13815.mp3",
           "yóu tǐng",
-          ""
+          "jɔt"
         ],
         [
           "快艇",
           "cutter",
-          "m",
-          "fr/02484.mp3",
-          "zh/02484.mp3",
+          "m.",
+          "fr/13816.mp3",
+          "zh/13816.mp3",
           "kuài tǐng",
-          "[kter]"
+          "kœtœr"
         ],
         [
           "驳船",
           "chaland",
           "m.",
-          "fr/02485.mp3",
-          "zh/02485.mp3",
+          "fr/13817.mp3",
+          "zh/13817.mp3",
           "bó chuán",
-          "[ala]"
+          "ʃalɑ̃"
         ],
         [
           "轮渡",
           "bac",
           "m.",
-          "fr/02486.mp3",
-          "zh/02486.mp3",
+          "fr/13818.mp3",
+          "zh/13818.mp3",
           "lún dù",
-          "[bak]"
+          "bak"
         ],
         [
           "木筏",
           "radeau",
           "m.",
-          "fr/02487.mp3",
-          "zh/02487.mp3",
+          "fr/13819.mp3",
+          "zh/13819.mp3",
           "mù fá",
-          "[rado]"
+          "rado"
         ],
         [
           "独木舟",
-          "pirogue .",
-          "",
-          "fr/02488.mp3",
-          "zh/02488.mp3",
+          "pirogue",
+          "f.",
+          "fr/13820.mp3",
+          "zh/13820.mp3",
           "dú mù zhōu",
-          "[pirog]"
+          "piʁɔg"
         ],
         [
           "小艇",
           "barquerolle",
           "f.",
-          "fr/02489.mp3",
-          "zh/02489.mp3",
+          "fr/13821.mp3",
+          "zh/13821.mp3",
           "xiǎo tǐng",
-          "[barkrol]"
+          "barkʁɔl"
         ],
         [
           "船",
-          "# bateau",
+          "bateau",
           "m.",
-          "fr/02490.mp3",
-          "zh/02490.mp3",
+          "fr/13822.mp3",
+          "zh/13822.mp3",
           "chuán",
-          "[bato]"
+          "bato"
         ],
         [
           "巡洋舰",
           "croiseur",
           "m.",
-          "fr/02491.mp3",
-          "zh/02491.mp3",
+          "fr/13823.mp3",
+          "zh/13823.mp3",
           "xún yáng jiàn",
-          "[krwazc:r]"
+          "kʁwazœ:r"
         ],
         [
           "潜水艇",
           "submersible",
           "m.",
-          "fr/02492.mp3",
-          "zh/02492.mp3",
-          "qián shuǐ tǐng",
-          "[sybmersibl]"
+          "fr/13824.mp3",
+          "zh/13824.mp3",
+          "qián shǔi tǐng",
+          "sybmɛrsibl"
         ],
         [
           "水手",
-          "kmarin",
+          "marin",
           "m.",
-          "fr/02493.mp3",
-          "zh/02493.mp3",
-          "shuǐ shǒu",
-          "[mar]"
+          "fr/13825.mp3",
+          "zh/13825.mp3",
+          "shǔi shǒu",
+          "maʁɛ"
         ],
         [
           "水手",
-          "kmatelot",
-          "m",
-          "fr/02494.mp3",
-          "zh/02494.mp3",
-          "shuǐ shǒu",
-          "[matlo]"
+          "matelot",
+          "m.",
+          "fr/13826.mp3",
+          "zh/13826.mp3",
+          "shǔi shǒu",
+          "matlo"
         ],
         [
           "船长",
           "capitaine",
           "m.",
-          "fr/02495.mp3",
-          "zh/02495.mp3",
+          "fr/13827.mp3",
+          "zh/13827.mp3",
           "chuán zhǎng",
-          "[kapiten]"
+          "kapiten"
         ],
         [
           "船员",
           "équipage",
           "m.",
-          "fr/02496.mp3",
-          "zh/02496.mp3",
+          "fr/13828.mp3",
+          "zh/13828.mp3",
           "chuán yuán",
-          "[ekipa:3]"
+          "ekipa:ʒ"
         ],
         [
           "大副",
-          "premier maitre",
+          "premier maître",
           "m.",
-          "fr/02497.mp3",
-          "zh/02497.mp3",
+          "fr/13829.mp3",
+          "zh/13829.mp3",
           "dà fù",
-          "[pramje metr]"
+          "pʁamje mɛtʁ"
         ],
         [
           "海盗",
-          ".corsaire",
+          "corsaire",
           "m.",
-          "fr/02498.mp3",
-          "zh/02498.mp3",
+          "fr/13830.mp3",
+          "zh/13830.mp3",
           "hǎi dào",
-          "[korse:r]"
+          "kɔʁsɛ:r"
         ],
         [
           "引航",
           "pilotage",
-          "m",
-          "fr/02499.mp3",
-          "zh/02499.mp3",
+          "m.",
+          "fr/13831.mp3",
+          "zh/13831.mp3",
           "yǐn háng",
-          "[pilota:3]"
-        ],
-        [
-          "青春",
-          "jeunessen",
-          "",
-          "fr/02500.mp3",
-          "zh/02500.mp3",
-          "qīng chūn",
-          "[3nas]"
+          "pilɔta:ʒ"
         ],
         [
           "帆船",
-          "bateau a voiles",
+          "bateau à voiles",
           "m.",
-          "fr/02501.mp3",
-          "zh/02501.mp3",
+          "fr/13832.mp3",
+          "zh/13832.mp3",
           "fān chuán",
-          "[bato a vwal]"
+          "bato a vwal"
         ]
       ],
       "s": [
         [
-          "Vous vous rappelez ce monsieur de Marseille qui avait un yacht a Cannes?",
+          "Vous vous rappelez ce monsieur de Marseille qui avait un yacht à Cannes?",
           "你还记得那位在加纳有游艇的马塞先生吗？",
           "",
-          "fr/02502.mp3",
-          "zh/02502.mp3",
-          "nǐ hái jì de nà wèi zài jiā nà yǒu yóu tǐng de mǎ sāi xiān shēng ma",
+          "fr/13833.mp3",
+          "zh/13833.mp3",
+          "nǐ hái jì dé nà wèi zài jiā nà yǒu yóu tǐng de mǎ sāi xiān shēng ma ？",
           ""
         ],
         [
-          "Les pirogues sortent vers 7heures et vont rentrer pour midi.",
+          "Les pirogues sortent vers 7 heures et vont rentrer pour midi.",
           "这些独木舟大约七点启程，到中午返航。",
           "",
-          "fr/02503.mp3",
-          "zh/02503.mp3",
-          "zhè xiē dú mù zhōu dà yuē qī diǎn qǐ chéng dào zhōng wǔ fǎn háng",
+          "fr/13834.mp3",
+          "zh/13834.mp3",
+          "zhè xiē dú mù zhōu dà yuē qī diǎn qǐ chéng ， dào zhōng wǔ fǎn háng 。",
           ""
         ],
         [
-          "Mon oncle frappa du pied tandis que les chevaux se diri- geaient vers lebac.",
-          "叔父踩着脚，而马儿们都朝小船走去。",
+          "Mon oncle frappa du pied, tandis que les chevaux se dirigeaient vers le bac.",
+          "叔父跺着脚，而马儿们都朝小船走去。",
           "",
-          "fr/02504.mp3",
-          "zh/02504.mp3",
-          "shū fù cǎi zhe jiǎo ér mǎ ér men dōu cháo xiǎo chuán zǒu qù",
+          "fr/13835.mp3",
+          "zh/13835.mp3",
+          "shū fù duò zhe jiǎo ， ér mǎ ér men dōu cháo xiǎo chuán zǒu qù 。",
           ""
         ],
         [
-          "Le capitaine était lui aussi marin dans sa jeunesse. **w*k+.",
-          "船长年轻时也曾是水手",
+          "Le capitaine était lui aussi marin dans sa jeunesse.",
+          "船长年轻时也曾是水手。",
           "",
-          "fr/02505.mp3",
-          "zh/02505.mp3",
-          "chuán zhǎng nián qīng shí yě céng shì shuǐ shǒu",
+          "fr/13836.mp3",
+          "zh/13836.mp3",
+          "chuán zhǎng nián qīng shí yě céng shì shǔi shǒu 。",
           ""
         ],
         [
-          "Ce paquebot comprend deux cents hommes d'équi- page dont cinquante matelots. #+50k.",
-          "这般大型客轮上有200名船员其中名是水手",
+          "Ce paquebot comprend deux cents hommes d'équipage dont cinquante matelots.",
+          "这艘大型客轮上有200名船员，其中50名是水手。",
           "",
-          "fr/02506.mp3",
-          "zh/02506.mp3",
-          "zhè bān dà xíng kè lún shàng yǒu míng chuán yuán qí zhōng míng shì shuǐ shǒu",
+          "fr/13837.mp3",
+          "zh/13837.mp3",
+          "zhè sōu dà xíng kè lún shàng yǒu 2 0 0 míng chuán yuán ， qí zhōng 5 0 míng shì shǔi shǒu 。",
           ""
         ]
       ],
       "e": [
         [
-          "记得",
+          "记得，忆起",
           "rappeler",
-          "vt.",
-          "fr/02507.mp3",
-          "zh/02507.mp3",
-          "jì de",
-          "[raple]"
-        ],
-        [
-          "忆起",
-          "Zit",
-          "",
-          "fr/02508.mp3",
-          "zh/02508.mp3",
-          "yì qǐ",
-          ""
+          "v.t.",
+          "fr/13838.mp3",
+          "zh/13838.mp3",
+          "jì dé ， yì qǐ",
+          "raple"
         ],
         [
           "领导",
           "diriger",
-          "vt",
-          "fr/02509.mp3",
-          "zh/02509.mp3",
+          "v.t.",
+          "fr/13839.mp3",
+          "zh/13839.mp3",
           "lǐng dǎo",
-          "[dirize]"
+          "diʁiʒe"
         ],
         [
-          "",
-          "comprendre",
-          "",
-          "fr/02510.mp3",
-          "",
-          "",
-          "[köprädr]"
+          "青春",
+          "jeunesse",
+          "n.f.",
+          "fr/13840.mp3",
+          "zh/13840.mp3",
+          "qīng chūn",
+          "ʒœnɛs"
         ],
         [
           "包含",
-          "",
-          "",
-          "",
-          "zh/02511.mp3",
+          "comprendre",
+          "v.t.",
+          "fr/13841.mp3",
+          "zh/13841.mp3",
           "bāo hán",
-          ""
-        ],
-        [
-          "帆船",
-          "bateaá voiles",
-          "",
-          "fr/02512.mp3",
-          "zh/02512.mp3",
-          "fān chuán",
-          ""
+          "kɔ̃pʁɑ̃dʁ"
         ]
       ]
     },
@@ -4987,277 +5722,241 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "飞机",
-          "l avion",
+          "avion",
           "m.",
-          "fr/02513.mp3",
-          "zh/02513.mp3",
+          "fr/13842.mp3",
+          "zh/13842.mp3",
           "fēi jī",
-          "[avj5]"
+          "avjɔ̃"
         ],
         [
           "客机",
-          "laérobus",
+          "aérobus",
           "m.",
-          "fr/02514.mp3",
-          "zh/02514.mp3",
+          "fr/13843.mp3",
+          "zh/13843.mp3",
           "kè jī",
-          "[aerobys]"
+          "aerɔbys"
         ],
         [
-          "运输迷失",
-          "transport <",
+          "运输",
+          "transport",
           "m.",
-          "fr/02515.mp3",
-          "zh/02515.mp3",
-          "yùn shū mí shī",
-          "[tráspoxr]"
+          "fr/13844.mp3",
+          "zh/13844.mp3",
+          "yùn shū",
+          "trɑ̃spɔ:r"
         ],
         [
           "单翼飞机",
-          "lmonoplan",
+          "monoplan",
           "m.",
-          "fr/02516.mp3",
-          "zh/02516.mp3",
+          "fr/13845.mp3",
+          "zh/13845.mp3",
           "dān yì fēi jī",
-          "[monoplá]"
+          "mɔnɔplɑ̃"
         ],
         [
           "直升飞机",
-          "hélicoptere",
+          "hélicoptère",
           "m.",
-          "fr/02517.mp3",
-          "zh/02517.mp3",
+          "fr/13846.mp3",
+          "zh/13846.mp3",
           "zhí shēng fēi jī",
-          "[elikopter]"
+          "elikɔptɛr"
         ],
         [
           "喷气式飞机",
-          "lavion a réaction",
+          "avion à réaction",
           "m.",
-          "fr/02518.mp3",
-          "zh/02518.mp3",
+          "fr/13847.mp3",
+          "zh/13847.mp3",
           "pēn qì shì fēi jī",
-          "[avj a reaksj5]"
+          "avjɔ̃ a reaksjɔ̃"
         ],
         [
           "班机",
           "avion de ligne",
-          "",
-          "fr/02519.mp3",
-          "zh/02519.mp3",
+          "名",
+          "fr/13848.mp3",
+          "zh/13848.mp3",
           "bān jī",
-          "[avjδ d(a) lin]"
+          "avjɔ̃ d(ə) lin"
         ],
         [
-          "客机油",
-          "l avion de pas sagers huile",
-          "",
-          "fr/02520.mp3",
-          "zh/02520.mp3",
-          "kè jī yóu",
-          "[avj5 d(a) pasaze]"
+          "客机",
+          "avion de passagers",
+          "m.",
+          "fr/13849.mp3",
+          "zh/13849.mp3",
+          "kè jī",
+          "avjɔ̃ d(ə) pasaʒɛ"
+        ],
+        [
+          "油",
+          "huile",
+          "f.",
+          "fr/13850.mp3",
+          "zh/13850.mp3",
+          "yóu",
+          "ɥil"
         ],
         [
           "战斗机",
           "chasseur",
-          "m",
-          "fr/02521.mp3",
-          "zh/02521.mp3",
+          "m.",
+          "fr/13851.mp3",
+          "zh/13851.mp3",
           "zhàn dòu jī",
-          "[ascr]"
+          "ʃasœ:r"
         ],
         [
           "轰炸机",
-          "lbombardier",
+          "bombardier",
           "m.",
-          "fr/02522.mp3",
-          "zh/02522.mp3",
+          "fr/13852.mp3",
+          "zh/13852.mp3",
           "hōng zhà jī",
-          "[bšbardje]"
+          "bɔ̃bardje"
         ],
         [
           "侦察机",
-          "avion de reconnaissance [avj5 dar(a)konesä:s",
+          "avion de reconnaissance",
           "m.",
-          "fr/02523.mp3",
-          "zh/02523.mp3",
+          "fr/13853.mp3",
+          "zh/13853.mp3",
           "zhēn chá jī",
-          ""
+          "avjɔ̃ d(ə) r(ə)kɔnɛsɑ̃:s"
         ],
         [
           "滑翔机",
           "alérion",
           "m.",
-          "fr/02524.mp3",
-          "zh/02524.mp3",
+          "fr/13854.mp3",
+          "zh/13854.mp3",
           "huá xiáng jī",
-          "[aleri]"
+          "alerjɔ̃"
         ],
         [
           "劫机",
           "détournement d'avion",
           "m.",
-          "fr/02525.mp3",
-          "zh/02525.mp3",
+          "fr/13855.mp3",
+          "zh/13855.mp3",
           "jié jī",
-          "[deturnamä davj5]"
+          "deturnamɑ̃ davjɔ̃"
         ],
         [
           "航空公司",
-          "compagnie d'aviation /.",
-          "",
-          "fr/02526.mp3",
-          "zh/02526.mp3",
+          "compagnie d'aviation",
+          "f.",
+          "fr/13856.mp3",
+          "zh/13856.mp3",
           "háng kōng gōng sī",
-          "[kpani davjasj5]"
+          "kɔ̃pani dɑvjasjɔ̃"
         ],
         [
           "气压",
-          "pression /",
-          "",
-          "fr/02527.mp3",
-          "zh/02527.mp3",
+          "pression",
+          "f.",
+          "fr/13857.mp3",
+          "zh/13857.mp3",
           "qì yā",
-          "[pre(e)sj5]"
+          "prɛ(e)sjɔ̃"
         ],
         [
           "航空",
-          "navigation /",
-          "",
-          "fr/02528.mp3",
-          "zh/02528.mp3",
+          "navigation",
+          "f.",
+          "fr/13858.mp3",
+          "zh/13858.mp3",
           "háng kōng",
-          "[naviga(a)sj5]"
+          "naviga(ɑ)sjɔ̃"
         ]
       ],
       "s": [
         [
-          "Pourquoi avez-vous sauté d'un hélicoptere F?",
-          "你为什么要从直升机上跳下来",
-          "",
-          "fr/02529.mp3",
-          "zh/02529.mp3",
-          "nǐ wèi shén me yào cóng zhí shēng jī shàng tiào xià lái",
+          "Pourquoi avez-vous sauté d'un hélicoptère?",
+          "你为什么要从直升机上跳下来？",
+          "《迷失》",
+          "fr/13859.mp3",
+          "zh/13859.mp3",
+          "nǐ wèi shén me yào cóng zhí shēng jī shàng tiào xià lái ？",
           ""
         ],
         [
-          "En 1942,un avion anglais est abattu par les Allemands au- dessus de Paris.1942- +h.",
-          "年一架英国飞机在巴琴上空被德军击落",
+          "En 1942, un avion anglais est abattu par les Allemands au-dessus de Paris. 1942",
+          "年，一架英国飞机在巴黎上空被德军击落。",
           "",
-          "fr/02530.mp3",
-          "zh/02530.mp3",
-          "nián yī jià yīng guó fēi jī zài bā qín shàng kōng bèi dé jūn jī luò",
+          "fr/13860.mp3",
+          "zh/13860.mp3",
+          "nián ， yí jià yīng guó fēi jī zài bā lí shàng kōng bèi dé jūn jī luò 。",
           ""
         ],
         [
-          "Peu apres la collision les quatre officiers supérieurs du Titanic décident alors, sous la pression du propriétaire de la White Star, compagnie du Ti- tanic, de continuer a naviguer ANA Altt.",
-          "撞击冰山之后，在泰坦尼克号的公司白星航运公司所有者的要求下，泰坦尼克号的四名高级军官决定继续航行",
+          "Peu après la collision, les quatre officiers supérieurs du Titanic décident alors, sous la pression dupropriétaire de la White Star, compagnie du Titanic, de continuer à naviguer.",
+          "撞击冰山之后，在泰坦尼克号的公司——白星航运公司所有者的要求下，泰坦尼克号的四名高级军官决定继续航行。",
           "",
-          "fr/02531.mp3",
-          "zh/02531.mp3",
-          "zhuàng jī bīng shān zhī hòu zài tài tǎn ní kè hào de gōng sī bái xīng háng yùn gōng sī suǒ yǒu zhě de yāo qiú xià tài tǎn ní kè hào de sì míng gāo jí jūn guān jué dìng jì xù háng xíng",
+          "fr/13861.mp3",
+          "zh/13861.mp3",
+          "zhuàng jī bīng shān zhī hòu ， zài tài tǎn ní kè hào de gōng sī — — bái xīng háng yùn gōng sī suǒ yǒu zhě de yào qiú xià ， tài tǎn ní kè hào de sì míng gāo jí jūn guān jué dìng jì xù háng xíng 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "英国的",
           "anglais, e",
           "adj.",
-          "fr/02532.mp3",
-          "",
-          "",
-          "[ágle,ez]"
-        ],
-        [
-          "英国的",
-          "",
-          "",
-          "",
-          "zh/02533.mp3",
+          "fr/13862.mp3",
+          "zh/13862.mp3",
           "yīng guó de",
-          ""
-        ],
-        [
-          "",
-          "allemand,e",
-          "",
-          "fr/02534.mp3",
-          "",
-          "",
-          "[almä,á:d]"
+          "ɑ̃glɛ, ɛ:z"
         ],
         [
           "德国的",
-          "",
+          "allemand, e",
           "adj.",
-          "",
-          "zh/02535.mp3",
+          "fr/13863.mp3",
+          "zh/13863.mp3",
           "dé guó de",
-          ""
-        ],
-        [
-          "",
-          "collisio",
-          "nf.",
-          "fr/02536.mp3",
-          "",
-          "",
-          "[kollizjš]"
+          "almɑ̃, ɑ̃:d"
         ],
         [
           "碰撞",
-          "",
-          "",
-          "",
-          "zh/02537.mp3",
+          "collision",
+          "n.f.",
+          "fr/13864.mp3",
+          "zh/13864.mp3",
           "pèng zhuàng",
-          ""
-        ],
-        [
-          "",
-          "officier .",
-          "m.",
-          "fr/02538.mp3",
-          "",
-          "",
-          "[ofisje]"
+          "kɔ(l)lizjɔ̃"
         ],
         [
           "公务员",
-          "",
-          "",
-          "",
-          "zh/02539.mp3",
+          "officier",
+          "n.m.",
+          "fr/13865.mp3",
+          "zh/13865.mp3",
           "gōng wù yuán",
-          ""
-        ],
-        [
-          "",
-          "propriétaire",
-          "",
-          "fr/02540.mp3",
-          "",
-          "",
-          ""
+          "ɔfisjɛ"
         ],
         [
           "物主",
-          "",
-          "",
-          "",
-          "zh/02541.mp3",
+          "propriétaire",
+          "n.",
+          "fr/13866.mp3",
+          "zh/13866.mp3",
           "wù zhǔ",
-          "[proprijeter]"
+          "prɔprijɛtɛ:r"
         ],
         [
           "航行",
           "naviguer",
           "v.i.",
-          "fr/02542.mp3",
-          "zh/02542.mp3",
+          "fr/13867.mp3",
+          "zh/13867.mp3",
           "háng xíng",
-          "[navige]"
+          "navigɛ"
         ]
       ]
     },
@@ -5269,239 +5968,212 @@ window.BOOK_DATA[4] = {
           "行李架",
           "porte-bagage",
           "m.",
-          "fr/02543.mp3",
-          "zh/02543.mp3",
+          "fr/13868.mp3",
+          "zh/13868.mp3",
           "xíng lǐ jià",
-          "[porta)bagaz]"
+          "pɔrt(ə)bagaʒ"
         ],
         [
           "服务员",
           "steward",
           "m.",
-          "fr/02544.mp3",
-          "zh/02544.mp3",
+          "fr/13869.mp3",
+          "zh/13869.mp3",
           "fú wù yuán",
-          "[stiwart]"
+          "stiwart"
         ],
         [
           "空姐",
-          "hotesse",
-          "f",
-          "fr/02545.mp3",
-          "zh/02545.mp3",
+          "hôtesse",
+          "f.",
+          "fr/13870.mp3",
+          "zh/13870.mp3",
           "kōng jiě",
-          "[otes]"
+          "otɛs"
         ],
         [
           "机长",
-          "chef de bordef d(abo:r]",
-          "",
-          "fr/02546.mp3",
-          "zh/02546.mp3",
+          "chef de bord",
+          "名",
+          "fr/13871.mp3",
+          "zh/13871.mp3",
           "jī zhǎng",
-          ""
+          "ʃɛf d(ə) bɔ:r"
         ],
         [
           "登机牌",
-          "carte dem- barquement",
-          "f",
-          "fr/02547.mp3",
-          "zh/02547.mp3",
+          "carte d'embarquement",
+          "f.",
+          "fr/13872.mp3",
+          "zh/13872.mp3",
           "dēng jī pái",
-          "[kart dábarkamá]"
+          "kart dābarkamɑ̃"
         ],
         [
           "航程",
           "parcours",
           "m.",
-          "fr/02548.mp3",
-          "zh/02548.mp3",
+          "fr/13873.mp3",
+          "zh/13873.mp3",
           "háng chéng",
-          "[parku:r]"
+          "parku:r"
         ],
         [
           "经济舱",
-          "classeéco- nomique",
+          "classe économique",
           "f.",
-          "fr/02549.mp3",
-          "zh/02549.mp3",
+          "fr/13874.mp3",
+          "zh/13874.mp3",
           "jīng jì cāng",
-          "[kla:(a)s ekonomik]"
+          "klɑ:(a)s ekɔnɔmik"
         ],
         [
           "头等舱",
-          "cabine de pre miere classe",
+          "cabine de première classe",
           "f.",
-          "fr/02550.mp3",
-          "zh/02550.mp3",
+          "fr/13875.mp3",
+          "zh/13875.mp3",
           "tóu děng cāng",
-          "[kabin d(a pramje:r kla:(a)s]"
+          "kabin d(ə) pramje:r klɑ:(a)s"
         ],
         [
           "广播",
-          "radiodiffuser t.",
-          "",
-          "fr/02551.mp3",
-          "zh/02551.mp3",
+          "radiodiffuser",
+          "v.t.",
+          "fr/13876.mp3",
+          "zh/13876.mp3",
           "guǎng bō",
-          "[radjodifyze]"
+          "radjodifyze"
         ],
         [
           "降落伞",
           "parachute",
           "m.",
-          "fr/02552.mp3",
-          "zh/02552.mp3",
+          "fr/13877.mp3",
+          "zh/13877.mp3",
           "jiàng luò sǎn",
-          "[parafyt]"
+          "paraʃyt"
         ],
         [
           "登机",
           "embarquement",
           "m.",
-          "fr/02553.mp3",
-          "zh/02553.mp3",
+          "fr/13878.mp3",
+          "zh/13878.mp3",
           "dēng jī",
-          "[ábarkamá]"
+          "ɑ̃barkamɑ̃"
         ],
         [
           "驾驶员",
           "pilote",
-          "m",
-          "fr/02554.mp3",
-          "zh/02554.mp3",
+          "m.",
+          "fr/13879.mp3",
+          "zh/13879.mp3",
           "jià shǐ yuán",
-          "[pilot]"
+          "pilɔt"
         ],
         [
           "机组",
           "équipage",
           "m.",
-          "fr/02555.mp3",
-          "zh/02555.mp3",
+          "fr/13880.mp3",
+          "zh/13880.mp3",
           "jī zǔ",
-          "[ekipa:3]"
+          "ekipa:ʒ"
         ],
         [
           "航务",
-          "navigation /",
-          "",
-          "fr/02556.mp3",
-          "zh/02556.mp3",
+          "navigation",
+          "f.",
+          "fr/13881.mp3",
+          "zh/13881.mp3",
           "háng wù",
-          "[naviga(a)sj5]"
+          "naviga(ɑ) sjɔ̃"
         ],
         [
           "内餐",
           "repas-aérien",
           "m.",
-          "fr/02557.mp3",
-          "zh/02557.mp3",
+          "fr/13882.mp3",
+          "zh/13882.mp3",
           "nèi cān",
-          "[rapa aerje]"
+          "r(ə)pɑ aerjɛ"
         ],
         [
           "航向",
           "cap",
           "m.",
-          "fr/02558.mp3",
-          "zh/02558.mp3",
+          "fr/13883.mp3",
+          "zh/13883.mp3",
           "háng xiàng",
-          "[kap]"
+          "kap"
         ],
         [
           "国际航班",
           "vol extérieur",
           "m.",
-          "fr/02559.mp3",
-          "zh/02559.mp3",
+          "fr/13884.mp3",
+          "zh/13884.mp3",
           "guó jì háng bān",
-          "[vol eksterjx:r]"
+          "vɔl ɛksterjœ:r"
         ],
         [
           "国内航班",
           "vol intérieur",
           "m.",
-          "fr/02560.mp3",
-          "zh/02560.mp3",
+          "fr/13885.mp3",
+          "zh/13885.mp3",
           "guó nèi háng bān",
-          "[vol éterjxxr]"
+          "vɔl ɛ̃terjœ:r"
         ]
       ],
       "s": [
         [
-          "Il a déraillé,avec une hotesse de l'air nommé Mo nique.T-",
-          "他出轨了跟一个叫莫尼克的空姐。",
+          "Il a déraillé, avec une hôtesse de l'air nommée Monique.",
+          "他出轨了，跟一个叫莫尼克的空姐。",
           "《绝望的主妇》",
-          "fr/02561.mp3",
-          "zh/02561.mp3",
-          "tā chū guǐ le gēn yí gè jiào mò ní kè de kōng jiě",
+          "fr/13886.mp3",
+          "zh/13886.mp3",
+          "tā chū gǔi le ， gēn yí gè jiào mò ní kè de kōng jiě 。",
           ""
         ],
         [
-          "Apres son entrée dans les couches de l'atmosphere, la cabine de retour utilisera son parachute pour ramener tous les échantillons sur la Terre a des fins d'une pleine utilisation. X",
-          "返回舱进入大气层后可使用降落伞将所有样品安全降落在地球上，以进行充分利用。",
+          "Après son entrée dans les couches de l'atmosphère, la cabine de retour utilisera son parachute pourramener tous les échantillons sur la Terre à des fins d'une pleine utilisation.",
+          "返回舱进入大气层后，可使用降落伞将所有样品安全降落在地球上，以进行充分利用。",
           "",
-          "fr/02562.mp3",
-          "zh/02562.mp3",
-          "fǎn huí cāng jìn rù dà qì céng hòu kě shǐ yòng jiàng luò sǎn jiāng suǒ yǒu yàng pǐn ān quán jiàng luò zài dì qiú shàng yǐ jìn xíng chōng fèn lì yòng",
+          "fr/13887.mp3",
+          "zh/13887.mp3",
+          "fǎn húi cāng jìn rù dà qì céng hòu ， kě shǐ yòng jiàng luò sǎn jiāng suǒ yǒu yàng pǐn ān quán jiàng luò zài dì qiú shàng ， yǐ jìn xíng chōng fēn lì yòng 。",
           ""
         ]
       ],
       "e": [
         [
-          "出",
+          "出轨",
           "dérailler",
-          "vi.",
-          "fr/02563.mp3",
-          "zh/02563.mp3",
-          "chū",
-          "[deraaje]"
+          "v.i.",
+          "fr/13888.mp3",
+          "zh/13888.mp3",
+          "chū gǔi",
+          "dera(a)je"
         ],
         [
-          "",
-          "atmosphére",
-          "",
-          "fr/02564.mp3",
-          "",
-          "",
-          "[atmosfe:r]"
-        ],
-        [
-          "大气空气",
-          "",
-          "",
-          "",
-          "zh/02565.mp3",
-          "dà qì kōng qì",
-          ""
-        ],
-        [
-          "",
-          "échantillon",
-          "n.m.",
-          "fr/02566.mp3",
-          "",
-          "",
-          "[eätij5]"
+          "大气，空气",
+          "atmosphère",
+          "n.f.",
+          "fr/13889.mp3",
+          "zh/13889.mp3",
+          "dà qì ， kōng qì",
+          "atmɔsfe:r"
         ],
         [
           "样品",
-          "",
-          "",
-          "",
-          "zh/02567.mp3",
+          "échantillon",
+          "n.m.",
+          "fr/13890.mp3",
+          "zh/13890.mp3",
           "yàng pǐn",
-          ""
-        ],
-        [
-          "空姐",
-          "hotesse",
-          "",
-          "fr/02568.mp3",
-          "zh/02568.mp3",
-          "kōng jiě",
-          ""
+          "eʃɑ̃tijɔ̃"
         ]
       ]
     },
@@ -5511,250 +6183,223 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "铁路",
-          "chemin de fer amdafer]",
-          "m",
-          "fr/02569.mp3",
-          "zh/02569.mp3",
+          "chemin de fer",
+          "m.",
+          "fr/13891.mp3",
+          "zh/13891.mp3",
           "tiě lù",
-          ""
+          "ʃamɛ da fer"
         ],
         [
           "铁路",
-          "voie ferréevwa fere].",
-          "",
-          "fr/02570.mp3",
-          "zh/02570.mp3",
+          "voie ferrée",
+          "f.",
+          "fr/13892.mp3",
+          "zh/13892.mp3",
           "tiě lù",
-          ""
+          "vwa fere"
         ],
         [
-          "火车头火车引擎",
-          "locomotive . moteur",
+          "火车头",
+          "locomotive",
+          "f.",
+          "fr/13893.mp3",
+          "zh/13893.mp3",
+          "huǒ chē tóu",
+          "lɔkɔmɔtiv"
+        ],
+        [
+          "火车引擎",
+          "moteur",
           "m.",
-          "fr/02571.mp3",
-          "zh/02571.mp3",
-          "huǒ chē tóu huǒ chē yǐn qíng",
-          "[lokomotiv]"
+          "fr/13894.mp3",
+          "zh/13894.mp3",
+          "huǒ chē yǐn qíng",
+          "mɔtœr"
         ],
         [
           "铁路运输",
           "transport ferroviaire",
           "m.",
-          "fr/02572.mp3",
-          "zh/02572.mp3",
+          "fr/13895.mp3",
+          "zh/13895.mp3",
           "tiě lù yùn shū",
-          "[träspo:r ferovjeir]"
+          "trɑ̃spɔ:r ferɔvje:r"
         ],
         [
           "快车道",
           "voie-express",
           "f.",
-          "fr/02573.mp3",
-          "zh/02573.mp3",
+          "fr/13896.mp3",
+          "zh/13896.mp3",
           "kuài chē dào",
-          "[vwa ekspres]"
+          "vwa ɛkspres"
         ],
         [
           "直达快车",
           "train direct",
           "m.",
-          "fr/02574.mp3",
-          "zh/02574.mp3",
+          "fr/13897.mp3",
+          "zh/13897.mp3",
           "zhí dá kuài chē",
-          "[tre direkt]"
+          "trɛ direkt"
         ],
         [
           "慢车",
           "train omnibus",
           "m.",
-          "fr/02575.mp3",
-          "zh/02575.mp3",
+          "fr/13898.mp3",
+          "zh/13898.mp3",
           "màn chē",
-          "[tromnibys]"
+          "trɛ ɔmnibys"
         ],
         [
-          "货运站火车车厢",
-          "gare de marchandises wagon",
+          "货运站",
+          "gare de marchandises",
+          "名",
+          "fr/13899.mp3",
+          "zh/13899.mp3",
+          "huò yùn zhàn",
+          "gar d(ə) marʃɑ̃diz"
+        ],
+        [
+          "火车车厢",
+          "wagon",
           "m.",
-          "fr/02576.mp3",
-          "zh/02576.mp3",
-          "huò yùn zhàn huǒ chē chē xiāng",
-          "[gar d(a) marfádiz]"
+          "fr/13900.mp3",
+          "zh/13900.mp3",
+          "huǒ chē chē xiāng",
+          "vagɔ̃"
         ],
         [
           "卧铺车厢",
-          "wagonlit",
+          "wagon-lit",
           "m.",
-          "fr/02577.mp3",
-          "zh/02577.mp3",
+          "fr/13901.mp3",
+          "zh/13901.mp3",
           "wò pù chē xiāng",
-          "[vagšli]"
+          "vagɔ̃li"
         ],
         [
           "餐车",
-          "voiture-restaurant .",
-          "",
-          "fr/02578.mp3",
-          "zh/02578.mp3",
+          "voiture-restaurant",
+          "f.",
+          "fr/13902.mp3",
+          "zh/13902.mp3",
           "cān chē",
-          "[vwatyzr restorä]"
+          "vwaty:r rɛstɔrɑ̃"
         ],
         [
           "卧铺",
           "couchette",
           "f.",
-          "fr/02579.mp3",
-          "zh/02579.mp3",
+          "fr/13903.mp3",
+          "zh/13903.mp3",
           "wò pù",
-          "[kufet]"
+          "kuʃɛt"
         ],
         [
           "始发站",
           "Station de chargement",
-          "",
-          "fr/02580.mp3",
-          "zh/02580.mp3",
+          "名",
+          "fr/13904.mp3",
+          "zh/13904.mp3",
           "shǐ fā zhàn",
-          "[sta(a)sjδ d(a[arzmá]"
+          "sta(ɑ)sjɔ̃ d(ə) ʃarʒmɑ̃"
         ],
         [
           "终点站",
           "terminus",
           "m.",
-          "fr/02581.mp3",
-          "zh/02581.mp3",
+          "fr/13905.mp3",
+          "zh/13905.mp3",
           "zhōng diǎn zhàn",
-          "[terminys]"
+          "tɛrminys"
         ],
         [
           "铁路员工",
-          "Icheminot mino]",
+          "cheminot",
           "m.",
-          "fr/02582.mp3",
-          "zh/02582.mp3",
+          "fr/13906.mp3",
+          "zh/13906.mp3",
           "tiě lù yuán gōng",
-          ""
+          "ʃmino"
         ]
       ],
       "s": [
         [
-          "Depuis l'inauguration du chemin de fer Qinghai-Tibet, les départements des chemins de fer ont appliqué une série de mesures efficaces visant a protéger la nature.",
+          "Depuis l'inauguration du chemin de fer Qinghai-Tibet, les départements des chemins de fer ont appliquéune série de mesures efficaces visant à protéger la nature.",
           "青藏铁路开通以来，国家铁路部门就为保护生态环境采取了一系列措施。",
           "",
-          "fr/02583.mp3",
-          "zh/02583.mp3",
-          "qīng cáng tiě lù kāi tōng yǐ lái guó jiā tiě lù bù mén jiù wèi bǎo hù shēng tài huán jìng cǎi qǔ le yī xì liè cuò shī",
+          "fr/13907.mp3",
+          "zh/13907.mp3",
+          "qīng cáng tiě lù kāi tōng yǐ lái ， guó jiā tiě lù bù mén jiù wèi bǎo hù shēng tài huán jìng cǎi qǔ le yí xì liè cuò shī 。",
           ""
         ],
         [
-          "Léconomie chinoise arrive au maximum de la puissance de sa locomotive manufactu rire.+",
+          "L'économie chinoise arrive au maximum de la puissance de sa locomotive manufacturière.",
           "中国制造业的火车头作用已达到瓶颈。",
           "",
-          "fr/02584.mp3",
-          "zh/02584.mp3",
-          "zhōng guó zhì zào yè de huǒ chē tóu zuò yòng yǐ dá dào píng jǐng",
+          "fr/13908.mp3",
+          "zh/13908.mp3",
+          "zhōng guó zhì zào yè de huǒ chē tóu zuò yòng yǐ dá dào píng jǐng 。",
           ""
         ],
         [
-          "Le chef de lEtat sest ins tallé en lere classe,dans le wagon de queue, ou se trou- vaient déja plusieurs passa gers.",
+          "Le chef de l'État s'est installé en 1ère classe, dans le wagon de queue, où se trouvaient déjà plusieurspassagers.",
           "这位国家领导的位子在头等座的最后一个车厢，已经有不少乘客就坐。",
           "",
-          "fr/02585.mp3",
-          "zh/02585.mp3",
-          "zhè wèi guó jiā lǐng dǎo de wèi zi zài tóu děng zuò de zuì hòu yí gè chē xiāng yǐ jīng yǒu bù shǎo chéng kè jiù zuò",
+          "fr/13909.mp3",
+          "zh/13909.mp3",
+          "zhè wèi guó jiā lǐng dǎo de wèi zi zài tóu děng zuò de zùi hòu yí gè chē xiāng ， yǐ jīng yǒu bù shǎo chéng kè jiù zuò 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "inauguration",
-          "",
-          "fr/02586.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "开幕式",
-          "",
-          "",
-          "",
-          "zh/02587.mp3",
+          "inauguration",
+          "n.f.",
+          "fr/13910.mp3",
+          "zh/13910.mp3",
           "kāi mù shì",
-          ""
-        ],
-        [
-          "",
-          "département",
-          "",
-          "fr/02588.mp3",
-          "",
-          "",
-          ""
+          "ino(ɔ)gyra(ɑ)sjɔ̃"
         ],
         [
           "部门",
-          "",
-          "",
-          "",
-          "zh/02589.mp3",
+          "département",
+          "n.",
+          "fr/13911.mp3",
+          "zh/13911.mp3",
           "bù mén",
-          "[departamá]"
-        ],
-        [
-          "",
-          "appliqué,e",
-          "adj.",
-          "fr/02590.mp3",
-          "",
-          "",
-          "[aplike]"
+          "departamɑ̃"
         ],
         [
           "实用的",
-          "",
-          "",
-          "",
-          "zh/02591.mp3",
+          "appliqué, e",
+          "adj.",
+          "fr/13912.mp3",
+          "zh/13912.mp3",
           "shí yòng de",
-          ""
+          "aplike"
         ],
         [
-          "",
-          "maximu",
-          "m",
-          "fr/02592.mp3",
-          "",
-          "",
-          "[maksimom]"
-        ],
-        [
-          "最大的最高的",
-          "adj..",
-          "",
-          "fr/02593.mp3",
-          "zh/02593.mp3",
-          "zuì dà de zuì gāo de",
-          ""
-        ],
-        [
-          "",
-          "manufacturier,re",
-          "",
-          "fr/02594.mp3",
-          "",
-          "",
-          ""
+          "最大的，最高的",
+          "maximum",
+          "adj.",
+          "fr/13913.mp3",
+          "zh/13913.mp3",
+          "zùi dà de ， zùi gāo de",
+          "maksimɔm"
         ],
         [
           "制造的",
-          "",
-          "",
-          "",
-          "zh/02595.mp3",
+          "manufacturier, ère",
+          "adj.",
+          "fr/13914.mp3",
+          "zh/13914.mp3",
           "zhì zào de",
-          ""
+          "manyfaktyrje, ɛ:r"
         ]
       ]
     },
@@ -5764,1684 +6409,241 @@ window.BOOK_DATA[4] = {
       "w": [
         [
           "打气",
-          "Taériser",
-          "",
-          "fr/02596.mp3",
-          "zh/02596.mp3",
+          "aériser",
+          "v.t.",
+          "fr/13915.mp3",
+          "zh/13915.mp3",
           "dǎ qì",
-          "[aerize]"
+          "aerize"
         ],
         [
           "自行车",
           "bicyclette",
-          "",
-          "fr/02597.mp3",
-          "zh/02597.mp3",
+          "f.",
+          "fr/13916.mp3",
+          "zh/13916.mp3",
           "zì xíng chē",
-          "[bisiklet]"
+          "bisiklɛt"
         ],
         [
           "骑",
-          "monter i.",
-          "",
-          "fr/02598.mp3",
-          "zh/02598.mp3",
+          "monter",
+          "v.i.",
+          "fr/13917.mp3",
+          "zh/13917.mp3",
           "qí",
-          "[mte]"
+          "mɔ̃te"
         ],
         [
           "车把",
           "guidon",
-          "m",
-          "fr/02599.mp3",
-          "zh/02599.mp3",
+          "m.",
+          "fr/13918.mp3",
+          "zh/13918.mp3",
           "chē bǎ",
-          "[gid5]"
+          "gidɔ̃"
         ],
         [
           "刹车",
           "stopper",
-          "",
-          "fr/02600.mp3",
-          "zh/02600.mp3",
+          "v.t.",
+          "fr/13919.mp3",
+          "zh/13919.mp3",
           "shā chē",
-          "[stope]"
+          "stɔpe"
         ],
         [
           "链条",
-          "chaineen",
-          "",
-          "fr/02601.mp3",
-          "zh/02601.mp3",
+          "chaîne",
+          "f.",
+          "fr/13920.mp3",
+          "zh/13920.mp3",
           "liàn tiáo",
-          ""
+          "ʃɛn"
         ],
         [
           "脚踏板",
           "repose-pied",
           "m.",
-          "fr/02602.mp3",
-          "zh/02602.mp3",
+          "fr/13921.mp3",
+          "zh/13921.mp3",
           "jiǎo tà bǎn",
-          "[rapoz pje]"
+          "rəpoz pje"
         ],
         [
           "车胎",
           "pneu",
-          "m",
-          "fr/02603.mp3",
-          "zh/02603.mp3",
+          "m.",
+          "fr/13922.mp3",
+          "zh/13922.mp3",
           "chē tāi",
-          "[pno]"
+          "pnø"
         ],
         [
           "车架",
-          "chassis asi]",
+          "chassis",
           "m.",
-          "fr/02604.mp3",
-          "zh/02604.mp3",
+          "fr/13923.mp3",
+          "zh/13923.mp3",
           "chē jià",
-          ""
+          "ʃasi"
         ],
         [
           "刹一下车",
-          "donnerun coup de frein",
-          "",
-          "fr/02605.mp3",
-          "zh/02605.mp3",
-          "shā yī xià chē",
-          "[done ku dafr]"
+          "donner un coup de frein",
+          "v.t.",
+          "fr/13924.mp3",
+          "zh/13924.mp3",
+          "shā yí xià chē",
+          "dɔne œ ku d(ə) frɛ"
         ],
         [
           "轮圈",
           "jante",
-          "",
-          "fr/02606.mp3",
-          "zh/02606.mp3",
+          "f.",
+          "fr/13925.mp3",
+          "zh/13925.mp3",
           "lún quān",
-          "[3ät]"
+          "ʒɑ̃t"
         ],
         [
           "气门",
           "ventouse",
           "f.",
-          "fr/02607.mp3",
-          "zh/02607.mp3",
+          "fr/13926.mp3",
+          "zh/13926.mp3",
           "qì mén",
-          "[vátu:z]"
+          "vɑ̃tu:z"
         ],
         [
           "反光镜",
           "cataphote",
           "m.",
-          "fr/02608.mp3",
-          "zh/02608.mp3",
+          "fr/13927.mp3",
+          "zh/13927.mp3",
           "fǎn guāng jìng",
-          "[katafot]"
+          "katafɔt"
         ],
         [
           "骑自行车的人",
           "cycliste",
-          "",
-          "fr/02609.mp3",
-          "zh/02609.mp3",
+          "名",
+          "fr/13928.mp3",
+          "zh/13928.mp3",
           "qí zì xíng chē de rén",
-          "[siklist]"
+          "siklist"
         ],
         [
           "车铃",
-          "timbrede bicy clette",
+          "timbre de bicyclette",
           "m.",
-          "fr/02610.mp3",
-          "zh/02610.mp3",
+          "fr/13929.mp3",
+          "zh/13929.mp3",
           "chē líng",
-          "[t&:br da bisiklet]"
+          "tɛ̃:br d(ə) bisiklɛt"
         ],
         [
           "自行车的",
-          "vélocipe dique",
-          "",
-          "fr/02611.mp3",
-          "zh/02611.mp3",
+          "vélocipédique",
+          "形",
+          "fr/13930.mp3",
+          "zh/13930.mp3",
           "zì xíng chē de",
-          "[velosipedik]"
+          "velɔsipedik"
         ],
         [
           "自行车带",
-          "pneuma tique pour bicyclette",
+          "pneumatique pour bicyclette",
           "m.",
-          "fr/02612.mp3",
-          "zh/02612.mp3",
+          "fr/13931.mp3",
+          "zh/13931.mp3",
           "zì xíng chē dài",
-          "[pnomatik puer bisiklet]"
+          "pnɔmatik pu:r bisiklɛt"
         ]
       ],
       "s": [
         [
-          "Le Tour de France annuel arrive encore une fois,c'est pour les fanatiques l'arrivée des vacances.- +XTX",
-          "一年一度的环法自行车大赛又到来了对每一位环法车迷来说，这就是节日的到来。",
+          "Le Tour de France annuel arrive encore une fois, c'est pour les fanatiques l'arrivée des vacances.",
+          "一年一度的环法自行车大赛又到来了，对每一位环法车迷来说，这就是节日的到来。",
           "",
-          "fr/02613.mp3",
-          "zh/02613.mp3",
-          "yī nián yī dù de huán fǎ zì xíng chē dà sài yòu dào lái le duì měi yī wèi huán fǎ chē mí lái shuō zhè jiù shì jié rì de dào lái",
+          "fr/13932.mp3",
+          "zh/13932.mp3",
+          "yì nián yí dù de huán fǎ zì xíng chē dà sài yòu dào lái le ， dùi měi yí wèi huán fǎ chē mí lái shuō ， zhè jiù shì jié rì de dào lái 。",
           ""
         ],
         [
-          "Cest une course cycliste qui a lieu tous les ans en France.",
+          "C'est une course cycliste qui a lieu tous les ans en France.",
           "这是一项每年都在法国举行的自行车赛。",
           "",
-          "fr/02614.mp3",
-          "zh/02614.mp3",
-          "zhè shì yī xiàng měi nián dōu zài fǎ guó jǔ xíng de zì xíng chē sài",
+          "fr/13933.mp3",
+          "zh/13933.mp3",
+          "zhè shì yí xiàng měi nián dōu zài fǎ guó jǔ xíng de zì xíng chē sài 。",
           ""
         ],
         [
-          "La voiture stoppe au feu rouge. F.",
-          "遇到红灯时车子停下来",
+          "La voiture stoppe au feu rouge.",
+          "遇到红灯时，车子停下来。",
           "",
-          "fr/02615.mp3",
-          "zh/02615.mp3",
-          "yù dào hóng dēng shí chē zi tíng xià lái",
+          "fr/13934.mp3",
+          "zh/13934.mp3",
+          "yù dào hóng dēng shí ， chē zi tíng xià lái 。",
           ""
         ],
         [
-          "La chaine est rompt.",
+          "La chaîne est rompt.",
           "链条被折断了。",
           "",
-          "fr/02616.mp3",
-          "zh/02616.mp3",
-          "liàn tiáo bèi zhé duàn le",
+          "fr/13935.mp3",
+          "zh/13935.mp3",
+          "liàn tiáo bèi zhé duàn le 。",
           ""
         ],
         [
-          "Cette course cycliste sus- cite un retentissement médiatique internationalclle est diffusée par les télévisions de 180 pays.",
+          "Cette course cycliste suscite un retentissement médiatique international: elle est diffusée par lestélévisions de 180 pays.",
           "今年的自行车竞赛在国际媒体中激起了巨大的反响：180个国家电视转播赛况。",
           "",
-          "fr/02617.mp3",
-          "zh/02617.mp3",
-          "jīn nián de zì xíng chē jìng sài zài guó jì méi tǐ zhōng jī qǐ le jù dà de fǎn xiǎng gè guó jiā diàn shì zhuǎn bō sài kuàng",
+          "fr/13936.mp3",
+          "zh/13936.mp3",
+          "jīn nián de zì xíng chē jìng sài zài guó jì méi tǐ zhōng jī qǐ le jù dà de fǎn xiǎng ： 1 8 0 gè guó jiā diàn shì zhuǎn bō sài kuàng 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "vacances n.f.pl.",
-          "",
-          "fr/02618.mp3",
-          "",
-          "",
-          "[vakä:s]"
-        ],
-        [
           "假期",
-          "",
-          "",
-          "",
-          "zh/02619.mp3",
-          "jià qī",
-          ""
+          "vacances",
+          "f.pl.",
+          "fr/13937.mp3",
+          "zh/13937.mp3",
+          "jiǎ qī",
+          "vakɑ̃:s"
         ],
         [
           "竞赛",
-          "course n.",
-          "",
-          "fr/02620.mp3",
-          "zh/02620.mp3",
+          "course",
+          "n.f.",
+          "fr/13938.mp3",
+          "zh/13938.mp3",
           "jìng sài",
-          ""
+          "kurs"
         ],
         [
           "红色的",
           "rouge",
           "adj.",
-          "fr/02621.mp3",
-          "zh/02621.mp3",
+          "fr/13939.mp3",
+          "zh/13939.mp3",
           "hóng sè de",
-          "[ru3]"
+          "ru:ʒ"
         ],
         [
           "折断",
           "rompt",
-          "vt",
-          "fr/02622.mp3",
-          "zh/02622.mp3",
+          "v.t.",
+          "fr/13940.mp3",
+          "zh/13940.mp3",
           "zhé duàn",
-          "[rpr]"
-        ]
-      ]
-    },
-    {
-      "no": 3,
-      "name": "眼镜店",
-      "w": [
-        [
-          "眼镜",
-          "lunettes",
-          "",
-          "fr/03466.mp3",
-          "zh/03466.mp3",
-          "yǎn jìng",
-          "[lynet]"
-        ],
-        [
-          "眼镜",
-          "binocle",
-          "m",
-          "fr/03467.mp3",
-          "zh/03467.mp3",
-          "yǎn jìng",
-          "[binokl]"
-        ],
-        [
-          "一对眼镜店",
-          "-paire opticien",
-          "m.",
-          "fr/03468.mp3",
-          "zh/03468.mp3",
-          "yī duì yǎn jìng diàn",
-          "[per]"
-        ],
-        [
-          "验光",
-          "examen",
-          "m.",
-          "fr/03469.mp3",
-          "zh/03469.mp3",
-          "yàn guāng",
-          "[egzamé]"
-        ],
-        [
-          "视力好的",
-          "percante",
-          "",
-          "fr/03470.mp3",
-          "zh/03470.mp3",
-          "shì lì hǎo de",
-          "[persa,á:t]"
-        ],
-        [
-          "配镜师",
-          "optometriste",
-          "",
-          "fr/03471.mp3",
-          "zh/03471.mp3",
-          "pèi jìng shī",
-          "[optometrist]"
-        ],
-        [
-          "眼镜框",
-          "monture des lunette.",
-          "",
-          "fr/03472.mp3",
-          "zh/03472.mp3",
-          "yǎn jìng kuāng",
-          "[mtyir de lynet]"
-        ],
-        [
-          "镜片",
-          "verre",
-          "m",
-          "fr/03473.mp3",
-          "zh/03473.mp3",
-          "jìng piàn",
-          "[ver]"
-        ],
-        [
-          "散光",
-          "astigmatisme",
-          "m.",
-          "fr/03474.mp3",
-          "zh/03474.mp3",
-          "sǎn guāng",
-          "[astigmatism]"
-        ],
-        [
-          "太阳镜",
-          "lunettes solaires",
-          "",
-          "fr/03475.mp3",
-          "zh/03475.mp3",
-          "tài yáng jìng",
-          "[lynet sole:r]"
-        ],
-        [
-          "视力",
-          "vision",
-          "",
-          "fr/03476.mp3",
-          "zh/03476.mp3",
-          "shì lì",
-          "[vizj3]"
-        ],
-        [
-          "远视",
-          "long voir I5 vwa:r].",
-          "",
-          "fr/03477.mp3",
-          "zh/03477.mp3",
-          "yuǎn shì",
-          ""
-        ],
-        [
-          "视力矫正师",
-          "orthop tiste",
-          "",
-          "fr/03478.mp3",
-          "zh/03478.mp3",
-          "shì lì jiǎo zhèng shī",
-          "[ortoptist]"
-        ],
-        [
-          "度数视力疲劳的",
-          "degrém astheno pique",
-          "",
-          "fr/03479.mp3",
-          "zh/03479.mp3",
-          "dù shù shì lì pí láo de",
-          "[dgre]"
-        ],
-        [
-          "视力丧失",
-          "anopsie ].",
-          "",
-          "fr/03480.mp3",
-          "zh/03480.mp3",
-          "shì lì sàng shī",
-          "[anopsi]"
-        ],
-        [
-          "敌人",
-          "ennemi",
-          "m.",
-          "fr/04230.mp3",
-          "zh/04230.mp3",
-          "dí rén",
-          "[enmi]"
-        ],
-        [
-          "有敌意的",
-          "hostile",
-          "",
-          "fr/04231.mp3",
-          "zh/04231.mp3",
-          "yǒu dí yì de",
-          "[5stil]"
-        ],
-        [
-          "打架",
-          "bagarrer i.pr",
-          "",
-          "fr/04232.mp3",
-          "zh/04232.mp3",
-          "dǎ jià",
-          "[bagare]"
-        ],
-        [
-          "竞争",
-          "compétition /.",
-          "",
-          "fr/04233.mp3",
-          "zh/04233.mp3",
-          "jìng zhēng",
-          "[k5petisj5]"
-        ],
-        [
-          "竞争对手",
-          "concurrente",
-          "",
-          "fr/04234.mp3",
-          "zh/04234.mp3",
-          "jìng zhēng duì shǒu",
-          "[kškyra,át]"
-        ],
-        [
-          "竞争者",
-          "émule",
-          "",
-          "fr/04235.mp3",
-          "zh/04235.mp3",
-          "jìng zhēng zhě",
-          "[emyl]"
-        ],
-        [
-          "竞争的",
-          "concurrencé,e",
-          "",
-          "fr/04236.mp3",
-          "zh/04236.mp3",
-          "jìng zhēng de",
-          "[k5kyráse]"
-        ],
-        [
-          "对手",
-          "adversaire",
-          "",
-          "fr/04237.mp3",
-          "zh/04237.mp3",
-          "duì shǒu",
-          "[adverser]"
-        ],
-        [
-          "同等地",
-          "également",
-          "",
-          "fr/04238.mp3",
-          "zh/04238.mp3",
-          "tóng děng dì",
-          "[egalmä]"
-        ],
-        [
-          "高度评价",
-          "apprécier hautement t",
-          "",
-          "fr/04239.mp3",
-          "zh/04239.mp3",
-          "gāo dù píng jià",
-          "[apresje otmá]"
-        ],
-        [
-          "理所当然地",
-          "digne ment",
-          "",
-          "fr/04240.mp3",
-          "zh/04240.mp3",
-          "lǐ suǒ dāng rán dì",
-          "[dinmä]"
-        ],
-        [
-          "争论",
-          "controverse /.",
-          "",
-          "fr/04241.mp3",
-          "zh/04241.mp3",
-          "zhēng lùn",
-          "[ktrovers]"
-        ],
-        [
-          "交流",
-          "échanger",
-          "",
-          "fr/04242.mp3",
-          "zh/04242.mp3",
-          "jiāo liú",
-          "[eäze]"
-        ],
-        [
-          "主意",
-          "idée",
-          "",
-          "fr/04243.mp3",
-          "zh/04243.mp3",
-          "zhǔ yì",
-          "[ide]"
-        ],
-        [
-          "论战",
-          "itdébat",
-          "m.",
-          "fr/04244.mp3",
-          "zh/04244.mp3",
-          "lùn zhàn",
-          "[deba]"
-        ],
-        [
-          "辩论",
-          "argumenter",
-          "",
-          "fr/04245.mp3",
-          "zh/04245.mp3",
-          "biàn lùn",
-          "[argymáte]"
-        ],
-        [
-          "争论",
-          "dispute",
-          "",
-          "fr/04246.mp3",
-          "zh/04246.mp3",
-          "zhēng lùn",
-          "[dispyt]"
-        ],
-        [
-          "大声争吵",
-          "quereller",
-          "",
-          "fr/04247.mp3",
-          "zh/04247.mp3",
-          "dà shēng zhēng chǎo",
-          "[karele]"
-        ]
-      ],
-      "s": [
-        [
-          "Vous feriez mieux préparer des lunettes de soleil,en fai sant attention aux lumieres de Juanita.",
-          "你最好准备好太阳镜，当心被胡安妮塔的光芒",
-          "一《绝望的主妇》",
-          "fr/03481.mp3",
-          "zh/03481.mp3",
-          "nǐ zuì hǎo zhǔn bèi hǎo tài yáng jìng dāng xīn bèi hú ān nī tǎ de guāng máng",
-          ""
-        ],
-        [
-          "Cétait donc ca!Augustin réunit alors tous les animaux qui déciderent d'offrir une paire de lunettes a Madame la Taupe pour son anniversaire. !T",
-          "原来如此奥古斯丁则送给所有的动物礼物，他决定送一幅眼镜给饅鼠太太作为她的生日礼物。",
-          "",
-          "fr/03482.mp3",
-          "zh/03482.mp3",
-          "yuán lái rú cǐ ào gǔ sī dīng zé sòng gěi suǒ yǒu de dòng wù lǐ wù tā jué dìng sòng yī fú yǎn jìng gěi mán shǔ tài tài zuò wéi tā de shēng rì lǐ wù",
-          ""
-        ],
-        [
-          "Il na pas de troubles de la vision.",
-          "他视力没问题",
-          "",
-          "fr/03483.mp3",
-          "zh/03483.mp3",
-          "tā shì lì méi wèn tí",
-          ""
-        ],
-        [
-          "Nous avons étudié la nou- velle La Derniére Classe d'Al- phonse Daudet a l'école se- condaire,l'histoire se passe pendant la guerre Franco-prus- sienne, apres que la France soit tombée aux mains de l'en- nemi.+",
-          "我们在高中时就学过期，法国陷入敌手之后的一个故事。",
-          "都德的短篇小说《最后一 课》。它讲述了普法战争时",
-          "fr/04248.mp3",
-          "zh/04248.mp3",
-          "wǒ men zài gāo zhōng shí jiù xué guò qī fǎ guó xiàn rù dí shǒu zhī hòu de yí gè gù shì",
-          ""
-        ],
-        [
-          "Sans lamitie,la vie est triste et hostile.",
-          "没有友谊生活是可悲的、充满敌意的。",
-          "",
-          "fr/04249.mp3",
-          "zh/04249.mp3",
-          "méi yǒu yǒu yì shēng huó shì kě bēi de chōng mǎn dí yì de",
-          ""
-        ],
-        [
-          "Son adversaire ennuyeux sera rejetee. AHME.",
-          "她那无聊的对手会被解雇一",
-          "一《维闻女孩》",
-          "fr/04250.mp3",
-          "zh/04250.mp3",
-          "tā nà wú liáo de duì shǒu huì bèi jiě gù yī",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "光线",
-          "lumiere",
-          "",
-          "fr/03484.mp3",
-          "zh/03484.mp3",
-          "guāng xiàn",
-          "[lymjer]"
-        ],
-        [
-          "决定",
-          "décider",
-          "vt.",
-          "fr/03485.mp3",
-          "zh/03485.mp3",
-          "jué dìng",
-          "[deside]"
-        ],
-        [
-          "",
-          "anniversaire",
-          "",
-          "fr/03486.mp3",
-          "",
-          "",
-          "[aniverseir]"
-        ],
-        [
-          "生日",
-          "",
-          "n.m.",
-          "",
-          "zh/03487.mp3",
-          "shēng rì",
-          ""
-        ],
-        [
-          "浑浊的",
-          "troublea..",
-          "",
-          "fr/03488.mp3",
-          "zh/03488.mp3",
-          "hún zhuó de",
-          "[trubl]"
-        ],
-        [
-          "看不清的",
-          "",
-          "",
-          "",
-          "zh/03489.mp3",
-          "kàn bù qīng de",
-          ""
-        ],
-        [
-          "眼镜",
-          "Blunettes",
-          "",
-          "fr/03490.mp3",
-          "zh/03490.mp3",
-          "yǎn jìng",
-          ""
-        ],
-        [
-          "仇恨",
-          "hair vt.tu",
-          "",
-          "fr/04251.mp3",
-          "zh/04251.mp3",
-          "chóu hèn",
-          "[air]"
-        ],
-        [
-          "",
-          "jugement",
-          "n.m",
-          "fr/04252.mp3",
-          "",
-          "",
-          "[3y3mä]"
-        ],
-        [
-          "判断",
-          "",
-          "",
-          "",
-          "zh/04253.mp3",
-          "pàn duàn",
-          ""
-        ],
-        [
-          "学校",
-          "école",
-          "nf.",
-          "fr/04254.mp3",
-          "zh/04254.mp3",
-          "xué xiào",
-          "[ekl]"
-        ],
-        [
-          "",
-          "ennuyeux,euse",
-          "",
-          "fr/04255.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "令人烦恼的",
-          "ad.A",
-          "",
-          "fr/04256.mp3",
-          "zh/04256.mp3",
-          "lìng rén fán nǎo de",
-          "[anijo]"
-        ]
-      ]
-    },
-    {
-      "no": 4,
-      "name": "便利店",
-      "w": [
-        [
-          "方便的",
-          "commode",
-          "",
-          "fr/03491.mp3",
-          "zh/03491.mp3",
-          "fāng biàn de",
-          "[koroe]"
-        ],
-        [
-          "磅秤",
-          "bascule",
-          "f.",
-          "fr/03492.mp3",
-          "zh/03492.mp3",
-          "bàng chèng",
-          "[baskyl]"
-        ],
-        [
-          "标签",
-          "label",
-          "m",
-          "fr/03493.mp3",
-          "zh/03493.mp3",
-          "biāo qiān",
-          "[label]"
-        ],
-        [
-          "价格",
-          "prix",
-          "m",
-          "fr/03494.mp3",
-          "zh/03494.mp3",
-          "jià gé",
-          "[pri]"
-        ],
-        [
-          "零钱",
-          "monnaie",
-          "",
-          "fr/03495.mp3",
-          "zh/03495.mp3",
-          "líng qián",
-          "[mone]"
-        ],
-        [
-          "口香糖",
-          "chewing-gum",
-          "m.",
-          "fr/03496.mp3",
-          "zh/03496.mp3",
-          "kǒu xiāng táng",
-          "[wingom]"
-        ],
-        [
-          "便宜的",
-          "bon marché",
-          "",
-          "fr/03497.mp3",
-          "zh/03497.mp3",
-          "pián yi de",
-          "[b3 marfe]"
-        ],
-        [
-          "昂贵的",
-          "cher er]",
-          "",
-          "fr/03498.mp3",
-          "zh/03498.mp3",
-          "áng guì de",
-          ""
-        ],
-        [
-          "昂贵的",
-          "onéreuxse",
-          "",
-          "fr/03499.mp3",
-          "zh/03499.mp3",
-          "áng guì de",
-          "[onero,z]"
-        ],
-        [
-          "可食用的",
-          "mangeable",
-          "",
-          "fr/03500.mp3",
-          "zh/03500.mp3",
-          "kě shí yòng de",
-          "[mázabl]"
-        ],
-        [
-          "变质的",
-          "abatardi,e",
-          "",
-          "fr/03501.mp3",
-          "zh/03501.mp3",
-          "biàn zhì dì",
-          "[abatardi]"
-        ],
-        [
-          "日用品",
-          "article dusage .",
-          "",
-          "fr/03502.mp3",
-          "zh/03502.mp3",
-          "rì yòng pǐn",
-          "[artikl dyzaz]"
-        ],
-        [
-          "保质期",
-          "la période de la garantie de qualité y.",
-          "",
-          "fr/03503.mp3",
-          "zh/03503.mp3",
-          "bǎo zhì qī",
-          "[la perjod da la garáti da kalite]"
-        ],
-        [
-          "不景气的生意平淡",
-          "stagnante mevente /",
-          "",
-          "fr/03504.mp3",
-          "zh/03504.mp3",
-          "bù jǐng qì de shēng yì píng dàn",
-          "[stagná, t]"
-        ],
-        [
-          "已订婚的",
-          "fiancee",
-          "",
-          "fr/04257.mp3",
-          "zh/04257.mp3",
-          "yǐ dìng hūn de",
-          "[fjáse]"
-        ],
-        [
-          "订婚",
-          "ifiancailles fpl.",
-          "",
-          "fr/04258.mp3",
-          "zh/04258.mp3",
-          "dìng hūn",
-          "[fi)jásaj]"
-        ],
-        [
-          "婚礼",
-          "Lnocespl.",
-          "",
-          "fr/04259.mp3",
-          "zh/04259.mp3",
-          "hūn lǐ",
-          "[nos]"
-        ],
-        [
-          "结婚",
-          "se marier .",
-          "",
-          "fr/04260.mp3",
-          "zh/04260.mp3",
-          "jié hūn",
-          "[sa marje]"
-        ],
-        [
-          "嫁妆",
-          "trousseau",
-          "m.",
-          "fr/04261.mp3",
-          "zh/04261.mp3",
-          "jià zhuāng",
-          "[truso]"
-        ],
-        [
-          "新娘",
-          "nouvelle mariée",
-          "f.",
-          "fr/04262.mp3",
-          "zh/04262.mp3",
-          "xīn niáng",
-          "[nuvel marje]"
-        ],
-        [
-          "新郎",
-          "nouveau marie",
-          "m.",
-          "fr/04263.mp3",
-          "zh/04263.mp3",
-          "xīn láng",
-          "[nuvo marje]"
-        ],
-        [
-          "主持",
-          "desservir .",
-          "",
-          "fr/04264.mp3",
-          "zh/04264.mp3",
-          "zhǔ chí",
-          "[deservir]"
-        ],
-        [
-          "牧师",
-          "pasteur",
-          "m.",
-          "fr/04265.mp3",
-          "zh/04265.mp3",
-          "mù shī",
-          "[paster]"
-        ],
-        [
-          "誓言",
-          "serment",
-          "m.",
-          "fr/04266.mp3",
-          "zh/04266.mp3",
-          "shì yán",
-          "[sermá]"
-        ],
-        [
-          "蜜月",
-          "lune de miel lyn da mjel]",
-          "m.",
-          "fr/04267.mp3",
-          "zh/04267.mp3",
-          "mì yuè",
-          ""
-        ],
-        [
-          "婚纱",
-          "robe nuptiale .",
-          "",
-          "fr/04268.mp3",
-          "zh/04268.mp3",
-          "hūn shā",
-          "[rob nypsjal]"
-        ],
-        [
-          "婚姻",
-          "mariage",
-          "m.",
-          "fr/04269.mp3",
-          "zh/04269.mp3",
-          "hūn yīn",
-          "[marjay]"
-        ],
-        [
-          "婚姻法",
-          "loi sur le mariage",
-          "m.",
-          "fr/04270.mp3",
-          "zh/04270.mp3",
-          "hūn yīn fǎ",
-          "[Iwa syr la marjaz]"
-        ],
-        [
-          "婚姻自由",
-          "libertéde mariage [liberte da marjazl mi.",
-          "",
-          "fr/04271.mp3",
-          "zh/04271.mp3",
-          "hūn yīn zì yóu",
-          ""
-        ],
-        [
-          "婚期",
-          "jour demariage",
-          "m.",
-          "fr/04272.mp3",
-          "zh/04272.mp3",
-          "hūn qī",
-          "[3ur damarjaz]"
-        ],
-        [
-          "婚庆",
-          "épousailles ..pl.",
-          "",
-          "fr/04273.mp3",
-          "zh/04273.mp3",
-          "hūn qìng",
-          "[epuzaj]"
-        ]
-      ],
-      "s": [
-        [
-          "Le métro est le moyen de transport le plus commode et le moins cher. XI.",
-          "地铁是最便宜最方便的交通工具",
-          "",
-          "fr/03505.mp3",
-          "zh/03505.mp3",
-          "dì tiě shì zuì pián yi zuì fāng biàn de jiāo tōng gōng jù",
-          ""
-        ],
-        [
-          "Beaucoup portent des vestes fluorescentes et pro posent de prendre le caddy,ca doit leur faire un peu de mon- naie.",
-          "不少身穿反光马甲的当地人，您惠乘客用推车，这是要给些小钱的。",
-          "",
-          "fr/03506.mp3",
-          "zh/03506.mp3",
-          "bù shǎo shēn chuān fǎn guāng mǎ jiǎ dí dàng dì rén nín huì chéng kè yòng tuī chē zhè shì yào gěi xiē xiǎo qián de",
-          ""
-        ],
-        [
-          "Pour la plupart des Francais, voir les films a la television ou en vidéo, c'est plus commode et moins cher. HX.",
-          "对多数法国人而言，在电视上看或者看看碟片既方便又便宜",
-          "",
-          "fr/03507.mp3",
-          "zh/03507.mp3",
-          "duì duō shù fǎ guó rén ér yán zài diàn shì shàng kàn huò zhě kàn kàn dié piàn jì fāng biàn yòu pián yi",
-          ""
-        ],
-        [
-          "Maintenant,l'hiver suit l'automne,le spectacle de- vient plus stagnant. E*T",
-          "看得出来景色也变得萧条了不少",
-          "",
-          "fr/03508.mp3",
-          "zh/03508.mp3",
-          "kàn dé chū lái jǐng sè yě biàn dé xiāo tiáo le bù shǎo",
-          ""
-        ],
-        [
-          "Feter les anniversaires de mariage est une coutume an cienne qui viendrait d'Angle terre.-",
-          "庆祝结婚周年是一个从英国传来的古老习俗。",
-          "",
-          "fr/04274.mp3",
-          "zh/04274.mp3",
-          "qìng zhù jié hūn zhōu nián shì yí gè cóng yīng guó chuán lái de gǔ lǎo xí sú",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "",
-          "fluorescent,e",
-          "",
-          "fr/03509.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "荧光的",
-          "",
-          "",
-          "",
-          "zh/03510.mp3",
-          "yíng guāng de",
-          ""
-        ],
-        [
-          "",
-          "proposer",
-          "v.i.",
-          "fr/03511.mp3",
-          "",
-          "",
-          "[propoze]"
-        ],
-        [
-          "建议",
-          "",
-          "",
-          "",
-          "zh/03512.mp3",
-          "jiàn yì",
-          ""
-        ],
-        [
-          "录像",
-          "vidéo",
-          "f.",
-          "fr/03513.mp3",
-          "zh/03513.mp3",
-          "lù xiàng",
-          "[video]"
-        ],
-        [
-          "",
-          "spectacle .",
-          "m.",
-          "fr/03514.mp3",
-          "",
-          "",
-          "[spektakl]"
-        ],
-        [
-          "场景",
-          "",
-          "",
-          "",
-          "zh/03515.mp3",
-          "chǎng jǐng",
-          ""
-        ],
-        [
-          "",
-          "connaissance",
-          "",
-          "fr/04275.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "了解",
-          "",
-          "",
-          "",
-          "zh/04276.mp3",
-          "liǎo jiě",
-          "[kone sas]"
-        ],
-        [
-          "引起",
-          "preter vt.s",
-          "",
-          "fr/04277.mp3",
-          "zh/04277.mp3",
-          "yǐn qǐ",
-          "[preete]"
-        ],
-        [
-          "",
-          "Banniversaire",
-          "",
-          "fr/04278.mp3",
-          "",
-          "",
-          "[aniverse:r]"
-        ],
-        [
-          "周年纪念日",
-          "",
-          "nm.",
-          "",
-          "zh/04279.mp3",
-          "zhōu nián jì niàn rì",
-          ""
-        ],
-        [
-          "",
-          "ancienne",
-          "adj.",
-          "fr/04280.mp3",
-          "",
-          "",
-          "[äsj,en]"
-        ],
-        [
-          "古老的",
-          "",
-          "",
-          "",
-          "zh/04281.mp3",
-          "gǔ lǎo de",
-          ""
-        ]
-      ]
-    },
-    {
-      "no": 1,
-      "name": "户外广场",
-      "w": [
-        [
-          "广场",
-          "place",
-          "f",
-          "fr/03516.mp3",
-          "zh/03516.mp3",
-          "guǎng chǎng",
-          "[plas]"
-        ],
-        [
-          "人群",
-          "foule",
-          "",
-          "fr/03517.mp3",
-          "zh/03517.mp3",
-          "rén qún",
-          "[ful]"
-        ],
-        [
-          "喷泉",
-          "fontaine",
-          "",
-          "fr/03518.mp3",
-          "zh/03518.mp3",
-          "pēn quán",
-          "[f5ten]"
-        ],
-        [
-          "许愿",
-          "faire des pro messes",
-          "",
-          "fr/03519.mp3",
-          "zh/03519.mp3",
-          "xǔ yuàn",
-          "[ferr de promes]"
-        ],
-        [
-          "硬市",
-          "piece",
-          "",
-          "fr/03520.mp3",
-          "zh/03520.mp3",
-          "yìng shì",
-          "[pjes]"
-        ],
-        [
-          "花坛",
-          "parterre",
-          "m",
-          "fr/03521.mp3",
-          "zh/03521.mp3",
-          "huā tán",
-          "[parteir]"
-        ],
-        [
-          "没有阻碍的",
-          "degage",
-          "",
-          "fr/03522.mp3",
-          "zh/03522.mp3",
-          "méi yǒu zǔ ài de",
-          "[degaze]"
-        ],
-        [
-          "长椅",
-          "bancba]",
-          "m",
-          "fr/03523.mp3",
-          "zh/03523.mp3",
-          "zhǎng yǐ",
-          ""
-        ],
-        [
-          "花坛",
-          "jardiniere /",
-          "",
-          "fr/03524.mp3",
-          "zh/03524.mp3",
-          "huā tán",
-          "[zardinje:r]"
-        ],
-        [
-          "鸽子",
-          "pigeo",
-          "nm",
-          "fr/03525.mp3",
-          "zh/03525.mp3",
-          "gē zi",
-          "[pi35]"
-        ],
-        [
-          "成群结队",
-          "en groupea grup]",
-          "",
-          "fr/03526.mp3",
-          "zh/03526.mp3",
-          "chéng qún jié duì",
-          ""
-        ],
-        [
-          "连续地",
-          "successiverent",
-          "",
-          "fr/03527.mp3",
-          "zh/03527.mp3",
-          "lián xù dì",
-          "[sykse(e)si:vmá]"
-        ],
-        [
-          "底座",
-          "soubassement",
-          "m.",
-          "fr/03528.mp3",
-          "zh/03528.mp3",
-          "dǐ zuò",
-          "[suba(a)smá]"
-        ],
-        [
-          "公开的",
-          "ouverte",
-          "",
-          "fr/03529.mp3",
-          "zh/03529.mp3",
-          "gōng kāi de",
-          "[uve:r,ert]"
-        ],
-        [
-          "水池",
-          "étang",
-          "m",
-          "fr/03530.mp3",
-          "zh/03530.mp3",
-          "shuǐ chí",
-          "[eta]"
-        ],
-        [
-          "热气球马器喜",
-          "ballon a air chaud",
-          "m",
-          "fr/03531.mp3",
-          "zh/03531.mp3",
-          "rè qì qiú mǎ qì xǐ",
-          "[bal5 a erfs]"
-        ],
-        [
-          "肥胖",
-          "corpulence .",
-          "",
-          "fr/03653.mp3",
-          "zh/03653.mp3",
-          "féi pàng",
-          "[korpylás]"
-        ],
-        [
-          "身材",
-          "stature [statyr",
-          "",
-          "fr/03654.mp3",
-          "zh/03654.mp3",
-          "shēn cái",
-          ""
-        ],
-        [
-          "苗条的",
-          "mince",
-          "",
-          "fr/03655.mp3",
-          "zh/03655.mp3",
-          "miáo tiáo de",
-          "[ms]"
-        ],
-        [
-          "高的",
-          "haute",
-          "",
-          "fr/03656.mp3",
-          "zh/03656.mp3",
-          "gāo de",
-          "[ot]"
-        ],
-        [
-          "矮的",
-          "bas,se",
-          "",
-          "fr/03657.mp3",
-          "zh/03657.mp3",
-          "ǎi de",
-          "[bas]"
-        ],
-        [
-          "胖的",
-          "grosse",
-          "",
-          "fr/03658.mp3",
-          "zh/03658.mp3",
-          "pàng de",
-          "[gros]"
-        ],
-        [
-          "瘦的",
-          "maigre",
-          "",
-          "fr/03659.mp3",
-          "zh/03659.mp3",
-          "shòu de",
-          "[megr]"
-        ],
-        [
-          "小的",
-          "petit,e",
-          "",
-          "fr/03660.mp3",
-          "zh/03660.mp3",
-          "xiǎo de",
-          "[patit]"
-        ],
-        [
-          "大的",
-          "grand.e",
-          "",
-          "fr/03661.mp3",
-          "zh/03661.mp3",
-          "dà de",
-          "[grad]"
-        ],
-        [
-          "胖嘟嘟的",
-          "potele",
-          "",
-          "fr/03662.mp3",
-          "zh/03662.mp3",
-          "pàng dū dū de",
-          "[potle]"
-        ],
-        [
-          "消瘦的",
-          "desséché",
-          "",
-          "fr/03663.mp3",
-          "zh/03663.mp3",
-          "xiāo shòu de",
-          "[deseSe]"
-        ],
-        [
-          "细长的",
-          "fuselee",
-          "",
-          "fr/03664.mp3",
-          "zh/03664.mp3",
-          "xì cháng de",
-          "[fyzle]"
-        ],
-        [
-          "优美健壮的笨拙的",
-          "fort balourd",
-          "",
-          "fr/03665.mp3",
-          "zh/03665.mp3",
-          "yōu měi jiàn zhuàng de bèn zhuō de",
-          "[fort]"
-        ],
-        [
-          "身高",
-          "taille",
-          "",
-          "fr/03666.mp3",
-          "zh/03666.mp3",
-          "shēn gāo",
-          "[taj]"
-        ],
-        [
-          "比例",
-          "ttéchelle",
-          "",
-          "fr/03667.mp3",
-          "zh/03667.mp3",
-          "bǐ lì",
-          "[eel]"
-        ],
-        [
-          "迷人的",
-          "fascinant,",
-          "",
-          "fr/03668.mp3",
-          "zh/03668.mp3",
-          "mí rén de",
-          "[fasinä,t]"
-        ],
-        [
-          "丰满的",
-          "plantureux,se",
-          "",
-          "fr/03669.mp3",
-          "zh/03669.mp3",
-          "fēng mǎn de",
-          "[plätyro,z]"
-        ]
-      ],
-      "s": [
-        [
-          "Moi, se dit le petit prince si j'avais cinquante-trois mi- nutes a dépenser,je marche- rais tout doucement vers une +A W....\"",
-          "如果我有这五十三分钟可以自由支配，我会轻心自如地漫步在一条通往饮水喷泉的路上",
-          "fontaine..》“我，”小王子说， 《小王子》",
-          "fr/03532.mp3",
-          "zh/03532.mp3",
-          "rú guǒ wǒ yǒu zhè wǔ shí sān fēn zhōng kě yǐ zì yóu zhī pèi wǒ huì qīng xīn zì rú dì màn bù zài yī tiáo tōng wǎng yǐn shuǐ pēn quán de lù shàng",
-          ""
-        ],
-        [
-          "Il fut transportéá travers les rues,et l'homme qui le portait se faisait insulter par la foule.",
-          "他被举着穿过大街小巷。那个背着他的人受到众人辱马。",
-          "",
-          "fr/03533.mp3",
-          "zh/03533.mp3",
-          "tā bèi jǔ zhe chuān guò dà jiē xiǎo xiàng nà ge bèi zhe tā de rén shòu dào zhòng rén rǔ mǎ",
-          ""
-        ],
-        [
-          "Il a oublié ses sacs sur un banc",
-          "他把他的包忘在了长椅上。",
-          "",
-          "fr/03534.mp3",
-          "zh/03534.mp3",
-          "tā bǎ tā de bāo wàng zài le zhǎng yǐ shàng",
-          ""
-        ],
-        [
-          "Je veux dire, j'tais consi déré comme son ami mince. X1",
-          "我想说，我那时算是他的瘦朋友了",
-          "一《老友记》",
-          "fr/03670.mp3",
-          "zh/03670.mp3",
-          "wǒ xiǎng shuō wǒ nà shí suàn shì tā de shòu péng yǒu le",
-          ""
-        ],
-        [
-          "I est gros alors que son frere estmaigre.",
-          "他很胖而他的兄弟却很瘦。",
-          "",
-          "fr/03671.mp3",
-          "zh/03671.mp3",
-          "tā hěn pàng ér tā de xiōng dì què hěn shòu",
-          ""
-        ],
-        [
-          "Elle est complexée parce quelle a de gros mollets.",
-          "她因她的小腿肚太胖而感到自卑。",
-          "",
-          "fr/03672.mp3",
-          "zh/03672.mp3",
-          "tā yīn tā de xiǎo tuǐ dù tài pàng ér gǎn dào zì bēi",
-          ""
-        ]
-      ],
-      "e": [
-        [
-          "",
-          "dépenser wt",
-          "",
-          "fr/03535.mp3",
-          "",
-          "",
-          "[depäse]"
-        ],
-        [
-          "花费",
-          "",
-          "",
-          "",
-          "zh/03536.mp3",
-          "huā fèi",
-          ""
-        ],
-        [
-          "",
-          "doucement",
-          "adv",
-          "fr/03537.mp3",
-          "",
-          "",
-          "[dusmä]"
-        ],
-        [
-          "轻轻地",
-          "",
-          "",
-          "",
-          "zh/03538.mp3",
-          "qīng qīng dì",
-          ""
-        ],
-        [
-          "厚骂",
-          "insulter",
-          "vt.",
-          "fr/03539.mp3",
-          "zh/03539.mp3",
-          "hòu mà",
-          "[sylte]"
-        ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "具",
-          "Sr",
-          "",
-          "fr/03541.mp3",
-          "zh/03541.mp3",
-          "jù",
-          ""
-        ],
-        [
-          "广场",
-          "place",
-          "",
-          "fr/03542.mp3",
-          "zh/03542.mp3",
-          "guǎng chǎng",
-          ""
-        ],
-        [
-          "",
-          "considéré,e",
-          "",
-          "fr/03673.mp3",
-          "",
-          "",
-          "[ksidere]"
-        ],
-        [
-          "受尊重的",
-          "",
-          "adj",
-          "",
-          "zh/03674.mp3",
-          "shòu zūn zhòng de",
-          ""
-        ],
-        [
-          "兄弟",
-          "frere",
-          "nm.",
-          "fr/03675.mp3",
-          "zh/03675.mp3",
-          "xiōng dì",
-          "[frer]"
-        ],
-        [
-          "",
-          "complexé,e",
-          "",
-          "fr/03676.mp3",
-          "",
-          "",
-          "[kplckse]"
-        ],
-        [
-          "自卑的人",
-          "",
-          "adj.",
-          "",
-          "zh/03677.mp3",
-          "zì bēi de rén",
-          ""
-        ],
-        [
-          "腿肚",
-          "mollet",
-          "n.m.",
-          "fr/03678.mp3",
-          "zh/03678.mp3",
-          "tuǐ dù",
-          "[mole]"
-        ],
-        [
-          "肥胖",
-          "corpulence",
-          "",
-          "fr/03679.mp3",
-          "zh/03679.mp3",
-          "féi pàng",
-          ""
+          "rɔ̃pr"
         ]
       ]
     }
