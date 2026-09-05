@@ -1461,11 +1461,11 @@ window.BOOK_DATA[27] = {
           "[ab5dá:s]"
         ],
         [
-          "",
+          "报复，回击",
           "revanche",
           "",
-          "fr/05765.mp3",
-          "",
+          "fr/13228.mp3",
+          "zh/13229.mp3",
           "",
           "[ravá]"
         ]
@@ -3611,10 +3611,10 @@ window.BOOK_DATA[27] = {
         ],
         [
           "加班",
-          "travailler en dehors des heures légales [travaje ä da:r de cirlegal",
+          "travailler en dehors des heures légales",
           "",
-          "fr/05674.mp3",
-          "zh/05674.mp3",
+          "fr/13230.mp3",
+          "zh/13231.mp3",
           "jiā bān",
           ""
         ],

@@ -1311,10 +1311,10 @@ window.BOOK_DATA[15] = {
       "w": [
         [
           "世界贸易组织",
-          "Organisa tion Mondiale du Com- merce rganizasj mšdjal dy komers]",
+          "Organisation Mondiale du Commerce",
           "f",
-          "fr/09901.mp3",
-          "zh/09901.mp3",
+          "fr/13208.mp3",
+          "zh/13209.mp3",
           "shì jiè mào yì zǔ zhī",
           ""
         ],

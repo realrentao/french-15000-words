@@ -461,10 +461,10 @@ window.BOOK_DATA[19] = {
         ],
         [
           "土地使用期",
-          "période d'utilisation des terres [perjod dytilizasj de teirly.",
+          "période d'utilisation des terres",
           "",
-          "fr/10804.mp3",
-          "zh/10804.mp3",
+          "fr/13222.mp3",
+          "zh/13223.mp3",
           "tǔ dì shǐ yòng qī",
           ""
         ],

@@ -2149,12 +2149,21 @@ window.BOOK_DATA[25] = {
           ""
         ],
         [
-          "生育保险住房公积金",
-          "assurance maternité lasyräs maternite]f. fonds pour les logements",
+          "生育保险",
+          "assurance maternité",
+          "f.",
+          "fr/13224.mp3",
+          "zh/13225.mp3",
+          "",
+          ""
+        ],
+        [
+          "住房公积金",
+          "fonds pour les logements",
           "m.",
-          "fr/05435.mp3",
-          "zh/05435.mp3",
-          "shēng yù bǎo xiǎn zhù fáng gōng jī jīn",
+          "fr/13226.mp3",
+          "zh/13227.mp3",
+          "",
           "[f5 pur le lozmá]"
         ],
         [

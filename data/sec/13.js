@@ -2304,11 +2304,11 @@ window.BOOK_DATA[13] = {
           "[mustik]"
         ],
         [
-          "",
-          "scolopendre /",
+          "铁角蕨",
+          "scolopendre",
           "",
           "fr/08805.mp3",
-          "",
+          "zh/13232.mp3",
           "",
           "[skolopádr]"
         ],
@@ -6433,11 +6433,11 @@ window.BOOK_DATA[13] = {
           ""
         ],
         [
-          "",
+          "牙鳕",
           "merlan",
           "m",
-          "fr/09234.mp3",
-          "",
+          "fr/13206.mp3",
+          "zh/13207.mp3",
           "",
           "[merla]"
         ],

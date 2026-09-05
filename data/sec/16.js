@@ -1786,24 +1786,6 @@ window.BOOK_DATA[16] = {
       "name": "第4节",
       "w": [
         [
-          "高原及平原湖河流瀑布鱼旅游景点旅游景点农场农场堡垒城堡教堂温室采摘桥露营相机国家政治常见国家社会形态社会发展词汇政治制度国家各部门竞选投票外交外交权利义务经济基本知识各种产业经济状况国际贸易改革开放词汇世贸贸易组织词汇钱常见经济政策外贸市场金融经济行为储投资理借",
-          "..301 &... .. ...302 .347 ...303 ... .304 ... . . ...350 1351 .35 1 .3 .. 2 ..307 ...55 ...308 ...309 ..7 MA. ..310 ... ...358 ..1 .5 .. .. ..60 .313 ...14 ..315 .316 .362 A .362 .319 ..63 .320 .364 ..321 . ..366 .. ..67 .. ...32 . .368 ...323 . .. 1. ...70 ...325 1x2 . . ...326 .372 X .. 373 ..33 ..30 ...4 W. ...1 ..6 377 .4 .. .378 79 ..0 .. .. . ...3.8 A.. ...382 .339 .40 ....83 AA. ...3 . ...343 +. ...84 .4 ww. w5 . ...386",
-          "",
-          "fr/00018.mp3",
-          "zh/00018.mp3",
-          "gāo yuán jí píng yuán hú hé liú pù bù yú lǚ yóu jǐng diǎn lǚ yóu jǐng diǎn nóng chǎng nóng chǎng bǎo lěi chéng bǎo jiào táng wēn shì cǎi zhāi qiáo lù yíng xiàng jī guó jiā zhèng zhì cháng jiàn guó jiā shè huì xíng tài shè huì fā zhǎn cí huì zhèng zhì zhì dù guó jiā gè bù mén jìng xuǎn tóu piào wài jiāo wài jiāo quán lì yì wù jīng jì jī běn zhī shí gè zhǒng chǎn yè jīng jì zhuàng kuàng guó jì mào yì gǎi gé kāi fàng cí huì shì mào mào yì zǔ zhī cí huì qián cháng jiàn jīng jì zhèng cè wài mào shì chǎng jīn róng jīng jì xíng wéi chǔ tóu zī lǐ jiè",
-          ""
-        ],
-        [
-          "信用汇率证券交税下岗与就业不同信仰宗教活动文化与艺术雕塑",
-          "..387 . .8 ..9 EF. XB. .390 F . 392 ..392 .3 .394 . .394",
-          "",
-          "fr/00019.mp3",
-          "zh/00019.mp3",
-          "xìn yòng huì lǜ zhèng quàn jiāo shuì xià gǎng yǔ jiù yè bù tóng xìn yǎng zōng jiào huó dòng wén huà yǔ yì shù diāo sù",
-          ""
-        ],
-        [
           "高利贷",
           "usure",
           "f",
@@ -2724,13 +2706,58 @@ window.BOOK_DATA[16] = {
           "[marf käbist]"
         ],
         [
-          "汇率浮动逐不固定的珍固定的逐可变的直接的珍间接的韧变换",
-          "fluctuations des taux de change stationnaire changeable directe indirect changeräze]",
+          "汇率浮动",
+          "fluctuations des taux de change",
+          "m.",
+          "fr/13210.mp3",
+          "zh/13211.mp3",
           "",
-          "fr/10172.mp3",
-          "zh/10172.mp3",
-          "huì lǜ fú dòng zhú bù gù dìng de zhēn gù dìng de zhú kě biàn de zhí jiē de zhēn jiàn jiē de rèn biàn huàn",
-          "[flyktya(a)sj de to daá3l T flottante [flota,át]"
+          ""
+        ],
+        [
+          "固定的",
+          "stationnaire",
+          "adj.",
+          "fr/13212.mp3",
+          "zh/13213.mp3",
+          "",
+          ""
+        ],
+        [
+          "可变的",
+          "changeable",
+          "adj.",
+          "fr/13214.mp3",
+          "zh/13215.mp3",
+          "",
+          ""
+        ],
+        [
+          "直接的",
+          "directe",
+          "adj.",
+          "fr/13216.mp3",
+          "zh/13217.mp3",
+          "",
+          ""
+        ],
+        [
+          "间接的",
+          "indirecte",
+          "adj.",
+          "fr/13218.mp3",
+          "zh/13219.mp3",
+          "",
+          ""
+        ],
+        [
+          "变换",
+          "change",
+          "m.",
+          "fr/13220.mp3",
+          "zh/13221.mp3",
+          "",
+          ""
         ],
         [
           "一致韧操纵",

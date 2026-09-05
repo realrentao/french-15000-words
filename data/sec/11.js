@@ -492,59 +492,6 @@ window.BOOK_DATA[11] = {
           ""
         ]
       ]
-    },
-    {
-      "no": 4,
-      "name": "第4节",
-      "w": [
-        [
-          "健身运动运动健身舞蹈瑜伽保龄球滑雪与溜冰高尔夫减肥修身养性园艺各种乐器各种乐器钢琴舞台剧博物馆天文古董店",
-          "... .. Z .. ..65 ... .. w..267 ...68 k .69 . .70 . ..71 172 273 .274 w.. W.. ..75 .. .6 .. XX.. .... .. ..9",
-          "",
-          "fr/00011.mp3",
-          "zh/00011.mp3",
-          "jiàn shēn yùn dòng yùn dòng jiàn shēn wǔ dǎo yú jiā bǎo líng qiú huá xuě yǔ liū bīng gāo ěr fū jiǎn féi xiū shēn yǎng xìng yuán yì gè zhǒng yuè qì gè zhǒng yuè qì gāng qín wǔ tái jù bó wù guǎn tiān wén gǔ dǒng diàn",
-          ""
-        ],
-        [
-          "物园水族植物园植物园游乐园演唱会酒吧野餐烧烤电影电视看电影电影工作人员电影类型看电视听音出版刊物出版物报纸及杂志类型报纸杂志内容时尚前沿",
-          ". . ... 1.3 ... 2 ...5 w.. ..6 . ... . .. . . ..9 nw. ..0 . .. . .3 .. . .9 26 878",
-          "",
-          "fr/00014.mp3",
-          "zh/00014.mp3",
-          "wù yuán shuǐ zú zhí wù yuán zhí wù yuán yóu lè yuán yǎn chàng huì jiǔ bā yě cān shāo kǎo diàn yǐng diàn shì kàn diàn yǐng diàn yǐng gōng zuò rén yuán diàn yǐng lèi xíng kàn diàn shì tīng yīn chū bǎn kān wù chū bǎn wù bào zhǐ jí zá zhì lèi xíng bào zhǐ zá zhì nèi róng shí shàng qián yán",
-          ""
-        ],
-        [
-          "书区网购游戏扑克牌其他牌类游戏",
-          "..297 p. w... .8 .... 4. t.300",
-          "",
-          "fr/00015.mp3",
-          "zh/00015.mp3",
-          "shū qū wǎng gòu yóu xì pū kè pái qí tā pái lèi yóu xì",
-          ""
-        ],
-        [
-          "身体的动作人的情绪正面情偏负面情绪人类交流的方式手机电脑网站博客与邮件亲属关系恋人与朋友敌人结婚校园各种学校各种教育各种考试学校设置学校各个科室教室操场宿画室实验室校园人员常见院系",
-          "...151 F153 E.... ... ...15 .156 FU... ...16 ...1. ... ...158 ...19 + ..160 AXR ...161 ...162 ... . ..163 ...166 ...167 .... ..169 .169 #.. ..170 131 ...7 .2 ..173 .4 TAE.. w..75 ..16 WR..",
-          "",
-          "fr/00016.mp3",
-          "zh/00016.mp3",
-          "shēn tǐ de dòng zuò rén de qíng xù zhèng miàn qíng piān fù miàn qíng xù rén lèi jiāo liú de fāng shì shǒu jī diàn nǎo wǎng zhàn bó kè yǔ yóu jiàn qīn shǔ guān xì liàn rén yǔ péng yǒu dí rén jié hūn xiào yuán gè zhǒng xué xiào gè zhǒng jiào yù gè zhǒng kǎo shì xué xiào shè zhì xué xiào gè gè kē shì jiào shì cāo chǎng sù huà shì shí yàn shì xiào yuán rén yuán cháng jiàn yuàn xì",
-          ""
-        ],
-        [
-          "书馆学习成长课程设置上课讲座奖学金社团成绩好坏毕业",
-          "K wawm. ...8 E.. ..9 H.. ...10 + ...11 ...12 ...13 .. .. ..",
-          "",
-          "fr/00017.mp3",
-          "zh/00017.mp3",
-          "shū guǎn xué xí chéng zhǎng kè chéng shè zhì shàng kè jiǎng zuò jiǎng xué jīn shè tuán chéng jì hǎo huài bì yè",
-          ""
-        ]
-      ],
-      "s": [],
-      "e": []
     }
   ]
 };

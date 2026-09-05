@@ -534,20 +534,20 @@ window.BOOK_DATA[7] = {
           "[saksofon]"
         ],
         [
-          "口琴口琴",
-          "harmonica musiquea",
+          "口琴",
+          "harmonica",
           "",
-          "fr/06780.mp3",
-          "zh/06780.mp3",
+          "fr/13200.mp3",
+          "zh/13201.mp3",
           "kǒu qín kǒu qín",
           "[armonika]"
         ],
         [
-          "",
-          "bouche [myzik a bulf:",
-          "",
-          "fr/06781.mp3",
-          "",
+          "口技",
+          "musique à bouche",
+          "f.",
+          "fr/13202.mp3",
+          "zh/13203.mp3",
           "",
           ""
         ],
@@ -579,11 +579,11 @@ window.BOOK_DATA[7] = {
           "[kastanet]"
         ],
         [
-          "",
+          "钹",
           "cymbale",
-          "",
-          "fr/06785.mp3",
-          "",
+          "f.",
+          "fr/13204.mp3",
+          "zh/13205.mp3",
           "",
           "[stbal]"
         ],
