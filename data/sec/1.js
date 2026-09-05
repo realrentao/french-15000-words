@@ -1,5 +1,5 @@
 window.BOOK_DATA = window.BOOK_DATA || {};
-window.BOOK_DATA[1] = {
+window.BOOK_DATA[1] ={
   "gid": 1,
   "no": "3",
   "name": "食",
@@ -7,3777 +7,2248 @@ window.BOOK_DATA[1] = {
   "secs": [
     {
       "no": 1,
-      "name": "第1节",
+      "name": "一日三餐",
       "w": [
         [
-          "建筑建筑",
-          "batiment construction /.",
-          "",
-          "fr/01516.mp3",
-          "zh/01516.mp3",
-          "jiàn zhù jiàn zhù",
-          "batima"
-        ],
-        [
-          "广场",
-          "place",
-          "",
-          "fr/01517.mp3",
-          "zh/01517.mp3",
-          "guǎng chǎng",
-          "plas"
-        ],
-        [
-          "设立",
-          "créer",
-          "",
-          "fr/01518.mp3",
-          "zh/01518.mp3",
-          "shè lì",
-          "kree"
-        ],
-        [
-          "纪念碑摩天大楼",
-          "monument gratte-ciel m.in",
-          "",
-          "fr/01519.mp3",
-          "zh/01519.mp3",
-          "jì niàn bēi mó tiān dà lóu",
-          "monymá"
-        ],
-        [
-          "教堂",
-          "église",
-          "",
-          "fr/01520.mp3",
-          "zh/01520.mp3",
-          "jiào táng",
-          "egliz"
-        ],
-        [
-          "水泥",
-          "k ciment",
+          "早餐",
+          "petit-déjeuner",
           "m.",
-          "fr/01521.mp3",
-          "zh/01521.mp3",
-          "shuǐ ní",
-          "simä"
+          "fr/11502.mp3",
+          "zh/11502.mp3",
+          "zao3 can1",
+          "p(ə)ti-deʒœne"
         ],
         [
-          "混凝土",
-          "beton",
-          "m",
-          "fr/01522.mp3",
-          "zh/01522.mp3",
-          "hùn níng tǔ",
-          "bet"
-        ],
-        [
-          "砖",
-          "brique",
-          "f",
-          "fr/01523.mp3",
-          "zh/01523.mp3",
-          "zhuān",
-          "brik"
-        ],
-        [
-          "拱门",
-          "porte cintrée",
-          "",
-          "fr/01524.mp3",
-          "zh/01524.mp3",
-          "gǒng mén",
-          "port sttre"
-        ],
-        [
-          "穹顶",
-          "coupole /",
-          "",
-          "fr/01525.mp3",
-          "zh/01525.mp3",
-          "qióng dǐng",
-          "kupol"
-        ],
-        [
-          "宅邸",
-          "appartement",
-          "m",
-          "fr/01526.mp3",
-          "zh/01526.mp3",
-          "zhái dǐ",
-          "apartomä"
-        ],
-        [
-          "宏伟的",
-          "gigantesque",
-          "",
-          "fr/01527.mp3",
-          "zh/01527.mp3",
-          "hóng wěi de",
-          "3igätesk"
-        ],
-        [
-          "华丽的电的建筑",
-          "luxurianite KYYY B batiment",
-          "",
-          "fr/01528.mp3",
-          "zh/01528.mp3",
-          "huá lì de diàn de jiàn zhù",
-          "lyksyrjá, át"
-        ],
-        [
-          "便携的",
-          "portable",
-          "",
-          "fr/04064.mp3",
-          "zh/04064.mp3",
-          "biàn xié de",
-          "portabl"
-        ],
-        [
-          "移动的",
-          "mobile",
-          "",
-          "fr/04065.mp3",
-          "zh/04065.mp3",
-          "yí dòng de",
-          "mbil"
-        ],
-        [
-          "手机",
-          "téléphone portable",
-          "m",
-          "fr/04066.mp3",
-          "zh/04066.mp3",
-          "shǒu jī",
-          "telefon portabl"
-        ],
-        [
-          "信号",
-          "signal",
+          "午餐",
+          "déjeuner",
           "m.",
-          "fr/04067.mp3",
-          "zh/04067.mp3",
-          "xìn hào",
-          "sinal"
+          "fr/11503.mp3",
+          "zh/11503.mp3",
+          "wu3 can1",
+          "deʒœne"
         ],
         [
-          "手机铃声",
-          "sonnerie",
+          "正餐",
+          "dîner",
+          "m.",
+          "fr/11504.mp3",
+          "zh/11504.mp3",
+          "zheng4 can1",
+          "dine"
+        ],
+        [
+          "餐",
+          "repas",
+          "m.",
+          "fr/11505.mp3",
+          "zh/11505.mp3",
+          "can1",
+          "r(ə)pɑ"
+        ],
+        [
+          "食物",
+          "nourriture",
           "f.",
-          "fr/04068.mp3",
-          "zh/04068.mp3",
-          "shǒu jī líng shēng",
-          "sonri"
+          "fr/11506.mp3",
+          "zh/11506.mp3",
+          "shi2 wu4",
+          "nurity:r"
         ],
         [
-          "语音提示",
-          "messages vocaux",
-          "",
-          "fr/04069.mp3",
-          "zh/04069.mp3",
-          "yǔ yīn tí shì",
-          "me(e)saze voko"
-        ],
-        [
-          "直板手机",
-          "bar de téle phone",
-          "m",
-          "fr/04070.mp3",
-          "zh/04070.mp3",
-          "zhí bǎn shǒu jī",
-          "basr da telefon"
-        ],
-        [
-          "翻盖手机",
-          "téléphone a rabat",
-          "m",
-          "fr/04071.mp3",
-          "zh/04071.mp3",
-          "fān gài shǒu jī",
-          "telefon a raba"
-        ],
-        [
-          "滑盖手机",
-          "télephone a clavier coulissant",
-          "m.",
-          "fr/04072.mp3",
-          "zh/04072.mp3",
-          "huá gài shǒu jī",
-          "telefon a klavje kulisá"
-        ],
-        [
-          "按键",
-          "bouton",
-          "m",
-          "fr/04073.mp3",
-          "zh/04073.mp3",
-          "àn jiàn",
-          "but"
-        ],
-        [
-          "提示音",
-          "signal sonore",
-          "m.",
-          "fr/04074.mp3",
-          "zh/04074.mp3",
-          "tí shì yīn",
-          "sinal sono:r"
-        ],
-        [
-          "充值卡",
-          "t carte de recharge",
+          "饮料",
+          "boisson",
           "f.",
-          "fr/04075.mp3",
-          "zh/04075.mp3",
-          "chōng zhí kǎ",
-          "kart da r(afar3"
+          "fr/11507.mp3",
+          "zh/11507.mp3",
+          "yin3 liao4",
+          "bwasɔ̃"
         ],
         [
-          "漫游",
-          "Iitinérance",
-          "f.",
-          "fr/04076.mp3",
-          "zh/04076.mp3",
-          "màn yóu",
-          "itineräs"
-        ],
-        [
-          "关机",
-          "fermeture",
-          "",
-          "fr/04077.mp3",
-          "zh/04077.mp3",
-          "guān jī",
-          "fermaty:r"
-        ],
-        [
-          "短信",
-          "message",
+          "饭店",
+          "restaurant",
           "m.",
-          "fr/04078.mp3",
-          "zh/04078.mp3",
-          "duǎn xìn",
-          "meesa:3"
+          "fr/11508.mp3",
+          "zh/11508.mp3",
+          "fan4 dian4",
+          "restɔrɑ̃"
+        ],
+        [
+          "餐桌台布",
+          "nappe",
+          "f.",
+          "fr/11509.mp3",
+          "zh/11509.mp3",
+          "can1 zhuo1 tai2 bu4",
+          "nap"
+        ],
+        [
+          "吞咽",
+          "avaler",
+          "v.",
+          "fr/11510.mp3",
+          "zh/11510.mp3",
+          "tun1 yan4",
+          "avale"
+        ],
+        [
+          "呕吐",
+          "vomir",
+          "v.",
+          "fr/11511.mp3",
+          "zh/11511.mp3",
+          "ou3 tu3",
+          "vɔmi:r"
+        ],
+        [
+          "吃",
+          "manger",
+          "v.",
+          "fr/11512.mp3",
+          "zh/11512.mp3",
+          "chi1",
+          "mɑ̃ʒe"
+        ],
+        [
+          "喝",
+          "boire",
+          "v.",
+          "fr/11513.mp3",
+          "zh/11513.mp3",
+          "he1",
+          "bwa:r"
+        ],
+        [
+          "咀嚼",
+          "mâcher",
+          "v.",
+          "fr/11514.mp3",
+          "zh/11514.mp3",
+          "ju3 jue2",
+          "mɑʃe"
+        ],
+        [
+          "消化",
+          "digérer",
+          "v.",
+          "fr/11515.mp3",
+          "zh/11515.mp3",
+          "xiao1 hua4",
+          "diʒere"
+        ],
+        [
+          "舔",
+          "lécher",
+          "v.",
+          "fr/11516.mp3",
+          "zh/11516.mp3",
+          "tian3",
+          "leʃe"
+        ],
+        [
+          "尝",
+          "goûter",
+          "v.",
+          "fr/11517.mp3",
+          "zh/11517.mp3",
+          "chang2",
+          "gute"
+        ],
+        [
+          "吃，喝",
+          "prendre",
+          "v.",
+          "fr/11518.mp3",
+          "zh/11518.mp3",
+          "chi1 ， he1",
+          "prɑ̃:dr"
+        ],
+        [
+          "一份",
+          "portion",
+          "f.",
+          "fr/11519.mp3",
+          "zh/11519.mp3",
+          "yi2 fen4",
+          "pɔrsjɔ̃"
+        ],
+        [
+          "正常地",
+          "normalement",
+          "副",
+          "fr/11520.mp3",
+          "zh/11520.mp3",
+          "zheng4 chang2 di4",
+          "nɔrmalmɑ̃"
+        ],
+        [
+          "家常便饭",
+          "ordinaire",
+          "m.",
+          "fr/11521.mp3",
+          "zh/11521.mp3",
+          "jia1 chang2 bian4 fan4",
+          "ɔrdine:r"
         ]
       ],
       "s": [
         [
-          "Le batimenttypique Hutong se compose des mai- sons autour d'une cour carrée.",
-          "经典的建筑方形四合院坐落在胡同里。",
+          "Je suis vraiment désolé de vous déranger pendant le dîner.",
+          "在晚餐时间打扰你实在很抱歉。",
+          "《BJ 单身日记》",
+          "fr/11522.mp3",
+          "zh/11522.mp3",
+          "zai4 wan3 can1 shi2 jian1 da3 rao3 ni3 shi2 zai4 hen3 bao4 qian4 。",
+          ""
+        ],
+        [
+          "Les français prennent trois repas par jour.",
+          "法国人一天吃三顿饭。",
           "",
-          "fr/01529.mp3",
-          "zh/01529.mp3",
-          "jīng diǎn de jiàn zhù fāng xíng sì hé yuàn zuò luò zài hú tòng lǐ",
+          "fr/11523.mp3",
+          "zh/11523.mp3",
+          "fa3 guo2 ren2 yi4 tian1 chi1 san1 dun4 fan4 。",
           ""
         ],
         [
-          "Vous pouvez voir le mo- nument.",
-          "可以看到纪念碑了",
-          "《阿凡达》",
-          "fr/01530.mp3",
-          "zh/01530.mp3",
-          "kě yǐ kàn dào jì niàn bēi le",
-          ""
-        ],
-        [
-          "Malgréla progression continue du francais, cette coexistence se prolonge jusqu'au XVIle siecle, et meme bien plus tard dans le monde de l'Université et dans celui de glise.",
-          "尽管法语持续取得进展，但这种共存现象一直延续至十七世纪，甚至更晚，这一现象依然存在于大学和教会中。",
+          "Le vomissement pendant la grossesse est une réaction normale.",
+          "呕吐是正常的孕期反应。",
           "",
-          "fr/01531.mp3",
-          "zh/01531.mp3",
-          "jǐn guǎn fǎ yǔ chí xù qǔ dé jìn zhǎn dàn zhè zhǒng gòng cún xiàn xiàng yì zhí yán xù zhì shí qī shì jì shèn zhì gèng wǎn zhè yī xiàn xiàng yī rán cún zài yú dà xué hé jiào huì zhōng",
+          "fr/11524.mp3",
+          "zh/11524.mp3",
+          "ou3 tu3 shi4 zheng4 chang2 de5 yun4 qi1 fan3 ying1 。",
           ""
         ],
         [
-          "Aussi,il y a la différence gigantesque sur la nourriture au Nord et au sud de la Chine. E",
-          "中国的南方和北方在饮食上也是有巨大差异的",
+          "Il faut manger pour vivre et non vivre pour manger.",
+          "为了生存而吃饭，不是为了吃饭而生存。",
           "",
-          "fr/01532.mp3",
-          "zh/01532.mp3",
-          "zhōng guó de nán fāng hé běi fāng zài yǐn shí shàng yě shì yǒu jù dà chā yì de",
+          "fr/11525.mp3",
+          "zh/11525.mp3",
+          "wei4 le5 sheng1 cun2 er2 chi1 fan4 ， bu2 shi4 wei4 le5 chi1 fan4 er2 sheng1 cun2 。",
           ""
         ],
         [
-          "En raison dun épais brouil lard dans la ville, je vois mal le signal. TX.",
-          "城市里的雾这么大我看不清交通灯",
+          "Quelque chose que ce soit, tout se produit dans la situation ordinaire.",
+          "任何事情都是在平常的情况下发生的。",
           "",
-          "fr/04079.mp3",
-          "zh/04079.mp3",
-          "chéng shì lǐ de wù zhè me dà wǒ kàn bù qīng jiāo tōng dēng",
-          ""
-        ],
-        [
-          "En 1978,la Chine a dit au revoir a la fermeture, s'est en- gagée dans la mondialisation et a connu depuis de grands progres économiques.1978 ++X E",
-          "年中国与闭关锁国说再见加入到全球化进程中，并取得了巨大的经济发展",
-          "",
-          "fr/04080.mp3",
-          "zh/04080.mp3",
-          "nián zhōng guó yǔ bì guān suǒ guó shuō zài jiàn jiā rù dào quán qiú huà jìn chéng zhōng bìng qǔ dé le jù dà de jīng jì fā zhǎn",
-          ""
-        ],
-        [
-          "Je viens de recevoir un message m'informant lecons annulées. T. Mon ame aux mille voix, que le Dieu que j'adore mit au centre de tout comme un écho sonore.",
-          "我刚才收到一条短信通知我课取消了内心有声音千百我膜拜的上帝居于中央，言语犹如回音激荡。维克多·雨果",
-          "《闻女孩》",
-          "fr/04081.mp3",
-          "zh/04081.mp3",
-          "wǒ gāng cái shōu dào yī tiáo duǎn xìn tōng zhī wǒ kè qǔ xiāo le nèi xīn yǒu shēng yīn qiān bǎi wǒ mó bài de shàng dì jū yú zhōng yāng yán yǔ yóu rú huí yīn jī dàng wéi kè duō yǔ guǒ",
+          "fr/11526.mp3",
+          "zh/11526.mp3",
+          "ren4 he2 shi4 qing2 dou1 shi4 zai4 ping2 chang2 de5 qing2 kuang4 xia4 fa1 sheng1 de5 。",
           ""
         ]
       ],
       "e": [
         [
-          "典型的",
-          "typique",
-          "adj.",
-          "fr/01533.mp3",
-          "zh/01533.mp3",
-          "diǎn xíng de",
-          "tipik"
+          "打扰",
+          "déranger",
+          "v.t.",
+          "fr/11527.mp3",
+          "zh/11527.mp3",
+          "da3 rao3",
+          "derɑ̃ʒe"
         ],
         [
-          "方形的",
-          "carrée",
-          "adj.",
-          "fr/01534.mp3",
-          "zh/01534.mp3",
-          "fāng xíng de",
-          "kaare"
+          "怀孕",
+          "grossesse",
+          "n.f.",
+          "fr/11528.mp3",
+          "zh/11528.mp3",
+          "huai2 yun4",
+          "grɔses"
         ],
         [
-          "尽管",
-          "malgré",
-          "prép.",
-          "fr/01535.mp3",
-          "zh/01535.mp3",
-          "jǐn guǎn",
-          "malgre"
-        ],
-        [
-          "",
-          "progression",
-          "",
-          "fr/01536.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "前进",
-          "",
-          "",
-          "",
-          "zh/01537.mp3",
-          "qián jìn",
-          "progreesj5"
-        ],
-        [
-          "",
-          "coexistence",
-          "",
-          "fr/01538.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "共存",
-          "",
-          "",
-          "",
-          "zh/01539.mp3",
-          "gòng cún",
-          "koegzistäs"
-        ],
-        [
-          "",
-          "différence n",
-          "",
-          "fr/01540.mp3",
-          "",
-          "",
-          "diferäs"
-        ],
-        [
-          "差距区别",
-          "",
-          "",
-          "",
-          "zh/01541.mp3",
-          "chā jù qū bié",
-          ""
-        ],
-        [
-          "",
-          "épais,aisse",
-          "adj",
-          "fr/04082.mp3",
-          "",
-          "",
-          "epe,es"
-        ],
-        [
-          "浓密的",
-          "",
-          "",
-          "",
-          "zh/04083.mp3",
-          "nóng mì de",
-          ""
-        ],
-        [
-          "雾",
-          "brouillard",
-          "n.m.",
-          "fr/04084.mp3",
-          "zh/04084.mp3",
-          "wù",
-          "bruja:r"
-        ],
-        [
-          "",
-          "mondialisation",
-          "",
-          "fr/04085.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "全球化",
-          "",
-          "nf.",
-          "",
-          "zh/04086.mp3",
-          "quán qiú huà",
-          "mdjalizasj"
-        ],
-        [
-          "上帝",
-          "Dieu",
-          "n.m.",
-          "fr/04087.mp3",
-          "zh/04087.mp3",
-          "shàng dì",
-          "dj"
-        ],
-        [
-          "回音",
-          "écho",
-          "n.m.",
-          "fr/04088.mp3",
-          "zh/04088.mp3",
-          "huí yīn",
-          "eko"
+          "反应作用",
+          "réaction",
+          "n.f.",
+          "fr/11529.mp3",
+          "zh/11529.mp3",
+          "fan3 ying1 zuo4 yong4",
+          "reaksjɔ̃"
         ]
       ]
     },
     {
       "no": 2,
-      "name": "第2节",
+      "name": "饮食习惯",
       "w": [
         [
           "吃素的人",
-          "végétarien enne",
+          "végétarien, enne",
           "m.",
-          "fr/00839.mp3",
-          "zh/00839.mp3",
-          "chī sù de rén",
-          "vezetarj,en"
+          "fr/11530.mp3",
+          "zh/11530.mp3",
+          "chi1 su4 de5 ren2",
+          "veʒetarjɛ̃, ɛn"
         ],
         [
           "素食主义",
-          "Xvégétarisme",
-          "m",
-          "fr/00840.mp3",
-          "zh/00840.mp3",
-          "sù shí zhǔ yì",
-          "vezetarism"
+          "végétarisme",
+          "m.",
+          "fr/11531.mp3",
+          "zh/11531.mp3",
+          "su4 shi2 zhu3 yi4",
+          "veʒetarism"
         ],
         [
           "食肉的",
           "carnivore",
-          "",
-          "fr/00841.mp3",
-          "zh/00841.mp3",
-          "shí ròu de",
-          "karnivo:r"
+          "形",
+          "fr/11532.mp3",
+          "zh/11532.mp3",
+          "shi2 rou4 de5",
+          "karnivɔ:r"
         ],
         [
           "辛辣的",
-          "épice",
-          "",
-          "fr/00842.mp3",
-          "zh/00842.mp3",
-          "xīn là de",
+          "épicé, e",
+          "形",
+          "fr/11533.mp3",
+          "zh/11533.mp3",
+          "xin1 la4 de5",
           "epise"
         ],
         [
           "咸的",
           "salé",
-          "",
-          "fr/00843.mp3",
-          "zh/00843.mp3",
-          "xián de",
+          "形",
+          "fr/11534.mp3",
+          "zh/11534.mp3",
+          "xian2 de5",
           "sale"
         ],
         [
           "苦的",
           "amer",
-          "",
-          "fr/00844.mp3",
-          "zh/00844.mp3",
-          "kǔ de",
+          "形",
+          "fr/11535.mp3",
+          "zh/11535.mp3",
+          "ku3 de5",
           "amer"
         ],
         [
           "甜的",
-          "douxce",
-          "",
-          "fr/00845.mp3",
-          "zh/00845.mp3",
-          "tián de",
+          "doux, ce",
+          "形",
+          "fr/11536.mp3",
+          "zh/11536.mp3",
+          "tian2 de5",
           "du, dus"
         ],
         [
           "酸味的",
           "aigre",
-          "",
-          "fr/00846.mp3",
-          "zh/00846.mp3",
-          "suān wèi de",
-          "cgr"
+          "形",
+          "fr/11537.mp3",
+          "zh/11537.mp3",
+          "suan1 wei4 de5",
+          "ɛgr"
         ],
         [
           "清淡饮食",
-          "repasleger /.",
-          "",
-          "fr/00847.mp3",
-          "zh/00847.mp3",
-          "qīng dàn yǐn shí",
-          "r(a)pa leze"
+          "repas léger",
+          "f.",
+          "fr/11538.mp3",
+          "zh/11538.mp3",
+          "qing1 dan4 yin3 shi2",
+          "r(ə)pa leʒe"
         ],
         [
           "美味的",
-          "délicieuxeuse",
-          "",
-          "fr/00848.mp3",
-          "zh/00848.mp3",
-          "měi wèi de",
-          "delisj,:z"
+          "délicieux, euse",
+          "形",
+          "fr/11539.mp3",
+          "zh/11539.mp3",
+          "mei3 wei4 de5",
+          "delisjø, ø:z"
         ],
         [
           "美食家",
           "gourmet",
-          "m",
-          "fr/00849.mp3",
-          "zh/00849.mp3",
-          "měi shí jiā",
-          "gurme"
+          "m.",
+          "fr/11540.mp3",
+          "zh/11540.mp3",
+          "mei3 shi2 jia1",
+          "gurmɛ"
         ],
         [
           "胃口",
           "appétit",
-          "m",
-          "fr/00850.mp3",
-          "zh/00850.mp3",
-          "wèi kǒu",
+          "m.",
+          "fr/11541.mp3",
+          "zh/11541.mp3",
+          "wei4 kou3",
           "apeti"
         ],
         [
           "开胃的",
-          "appétissante",
-          "",
-          "fr/00851.mp3",
-          "zh/00851.mp3",
-          "kāi wèi de",
-          "apetisä,á:t"
+          "appétissant, e",
+          "形",
+          "fr/11542.mp3",
+          "zh/11542.mp3",
+          "kai1 wei4 de5",
+          "apetisɑ̃, ɑ̃:t"
         ],
         [
           "好吃的",
-          "sexquis",
-          "",
-          "fr/00852.mp3",
-          "zh/00852.mp3",
-          "hǎo chī de",
-          "ekski,iz"
+          "exquis, e",
+          "形",
+          "fr/11543.mp3",
+          "zh/11543.mp3",
+          "hao3 chi1 de5",
+          "ɛkski, i:z"
         ],
         [
           "挑剔的",
-          "dégoúté",
-          "",
-          "fr/00853.mp3",
-          "zh/00853.mp3",
-          "tiāo tī de",
+          "dégoûté",
+          "形",
+          "fr/11544.mp3",
+          "zh/11544.mp3",
+          "tiao1 ti1 de5",
           "degute"
         ],
         [
           "有规律的",
-          "régulierere",
-          "",
-          "fr/00854.mp3",
-          "zh/00854.mp3",
-          "yǒu guī lǜ de",
-          "regylje,er"
+          "régulier, ère",
+          "形",
+          "fr/11545.mp3",
+          "zh/11545.mp3",
+          "you3 gui1 lv4 de5",
+          "regylje, ɛr"
         ],
         [
           "过敏的",
           "allergique",
-          "",
-          "fr/00855.mp3",
-          "zh/00855.mp3",
-          "guò mǐn de",
-          "alerzik"
+          "形",
+          "fr/11546.mp3",
+          "zh/11546.mp3",
+          "guo4 min3 de5",
+          "alɛrʒik"
         ],
         [
           "毁掉",
-          "detruire",
-          "",
-          "fr/00856.mp3",
-          "zh/00856.mp3",
-          "huǐ diào",
-          "de truisr"
+          "détruire",
+          "f.",
+          "fr/11547.mp3",
+          "zh/11547.mp3",
+          "hui3 diao4",
+          "detrɥi:r"
         ],
         [
           "腌制",
           "salage",
           "m.",
-          "fr/00857.mp3",
-          "zh/00857.mp3",
-          "yān zhì",
-          "sala3"
-        ],
-        [
-          "银行卡",
-          "carte bancaire /",
-          "",
-          "fr/03228.mp3",
-          "zh/03228.mp3",
-          "yín háng kǎ",
-          "kart báke:r"
-        ],
-        [
-          "信用证",
-          "lettre de crédit",
-          "",
-          "fr/03229.mp3",
-          "zh/03229.mp3",
-          "xìn yòng zhèng",
-          "letr dakredi"
-        ],
-        [
-          "信用卡",
-          "carte accredi tive /",
-          "",
-          "fr/03230.mp3",
-          "zh/03230.mp3",
-          "xìn yòng kǎ",
-          "kart akridiv"
-        ],
-        [
-          "卡号",
-          "numéro de carte",
-          "m.",
-          "fr/03231.mp3",
-          "zh/03231.mp3",
-          "kǎ hào",
-          "nymero d(a) kart"
-        ],
-        [
-          "存折",
-          "carnet de banque",
-          "m",
-          "fr/03232.mp3",
-          "zh/03232.mp3",
-          "cún zhé",
-          "karne da bak"
-        ],
-        [
-          "存折",
-          "livret de caisse d'épargne",
-          "m.",
-          "fr/03233.mp3",
-          "zh/03233.mp3",
-          "cún zhé",
-          "livre da kes eparn"
-        ],
-        [
-          "密码",
-          "code secret kod sakre]",
-          "",
-          "fr/03234.mp3",
-          "zh/03234.mp3",
-          "mì mǎ",
-          ""
-        ],
-        [
-          "转账",
-          "transfert d'un compte",
-          "m.",
-          "fr/03235.mp3",
-          "zh/03235.mp3",
-          "zhuǎn zhàng",
-          "träsfer d k5t"
-        ],
-        [
-          "自动取款机",
-          "distri buteur de billets",
-          "m.",
-          "fr/03236.mp3",
-          "zh/03236.mp3",
-          "zì dòng qǔ kuǎn jī",
-          "distribyter da bije"
-        ],
-        [
-          "余额手续费",
-          "restante agio",
-          "m",
-          "fr/03237.mp3",
-          "zh/03237.mp3",
-          "yú é shǒu xù fèi",
-          "resta, -t"
-        ],
-        [
-          "赊购",
-          "acheter a crédit",
-          "m.",
-          "fr/03238.mp3",
-          "zh/03238.mp3",
-          "shē gòu",
-          "afte a kredi"
-        ],
-        [
-          "透支额",
-          "découvert",
-          "m.",
-          "fr/03239.mp3",
-          "zh/03239.mp3",
-          "tòu zhī é",
-          "dekuver"
-        ],
-        [
-          "透支",
-          "avance a découvert",
-          "",
-          "fr/03240.mp3",
-          "zh/03240.mp3",
-          "tòu zhī",
-          "avás a dekuver"
-        ],
-        [
-          "背书",
-          "endosser ..",
-          "",
-          "fr/03241.mp3",
-          "zh/03241.mp3",
-          "bèi shū",
-          "ádose"
-        ],
-        [
-          "悲观",
-          "pessimisme",
-          "m.",
-          "fr/04034.mp3",
-          "zh/04034.mp3",
-          "bēi guān",
-          "pesimism"
-        ],
-        [
-          "忧虑的",
-          "soucieuxse",
-          "",
-          "fr/04035.mp3",
-          "zh/04035.mp3",
-          "yōu lǜ de",
-          "susj,:z"
-        ],
-        [
-          "武断的",
-          "dogmatique",
-          "",
-          "fr/04036.mp3",
-          "zh/04036.mp3",
-          "wǔ duàn de",
-          "dogmatik"
-        ],
-        [
-          "有偏见的",
-          "partisane",
-          "",
-          "fr/04037.mp3",
-          "zh/04037.mp3",
-          "yǒu piān jiàn de",
-          "partizá, an"
-        ],
-        [
-          "偏祖",
-          "prendre parti pourqn",
-          "",
-          "fr/04038.mp3",
-          "zh/04038.mp3",
-          "piān zǔ",
-          ""
-        ],
-        [
-          "令人沮丧的",
-          "affligeante",
-          "",
-          "fr/04039.mp3",
-          "zh/04039.mp3",
-          "lìng rén jǔ sàng de",
-          "saflizá,t"
-        ],
-        [
-          "令人失望的",
-          "désespé rant,e",
-          "",
-          "fr/04040.mp3",
-          "zh/04040.mp3",
-          "lìng rén shī wàng de",
-          "dezesperä,t"
-        ],
-        [
-          "怀疑的",
-          "sceptique",
-          "",
-          "fr/04041.mp3",
-          "zh/04041.mp3",
-          "huái yí de",
-          "septik"
-        ],
-        [
-          "反对",
-          "contrarier r.",
-          "",
-          "fr/04042.mp3",
-          "zh/04042.mp3",
-          "fǎn duì",
-          "kštrarje"
-        ],
-        [
-          "惊恐的",
-          "effrayé,e",
-          "",
-          "fr/04043.mp3",
-          "zh/04043.mp3",
-          "jīng kǒng de",
-          "efre(e)je"
-        ],
-        [
-          "怀疑的",
-          "sceptique",
-          "",
-          "fr/04044.mp3",
-          "zh/04044.mp3",
-          "huái yí de",
-          "septik"
-        ],
-        [
-          "惯怒",
-          "furieux,euse",
-          "",
-          "fr/04045.mp3",
-          "zh/04045.mp3",
-          "guàn nù",
-          "fyrj,:z"
-        ],
-        [
-          "愤怒的",
-          "fache,e",
-          "",
-          "fr/04046.mp3",
-          "zh/04046.mp3",
-          "fèn nù de",
-          "fae"
-        ],
-        [
-          "轻视",
-          "mépriser",
-          "",
-          "fr/04047.mp3",
-          "zh/04047.mp3",
-          "qīng shì",
-          "meprize"
-        ],
-        [
-          "沮丧的",
-          "frustrée",
-          "",
-          "fr/04048.mp3",
-          "zh/04048.mp3",
-          "jǔ sàng de",
-          "frystre"
-        ],
-        [
-          "模棱两可的",
-          "équivoque",
-          "",
-          "fr/04049.mp3",
-          "zh/04049.mp3",
-          "mó léng liǎng kě de",
-          "ekivok"
-        ],
-        [
-          "漠不关心的",
-          "Tdésinté- ressé,e",
-          "",
-          "fr/04050.mp3",
-          "zh/04050.mp3",
-          "mò bù guān xīn de",
-          "dez&terese"
-        ],
-        [
-          "主观的",
-          "subjectif,ive",
-          "",
-          "fr/04051.mp3",
-          "zh/04051.mp3",
-          "zhǔ guān de",
-          "sybzektif, iv"
+          "fr/11548.mp3",
+          "zh/11548.mp3",
+          "yan1 zhi4",
+          "sala:ʒ"
         ]
       ],
       "s": [
         [
-          "Le soleil beau, le lac doux les alentours calmes,tout est en harmonie",
-          "太阳出来了湖光山色，美吧。",
+          "Le soleil beau, le lac doux, les alentours calmes, tout est en harmonie.",
+          "太阳出来了，湖光山色，美吧。",
           "",
-          "fr/00858.mp3",
-          "zh/00858.mp3",
-          "tài yáng chū lái le hú guāng shān sè měi ba",
+          "fr/11549.mp3",
+          "zh/11549.mp3",
+          "tai4 yang2 chu1 lai2 le5 ， hu2 guang1 shan1 se4 ， mei3 ba5 。",
           ""
         ],
         [
-          "Cest délicieux, cela va af fecter mon corps.",
-          "太好吃了这会影响我的身材。",
+          "C'est délicieux, cela va affecter mon corps.",
+          "太好吃了，这会影响我的身材。",
           "《音乐之声》",
-          "fr/00859.mp3",
-          "zh/00859.mp3",
-          "tài hǎo chī le zhè huì yǐng xiǎng wǒ de shēn cái",
+          "fr/11550.mp3",
+          "zh/11550.mp3",
+          "tai4 hao3 chi1 le5 ， zhe4 hui4 ying3 xiang3 wo3 de5 shen1 cai2 。",
           ""
         ],
         [
-          "J'aime une fille qui a un bonappetit.",
+          "J'aime une fille qui a un bon appétit.",
           "我喜欢胃口好的女孩。",
           "《灰姑娘的玻璃手机》",
-          "fr/00860.mp3",
-          "zh/00860.mp3",
-          "wǒ xǐ huān wèi kǒu hǎo de nǚ hái",
+          "fr/11551.mp3",
+          "zh/11551.mp3",
+          "wo3 xi3 huan1 wei4 kou3 hao3 de5 nv3 hai2 。",
           ""
         ],
         [
-          "Je crains que je ne sois al- lergique aux fraises",
+          "Je crains que je ne sois allergique aux fraises.",
           "我担心我对草莓过敏。",
           "《西雅图不眠夜》",
-          "fr/00861.mp3",
-          "zh/00861.mp3",
-          "wǒ dān xīn wǒ duì cǎo méi guò mǐn",
+          "fr/11552.mp3",
+          "zh/11552.mp3",
+          "wo3 dan1 xin1 wo3 dui4 cao3 mei2 guo4 min3 。",
           ""
         ],
         [
-          "Toute la maison est de- truite..",
-          "整个房子被摧毁了",
+          "Toute la maison est détruite.",
+          "整个房子被摧毁了。",
           "",
-          "fr/00862.mp3",
-          "zh/00862.mp3",
-          "zhěng gè fáng zi bèi cuī huǐ le",
-          ""
-        ],
-        [
-          "Vous pouvez venir prendre votre chéquier et votre carte bancaire dans dix jours.+",
-          "十天之后您可以来取您的支票筹和银行卡。",
-          "",
-          "fr/03242.mp3",
-          "zh/03242.mp3",
-          "shí tiān zhī hòu nín kě yǐ lái qǔ nín de zhī piào chóu hé yín háng kǎ",
-          ""
-        ],
-        [
-          "Nous acceptons vos con- ditions de paiement et confir- mons que le paiement sera effectué par lettre de credit ir- révocablc. Un moyen simple est de communiquer son numero de cartebancaire.-",
-          "我们接受您的付款条件，并确认付款由不可撤消的信用证进行。一个简单的方法就是输入其银行卡号码。",
-          "",
-          "fr/03243.mp3",
-          "zh/03243.mp3",
-          "wǒ men jiē shòu nín de fù kuǎn tiáo jiàn bìng què rèn fù kuǎn yóu bù kě chè xiāo de xìn yòng zhèng jìn xíng yí gè jiǎn dān de fāng fǎ jiù shì shū rù qí yín háng kǎ hào mǎ",
-          ""
-        ],
-        [
-          "Je vous paierai le restant dans un mois.",
-          "余数我将在一个月之后付清。",
-          "",
-          "fr/03244.mp3",
-          "zh/03244.mp3",
-          "yú shù wǒ jiāng zài yí gè yuè zhī hòu fù qīng",
-          ""
-        ],
-        [
-          "Le gouvernement a sou- haité se montrer soucieux de la liberté de parole de l'opposi- tion, qui ne s'en est pas privée. X",
-          "政府希望能引出反对派对于自由的忧虑言辞，他们尚未被剥夺讨论的权利",
-          "",
-          "fr/04052.mp3",
-          "zh/04052.mp3",
-          "zhèng fǔ xī wàng néng yǐn chū fǎn duì pài duì yú zì yóu de yōu lǜ yán cí tā men shàng wèi bèi bō duó tǎo lùn de quán lì",
-          ""
-        ],
-        [
-          "Est-ce parce que tu es ma jeurereprit Grandet en inter rompant sa fille, que tu vou- drais me contrarier?Songe Eugenie... F",
-          "你算是翅膀硬了是不是？”格朗台打断女儿的话说居然想跟我作对?欧叶妮，你做梦·",
-          "",
-          "fr/04053.mp3",
-          "zh/04053.mp3",
-          "nǐ suàn shì chì bǎng yìng le shì bú shì gé lǎng tái dǎ duàn nǚ ér de huà shuō jū rán xiǎng gēn wǒ zuò duì ōu yè nī nǐ zuò mèng",
-          ""
-        ],
-        [
-          "On peut aimer I'amour et mepriser amant.",
-          "我们可以珍视爱情而轻视情人。",
-          "",
-          "fr/04054.mp3",
-          "zh/04054.mp3",
-          "wǒ men kě yǐ zhēn shì ài qíng ér qīng shì qíng rén",
-          ""
-        ],
-        [
-          "La recherche de la vérite peut-elle etre désintéressée? W?",
-          "对真理的寻求可以是无私利的吗",
-          "",
-          "fr/04055.mp3",
-          "zh/04055.mp3",
-          "duì zhēn lǐ de xún qiú kě yǐ shì wú sī lì de ma",
+          "fr/11553.mp3",
+          "zh/11553.mp3",
+          "zheng3 ge4 fang2 zi5 bei4 cui1 hui3 le5 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "在周围，在附近",
           "alentour",
           "adv.",
-          "fr/00863.mp3",
-          "",
-          "",
-          "alátu:r"
-        ],
-        [
-          "在周围在附近",
-          "",
-          "",
-          "",
-          "zh/00864.mp3",
-          "zài zhōu wéi zài fù jìn",
-          ""
-        ],
-        [
-          "",
-          "harmonie",
-          "nf",
-          "fr/00865.mp3",
-          "",
-          "",
-          "armoni"
+          "fr/11554.mp3",
+          "zh/11554.mp3",
+          "zai4 zhou1 wei2 ， zai4 fu4 jin4",
+          "alɑ̃tu:r"
         ],
         [
           "和谐",
-          "",
-          "",
-          "",
-          "zh/00866.mp3",
-          "hé xié",
-          ""
+          "harmonie",
+          "n.f.",
+          "fr/11555.mp3",
+          "zh/11555.mp3",
+          "he2 xie2",
+          "armɔni"
         ],
         [
-          "妨害",
-          "affecter.",
-          "",
-          "fr/00867.mp3",
-          "zh/00867.mp3",
-          "fáng hài",
-          "afekte"
+          "妨害，影响",
+          "affecter",
+          "v.t.",
+          "fr/11556.mp3",
+          "zh/11556.mp3",
+          "fang2 hai4 ， ying3 xiang3",
+          "afɛkte"
         ],
         [
-          "影响",
-          "We",
-          "",
-          "fr/00868.mp3",
-          "zh/00868.mp3",
-          "yǐng xiǎng",
-          ""
-        ],
-        [
-          "担心",
-          "craindre w.",
-          "",
-          "fr/00869.mp3",
-          "zh/00869.mp3",
-          "dān xīn",
-          "krdr"
-        ],
-        [
-          "害怕",
-          "",
-          "",
-          "",
-          "zh/00870.mp3",
-          "hài pà",
-          ""
+          "担心，害怕",
+          "craindre",
+          "v.t.",
+          "fr/11557.mp3",
+          "zh/11557.mp3",
+          "dan1 xin1 ， hai4 pa4",
+          "krɛ̃:dr"
         ],
         [
           "草莓",
-          "fraisen",
-          "",
-          "fr/00871.mp3",
-          "zh/00871.mp3",
-          "cǎo méi",
-          "frez"
-        ],
-        [
-          "支",
-          "chéquier.",
-          "m.",
-          "fr/03245.mp3",
-          "zh/03245.mp3",
-          "zhī",
-          "ekje"
-        ],
-        [
-          "票本",
-          "",
-          "",
-          "",
-          "zh/03246.mp3",
-          "piào běn",
-          ""
-        ],
-        [
-          "",
-          "moyen,ne",
-          "",
-          "fr/03247.mp3",
-          "",
-          "",
-          "mwaj&en"
-        ],
-        [
-          "中等的",
-          "adj.+",
-          "",
-          "fr/03248.mp3",
-          "zh/03248.mp3",
-          "zhōng děng de",
-          ""
-        ],
-        [
-          "付款",
-          "paiement",
-          "n.m.",
-          "fr/03249.mp3",
-          "zh/03249.mp3",
-          "fù kuǎn",
-          "pejmä"
-        ],
-        [
-          "支付",
-          "paie n.",
-          "",
-          "fr/03250.mp3",
-          "zh/03250.mp3",
-          "zhī fù",
-          "pej"
-        ],
-        [
-          "自由",
-          "liberté",
-          "f.",
-          "fr/04056.mp3",
-          "zh/04056.mp3",
-          "zì yóu",
-          "liberte"
-        ],
-        [
-          "",
-          "opposition n..",
-          "",
-          "fr/04057.mp3",
-          "",
-          "",
-          "bpozisj5"
-        ],
-        [
-          "相对",
-          "",
-          "",
-          "",
-          "zh/04058.mp3",
-          "xiāng duì",
-          ""
-        ],
-        [
-          "",
-          "majeure n.",
-          "",
-          "fr/04059.mp3",
-          "",
-          "",
-          "mazc:r"
-        ],
-        [
-          "成年人",
-          "",
-          "",
-          "",
-          "zh/04060.mp3",
-          "chéng nián rén",
-          ""
-        ],
-        [
-          "",
-          "interrompre .",
-          "",
-          "fr/04061.mp3",
-          "",
-          "",
-          "&terpr"
-        ],
-        [
-          "打断",
-          "",
-          "",
-          "",
-          "zh/04062.mp3",
-          "dǎ duàn",
-          ""
-        ],
-        [
-          "真理",
-          "vérité.",
-          "",
-          "fr/04063.mp3",
-          "zh/04063.mp3",
-          "zhēn lǐ",
-          "verite"
+          "fraise",
+          "n.f.",
+          "fr/11558.mp3",
+          "zh/11558.mp3",
+          "cao3 mei2",
+          "frɛ:z"
         ]
       ]
     },
     {
       "no": 3,
-      "name": "第3节",
+      "name": "中式餐品",
       "w": [
         [
           "饺子",
           "ravioli",
-          "m",
-          "fr/00872.mp3",
-          "zh/00872.mp3",
-          "jiǎo zi",
-          "ravjoli"
+          "m.",
+          "fr/11559.mp3",
+          "zh/11559.mp3",
+          "jiao3 zi5",
+          "ravjɔli"
         ],
         [
           "薄饼",
-          "crepekrep]",
-          "",
-          "fr/00873.mp3",
-          "zh/00873.mp3",
-          "báo bǐng",
-          ""
+          "crêpe",
+          "f.",
+          "fr/11560.mp3",
+          "zh/11560.mp3",
+          "bao2 bing3",
+          "krɛp"
         ],
         [
           "面条",
-          "noullesnuj]",
-          "",
-          "fr/00874.mp3",
-          "zh/00874.mp3",
-          "miàn tiáo",
-          ""
+          "nouilles",
+          "f.",
+          "fr/11561.mp3",
+          "zh/11561.mp3",
+          "mian4 tiao2",
+          "nuj"
         ],
         [
           "炒米饭",
           "riz-frits",
-          "inv",
-          "fr/00875.mp3",
-          "zh/00875.mp3",
-          "chǎo mǐ fàn",
+          "m.inv",
+          "fr/11562.mp3",
+          "zh/11562.mp3",
+          "chao3 mi3 fan4",
           "ri frit"
         ],
         [
           "馒头",
-          "pain cuit a la vapeur",
+          "pain cuit à la vapeur",
           "m.",
-          "fr/00876.mp3",
-          "zh/00876.mp3",
-          "mán tou",
-          "p& kuir a la vapceir"
+          "fr/11563.mp3",
+          "zh/11563.mp3",
+          "man2 tou2",
+          "pɛ̃ kɥi:r a la vapœ:r"
         ],
         [
           "火烧煎蛋卷",
-          "ome lette flambéey.",
-          "",
-          "fr/00877.mp3",
-          "zh/00877.mp3",
-          "huǒ shāo jiān dàn juǎn",
-          "bmlet fläbe"
+          "omelette flambée",
+          "f.",
+          "fr/11564.mp3",
+          "zh/11564.mp3",
+          "huo3 shao1 jian1 dan4 juan3",
+          "ɔmlɛt flɑ̃be"
         ],
         [
           "蛋黄",
-          "jaune dcuf",
-          "m",
-          "fr/00878.mp3",
-          "zh/00878.mp3",
-          "dàn huáng",
-          "30n df"
+          "jaune d'œuf",
+          "m.",
+          "fr/11565.mp3",
+          "zh/11565.mp3",
+          "dan4 huang2",
+          "ʒo:n d œf"
         ],
         [
           "皮蛋",
-          "uf conservé dans la chaux",
-          "m",
-          "fr/00879.mp3",
-          "zh/00879.mp3",
-          "pí dàn",
-          "f kserve dä la fo"
+          "œuf conservé dans la chaux",
+          "m.",
+          "fr/11566.mp3",
+          "zh/11566.mp3",
+          "pi2 dan4",
+          "œf kɔ̃sɛrve dɑ̃ la ʃo"
         ],
         [
           "稀饭",
           "riz ou millet grumeleux",
           "m.",
-          "fr/00880.mp3",
-          "zh/00880.mp3",
-          "xī fàn",
-          "ri u mije grymlo"
+          "fr/11567.mp3",
+          "zh/11567.mp3",
+          "xi1 fan4",
+          "ri u mijɛ grymlø"
         ],
         [
           "豆浆",
           "lait de soja",
           "m.",
-          "fr/00881.mp3",
-          "zh/00881.mp3",
-          "dòu jiāng",
-          "le da so3asoja"
+          "fr/11568.mp3",
+          "zh/11568.mp3",
+          "dou4 jiang1",
+          "lɛ d(ə) sɔʒa(sɔja)"
         ],
         [
           "烤鸭",
-          "$ canard laqué",
-          "m",
-          "fr/00882.mp3",
-          "zh/00882.mp3",
-          "kǎo yā",
-          "kanair lake"
+          "canard laqué",
+          "m.",
+          "fr/11569.mp3",
+          "zh/11569.mp3",
+          "kao3 ya1",
+          "kana:r lake"
         ],
         [
           "咸鸡蛋",
-          "uf salé",
+          "œuf salé",
           "m.",
-          "fr/00883.mp3",
-          "zh/00883.mp3",
-          "xián jī dàn",
-          "cf sale"
+          "fr/11570.mp3",
+          "zh/11570.mp3",
+          "xian2 ji1 dan4",
+          "œf salɛ"
         ],
         [
           "火锅",
-          "kfondue",
-          "",
-          "fr/00884.mp3",
-          "zh/00884.mp3",
-          "huǒ guō",
-          "f5dy"
+          "fondue",
+          "f.",
+          "fr/11571.mp3",
+          "zh/11571.mp3",
+          "huo3 guo1",
+          "fɔ̃dy"
         ],
         [
           "煮鸡蛋",
-          "uf dur",
+          "œuf dur",
           "m.",
-          "fr/00885.mp3",
-          "zh/00885.mp3",
-          "zhǔ jī dàn",
-          "f dy:r"
-        ],
-        [
-          "货",
-          "monnaie",
-          "",
-          "fr/03251.mp3",
-          "zh/03251.mp3",
-          "huò",
-          "mone"
-        ],
-        [
-          "钱",
-          "argent",
-          "m",
-          "fr/03252.mp3",
-          "zh/03252.mp3",
-          "qián",
-          "arza"
-        ],
-        [
-          "兑换",
-          "changer",
-          "",
-          "fr/03253.mp3",
-          "zh/03253.mp3",
-          "duì huàn",
-          "äze"
-        ],
-        [
-          "兑换率",
-          "taux de change",
-          "m.",
-          "fr/03254.mp3",
-          "zh/03254.mp3",
-          "duì huàn lǜ",
-          "to da fäz"
-        ],
-        [
-          "外汇",
-          "deviseétrangere",
-          "",
-          "fr/03255.mp3",
-          "zh/03255.mp3",
-          "wài huì",
-          "daviz etrázer"
-        ],
-        [
-          "外汇储备",
-          "réserve des devises",
-          "",
-          "fr/03256.mp3",
-          "zh/03256.mp3",
-          "wài huì chǔ bèi",
-          "rezerv de daviz"
-        ],
-        [
-          "黄金储备",
-          "reserve d'or .",
-          "",
-          "fr/03257.mp3",
-          "zh/03257.mp3",
-          "huáng jīn chǔ bèi",
-          "rezerv dor"
-        ],
-        [
-          "货币的",
-          "monetaire",
-          "",
-          "fr/03258.mp3",
-          "zh/03258.mp3",
-          "huò bì de",
-          "moneter"
-        ],
-        [
-          "货币政策",
-          "politique monétaire /.",
-          "",
-          "fr/03259.mp3",
-          "zh/03259.mp3",
-          "huò bì zhèng cè",
-          "politik moneter"
-        ],
-        [
-          "货币单位",
-          "unitémone taire",
-          "",
-          "fr/03260.mp3",
-          "zh/03260.mp3",
-          "huò bì dān wèi",
-          "ynite moneter"
-        ],
-        [
-          "美元",
-          "t dollar américain",
-          "m.",
-          "fr/03261.mp3",
-          "zh/03261.mp3",
-          "měi yuán",
-          "dolar amerik&"
-        ],
-        [
-          "欧元",
-          "t euro",
-          "m.",
-          "fr/03262.mp3",
-          "zh/03262.mp3",
-          "ōu yuán",
-          "ro"
-        ],
-        [
-          "法郎",
-          "franc",
-          "m",
-          "fr/03263.mp3",
-          "zh/03263.mp3",
-          "fǎ láng",
-          "frä"
-        ],
-        [
-          "十进制的",
-          "décadaire",
-          "",
-          "fr/03264.mp3",
-          "zh/03264.mp3",
-          "shí jìn zhì de",
-          "dekader"
-        ],
-        [
-          "纸币",
-          "papiermonnaie",
-          "m.",
-          "fr/03265.mp3",
-          "zh/03265.mp3",
-          "zhǐ bì",
-          "papje mone"
-        ],
-        [
-          "",
-          "révolution",
-          "n.f",
-          "fr/03266.mp3",
-          "",
-          "",
-          "revolysj5"
+          "fr/11572.mp3",
+          "zh/11572.mp3",
+          "zhu3 ji1 dan4",
+          "œf dy:r"
         ]
       ],
       "s": [
         [
-          "On prend des raviolis la veille de la fete du printemps dans le Nord.",
+          "On prend des raviolis la veille de la fête du printemps dans le Nord.",
           "北方地区除夕夜会吃饺子。",
           "",
-          "fr/00886.mp3",
-          "zh/00886.mp3",
-          "běi fāng dì qū chú xī yè huì chī jiǎo zi",
+          "fr/11573.mp3",
+          "zh/11573.mp3",
+          "bei3 fang1 di4 qu1 chu2 xi1 ye4 hui4 chi1 jiao3 zi5 。",
           ""
         ],
         [
-          "Nous allons prendre le pe tit-dejeuner de crepes. Peut-etre que je devrais partir,revenir pour faire des nouilles.",
-          "我们会吃煎饼当早餐。或许我该离开回去做面条。",
-          "《绝望的主妇》 《功夫熊猫》",
-          "fr/00887.mp3",
-          "zh/00887.mp3",
-          "wǒ men huì chī jiān bǐng dāng zǎo cān huò xǔ wǒ gāi lí kāi huí qù zuò miàn tiáo",
+          "Nous allons prendre le petit-déjeuner de crêpes.",
+          "我们会吃煎饼当早餐。",
+          "《绝望的主妇》",
+          "fr/11574.mp3",
+          "zh/11574.mp3",
+          "wo3 men5 hui4 chi1 jian1 bing3 dang1 zao3 can1 。",
+          ""
+        ],
+        [
+          "Peut-être que je devrais partir, revenir pour faire des nouilles.",
+          "或许我该离开，回去做面条。",
+          "《功夫熊猫》",
+          "fr/11575.mp3",
+          "zh/11575.mp3",
+          "huo4 xu3 wo3 gai1 li2 kai1 ， hui2 qu4 zuo4 mian4 tiao2 。",
           ""
         ],
         [
           "Je bois du lait de soja tous les matins.",
           "我每天早上都喝豆浆。",
           "",
-          "fr/00888.mp3",
-          "zh/00888.mp3",
-          "wǒ měi tiān zǎo shàng dōu hē dòu jiāng",
+          "fr/11576.mp3",
+          "zh/11576.mp3",
+          "wo3 mei3 tian1 zao3 shang4 dou1 he1 dou4 jiang1 。",
           ""
         ],
         [
-          "Le canard roti est une majeure spécialité de Pékin.",
+          "Le canard rôti est une majeure spécialité de Pékin.",
           "烤鸭是北京的一大特色食品。",
           "",
-          "fr/00889.mp3",
-          "zh/00889.mp3",
-          "kǎo yā shì běi jīng de yī dà tè sè shí pǐn",
+          "fr/11577.mp3",
+          "zh/11577.mp3",
+          "kao3 ya1 shi4 bei3 jing1 de5 yi2 da4 te4 se4 shi2 pin3 。",
           ""
         ],
         [
-          "Ces deux amis mangent une fondue qui est une spé cialité régionale sichuanaise E",
-          "这两个正吃着火锅而这火锅是四川地区的特色。",
+          "Ces deux amis mangent une fondue qui est une spécialité régionale sichuanaise.",
+          "这两个正吃着火锅，而这火锅是四川地区的特色。",
           "",
-          "fr/00890.mp3",
-          "zh/00890.mp3",
-          "zhè liǎng gè zhèng chī zháo huǒ guō ér zhè huǒ guō shì sì chuān dì qū de tè sè",
-          ""
-        ],
-        [
-          "Mike qui a emprunté de Iargent a Carlos a contre- cur.",
-          "麦克不情愿地向卡奈斯借了钱。",
-          "《绝望的主妇》",
-          "fr/03267.mp3",
-          "zh/03267.mp3",
-          "mài kè bù qíng yuàn dì xiàng kǎ nài sī jiè le qián",
-          ""
-        ],
-        [
-          "]Voici un chéque de yoyage, je veux le changer ici?",
-          "这是张旅行支票，我可以在这里兑换吗？",
-          "",
-          "fr/03268.mp3",
-          "zh/03268.mp3",
-          "zhè shì zhāng lǚ xíng zhī piào wǒ kě yǐ zài zhè lǐ duì huàn ma",
-          ""
-        ],
-        [
-          "Personne ne sattend donc a voir la Chine faire sa revolu tion monetaire du jour au len- demain",
-          "没有人预想看到中国一跳而就的货币改革。",
-          "",
-          "fr/03269.mp3",
-          "zh/03269.mp3",
-          "méi yǒu rén yù xiǎng kàn dào zhōng guó yī tiào ér jiù de huò bì gǎi gé",
-          ""
-        ],
-        [
-          "La crise de la zone euro nest pas réglée.",
-          "欧元区的危机还没有解决。",
-          "",
-          "fr/03270.mp3",
-          "zh/03270.mp3",
-          "ōu yuán qū de wēi jī hái méi yǒu jiě jué",
-          ""
-        ],
-        [
-          "UNIFEM a vu le mon- tant global de ses ressources augmenter en dépit de la crise économique mondiale et des pertes liées a des fluctuations de change qui ont accru la va- leur du dollar,notamment face a l'euro et autres monnaies des principaux donateurs. WK.",
-          "尽管全世界的经济危机以及因汇率、特别是兑换欧元和主要捐助者的其他货币的汇率波动使美元增值而蒙受损失，但妇发基金总资源还是有增长",
-          "",
-          "fr/03271.mp3",
-          "zh/03271.mp3",
-          "jǐn guǎn quán shì jiè de jīng jì wēi jī yǐ jí yīn huì lǜ tè bié shì duì huàn ōu yuán hé zhǔ yào juān zhù zhě de qí tā huò bì de huì lǜ bō dòng shǐ měi yuán zēng zhí ér méng shòu sǔn shī dàn fù fā jī jīn zǒng zī yuán hái shì yǒu zēng zhǎng",
+          "fr/11578.mp3",
+          "zh/11578.mp3",
+          "zhe4 liang3 ge4 zheng4 chi1 zhe5 huo3 guo1 ， er2 zhe4 huo3 guo1 shi4 si4 chuan1 di4 qu1 de5 te4 se4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "大豆，黄豆",
           "soja",
           "n.m.",
-          "fr/00891.mp3",
-          "",
-          "",
-          "so3asoja"
+          "fr/11579.mp3",
+          "zh/11579.mp3",
+          "da4 dou4 ， huang2 dou4",
+          "sɔʒa(sɔja)"
         ],
         [
-          "大豆黄豆",
-          "",
-          "",
-          "",
-          "zh/00892.mp3",
-          "dà dòu huáng dòu",
-          ""
-        ],
-        [
-          "",
-          "rötir",
-          "vt",
-          "fr/00893.mp3",
-          "",
-          "",
-          "rooti:r"
-        ],
-        [
-          "烤制烘烤",
-          "",
-          "",
-          "",
-          "zh/00894.mp3",
-          "kǎo zhì hōng kǎo",
-          ""
-        ],
-        [
-          "",
-          "majeur,e",
-          "adj.",
-          "fr/00895.mp3",
-          "",
-          "",
-          "mazcir"
+          "烤制，烘烤",
+          "rôtir",
+          "v.t.",
+          "fr/11580.mp3",
+          "zh/11580.mp3",
+          "kao3 zhi4 ， hong1 kao3",
+          "ro(ɔ)ti:r"
         ],
         [
           "重大的",
-          "",
-          "",
-          "",
-          "zh/00896.mp3",
-          "zhòng dà de",
-          ""
-        ],
-        [
-          "",
-          "contreceur",
-          "",
-          "fr/03272.mp3",
-          "",
-          "",
-          "ktraker"
-        ],
-        [
-          "勉强地",
-          "adv+",
-          "",
-          "fr/03273.mp3",
-          "zh/03273.mp3",
-          "miǎn qiǎng dì",
-          ""
-        ],
-        [
-          "旅行",
-          "voyage",
-          "n.m.",
-          "fr/03274.mp3",
-          "zh/03274.mp3",
-          "lǚ xíng",
-          "vwaja3"
-        ],
-        [
-          "革命",
-          "",
-          "",
-          "",
-          "zh/03275.mp3",
-          "gé mìng",
-          ""
-        ],
-        [
-          "",
-          "fluctuation",
-          "",
-          "fr/03276.mp3",
-          "",
-          "",
-          "flyktya(a)sj5"
-        ],
-        [
-          "波动",
-          "",
-          "nf.",
-          "",
-          "zh/03277.mp3",
-          "bō dòng",
-          ""
+          "majeur, e",
+          "adj.",
+          "fr/11581.mp3",
+          "zh/11581.mp3",
+          "zhong4 da4 de5",
+          "maʒœ:r"
         ]
       ]
     },
     {
       "no": 4,
-      "name": "第4节",
+      "name": "西式餐品",
       "w": [
         [
-          "黄油培根",
-          "beurre bacon",
-          "",
-          "fr/00897.mp3",
-          "zh/00897.mp3",
-          "huáng yóu péi gēn",
-          "ber"
+          "黄油",
+          "beurre",
+          "m.",
+          "fr/11582.mp3",
+          "zh/11582.mp3",
+          "huang2 you2",
+          "bœ:r"
+        ],
+        [
+          "培根",
+          "bacon",
+          "m.",
+          "fr/11583.mp3",
+          "zh/11583.mp3",
+          "pei2 gen1",
+          "bekɔ̃"
         ],
         [
           "沙拉",
           "salade",
-          "",
-          "fr/00898.mp3",
-          "zh/00898.mp3",
-          "shā lā",
+          "f.",
+          "fr/11584.mp3",
+          "zh/11584.mp3",
+          "sha1 la1",
           "salad"
         ],
         [
           "三明治",
           "sandwich",
           "m.",
-          "fr/00899.mp3",
-          "zh/00899.mp3",
-          "sān míng zhì",
-          "sádwit"
+          "fr/11585.mp3",
+          "zh/11585.mp3",
+          "san1 ming2 zhi4",
+          "sɑ̃dwitʃ"
         ],
         [
           "开胃品",
-          "aperitif",
+          "apéritif",
           "m.",
-          "fr/00900.mp3",
-          "zh/00900.mp3",
-          "kāi wèi pǐn",
+          "fr/11586.mp3",
+          "zh/11586.mp3",
+          "kai1 wei4 pin3",
           "aperitif"
         ],
         [
           "比萨",
-          "ttpizza",
-          "",
-          "fr/00901.mp3",
-          "zh/00901.mp3",
-          "bǐ sà",
-          "pisa"
+          "pizza",
+          "f.",
+          "fr/11587.mp3",
+          "zh/11587.mp3",
+          "bi3 sa4",
+          "piza"
         ],
         [
-          "汉堡客香肠",
-          "hamburger saucisse",
+          "汉堡",
+          "hamburger",
+          "m.",
+          "fr/11588.mp3",
+          "zh/11588.mp3",
+          "han4 bao3",
+          "ɑ̃bœrɡœr"
+        ],
+        [
+          "香肠",
+          "saucisse",
           "f.",
-          "fr/00902.mp3",
-          "zh/00902.mp3",
-          "hàn bǎo kè xiāng cháng",
-          "'ábcerger"
+          "fr/11589.mp3",
+          "zh/11589.mp3",
+          "xiang1 chang2",
+          "sosis"
         ],
         [
           "吐司",
           "toast",
-          "m",
-          "fr/00903.mp3",
-          "zh/00903.mp3",
-          "tǔ sī",
-          "tost"
+          "m.",
+          "fr/11590.mp3",
+          "zh/11590.mp3",
+          "tu3 si1",
+          "to:st"
         ],
         [
           "煎蛋卷",
-          "omelette /.",
-          "",
-          "fr/00904.mp3",
-          "zh/00904.mp3",
-          "jiān dàn juǎn",
-          "omlet"
+          "omelette",
+          "f.",
+          "fr/11591.mp3",
+          "zh/11591.mp3",
+          "jian1 dan4 juan3",
+          "ɔ̃mlɛt"
         ],
         [
           "松露",
           "truffe",
-          "",
-          "fr/00905.mp3",
-          "zh/00905.mp3",
-          "sōng lù",
+          "f.",
+          "fr/11592.mp3",
+          "zh/11592.mp3",
+          "song1 lu4",
           "tryf"
         ],
         [
           "奶酪",
           "fromage",
           "m.",
-          "fr/00906.mp3",
-          "zh/00906.mp3",
-          "nǎi lào",
-          "fromai3"
+          "fr/11593.mp3",
+          "zh/11593.mp3",
+          "nai3 lao4",
+          "frɔma:ʒ"
         ],
         [
           "法式蛋奶冻",
-          "creme bralée /",
-          "",
-          "fr/00907.mp3",
-          "zh/00907.mp3",
-          "fǎ shì dàn nǎi dòng",
+          "crème brûlée",
+          "f.",
+          "fr/11594.mp3",
+          "zh/11594.mp3",
+          "fa3 shi4 dan4 nai3 dong4",
           "krem bryle"
         ],
         [
           "烤鹅肝",
-          "foie gras roti",
-          "m",
-          "fr/00908.mp3",
-          "zh/00908.mp3",
-          "kǎo é gān",
-          "fwa gras ro()ti"
+          "foie gras rôti",
+          "m.",
+          "fr/11595.mp3",
+          "zh/11595.mp3",
+          "kao3 e2 gan1",
+          "fwa gras rɔ(ɔ)ti"
         ],
         [
           "蛋挞",
           "tarte",
-          "",
-          "fr/00909.mp3",
-          "zh/00909.mp3",
-          "dàn tà",
+          "f.",
+          "fr/11596.mp3",
+          "zh/11596.mp3",
+          "dan4 ta4",
           "tart"
         ],
         [
           "圣代",
           "glace",
-          "f",
-          "fr/00910.mp3",
-          "zh/00910.mp3",
-          "shèng dài",
+          "f.",
+          "fr/11597.mp3",
+          "zh/11597.mp3",
+          "sheng4 dai4",
           "glas"
         ],
         [
           "马卡龙",
           "macaron",
           "m.",
-          "fr/00911.mp3",
-          "zh/00911.mp3",
-          "mǎ kǎ lóng",
-          "makarš"
+          "fr/11598.mp3",
+          "zh/11598.mp3",
+          "ma3 ka3 long2",
+          "makarɔ̃"
         ],
         [
           "棉花糖",
-          "barbe a papa",
-          "m",
-          "fr/00912.mp3",
-          "zh/00912.mp3",
-          "mián huā táng",
+          "barbe à papa",
+          "m.",
+          "fr/11599.mp3",
+          "zh/11599.mp3",
+          "mian2 hua1 tang2",
           "barb a papa"
         ],
         [
           "棒棒糖",
           "sucette",
           "f.",
-          "fr/00913.mp3",
-          "zh/00913.mp3",
-          "bàng bàng táng",
+          "fr/11600.mp3",
+          "zh/11600.mp3",
+          "bang4 bang4 tang2",
           "syset"
-        ],
-        [
-          "自动取款机银行存款余额",
-          "distributeur de billets 1sode",
-          "f.",
-          "fr/03278.mp3",
-          "zh/03278.mp3",
-          "zì dòng qǔ kuǎn jī yín háng cún kuǎn yú é",
-          "distribytxr da bije"
-        ],
-        [
-          "银行存折",
-          "carnet de banque",
-          "f.",
-          "fr/03279.mp3",
-          "zh/03279.mp3",
-          "yín háng cún zhé",
-          "karne da bak"
-        ],
-        [
-          "银行汇票",
-          "traite ban caire",
-          "f.",
-          "fr/03280.mp3",
-          "zh/03280.mp3",
-          "yín háng huì piào",
-          "tret bäker"
-        ],
-        [
-          "银行结单",
-          "effet ban caire",
-          "m",
-          "fr/03281.mp3",
-          "zh/03281.mp3",
-          "yín háng jié dān",
-          "efe báker"
-        ],
-        [
-          "存款",
-          "déposer",
-          "",
-          "fr/03282.mp3",
-          "zh/03282.mp3",
-          "cún kuǎn",
-          "depoze"
-        ],
-        [
-          "储户",
-          "compte d'épargne [kšt deparnly.",
-          "",
-          "fr/03283.mp3",
-          "zh/03283.mp3",
-          "chǔ hù",
-          ""
-        ],
-        [
-          "存款",
-          "dépot",
-          "m",
-          "fr/03284.mp3",
-          "zh/03284.mp3",
-          "cún kuǎn",
-          "depo"
-        ],
-        [
-          "取款",
-          "retrait de dépt",
-          "m.",
-          "fr/03285.mp3",
-          "zh/03285.mp3",
-          "qǔ kuǎn",
-          "r(a)tre da depo"
-        ],
-        [
-          "现金",
-          "argent liquide .",
-          "",
-          "fr/03286.mp3",
-          "zh/03286.mp3",
-          "xiàn jīn",
-          "arzá likid"
-        ],
-        [
-          "利率",
-          "taux d'intéret",
-          "m.",
-          "fr/03287.mp3",
-          "zh/03287.mp3",
-          "lì lǜ",
-          "to détere"
-        ],
-        [
-          "复利励支付",
-          "intéret composé verser",
-          "",
-          "fr/03288.mp3",
-          "zh/03288.mp3",
-          "fù lì lì zhī fù",
-          "&tere kšpoze"
-        ],
-        [
-          "转账",
-          "virer",
-          "",
-          "fr/03289.mp3",
-          "zh/03289.mp3",
-          "zhuǎn zhàng",
-          "vire"
-        ],
-        [
-          "取出清单",
-          "retrait bordereau",
-          "m.",
-          "fr/03290.mp3",
-          "zh/03290.mp3",
-          "qǔ chū qīng dān",
-          "ratre"
         ]
       ],
       "s": [
         [
-          "Je pense que la salade est tres bonne.",
-          "我觉得沙拉很不错",
+          "Je pense que la salade est très bonne.",
+          "我觉得沙拉很不错。",
           "《暮光之城》",
-          "fr/00914.mp3",
-          "zh/00914.mp3",
-          "wǒ jué de shā lā hěn bú cuò",
+          "fr/11601.mp3",
+          "zh/11601.mp3",
+          "wo3 jue2 de2 sha1 la1 hen3 bu2 cuo4 。",
           ""
         ],
         [
-          "En plus de pain,vous or- donnez le meme en sandwich XT =A",
-          "除了面包你们又叫了同样的三明治",
-          "一《西雅图不眠夜》",
-          "fr/00915.mp3",
-          "zh/00915.mp3",
-          "chú le miàn bāo nǐ men yòu jiào le tóng yàng de sān míng zhì",
+          "En plus de pain, vous ordonnez le même en sandwich.",
+          "除了面包，你们又叫了同样的三明治。",
+          "《西雅图不眠夜》",
+          "fr/11602.mp3",
+          "zh/11602.mp3",
+          "chu2 le5 mian4 bao1 ， ni3 men5 you4 jiao4 le5 tong2 yang4 de5 san1 ming2 zhi4 。",
           ""
         ],
         [
-          "La saucisse me tente et je fais comme les autres, un me lange de tous ces ingrédients dans une assiette. W7-.",
-          "禁不住香肠的诱惑我也买了一份所有的东西都装在一个盘子里，拌匀了吃。",
+          "La saucisse me tente et je fais comme les autres, un mélange de tous ces ingrédients dans une assiette.",
+          "禁不住香肠的诱惑，我也买了一份。所有的东西都装在一个盘子里，拌匀了吃。",
           "",
-          "fr/00916.mp3",
-          "zh/00916.mp3",
-          "jīn bú zhù xiāng cháng de yòu huò wǒ yě mǎi le yī fèn suǒ yǒu de dōng xī dōu zhuāng zài yí gè pán zi lǐ bàn yún le chī",
+          "fr/11603.mp3",
+          "zh/11603.mp3",
+          "jin4 bu2 zhu4 xiang1 chang2 de5 you4 huo4 ， wo3 ye3 mai3 le5 yi2 fen4 。 suo3 you3 de5 dong1 xi1 dou1 zhuang1 zai4 yi2 ge4 pan2 zi5 li3 ， ban4 yun2 le5 chi1 。",
           ""
         ],
         [
           "Qui a piqué mon fromage?",
           "谁动了我的奶酪？",
           "",
-          "fr/00917.mp3",
-          "zh/00917.mp3",
-          "shuí dòng le wǒ de nǎi lào",
-          ""
-        ],
-        [
-          "Je compte aller á la banque pour déposer cette somme d'argent sur mon livret de caisse d'epargne, mais c'est I'heure de la fermeture, y a-t-il un GAB pres dici? F",
-          "我打算去银行把这笔钱存入存折，但现在是银行下班的时候这附近有自助银行吗？",
-          "",
-          "fr/03291.mp3",
-          "zh/03291.mp3",
-          "wǒ dǎ suàn qù yín háng bǎ zhè bǐ qián cún rù cún zhé dàn xiàn zài shì yín háng xià bān de shí hòu zhè fù jìn yǒu zì zhù yín háng ma",
-          ""
-        ],
-        [
-          "La taxe doit étre acquittée au moment du depot ou de l'envoi de la declaration. Il sest accusé lui-méme d'avoir écrit le bordereau.Sa these est qu'il l'a fait sur ordre de ses chefs.",
-          "交易税必须在申报之时缴纳。纵然有关德雷福斯的事件已真相大白，但艾斯特哈齐的事就不那么简单。",
-          "",
-          "fr/03292.mp3",
-          "zh/03292.mp3",
-          "jiāo yì shuì bì xū zài shēn bào zhī shí jiǎo nà zòng rán yǒu guān dé léi fú sī de shì jiàn yǐ zhēn xiàng dà bái dàn ài sī tè hā qí de shì jiù bù nà me jiǎn dān",
-          ""
-        ],
-        [
-          "Avec votre compte ban- caire, yotre bourse vous sera versee sous forme de virement. 1P",
-          "有了银行帐户你的奖学金将以转账方式支付给你。",
-          "",
-          "fr/03293.mp3",
-          "zh/03293.mp3",
-          "yǒu le yín háng zhàng hù nǐ de jiǎng xué jīn jiāng yǐ zhuǎn zhàng fāng shì zhī fù gěi nǐ",
+          "fr/11604.mp3",
+          "zh/11604.mp3",
+          "shui2 dong4 le5 wo3 de5 nai3 lao4 ？",
           ""
         ]
       ],
       "e": [
         [
-          "除了",
-          "en plus de ..",
+          "除了……",
+          "en plus de",
           "",
-          "fr/00918.mp3",
-          "zh/00918.mp3",
-          "chú le",
+          "fr/11605.mp3",
+          "zh/11605.mp3",
+          "chu2 le5 … …",
           ""
         ],
         [
-          "企图试图",
-          "tenter.",
-          "",
-          "fr/00919.mp3",
-          "zh/00919.mp3",
-          "qǐ tú shì tú",
-          "tate"
+          "企图，试图",
+          "tenter",
+          "v.t.",
+          "fr/11606.mp3",
+          "zh/11606.mp3",
+          "qi3 tu2 ， shi4 tu2",
+          "tâte"
         ],
         [
-          "混",
-          "mélange.",
-          "m.",
-          "fr/00920.mp3",
-          "zh/00920.mp3",
-          "hùn",
-          "melä:3"
-        ],
-        [
-          "合换和",
-          "",
-          "",
-          "",
-          "zh/00921.mp3",
-          "hé huàn hé",
-          ""
-        ],
-        [
-          "",
-          "ingrédient",
-          "n.m",
-          "fr/00922.mp3",
-          "",
-          "",
-          "&gredjä"
+          "混合，搀和",
+          "mélange",
+          "n.m.",
+          "fr/11607.mp3",
+          "zh/11607.mp3",
+          "hun4 he2 ， chan1 he2",
+          "melɑ̃:ʒ"
         ],
         [
           "组成部分",
-          "",
-          "",
-          "",
-          "zh/00923.mp3",
-          "zǔ chéng bù fèn",
-          ""
+          "ingrédient",
+          "n.m.",
+          "fr/11608.mp3",
+          "zh/11608.mp3",
+          "zu3 cheng2 bu4 fen1",
+          "ɛ̃g redjɑ̃"
         ],
         [
           "盘子",
-          "assiette nf7",
-          "",
-          "fr/00924.mp3",
-          "zh/00924.mp3",
-          "pán zi",
-          "asjet"
+          "assiette",
+          "n.f.",
+          "fr/11609.mp3",
+          "zh/11609.mp3",
+          "pan2 zi5",
+          "asjɛt"
         ],
         [
-          "偷刺激",
-          "piquer i..",
-          "",
-          "fr/00925.mp3",
-          "zh/00925.mp3",
-          "tōu cì jī",
+          "偷，刺激",
+          "piquer",
+          "v.i.",
+          "fr/11610.mp3",
+          "zh/11610.mp3",
+          "tou1 ， ci4 ji1",
           "pike"
-        ],
-        [
-          "香肠",
-          "saucisse",
-          "",
-          "fr/00926.mp3",
-          "zh/00926.mp3",
-          "xiāng cháng",
-          ""
-        ],
-        [
-          "",
-          "fermeture",
-          "",
-          "fr/03294.mp3",
-          "",
-          "",
-          "fermaty:r"
-        ],
-        [
-          "关闭",
-          "Xi",
-          "",
-          "fr/03295.mp3",
-          "zh/03295.mp3",
-          "guān bì",
-          ""
-        ],
-        [
-          "支付的",
-          "acquitté,e adj.te",
-          "",
-          "fr/03296.mp3",
-          "zh/03296.mp3",
-          "zhī fù de",
-          "akite"
-        ],
-        [
-          "",
-          "déclaration",
-          "",
-          "fr/03297.mp3",
-          "",
-          "",
-          "deklara(a)sjδ"
-        ],
-        [
-          "声明宣告",
-          "",
-          "",
-          "",
-          "zh/03298.mp3",
-          "shēng míng xuān gào",
-          ""
-        ],
-        [
-          "论文论题",
-          "thesex",
-          "",
-          "fr/03299.mp3",
-          "zh/03299.mp3",
-          "lùn wén lùn tí",
-          "tez"
         ]
       ]
     },
     {
       "no": 5,
-      "name": "第5节",
+      "name": "点菜",
       "w": [
         [
           "女服务员",
-          "serveuse /.",
-          "",
-          "fr/00927.mp3",
-          "zh/00927.mp3",
-          "nǚ fú wù yuán",
-          "ser:z"
+          "serveuse",
+          "f.",
+          "fr/11611.mp3",
+          "zh/11611.mp3",
+          "nv3 fu2 wu4 yuan2",
+          "sɛʁvø:z"
         ],
         [
-          "男服务员菜单",
-          "serveur menu",
-          "",
-          "fr/00928.mp3",
-          "zh/00928.mp3",
-          "nán fú wù yuán cài dān",
-          "servc:r"
+          "男服务员",
+          "serveur",
+          "m.",
+          "fr/11612.mp3",
+          "zh/11612.mp3",
+          "nan2 fu2 wu4 yuan2",
+          "sɛʁvœ:r"
+        ],
+        [
+          "菜单",
+          "menu",
+          "m.",
+          "fr/11613.mp3",
+          "zh/11613.mp3",
+          "cai4 dan1",
+          "mɑny"
         ],
         [
           "一道菜",
-          "-plat",
-          "m",
-          "fr/00929.mp3",
-          "zh/00929.mp3",
-          "yī dào cài",
+          "plat",
+          "m.",
+          "fr/11614.mp3",
+          "zh/11614.mp3",
+          "yi2 dao4 cai4",
           "pla"
         ],
         [
           "套餐",
           "forfait",
-          "m",
-          "fr/00930.mp3",
-          "zh/00930.mp3",
-          "tào cān",
-          "forfe"
+          "m.",
+          "fr/11615.mp3",
+          "zh/11615.mp3",
+          "tao4 can1",
+          "fɔʁfɛ"
         ],
         [
           "厨师长",
           "chef de cuisine",
           "m.",
-          "fr/00931.mp3",
-          "zh/00931.mp3",
-          "chú shī zhǎng",
-          "ef da kyizin"
+          "fr/11616.mp3",
+          "zh/11616.mp3",
+          "chu2 shi1 zhang3",
+          "ʃɛf də kɥizin"
         ],
         [
-          "自助餐共享分担",
-          "buffet volonté partager",
-          "",
-          "fr/00932.mp3",
-          "zh/00932.mp3",
-          "zì zhù cān gòng xiǎng fēn dān",
-          "byfe a vol5te"
+          "自助餐",
+          "buffet à volonté",
+          "m.",
+          "fr/11617.mp3",
+          "zh/11617.mp3",
+          "zi4 zhu4 can1",
+          "byfɛ a vɔlɔ̃te"
+        ],
+        [
+          "共享，分担",
+          "partager",
+          "v.",
+          "fr/11618.mp3",
+          "zh/11618.mp3",
+          "gong4 xiang3 ， fen1 dan1",
+          "paʁtaʒe"
         ],
         [
           "个人的",
-          "personnel,elle",
-          "",
-          "fr/00933.mp3",
-          "zh/00933.mp3",
-          "gè rén de",
-          "personel"
+          "personnel, elle",
+          "形",
+          "fr/11619.mp3",
+          "zh/11619.mp3",
+          "ge4 ren2 de5",
+          "pɛʁsɔnɛl"
         ],
         [
           "流口水",
-          "baveri",
-          "",
-          "fr/00934.mp3",
-          "zh/00934.mp3",
-          "liú kǒu shuǐ",
-          "bave"
+          "baver",
+          "v.",
+          "fr/11620.mp3",
+          "zh/11620.mp3",
+          "liu2 kou3 shui3",
+          "bavɛ"
         ],
         [
           "洒出",
-          "déborder i.",
-          "",
-          "fr/00935.mp3",
-          "zh/00935.mp3",
-          "sǎ chū",
-          "deborde"
+          "déborder",
+          "v.",
+          "fr/11621.mp3",
+          "zh/11621.mp3",
+          "sa3 chu1",
+          "debɔʁde"
         ],
         [
           "饱的",
           "repu",
-          "",
-          "fr/00936.mp3",
-          "zh/00936.mp3",
-          "bǎo de",
-          "rapy"
+          "形",
+          "fr/11622.mp3",
+          "zh/11622.mp3",
+          "bao3 de5",
+          "ʁəpy"
         ],
         [
           "吃饱喝足",
-          "oztse taper la cloche [sa tape la klo",
-          "f",
-          "fr/00937.mp3",
-          "zh/00937.mp3",
-          "chī bǎo hē zú",
-          ""
+          "se taper la cloche",
+          "v.",
+          "fr/11623.mp3",
+          "zh/11623.mp3",
+          "chi1 bao3 he1 zu2",
+          "s(ə) tapə la klɔʃ"
         ],
         [
           "吃饱",
           "assouvir",
-          "",
-          "fr/00938.mp3",
-          "zh/00938.mp3",
-          "chī bǎo",
-          "asuvir"
+          "v.",
+          "fr/11624.mp3",
+          "zh/11624.mp3",
+          "chi1 bao3",
+          "asuvi:ʁ"
         ],
         [
-          "厨子男服务员",
-          "cuistot serveur",
-          "",
-          "fr/00939.mp3",
-          "zh/00939.mp3",
-          "chú zi nán fú wù yuán",
-          "kyisto"
-        ],
-        [
-          "支票",
-          "chequeek]",
+          "厨子",
+          "cuistot",
           "m.",
-          "fr/03300.mp3",
-          "zh/03300.mp3",
-          "zhī piào",
-          ""
-        ],
-        [
-          "支票本客不记名支票",
-          "chéquier icheque au porteurek o portcir]",
-          "m.",
-          "fr/03301.mp3",
-          "zh/03301.mp3",
-          "zhī piào běn kè bù jì míng zhī piào",
-          "ekje"
-        ],
-        [
-          "记名支票",
-          "cheque nominatif ek nominatif]",
-          "",
-          "fr/03302.mp3",
-          "zh/03302.mp3",
-          "jì míng zhī piào",
-          ""
-        ],
-        [
-          "空白支票",
-          "cheque en blanc",
-          "m.",
-          "fr/03303.mp3",
-          "zh/03303.mp3",
-          "kòng bái zhī piào",
-          "ek ä bla"
-        ],
-        [
-          "空头支票",
-          "cheque sans provision ek sä provizj5]",
-          "f",
-          "fr/03304.mp3",
-          "zh/03304.mp3",
-          "kōng tóu zhī piào",
-          ""
-        ],
-        [
-          "兑现支票",
-          "toucherun cheque",
-          "",
-          "fr/03305.mp3",
-          "zh/03305.mp3",
-          "duì xiàn zhī piào",
-          "tufe cek"
-        ],
-        [
-          "划线支票",
-          "cheque barré",
-          "m.",
-          "fr/03306.mp3",
-          "zh/03306.mp3",
-          "huà xiàn zhī piào",
-          "ek bare"
-        ],
-        [
-          "债券",
-          "obligation",
-          "",
-          "fr/03307.mp3",
-          "zh/03307.mp3",
-          "zhài quàn",
-          "Dbligasj5"
-        ],
-        [
-          "债券",
-          "bon du Tresor",
-          "m.",
-          "fr/03308.mp3",
-          "zh/03308.mp3",
-          "zhài quàn",
-          "b dy trezor"
-        ],
-        [
-          "贷款",
-          "pret",
-          "m",
-          "fr/03309.mp3",
-          "zh/03309.mp3",
-          "dài kuǎn",
-          "pre"
-        ],
-        [
-          "如期支付",
-          "honorer",
-          "",
-          "fr/03310.mp3",
-          "zh/03310.mp3",
-          "rú qī zhī fù",
-          "Dnore"
-        ],
-        [
-          "投资",
-          "placement",
-          "m.",
-          "fr/03311.mp3",
-          "zh/03311.mp3",
-          "tóu zī",
-          "plasma"
-        ],
-        [
-          "有价证券",
-          "portefeuille",
-          "m.",
-          "fr/03312.mp3",
-          "zh/03312.mp3",
-          "yǒu jià zhèng quàn",
-          "portafcej"
-        ],
-        [
-          "兑现",
-          "encaisser t",
-          "",
-          "fr/03313.mp3",
-          "zh/03313.mp3",
-          "duì xiàn",
-          "äke(e)se"
-        ],
-        [
-          "证券",
-          "titre",
-          "m.",
-          "fr/03314.mp3",
-          "zh/03314.mp3",
-          "zhèng quàn",
-          "titr"
-        ],
-        [
-          "国债",
-          "dette nationale",
-          "",
-          "fr/03315.mp3",
-          "zh/03315.mp3",
-          "guó zhài",
-          "det nasjonal"
-        ],
-        [
-          "国库",
-          "Tresor national",
-          "m.",
-          "fr/03316.mp3",
-          "zh/03316.mp3",
-          "guó kù",
-          "trezor nasjonal"
-        ],
-        [
-          "政府债券",
-          "obligation assimilable du Trésor",
-          "m.",
-          "fr/03317.mp3",
-          "zh/03317.mp3",
-          "zhèng fǔ zhài quàn",
-          "bligasj asimilabl dy trezor"
+          "fr/11625.mp3",
+          "zh/11625.mp3",
+          "chu2 zi5",
+          "kɥisto"
         ]
       ],
       "s": [
         [
-          "Ne me dites pas, ma mere vous embauche comme un serveur X",
-          "请别告诉我我母亲又聘请你们当服务生了",
-          "《排闻女孩》",
-          "fr/00940.mp3",
-          "zh/00940.mp3",
-          "qǐng bié gào sù wǒ wǒ mǔ qīn yòu pìn qǐng nǐ men dāng fú wù shēng le",
+          "Ne me dites pas, ma mère vous embauche comme un serveur.",
+          "请别告诉我，我母亲又聘请你们当服务生了。",
+          "《绯闻女孩》",
+          "fr/11626.mp3",
+          "zh/11626.mp3",
+          "qing3 bie2 gao4 su4 wo3 ， wo3 mu3 qin1 you4 pin4 qing3 ni3 men5 dang1 fu2 wu4 sheng1 le5 。",
           ""
         ],
         [
-          "De toute évidence,il ny a pas ce plat sur le menu. E.",
-          "很明显菜单上没有这个",
-          "一《排闻女孩》",
-          "fr/00941.mp3",
-          "zh/00941.mp3",
-          "hěn míng xiǎn cài dān shàng méi yǒu zhè ge",
+          "De toute évidence, il n'y a pas ce plat sur le menu.",
+          "很明显，菜单上没有这个。",
+          "《绯闻女孩》",
+          "fr/11627.mp3",
+          "zh/11627.mp3",
+          "hen3 ming2 xian3 ， cai4 dan1 shang4 mei2 you3 zhe4 ge4 。",
           ""
         ],
         [
-          "Par des réunions régulieres pour réaliser le but:étudier,par tager et progresser mutuelle ment",
-          "通过定期的聚会达到共同学习、相互进步的目的。",
+          "Par des réunions régulières pour réaliser le but: étudier, partager et progresser mutuellement.",
+          "通过定期的聚会，达到共同学习、相互进步的目的。",
           "",
-          "fr/00942.mp3",
-          "zh/00942.mp3",
-          "tōng guò dìng qī de jù huì dá dào gòng tóng xué xí xiāng hù jìn bù de mù dì",
+          "fr/11628.mp3",
+          "zh/11628.mp3",
+          "tong1 guo4 ding4 qi1 de5 ju4 hui4 ， da2 dao4 gong4 tong2 xue2 xi2 、 xiang1 hu4 jin4 bu4 de5 mu4 de5 。",
           ""
         ],
         [
-          "La mousse de la biere deborde duverre.",
-          "啤酒的泡沫酒出酒杯。",
+          "La mousse de la bière déborde du verre.",
+          "啤酒的泡沫洒出酒杯。",
           "",
-          "fr/00943.mp3",
-          "zh/00943.mp3",
-          "pí jiǔ de pào mò jiǔ chū jiǔ bēi",
-          ""
-        ],
-        [
-          "Le cheque est essentielle ment un moyen de reglement.",
-          "支票是一种基本的支付方式。",
-          "",
-          "fr/03318.mp3",
-          "zh/03318.mp3",
-          "zhī piào shì yī zhǒng jī běn de zhī fù fāng shì",
-          ""
-        ],
-        [
-          "Bonvoici vos exemplaires de RIB(relevé d'identité ban caire) de votre compte,et vous pouvez venir prendre votre chéquier et votre carte ban- caire dans dix jours. PE+",
-          "好的这是您的银行开户证明十天之后，您可以来取您的支票和银行卡",
-          "",
-          "fr/03319.mp3",
-          "zh/03319.mp3",
-          "hǎo de zhè shì nín de yín háng kāi hù zhèng míng shí tiān zhī hòu nín kě yǐ lái qǔ nín de zhī piào hé yín háng kǎ",
-          ""
-        ],
-        [
-          "Il a obtenu un pret de sa banque.-",
-          "他向银行借了一笔贷款。",
-          "",
-          "fr/03320.mp3",
-          "zh/03320.mp3",
-          "tā xiàng yín háng jiè le yī bǐ dài kuǎn",
-          ""
-        ],
-        [
-          "Ils discutent dun place- ment financier.f-",
-          "他们就一笔金融投资在做讨论。",
-          "",
-          "fr/03321.mp3",
-          "zh/03321.mp3",
-          "tā men jiù yī bǐ jīn róng tóu zī zài zuò tǎo lùn",
-          ""
-        ],
-        [
-          "Ces titres seront vendus ranco.",
-          "这些证卷将免交佣金卖出。",
-          "",
-          "fr/03322.mp3",
-          "zh/03322.mp3",
-          "zhè xiē zhèng juǎn jiāng miǎn jiāo yòng jīn mài chū",
+          "fr/11629.mp3",
+          "zh/11629.mp3",
+          "pi2 jiu3 de5 pao4 mo4 sa3 chu1 jiu3 bei1 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "embaucher w",
-          "",
-          "fr/00944.mp3",
-          "",
-          "",
-          "äbofe"
-        ],
-        [
-          "招募招致",
-          "",
-          "",
-          "",
-          "zh/00945.mp3",
-          "zhāo mù zhāo zhì",
-          ""
-        ],
-        [
-          "",
-          "régulier,ere",
-          "",
-          "fr/00946.mp3",
-          "",
-          "",
-          "regylje,er"
+          "招募，招致",
+          "embaucher",
+          "v.t.",
+          "fr/11630.mp3",
+          "zh/11630.mp3",
+          "zhao1 mu4 ， zhao1 zhi4",
+          "ɑ̃boʃe"
         ],
         [
           "固定的",
-          "",
-          "adj",
-          "",
-          "zh/00947.mp3",
-          "gù dìng de",
-          ""
+          "régulier, ère",
+          "adj.",
+          "fr/11631.mp3",
+          "zh/11631.mp3",
+          "gu4 ding4 de5",
+          "ʁegylje, ɛʁ"
         ],
         [
-          "",
-          "réaliser wt",
-          "",
-          "fr/00948.mp3",
-          "",
-          "",
-          "realize"
+          "实现，认识",
+          "réaliser",
+          "v.t.",
+          "fr/11632.mp3",
+          "zh/11632.mp3",
+          "shi2 xian4 ， ren4 shi2",
+          "ʁealize"
         ],
         [
-          "实现认识",
-          "",
-          "",
-          "",
-          "zh/00949.mp3",
-          "shí xiàn rèn shí",
-          ""
-        ],
-        [
-          "",
+          "前进，进步",
           "progresser",
-          "",
-          "fr/00950.mp3",
-          "",
-          "",
-          "progre(ese"
-        ],
-        [
-          "前进进步",
-          "wi..",
-          "",
-          "fr/00951.mp3",
-          "zh/00951.mp3",
-          "qián jìn jìn bù",
-          ""
-        ],
-        [
-          "",
-          "mutuellement",
-          "",
-          "fr/00952.mp3",
-          "",
-          "",
-          ""
+          "v.i.",
+          "fr/11633.mp3",
+          "zh/11633.mp3",
+          "qian2 jin4 ， jin4 bu4",
+          "pʁɔgʁɛ(s)e"
         ],
         [
           "相互地",
-          "ad",
-          "",
-          "fr/00953.mp3",
-          "zh/00953.mp3",
-          "xiāng hù dì",
-          "mytyelmá"
+          "mutuellement",
+          "adv.",
+          "fr/11634.mp3",
+          "zh/11634.mp3",
+          "xiang1 hu4 di4",
+          "mytyɛlmɑ̃"
         ],
         [
           "泡沫",
           "mousse",
-          "f",
-          "fr/00954.mp3",
-          "zh/00954.mp3",
-          "pào mò",
+          "n.f.",
+          "fr/11635.mp3",
+          "zh/11635.mp3",
+          "pao4 mo4",
           "mus"
-        ],
-        [
-          "",
-          "essentiellement",
-          "",
-          "fr/03323.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "基本上",
-          "",
-          "adv.",
-          "",
-          "zh/03324.mp3",
-          "jī běn shàng",
-          "esäsjelmä"
-        ],
-        [
-          "现金",
-          "liquidité",
-          "",
-          "fr/03325.mp3",
-          "zh/03325.mp3",
-          "xiàn jīn",
-          "likidite"
-        ],
-        [
-          "",
-          "déposant,e",
-          "",
-          "fr/03326.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
-          "储户",
-          "",
-          "",
-          "",
-          "zh/03327.mp3",
-          "chǔ hù",
-          "depozaat"
-        ],
-        [
-          "免费地",
-          "franco adv#",
-          "",
-          "fr/03328.mp3",
-          "zh/03328.mp3",
-          "miǎn fèi dì",
-          "fräko"
         ]
       ]
     },
     {
       "no": 6,
-      "name": "第6节",
+      "name": "面条",
       "w": [
         [
           "方便面",
-          "nouilles ins tantanées fpl.",
-          "",
-          "fr/00955.mp3",
-          "zh/00955.mp3",
-          "fāng biàn miàn",
-          "nuj Estätane"
+          "nouilles instantanées",
+          "f.pl.",
+          "fr/11636.mp3",
+          "zh/11636.mp3",
+          "fang1 bian4 mian4",
+          "nuj ɛ̃s tɑ̃tane"
         ],
         [
           "揉",
           "frotter",
-          "",
-          "fr/00956.mp3",
-          "zh/00956.mp3",
-          "róu",
-          "frote"
+          "v.t.",
+          "fr/11637.mp3",
+          "zh/11637.mp3",
+          "rou2",
+          "frɔte"
         ],
         [
           "擀平",
-          "abaisser de la pate",
-          "",
-          "fr/00957.mp3",
-          "zh/00957.mp3",
-          "gǎn píng",
-          "abee)se dala part"
+          "abaisser de la pâte",
+          "动",
+          "fr/11638.mp3",
+          "zh/11638.mp3",
+          "gan3 ping2",
+          "abɛ(e)se d(ə) la pa:t"
         ],
         [
           "麻酱面",
-          "nouilles de sésames f.pl.",
-          "",
-          "fr/00958.mp3",
-          "zh/00958.mp3",
-          "má jiàng miàn",
-          "nuj da sezam"
+          "nouilles de sésames",
+          "f.pl.",
+          "fr/11639.mp3",
+          "zh/11639.mp3",
+          "ma2 jiang4 mian4",
+          "nuj də sezam"
         ],
         [
           "米粉",
           "farine de riz",
-          "",
-          "fr/00959.mp3",
-          "zh/00959.mp3",
-          "mǐ fěn",
-          "farin da ri"
+          "f.",
+          "fr/11640.mp3",
+          "zh/11640.mp3",
+          "mi3 fen3",
+          "farin də ri"
         ],
         [
           "意大利面",
-          "pates",
-          "",
-          "fr/00960.mp3",
-          "zh/00960.mp3",
-          "yì dà lì miàn",
-          "pat"
+          "pâtes",
+          "f.",
+          "fr/11641.mp3",
+          "zh/11641.mp3",
+          "yi4 da4 li4 mian4",
+          "pa:t"
         ],
         [
           "宽面条",
-          "lasagne f.ing",
-          "",
-          "fr/00961.mp3",
-          "zh/00961.mp3",
-          "kuān miàn tiáo",
-          "lazan"
+          "lasagne  f",
+          "inv.",
+          "fr/11642.mp3",
+          "zh/11642.mp3",
+          "kuan1 mian4 tiao2",
+          "lazaɲ"
         ],
         [
           "扁面条",
-          "nouilles plates f.pl.",
-          "",
-          "fr/00962.mp3",
-          "zh/00962.mp3",
-          "biǎn miàn tiáo",
+          "nouilles plates",
+          "f.pl.",
+          "fr/11643.mp3",
+          "zh/11643.mp3",
+          "bian3 mian4 tiao2",
           "nuj plat"
         ],
         [
           "通心粉",
           "macaroni",
           "m.",
-          "fr/00963.mp3",
-          "zh/00963.mp3",
-          "tōng xīn fěn",
-          "makaroni"
+          "fr/11644.mp3",
+          "zh/11644.mp3",
+          "tong1 xin1 fen3",
+          "makarɔni"
         ],
         [
           "风味",
           "saveur",
-          "",
-          "fr/00964.mp3",
-          "zh/00964.mp3",
-          "fēng wèi",
-          "savcr"
+          "f.",
+          "fr/11645.mp3",
+          "zh/11645.mp3",
+          "feng1 wei4",
+          "savœ:r"
         ],
         [
           "调味汁",
           "sauce",
-          "",
-          "fr/00965.mp3",
-          "zh/00965.mp3",
-          "tiáo wèi zhī",
-          "sos"
+          "f.",
+          "fr/11646.mp3",
+          "zh/11646.mp3",
+          "diao4 wei4 zhi1",
+          "so:s"
         ],
         [
           "米粉条",
-          "vermiceilede riz",
-          "",
-          "fr/00966.mp3",
-          "zh/00966.mp3",
-          "mǐ fěn tiáo",
-          "vermiseldari"
+          "vermicelle de riz",
+          "m.",
+          "fr/11647.mp3",
+          "zh/11647.mp3",
+          "mi3 fen3 tiao2",
+          "vermisɛl d(ə) ri"
         ],
         [
           "面粉",
           "farine",
-          "",
-          "fr/00967.mp3",
-          "zh/00967.mp3",
-          "miàn fěn",
+          "f.",
+          "fr/11648.mp3",
+          "zh/11648.mp3",
+          "mian4 fen3",
           "farin"
         ],
         [
           "面疙瘩",
-          "balle de pate .",
-          "",
-          "fr/00968.mp3",
-          "zh/00968.mp3",
-          "miàn gē da",
-          "bal da pat"
-        ],
-        [
-          "面团宽面条",
-          "patef lasagne",
-          "",
-          "fr/00969.mp3",
-          "zh/00969.mp3",
-          "miàn tuán kuān miàn tiáo",
-          "pat"
-        ],
-        [
-          "面包店",
-          "Section7",
-          "",
-          "fr/00982.mp3",
-          "zh/00982.mp3",
-          "miàn bāo diàn",
-          ""
-        ],
-        [
-          "面包",
-          "pain",
-          "m",
-          "fr/00983.mp3",
-          "zh/00983.mp3",
-          "miàn bāo",
-          "p"
-        ],
-        [
-          "甜甜圈",
-          "donut",
-          "m.",
-          "fr/00984.mp3",
-          "zh/00984.mp3",
-          "tián tián quān",
-          "donyt"
-        ],
-        [
-          "面包片",
-          "tartine .",
-          "",
-          "fr/00985.mp3",
-          "zh/00985.mp3",
-          "miàn bāo piàn",
-          "tartin"
-        ],
-        [
-          "新月形面包",
-          "croissant",
-          "m.",
-          "fr/00986.mp3",
-          "zh/00986.mp3",
-          "xīn yuè xíng miàn bāo",
-          "krwasa"
-        ],
-        [
-          "泡芙",
-          "profiterole ]:",
-          "",
-          "fr/00987.mp3",
-          "zh/00987.mp3",
-          "pào fú",
-          "profitrol"
-        ],
-        [
-          "面包皮",
-          "crote",
-          "",
-          "fr/00988.mp3",
-          "zh/00988.mp3",
-          "miàn bāo pí",
-          "krut"
-        ],
-        [
-          "圆面包",
-          "tourteau",
-          "m.",
-          "fr/00989.mp3",
-          "zh/00989.mp3",
-          "yuán miàn bāo",
-          "turto"
-        ],
-        [
-          "酵母",
-          "ferment",
-          "m.",
-          "fr/00990.mp3",
-          "zh/00990.mp3",
-          "jiào mǔ",
-          "ferma"
-        ],
-        [
-          "面包属",
-          "miette",
-          "",
-          "fr/00991.mp3",
-          "zh/00991.mp3",
-          "miàn bāo shǔ",
-          "mjet"
-        ],
-        [
-          "法式长棍面包",
-          "K baguette",
+          "balle de pâte",
           "f.",
-          "fr/00992.mp3",
-          "zh/00992.mp3",
-          "fǎ shì zhǎng gùn miàn bāo",
-          "baget"
+          "fr/11649.mp3",
+          "zh/11649.mp3",
+          "mian4 ge1 da1",
+          "bal də pat"
         ],
         [
-          "脆皮的",
-          "croustillante",
-          "",
-          "fr/00993.mp3",
-          "zh/00993.mp3",
-          "cuì pí de",
-          "krustija, á:t"
-        ],
-        [
-          "杂粮面包",
-          "pain aux ceréales",
-          "m.",
-          "fr/00994.mp3",
-          "zh/00994.mp3",
-          "zá liáng miàn bāo",
-          "p& o sereal"
-        ],
-        [
-          "细长形面包",
-          "flate",
-          "",
-          "fr/00995.mp3",
-          "zh/00995.mp3",
-          "xì cháng xíng miàn bāo",
-          "flyt"
-        ],
-        [
-          "圆形面包",
-          "boulebul",
-          "",
-          "fr/00996.mp3",
-          "zh/00996.mp3",
-          "yuán xíng miàn bāo",
-          ""
-        ],
-        [
-          "小棍面包",
-          "ficelle",
-          "",
-          "fr/00997.mp3",
-          "zh/00997.mp3",
-          "xiǎo gùn miàn bāo",
-          "fisel"
-        ],
-        [
-          "黑麦面包",
-          "pain de seigle",
-          "m",
-          "fr/00998.mp3",
-          "zh/00998.mp3",
-          "hēi mài miàn bāo",
-          "pdasegl"
-        ],
-        [
-          "面包心软面包",
-          "pain de mie",
-          "m",
-          "fr/00999.mp3",
-          "zh/00999.mp3",
-          "miàn bāo xīn ruǎn miàn bāo",
-          "p dami"
+          "面团",
+          "pâte",
+          "f.",
+          "fr/11650.mp3",
+          "zh/11650.mp3",
+          "mian4 tuan2",
+          "pa:t"
         ]
       ],
       "s": [
         [
-          "Encore une fois, ma vie est sauvée par la lasagne in croyable.",
+          "Encore une fois, ma vie est sauvée par la lasagne incroyable.",
           "我的老命被神奇的宽面条拯救了。",
           "《加菲猫》",
-          "fr/00970.mp3",
-          "zh/00970.mp3",
-          "wǒ de lǎo mìng bèi shén qí de kuān miàn tiáo zhěng jiù le",
+          "fr/11651.mp3",
+          "zh/11651.mp3",
+          "wo3 de5 lao3 ming4 bei4 shen2 qi2 de5 kuan1 mian4 tiao2 zheng3 jiu4 le5 。",
           ""
         ],
         [
           "Je ne crois simplement pas que quelqu'un ferait bien du macaroni et du fromage.",
           "我只是不相信有人会做不好通心粉和奶酪。",
           "《绝望的主妇》",
-          "fr/00971.mp3",
-          "zh/00971.mp3",
-          "wǒ zhǐ shì bù xiāng xìn yǒu rén huì zuò bù hǎo tōng xīn fěn hé nǎi lào",
+          "fr/11652.mp3",
+          "zh/11652.mp3",
+          "wo3 zhi3 shi4 bu4 xiang1 xin4 you3 ren2 hui4 zuo4 bu4 hao3 tong1 xin1 fen3 he2 nai3 lao4 。",
           ""
         ],
         [
-          "Cest la plus grande saveur de ce long voyage de vie qui tattend.",
+          "C'est la plus grande saveur de ce long voyage de vie qui t'attend.",
           "这就是漫长人生旅途等待你的最大乐趣。",
           "",
-          "fr/00972.mp3",
-          "zh/00972.mp3",
-          "zhè jiù shì màn cháng rén shēng lǚ tú děng dài nǐ de zuì dà lè qù",
+          "fr/11653.mp3",
+          "zh/11653.mp3",
+          "zhe4 jiu4 shi4 man4 zhang3 ren2 sheng1 lv3 tu2 deng3 dai4 ni3 de5 zui4 da4 le4 qu4 。",
           ""
         ],
         [
-          "Je naime pas manger des plats avec de la sauce.",
+          "Je n'aime pas manger des plats avec de la sauce.",
           "我不喜欢吃带汁的菜。",
           "",
-          "fr/00973.mp3",
-          "zh/00973.mp3",
-          "wǒ bù xǐ huān chī dài zhī de cài",
+          "fr/11654.mp3",
+          "zh/11654.mp3",
+          "wo3 bu4 xi3 huan1 chi1 dai4 zhi1 de5 cai4 。",
           ""
         ],
         [
-          "Nous avons mangé des pates.",
-          "我们在吃意大利面",
-          "一《老友记》",
-          "fr/00974.mp3",
-          "zh/00974.mp3",
-          "wǒ men zài chī yì dà lì miàn",
-          ""
-        ],
-        [
-          "Le vin avec mesure, mais pour le pain,le plus sera le mieux.",
-          "酒要适度但面包多多益善。",
-          "",
-          "fr/01000.mp3",
-          "zh/01000.mp3",
-          "jiǔ yào shì dù dàn miàn bāo duō duō yì shàn",
-          ""
-        ],
-        [
-          "Nous mangeons du riz et ils mangent du pain. f1.",
-          "我们吃米饭他们吃面包",
-          "",
-          "fr/01001.mp3",
-          "zh/01001.mp3",
-          "wǒ men chī mǐ fàn tā men chī miàn bāo",
-          ""
-        ],
-        [
-          "Il tartine son pain avec la confiture de pommes.",
-          "他在面包上抹上苹果酱。",
-          "",
-          "fr/01002.mp3",
-          "zh/01002.mp3",
-          "tā zài miàn bāo shàng mǒ shàng píng guǒ jiàng",
-          ""
-        ],
-        [
-          "Sa niece aime manger des baguettes,je veux lui acheter un certain nombre. K -H.",
-          "她侄女喜欢吃长棍面包我要给她买一些",
-          "",
-          "fr/01003.mp3",
-          "zh/01003.mp3",
-          "tā zhí nǚ xǐ huān chī zhǎng gùn miàn bāo wǒ yào gěi tā mǎi yī xiē",
-          ""
-        ],
-        [
-          "Sur la tranche de pain aux cereales,étalez au cou- teau la valeur de 3 cuilleres a soupe de creme de Maroilles. AXHETE3",
-          "在谷类面包片上用刀抹上汤匙的马卢瓦耶干酪奶油。",
-          "",
-          "fr/01004.mp3",
-          "zh/01004.mp3",
-          "zài gǔ lèi miàn bāo piàn shàng yòng dāo mǒ shàng tāng chí de mǎ lú wǎ yé gān lào nǎi yóu",
+          "Nous avons mangé des pâtes.",
+          "我们在吃意大利面。",
+          "《老友记》",
+          "fr/11655.mp3",
+          "zh/11655.mp3",
+          "wo3 men5 zai4 chi1 yi4 da4 li4 mian4 。",
           ""
         ]
       ],
       "e": [
         [
           "再一次",
-          "encoreunefois-",
+          "encore une fois",
           "",
-          "fr/00975.mp3",
-          "zh/00975.mp3",
-          "zài yí cì",
+          "fr/11656.mp3",
+          "zh/11656.mp3",
+          "zai4 yi2 ci4",
           ""
-        ],
-        [
-          "",
-          "incroyable",
-          "",
-          "fr/00976.mp3",
-          "",
-          "",
-          "&krwajabl"
         ],
         [
           "难以置信的",
-          "",
-          "adj",
-          "",
-          "zh/00977.mp3",
-          "nán yǐ zhì xìn de",
-          ""
-        ],
-        [
-          "",
-          "simplement",
-          "",
-          "fr/00978.mp3",
-          "",
-          "",
-          "s&plamá"
+          "incroyable",
+          "adj.",
+          "fr/11657.mp3",
+          "zh/11657.mp3",
+          "nan2 yi3 zhi4 xin4 de5",
+          "ɛ̃k rwajabl"
         ],
         [
           "简单地",
-          "",
+          "simplement",
           "adv.",
-          "",
-          "zh/00979.mp3",
-          "jiǎn dān dì",
-          ""
-        ],
-        [
-          "",
-          "fromage",
-          "n.m.",
-          "fr/00980.mp3",
-          "",
-          "",
-          "froma:3"
+          "fr/11658.mp3",
+          "zh/11658.mp3",
+          "jian3 dan1 di4",
+          "sɛ̃p lamɑ̃"
         ],
         [
           "奶酪",
+          "fromage",
+          "n.m.",
+          "fr/11659.mp3",
+          "zh/11659.mp3",
+          "nai3 lao4",
+          "frɔma:ʒ"
+        ]
+      ]
+    },
+    {
+      "no": 7,
+      "name": "面包店",
+      "w": [
+        [
+          "面包",
+          "pain ̃",
+          "m.",
+          "fr/11660.mp3",
+          "zh/11660.mp3",
+          "mian4 bao1",
+          "pɛ"
+        ],
+        [
+          "甜甜圈",
+          "donut",
+          "m.",
+          "fr/11661.mp3",
+          "zh/11661.mp3",
+          "tian2 tian2 quan1",
+          "dɔnyt"
+        ],
+        [
+          "面包片",
+          "tartine",
+          "f.",
+          "fr/11662.mp3",
+          "zh/11662.mp3",
+          "mian4 bao1 pian4",
+          "tartin"
+        ],
+        [
+          "新月形面包",
+          "croissant",
+          "m.",
+          "fr/11663.mp3",
+          "zh/11663.mp3",
+          "xin1 yue4 xing2 mian4 bao1",
+          "krwasɑ̃"
+        ],
+        [
+          "泡芙",
+          "profiterole",
+          "f.",
+          "fr/11664.mp3",
+          "zh/11664.mp3",
+          "pao4 fu2",
+          "prɔfitrɔl"
+        ],
+        [
+          "面包皮",
+          "croûte",
+          "f.",
+          "fr/11665.mp3",
+          "zh/11665.mp3",
+          "mian4 bao1 pi2",
+          "krut"
+        ],
+        [
+          "圆面包",
+          "tourteau",
+          "m.",
+          "fr/11666.mp3",
+          "zh/11666.mp3",
+          "yuan2 mian4 bao1",
+          "turto"
+        ],
+        [
+          "酵母",
+          "ferment",
+          "m.",
+          "fr/11667.mp3",
+          "zh/11667.mp3",
+          "jiao4 mu3",
+          "fermɑ̃"
+        ],
+        [
+          "面包屑",
+          "miette",
+          "f.",
+          "fr/11668.mp3",
+          "zh/11668.mp3",
+          "mian4 bao1 xie4",
+          "mjɛt"
+        ],
+        [
+          "法式长棍面包",
+          "baguette",
+          "f.",
+          "fr/11669.mp3",
+          "zh/11669.mp3",
+          "fa3 shi4 zhang3 gun4 mian4 bao1",
+          "bagɛt"
+        ],
+        [
+          "脆皮的",
+          "croustillante",
+          "形",
+          "fr/11670.mp3",
+          "zh/11670.mp3",
+          "cui4 pi2 de5",
+          "krustijɑ̃, ɑ̃t"
+        ],
+        [
+          "杂粮面包",
+          "pain aux céréales",
+          "m.",
+          "fr/11671.mp3",
+          "zh/11671.mp3",
+          "za2 liang2 mian4 bao1",
+          "pɛ̃ o sereal"
+        ],
+        [
+          "细长形面包",
+          "flûte",
+          "f.",
+          "fr/11672.mp3",
+          "zh/11672.mp3",
+          "xi4 zhang3 xing2 mian4 bao1",
+          "flyt"
+        ],
+        [
+          "圆形面包",
+          "boule",
+          "f.",
+          "fr/11673.mp3",
+          "zh/11673.mp3",
+          "yuan2 xing2 mian4 bao1",
+          "bul"
+        ],
+        [
+          "小棍面包",
+          "ficelle",
+          "f.",
+          "fr/11674.mp3",
+          "zh/11674.mp3",
+          "xiao3 gun4 mian4 bao1",
+          "fisɛl"
+        ],
+        [
+          "黑麦面包",
+          "pain de seigle",
+          "m.",
+          "fr/11675.mp3",
+          "zh/11675.mp3",
+          "hei1 mai4 mian4 bao1",
+          "pɛ̃ d(ə) sɛgl"
+        ],
+        [
+          "面包心，软面包",
+          "pain de mie",
+          "m.",
+          "fr/11676.mp3",
+          "zh/11676.mp3",
+          "mian4 bao1 xin1 ， ruan3 mian4 bao1",
+          "pɛ̃ d(ə) mi"
+        ]
+      ],
+      "s": [
+        [
+          "Le vin avec mesure, mais pour le pain, le plus sera le mieux.",
+          "酒要适度，但面包多多益善。",
           "",
-          "",
-          "",
-          "zh/00981.mp3",
-          "nǎi lào",
+          "fr/11677.mp3",
+          "zh/11677.mp3",
+          "jiu3 yao4 shi4 du4 ， dan4 mian4 bao1 duo1 duo1 yi4 shan4 。",
           ""
         ],
         [
+          "Nous mangeons du riz et ils mangent du pain.",
+          "我们吃米饭，他们吃面包。",
           "",
-          "mesurer wt",
-          "",
-          "fr/01005.mp3",
-          "",
-          "",
-          "mazyre"
+          "fr/11678.mp3",
+          "zh/11678.mp3",
+          "wo3 men5 chi1 mi3 fan4 ， ta1 men5 chi1 mian4 bao1 。",
+          ""
         ],
+        [
+          "Il tartine son pain avec la confiture de pommes.",
+          "他在面包上抹上苹果酱。",
+          "",
+          "fr/11679.mp3",
+          "zh/11679.mp3",
+          "ta1 zai4 mian4 bao1 shang4 mo3 shang4 ping2 guo3 jiang4 。",
+          ""
+        ],
+        [
+          "Sa nièce aime manger des baguettes, je veux lui acheter un certain nombre.",
+          "她侄女喜欢吃长棍面包，我要给她买一些。",
+          "",
+          "fr/11680.mp3",
+          "zh/11680.mp3",
+          "ta1 zhi2 nv3 xi3 huan1 chi1 zhang3 gun4 mian4 bao1 ， wo3 yao4 gei3 ta1 mai3 yi4 xie1 。",
+          ""
+        ],
+        [
+          "Sur la tranche de pain aux céréales, étalez au couteau la valeur de 3 cuillères à soupe de crème deMaroilles.",
+          "在谷类面包片上用刀抹上3汤匙的马卢瓦耶干酪奶油。",
+          "",
+          "fr/11681.mp3",
+          "zh/11681.mp3",
+          "zai4 gu3 lei4 mian4 bao1 pian4 shang4 yong4 dao1 mo3 shang4 3 tang1 shi5 de5 ma3 lu2 wa3 ye2 gan4 lao4 nai3 you2 。",
+          ""
+        ]
+      ],
+      "e": [
         [
           "测量",
-          "",
-          "NM",
-          "",
-          "zh/01006.mp3",
-          "cè liáng",
-          ""
+          "mesurer",
+          "v.t.",
+          "fr/11682.mp3",
+          "zh/11682.mp3",
+          "ce4 liang4",
+          "m(ə)zyre"
         ],
         [
-          "运输",
+          "面包片",
           "tartine",
-          "n.m.",
-          "fr/01007.mp3",
-          "zh/01007.mp3",
-          "yùn shū",
-          "trafik"
+          "n.f.",
+          "fr/11683.mp3",
+          "zh/11683.mp3",
+          "mian4 bao1 pian4",
+          "tartin"
         ],
         [
           "果酱",
-          "confiture.",
-          "",
-          "fr/01008.mp3",
-          "zh/01008.mp3",
-          "guǒ jiàng",
-          "tartine"
+          "confiture",
+          "n.f.",
+          "fr/11684.mp3",
+          "zh/11684.mp3",
+          "guo3 jiang4",
+          "tartin"
         ],
         [
           "苹果",
           "pomme",
-          "",
-          "fr/01009.mp3",
-          "zh/01009.mp3",
-          "píng guǒ",
-          "pom"
+          "n.f.",
+          "fr/11685.mp3",
+          "zh/11685.mp3",
+          "ping2 guo3",
+          "pɔm"
         ],
         [
-          "佳女",
-          "niece.",
-          "",
-          "fr/01010.mp3",
-          "zh/01010.mp3",
-          "jiā nǚ",
-          "njes"
+          "侄女",
+          "nièce",
+          "n.f.",
+          "fr/11686.mp3",
+          "zh/11686.mp3",
+          "zhi2 nv3",
+          "njɛs"
         ],
         [
           "薄片",
           "tranche",
-          "nf.",
-          "fr/01011.mp3",
-          "zh/01011.mp3",
-          "báo piàn",
-          "trä"
+          "n.f.",
+          "fr/11687.mp3",
+          "zh/11687.mp3",
+          "bao2 pian4",
+          "trɑ̃:ʃ"
         ]
       ]
     },
     {
       "no": 8,
-      "name": "第8节",
+      "name": "不同蛋糕",
       "w": [
         [
           "蛋糕",
-          "gateau [gato",
-          "m",
-          "fr/01012.mp3",
-          "zh/01012.mp3",
-          "dàn gāo",
-          ""
-        ],
-        [
-          "块片乐",
-          "piece",
-          "",
-          "fr/01013.mp3",
-          "zh/01013.mp3",
-          "kuài piàn lè",
-          "pjes"
-        ],
-        [
-          "千克公斤",
-          "kilo gramme",
+          "gâteau",
           "m.",
-          "fr/01014.mp3",
-          "zh/01014.mp3",
-          "qiān kè gōng jīn",
-          "kilsgram"
+          "fr/11688.mp3",
+          "zh/11688.mp3",
+          "dan4 gao1",
+          "gato"
+        ],
+        [
+          "块，片",
+          "pièce",
+          "f.",
+          "fr/11689.mp3",
+          "zh/11689.mp3",
+          "kuai4 ， pian4",
+          "pjɛs"
+        ],
+        [
+          "千克，公斤",
+          "kilogramme",
+          "m.",
+          "fr/11690.mp3",
+          "zh/11690.mp3",
+          "qian1 ke4 ， gong1 jin1",
+          "kilɔgram"
         ],
         [
           "法寸",
           "pouce",
-          "m",
-          "fr/01015.mp3",
-          "zh/01015.mp3",
-          "fǎ cùn",
+          "m.",
+          "fr/11691.mp3",
+          "zh/11691.mp3",
+          "fa3 cun4",
           "pus"
         ],
         [
           "慕斯",
           "mousse",
-          "f",
-          "fr/01016.mp3",
-          "zh/01016.mp3",
-          "mù sī",
+          "f.",
+          "fr/11692.mp3",
+          "zh/11692.mp3",
+          "mu4 si1",
           "mus"
         ],
         [
-          "奶酪芝士",
-          ",fromage",
-          "m",
-          "fr/01017.mp3",
-          "zh/01017.mp3",
-          "nǎi lào zhī shì",
-          "froma:3"
+          "奶酪，芝士",
+          "fromage",
+          "m.",
+          "fr/11693.mp3",
+          "zh/11693.mp3",
+          "nai3 lao4 ， zhi1 shi4",
+          "frɔma:ʒ"
         ],
         [
           "提拉米苏",
           "tiramisu",
-          "",
-          "fr/01018.mp3",
-          "zh/01018.mp3",
-          "tí lā mǐ sū",
-          ""
+          "m.",
+          "fr/11694.mp3",
+          "zh/11694.mp3",
+          "ti2 la1 mi3 su1",
+          "tiramisu"
         ],
         [
           "撒",
-          "lacher",
-          "",
-          "fr/01020.mp3",
-          "zh/01020.mp3",
-          "sā",
-          "lae"
+          "lâcher",
+          "v.t.",
+          "fr/11695.mp3",
+          "zh/11695.mp3",
+          "sa1",
+          "lɑʃe"
         ],
         [
           "奶油",
-          "creme",
-          "",
-          "fr/01021.mp3",
-          "zh/01021.mp3",
-          "nǎi yóu",
-          "krem"
+          "crème",
+          "f.",
+          "fr/11696.mp3",
+          "zh/11696.mp3",
+          "nai3 you2",
+          "krɛm"
         ],
         [
           "搅",
           "agiter",
-          "vt.",
-          "fr/01022.mp3",
-          "zh/01022.mp3",
-          "jiǎo",
-          "azite"
+          "v.t.",
+          "fr/11697.mp3",
+          "zh/11697.mp3",
+          "jiao3",
+          "aʒite"
         ],
         [
           "油腻的",
-          "gras,se",
-          "",
-          "fr/01023.mp3",
-          "zh/01023.mp3",
-          "yóu nì de",
-          "gras"
+          "gras, se",
+          "形",
+          "fr/11698.mp3",
+          "zh/11698.mp3",
+          "you2 ni4 de5",
+          "gra, s"
         ],
         [
           "巧克力",
-          "I5 chocolat",
+          "chocolat",
           "m.",
-          "fr/01024.mp3",
-          "zh/01024.mp3",
-          "qiǎo kè lì",
-          "Sokola"
+          "fr/11699.mp3",
+          "zh/11699.mp3",
+          "qiao3 ke4 li4",
+          "ʃɔkɔla"
         ],
         [
           "杏仁",
           "amande",
-          "f",
-          "fr/01025.mp3",
-          "zh/01025.mp3",
-          "xìng rén",
-          "amá:d"
+          "f.",
+          "fr/11700.mp3",
+          "zh/11700.mp3",
+          "xing4 ren2",
+          "amɑ̃:d"
         ],
         [
           "糖浆",
           "sirop",
           "m.",
-          "fr/01026.mp3",
-          "zh/01026.mp3",
-          "táng jiāng",
+          "fr/11701.mp3",
+          "zh/11701.mp3",
+          "tang2 jiang1",
           "siro"
         ],
         [
           "水果罐头",
           "conserve de fruits",
-          "",
-          "fr/01027.mp3",
-          "zh/01027.mp3",
-          "shuǐ guǒ guàn tou",
-          "kserv da frui"
+          "f.",
+          "fr/11702.mp3",
+          "zh/11702.mp3",
+          "shui3 guo3 guan4 tou2",
+          "kɔ̃sɛrv d(ə) frɥi"
         ],
         [
           "涂",
           "enduire",
-          "",
-          "fr/01028.mp3",
-          "zh/01028.mp3",
-          "tú",
-          "áduir"
+          "v.t.",
+          "fr/11703.mp3",
+          "zh/11703.mp3",
+          "tu2",
+          "ɑ̃dɥi:r"
         ],
         [
           "挤",
           "pousser",
-          "",
-          "fr/01029.mp3",
-          "zh/01029.mp3",
-          "jǐ",
+          "v.t.",
+          "fr/11704.mp3",
+          "zh/11704.mp3",
+          "ji3",
           "puse"
         ],
         [
           "奶油面包",
-          "pain creme",
+          "pain crème",
           "m.",
-          "fr/01030.mp3",
-          "zh/01030.mp3",
-          "nǎi yóu miàn bāo",
-          "pe krem"
+          "fr/11705.mp3",
+          "zh/11705.mp3",
+          "nai3 you2 mian4 bao1",
+          "pɛ̃ krɛm"
         ],
         [
           "奶油蛋糕",
-          "gateau creme",
+          "gâteau crème",
           "m.",
-          "fr/01031.mp3",
-          "zh/01031.mp3",
-          "nǎi yóu dàn gāo",
-          "gato krem"
+          "fr/11706.mp3",
+          "zh/11706.mp3",
+          "nai3 you2 dan4 gao1",
+          "gato krɛm"
         ]
       ],
       "s": [
         [
-          "Vous sentez comme le boeuf et le fromage,a la dif ference du Pere Noel.",
+          "Vous sentez comme le bœuf et le fromage, à la différence du Père Noël.",
           "你闻起来像牛肉和芝士，不像圣诞老人。",
           "《圣诞精灵》",
-          "fr/01032.mp3",
-          "zh/01032.mp3",
-          "nǐ wén qǐ lái xiàng niú ròu hé zhī shì bù xiàng shèng dàn lǎo rén",
+          "fr/11707.mp3",
+          "zh/11707.mp3",
+          "ni3 wen2 qi3 lai2 xiang4 niu2 rou4 he2 zhi1 shi4 ， bu2 xiang4 sheng4 dan4 lao3 ren2 。",
           ""
         ],
         [
-          "En été,les gens essaient de ne pas manger trop de choses grasses.",
-          "在夏天人们都尽",
+          "En été, les gens essaient de ne pas manger trop de choses grasses.",
+          "在夏天，人们都尽量不吃过多油腻的东西。",
           "",
-          "fr/01033.mp3",
-          "zh/01033.mp3",
-          "zài xià tiān rén men dōu jǐn",
+          "fr/11708.mp3",
+          "zh/11708.mp3",
+          "zai4 xia4 tian1 ， ren2 men5 dou1 jin3 liang4 bu4 chi1 guo4 duo1 you2 ni4 de5 dong1 xi1 。",
           ""
         ],
         [
           "Manger du chocolat est une violation.",
           "吃巧克力是违反规定的。",
-          "一《玛丽和马克思》",
-          "fr/01034.mp3",
-          "zh/01034.mp3",
-          "chī qiǎo kè lì shì wéi fǎn guī dìng de",
+          "《玛丽和马克思》",
+          "fr/11709.mp3",
+          "zh/11709.mp3",
+          "chi1 qiao3 ke4 li4 shi4 wei2 fan3 gui1 ding4 de5 。",
           ""
         ],
         [
-          "Il a toujours caché les bis cuits aux amandes dans le haut de larmoire. T",
-          "他总把杏仁饼干藏在柜子最上面",
+          "Il a toujours caché les biscuits aux amandes dans le haut de l'armoire.",
+          "他总把杏仁饼干藏在柜子最上面。",
           "《功夫熊猫》",
-          "fr/01035.mp3",
-          "zh/01035.mp3",
-          "tā zǒng bǎ xìng rén bǐng gān cáng zài guì zi zuì shàng miàn",
+          "fr/11710.mp3",
+          "zh/11710.mp3",
+          "ta1 zong3 ba3 xing4 ren2 bing3 gan4 cang2 zai4 gui4 zi5 zui4 shang4 mian4 。",
           ""
         ]
       ],
       "e": [
         [
           "牛肉",
-          "boeuf n.m.+",
-          "",
-          "fr/01036.mp3",
-          "zh/01036.mp3",
-          "niú ròu",
-          "bf"
-        ],
-        [
-          "",
-          "différence",
-          "",
-          "fr/01037.mp3",
-          "",
-          "",
-          "diferäs"
+          "bœuf",
+          "n.m.",
+          "fr/11711.mp3",
+          "zh/11711.mp3",
+          "niu2 rou4",
+          "bœf"
         ],
         [
           "差别",
-          "",
-          "",
-          "",
-          "zh/01038.mp3",
-          "chā bié",
-          ""
-        ],
-        [
-          "",
-          "violation",
-          "n.f",
-          "fr/01039.mp3",
-          "",
-          "",
-          "vjola(asj5"
+          "différence",
+          "n.f.",
+          "fr/11712.mp3",
+          "zh/11712.mp3",
+          "cha4 bie2",
+          "diferɑ̃:s"
         ],
         [
           "违规",
-          "",
-          "",
-          "",
-          "zh/01040.mp3",
-          "wéi guī",
-          ""
+          "violation",
+          "n.f.",
+          "fr/11713.mp3",
+          "zh/11713.mp3",
+          "wei2 gui1",
+          "vjɔla(ɑ)sjɔ̃"
         ],
         [
           "隐藏",
-          "cacher v.",
-          "",
-          "fr/01041.mp3",
-          "zh/01041.mp3",
-          "yǐn cáng",
-          "kafe"
+          "cacher",
+          "v.t.",
+          "fr/11714.mp3",
+          "zh/11714.mp3",
+          "yin3 cang2",
+          "kaʃe"
         ],
         [
           "饼干",
           "biscuit",
-          "f.",
-          "fr/01042.mp3",
-          "zh/01042.mp3",
-          "bǐng gān",
-          "biskui"
+          "n.f.",
+          "fr/11715.mp3",
+          "zh/11715.mp3",
+          "bing3 gan4",
+          "biskɥi"
         ],
         [
-          "大",
+          "大衣柜",
           "armoire",
-          "f",
-          "fr/01043.mp3",
-          "zh/01043.mp3",
-          "dà",
-          "armwar"
-        ],
-        [
-          "衣柜",
-          "XE",
-          "",
-          "fr/01044.mp3",
-          "zh/01044.mp3",
-          "yī guì",
-          ""
+          "n.f.",
+          "fr/11716.mp3",
+          "zh/11716.mp3",
+          "da4 yi1 gui4",
+          "armwa:r"
         ]
       ]
     },
     {
       "no": 9,
-      "name": "第9节",
+      "name": "烹饪手法",
       "w": [
         [
           "烹调",
           "cuisine",
-          "",
-          "fr/01045.mp3",
-          "zh/01045.mp3",
-          "pēng tiáo",
-          "kuizin"
+          "f.",
+          "fr/11717.mp3",
+          "zh/11717.mp3",
+          "peng1 diao4",
+          "kɥizin"
         ],
         [
           "烹饪法",
           "recette",
           "f.",
-          "fr/01046.mp3",
-          "zh/01046.mp3",
-          "pēng rèn fǎ",
-          "ra)set"
+          "fr/11718.mp3",
+          "zh/11718.mp3",
+          "peng1 ren4 fa3",
+          "r(ə)sɛt"
         ],
         [
           "食谱",
           "livre de recettes",
           "m.",
-          "fr/01047.mp3",
-          "zh/01047.mp3",
-          "shí pǔ",
-          "li:vr da raset"
+          "fr/11719.mp3",
+          "zh/11719.mp3",
+          "shi2 pu3",
+          "li:vr d(ə) r(ə)sɛt"
         ],
         [
           "油煎",
-          "friturefrityr]",
-          "",
-          "fr/01048.mp3",
-          "zh/01048.mp3",
-          "yóu jiān",
-          ""
+          "friture",
+          "f.",
+          "fr/11720.mp3",
+          "zh/11720.mp3",
+          "you2 jian1",
+          "frity:r"
         ],
         [
           "炒",
-          "sauter i",
-          "",
-          "fr/01049.mp3",
-          "zh/01049.mp3",
-          "chǎo",
+          "sauter",
+          "v.",
+          "fr/11721.mp3",
+          "zh/11721.mp3",
+          "chao3",
           "sote"
         ],
         [
           "炸",
           "frire",
-          "",
-          "fr/01050.mp3",
-          "zh/01050.mp3",
-          "zhà",
+          "v.",
+          "fr/11722.mp3",
+          "zh/11722.mp3",
+          "zha4",
           "frir"
         ],
         [
           "烤",
           "cuire",
-          "",
-          "fr/01051.mp3",
-          "zh/01051.mp3",
-          "kǎo",
-          "kuir"
+          "v.",
+          "fr/11723.mp3",
+          "zh/11723.mp3",
+          "kao3",
+          "kɥi:r"
         ],
         [
           "热的",
-          "chaude",
+          "chaud, e",
           "f.",
-          "fr/01052.mp3",
-          "zh/01052.mp3",
-          "rè de",
-          "o,od"
+          "fr/11724.mp3",
+          "zh/11724.mp3",
+          "re4 de5",
+          "ʃo, o:d"
         ],
         [
           "烤",
-          "rotir",
-          "",
-          "fr/01053.mp3",
-          "zh/01053.mp3",
-          "kǎo",
-          "rotitr"
+          "rôtir",
+          "v.",
+          "fr/11725.mp3",
+          "zh/11725.mp3",
+          "kao3",
+          "ro(ɔ)ti:r"
         ],
         [
           "烤",
           "griller",
-          "",
-          "fr/01054.mp3",
-          "zh/01054.mp3",
-          "kǎo",
+          "v.",
+          "fr/11726.mp3",
+          "zh/11726.mp3",
+          "kao3",
           "grije"
         ],
         [
           "烧烤",
           "calciner",
-          "",
-          "fr/01055.mp3",
-          "zh/01055.mp3",
-          "shāo kǎo",
+          "v.",
+          "fr/11727.mp3",
+          "zh/11727.mp3",
+          "shao1 kao3",
           "kalsine"
         ],
         [
           "炖",
           "étuver",
-          "",
-          "fr/01056.mp3",
-          "zh/01056.mp3",
-          "dùn",
+          "v.",
+          "fr/11728.mp3",
+          "zh/11728.mp3",
+          "dun4",
           "etyve"
         ],
         [
           "腌",
           "saler",
-          "",
-          "fr/01057.mp3",
-          "zh/01057.mp3",
-          "yān",
+          "v.",
+          "fr/11729.mp3",
+          "zh/11729.mp3",
+          "yan1",
           "sale"
         ],
         [
           "切割",
           "chutage",
-          "",
-          "fr/01058.mp3",
-          "zh/01058.mp3",
-          "qiē gē",
-          "ytage"
+          "v.",
+          "fr/11730.mp3",
+          "zh/11730.mp3",
+          "qie4 ge1",
+          "ʃytaʒ"
         ],
         [
           "切碎",
-          "hacher v.",
-          "",
-          "fr/01059.mp3",
-          "zh/01059.mp3",
-          "qiè suì",
-          "afe"
+          "hacher",
+          "v.t.",
+          "fr/11731.mp3",
+          "zh/11731.mp3",
+          "qie4 sui4",
+          "aʃe"
         ],
         [
           "拌",
           "remuer",
-          "",
-          "fr/01060.mp3",
-          "zh/01060.mp3",
-          "bàn",
-          "ramye"
+          "v.",
+          "fr/11732.mp3",
+          "zh/11732.mp3",
+          "ban4",
+          "r(ə)mɥe"
         ],
         [
           "切片",
-          "couper t",
-          "",
-          "fr/01061.mp3",
-          "zh/01061.mp3",
-          "qiē piàn",
+          "couper",
+          "v.",
+          "fr/11733.mp3",
+          "zh/11733.mp3",
+          "qie4 pian4",
           "kupe"
         ],
         [
-          "剥剥皮励在烤箱烘烤炒",
-          "éplucher cuire en papillote sauter",
-          "",
-          "fr/01062.mp3",
-          "zh/01062.mp3",
-          "bāo bāo pí lì zài kǎo xiāng hōng kǎo chǎo",
-          "eplyfe"
+          "剥，剥皮",
+          "éplucher",
+          "v.",
+          "fr/11734.mp3",
+          "zh/11734.mp3",
+          "bo1 ， bo1 pi2",
+          "eplyʃe"
+        ],
+        [
+          "在烤箱烘烤",
+          "cuire en papillote",
+          "v.",
+          "fr/11735.mp3",
+          "zh/11735.mp3",
+          "zai4 kao3 xiang1 hong1 kao3",
+          "kɥi:r ɑ̃ papijɔt"
         ]
       ],
       "s": [
         [
-          "Puisque vous etes in téressé a sa carriere culi naire, que je vous soumets en charge. XA.",
-          "既然你对他的烹饪生涯这么感兴趣，那我就把它交给你负责",
-          "一《料理鼠王》",
-          "fr/01063.mp3",
-          "zh/01063.mp3",
-          "jì rán nǐ duì tā de pēng rèn shēng yá zhè me gǎn xìng qù nà wǒ jiù bǎ tā jiāo gěi nǐ fù zé",
+          "Puisque vous êtes intéressé à sa carrière culinaire, que je vous soumets en charge.",
+          "既然你对他的烹饪生涯这么感兴趣，那我就把它交给你负责。",
+          "《料理鼠王》",
+          "fr/11736.mp3",
+          "zh/11736.mp3",
+          "ji4 ran2 ni3 dui4 ta1 de5 peng1 ren4 sheng1 ya2 zhe4 me5 gan3 xing1 qu4 ， na4 wo3 jiu4 ba3 ta1 jiao1 gei3 ni3 fu4 ze2 。",
           ""
         ],
         [
-          "Pour cuire mon gateau,je le mets au four 20 minutes a feu modere.",
-          "为了烘烤蛋糕我把它放在烤箱中用小火烤20分钟。",
+          "Pour cuire mon gâteau, je le mets au four 20 minutes à feu modéré.",
+          "为了烘烤蛋糕，我把它放在烤箱中用小火烤20分钟。",
           "",
-          "fr/01064.mp3",
-          "zh/01064.mp3",
-          "wèi le hōng kǎo dàn gāo wǒ bǎ tā fàng zài kǎo xiāng zhōng yòng xiǎo huǒ kǎo fēn zhōng",
+          "fr/11737.mp3",
+          "zh/11737.mp3",
+          "wei4 le5 hong1 kao3 dan4 gao1 ， wo3 ba3 ta1 fang4 zai4 kao3 xiang1 zhong1 yong4 xiao3 huo3 kao3 2 0 fen1 zhong1 。",
           ""
         ],
         [
           "Pouvez-vous nous amener une carafe d'eau chaude?",
           "能给我送壶热水吗？",
           "",
-          "fr/01065.mp3",
-          "zh/01065.mp3",
-          "néng gěi wǒ sòng hú rè shuǐ ma",
+          "fr/11738.mp3",
+          "zh/11738.mp3",
+          "neng2 gei3 wo3 song4 hu2 re4 shui3 ma5 ？",
           ""
         ],
         [
           "Je coupe du papier avec un couteau.",
-          "我用小刀裁纸",
+          "我用小刀裁纸。",
           "",
-          "fr/01066.mp3",
-          "zh/01066.mp3",
-          "wǒ yòng xiǎo dāo cái zhǐ",
+          "fr/11739.mp3",
+          "zh/11739.mp3",
+          "wo3 yong4 xiao3 dao1 cai2 zhi3 。",
           ""
         ],
         [
-          "Pouvez-vous m'aider a éplucher encore une banane?",
+          "Pouvez-vous m'aider à éplucher encore une banane?",
           "你能帮我剥个香蕉吗？",
           "",
-          "fr/01067.mp3",
-          "zh/01067.mp3",
-          "nǐ néng bāng wǒ bō gè xiāng jiāo ma",
+          "fr/11740.mp3",
+          "zh/11740.mp3",
+          "ni3 neng2 bang1 wo3 bo1 ge4 xiang1 jiao1 ma5 ？",
           ""
         ],
         [
-          "Ce potage est un peu trop sal..",
-          "这个汤太咸了",
+          "Ce potage est un peu trop salé.",
+          "这个汤太咸了。",
           "",
-          "fr/01068.mp3",
-          "zh/01068.mp3",
-          "zhè ge tāng tài xián le",
+          "fr/11741.mp3",
+          "zh/11741.mp3",
+          "zhe4 ge4 tang1 tai4 xian2 le5 。",
           ""
         ]
       ],
@@ -3786,204 +2257,195 @@ window.BOOK_DATA[1] = {
           "既然",
           "puisque",
           "conj.",
-          "fr/01069.mp3",
-          "zh/01069.mp3",
-          "jì rán",
-          "pyisk"
+          "fr/11742.mp3",
+          "zh/11742.mp3",
+          "ji4 ran2",
+          "pɥisk"
         ],
         [
-          "",
-          "carriere",
-          "",
-          "fr/01070.mp3",
-          "",
-          "",
-          "kaarjer"
+          "职业，生涯",
+          "carrière",
+          "n.f.",
+          "fr/11743.mp3",
+          "zh/11743.mp3",
+          "zhi2 ye4 ， sheng1 ya2",
+          "ka(ə)rje:r"
         ],
         [
-          "职业生涯",
-          "",
-          "",
-          "",
-          "zh/01071.mp3",
-          "zhí yè shēng yá",
-          ""
-        ],
-        [
-          "烹",
-          "culinaire ad.",
-          "",
-          "fr/01072.mp3",
-          "zh/01072.mp3",
-          "pēng",
-          "kyliner"
-        ],
-        [
-          "饪的",
-          "",
-          "",
-          "",
-          "zh/01073.mp3",
-          "rèn de",
-          ""
+          "烹饪的",
+          "culinaire",
+          "adj.",
+          "fr/11744.mp3",
+          "zh/11744.mp3",
+          "peng1 ren4 de5",
+          "kyline:r"
         ],
         [
           "负责",
-          "chargear3]",
-          "",
-          "fr/01074.mp3",
-          "zh/01074.mp3",
-          "fù zé",
-          ""
+          "charge",
+          "n.f.",
+          "fr/11745.mp3",
+          "zh/11745.mp3",
+          "fu4 ze2",
+          "ʃarʒ"
         ],
         [
           "长颈瓶",
-          "carafe nf.K",
-          "",
-          "fr/01075.mp3",
-          "zh/01075.mp3",
-          "zhǎng jǐng píng",
+          "carafe",
+          "n.f.",
+          "fr/11746.mp3",
+          "zh/11746.mp3",
+          "zhang3 jing3 ping2",
           "karaf"
         ]
       ]
     },
     {
       "no": 10,
-      "name": "第10节",
+      "name": "食用油",
       "w": [
         [
           "油",
           "graisse",
-          "",
-          "fr/01076.mp3",
-          "zh/01076.mp3",
-          "yóu",
-          "gres"
+          "f.",
+          "fr/11747.mp3",
+          "zh/11747.mp3",
+          "you2",
+          "grɛs"
         ],
         [
-          "食用油越狱",
-          "huile de cui sine <AMY",
-          "",
-          "fr/01077.mp3",
-          "zh/01077.mp3",
-          "shí yòng yóu yuè yù",
-          "uil da kyzin"
+          "食用油",
+          "huile de cuisine",
+          "f.",
+          "fr/11748.mp3",
+          "zh/11748.mp3",
+          "shi2 yong4 you2",
+          "ɥil d(ə) kyzin"
         ],
         [
           "精炼",
           "épurer",
-          "",
-          "fr/01078.mp3",
-          "zh/01078.mp3",
-          "jīng liàn",
+          "f.",
+          "fr/11749.mp3",
+          "zh/11749.mp3",
+          "jing1 lian4",
           "epyre"
         ],
         [
           "大豆油",
           "huile de soja",
-          "",
-          "fr/01079.mp3",
-          "zh/01079.mp3",
-          "dà dòu yóu",
-          "yil da soja"
+          "f.",
+          "fr/11750.mp3",
+          "zh/11750.mp3",
+          "da4 dou4 you2",
+          "ɥil d(ə) sɔja"
         ],
         [
           "菜籽油",
-          "huilede colza /",
-          "",
-          "fr/01080.mp3",
-          "zh/01080.mp3",
-          "cài zǐ yóu",
-          "yil da kolza"
+          "huile de colza",
+          "f.",
+          "fr/11751.mp3",
+          "zh/11751.mp3",
+          "cai4 zi3 you2",
+          "ɥil d(ə) kɔlza"
         ],
         [
           "色拉油",
           "huile de salade",
-          "",
-          "fr/01081.mp3",
-          "zh/01081.mp3",
-          "sè lā yóu",
-          "uil da salad"
+          "f.",
+          "fr/11752.mp3",
+          "zh/11752.mp3",
+          "se4 la1 you2",
+          "ɥil d(ə) salad"
         ],
         [
           "玉米油",
-          "huile de mais /",
-          "",
-          "fr/01082.mp3",
-          "zh/01082.mp3",
-          "yù mǐ yóu",
-          "uil d(a) mais"
+          "huile de maïs",
+          "f.",
+          "fr/11753.mp3",
+          "zh/11753.mp3",
+          "yu4 mi3 you2",
+          "ɥil d(ə) mais"
         ],
         [
           "花生",
-          "arachide ].",
-          "",
-          "fr/01083.mp3",
-          "zh/01083.mp3",
-          "huā shēng",
-          "arafid"
+          "arachide",
+          "f.",
+          "fr/11754.mp3",
+          "zh/11754.mp3",
+          "hua1 sheng1",
+          "araʃid"
         ],
         [
-          "花生油棕榈油",
-          "huile d'arachide huile de palme /",
-          "",
-          "fr/01084.mp3",
-          "zh/01084.mp3",
-          "huā shēng yóu zōng lǘ yóu",
-          "uil d(a arafid"
+          "花生油",
+          "huile d'arachide",
+          "f.",
+          "fr/11755.mp3",
+          "zh/11755.mp3",
+          "hua1 sheng1 you2",
+          "ɥil d(ə) araʃid"
+        ],
+        [
+          "棕榈油",
+          "huile de palme",
+          "f.",
+          "fr/11756.mp3",
+          "zh/11756.mp3",
+          "zong1 lv2 you2",
+          "ɥil d palm"
         ],
         [
           "橄榄油",
-          "huile dolive",
+          "huile d'olive",
           "f.",
-          "fr/01085.mp3",
-          "zh/01085.mp3",
-          "gǎn lǎn yóu",
-          "uil dolixv"
+          "fr/11757.mp3",
+          "zh/11757.mp3",
+          "gan3 lan3 you2",
+          "ɥil dɔli:v"
         ],
         [
           "香油",
-          "huile de sésame /",
-          "",
-          "fr/01086.mp3",
-          "zh/01086.mp3",
-          "xiāng yóu",
-          "uil d(a) sezam"
+          "huile de sésame",
+          "f.",
+          "fr/11758.mp3",
+          "zh/11758.mp3",
+          "xiang1 you2",
+          "ɥil d(ə) sezam"
         ],
         [
           "核桃油",
           "huile de noix",
-          "",
-          "fr/01087.mp3",
-          "zh/01087.mp3",
-          "hé táo yóu",
-          "yil da) nwa(a"
+          "f.",
+          "fr/11759.mp3",
+          "zh/11759.mp3",
+          "he2 tao2 you2",
+          "ɥil d(ə) nwa(ɑ̃)"
         ],
         [
           "调和油",
-          "huile mixte/.",
-          "",
-          "fr/01088.mp3",
-          "zh/01088.mp3",
-          "tiáo hé yóu",
-          "il mikst"
+          "huile mixte",
+          "f.",
+          "fr/11760.mp3",
+          "zh/11760.mp3",
+          "diao4 he2 you2",
+          "ɥil mikst"
         ],
         [
           "地沟油",
           "huile de fosse",
-          "",
-          "fr/01089.mp3",
-          "zh/01089.mp3",
-          "dì gōu yóu",
-          "uil dafo:s"
+          "f.",
+          "fr/11761.mp3",
+          "zh/11761.mp3",
+          "di4 gou1 you2",
+          "ɥil d(ə) fɔ:s"
         ],
         [
           "芳香的",
-          "parfume",
-          "",
-          "fr/01090.mp3",
-          "zh/01090.mp3",
-          "fāng xiāng de",
+          "parfumé",
+          "形",
+          "fr/11762.mp3",
+          "zh/11762.mp3",
+          "fang1 xiang1 de5",
           "parfyme"
         ]
       ],
@@ -3991,3577 +2453,3236 @@ window.BOOK_DATA[1] = {
         [
           "Vous prenez ces cambouis et les verse dans le seau.",
           "你把这些脏油拿去倒到桶里。",
-          "",
-          "fr/01091.mp3",
-          "zh/01091.mp3",
-          "nǐ bǎ zhè xiē zàng yóu ná qù dào dào tǒng lǐ",
+          "《越狱》",
+          "fr/11763.mp3",
+          "zh/11763.mp3",
+          "ni3 ba3 zhe4 xie1 zang4 you2 na2 qu4 dao4 dao4 tong3 li3 。",
           ""
         ],
         [
-          "En effet I'huile,quelle que soit son origine-noix, colza, olive,arachide...-est l'ali- ment le plus concentre en ca- lories de notre alimentation ET",
-          "事实上不管从哪里来核桃、菜籽、油橄榄、花生．．的油，都是我们食物中热量最集中的食品。",
+          "En effet l'huile, quelle que soit son origine – noix, colza, olive, arachide... -est l'aliment le plus concentréen calories de notre alimentation.",
+          "事实上，不管从哪里来——核桃、菜籽、油橄榄、花生……的油，都是我们食物中热量最集中的食品。",
           "",
-          "fr/01092.mp3",
-          "zh/01092.mp3",
-          "shì shí shàng bù guǎn cóng nǎ lǐ lái hé táo cài zǐ yóu gǎn lǎn huā shēng de yóu dōu shì wǒ men shí wù zhōng rè liàng zuì jí zhōng de shí pǐn",
+          "fr/11764.mp3",
+          "zh/11764.mp3",
+          "shi4 shi2 shang4 ， bu4 guan3 cong2 na3 li3 lai2 — — he2 tao2 、 cai4 zi3 、 you2 gan3 lan3 、 hua1 sheng1 … … de5 you2 ， dou1 shi4 wo3 men5 shi2 wu4 zhong1 re4 liang4 zui4 ji2 zhong1 de5 shi2 pin3 。",
           ""
         ],
         [
-          "Le tangyuan sucré et parfume symbolise la réunion et le bonheur de la famille. A",
-          "香甜软糯的汤圆象征着合家团圆幸福安康。",
+          "Le tangyuan sucré et parfumé symbolise la réunion et le bonheur de la famille.",
+          "香甜软糯的汤圆象征着合家团圆、幸福安康。",
           "",
-          "fr/01093.mp3",
-          "zh/01093.mp3",
-          "xiāng tián ruǎn nuò de tāng yuán xiàng zhēng zhe hé jiā tuán yuán xìng fú ān kāng",
+          "fr/11765.mp3",
+          "zh/11765.mp3",
+          "xiang1 tian2 ruan3 nuo4 de5 tang1 yuan2 xiang4 zheng1 zhe5 he2 jia1 tuan2 yuan2 、 xing4 fu2 an1 kang1 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "cambouis .",
-          "m.",
-          "fr/01094.mp3",
-          "",
-          "",
-          "kábwi"
-        ],
-        [
           "污油",
-          "",
-          "",
-          "",
-          "zh/01095.mp3",
-          "wū yóu",
-          ""
+          "cambouis",
+          "n.m.",
+          "fr/11766.mp3",
+          "zh/11766.mp3",
+          "wu1 you2",
+          "kɑ̃bwi"
         ],
         [
-          "起源",
-          "origineDrizin]n.",
-          "",
-          "fr/01096.mp3",
-          "zh/01096.mp3",
-          "qǐ yuán",
-          ""
-        ],
-        [
-          "开始",
-          "",
-          "",
-          "",
-          "zh/01097.mp3",
-          "kāi shǐ",
-          ""
-        ],
-        [
-          "",
-          "concentré,e",
-          "",
-          "fr/01098.mp3",
-          "",
-          "",
-          "ksätre"
+          "起源，开始",
+          "origine",
+          "n.f.",
+          "fr/11767.mp3",
+          "zh/11767.mp3",
+          "qi3 yuan2 ， kai1 shi3",
+          "ɔriʒin"
         ],
         [
           "集中的",
-          "",
+          "concentré, e",
           "adj.",
-          "",
-          "zh/01099.mp3",
-          "jí zhōng de",
-          ""
+          "fr/11768.mp3",
+          "zh/11768.mp3",
+          "ji2 zhong1 de5",
+          "kɔ̃sɑ̃tre"
         ],
         [
-          "卡里路",
-          "calorie.",
-          "",
-          "fr/01100.mp3",
-          "zh/01100.mp3",
-          "kǎ lǐ lù",
-          "kalori"
-        ],
-        [
-          "",
-          "alimentation",
-          "",
-          "fr/01101.mp3",
-          "",
-          "",
-          ""
+          "卡路里",
+          "calorie",
+          "n.f.",
+          "fr/11769.mp3",
+          "zh/11769.mp3",
+          "ka3 lu4 li3",
+          "kalɔri"
         ],
         [
           "营养物",
-          "",
-          "nf",
-          "",
-          "zh/01102.mp3",
-          "yíng yǎng wù",
-          "alimäta(asj5"
+          "alimentation",
+          "n.f.",
+          "fr/11770.mp3",
+          "zh/11770.mp3",
+          "ying2 yang3 wu4",
+          "alimɑ̃ta(ɑ̃) sjɔ̃"
         ],
         [
           "甜的",
           "sucré",
           "adj.",
-          "fr/01103.mp3",
-          "zh/01103.mp3",
-          "tián de",
+          "fr/11771.mp3",
+          "zh/11771.mp3",
+          "tian2 de5",
           "sykre"
         ]
       ]
     },
     {
       "no": 11,
-      "name": "第11节",
+      "name": "烹饪调料",
       "w": [
         [
           "调料",
           "assaisonnement",
           "m.",
-          "fr/01104.mp3",
-          "zh/01104.mp3",
-          "tiáo liào",
-          "asezonmá"
+          "fr/11772.mp3",
+          "zh/11772.mp3",
+          "diao4 liao4",
+          "asɛzɔnmɑ̃"
         ],
         [
           "调味品",
           "condiment",
           "m.",
-          "fr/01105.mp3",
-          "zh/01105.mp3",
-          "tiáo wèi pǐn",
-          "kšdimá"
+          "fr/11773.mp3",
+          "zh/11773.mp3",
+          "diao4 wei4 pin3",
+          "kɔ̃dimɑ̃"
         ],
         [
           "调味汁",
           "sauce",
-          "",
-          "fr/01106.mp3",
-          "zh/01106.mp3",
-          "tiáo wèi zhī",
-          "sos"
+          "f.",
+          "fr/11774.mp3",
+          "zh/11774.mp3",
+          "diao4 wei4 zhi1",
+          "sɔ:s"
         ],
         [
           "盐",
           "sel",
           "m.",
-          "fr/01107.mp3",
-          "zh/01107.mp3",
-          "yán",
-          "sel"
+          "fr/11775.mp3",
+          "zh/11775.mp3",
+          "yan2",
+          "sɛl"
         ],
         [
           "辣椒粉",
           "piment",
           "m.",
-          "fr/01108.mp3",
-          "zh/01108.mp3",
-          "là jiāo fěn",
-          "pimá"
+          "fr/11776.mp3",
+          "zh/11776.mp3",
+          "la4 jiao1 fen3",
+          "pimɑ̃"
         ],
         [
           "味精",
           "glutamate",
           "m.",
-          "fr/01109.mp3",
-          "zh/01109.mp3",
-          "wèi jīng",
+          "fr/11777.mp3",
+          "zh/11777.mp3",
+          "wei4 jing1",
           "glytamat"
         ],
         [
           "糖",
           "sucre",
           "m.",
-          "fr/01110.mp3",
-          "zh/01110.mp3",
-          "táng",
+          "fr/11778.mp3",
+          "zh/11778.mp3",
+          "tang2",
           "sykr"
         ],
         [
           "细香葱",
-          "ciboulette /.",
-          "",
-          "fr/01111.mp3",
-          "zh/01111.mp3",
-          "xì xiāng cōng",
-          "sibulet"
+          "ciboulette",
+          "f.",
+          "fr/11779.mp3",
+          "zh/11779.mp3",
+          "xi4 xiang1 cong1",
+          "sibulɛt"
         ],
         [
           "姜",
           "gingembre",
-          "",
-          "fr/01112.mp3",
-          "zh/01112.mp3",
-          "jiāng",
-          "323á:br"
+          "—",
+          "fr/11780.mp3",
+          "zh/11780.mp3",
+          "jiang1",
+          "ʒɛ̃ʒ ɑ̃:br"
         ],
         [
           "蒜",
           "ail",
-          "m",
-          "fr/01113.mp3",
-          "zh/01113.mp3",
-          "suàn",
+          "m.",
+          "fr/11781.mp3",
+          "zh/11781.mp3",
+          "suan4",
           "aj"
         ],
         [
           "胡椒粉",
           "poivre",
           "m.",
-          "fr/01114.mp3",
-          "zh/01114.mp3",
-          "hú jiāo fěn",
-          "pwaivr"
+          "fr/11782.mp3",
+          "zh/11782.mp3",
+          "hu2 jiao1 fen3",
+          "pwa:vr"
         ],
         [
           "醋",
           "vinaigre",
           "m.",
-          "fr/01115.mp3",
-          "zh/01115.mp3",
-          "cù",
+          "fr/11783.mp3",
+          "zh/11783.mp3",
+          "cu4",
           "vinegr"
         ],
         [
           "酱油",
           "sauce de soja",
-          "f",
-          "fr/01116.mp3",
-          "zh/01116.mp3",
-          "jiàng yóu",
-          "so:s dasoja"
+          "f.",
+          "fr/11784.mp3",
+          "zh/11784.mp3",
+          "jiang4 you2",
+          "sɔ:s d(ə) sɔja"
         ],
         [
           "料酒",
-          "vin de cusine",
+          "vin de cuisine",
           "m.",
-          "fr/01117.mp3",
-          "zh/01117.mp3",
-          "liào jiǔ",
-          "vé d(a) kyzin"
+          "fr/11785.mp3",
+          "zh/11785.mp3",
+          "liao4 jiu3",
+          "vɛ̃ d(ə) kyzin"
         ],
         [
           "鱼子酱",
           "caviar",
           "m.",
-          "fr/01118.mp3",
-          "zh/01118.mp3",
-          "yú zi jiàng",
-          "kavjair"
+          "fr/11786.mp3",
+          "zh/11786.mp3",
+          "yu2 zi5 jiang4",
+          "kavja:r"
         ],
         [
           "咖喱",
           "curry",
-          "m",
-          "fr/01119.mp3",
-          "zh/01119.mp3",
-          "gā lí",
+          "m.",
+          "fr/11787.mp3",
+          "zh/11787.mp3",
+          "ka1 li2",
           "kyri"
         ],
         [
           "芥末",
-          "moutarde /",
-          "",
-          "fr/01120.mp3",
-          "zh/01120.mp3",
-          "jiè mò",
+          "moutarde",
+          "f.",
+          "fr/11788.mp3",
+          "zh/11788.mp3",
+          "jie4 mo4",
           "mutard"
         ],
         [
           "月桂",
           "laurier",
-          "m",
-          "fr/01121.mp3",
-          "zh/01121.mp3",
-          "yuè guì",
-          "lorje"
+          "m.",
+          "fr/11789.mp3",
+          "zh/11789.mp3",
+          "yue4 gui4",
+          "lɔrje"
         ],
         [
           "百里香",
-          "thym",
-          "m",
-          "fr/01122.mp3",
-          "zh/01122.mp3",
-          "bǎi lǐ xiāng",
-          "t"
+          "thym ̃",
+          "m.",
+          "fr/11790.mp3",
+          "zh/11790.mp3",
+          "bai3 li3 xiang1",
+          "tɛ"
         ],
         [
           "番茄酱",
           "ketchup",
           "m.",
-          "fr/01123.mp3",
-          "zh/01123.mp3",
-          "fān qié jiàng",
-          "ket cp"
+          "fr/11791.mp3",
+          "zh/11791.mp3",
+          "fan1 jia1 jiang4",
+          "kɛtʃœp"
         ]
       ],
       "s": [
         [
-          "Avant la cuisson,nous de- vrions préparer des assaison- nement.Z",
-          "做饭之前我们应该准备好佐料。",
+          "Avant la cuisson, nous devrions préparer des assaisonnement.",
+          "做饭之前，我们应该准备好佐料。",
           "",
-          "fr/01124.mp3",
-          "zh/01124.mp3",
-          "zuò fàn zhī qián wǒ men yīng gāi zhǔn bèi hǎo zuǒ liào",
+          "fr/11792.mp3",
+          "zh/11792.mp3",
+          "zuo4 fan4 zhi1 qian2 ， wo3 men5 ying1 gai1 zhun3 bei4 hao3 zuo3 liao4 。",
           ""
         ],
         [
           "Quand on fait la cuisine, on doit préparer de la sauce.",
           "当我们做菜的时候，要准备好调味品。",
           "",
-          "fr/01125.mp3",
-          "zh/01125.mp3",
-          "dāng wǒ men zuò cài de shí hòu yào zhǔn bèi hǎo tiáo wèi pǐn",
+          "fr/11793.mp3",
+          "zh/11793.mp3",
+          "dang1 wo3 men5 zuo4 cai4 de5 shi2 hou4 ， yao4 zhun3 bei4 hao3 diao4 wei4 pin3 。",
           ""
         ],
         [
-          "Avez vous peur que je ne me transforme en pilier de sel-",
-          "你害怕我会变成一个盐",
-          "柱子吗？一《美国往事》",
-          "fr/01126.mp3",
-          "zh/01126.mp3",
-          "nǐ hài pà wǒ huì biàn chéng yí gè yán",
+          "Avez vous peur que je ne me transforme en pilier de sel?",
+          "你害怕我会变成一个盐柱子吗？",
+          "《美国往事》",
+          "fr/11794.mp3",
+          "zh/11794.mp3",
+          "ni3 hai4 pa4 wo3 hui4 bian4 cheng2 yi2 ge4 yan2 zhu4 zi5 ma5 ？",
           ""
         ],
         [
-          "Pelez les gousses dail et hachezlesfinement.",
+          "Pelez les gousses d'ail et hachez les finement.",
           "蒜瓣去皮，切碎。",
           "",
-          "fr/01127.mp3",
-          "zh/01127.mp3",
-          "suàn bàn qù pí qiè suì",
+          "fr/11795.mp3",
+          "zh/11795.mp3",
+          "suan4 ban4 qu4 pi2 ， qie4 sui4 。",
           ""
         ],
         [
-          "En Chine, le vinaigre de la province de shanxi est tres celbre.",
-          "在中国山西的陈醋很有名。",
+          "En Chine, le vinaigre de la province de shanxi est très célèbre.",
+          "在中国，山西的陈醋很有名。",
           "",
-          "fr/01128.mp3",
-          "zh/01128.mp3",
-          "zài zhōng guó shān xī de chén cù hěn yǒu míng",
+          "fr/11796.mp3",
+          "zh/11796.mp3",
+          "zai4 zhong1 guo2 ， shan1 xi1 de5 chen2 cu4 hen3 you3 ming2 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "改变，改造",
           "transformer",
-          "",
-          "fr/01129.mp3",
-          "",
-          "",
-          "träsforme"
-        ],
-        [
-          "改变改造",
-          "",
-          "",
-          "",
-          "zh/01130.mp3",
-          "gǎi biàn gǎi zào",
-          ""
+          "v.t.",
+          "fr/11797.mp3",
+          "zh/11797.mp3",
+          "gai3 bian4 ， gai3 zao4",
+          "trɑ̃sforme"
         ],
         [
           "柱子",
           "pilier",
           "n.m.",
-          "fr/01131.mp3",
-          "zh/01131.mp3",
-          "zhù zi",
+          "fr/11798.mp3",
+          "zh/11798.mp3",
+          "zhu4 zi5",
           "pilje"
         ],
         [
-          "",
-          "provincen",
-          "",
-          "fr/01132.mp3",
-          "",
-          "",
-          "provs"
-        ],
-        [
           "省份",
-          "",
-          "",
-          "",
-          "zh/01133.mp3",
-          "shěng fèn",
-          ""
+          "province",
+          "n.f.",
+          "fr/11799.mp3",
+          "zh/11799.mp3",
+          "sheng3 fen4",
+          "prɔ̃vɛ̃:s"
         ],
         [
           "菜肴",
-          "cuisine n.",
-          "",
-          "fr/01134.mp3",
-          "zh/01134.mp3",
-          "cài yáo",
+          "cuisine",
+          "n.f.",
+          "fr/11800.mp3",
+          "zh/11800.mp3",
+          "cai4 yao2",
           "kuizin"
-        ],
-        [
-          "调料",
-          "assaisonnement",
-          "",
-          "fr/01135.mp3",
-          "zh/01135.mp3",
-          "tiáo liào",
-          ""
         ]
       ]
     },
     {
       "no": 12,
-      "name": "第12节",
+      "name": "常见香料",
       "w": [
         [
           "豆蔻",
           "amome",
           "m.",
-          "fr/01136.mp3",
-          "zh/01136.mp3",
-          "dòu kòu",
-          "amim"
+          "fr/11801.mp3",
+          "zh/11801.mp3",
+          "dou4 kou4",
+          "amɔ̃m"
         ],
         [
-          "丁香薄荷",
-          "Tgiroflier menthe",
-          "",
-          "fr/01137.mp3",
-          "zh/01137.mp3",
-          "dīng xiāng bò hé",
-          "3iroflie"
+          "丁香",
+          "giroflier",
+          "m.",
+          "fr/11802.mp3",
+          "zh/11802.mp3",
+          "ding1 xiang1",
+          "ʒirɔflie"
+        ],
+        [
+          "薄荷",
+          "menthe",
+          "f.",
+          "fr/11803.mp3",
+          "zh/11803.mp3",
+          "bao2 he2",
+          "mɑ̃:t"
         ],
         [
           "香菜",
-          "coriandre ,.",
-          "",
-          "fr/01138.mp3",
-          "zh/01138.mp3",
-          "xiāng cài",
-          "korjádr"
+          "coriandre",
+          "f.",
+          "fr/11804.mp3",
+          "zh/11804.mp3",
+          "xiang1 cai4",
+          "kɔrjɑ̃dr"
         ],
         [
           "肉桂",
-          "cinname",
+          "cinnamé",
           "m.",
-          "fr/01139.mp3",
-          "zh/01139.mp3",
-          "ròu guì",
+          "fr/11805.mp3",
+          "zh/11805.mp3",
+          "rou4 gui4",
           "sinam"
         ],
         [
           "韭葱",
           "poireau",
           "m.",
-          "fr/01140.mp3",
-          "zh/01140.mp3",
-          "jiǔ cōng",
+          "fr/11806.mp3",
+          "zh/11806.mp3",
+          "jiu3 cong1",
           "pwaro"
         ],
         [
           "茴香",
           "fenouil",
-          "m",
-          "fr/01141.mp3",
-          "zh/01141.mp3",
-          "huí xiāng",
-          "fanuj"
+          "m.",
+          "fr/11807.mp3",
+          "zh/11807.mp3",
+          "hui2 xiang1",
+          "f(ə)nuj"
         ],
         [
           "孜然",
-          "cumin",
-          "m",
-          "fr/01142.mp3",
-          "zh/01142.mp3",
-          "zī rán",
-          "kym"
+          "cumin ̃",
+          "m.",
+          "fr/11808.mp3",
+          "zh/11808.mp3",
+          "zi1 ran2",
+          "kymɛ"
         ],
         [
-          "甘草阁肉豆蔻",
-          "réglisse muscade ].",
-          "",
-          "fr/01143.mp3",
-          "zh/01143.mp3",
-          "gān cǎo gé ròu dòu kòu",
+          "甘草",
+          "réglisse",
+          "f.",
+          "fr/11809.mp3",
+          "zh/11809.mp3",
+          "gan1 cao3",
           "reglis"
         ],
         [
+          "肉豆蔻",
+          "muscade",
+          "f.",
+          "fr/11810.mp3",
+          "zh/11810.mp3",
+          "rou4 dou4 kou4",
+          "myskad"
+        ],
+        [
           "迷迭香",
-          "romarin",
+          "romarin ̃",
           "m.",
-          "fr/01144.mp3",
-          "zh/01144.mp3",
-          "mí dié xiāng",
-          "romaré"
+          "fr/11811.mp3",
+          "zh/11811.mp3",
+          "mi2 die2 xiang1",
+          "rɔmarɛ"
         ],
         [
           "姜黄",
           "curcuma",
           "m.",
-          "fr/01145.mp3",
-          "zh/01145.mp3",
-          "jiāng huáng",
+          "fr/11812.mp3",
+          "zh/11812.mp3",
+          "jiang1 huang2",
           "kyrkyma"
         ],
         [
-          "槟榔香草",
-          "noix de bétel vanille",
-          "",
-          "fr/01146.mp3",
-          "zh/01146.mp3",
-          "bīng láng xiāng cǎo",
-          "nwa da betel"
+          "槟榔",
+          "noix de bétel",
+          "m.",
+          "fr/11813.mp3",
+          "zh/11813.mp3",
+          "bin1 lang2",
+          "nwa da betɛl"
+        ],
+        [
+          "香草",
+          "vanille",
+          "f.",
+          "fr/11814.mp3",
+          "zh/11814.mp3",
+          "xiang1 cao3",
+          "vanij"
         ],
         [
           "黑椒",
-          "poivre noir inw",
-          "",
-          "fr/01147.mp3",
-          "zh/01147.mp3",
-          "hēi jiāo",
+          "poivre noir",
+          "inv.",
+          "fr/11815.mp3",
+          "zh/11815.mp3",
+          "hei1 jiao1",
           "pwa:vr nwa"
         ],
         [
           "葱",
           "ciboule",
-          "",
-          "fr/01148.mp3",
-          "zh/01148.mp3",
-          "cōng",
+          "f.",
+          "fr/11816.mp3",
+          "zh/11816.mp3",
+          "cong1",
           "sibul"
         ],
         [
           "藏红花",
           "safran",
           "m.",
-          "fr/01149.mp3",
-          "zh/01149.mp3",
-          "zàng hóng huā",
-          "safrá"
+          "fr/11817.mp3",
+          "zh/11817.mp3",
+          "cang2 hong2 hua1",
+          "safrɑ̃"
         ],
         [
           "罗勒",
           "basilic",
-          "m",
-          "fr/01150.mp3",
-          "zh/01150.mp3",
-          "luó lè",
+          "m.",
+          "fr/11818.mp3",
+          "zh/11818.mp3",
+          "luo2 lei1",
           "bazilik"
         ],
         [
           "生姜",
           "gingembre",
-          "m",
-          "fr/01151.mp3",
-          "zh/01151.mp3",
-          "shēng jiāng",
-          "383ábr"
+          "m.",
+          "fr/11819.mp3",
+          "zh/11819.mp3",
+          "sheng1 jiang1",
+          "ʒɛ̃ʒ ɑ̃br"
         ]
       ],
       "s": [
         [
-          "Faites attention a la quan- tite de coriandre,faire la sauceépaisse.",
-          "讲究香菜多少让肉汁浓厚。",
+          "Faites attention à la quantité de coriandre, faire la sauce épaisse.",
+          "讲究香菜多少，让肉汁浓厚。",
           "《理发师陶德》",
-          "fr/01152.mp3",
-          "zh/01152.mp3",
-          "jiǎng jiū xiāng cài duō shǎo ràng ròu zhī nóng hòu",
+          "fr/11820.mp3",
+          "zh/11820.mp3",
+          "jiang3 jiu1 xiang1 cai4 duo1 shao3 ， rang4 rou4 zhi1 nong2 hou4 。",
           ""
         ],
         [
-          "A la fraise,au citron,a la réglisse, il y en a presque tous les gouts!",
-          "草莓味柠檬味甘草味，糖果几乎有各种味道！",
+          "À la fraise, au citron, à la réglisse, il y en a presque tous les goûts!",
+          "草莓味、柠檬味、甘草味，糖果几乎有各种味道！",
           "",
-          "fr/01153.mp3",
-          "zh/01153.mp3",
-          "cǎo méi wèi níng méng wèi gān cǎo wèi táng guǒ jī hū yǒu gè zhǒng wèi dào",
+          "fr/11821.mp3",
+          "zh/11821.mp3",
+          "cao3 mei2 wei4 、 ning2 meng2 wei4 、 gan1 cao3 wei4 ， tang2 guo3 ji3 hu1 you3 ge4 zhong3 wei4 dao4 ！",
           ""
         ],
         [
-          "Nous étions entourés de la creme giacee a la vanille. T.",
-          "我们被香草冰激凌包围了",
-          "一《雪狗兄弟》",
-          "fr/01154.mp3",
-          "zh/01154.mp3",
-          "wǒ men bèi xiāng cǎo bīng jī líng bāo wéi le",
+          "Nous étions entourés de la crème glacée à la vanille.",
+          "我们被香草冰激凌包围了。",
+          "《雪狗兄弟》",
+          "fr/11822.mp3",
+          "zh/11822.mp3",
+          "wo3 men5 bei4 xiang1 cao3 bing1 ji1 ling2 bao1 wei2 le5 。",
           ""
         ],
         [
-          "On ne peut pas manger du persil cette saison. T",
-          "这个季节的香菜不能吃",
+          "On ne peut pas manger du persil cette saison.",
+          "这个季节的香菜不能吃。",
           "",
-          "fr/01155.mp3",
-          "zh/01155.mp3",
-          "zhè ge jì jié de xiāng cài bù néng chī",
+          "fr/11823.mp3",
+          "zh/11823.mp3",
+          "zhe4 ge4 ji4 jie2 de5 xiang1 cai4 bu4 neng2 chi1 。",
           ""
         ]
       ],
       "e": [
         [
-          "注",
+          "注意，关心",
           "attention",
           "n.f.",
-          "fr/01156.mp3",
-          "zh/01156.mp3",
-          "zhù",
-          "atäsj5"
-        ],
-        [
-          "意关心",
-          "",
-          "",
-          "",
-          "zh/01157.mp3",
-          "yì guān xīn",
-          ""
+          "fr/11824.mp3",
+          "zh/11824.mp3",
+          "zhu4 yi4 ， guan1 xin1",
+          "atɑ̃sjɔ̃"
         ],
         [
           "数量",
-          "quantité.",
-          "",
-          "fr/01158.mp3",
-          "zh/01158.mp3",
-          "shù liàng",
-          "kätite"
-        ],
-        [
-          "",
-          "épaisser",
-          "v.t.",
-          "fr/01159.mp3",
-          "",
-          "",
-          "epese"
+          "quantité",
+          "n.f.",
+          "fr/11825.mp3",
+          "zh/11825.mp3",
+          "shu4 liang4",
+          "kɑ̃tite"
         ],
         [
           "使浓厚",
-          "",
-          "",
-          "",
-          "zh/01160.mp3",
-          "shǐ nóng hòu",
-          ""
+          "épaisser",
+          "v.t.",
+          "fr/11826.mp3",
+          "zh/11826.mp3",
+          "shi3 nong2 hou4",
+          "epese"
         ],
         [
           "柠檬",
           "citron",
-          "nm.",
-          "fr/01161.mp3",
-          "zh/01161.mp3",
-          "níng méng",
-          "sitr"
-        ],
-        [
-          "",
-          "entourer",
-          "vt",
-          "fr/01162.mp3",
-          "",
-          "",
-          "äture"
+          "n.m.",
+          "fr/11827.mp3",
+          "zh/11827.mp3",
+          "ning2 meng2",
+          "sitrɔ̃"
         ],
         [
           "围绕环绕",
-          "",
-          "",
-          "",
-          "zh/01163.mp3",
-          "wéi rào huán rào",
-          ""
+          "entourer",
+          "v.t.",
+          "fr/11828.mp3",
+          "zh/11828.mp3",
+          "wei2 rao4 huan2 rao4",
+          "ɑ̃ture"
         ],
         [
           "结冰的",
-          "glacé,e adj.k",
-          "",
-          "fr/01164.mp3",
-          "zh/01164.mp3",
-          "jié bīng de",
+          "glacé, e",
+          "adj.",
+          "fr/11829.mp3",
+          "zh/11829.mp3",
+          "jie2 bing1 de5",
           "glase"
-        ],
-        [
-          "葱",
-          "ciboule",
-          "",
-          "fr/01165.mp3",
-          "zh/01165.mp3",
-          "cōng",
-          ""
         ]
       ]
     },
     {
       "no": 13,
-      "name": "第13节",
+      "name": "饮酒",
       "w": [
         [
           "祝酒",
           "toast",
           "m.",
-          "fr/01166.mp3",
-          "zh/01166.mp3",
-          "zhù jiǔ",
-          "torst"
+          "fr/11830.mp3",
+          "zh/11830.mp3",
+          "zhu4 jiu3",
+          "to:st"
         ],
         [
           "开胃酒",
-          "aperitif",
+          "apéritif",
           "m.",
-          "fr/01167.mp3",
-          "zh/01167.mp3",
-          "kāi wèi jiǔ",
+          "fr/11831.mp3",
+          "zh/11831.mp3",
+          "kai1 wei4 jiu3",
           "aperitif"
         ],
         [
           "醉",
-          "souler",
-          "",
-          "fr/01168.mp3",
-          "zh/01168.mp3",
-          "zuì",
+          "soûler",
+          "v.",
+          "fr/11832.mp3",
+          "zh/11832.mp3",
+          "zui4",
           "sule"
         ],
         [
           "酒精",
           "alcool",
-          "m",
-          "fr/01169.mp3",
-          "zh/01169.mp3",
-          "jiǔ jīng",
-          "alkol"
+          "m.",
+          "fr/11833.mp3",
+          "zh/11833.mp3",
+          "jiu3 jing1",
+          "alkɔl"
         ],
         [
           "黑啤酒",
-          "biere brune /",
-          "",
-          "fr/01170.mp3",
-          "zh/01170.mp3",
-          "hēi pí jiǔ",
-          "bjer bryn"
+          "bière brune",
+          "f.",
+          "fr/11834.mp3",
+          "zh/11834.mp3",
+          "hei1 pi2 jiu3",
+          "bjɛr bryn"
         ],
         [
           "伏特加",
           "vodka",
-          "",
-          "fr/01171.mp3",
-          "zh/01171.mp3",
-          "fú tè jiā",
-          "vodka"
+          "f.",
+          "fr/11835.mp3",
+          "zh/11835.mp3",
+          "fu2 te4 jia1",
+          "vɔdka"
         ],
         [
-          "葡萄酒果酒红葡萄酒",
-          "vinm vin rougev rus3]",
+          "葡萄酒；果酒",
+          "vin ̃",
           "m.",
-          "fr/01172.mp3",
-          "zh/01172.mp3",
-          "pú táo jiǔ guǒ jiǔ hóng pú táo jiǔ",
-          "v"
+          "fr/11836.mp3",
+          "zh/11836.mp3",
+          "pu2 tao2 jiu3 ； guo3 jiu3",
+          "vɛ"
+        ],
+        [
+          "红葡萄酒",
+          "vin rouge",
+          "m.",
+          "fr/11837.mp3",
+          "zh/11837.mp3",
+          "hong2 pu2 tao2 jiu3",
+          "vɛ̃ ru:ʒ"
         ],
         [
           "白葡萄酒",
-          "vin blancv blá]",
+          "vin blanc",
           "m.",
-          "fr/01173.mp3",
-          "zh/01173.mp3",
-          "bái pú táo jiǔ",
-          ""
+          "fr/11838.mp3",
+          "zh/11838.mp3",
+          "bai2 pu2 tao2 jiu3",
+          "vɛ̃ blɑ̃"
         ],
         [
-          "苹果酒香槟酒",
-          "cidrem champagne Jäpan]",
+          "苹果酒",
+          "cidre",
           "m.",
-          "fr/01174.mp3",
-          "zh/01174.mp3",
-          "píng guǒ jiǔ xiāng bīn jiǔ",
+          "fr/11839.mp3",
+          "zh/11839.mp3",
+          "ping2 guo3 jiu3",
           "sidr"
+        ],
+        [
+          "香槟酒",
+          "champagne",
+          "m.",
+          "fr/11840.mp3",
+          "zh/11840.mp3",
+          "xiang1 bin1 jiu3",
+          "ʃɑ̃paɲ"
         ],
         [
           "鸡尾酒",
           "cocktail",
           "m.",
-          "fr/01175.mp3",
-          "zh/01175.mp3",
-          "jī wěi jiǔ",
-          "koktel"
+          "fr/11841.mp3",
+          "zh/11841.mp3",
+          "ji1 wei3 jiu3",
+          "kɔktɛl"
         ],
         [
           "威士忌",
-          "whiskywiski",
-          "m",
-          "fr/01176.mp3",
-          "zh/01176.mp3",
-          "wēi shì jì",
-          ""
+          "whisky",
+          "m.",
+          "fr/11842.mp3",
+          "zh/11842.mp3",
+          "wei1 shi4 ji4",
+          "wiski"
         ],
         [
           "白兰地",
-          "bcognac",
-          "m",
-          "fr/01177.mp3",
-          "zh/01177.mp3",
-          "bái lán dì",
-          "onak"
+          "cognac",
+          "m.",
+          "fr/11843.mp3",
+          "zh/11843.mp3",
+          "bai2 lan2 di4",
+          "kɔɲak"
         ],
         [
           "朗姆酒",
           "rhum",
-          "m",
-          "fr/01178.mp3",
-          "zh/01178.mp3",
-          "lǎng mǔ jiǔ",
-          "rom"
+          "m.",
+          "fr/11844.mp3",
+          "zh/11844.mp3",
+          "lang3 mu3 jiu3",
+          "rɔm"
         ],
         [
           "玫瑰红葡萄酒",
-          "vinrose",
-          "m",
-          "fr/01179.mp3",
-          "zh/01179.mp3",
-          "méi guī hóng pú táo jiǔ",
-          "v&roze"
+          "vin rosé",
+          "m.",
+          "fr/11845.mp3",
+          "zh/11845.mp3",
+          "mei2 gui1 hong2 pu2 tao2 jiu3",
+          "vɛ̃ roze"
         ],
         [
           "干葡萄酒",
           "vin sec",
-          "",
-          "fr/01180.mp3",
-          "zh/01180.mp3",
-          "gàn pú táo jiǔ",
-          "vsck"
+          "m.",
+          "fr/11846.mp3",
+          "zh/11846.mp3",
+          "gan4 pu2 tao2 jiu3",
+          "vɛ̃ sɛk"
         ],
         [
           "半干葡萄酒",
-          "Tvindemisec",
+          "vin demi-sec",
           "m.",
-          "fr/01181.mp3",
-          "zh/01181.mp3",
-          "bàn gàn pú táo jiǔ",
-          "Vad(a)mi sek"
+          "fr/11847.mp3",
+          "zh/11847.mp3",
+          "ban4 gan4 pu2 tao2 jiu3",
+          "vɛ̃ d(ə)mi sɛk"
         ],
         [
           "甜葡萄酒",
           "vin doux",
           "m.",
-          "fr/01182.mp3",
-          "zh/01182.mp3",
-          "tián pú táo jiǔ",
-          "v du"
+          "fr/11848.mp3",
+          "zh/11848.mp3",
+          "tian2 pu2 tao2 jiu3",
+          "vɛ̃ du"
         ],
         [
           "天然葡萄酒",
           "vin brut",
-          "m",
-          "fr/01183.mp3",
-          "zh/01183.mp3",
-          "tiān rán pú táo jiǔ",
-          "ve bryt"
+          "m.",
+          "fr/11849.mp3",
+          "zh/11849.mp3",
+          "tian1 ran2 pu2 tao2 jiu3",
+          "vɛ̃ bryt"
         ]
       ],
       "s": [
         [
-          "Envoyer des sandwichs au caviar et une bouteille de biere.",
+          "Envoyer des sandwichs au caviar et une bouteille de bière.",
           "送一些鱼子酱三明治和一瓶啤酒。",
           "《费城故事》",
-          "fr/01184.mp3",
-          "zh/01184.mp3",
-          "sòng yī xiē yú zi jiàng sān míng zhì hé yī píng pí jiǔ",
+          "fr/11850.mp3",
+          "zh/11850.mp3",
+          "song4 yi4 xie1 yu2 zi5 jiang4 san1 ming2 zhi4 he2 yi4 ping2 pi2 jiu3 。",
           ""
         ],
         [
           "Quel dommage que nous buvions du vin.",
-          "真可惜我们把酒喝完了。",
+          "真可惜，我们把酒喝完了。",
           "《料理鼠王》",
-          "fr/01185.mp3",
-          "zh/01185.mp3",
-          "zhēn kě xī wǒ men bǎ jiǔ hē wán le",
+          "fr/11851.mp3",
+          "zh/11851.mp3",
+          "zhen1 ke3 xi1 ， wo3 men5 ba3 jiu3 he1 wan2 le5 。",
           ""
         ],
         [
-          "Les touristes ont eu la chance de déguster du vin francais, du café exceptionnel et des fromages délicieux.",
+          "Les touristes ont eu la chance de déguster du vin français, du café exceptionnel et des fromagesdélicieux.",
           "旅游者们可以有机会品尝法国红酒、特色咖啡和美味奶酪。",
           "",
-          "fr/01186.mp3",
-          "zh/01186.mp3",
-          "lǚ yóu zhě men kě yǐ yǒu jī huì pǐn cháng fǎ guó hóng jiǔ tè sè kā fēi hé měi wèi nǎi lào",
+          "fr/11852.mp3",
+          "zh/11852.mp3",
+          "lv3 you2 zhe3 men5 ke3 yi3 you3 ji1 hui4 pin3 chang2 fa3 guo2 hong2 jiu3 、 te4 se4 ka1 fei1 he2 mei3 wei4 nai3 lao4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "l envoyer t",
-          "",
-          "fr/01187.mp3",
-          "",
-          "",
-          "ávwaje"
+          "邮寄，送",
+          "envoyer",
+          "v.t.",
+          "fr/11853.mp3",
+          "zh/11853.mp3",
+          "you2 ji4 ， song4",
+          "ɑ̃vwaje"
         ],
         [
-          "邮寄送",
-          "",
-          "",
-          "",
-          "zh/01188.mp3",
-          "yóu jì sòng",
-          ""
-        ],
-        [
-          "",
+          "瓶，一瓶之量",
           "bouteille",
-          "f",
-          "fr/01189.mp3",
-          "",
-          "",
-          "butej"
+          "n.f.",
+          "fr/11854.mp3",
+          "zh/11854.mp3",
+          "ping2 ， yi4 ping2 zhi1 liang4",
+          "butɛj"
         ],
         [
-          "瓶一瓶之量",
-          "",
-          "",
-          "",
-          "zh/01190.mp3",
-          "píng yī píng zhī liàng",
-          ""
-        ],
-        [
-          "",
+          "可惜，遗憾",
           "dommage",
-          "n.m",
-          "fr/01191.mp3",
-          "",
-          "",
-          "doma:3"
-        ],
-        [
-          "可惜遗憾",
-          "",
-          "",
-          "",
-          "zh/01192.mp3",
-          "kě xī yí hàn",
-          ""
-        ],
-        [
-          "",
-          "touriste",
-          "n.m",
-          "fr/01193.mp3",
-          "",
-          "",
-          "turist"
+          "n.m.",
+          "fr/11855.mp3",
+          "zh/11855.mp3",
+          "ke3 xi1 ， yi2 han4",
+          "dɔma:ʒ"
         ],
         [
           "旅游者",
-          "",
-          "",
-          "",
-          "zh/01194.mp3",
-          "lǚ yóu zhě",
-          ""
-        ],
-        [
-          "",
-          "déguster ut.",
-          "",
-          "fr/01195.mp3",
-          "",
-          "",
-          "degyste"
+          "touriste",
+          "n.m.",
+          "fr/11856.mp3",
+          "zh/11856.mp3",
+          "lv3 you2 zhe3",
+          "turist"
         ],
         [
           "品尝",
-          "",
-          "",
-          "",
-          "zh/01196.mp3",
-          "pǐn cháng",
-          ""
+          "déguster",
+          "v.t.",
+          "fr/11857.mp3",
+          "zh/11857.mp3",
+          "pin3 chang2",
+          "degyste"
         ],
         [
-          "",
-          "exceptionnel,le",
-          "",
-          "fr/01197.mp3",
-          "",
-          "",
-          ""
+          "例外的，异常的",
+          "exceptionnel, le",
+          "adj.",
+          "fr/11858.mp3",
+          "zh/11858.mp3",
+          "li4 wai4 de5 ， yi4 chang2 de5",
+          "ɛksɛpsjɔnɛl"
         ]
       ]
     },
     {
       "no": 14,
-      "name": "第14节",
+      "name": "冷饮店",
       "w": [
         [
           "圣代",
           "glace",
-          "",
-          "fr/01199.mp3",
-          "zh/01199.mp3",
-          "shèng dài",
+          "f.",
+          "fr/11859.mp3",
+          "zh/11859.mp3",
+          "sheng4 dai4",
           "glas"
         ],
         [
           "冰激凌",
-          "Z 7kcreme glacée",
+          "crème glacée",
           "inv.",
-          "fr/01200.mp3",
-          "zh/01200.mp3",
-          "bīng jī líng",
-          "krem glase"
+          "fr/11860.mp3",
+          "zh/11860.mp3",
+          "bing1 ji1 ling2",
+          "krɛm glase"
         ],
         [
-          "香草冰激凌水",
-          "glacea la vanille Iglas a la vanijl/: k eau",
-          "f",
-          "fr/01201.mp3",
-          "zh/01201.mp3",
-          "xiāng cǎo bīng jī líng shuǐ",
+          "香草冰激凌",
+          "glace à la vanille",
+          "f.",
+          "fr/11861.mp3",
+          "zh/11861.mp3",
+          "xiang1 cao3 bing1 ji1 ling2",
+          "glas a la vanij"
+        ],
+        [
+          "水",
+          "eau",
+          "f.",
+          "fr/11862.mp3",
+          "zh/11862.mp3",
+          "shui3",
           "o"
         ],
         [
           "冰水",
-          "k7k eau glacée",
+          "eau glacée",
           "inv.",
-          "fr/01202.mp3",
-          "zh/01202.mp3",
-          "bīng shuǐ",
+          "fr/11863.mp3",
+          "zh/11863.mp3",
+          "bing1 shui3",
           "o glase"
         ],
         [
           "使变凉",
-          "fraichir i.",
-          "",
-          "fr/01203.mp3",
-          "zh/01203.mp3",
-          "shǐ biàn liáng",
-          "free)fir"
+          "fraîchir",
+          "v.i.",
+          "fr/11864.mp3",
+          "zh/11864.mp3",
+          "shi3 bian4 liang2",
+          "frɛ(ə)ʃi:r"
         ],
         [
           "吸管",
           "pipette",
-          "",
-          "fr/01204.mp3",
-          "zh/01204.mp3",
-          "xī guǎn",
-          "pipet"
+          "f.",
+          "fr/11865.mp3",
+          "zh/11865.mp3",
+          "xi1 guan3",
+          "pipɛt"
         ],
         [
           "饮料",
-          "boisson /,",
-          "",
-          "fr/01205.mp3",
-          "zh/01205.mp3",
-          "yǐn liào",
-          "bwas5"
+          "boisson",
+          "f.",
+          "fr/11866.mp3",
+          "zh/11866.mp3",
+          "yin3 liao4",
+          "bwasɔ̃"
         ],
         [
           "酸奶",
-          "yaourt jaurt]",
-          "m",
-          "fr/01206.mp3",
-          "zh/01206.mp3",
-          "suān nǎi",
-          ""
+          "yaourt",
+          "m.",
+          "fr/11867.mp3",
+          "zh/11867.mp3",
+          "suan1 nai3",
+          "jaurt"
         ],
         [
           "橙汁",
-          "jus dorange 3y dorár3]",
+          "jus d'orange",
           "inv.",
-          "fr/01207.mp3",
-          "zh/01207.mp3",
-          "chéng zhī",
-          ""
+          "fr/11868.mp3",
+          "zh/11868.mp3",
+          "cheng2 zhi1",
+          "ʒy dɔrɑ̃:ʒ"
         ],
         [
           "汽水",
           "limonade",
-          "f",
-          "fr/01208.mp3",
-          "zh/01208.mp3",
-          "qì shuǐ",
-          "limonad"
+          "f.",
+          "fr/11869.mp3",
+          "zh/11869.mp3",
+          "qi4 shui3",
+          "limɔnad"
         ],
         [
           "柠檬汁",
           "citronnade",
-          "",
-          "fr/01209.mp3",
-          "zh/01209.mp3",
-          "níng méng zhī",
-          "sitronad"
+          "f.",
+          "fr/11870.mp3",
+          "zh/11870.mp3",
+          "ning2 meng2 zhi1",
+          "sitrɔnad"
         ],
         [
           "冷藏",
-          "réfrigération /.",
-          "",
-          "fr/01210.mp3",
-          "zh/01210.mp3",
-          "lěng cáng",
-          "refrizera(a)sj5"
+          "réfrigération",
+          "f.",
+          "fr/11871.mp3",
+          "zh/11871.mp3",
+          "leng3 cang2",
+          "refrigerɑ̃(ɑ̃)sjɔ̃"
         ],
         [
           "饮料瓶",
           "bouteille",
-          "",
-          "fr/01211.mp3",
-          "zh/01211.mp3",
-          "yǐn liào píng",
-          "butej"
+          "f.",
+          "fr/11872.mp3",
+          "zh/11872.mp3",
+          "yin3 liao4 ping2",
+          "butɛj"
         ],
         [
           "可乐",
           "coca cola",
           "m.",
-          "fr/01212.mp3",
-          "zh/01212.mp3",
-          "kě lè",
-          "koka kola"
+          "fr/11873.mp3",
+          "zh/11873.mp3",
+          "ke3 le4",
+          "kɔka kɔla"
         ],
         [
           "充气饮料",
-          "boisson gazeuse[bwas",
-          "",
-          "fr/01213.mp3",
-          "zh/01213.mp3",
-          "chōng qì yǐn liào",
-          ""
-        ],
-        [
-          "态外形",
-          "gazo:z].",
-          "",
-          "fr/01214.mp3",
-          "zh/01214.mp3",
-          "tài wài xíng",
-          ""
+          "boisson gazeuse",
+          "f.",
+          "fr/11874.mp3",
+          "zh/11874.mp3",
+          "chong1 qi4 yin3 liao4",
+          "bwasɔ̃ gazø:z"
         ]
       ],
       "s": [
         [
           "Ils veulent de l'eau, du jus d'orange. Il semble y avoir du jus de pomme.",
-          "他们要了水橙汁。还有好像是苹果汁。",
+          "他们要了水、橙汁。还有好像是苹果汁。",
           "《老友记》",
-          "fr/01215.mp3",
-          "zh/01215.mp3",
-          "tā men yào le shuǐ chéng zhī hái yǒu hǎo xiàng shì píng guǒ zhī",
+          "fr/11875.mp3",
+          "zh/11875.mp3",
+          "ta1 men5 yao4 le5 shui3 、 cheng2 zhi1 。 hai2 you3 hao3 xiang4 shi4 ping2 guo3 zhi1 。",
           ""
         ],
         [
-          "]Leau ne fait pas grossir, l'eau est essentielle a votre santéet a votre forme. T#",
-          "事实是水不会使人发胖还是保持健康和体形的必需物质。",
+          "L'eau ne fait pas grossir, l'eau est essentielle à votre santé et à votre forme.",
+          "事实是：水不会使人发胖，还是保持健康和体形的必需物质。",
           "",
-          "fr/01216.mp3",
-          "zh/01216.mp3",
-          "shì shí shì shuǐ bú huì shǐ rén fā pàng hái shì bǎo chí jiàn kāng hé tǐ xíng de bì xū wù zhì",
+          "fr/11876.mp3",
+          "zh/11876.mp3",
+          "shi4 shi2 shi4 ： shui3 bu2 hui4 shi3 ren2 fa1 pang4 ， hai2 shi4 bao3 chi2 jian4 kang1 he2 ti3 xing2 de5 bi4 xu1 wu4 zhi4 。",
           ""
         ],
         [
-          "En Chine,la boisson la plus préférée est le the, tandis quen France,les gens ont plus damour du cafe.+",
-          "在中国最受钟爱的饮品是茶，而在法国，人们更爱咖啡。",
+          "En Chine, la boisson la plus préférée est le thé, tandis qu'en France, les gens ont plus d'amour du café.",
+          "在中国，最受钟爱的饮品是茶，而在法国，人们更爱咖啡。",
           "",
-          "fr/01217.mp3",
-          "zh/01217.mp3",
-          "zài zhōng guó zuì shòu zhōng ài de yǐn pǐn shì chá ér zài fǎ guó rén men gèng ài kā fēi",
+          "fr/11877.mp3",
+          "zh/11877.mp3",
+          "zai4 zhong1 guo2 ， zui4 shou4 zhong1 ai4 de5 yin3 pin3 shi4 cha2 ， er2 zai4 fa3 guo2 ， ren2 men5 geng4 ai4 ka1 fei1 。",
           ""
         ],
         [
-          "Elle a apporté une bou teille d'eau un paquet de bis cuits sur le départ.##7 k-3",
-          "她带了瓶水一包饼干就出发了",
+          "Elle a apporté une bouteille d'eau, un paquet de biscuits sur le départ.",
+          "她带了一瓶水、一包饼干就出发了。",
           "",
-          "fr/01218.mp3",
-          "zh/01218.mp3",
-          "tā dài le píng shuǐ yī bāo bǐng gān jiù chū fā le",
+          "fr/11878.mp3",
+          "zh/11878.mp3",
+          "ta1 dai4 le5 yi4 ping2 shui3 、 yi4 bao1 bing3 gan4 jiu4 chu1 fa1 le5 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "变粗，变大",
           "grossir",
-          "vi.",
-          "fr/01219.mp3",
-          "",
-          "",
-          "grosir"
+          "v.i.",
+          "fr/11879.mp3",
+          "zh/11879.mp3",
+          "bian4 cu1 ， bian4 da4",
+          "grosi:r"
         ],
         [
-          "变粗变大",
-          "",
-          "",
-          "",
-          "zh/01220.mp3",
-          "biàn cū biàn dà",
-          ""
-        ],
-        [
-          "",
-          "essentiel,le",
-          "",
-          "fr/01221.mp3",
-          "",
-          "",
-          "esäsjel"
-        ],
-        [
-          "本质的基本的",
-          "adj..",
-          "",
-          "fr/01222.mp3",
-          "zh/01222.mp3",
-          "běn zhì dì jī běn de",
-          ""
+          "本质的，基本的",
+          "essentiel, le",
+          "adj.",
+          "fr/11880.mp3",
+          "zh/11880.mp3",
+          "ben3 zhi4 de5 ， ji1 ben3 de5",
+          "esɑ̃sjɛl"
         ],
         [
           "健康",
-          "santé n",
-          "",
-          "fr/01223.mp3",
-          "zh/01223.mp3",
-          "jiàn kāng",
-          "säte"
+          "santé",
+          "n.f.",
+          "fr/11881.mp3",
+          "zh/11881.mp3",
+          "jian4 kang1",
+          "sɑ̃te"
         ],
         [
-          "",
+          "形态，外形",
           "forme",
-          "nf",
-          "fr/01224.mp3",
-          "",
-          "",
-          "form"
+          "n.f.",
+          "fr/11882.mp3",
+          "zh/11882.mp3",
+          "xing2 tai4 ， wai4 xing2",
+          "fɔrm"
         ],
         [
-          "",
+          "当……时候",
           "tandis que",
-          "",
-          "fr/01225.mp3",
-          "",
-          "",
-          "tádi ka"
+          "loc. conj",
+          "fr/11883.mp3",
+          "zh/11883.mp3",
+          "dang1 … … shi2 hou4",
+          "tɑ̃di k(ə)"
         ],
         [
-          "当时候",
-          "loc",
-          "conj.",
-          "fr/01226.mp3",
-          "zh/01226.mp3",
-          "dāng shí hòu",
-          ""
-        ],
-        [
-          "",
+          "包，包裹，邮件",
           "paquet",
-          "n.m",
-          "fr/01227.mp3",
-          "",
-          "",
-          "pake"
-        ],
-        [
-          "包包裹邮件",
-          "",
-          "",
-          "",
-          "zh/01228.mp3",
-          "bāo bāo guǒ yóu jiàn",
-          ""
+          "n.m.",
+          "fr/11884.mp3",
+          "zh/11884.mp3",
+          "bao1 ， bao1 guo3 ， you2 jian4",
+          "pakɛ"
         ],
         [
           "饼干",
           "biscuit",
           "n.m.",
-          "fr/01229.mp3",
-          "zh/01229.mp3",
-          "bǐng gān",
-          "biskyi"
+          "fr/11885.mp3",
+          "zh/11885.mp3",
+          "bing3 gan4",
+          "biskɥi"
         ]
       ]
     },
     {
       "no": 15,
-      "name": "第15节",
+      "name": "各种饮料（1）",
       "w": [
         [
-          "矿泉水柠檬水",
-          "eau minérale k limonade",
-          "",
-          "fr/01230.mp3",
-          "zh/01230.mp3",
-          "kuàng quán shuǐ níng méng shuǐ",
+          "矿泉水",
+          "eau minérale",
+          "—",
+          "fr/11886.mp3",
+          "zh/11886.mp3",
+          "kuang4 quan2 shui3",
           "o mineral"
         ],
         [
+          "柠檬水",
+          "limonade",
+          "—",
+          "fr/11887.mp3",
+          "zh/11887.mp3",
+          "ning2 meng2 shui3",
+          "limɔnad"
+        ],
+        [
           "苏打水",
-          "T7K seltzeau de",
+          "seltz(eau de)",
           "f.",
-          "fr/01231.mp3",
-          "zh/01231.mp3",
-          "sū dá shuǐ",
-          "sels"
+          "fr/11888.mp3",
+          "zh/11888.mp3",
+          "su1 da3 shui3",
+          "sɛlz"
         ],
         [
           "茶",
-          "the",
-          "m",
-          "fr/01232.mp3",
-          "zh/01232.mp3",
-          "chá",
+          "thé",
+          "m.",
+          "fr/11889.mp3",
+          "zh/11889.mp3",
+          "cha2",
           "te"
         ],
         [
-          "袋茶茶袋",
-          ".infusette",
-          "",
-          "fr/01233.mp3",
-          "zh/01233.mp3",
-          "dài chá chá dài",
-          "Efyset"
+          "袋茶，茶袋",
+          "infusette",
+          "—",
+          "fr/11890.mp3",
+          "zh/11890.mp3",
+          "dai4 cha2 ， cha2 dai4",
+          "ɛ̃fyset"
         ],
         [
           "绿茶",
-          "the vert",
-          "m",
-          "fr/01234.mp3",
-          "zh/01234.mp3",
-          "lǜ chá",
-          "te var"
+          "thé vert",
+          "m.",
+          "fr/11891.mp3",
+          "zh/11891.mp3",
+          "lv4 cha2",
+          "te vɛr"
         ],
         [
           "红茶",
-          "the noir",
+          "thé noir",
           "m.",
-          "fr/01235.mp3",
-          "zh/01235.mp3",
-          "hóng chá",
+          "fr/11892.mp3",
+          "zh/11892.mp3",
+          "hong2 cha2",
           "te nwar"
         ],
         [
           "茉莉花茶",
-          "ttheau jasmin",
-          "",
-          "fr/01236.mp3",
-          "zh/01236.mp3",
-          "mò lì huā chá",
-          "te o 3asmê"
+          "thé au jasmin ̃",
+          "—",
+          "fr/11893.mp3",
+          "zh/11893.mp3",
+          "mo4 li4 hua1 cha2",
+          "te o ʒasmɛ"
         ],
         [
           "乌龙茶",
-          "théoolung te ol5]",
-          "",
-          "fr/01237.mp3",
-          "zh/01237.mp3",
-          "wū lóng chá",
-          ""
+          "thé oolung",
+          "—",
+          "fr/11894.mp3",
+          "zh/11894.mp3",
+          "wu1 long2 cha2",
+          "te olɔ̃"
         ],
         [
           "香味",
           "odeur agréable",
-          "",
-          "fr/01238.mp3",
-          "zh/01238.mp3",
-          "xiāng wèi",
-          "odær agreabl"
+          "f.",
+          "fr/11895.mp3",
+          "zh/11895.mp3",
+          "xiang1 wei4",
+          "odœr agreabl"
         ],
         [
           "牛奶",
           "lait",
-          "m",
-          "fr/01239.mp3",
-          "zh/01239.mp3",
-          "niú nǎi",
-          "le"
+          "m.",
+          "fr/11896.mp3",
+          "zh/11896.mp3",
+          "niu2 nai3",
+          "lɛ"
         ],
         [
           "果汁",
           "jus",
-          "m",
-          "fr/01240.mp3",
-          "zh/01240.mp3",
-          "guǒ zhī",
-          "3y"
+          "m.",
+          "fr/11897.mp3",
+          "zh/11897.mp3",
+          "guo3 zhi1",
+          "ʒy"
         ],
         [
           "饮用水",
-          "k eau potable[o",
-          "",
-          "fr/01241.mp3",
-          "zh/01241.mp3",
-          "yǐn yòng shuǐ",
-          ""
-        ],
-        [
-          "船",
-          "bateaun.m.# potabl]/.",
-          "",
-          "fr/01242.mp3",
-          "zh/01242.mp3",
-          "chuán",
-          "bato"
+          "eau potable",
+          "f.",
+          "fr/11898.mp3",
+          "zh/11898.mp3",
+          "yin3 yong4 shui3",
+          "o pɔtabl"
         ],
         [
           "白开水",
           "eau bouillante",
           "f.",
-          "fr/01243.mp3",
-          "zh/01243.mp3",
-          "bái kāi shuǐ",
-          "o bujat"
+          "fr/11899.mp3",
+          "zh/11899.mp3",
+          "bai2 kai1 shui3",
+          "o bujɑ̃t"
         ],
         [
           "热水",
-          "k eau chaude .",
-          "",
-          "fr/01244.mp3",
-          "zh/01244.mp3",
-          "rè shuǐ",
-          "o fod"
+          "eau chaude",
+          "f.",
+          "fr/11900.mp3",
+          "zh/11900.mp3",
+          "re4 shui3",
+          "o ʃod"
         ],
         [
           "冷水",
-          "k eau froide",
-          "f",
-          "fr/01245.mp3",
-          "zh/01245.mp3",
-          "lěng shuǐ",
+          "eau froide",
+          "f.",
+          "fr/11901.mp3",
+          "zh/11901.mp3",
+          "leng3 shui3",
           "o frwad"
         ],
         [
           "桔子水",
           "orangeade",
           "f.",
-          "fr/01246.mp3",
-          "zh/01246.mp3",
-          "jú zi shuǐ",
-          "brázad"
+          "fr/11902.mp3",
+          "zh/11902.mp3",
+          "ju2 zi5 shui3",
+          "ɔrɑ̃ʒad"
         ]
       ],
       "s": [
         [
-          "Vous organisez le bateau, je vais faire du the.",
+          "Vous organisez le bateau, je vais faire du thé.",
           "你去安排船，我来泡茶。",
           "《BJ单身日记》",
-          "fr/01247.mp3",
-          "zh/01247.mp3",
-          "nǐ qù ān pái chuán wǒ lái pào chá",
+          "fr/11903.mp3",
+          "zh/11903.mp3",
+          "ni3 qu4 an1 pai2 chuan2 ， wo3 lai2 pao4 cha2 。",
           ""
         ],
         [
           "Elle boit un verre de lait tous les matins.",
           "她每天早上喝一杯牛奶。",
           "",
-          "fr/01248.mp3",
-          "zh/01248.mp3",
-          "tā měi tiān zǎo shàng hē yī bēi niú nǎi",
+          "fr/11904.mp3",
+          "zh/11904.mp3",
+          "ta1 mei3 tian1 zao3 shang4 he1 yi4 bei1 niu2 nai3 。",
           ""
         ],
         [
-          "Notre société est une en treprise par actions qui est basée sur la production et la vente de notre principal pro- duitjusde kiwi.",
+          "Notre société est une entreprise par actions qui est basée sur la production et la vente de notre principalproduit: jus de kiwi.",
           "本公司是以生产销售猕猴桃汁为主要产品的股份制企业。",
           "",
-          "fr/01249.mp3",
-          "zh/01249.mp3",
-          "běn gōng sī shì yǐ shēng chǎn xiāo shòu mí hóu táo zhī wéi zhǔ yào chǎn pǐn de gǔ fèn zhì qǐ yè",
+          "fr/11905.mp3",
+          "zh/11905.mp3",
+          "ben3 gong1 si1 shi4 yi3 sheng1 chan3 xiao1 shou4 mi2 hou2 tao2 zhi1 wei4 zhu3 yao4 chan3 pin3 de5 gu3 fen4 zhi4 qi3 ye4 。",
           ""
         ],
         [
-          "Leau botillante est la meilleure boisson.",
+          "L'eau bouillante est la meilleure boisson.",
           "白开水是最好的饮料。",
           "",
-          "fr/01250.mp3",
-          "zh/01250.mp3",
-          "bái kāi shuǐ shì zuì hǎo de yǐn liào",
+          "fr/11906.mp3",
+          "zh/11906.mp3",
+          "bai2 kai1 shui3 shi4 zui4 hao3 de5 yin3 liao4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "organiser ut.",
-          "",
-          "fr/01251.mp3",
-          "",
-          "",
-          "brganize"
+          "组织",
+          "organiser",
+          "v.t.",
+          "fr/11907.mp3",
+          "zh/11907.mp3",
+          "zu3 zhi1",
+          "ɔrganize"
         ],
         [
-          "组织",
-          "",
-          "",
-          "",
-          "zh/01252.mp3",
-          "zǔ zhī",
-          ""
+          "船",
+          "bateau",
+          "n.m.",
+          "fr/11908.mp3",
+          "zh/11908.mp3",
+          "chuan2",
+          "bato"
         ],
         [
           "玻璃杯",
           "verre",
-          "nm.",
-          "fr/01253.mp3",
-          "zh/01253.mp3",
-          "bō lí bēi",
-          "ver"
+          "n.m.",
+          "fr/11909.mp3",
+          "zh/11909.mp3",
+          "bo1 li2 bei1",
+          "vɛ:r"
         ],
         [
-          "",
+          "事情，事业",
           "entreprise",
-          "",
-          "fr/01254.mp3",
-          "",
-          "",
-          "átrapriz"
+          "n.f.",
+          "fr/11910.mp3",
+          "zh/11910.mp3",
+          "shi4 qing2 ， shi4 ye4",
+          "ɑ̃trəpri:z"
         ],
         [
-          "事情事业",
-          "",
-          "",
-          "",
-          "zh/01255.mp3",
-          "shì qíng shì yè",
-          ""
-        ],
-        [
-          "",
-          "principal,e",
-          "",
-          "fr/01256.mp3",
-          "",
-          "",
-          "pr&sipal"
-        ],
-        [
-          "主要的阳性复数",
-          "adpric",
-          "",
-          "fr/01257.mp3",
-          "zh/01257.mp3",
-          "zhǔ yào de yáng xìng fù shù",
-          ""
-        ],
-        [
-          "阴性复数",
-          "pauxprincipales",
-          "",
-          "fr/01258.mp3",
-          "zh/01258.mp3",
-          "yīn xìng fù shù",
-          ""
-        ],
-        [
-          "",
-          "bouillant,e",
-          "",
-          "fr/01259.mp3",
-          "",
-          "",
-          "bujaát"
+          "主要的",
+          "principal, e",
+          "adj.",
+          "fr/11911.mp3",
+          "zh/11911.mp3",
+          "zhu3 yao4 de5",
+          "prɛ̃s ipal"
         ],
         [
           "沸腾的",
-          "",
-          "adj",
-          "",
-          "zh/01260.mp3",
-          "fèi téng de",
-          ""
+          "bouillant, e",
+          "adj.",
+          "fr/11912.mp3",
+          "zh/11912.mp3",
+          "fei4 teng2 de5",
+          "bujɑ̃, ɑ̃:t"
         ]
       ]
     },
     {
       "no": 16,
-      "name": "第16节",
+      "name": "各种饮料（2）",
       "w": [
         [
           "酗酒的",
           "ivrogne",
-          "",
-          "fr/01261.mp3",
-          "zh/01261.mp3",
-          "xù jiǔ de",
-          "ivron"
+          "形",
+          "fr/11913.mp3",
+          "zh/11913.mp3",
+          "xu4 jiu3 de5",
+          "ivrɔɲ"
         ],
         [
           "碳酸饮料",
           "boisson gazeuse",
           "f.",
-          "fr/01262.mp3",
-          "zh/01262.mp3",
-          "tàn suān yǐn liào",
-          "bwas gazoz"
+          "fr/11914.mp3",
+          "zh/11914.mp3",
+          "tan4 suan1 yin3 liao4",
+          "bwasɔ̃ gazøz"
         ],
         [
           "二氧化碳",
-          "=dioxyde de carbone",
+          "dioxyde de carbone",
           "m.",
-          "fr/01263.mp3",
-          "zh/01263.mp3",
-          "èr yǎng huà tàn",
-          "dioksid da karbon"
+          "fr/11915.mp3",
+          "zh/11915.mp3",
+          "er4 yang3 hua4 tan4",
+          "djɔksid d(ə) karbɔn"
         ],
         [
           "浑浊的",
           "turbide",
-          "",
-          "fr/01264.mp3",
-          "zh/01264.mp3",
-          "hún zhuó de",
+          "形",
+          "fr/11916.mp3",
+          "zh/11916.mp3",
+          "hun2 zhuo2 de5",
           "tyrbide"
         ],
         [
           "混合",
-          "melange",
-          "m",
-          "fr/01265.mp3",
-          "zh/01265.mp3",
-          "hùn hé",
-          "melá:3"
+          "mélange",
+          "m.",
+          "fr/11917.mp3",
+          "zh/11917.mp3",
+          "hun4 he2",
+          "melɑ̃:ʒ"
         ],
         [
           "纯的",
           "pure",
-          "",
-          "fr/01266.mp3",
-          "zh/01266.mp3",
-          "chún de",
-          "pyr"
+          "形",
+          "fr/11918.mp3",
+          "zh/11918.mp3",
+          "chun2 de5",
+          "py:r"
         ],
         [
           "发酵",
-          "fermenter i",
-          "",
-          "fr/01267.mp3",
-          "zh/01267.mp3",
-          "fā jiào",
-          "fermáte"
+          "fermenter",
+          "v.i.",
+          "fr/11919.mp3",
+          "zh/11919.mp3",
+          "fa1 jiao4",
+          "fɛrmɑ̃te"
         ],
         [
           "凝结",
-          "condenser t.",
-          "",
-          "fr/01268.mp3",
-          "zh/01268.mp3",
-          "níng jié",
-          "kšdäse"
+          "condenser",
+          "v.t.",
+          "fr/11920.mp3",
+          "zh/11920.mp3",
+          "ning2 jie2",
+          "kɔ̃dɑ̃se"
         ],
         [
           "瓶子",
-          "flaco",
-          "n.m",
-          "fr/01269.mp3",
-          "zh/01269.mp3",
-          "píng zi",
-          "flak5"
+          "flacon",
+          "m.",
+          "fr/11921.mp3",
+          "zh/11921.mp3",
+          "ping2 zi5",
+          "flakɔ̃"
         ],
         [
           "瓶装啤酒",
-          "biere en canette y.",
-          "",
-          "fr/01270.mp3",
-          "zh/01270.mp3",
-          "píng zhuāng pí jiǔ",
-          "bjeirä kanet"
+          "bière en canette",
+          "f.",
+          "fr/11922.mp3",
+          "zh/11922.mp3",
+          "ping2 zhuang1 pi2 jiu3",
+          "bjɛ:r ɑ̃ kanɛt"
         ],
         [
           "开瓶器",
           "déclencheur",
           "m.",
-          "fr/01271.mp3",
-          "zh/01271.mp3",
-          "kāi píng qì",
-          "dekläf:r"
+          "fr/11923.mp3",
+          "zh/11923.mp3",
+          "kai1 ping2 qi4",
+          "deklɑ̃ʃœ:r"
         ],
         [
           "罐",
           "pot",
-          "m",
-          "fr/01272.mp3",
-          "zh/01272.mp3",
-          "guàn",
+          "m.",
+          "fr/11924.mp3",
+          "zh/11924.mp3",
+          "guan4",
           "po"
         ],
         [
           "酒瓶",
-          "chopinepin",
-          "",
-          "fr/01273.mp3",
-          "zh/01273.mp3",
-          "jiǔ píng",
-          ""
+          "chopine",
+          "f.",
+          "fr/11925.mp3",
+          "zh/11925.mp3",
+          "jiu3 ping2",
+          "ʃɔpin"
         ],
         [
           "瓶刷",
           "écouvillon",
           "m.",
-          "fr/01274.mp3",
-          "zh/01274.mp3",
-          "píng shuā",
-          "ekuvijδ"
+          "fr/11926.mp3",
+          "zh/11926.mp3",
+          "ping2 shua1",
+          "ekuvijɔ̃"
         ],
         [
-          "烧酒白兰地",
-          "eau de-vie",
+          "烧酒，白兰地",
+          "eau-de-vie",
           "f.",
-          "fr/01275.mp3",
-          "zh/01275.mp3",
-          "shāo jiǔ bái lán dì",
+          "fr/11927.mp3",
+          "zh/11927.mp3",
+          "shao1 jiu3 ， bai2 lan2 di4",
           "odvi"
         ]
       ],
       "s": [
         [
-          "Je peux entendre vous ins- pirez de l'oxygene et expirez le dioxyde de carbonc.",
+          "Je peux entendre vous inspirez de l'oxygène et expirez le dioxyde de carbone.",
           "我可以听到你们在吸入氧气，呼出二氧化碳。",
-          "一《生活大爆炸》",
-          "fr/01276.mp3",
-          "zh/01276.mp3",
-          "wǒ kě yǐ tīng dào nǐ men zài xī rù yǎng qì hū chū èr yǎng huà tàn",
+          "《生活大爆炸》",
+          "fr/11928.mp3",
+          "zh/11928.mp3",
+          "wo3 ke3 yi3 ting1 dao4 ni3 men5 zai4 xi1 ru4 yang3 qi4 ， hu1 chu1 er4 yang3 hua4 tan4 。",
           ""
         ],
         [
-          "Ce mois-ci,venez ap prendre a faire du pain dépices dans la plus pure tradition de Nol!1-",
-          "这个月来和我们一起学做最纯正的传统圣诞节美食姜饼吧！",
+          "Ce mois-ci, venez apprendre à faire du pain d'épices dans la plus pure tradition de Noël!",
+          "这个月，来和我们一起学做最纯正的传统圣诞节美食——姜饼吧！",
           "",
-          "fr/01277.mp3",
-          "zh/01277.mp3",
-          "zhè ge yuè lái hé wǒ men yì qǐ xué zuò zuì chún zhèng de chuán tǒng shèng dàn jié měi shí jiāng bǐng ba",
+          "fr/11929.mp3",
+          "zh/11929.mp3",
+          "zhe4 ge4 yue4 ， lai2 he2 wo3 men5 yi4 qi3 xue2 zuo4 zui4 chun2 zheng4 de5 chuan2 tong3 sheng4 dan4 jie2 mei3 shi2 — — jiang1 bing3 ba5 ！",
           ""
         ],
         [
           "Ce pot est assez vieux.",
-          "这",
-          "罐子够老的。—《黄金罗盘》",
-          "fr/01278.mp3",
-          "zh/01278.mp3",
-          "zhè",
+          "这罐子够老的。",
+          "《黄金罗盘》",
+          "fr/11930.mp3",
+          "zh/11930.mp3",
+          "zhe4 guan4 zi5 gou4 lao3 de5 。",
           ""
         ],
         [
-          "Leau dans cette région est tres turbide.",
+          "L'eau dans cette région est très turbide.",
           "这个地区的水很浑浊。",
           "",
-          "fr/01279.mp3",
-          "zh/01279.mp3",
-          "zhè ge dì qū de shuǐ hěn hún zhuó",
+          "fr/11931.mp3",
+          "zh/11931.mp3",
+          "zhe4 ge4 di4 qu1 de5 shui3 hen3 hun2 zhuo2 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
+          "听见，听到",
           "entendre",
-          "vt.",
-          "fr/01280.mp3",
-          "",
-          "",
-          "átädr"
-        ],
-        [
-          "听见听到",
-          "",
-          "",
-          "",
-          "zh/01281.mp3",
-          "tīng jiàn tīng dào",
-          ""
+          "v.t.",
+          "fr/11932.mp3",
+          "zh/11932.mp3",
+          "ting1 jian4 ， ting1 dao4",
+          "ɑ̃tɑ̃:dr"
         ],
         [
           "吸入",
-          "inspirer.",
-          "",
-          "fr/01282.mp3",
-          "zh/01282.mp3",
-          "xī rù",
-          "spire"
+          "inspirer",
+          "v.t.",
+          "fr/11933.mp3",
+          "zh/11933.mp3",
+          "xi1 ru4",
+          "ɛ̃s pire"
         ],
         [
           "呼气",
-          "expirer.",
-          "",
-          "fr/01283.mp3",
-          "zh/01283.mp3",
-          "hū qì",
-          "ekspire"
+          "expirer",
+          "v.t.",
+          "fr/11934.mp3",
+          "zh/11934.mp3",
+          "hu1 qi4",
+          "ɛkspire"
         ],
         [
-          "老的古老的",
-          "vieux adj.6",
-          "",
-          "fr/01284.mp3",
-          "zh/01284.mp3",
-          "lǎo de gǔ lǎo de",
-          "vjo"
+          "老的，古老的",
+          "vieux",
+          "adj.",
+          "fr/11935.mp3",
+          "zh/11935.mp3",
+          "lao3 de5 ， gu3 lao3 de5",
+          "vjø"
         ],
         [
           "香料",
           "épice",
-          "",
-          "fr/01285.mp3",
-          "zh/01285.mp3",
-          "xiāng liào",
+          "n.f.",
+          "fr/11936.mp3",
+          "zh/11936.mp3",
+          "xiang1 liao4",
           "epis"
-        ],
-        [
-          "酒瓶",
-          "chopine",
-          "",
-          "fr/01286.mp3",
-          "zh/01286.mp3",
-          "jiǔ píng",
-          ""
         ]
       ]
     },
     {
       "no": 17,
-      "name": "第17节",
+      "name": "咖啡屋",
       "w": [
         [
-          "咖啡屋咖啡屋客咖啡馆",
-          "café bistrot l. cafetéria /.",
-          "",
-          "fr/01287.mp3",
-          "zh/01287.mp3",
-          "kā fēi wū kā fēi wū kè kā fēi guǎn",
+          "咖啡屋",
+          "café",
+          "m.",
+          "fr/11937.mp3",
+          "zh/11937.mp3",
+          "ka1 fei1 wu1",
           "kafe"
+        ],
+        [
+          "咖啡屋",
+          "bistrot",
+          "m.",
+          "fr/11938.mp3",
+          "zh/11938.mp3",
+          "ka1 fei1 wu1",
+          "bistro"
+        ],
+        [
+          "咖啡馆",
+          "cafétéria",
+          "f.",
+          "fr/11939.mp3",
+          "zh/11939.mp3",
+          "ka1 fei1 guan3",
+          "kafeterja"
         ],
         [
           "咖啡豆",
           "grain de café",
           "m.",
-          "fr/01288.mp3",
-          "zh/01288.mp3",
-          "kā fēi dòu",
-          "grê da kafe"
+          "fr/11940.mp3",
+          "zh/11940.mp3",
+          "ka1 fei1 dou4",
+          "grɛ d(ə) kafe"
         ],
         [
           "咖啡壶",
-          "cafetire ]",
-          "",
-          "fr/01289.mp3",
-          "zh/01289.mp3",
-          "kā fēi hú",
-          "kaftje:r"
+          "cafetière",
+          "f.",
+          "fr/11941.mp3",
+          "zh/11941.mp3",
+          "ka1 fei1 hu2",
+          "kaftjɛ:r"
         ],
         [
           "可可粉",
           "cacao",
           "m.",
-          "fr/01290.mp3",
-          "zh/01290.mp3",
-          "kě kě fěn",
+          "fr/11942.mp3",
+          "zh/11942.mp3",
+          "ke3 ke3 fen3",
           "kakao"
         ],
         [
           "研磨",
           "piler",
-          "",
-          "fr/01291.mp3",
-          "zh/01291.mp3",
-          "yán mó",
+          "v.t.",
+          "fr/11943.mp3",
+          "zh/11943.mp3",
+          "yan2 mo2",
           "pile"
         ],
         [
           "粉末",
           "miette",
-          "",
-          "fr/01292.mp3",
-          "zh/01292.mp3",
-          "fěn mò",
-          "mjct"
+          "f.",
+          "fr/11944.mp3",
+          "zh/11944.mp3",
+          "fen3 mo4",
+          "mjɛt"
         ],
         [
           "咖啡因",
           "caféine",
           "f.",
-          "fr/01293.mp3",
-          "zh/01293.mp3",
-          "kā fēi yīn",
+          "fr/11945.mp3",
+          "zh/11945.mp3",
+          "ka1 fei1 yin1",
           "kafein"
         ],
         [
           "引进",
-          "importer t.",
-          "",
-          "fr/01294.mp3",
-          "zh/01294.mp3",
-          "yǐn jìn",
-          "aporte"
+          "importer",
+          "v.t.",
+          "fr/11946.mp3",
+          "zh/11946.mp3",
+          "yin3 jin4",
+          "ɛ̃pɔrte"
         ],
         [
           "浓的",
           "dense",
-          "",
-          "fr/01295.mp3",
-          "zh/01295.mp3",
-          "nóng de",
-          "däs"
+          "形",
+          "fr/11947.mp3",
+          "zh/11947.mp3",
+          "nong2 de5",
+          "dɑ̃:s"
         ],
         [
           "弥漫",
           "répandre",
-          "",
-          "fr/01296.mp3",
-          "zh/01296.mp3",
-          "mí màn",
-          "repá:dr"
+          "v.t.",
+          "fr/11948.mp3",
+          "zh/11948.mp3",
+          "mi2 man4",
+          "repɑ̃:dr"
         ],
         [
           "强烈的",
-          "intensi",
-          "f",
-          "fr/01297.mp3",
-          "zh/01297.mp3",
-          "qiáng liè de",
-          "&täsif"
+          "intensif",
+          "形",
+          "fr/11949.mp3",
+          "zh/11949.mp3",
+          "qiang2 lie4 de5",
+          "ɛ̃tɑ̃sif"
         ],
         [
           "咖啡定",
           "caféidine",
-          "",
-          "fr/01298.mp3",
-          "zh/01298.mp3",
-          "kā fēi dìng",
+          "f.",
+          "fr/11950.mp3",
+          "zh/11950.mp3",
+          "ka1 fei1 ding4",
           "kafeidin"
         ],
         [
           "咖啡匙",
-          "cuillere a café /.",
-          "",
-          "fr/01299.mp3",
-          "zh/01299.mp3",
-          "kā fēi shi",
-          "kuijerr a kafe"
+          "cuillère à café",
+          "f.",
+          "fr/11951.mp3",
+          "zh/11951.mp3",
+          "ka1 fei1 shi5",
+          "kɥijɛ:r a kafe"
         ],
         [
           "咖啡磨",
-          "moulina café",
+          "moulin à café",
           "m.",
-          "fr/01300.mp3",
-          "zh/01300.mp3",
-          "kā fēi mó",
-          "mult a kafe"
+          "fr/11952.mp3",
+          "zh/11952.mp3",
+          "ka1 fei1 mo2",
+          "mulɛ a kafe"
         ],
         [
           "咖啡醇",
-          "caféone ].",
-          "",
-          "fr/01301.mp3",
-          "zh/01301.mp3",
-          "kā fēi chún",
+          "caféone",
+          "f.",
+          "fr/11953.mp3",
+          "zh/11953.mp3",
+          "ka1 fei1 chun2",
           "kafeon"
         ]
       ],
       "s": [
         [
-          "Les francais sont toujours autant attaches a la tradition du cafe,qui represente a la fois ladetente,le petit plaisir quotidien et la chaleur hu- maine. Les Brésiliens sont pris par le parfum du cacao.A",
-          "法国人永远也离不开咖啡的传统：休闲、日常放松和人间温情。巴西人喜欢可可的香味。",
+          "Les français sont toujours autant attachés à la tradition du café, qui représente à la fois la détente, le petitplaisir quotidien et la chaleur humaine.",
+          "法国人永远也离不开咖啡的传统：休闲、日常放松和人间温情。",
           "",
-          "fr/01302.mp3",
-          "zh/01302.mp3",
-          "fǎ guó rén yǒng yuǎn yě lí bù kāi kā fēi de chuán tǒng xiū xián rì cháng fàng sōng hé rén jiān wēn qíng bā xī rén xǐ huān kě kě de xiāng wèi",
+          "fr/11954.mp3",
+          "zh/11954.mp3",
+          "fa3 guo2 ren2 yong3 yuan3 ye3 li2 bu4 kai1 ka1 fei1 de5 chuan2 tong3 ： xiu1 xian2 、 ri4 chang2 fang4 song1 he2 ren2 jian1 wen1 qing2 。",
           ""
         ],
         [
-          "Les entreprises ont le droit dimporter,et des produits sont exportés principalement en Europe et aux Etats-Unis. X HW.",
-          "企业拥有自营进出口权产品主要出口欧美国家",
+          "Les Brésiliens sont pris par le parfum du cacao.",
+          "巴西人喜欢可可的香味。",
           "",
-          "fr/01303.mp3",
-          "zh/01303.mp3",
-          "qǐ yè yōng yǒu zì yíng jìn chū kǒu quán chǎn pǐn zhǔ yào chū kǒu ōu měi guó jiā",
+          "fr/11955.mp3",
+          "zh/11955.mp3",
+          "ba1 xi1 ren2 xi3 huan1 ke3 ke3 de5 xiang1 wei4 。",
+          ""
+        ],
+        [
+          "Les entreprises ont le droit d'importer, et des produits sont exportés principalement en Europe et auxÉtats-Unis.",
+          "企业拥有自营进出口权，产品主要出口欧美国家。",
+          "",
+          "fr/11956.mp3",
+          "zh/11956.mp3",
+          "qi3 ye4 yong1 you3 zi4 ying2 jin4 chu1 kou3 quan2 ， chan3 pin3 zhu3 yao4 chu1 kou3 ou1 mei3 guo2 jia1 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "autant ady",
-          "",
-          "fr/01304.mp3",
-          "",
-          "",
-          "otä"
+          "同样，同等",
+          "autant",
+          "adv.",
+          "fr/11957.mp3",
+          "zh/11957.mp3",
+          "tong2 yang4 ， tong2 deng3",
+          "otɑ̃"
         ],
         [
-          "同样同等",
-          "",
-          "",
-          "",
-          "zh/01305.mp3",
-          "tóng yàng tóng děng",
-          ""
-        ],
-        [
-          "系",
+          "捆，系",
           "attacher",
-          "vt.",
-          "fr/01306.mp3",
-          "zh/01306.mp3",
-          "xì",
-          "atae"
-        ],
-        [
-          "",
-          "lreprésenter",
-          "",
-          "fr/01307.mp3",
-          "",
-          "",
-          ""
+          "v.t.",
+          "fr/11958.mp3",
+          "zh/11958.mp3",
+          "kun3 ， xi4",
+          "ataʃe"
         ],
         [
           "表现",
-          "",
-          "m",
-          "",
-          "zh/01308.mp3",
-          "biǎo xiàn",
-          "ra)prezäte"
+          "représenter",
+          "v.t.",
+          "fr/11959.mp3",
+          "zh/11959.mp3",
+          "biao3 xian4",
+          "r(ə)prezɑ̃te"
         ],
         [
           "轻松",
           "détente",
-          "nf",
-          "fr/01309.mp3",
-          "zh/01309.mp3",
-          "qīng sōng",
-          "detat"
-        ],
-        [
-          "",
-          "quotidien,ne",
-          "",
-          "fr/01310.mp3",
-          "",
-          "",
-          "kotiden"
+          "n.f.",
+          "fr/11960.mp3",
+          "zh/11960.mp3",
+          "qing1 song1",
+          "detɑ̃:t"
         ],
         [
           "日常的",
-          "",
-          "adj",
-          "",
-          "zh/01311.mp3",
-          "rì cháng de",
-          ""
+          "quotidien, ne",
+          "adj.",
+          "fr/11961.mp3",
+          "zh/11961.mp3",
+          "ri4 chang2 de5",
+          "kɔtidjɛ, ɛn"
         ],
         [
           "权利",
           "droit",
           "n.m.",
-          "fr/01312.mp3",
-          "zh/01312.mp3",
-          "quán lì",
-          "drwaa"
-        ],
-        [
-          "",
-          "principalement",
-          "",
-          "fr/01313.mp3",
-          "",
-          "",
-          ""
+          "fr/11962.mp3",
+          "zh/11962.mp3",
+          "quan2 li4",
+          "drwa(a)"
         ],
         [
           "主要地",
-          "ad",
-          "",
-          "fr/01314.mp3",
-          "zh/01314.mp3",
-          "zhǔ yào dì",
-          "prsipalma"
+          "principalement",
+          "adv.",
+          "fr/11963.mp3",
+          "zh/11963.mp3",
+          "zhu3 yao4 di4",
+          "prɛsipalmɑ̃"
         ]
       ]
     },
     {
       "no": 18,
-      "name": "第18节",
+      "name": "各种咖啡",
       "w": [
         [
           "咖啡",
           "café",
-          "m",
-          "fr/01315.mp3",
-          "zh/01315.mp3",
-          "kā fēi",
+          "m.",
+          "fr/11964.mp3",
+          "zh/11964.mp3",
+          "ka1 fei1",
           "kafe"
         ],
         [
           "冰咖啡",
-          "kocafé glace",
+          "café glacé",
           "m.",
-          "fr/01316.mp3",
-          "zh/01316.mp3",
-          "bīng kā fēi",
+          "fr/11965.mp3",
+          "zh/11965.mp3",
+          "bing1 ka1 fei1",
           "kafe glase"
         ],
         [
           "卡布奇诺",
           "cappuccino",
           "m.",
-          "fr/01317.mp3",
-          "zh/01317.mp3",
-          "kǎ bù qí nuò",
-          "kaputfino"
+          "fr/11966.mp3",
+          "zh/11966.mp3",
+          "ka3 bu4 qi2 nuo4",
+          "kaputʃino"
         ],
         [
           "浓咖啡",
-          "expresso /",
-          "",
-          "fr/01318.mp3",
-          "zh/01318.mp3",
-          "nóng kā fēi",
-          "ekspreso"
+          "expresso",
+          "f.",
+          "fr/11967.mp3",
+          "zh/11967.mp3",
+          "nong2 ka1 fei1",
+          "ɛkspreso"
         ],
         [
           "爱尔兰咖啡",
-          "café irlan dais",
+          "café irlandais",
           "m.",
-          "fr/01319.mp3",
-          "zh/01319.mp3",
-          "ài ěr lán kā fēi",
-          "kafe irláde"
+          "fr/11968.mp3",
+          "zh/11968.mp3",
+          "ai4 er3 lan2 ka1 fei1",
+          "kafe irlɑ̃de"
         ],
         [
           "摩卡",
           "moka",
-          "m",
-          "fr/01320.mp3",
-          "zh/01320.mp3",
-          "mó kǎ",
-          "moka"
+          "m.",
+          "fr/11969.mp3",
+          "zh/11969.mp3",
+          "mo2 ka3",
+          "mɔka"
         ],
         [
           "拿铁",
           "latté",
-          "m",
-          "fr/01321.mp3",
-          "zh/01321.mp3",
-          "ná tiě",
+          "m.",
+          "fr/11970.mp3",
+          "zh/11970.mp3",
+          "na2 tie3",
           "late"
         ],
         [
           "脱脂咖啡",
-          "caféécrémé",
+          "café écrémé",
           "m.",
-          "fr/01322.mp3",
-          "zh/01322.mp3",
-          "tuō zhī kā fēi",
+          "fr/11971.mp3",
+          "zh/11971.mp3",
+          "tuo1 zhi1 ka1 fei1",
           "kafe ekreme"
         ],
         [
           "黑咖啡",
-          "café noir n.",
-          "",
-          "fr/01323.mp3",
-          "zh/01323.mp3",
-          "hēi kā fēi",
+          "café noir",
+          "m.",
+          "fr/11972.mp3",
+          "zh/11972.mp3",
+          "hei1 ka1 fei1",
           "kafe nwa:r"
         ],
         [
           "牛奶咖啡",
-          "h caféau lait",
+          "café au lait",
           "m.",
-          "fr/01324.mp3",
-          "zh/01324.mp3",
-          "niú nǎi kā fēi",
-          "kafe ole"
+          "fr/11973.mp3",
+          "zh/11973.mp3",
+          "niu2 nai3 ka1 fei1",
+          "kafe olɛ"
         ],
         [
           "速溶咖啡",
-          "café instan tané",
-          "m",
-          "fr/01325.mp3",
-          "zh/01325.mp3",
-          "sù róng kā fēi",
-          "kafe &stätane"
+          "café instantané",
+          "m.",
+          "fr/11974.mp3",
+          "zh/11974.mp3",
+          "su4 rong2 ka1 fei1",
+          "kafe ɛ̃s tɑ̃tane"
         ],
         [
           "提神的",
-          "remontant,e",
-          "",
-          "fr/01326.mp3",
-          "zh/01326.mp3",
-          "tí shén de",
-          "r(a)m5tá,á:t"
+          "remontant, e",
+          "形",
+          "fr/11975.mp3",
+          "zh/11975.mp3",
+          "ti2 shen2 de5",
+          "r(ə)mɔ̃tɑ̃, ɑ̃:t"
         ],
         [
-          "普施咖啡咖啡",
-          "pousse café ml. cafe",
-          "",
-          "fr/01327.mp3",
-          "zh/01327.mp3",
-          "pǔ shī kā fēi kā fēi",
+          "普施咖啡",
+          "pousse café",
+          "m.",
+          "fr/11976.mp3",
+          "zh/11976.mp3",
+          "pu3 shi1 ka1 fei1",
           "pus kafe"
-        ],
-        [
-          "餐具",
-          "Section 19",
-          "",
-          "fr/01341.mp3",
-          "zh/01341.mp3",
-          "cān jù",
-          ""
-        ],
-        [
-          "餐具",
-          "couvert",
-          "m.",
-          "fr/01342.mp3",
-          "zh/01342.mp3",
-          "cān jù",
-          "kuve:r"
-        ],
-        [
-          "餐具",
-          "vaisselle",
-          "",
-          "fr/01343.mp3",
-          "zh/01343.mp3",
-          "cān jù",
-          "vesel"
-        ],
-        [
-          "餐具",
-          "service de table",
-          "m.",
-          "fr/01344.mp3",
-          "zh/01344.mp3",
-          "cān jù",
-          "servis d(a)tabl"
-        ],
-        [
-          "餐具架",
-          "dressoir",
-          "m",
-          "fr/01345.mp3",
-          "zh/01345.mp3",
-          "cān jù jià",
-          "dreswair"
-        ],
-        [
-          "刀",
-          "]couteau",
-          "m.",
-          "fr/01346.mp3",
-          "zh/01346.mp3",
-          "dāo",
-          "kuto"
-        ],
-        [
-          "叉",
-          "fourchette",
-          "f.",
-          "fr/01347.mp3",
-          "zh/01347.mp3",
-          "chā",
-          "furfet"
-        ],
-        [
-          "用叉",
-          "enfourcher 1.",
-          "",
-          "fr/01348.mp3",
-          "zh/01348.mp3",
-          "yòng chā",
-          "afurfe"
-        ],
-        [
-          "勺子",
-          "cuillere",
-          "",
-          "fr/01349.mp3",
-          "zh/01349.mp3",
-          "sháo zi",
-          "kuijexr"
-        ],
-        [
-          "筷子",
-          "baguettes ].pl.",
-          "",
-          "fr/01350.mp3",
-          "zh/01350.mp3",
-          "kuài zi",
-          "baget"
-        ],
-        [
-          "碗",
-          "bol",
-          "m.",
-          "fr/01351.mp3",
-          "zh/01351.mp3",
-          "wǎn",
-          "bol"
-        ],
-        [
-          "碟子",
-          "petite assiette /",
-          "",
-          "fr/01352.mp3",
-          "zh/01352.mp3",
-          "dié zi",
-          "pa)tit asjet"
-        ],
-        [
-          "盘子",
-          "plateau",
-          "m",
-          "fr/01353.mp3",
-          "zh/01353.mp3",
-          "pán zi",
-          "plato"
-        ],
-        [
-          "托盘乐",
-          "lechefrite",
-          "f",
-          "fr/01354.mp3",
-          "zh/01354.mp3",
-          "tuō pán lè",
-          "lefrit"
-        ],
-        [
-          "茶托",
-          "soucoupe /.",
-          "",
-          "fr/01355.mp3",
-          "zh/01355.mp3",
-          "chá tuō",
-          "sukup"
-        ],
-        [
-          "罐子",
-          "pot",
-          "m",
-          "fr/01356.mp3",
-          "zh/01356.mp3",
-          "guàn zi",
-          "po"
-        ],
-        [
-          "壶",
-          "théiere",
-          "",
-          "fr/01357.mp3",
-          "zh/01357.mp3",
-          "hú",
-          "tejer"
-        ],
-        [
-          "",
-          "puiser",
-          "",
-          "fr/01358.mp3",
-          "",
-          "",
-          "puize"
-        ],
-        [
-          "桌布",
-          "nappe",
-          "",
-          "fr/01359.mp3",
-          "zh/01359.mp3",
-          "zhuō bù",
-          "nap"
-        ],
-        [
-          "不锈钢",
-          "inox",
-          "m",
-          "fr/01360.mp3",
-          "zh/01360.mp3",
-          "bù xiù gāng",
-          "inoks"
-        ],
-        [
-          "夹起",
-          "presser 1",
-          "",
-          "fr/01361.mp3",
-          "zh/01361.mp3",
-          "jiā qǐ",
-          "pre(e)se"
         ]
       ],
       "s": [
         [
-          "Mon seul plaisir est de boire une tasse de café sans cafeine.-",
+          "Mon seul plaisir est de boire une tasse de café sans caféine.",
           "我唯一的乐趣就是喝一杯咖啡，无咖啡因的。",
           "《老友记》",
-          "fr/01328.mp3",
-          "zh/01328.mp3",
-          "wǒ wéi yī de lè qù jiù shì hē yī bēi kā fēi wú kā fēi yīn de",
+          "fr/11977.mp3",
+          "zh/11977.mp3",
+          "wo3 wei2 yi4 de5 le4 qu4 jiu4 shi4 he1 yi4 bei1 ka1 fei1 ， wu2 ka1 fei1 yin1 de5 。",
           ""
         ],
         [
-          "Donnez-moi une tasse de expresso,sil vous plait.",
-          "请给我来杯浓咖啡。一",
+          "Donnez-moi une tasse d'expresso, s'il vous plaît.",
+          "请给我来杯浓咖啡。",
           "《迷失》",
-          "fr/01329.mp3",
-          "zh/01329.mp3",
-          "qǐng gěi wǒ lái bēi nóng kā fēi yī",
+          "fr/11978.mp3",
+          "zh/11978.mp3",
+          "qing3 gei3 wo3 lai2 bei1 nong2 ka1 fei1 。",
           ""
         ],
         [
-          "Mais a midi, il prend seu lement un sandwich et une tasse de cafe au lait, car il n'a pas le temps de prendre un gros repas.-",
-          "中午他只吃一块三明治，喝一杯牛奶咖啡，因为他没有时间像样地吃顿饭。",
+          "Mais à midi, il prend seulement un sandwich et une tasse de café au lait, car il n'a pas le temps deprendre un gros repas.",
+          "中午，他只吃一块三明治，喝一杯牛奶咖啡，因为他没有时间像样地吃顿饭。",
           "",
-          "fr/01330.mp3",
-          "zh/01330.mp3",
-          "zhōng wǔ tā zhǐ chī yī kuài sān míng zhì hē yī bēi niú nǎi kā fēi yīn wèi tā méi yǒu shí jiān xiàng yàng dì chī dùn fàn",
+          "fr/11979.mp3",
+          "zh/11979.mp3",
+          "zhong1 wu3 ， ta1 zhi3 chi1 yi2 kuai4 san1 ming2 zhi4 ， he1 yi4 bei1 niu2 nai3 ka1 fei1 ， yin1 wei4 ta1 mei2 you3 shi2 jian1 xiang4 yang4 di4 chi1 dun4 fan4 。",
           ""
         ],
         [
           "Ce médicament a un effet remontant.",
           "这种药材有提神的作用。",
           "",
-          "fr/01331.mp3",
-          "zh/01331.mp3",
-          "zhè zhǒng yào cái yǒu tí shén de zuò yòng",
-          ""
-        ],
-        [
-          "Tu me demandes encore de faire la vaisselle,pourtant je I'ai deja faite hier! ,AX!",
-          "我昨天洗过餐具了你今天又让我洗",
-          "",
-          "fr/01362.mp3",
-          "zh/01362.mp3",
-          "wǒ zuó tiān xǐ guò cān jù le nǐ jīn tiān yòu ràng wǒ xǐ",
-          ""
-        ],
-        [
-          "Elle voulait couper les poignets avec une cuillere.",
-          "她想用勺子割破手腕。",
-          "《绝望的主妇》",
-          "fr/01363.mp3",
-          "zh/01363.mp3",
-          "tā xiǎng yòng sháo zi gē pò shǒu wàn",
-          ""
-        ],
-        [
-          "Lentreprise vend le the, les pousses de bambou et la theiere",
-          "本公司主要向外出售茶叶、笋干、外带茶壶。",
-          "",
-          "fr/01364.mp3",
-          "zh/01364.mp3",
-          "běn gōng sī zhǔ yào xiàng wài chū shòu chá yè sǔn gān wài dài chá hú",
-          ""
-        ],
-        [
-          "Il ma invité a prendre un verre.-.",
-          "他邀请我喝一杯",
-          "",
-          "fr/01365.mp3",
-          "zh/01365.mp3",
-          "tā yāo qǐng wǒ hē yī bēi",
-          ""
-        ],
-        [
-          "Disposez les huitres sur un plateau spécial.",
-          "将牡蛎装入一个特殊的托盘中。",
-          "",
-          "fr/01366.mp3",
-          "zh/01366.mp3",
-          "jiāng mǔ lì zhuāng rù yí gè tè shū de tuō pán zhōng",
+          "fr/11980.mp3",
+          "zh/11980.mp3",
+          "zhe4 zhong3 yao4 cai2 you3 ti2 shen2 de5 zuo4 yong4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "plaisir",
-          "n.m",
-          "fr/01332.mp3",
-          "",
-          "",
-          "pleezir"
-        ],
-        [
           "乐趣",
-          "TE",
-          "",
-          "fr/01333.mp3",
-          "zh/01333.mp3",
-          "lè qù",
-          ""
+          "plaisir",
+          "n.m.",
+          "fr/11981.mp3",
+          "zh/11981.mp3",
+          "le4 qu4",
+          "plɛ(ə)zi:r"
         ],
         [
           "杯子",
-          "tasse nf7",
-          "",
-          "fr/01334.mp3",
-          "zh/01334.mp3",
-          "bēi zi",
-          "tas"
+          "tasse",
+          "n.f.",
+          "fr/11982.mp3",
+          "zh/11982.mp3",
+          "bei1 zi5",
+          "ta:s"
         ],
         [
-          "",
-          "seulement ady.",
-          "",
-          "fr/01335.mp3",
-          "",
-          "",
-          "sclmä"
+          "只，仅仅",
+          "seulement",
+          "adv.",
+          "fr/11983.mp3",
+          "zh/11983.mp3",
+          "zhi3 ， jin3 jin3",
+          "sœlmɑ̃"
         ],
         [
-          "只仅仅",
-          "",
-          "",
-          "",
-          "zh/01336.mp3",
-          "zhǐ jǐn jǐn",
-          ""
-        ],
-        [
-          "",
-          "gros,se",
+          "肥胖的，厚的",
+          "gros, se",
           "adj.",
-          "fr/01337.mp3",
-          "",
-          "",
-          "gro,os"
-        ],
-        [
-          "肥胖的厚的",
-          "",
-          "",
-          "",
-          "zh/01338.mp3",
-          "féi pàng de hòu de",
-          ""
-        ],
-        [
-          "",
-          "médicament",
-          "",
-          "fr/01339.mp3",
-          "",
-          "",
-          ""
+          "fr/11984.mp3",
+          "zh/11984.mp3",
+          "fei2 pang4 de5 ， hou4 de5",
+          "gro, o:s"
         ],
         [
           "药材",
-          "",
+          "médicament",
+          "n.m.",
+          "fr/11985.mp3",
+          "zh/11985.mp3",
+          "yao4 cai2",
+          "medikamɑ̃"
+        ]
+      ]
+    },
+    {
+      "no": 19,
+      "name": "餐具",
+      "w": [
+        [
+          "餐具",
+          "couvert",
           "m.",
-          "",
-          "zh/01340.mp3",
-          "yào cái",
-          "medikama"
+          "fr/11986.mp3",
+          "zh/11986.mp3",
+          "can1 ju4",
+          "kuve:r"
         ],
         [
-          "",
-          "demander",
-          "",
-          "fr/01367.mp3",
-          "",
-          "",
-          "d(amäde"
+          "餐具",
+          "vaisselle",
+          "f.",
+          "fr/11987.mp3",
+          "zh/11987.mp3",
+          "can1 ju4",
+          "vesɛl"
         ],
         [
-          "请求要求",
+          "餐具",
+          "service de table",
+          "m.",
+          "fr/11988.mp3",
+          "zh/11988.mp3",
+          "can1 ju4",
+          "sɛrvis d(ə) tabl"
+        ],
+        [
+          "餐具架",
+          "dressoir",
+          "m.",
+          "fr/11989.mp3",
+          "zh/11989.mp3",
+          "can1 ju4 jia4",
+          "drɛswa:r"
+        ],
+        [
+          "刀",
+          "couteau",
+          "m.",
+          "fr/11990.mp3",
+          "zh/11990.mp3",
+          "dao1",
+          "kuto"
+        ],
+        [
+          "叉",
+          "fourchette",
+          "f.",
+          "fr/11991.mp3",
+          "zh/11991.mp3",
+          "cha1",
+          "furʃɛt"
+        ],
+        [
+          "用……叉",
+          "enfoucher",
+          "v.t.",
+          "fr/11992.mp3",
+          "zh/11992.mp3",
+          "yong4 … … cha1",
+          "ɑ̃furʃe"
+        ],
+        [
+          "勺子",
+          "cuillère",
+          "f.",
+          "fr/11993.mp3",
+          "zh/11993.mp3",
+          "shao2 zi5",
+          "kuijɛ:r"
+        ],
+        [
+          "筷子",
+          "baguettes",
+          "f.pl.",
+          "fr/11994.mp3",
+          "zh/11994.mp3",
+          "kuai4 zi5",
+          "bagɛt"
+        ],
+        [
+          "碗",
+          "bol",
+          "m.",
+          "fr/11995.mp3",
+          "zh/11995.mp3",
+          "wan3",
+          "bɔl"
+        ],
+        [
+          "碟子",
+          "petite assiette",
+          "f.",
+          "fr/11996.mp3",
+          "zh/11996.mp3",
+          "die2 zi5",
+          "p(ə)tit asjɛt"
+        ],
+        [
+          "盘子",
+          "plateau",
+          "m.",
+          "fr/11997.mp3",
+          "zh/11997.mp3",
+          "pan2 zi5",
+          "plato"
+        ],
+        [
+          "托盘",
+          "lèchefrite",
+          "f.",
+          "fr/11998.mp3",
+          "zh/11998.mp3",
+          "tuo1 pan2",
+          "lɛʃfrit"
+        ],
+        [
+          "茶托",
+          "soucoupe",
+          "f.",
+          "fr/11999.mp3",
+          "zh/11999.mp3",
+          "cha2 tuo1",
+          "sukup"
+        ],
+        [
+          "罐子",
+          "pot",
+          "m.",
+          "fr/12000.mp3",
+          "zh/12000.mp3",
+          "guan4 zi5",
+          "po"
+        ],
+        [
+          "壶",
+          "théière",
+          "f.",
+          "fr/12001.mp3",
+          "zh/12001.mp3",
+          "hu2",
+          "tejɛ:r"
+        ],
+        [
+          "舀",
+          "puiser",
+          "v.t.",
+          "fr/12002.mp3",
+          "zh/12002.mp3",
+          "yao3",
+          "pɥize"
+        ],
+        [
+          "桌布",
+          "nappe",
+          "f.",
+          "fr/12003.mp3",
+          "zh/12003.mp3",
+          "zhuo1 bu4",
+          "nap"
+        ],
+        [
+          "不锈钢",
+          "inox",
+          "m.",
+          "fr/12004.mp3",
+          "zh/12004.mp3",
+          "bu2 xiu4 gang1",
+          "inɔks"
+        ],
+        [
+          "夹起",
+          "presser",
+          "v.t.",
+          "fr/12005.mp3",
+          "zh/12005.mp3",
+          "jia1 qi3",
+          "prɛ(e)se"
+        ]
+      ],
+      "s": [
+        [
+          "Tu me demandes encore de faire la vaisselle, pourtant je l'ai déjà faite hier!",
+          "我昨天洗过餐具了，你今天又让我洗！",
           "",
-          "",
-          "",
-          "zh/01368.mp3",
-          "qǐng qiú yāo qiú",
+          "fr/12006.mp3",
+          "zh/12006.mp3",
+          "wo3 zuo2 tian1 xi3 guo4 can1 ju4 le5 ， ni3 jin1 tian1 you4 rang4 wo3 xi3 ！",
           ""
+        ],
+        [
+          "Elle voulait couper les poignets avec une cuillère.",
+          "她想用勺子割破手腕。",
+          "《绝望的主妇》",
+          "fr/12007.mp3",
+          "zh/12007.mp3",
+          "ta1 xiang3 yong4 shao2 zi5 ge1 po4 shou3 wan4 。",
+          ""
+        ],
+        [
+          "L'entreprise vend le thé, les pousses de bambou et la théière.",
+          "本公司主要向外出售茶叶、笋干、外带茶壶。",
+          "",
+          "fr/12008.mp3",
+          "zh/12008.mp3",
+          "ben3 gong1 si1 zhu3 yao4 xiang4 wai4 chu1 shou4 cha2 ye4 、 sun3 gan4 、 wai4 dai4 cha2 hu2 。",
+          ""
+        ],
+        [
+          "Il m'a invité à prendre un verre.",
+          "他邀请我喝一杯。",
+          "",
+          "fr/12009.mp3",
+          "zh/12009.mp3",
+          "ta1 yao1 qing3 wo3 he1 yi4 bei1 。",
+          ""
+        ],
+        [
+          "Disposez les huîtres sur un plateau spécial.",
+          "将牡蛎装入一个特殊的托盘中。",
+          "",
+          "fr/12010.mp3",
+          "zh/12010.mp3",
+          "jiang1 mu3 li4 zhuang1 ru4 yi2 ge4 te4 shu1 de5 tuo1 pan2 zhong1 。",
+          ""
+        ]
+      ],
+      "e": [
+        [
+          "请求，要求",
+          "demander",
+          "v.t.",
+          "fr/12011.mp3",
+          "zh/12011.mp3",
+          "qing3 qiu2 ， yao4 qiu2",
+          "d(ə)mɑ̃de"
         ],
         [
           "切割",
           "couper",
-          "vt.",
-          "fr/01369.mp3",
-          "zh/01369.mp3",
-          "qiē gē",
+          "v.t.",
+          "fr/12012.mp3",
+          "zh/12012.mp3",
+          "qie4 ge1",
           "kupe"
         ],
         [
           "手腕",
-          "poignet .",
-          "m.",
-          "fr/01370.mp3",
-          "zh/01370.mp3",
-          "shǒu wàn",
-          "pwane"
+          "poignet",
+          "n.m.",
+          "fr/12013.mp3",
+          "zh/12013.mp3",
+          "shou3 wan4",
+          "pwanɛ"
         ],
         [
           "竹子",
           "bambou",
           "n.m.",
-          "fr/01371.mp3",
-          "zh/01371.mp3",
-          "zhú zi",
-          "bäbu"
-        ],
-        [
-          "壶",
-          "théire",
-          "",
-          "fr/01372.mp3",
-          "zh/01372.mp3",
-          "hú",
-          ""
+          "fr/12014.mp3",
+          "zh/12014.mp3",
+          "zhu2 zi5",
+          "bɑ̃bu"
         ]
       ]
     },
     {
       "no": 20,
-      "name": "第20节",
+      "name": "餐桌",
       "w": [
         [
           "丰盛的",
-          "copieux,se",
-          "",
-          "fr/01373.mp3",
-          "zh/01373.mp3",
-          "fēng shèng de",
-          "kopj,:z"
+          "copieux, se",
+          "形",
+          "fr/12015.mp3",
+          "zh/12015.mp3",
+          "feng1 sheng4 de5",
+          "kɔpjø, ø:z"
         ],
         [
           "简单的",
           "simple",
-          "",
-          "fr/01374.mp3",
-          "zh/01374.mp3",
-          "jiǎn dān de",
-          "s&pl"
+          "形",
+          "fr/12016.mp3",
+          "zh/12016.mp3",
+          "jian3 dan1 de5",
+          "sɛ̃:pl"
         ],
         [
           "礼仪",
-          "X rite",
+          "rite",
           "m.",
-          "fr/01375.mp3",
-          "zh/01375.mp3",
-          "lǐ yí",
+          "fr/12017.mp3",
+          "zh/12017.mp3",
+          "li3 yi2",
           "rit"
         ],
         [
           "合适地",
-          "convenable ment",
-          "",
-          "fr/01376.mp3",
-          "zh/01376.mp3",
-          "hé shì dì",
-          "kvnablamä"
+          "convenablement",
+          "副",
+          "fr/12018.mp3",
+          "zh/12018.mp3",
+          "he2 shi4 di4",
+          "kɔ̃vnablamɑ̃"
         ],
         [
           "不得体的",
-          "Tdéplacé",
-          "",
-          "fr/01377.mp3",
-          "zh/01377.mp3",
-          "bù dé tǐ de",
+          "déplacé",
+          "形",
+          "fr/12019.mp3",
+          "zh/12019.mp3",
+          "bu4 de2 ti3 de5",
           "deplase"
         ],
         [
           "令人满意的",
-          "satisfaisant,e",
-          "",
-          "fr/01378.mp3",
-          "zh/01378.mp3",
-          "lìng rén mǎn yì de",
-          "satisfazä,á:t"
+          "satisfaisant, e",
+          "形",
+          "fr/12020.mp3",
+          "zh/12020.mp3",
+          "ling4 ren2 man3 yi4 de5",
+          "satisfazɑ̃, ɑ̃:t"
         ],
         [
           "摆放",
           "placer",
-          "",
-          "fr/01379.mp3",
-          "zh/01379.mp3",
-          "bǎi fàng",
+          "v.t.",
+          "fr/12021.mp3",
+          "zh/12021.mp3",
+          "bai3 fang4",
           "plase"
         ],
         [
           "弄脏",
           "salir",
-          "",
-          "fr/01380.mp3",
-          "zh/01380.mp3",
-          "nòng zāng",
-          "salir"
+          "v.t.",
+          "fr/12022.mp3",
+          "zh/12022.mp3",
+          "nong4 zang4",
+          "sali:r"
         ],
         [
           "饥饿",
-          "fai",
-          "m",
-          "fr/01381.mp3",
-          "zh/01381.mp3",
-          "jī è",
-          "f"
+          "faim ̃",
+          "f.",
+          "fr/12023.mp3",
+          "zh/12023.mp3",
+          "ji1 e4",
+          "fɛ"
         ],
         [
           "狼吞虎咽",
           "engloutir",
-          "",
-          "fr/01382.mp3",
-          "zh/01382.mp3",
-          "láng tūn hǔ yàn",
-          "áglutir"
+          "v.t.",
+          "fr/12024.mp3",
+          "zh/12024.mp3",
+          "lang2 tun1 hu3 yan4",
+          "ɑ̃gluti:r"
         ],
         [
           "撕开",
           "déchirer",
-          "",
-          "fr/01383.mp3",
-          "zh/01383.mp3",
-          "sī kāi",
-          "defire"
+          "v.t.",
+          "fr/12025.mp3",
+          "zh/12025.mp3",
+          "si1 kai1",
+          "deʃire"
         ],
         [
           "交换位置",
-          "échanger t.",
-          "",
-          "fr/01384.mp3",
-          "zh/01384.mp3",
-          "jiāo huàn wèi zhì",
-          "eá:ze"
+          "échanger",
+          "v.t.",
+          "fr/12026.mp3",
+          "zh/12026.mp3",
+          "jiao1 huan4 wei4 zhi4",
+          "eʃɑ̃:ʒe"
         ],
         [
           "小口地吃",
-          "o siroter",
-          "",
-          "fr/01385.mp3",
-          "zh/01385.mp3",
-          "xiǎo kǒu dì chī",
-          "sirote"
+          "siroter",
+          "v.t.",
+          "fr/12027.mp3",
+          "zh/12027.mp3",
+          "xiao3 kou3 di4 chi1",
+          "siʁɔte"
         ],
         [
           "擦",
           "frotter",
-          "",
-          "fr/01386.mp3",
-          "zh/01386.mp3",
-          "cā",
-          "frote"
+          "v.t.",
+          "fr/12028.mp3",
+          "zh/12028.mp3",
+          "ca1",
+          "frɔte"
         ],
         [
-          "据",
+          "抿",
           "lisser",
-          "",
-          "fr/01387.mp3",
-          "zh/01387.mp3",
-          "jù",
+          "v.t.",
+          "fr/12029.mp3",
+          "zh/12029.mp3",
+          "min3",
           "lise"
         ],
         [
           "满的",
-          "pleine",
-          "",
-          "fr/01388.mp3",
-          "zh/01388.mp3",
-          "mǎn de",
-          "plen"
+          "plein, e",
+          "形",
+          "fr/12030.mp3",
+          "zh/12030.mp3",
+          "man3 de5",
+          "plɛ̃, ɛn"
         ],
         [
-          "可以接受的丰盛的",
-          "accep- table copieux,se",
-          "",
-          "fr/01389.mp3",
-          "zh/01389.mp3",
-          "kě yǐ jiē shòu de fēng shèng de",
-          "akseptabl"
+          "可以接受的",
+          "acceptable",
+          "形",
+          "fr/12031.mp3",
+          "zh/12031.mp3",
+          "ke3 yi3 jie1 shou4 de5",
+          "aksɛptabl"
         ]
       ],
       "s": [
         [
-          "Mon comportement est deplace et immoral,a cet effet,je me repense profondé ment. 1f0",
-          "我的行为是不恰当而且不道德的，我为此深深地杆悔",
+          "Mon comportement est déplacé et immoral, à cet effet, je me repense profondément.",
+          "我的行为是不恰当而且不道德的，我为此深深地忏悔。",
           "《别对我说谎》",
-          "fr/01390.mp3",
-          "zh/01390.mp3",
-          "wǒ de xíng wéi shì bù qià dàng ér qiě bù dào dé de wǒ wèi cǐ shēn shēn dì gān huǐ",
+          "fr/12032.mp3",
+          "zh/12032.mp3",
+          "wo3 de5 xing2 wei4 shi4 bu2 qia4 dang1 er2 qie3 bu2 dao4 de2 de5 ， wo3 wei4 ci3 shen1 shen1 di4 chan4 hui3 。",
           ""
         ],
         [
-          "Elle a tout fait pour réussir, mais le résultat n'est pas satis faisant.",
-          "为了成功她不惜切，结果却不如人意。",
+          "Elle a tout fait pour réussir, mais le résultat n'est pas satisfaisant.",
+          "为了成功她不惜一切，结果却不如人意。",
           "",
-          "fr/01391.mp3",
-          "zh/01391.mp3",
-          "wèi le chéng gōng tā bù xī qiē jié guǒ què bù rú rén yì",
+          "fr/12033.mp3",
+          "zh/12033.mp3",
+          "wei4 le5 cheng2 gong1 ta1 bu4 xi1 yi2 qie4 ， jie2 guo3 que4 bu4 ru2 ren2 yi4 。",
           ""
         ],
         [
           "J'étais aussi heureux de cette couleur de miel.",
           "这蜂蜜般的光泽也使我感到幸福。",
-          "一《小王子》",
-          "fr/01392.mp3",
-          "zh/01392.mp3",
-          "zhè fēng mì bān de guāng zé yě shǐ wǒ gǎn dào xìng fú",
+          "《小王子》",
+          "fr/12034.mp3",
+          "zh/12034.mp3",
+          "zhe4 feng1 mi4 ban1 de5 guang1 ze2 ye3 shi3 wo3 gan3 dao4 xing4 fu2 。",
           ""
         ],
         [
-          "Ma tete est pleineétait plein de l'examen.",
+          "Ma tête est pleine, était plein de l'examen.",
           "我脑袋里满满的，装的全是考试。",
           "",
-          "fr/01393.mp3",
-          "zh/01393.mp3",
-          "wǒ nǎo dài lǐ mǎn mǎn de zhuāng de quán shì kǎo shì",
+          "fr/12035.mp3",
+          "zh/12035.mp3",
+          "wo3 nao3 dai4 li3 man3 man3 de5 ， zhuang1 de5 quan2 shi4 kao3 shi4 。",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "l comportement",
-          "",
-          "fr/01394.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "行为举止",
-          "",
+          "comportement",
           "n.m.",
-          "",
-          "zh/01395.mp3",
-          "xíng wéi jǔ zhǐ",
-          "kšportamá"
-        ],
-        [
-          "",
-          "immoral",
-          "adj",
-          "fr/01396.mp3",
-          "",
-          "",
-          "im(moral"
+          "fr/12036.mp3",
+          "zh/12036.mp3",
+          "xing2 wei4 ju3 zhi3",
+          "kɔ̃pɔrtamɑ̃"
         ],
         [
           "不道德的",
-          "",
-          "",
-          "",
-          "zh/01397.mp3",
-          "bù dào dé de",
-          ""
-        ],
-        [
-          "",
-          "repenser wt",
-          "",
-          "fr/01398.mp3",
-          "",
-          "",
-          "ra)päse"
+          "immoral",
+          "adj.",
+          "fr/12037.mp3",
+          "zh/12037.mp3",
+          "bu2 dao4 de2 de5",
+          "im(m)ɔral"
         ],
         [
           "重新考虑",
-          "",
-          "",
-          "",
-          "zh/01399.mp3",
-          "chóng xīn kǎo lǜ",
-          ""
-        ],
-        [
-          "",
-          "profondément",
-          "",
-          "fr/01400.mp3",
-          "",
-          "",
-          ""
+          "repenser",
+          "v.t.",
+          "fr/12038.mp3",
+          "zh/12038.mp3",
+          "zhong4 xin1 kao3 lv4",
+          "r(ə)pɑ̃se"
         ],
         [
           "深深地",
-          "ad",
-          "",
-          "fr/01401.mp3",
-          "zh/01401.mp3",
-          "shēn shēn dì",
-          "prof5demá"
-        ],
-        [
-          "",
-          "heureux,se",
-          "",
-          "fr/01402.mp3",
-          "",
-          "",
-          "xr,z"
+          "profondément",
+          "adv.",
+          "fr/12039.mp3",
+          "zh/12039.mp3",
+          "shen1 shen1 di4",
+          "prɔfɔ̃demɑ̃"
         ],
         [
           "幸福的",
-          "acj.",
-          "",
-          "fr/01403.mp3",
-          "zh/01403.mp3",
-          "xìng fú de",
-          ""
+          "heureux, se",
+          "adj.",
+          "fr/12040.mp3",
+          "zh/12040.mp3",
+          "xing4 fu2 de5",
+          "œrø, øz"
         ]
       ]
     },
     {
       "no": 21,
-      "name": "第21节",
+      "name": "不同的杯子",
       "w": [
         [
           "杯子",
           "coupe",
-          "",
-          "fr/01404.mp3",
-          "zh/01404.mp3",
-          "bēi zi",
+          "f.",
+          "fr/12041.mp3",
+          "zh/12041.mp3",
+          "bei1 zi5",
           "kup"
         ],
         [
           "马克杯",
           "gobelet",
           "m.",
-          "fr/01405.mp3",
-          "zh/01405.mp3",
-          "mǎ kè bēi",
-          "goble"
+          "fr/12042.mp3",
+          "zh/12042.mp3",
+          "ma3 ke4 bei1",
+          "gɔble"
         ],
         [
           "玻璃马克杯",
           "gobelet verre",
           "m.",
-          "fr/01406.mp3",
-          "zh/01406.mp3",
-          "bō lí mǎ kè bēi",
-          "goble ve:r"
+          "fr/12043.mp3",
+          "zh/12043.mp3",
+          "bo1 li2 ma3 ke4 bei1",
+          "gɔble vɛ:r"
         ],
         [
           "咖啡杯",
-          "tasse a cafe /.",
-          "",
-          "fr/01407.mp3",
-          "zh/01407.mp3",
-          "kā fēi bēi",
+          "tasse à café",
+          "f.",
+          "fr/12044.mp3",
+          "zh/12044.mp3",
+          "ka1 fei1 bei1",
           "ta:s a kafe"
         ],
         [
           "相配的",
-          "coordonné,e",
-          "",
-          "fr/01408.mp3",
-          "zh/01408.mp3",
-          "xiāng pèi de",
-          "koordone"
+          "coordonné, e",
+          "形",
+          "fr/12045.mp3",
+          "zh/12045.mp3",
+          "xiang1 pei4 de5",
+          "kɔɔrdɔne"
         ],
         [
           "啤酒杯",
-          "tasse de biere .",
-          "",
-          "fr/01409.mp3",
-          "zh/01409.mp3",
-          "pí jiǔ bēi",
-          "tars dabier"
+          "tasse de bière",
+          "f.",
+          "fr/12046.mp3",
+          "zh/12046.mp3",
+          "pi2 jiu3 bei1",
+          "ta:s d(ə) bjɛ:r"
         ],
         [
           "玻璃杯",
           "verre",
-          "m",
-          "fr/01410.mp3",
-          "zh/01410.mp3",
-          "bō lí bēi",
-          "ver"
+          "m.",
+          "fr/12047.mp3",
+          "zh/12047.mp3",
+          "bo1 li2 bei1",
+          "vɛ:r"
         ],
         [
-          "糖瓷",
+          "搪瓷",
           "émail",
-          "m",
-          "fr/01411.mp3",
-          "zh/01411.mp3",
-          "táng cí",
+          "m.",
+          "fr/12048.mp3",
+          "zh/12048.mp3",
+          "tang2 ci2",
           "emaj"
         ],
         [
           "瓷制品",
-          "céramique J.",
-          "",
-          "fr/01412.mp3",
-          "zh/01412.mp3",
-          "cí zhì pǐn",
+          "céramique",
+          "f.",
+          "fr/12049.mp3",
+          "zh/12049.mp3",
+          "ci2 zhi4 pin3",
           "seramik"
         ],
         [
-          "高脚杯高脚杯",
-          "verre a pied flate",
-          "",
-          "fr/01413.mp3",
-          "zh/01413.mp3",
-          "gāo jiǎo bēi gāo jiǎo bēi",
-          "ve:r a pje"
+          "高脚杯",
+          "verre à pied",
+          "m.",
+          "fr/12050.mp3",
+          "zh/12050.mp3",
+          "gao1 jiao3 bei1",
+          "vɛ:r a pje"
+        ],
+        [
+          "高脚杯",
+          "flûte",
+          "f.",
+          "fr/12051.mp3",
+          "zh/12051.mp3",
+          "gao1 jiao3 bei1",
+          "flyt"
         ],
         [
           "盖子",
           "couvercle",
           "m.",
-          "fr/01414.mp3",
-          "zh/01414.mp3",
-          "gài zi",
+          "fr/12052.mp3",
+          "zh/12052.mp3",
+          "gai4 zi5",
           "kuverkl"
         ],
         [
           "小垫子",
           "coussinet",
           "m.",
-          "fr/01415.mp3",
-          "zh/01415.mp3",
-          "xiǎo diàn zi",
-          "kusine"
+          "fr/12053.mp3",
+          "zh/12053.mp3",
+          "xiao3 dian4 zi5",
+          "kusinɛ"
         ],
         [
-          "运动水壶杯子",
-          "kbouteille de sport #coupe",
-          "",
-          "fr/01416.mp3",
-          "zh/01416.mp3",
-          "yùn dòng shuǐ hú bēi zi",
-          "butej da spo:r"
+          "运动水壶",
+          "bouteille de sport",
+          "f.",
+          "fr/12054.mp3",
+          "zh/12054.mp3",
+          "yun4 dong4 shui3 hu2",
+          "butɛj d(ə) spɔ:r"
         ]
       ],
       "s": [
         [
-          "Ce serait une bonne idée,il est proche du gobelet.",
+          "Ce serait une bonne idée, il est proche du gobelet.",
           "这倒是个好主意，离马克杯比较近。",
-          "一《老友记》",
-          "fr/01417.mp3",
-          "zh/01417.mp3",
-          "zhè dǎo shì gè hǎo zhǔ yì lí mǎ kè bēi bǐ jiào jìn",
-          ""
-        ],
-        [
-          "Je ne peux vraiment pas supporter que tout le monde est optimiste de voir une de- mi-tasse d'eau dans la coupe.",
-          "我真受不了每个人都乐观地看待杯子里的半杯水。",
-          "一《绝望的主妇》",
-          "fr/01418.mp3",
-          "zh/01418.mp3",
-          "wǒ zhēn shòu bù liǎo měi gè rén dōu lè guān dì kàn dài bēi zi lǐ de bàn bēi shuǐ",
-          ""
-        ],
-        [
-          "Qui oublie d'utiliser un collssinet?",
-          "谁忘记用杯垫了",
           "《老友记》",
-          "fr/01419.mp3",
-          "zh/01419.mp3",
-          "shuí wàng jì yòng bēi diàn le",
+          "fr/12055.mp3",
+          "zh/12055.mp3",
+          "zhe4 dao4 shi4 ge4 hao3 zhu3 yi4 ， li2 ma3 ke4 bei1 bi3 jiao4 jin4 。",
           ""
         ],
         [
-          "La société est spécialisée dans le developpement et la production de ce verre de spé- cialite.+",
+          "Je ne peux vraiment pas supporter que tout le monde est optimiste de voir une demi-tasse d'eau dans lacoupe.",
+          "我真受不了每个人都乐观地看待杯子里的半杯水。",
+          "《绝望的主妇》",
+          "fr/12056.mp3",
+          "zh/12056.mp3",
+          "wo3 zhen1 shou4 bu4 le5 mei3 ge4 ren2 dou1 le4 guan1 di4 kan4 dai4 bei1 zi5 li3 de5 ban4 bei1 shui3 。",
+          ""
+        ],
+        [
+          "Qui oublie d'utiliser un coussinet?",
+          "谁忘记用杯垫了？",
+          "《老友记》",
+          "fr/12057.mp3",
+          "zh/12057.mp3",
+          "shui2 wang4 ji4 yong4 bei1 dian4 le5 ？",
+          ""
+        ],
+        [
+          "La société est spécialisée dans le développement et la production de ce verre de spécialité.",
           "本公司专门从事特种玻璃的研制、生产。",
           "",
-          "fr/01420.mp3",
-          "zh/01420.mp3",
-          "běn gōng sī zhuān mén cóng shì tè zhǒng bō lí de yán zhì shēng chǎn",
+          "fr/12058.mp3",
+          "zh/12058.mp3",
+          "ben3 gong1 si1 zhuan1 men2 cong2 shi4 te4 zhong3 bo1 li2 de5 yan2 zhi4 、 sheng1 chan3 。",
           ""
         ]
       ],
       "e": [
         [
           "邻近的",
-          "proche[pro",
-          "adj",
-          "fr/01421.mp3",
-          "zh/01421.mp3",
-          "lín jìn de",
-          ""
-        ],
-        [
-          "",
-          "supporter",
-          "vt",
-          "fr/01422.mp3",
-          "",
-          "",
-          "syporte"
+          "proche",
+          "adj.",
+          "fr/12059.mp3",
+          "zh/12059.mp3",
+          "lin2 jin4 de5",
+          "prɔʃ"
         ],
         [
           "支持支撑",
-          "",
-          "",
-          "",
-          "zh/01423.mp3",
-          "zhī chí zhī chēng",
-          ""
-        ],
-        [
-          "",
-          "optimiste",
-          "adj",
-          "fr/01424.mp3",
-          "",
-          "",
-          "ptimist"
+          "supporter",
+          "v.t.",
+          "fr/12060.mp3",
+          "zh/12060.mp3",
+          "zhi1 chi2 zhi1 cheng1",
+          "sypɔrte"
         ],
         [
           "乐观的",
-          "",
-          "",
-          "",
-          "zh/01425.mp3",
-          "lè guān de",
-          ""
+          "optimiste",
+          "adj.",
+          "fr/12061.mp3",
+          "zh/12061.mp3",
+          "le4 guan1 de5",
+          "ɔptimist"
         ],
         [
-          "忘记",
-          "oublier wt.",
-          "",
-          "fr/01426.mp3",
-          "zh/01426.mp3",
-          "wàng jì",
+          "忘记，遗忘",
+          "oublier",
+          "v.t.",
+          "fr/12062.mp3",
+          "zh/12062.mp3",
+          "wang4 ji4 ， yi2 wang4",
           "ublije"
         ],
         [
-          "遗忘",
-          "ME",
-          "",
-          "fr/01427.mp3",
-          "zh/01427.mp3",
-          "yí wàng",
-          ""
-        ],
-        [
-          "",
-          "spécialisé,e",
-          "",
-          "fr/01428.mp3",
-          "",
-          "",
+          "专业的",
+          "spécialisé, e",
+          "adj.",
+          "fr/12063.mp3",
+          "zh/12063.mp3",
+          "zhuan1 ye4 de5",
           "spesjalize"
         ],
         [
-          "专业的",
-          "",
-          "adj.",
-          "",
-          "zh/01429.mp3",
-          "zhuān yè de",
-          ""
-        ],
-        [
-          "",
-          "développement",
-          "",
-          "fr/01430.mp3",
-          "",
-          "",
-          ""
-        ],
-        [
           "发展",
-          "",
-          "n.m",
-          "",
-          "zh/01431.mp3",
-          "fā zhǎn",
-          "devlopmä"
+          "développement",
+          "n.m.",
+          "fr/12064.mp3",
+          "zh/12064.mp3",
+          "fa1 zhan3",
+          "devlɔpmɑ̃"
         ]
       ]
     },
     {
       "no": 22,
-      "name": "第22节",
+      "name": "休闲小食",
       "w": [
         [
           "小吃",
-          "]z snack",
+          "snack",
           "m.",
-          "fr/01432.mp3",
-          "zh/01432.mp3",
-          "xiǎo chī",
+          "fr/12065.mp3",
+          "zh/12065.mp3",
+          "xiao3 chi1",
           "snak"
         ],
         [
           "点心",
-          "gateau",
-          "m",
-          "fr/01433.mp3",
-          "zh/01433.mp3",
-          "diǎn xīn",
+          "gâteau",
+          "m.",
+          "fr/12066.mp3",
+          "zh/12066.mp3",
+          "dian3 xin1",
           "gato"
         ],
         [
           "酥脆的",
-          "croustillant,e",
-          "",
-          "fr/01434.mp3",
-          "zh/01434.mp3",
-          "sū cuì de",
-          "krustijá, át"
+          "croustillant, e",
+          "形",
+          "fr/12067.mp3",
+          "zh/12067.mp3",
+          "su1 cui4 de5",
+          "krustijɑ̃, ɑ̃t"
         ],
         [
           "混杂的",
-          "hetérogene",
-          "",
-          "fr/01435.mp3",
-          "zh/01435.mp3",
-          "hùn zá de",
-          "eter33en"
+          "hétérogène",
+          "形",
+          "fr/12068.mp3",
+          "zh/12068.mp3",
+          "hun4 za2 de5",
+          "etɛrɔʒɛn"
         ],
         [
           "混合物",
-          "melange",
+          "mélangé",
           "m.",
-          "fr/01436.mp3",
-          "zh/01436.mp3",
-          "hùn hé wù",
-          "meláze"
+          "fr/12069.mp3",
+          "zh/12069.mp3",
+          "hun4 he2 wu4",
+          "melɑ̃ʒe"
         ],
         [
           "坚果",
-          "fruits coque in.",
-          "",
-          "fr/01437.mp3",
-          "zh/01437.mp3",
-          "jiān guǒ",
-          "frui a kok"
+          "fruits à coque",
+          "inv.",
+          "fr/12070.mp3",
+          "zh/12070.mp3",
+          "jian1 guo3",
+          "frɥi a kɔk"
         ],
         [
           "少量",
-          ">faible",
-          "",
-          "fr/01438.mp3",
-          "zh/01438.mp3",
-          "shǎo liàng",
-          "febl"
+          "faible",
+          "形",
+          "fr/12071.mp3",
+          "zh/12071.mp3",
+          "shao3 liang4",
+          "fɛbl"
         ],
         [
           "含果肉的",
-          "pulpeuxeuse",
-          "",
-          "fr/01439.mp3",
-          "zh/01439.mp3",
-          "hán guǒ ròu de",
-          "pylp,:z"
+          "pulpeux, euse",
+          "形",
+          "fr/12072.mp3",
+          "zh/12072.mp3",
+          "han2 guo3 rou4 de5",
+          "pylpø, ø:z"
         ],
         [
           "葡萄干",
           "raisins secs",
           "m.",
-          "fr/01440.mp3",
-          "zh/01440.mp3",
-          "pú táo gān",
-          "rez sek"
+          "fr/12073.mp3",
+          "zh/12073.mp3",
+          "pu2 tao2 gan4",
+          "rɛzɛ̃ sɛk"
         ],
         [
           "花籽",
           "graine de tournesol",
-          "",
-          "fr/01441.mp3",
-          "zh/01441.mp3",
-          "huā zǐ",
-          "gre(e)ne d(aturnasol"
+          "f.",
+          "fr/12074.mp3",
+          "zh/12074.mp3",
+          "hua1 zi3",
+          "grɛ(ɛ)ne d(ə) turnasɔl"
         ],
         [
           "米花",
           "pop-corn",
           "m.",
-          "fr/01442.mp3",
-          "zh/01442.mp3",
-          "mǐ huā",
-          "pop korn"
+          "fr/12075.mp3",
+          "zh/12075.mp3",
+          "mi3 hua1",
+          "pɔpkɔrn"
         ],
         [
           "果冻",
           "gelée",
-          "",
-          "fr/01443.mp3",
-          "zh/01443.mp3",
-          "guǒ dòng",
-          "3ale"
+          "f.",
+          "fr/12076.mp3",
+          "zh/12076.mp3",
+          "guo3 dong4",
+          "ʒ(ə)le"
         ],
         [
           "开心果",
-          "pistache /.",
-          "",
-          "fr/01444.mp3",
-          "zh/01444.mp3",
-          "kāi xīn guǒ",
-          "pista"
+          "pistache",
+          "f.",
+          "fr/12077.mp3",
+          "zh/12077.mp3",
+          "kai1 xin1 guo3",
+          "pistaʃ"
         ],
         [
           "花生",
-          "arachide /.",
-          "",
-          "fr/01445.mp3",
-          "zh/01445.mp3",
-          "huā shēng",
-          "arafid"
+          "arachide",
+          "f.",
+          "fr/12078.mp3",
+          "zh/12078.mp3",
+          "hua1 sheng1",
+          "araʃid"
         ],
         [
           "糖果",
           "bonbon",
           "m.",
-          "fr/01446.mp3",
-          "zh/01446.mp3",
-          "táng guǒ",
-          "bšb5"
+          "fr/12079.mp3",
+          "zh/12079.mp3",
+          "tang2 guo3",
+          "bɔ̃bɔ̃"
         ],
         [
           "夹心糖",
           "bonbon fourré",
           "m.",
-          "fr/01447.mp3",
-          "zh/01447.mp3",
-          "jiā xīn táng",
-          "bšb5 fure"
+          "fr/12080.mp3",
+          "zh/12080.mp3",
+          "jia1 xin1 tang2",
+          "bɔ̃bɔ̃ fure"
         ],
         [
           "布丁",
-          "Tflan",
-          "m",
-          "fr/01448.mp3",
-          "zh/01448.mp3",
-          "bù dīng",
-          "fla"
+          "flan",
+          "m.",
+          "fr/12081.mp3",
+          "zh/12081.mp3",
+          "bu4 ding1",
+          "flɑ̃"
         ]
       ],
       "s": [
         [
-          "Ahohon voit bien que c'est pas toi qui est allergique aux arachides,hein., X",
-          "是啊是啊对花生过敏的又不是你",
+          "Ah, oh, on voit bien que c'est pas toi qui est allergique aux arachides, hein.",
+          "是啊，是啊，对花生过敏的又不是你。",
           "",
-          "fr/01449.mp3",
-          "zh/01449.mp3",
-          "shì a shì a duì huā shēng guò mǐn de yòu bú shì nǐ",
+          "fr/12082.mp3",
+          "zh/12082.mp3",
+          "shi4 a5 ， shi4 a5 ， dui4 hua1 sheng1 guo4 min3 de5 you4 bu2 shi4 ni3 。",
           ""
         ],
         [
-          "Le mot bonbonest em- prunte au langage des enfants banbon Cette année,les arbres fruitiers peuvent &tre affectés par les dégats du gel. XZ. Pensent-ils vraiment que le flan est un légume? 11WT-?",
-          "糖果这个词是从儿语中借用过来的。今年果树可能受了霜冻之害难道他们真的认为布丁是一种蔬菜吗",
+          "Le mot \"bonbon\" est emprunté au langage des enfants \"banbon\". \"",
+          "糖果\" 这个词是从儿语中借用过来的。",
+          "",
+          "fr/12083.mp3",
+          "zh/12083.mp3",
+          "tang2 guo3 \"   zhe4 ge4 ci2 shi4 cong2 er2 yu3 zhong1 jie4 yong4 guo4 lai2 de5 。",
+          ""
+        ],
+        [
+          "Cette année, les arbres fruitiers peuvent être affectés par les dégâts du gel.",
+          "今年果树可能受了霜冻之害。",
+          "",
+          "fr/12084.mp3",
+          "zh/12084.mp3",
+          "jin1 nian2 guo3 shu4 ke3 neng2 shou4 le5 shuang1 dong4 zhi1 hai4 。",
+          ""
+        ],
+        [
+          "Pensent-ils vraiment que le flan est un légume?",
+          "难道他们真的认为布丁是一种蔬菜吗？",
           "《英雄》",
-          "fr/01450.mp3",
-          "zh/01450.mp3",
-          "táng guǒ zhè ge cí shì cóng ér yǔ zhōng jiè yòng guò lái de jīn nián guǒ shù kě néng shòu le shuāng dòng zhī hài nán dào tā men zhēn de rèn wéi bù dīng shì yī zhǒng shū cài ma",
+          "fr/12085.mp3",
+          "zh/12085.mp3",
+          "nan2 dao4 ta1 men5 zhen1 de5 ren4 wei4 bu4 ding1 shi4 yi4 zhong3 shu1 cai4 ma5 ？",
           ""
         ]
       ],
       "e": [
         [
-          "",
-          "allergique",
-          "adj",
-          "fr/01451.mp3",
-          "",
-          "",
-          "alerzik"
-        ],
-        [
           "过敏的",
-          "",
-          "",
-          "",
-          "zh/01452.mp3",
-          "guò mǐn de",
-          ""
-        ],
-        [
-          "",
-          "fruitier",
-          "n.m",
-          "fr/01453.mp3",
-          "",
-          "",
-          "fruitje"
+          "allergique",
+          "adj.",
+          "fr/12086.mp3",
+          "zh/12086.mp3",
+          "guo4 min3 de5",
+          "alɛrʒik"
         ],
         [
           "果园",
-          "RE",
-          "",
-          "fr/01454.mp3",
-          "zh/01454.mp3",
-          "guǒ yuán",
-          ""
-        ],
-        [
-          "坚果",
-          "fruits a coque",
-          "",
-          "fr/01455.mp3",
-          "zh/01455.mp3",
-          "jiān guǒ",
-          ""
+          "fruitier",
+          "n.m.",
+          "fr/12087.mp3",
+          "zh/12087.mp3",
+          "guo3 yuan2",
+          "frɥitje"
         ]
       ]
     },
     {
       "no": 23,
-      "name": "第23节",
+      "name": "饼干",
       "w": [
         [
           "饼干",
-          "tbiscuit",
-          "m",
-          "fr/01456.mp3",
-          "zh/01456.mp3",
-          "bǐng gān",
-          "biskui"
+          "biscuit",
+          "m.",
+          "fr/12088.mp3",
+          "zh/12088.mp3",
+          "bing3 gan4",
+          "biskɥi"
         ],
         [
           "压缩饼干",
           "biscuit comprimé",
           "m.",
-          "fr/01457.mp3",
-          "zh/01457.mp3",
-          "yā suō bǐng gān",
-          "biskyi kšprime"
+          "fr/12089.mp3",
+          "zh/12089.mp3",
+          "ya1 suo1 bing3 gan4",
+          "biskɥi kɔ̃prime"
         ],
         [
           "消化饼干",
-          "bis cuit digestif",
+          "biscuit digestif",
           "m.",
-          "fr/01458.mp3",
-          "zh/01458.mp3",
-          "xiāo huà bǐng gān",
-          "biskui dizestif"
+          "fr/12090.mp3",
+          "zh/12090.mp3",
+          "xiao1 hua4 bing3 gan4",
+          "biskɥi diʒɛstif"
         ],
         [
           "曲奇饼干",
           "cookie",
           "m.",
-          "fr/01459.mp3",
-          "zh/01459.mp3",
-          "qū qí bǐng gān",
+          "fr/12091.mp3",
+          "zh/12091.mp3",
+          "qu1 qi2 bing3 gan4",
           "kuki"
         ],
         [
           "饼干盒",
-          "tboite a biscuit",
+          "boîte à biscuit",
           "m.",
-          "fr/01460.mp3",
-          "zh/01460.mp3",
-          "bǐng gān hé",
-          "bwat a biskyi"
+          "fr/12092.mp3",
+          "zh/12092.mp3",
+          "bing3 gan4 he2",
+          "bwat a biskɥi"
         ],
         [
           "华夫饼",
           "gaufre",
-          "m",
-          "fr/01461.mp3",
-          "zh/01461.mp3",
-          "huá fū bǐng",
-          "gofre"
+          "m.",
+          "fr/12093.mp3",
+          "zh/12093.mp3",
+          "hua2 fu1 bing3",
+          "gofrə"
         ],
         [
           "威化饼",
-          "f gaufrette .",
-          "",
-          "fr/01462.mp3",
-          "zh/01462.mp3",
-          "wēi huà bǐng",
-          "gofret"
+          "gaufrette",
+          "f.",
+          "fr/12094.mp3",
+          "zh/12094.mp3",
+          "wei1 hua4 bing3",
+          "gofrɛt"
         ],
         [
           "薄饼干",
           "cracker",
           "m.",
-          "fr/01463.mp3",
-          "zh/01463.mp3",
-          "báo bǐng gàn",
-          "krakxr"
+          "fr/12095.mp3",
+          "zh/12095.mp3",
+          "bao2 bing3 gan4",
+          "krakœr"
         ],
         [
           "福饼",
           "donut",
-          "",
-          "fr/01464.mp3",
-          "zh/01464.mp3",
-          "fú bǐng",
-          "d5ny"
+          "f.",
+          "fr/12096.mp3",
+          "zh/12096.mp3",
+          "fu2 bing3",
+          "dɔny"
         ],
         [
           "椒盐脆饼干",
           "bretzel",
           "m.",
-          "fr/01465.mp3",
-          "zh/01465.mp3",
-          "jiāo yán cuì bǐng gān",
-          "bredzel"
+          "fr/12097.mp3",
+          "zh/12097.mp3",
+          "jiao1 yan2 cui4 bing3 gan4",
+          "bredzɛl"
         ],
         [
           "碎屑",
           "claste",
-          "f",
-          "fr/01466.mp3",
-          "zh/01466.mp3",
-          "suì xiè",
+          "f.",
+          "fr/12098.mp3",
+          "zh/12098.mp3",
+          "sui4 xie4",
           "klast"
         ],
         [
           "咸的",
           "salé",
-          "",
-          "fr/01467.mp3",
-          "zh/01467.mp3",
-          "xián de",
+          "形",
+          "fr/12099.mp3",
+          "zh/12099.mp3",
+          "xian2 de5",
           "sale"
         ],
         [
           "无味道的",
           "insipide",
-          "",
-          "fr/01468.mp3",
-          "zh/01468.mp3",
-          "wú wèi dào de",
-          "&sipid"
+          "形",
+          "fr/12100.mp3",
+          "zh/12100.mp3",
+          "wu2 wei4 dao4 de5",
+          "ɛsipid"
         ],
         [
           "皮塔饼",
           "pita",
           "m.",
-          "fr/01469.mp3",
-          "zh/01469.mp3",
-          "pí tǎ bǐng",
+          "fr/12101.mp3",
+          "zh/12101.mp3",
+          "pi2 ta3 bing3",
           "pita"
         ],
         [
           "蛋挞",
-          "tarte tart",
-          "",
-          "fr/01470.mp3",
-          "zh/01470.mp3",
-          "dàn tà",
-          ""
+          "tarte",
+          "f.",
+          "fr/12102.mp3",
+          "zh/12102.mp3",
+          "dan4 ta4",
+          "tart"
         ],
         [
-          "苹果派网食园饼干",
-          "tarte aux pommes R AO biscuit",
-          "",
-          "fr/01471.mp3",
-          "zh/01471.mp3",
-          "píng guǒ pài wǎng shí yuán bǐng gān",
-          "tart o pom"
+          "苹果派",
+          "tarte aux pommes",
+          "f.",
+          "fr/12103.mp3",
+          "zh/12103.mp3",
+          "ping2 guo3 pai4",
+          "tart o pɔm"
         ]
       ],
       "s": [
         [
-          "Lorigine du mot biscuit vient du temps des marins au Moyen-age.",
-          "饼干这个词的来源可以追溯到中世纪航海时代。",
+          "L'origine du mot biscuit vient du temps des marins au Moyen-âge. \"",
+          "饼干\" 这个词的来源可以追溯到中世纪航海时代。",
           "",
-          "fr/01472.mp3",
-          "zh/01472.mp3",
-          "bǐng gān zhè ge cí de lái yuán kě yǐ zhuī sù dào zhōng shì jì háng hǎi shí dài",
+          "fr/12104.mp3",
+          "zh/12104.mp3",
+          "bing3 gan4 \"   zhe4 ge4 ci2 de5 lai2 yuan2 ke3 yi3 zhui1 su4 dao4 zhong1 shi4 ji4 hang2 hai3 shi2 dai4 。",
           ""
         ],
         [
-          "Le mélange sucré-salé est tout a fait acceptable pour une patisserie chinoise. -W",
-          "中国人制作糕点，甜味和咸味掺合在一起完全是可以的",
+          "Le mélange sucré-salé est tout à fait acceptable pour une pâtisserie chinoise.",
+          "中国人制作糕点，甜味和咸味掺合在一起完全是可以的。",
           "",
-          "fr/01473.mp3",
-          "zh/01473.mp3",
-          "zhōng guó rén zhì zuò gāo diǎn tián wèi hé xián wèi càn hé zài yì qǐ wán quán shì kě yǐ de",
+          "fr/12105.mp3",
+          "zh/12105.mp3",
+          "zhong1 guo2 ren2 zhi4 zuo4 gao1 dian3 ， tian2 wei4 he2 xian2 wei4 can4 he2 zai4 yi4 qi3 wan2 quan2 shi4 ke3 yi3 de5 。",
           ""
         ],
         [
-          "La vérité de la vie est ca- chée dans l'insipide plaine. z+.",
-          "人生的真理，只是藏在平淡无味之中",
+          "La vérité de la vie est cachée dans l'insipide plaine.",
+          "人生的真理，只是藏在平淡无味之中。",
           "",
-          "fr/01474.mp3",
-          "zh/01474.mp3",
-          "rén shēng de zhēn lǐ zhǐ shì cáng zài píng dàn wú wèi zhī zhōng",
+          "fr/12106.mp3",
+          "zh/12106.mp3",
+          "ren2 sheng1 de5 zhen1 li3 ， zhi3 shi4 cang2 zai4 ping2 dan4 wu2 wei4 zhi1 zhong1 。",
           ""
         ],
         [
-          "Ce plat est un peu trop salé.T",
-          "这个菜太咸了",
+          "Ce plat est un peu trop salé.",
+          "这个菜太咸了。",
           "",
-          "fr/01475.mp3",
-          "zh/01475.mp3",
-          "zhè ge cài tài xián le",
+          "fr/12107.mp3",
+          "zh/12107.mp3",
+          "zhe4 ge4 cai4 tai4 xian2 le5 。",
           ""
         ]
       ],
@@ -7569,372 +5690,309 @@ window.BOOK_DATA[1] = {
         [
           "字词",
           "mot",
-          "m",
-          "fr/01476.mp3",
-          "zh/01476.mp3",
-          "zì cí",
+          "n.m.",
+          "fr/12108.mp3",
+          "zh/12108.mp3",
+          "zi4 ci2",
           "mo"
         ],
         [
-          "",
-          "marin,e",
-          "adj",
-          "fr/01477.mp3",
-          "",
-          "",
-          "mar,in"
-        ],
-        [
           "海生的",
-          "",
-          "",
-          "",
-          "zh/01478.mp3",
-          "hǎi shēng de",
-          ""
+          "marin, e",
+          "adj.",
+          "fr/12109.mp3",
+          "zh/12109.mp3",
+          "hai3 sheng1 de5",
+          "marɛ̃, in"
         ],
         [
-          "",
+          "混合，搀和",
           "mélange",
           "n.m.",
-          "fr/01479.mp3",
-          "",
-          "",
-          "melä3"
-        ],
-        [
-          "混合擦和",
-          "",
-          "",
-          "",
-          "zh/01480.mp3",
-          "hùn hé cā hé",
-          ""
-        ],
-        [
-          "",
-          "acceptable",
-          "",
-          "fr/01481.mp3",
-          "",
-          "",
-          "akseptabl"
+          "fr/12110.mp3",
+          "zh/12110.mp3",
+          "hun4 he2 ， chan1 he2",
+          "melɑ̃:"
         ],
         [
           "可以接受的",
-          "",
-          "adj",
-          "",
-          "zh/01482.mp3",
-          "kě yǐ jiē shòu de",
-          ""
+          "acceptable",
+          "adj.",
+          "fr/12111.mp3",
+          "zh/12111.mp3",
+          "ke3 yi3 jie1 shou4 de5",
+          "aksɛptabl"
         ],
         [
-          "",
-          "patisserien",
-          "",
-          "fr/01483.mp3",
-          "",
-          "",
-          "paatisri"
-        ],
-        [
-          "糕点糕点制作法",
-          "",
-          "",
-          "",
-          "zh/01484.mp3",
-          "gāo diǎn gāo diǎn zhì zuò fǎ",
-          ""
+          "糕点，糕点制作法",
+          "pâtisserie",
+          "n.f.",
+          "fr/12112.mp3",
+          "zh/12112.mp3",
+          "gao1 dian3 ， gao1 dian3 zhi4 zuo4 fa3",
+          "pa(a)tisri"
         ],
         [
           "真理",
           "vérité",
-          "f",
-          "fr/01485.mp3",
-          "zh/01485.mp3",
-          "zhēn lǐ",
+          "n.f.",
+          "fr/12113.mp3",
+          "zh/12113.mp3",
+          "zhen1 li3",
           "verite"
         ],
         [
           "平原",
           "plaine",
-          "nf",
-          "fr/01486.mp3",
-          "zh/01486.mp3",
-          "píng yuán",
+          "n.f.",
+          "fr/12114.mp3",
+          "zh/12114.mp3",
+          "ping2 yuan2",
           "plen"
         ]
       ]
     },
     {
       "no": 24,
-      "name": "第24节",
+      "name": "食物保存",
       "w": [
         [
           "冷藏",
-          "réfrigération /.",
-          "",
-          "fr/01487.mp3",
-          "zh/01487.mp3",
-          "lěng cáng",
-          "refrizera(a)sj5"
+          "réfrigération",
+          "f.",
+          "fr/12115.mp3",
+          "zh/12115.mp3",
+          "leng3 cang2",
+          "refriʒera(ɑ)sjɔ̃"
         ],
         [
           "解冻",
           "dégel",
-          "m",
-          "fr/01488.mp3",
-          "zh/01488.mp3",
-          "jiě dòng",
-          "dezel"
+          "m.",
+          "fr/12116.mp3",
+          "zh/12116.mp3",
+          "jie3 dong4",
+          "deʒɛl"
         ],
         [
-          "加热泡菜",
-          "chauffeof] variant",
-          "",
-          "fr/01489.mp3",
-          "zh/01489.mp3",
-          "jiā rè pào cài",
-          "varjä"
+          "加热",
+          "chauffe",
+          "f.",
+          "fr/12117.mp3",
+          "zh/12117.mp3",
+          "jia1 re4",
+          "ʃo:f"
+        ],
+        [
+          "泡菜",
+          "variant",
+          "f.",
+          "fr/12118.mp3",
+          "zh/12118.mp3",
+          "pao4 cai4",
+          "varjɑ̃"
         ],
         [
           "装袋",
           "ensachage",
           "m.",
-          "fr/01490.mp3",
-          "zh/01490.mp3",
-          "zhuāng dài",
-          "ásafa:3"
+          "fr/12119.mp3",
+          "zh/12119.mp3",
+          "zhuang1 dai4",
+          "ɑ̃saʃa:ʒ"
         ],
         [
           "脱水",
-          "k déshydratation /",
-          "",
-          "fr/01491.mp3",
-          "zh/01491.mp3",
-          "tuō shuǐ",
-          "dezidratasj5"
+          "déshydratation",
+          "f.",
+          "fr/12120.mp3",
+          "zh/12120.mp3",
+          "tuo1 shui3",
+          "dezidratasjɔ̃"
         ],
         [
           "灭菌",
-          "stériliser t.",
-          "",
-          "fr/01492.mp3",
-          "zh/01492.mp3",
-          "miè jūn",
+          "stériliser",
+          "v.t.",
+          "fr/12121.mp3",
+          "zh/12121.mp3",
+          "mie4 jun1",
           "sterilize"
         ],
         [
           "使变干",
-          "dessécher t",
-          "",
-          "fr/01493.mp3",
-          "zh/01493.mp3",
-          "shǐ biàn gàn",
-          "desee"
+          "dessécher",
+          "v.t.",
+          "fr/12122.mp3",
+          "zh/12122.mp3",
+          "shi3 bian4 gan4",
+          "deseʃe"
         ],
         [
           "风干",
-          "secheal'air",
-          "",
-          "fr/01494.mp3",
-          "zh/01494.mp3",
-          "fēng gān",
-          "see a lexr"
+          "séché à l'air",
+          "—",
+          "fr/12123.mp3",
+          "zh/12123.mp3",
+          "feng1 gan4",
+          "seʃe a lɛ:r"
         ],
         [
           "储存",
-          "amasser t.",
-          "",
-          "fr/01495.mp3",
-          "zh/01495.mp3",
-          "chǔ cún",
+          "amasser",
+          "v.t.",
+          "fr/12124.mp3",
+          "zh/12124.mp3",
+          "chu3 cun2",
           "amase"
         ],
         [
           "烟熏",
           "fumer",
-          "",
-          "fr/01496.mp3",
-          "zh/01496.mp3",
-          "yān xūn",
+          "v.t.",
+          "fr/12125.mp3",
+          "zh/12125.mp3",
+          "yan1 xun1",
           "fyme"
         ],
         [
           "新鲜的",
-          "frais.fraiche",
-          "",
-          "fr/01497.mp3",
-          "zh/01497.mp3",
-          "xīn xiān de",
-          "fre,fre"
+          "frais, fraîche",
+          "形",
+          "fr/12126.mp3",
+          "zh/12126.mp3",
+          "xin1 xian1 de5",
+          "frɛ, frɛʃ"
         ],
         [
           "防腐剂",
           "préservateur",
           "m.",
-          "fr/01498.mp3",
-          "zh/01498.mp3",
-          "fáng fǔ jì",
-          "prezervatx:r"
+          "fr/12127.mp3",
+          "zh/12127.mp3",
+          "fang2 fu3 ji4",
+          "prezervatœ:r"
         ],
         [
           "不新鲜的",
-          "Trassise",
-          "",
-          "fr/01499.mp3",
-          "zh/01499.mp3",
-          "bù xīn xiān de",
+          "rassis, e",
+          "形",
+          "fr/12128.mp3",
+          "zh/12128.mp3",
+          "bu4 xin1 xian1 de5",
           "rasi, iz"
         ],
         [
           "添加剂",
           "additif",
-          "m",
-          "fr/01500.mp3",
-          "zh/01500.mp3",
-          "tiān jiā jì",
+          "m.",
+          "fr/12129.mp3",
+          "zh/12129.mp3",
+          "tian1 jia1 ji4",
           "aditif"
         ],
         [
           "食品添加剂",
-          "additif alimentaire laditif alimátesr]",
+          "additif alimentaire",
           "m.",
-          "fr/01501.mp3",
-          "zh/01501.mp3",
-          "shí pǐn tiān jiā jì",
-          ""
+          "fr/12130.mp3",
+          "zh/12130.mp3",
+          "shi2 pin3 tian1 jia1 ji4",
+          "aditif alimɑ̃tɛ:r"
         ]
       ],
       "s": [
         [
-          "La Sociéte est une entreprise integrée qui a une collection d'activités telles que l'élevage, I'abattage, la transformation, la réfrigeration et la vente de bovins et de moutons. +I A- AAN.",
-          "本公司是集牛羊饲养屠宰加工冷冻销售商贸为一体的综合性企业",
+          "La Société est une entreprise intégrée qui a une collection d'activités telles que l'élevage, l'abattage, latransformation, la réfrigération et la vente de bovins et de moutons.",
+          "本公司是集牛羊饲养、屠宰、加工、冷冻、销售、商贸为一体的综合性企业。",
           "",
-          "fr/01502.mp3",
-          "zh/01502.mp3",
-          "běn gōng sī shì jí niú yáng sì yǎng tú zǎi jiā gōng lěng dòng xiāo shòu shāng mào wèi yī tǐ de zōng hé xìng qǐ yè",
+          "fr/12131.mp3",
+          "zh/12131.mp3",
+          "ben3 gong1 si1 shi4 ji2 niu2 yang2 si4 yang3 、 tu2 zai3 、 jia1 gong1 、 leng3 dong4 、 xiao1 shou4 、 shang1 mao4 wei4 yi4 ti3 de5 zong1 he2 xing4 qi3 ye4 。",
           ""
         ],
         [
-          "Percer le dessus de pe- tits trous pour laisser l'air s'échapper, sinon elle risque de se gonfler et de se dessecher. LA",
-          "为让空气溢出，在饼上戳几个小孔否则的活有可能会膨胀和干燥。",
+          "Percer le dessus de petits trous pour laisser l'air s'échapper, sinon elle risque de se gonfler et de sedessécher.",
+          "为让空气溢出，在饼上戳几个小孔，否则的话，有可能会膨胀和干燥。",
           "",
-          "fr/01503.mp3",
-          "zh/01503.mp3",
-          "wèi ràng kōng qì yì chū zài bǐng shàng chuō jǐ gè xiǎo kǒng fǒu zé de huó yǒu kě néng huì péng zhàng hé gān zào",
+          "fr/12132.mp3",
+          "zh/12132.mp3",
+          "wei4 rang4 kong1 qi4 yi4 chu1 ， zai4 bing3 shang4 chuo1 ji3 ge4 xiao3 kong3 ， fou3 ze2 de5 hua4 ， you3 ke3 neng2 hui4 peng2 zhang4 he2 gan4 zao4 。",
           ""
         ],
         [
-          "Cest I'automne maintenant. Il fait frais. Le soleil est frais et doux au matin, chaud et sec á midi, mais le soleil splendide disparait tres vite au crépuscule o#. XX",
-          "现在是秋天了天气转凉了早上的阳光清凉柔和，中午的阳光又热又干伤晚的阳光艳丽却会很快消失。",
+          "C'est l'automne maintenant. Il fait frais. Le soleil est frais et doux au matin, chaud et sec à midi, mais lesoleil splendide disparaît très vite au crépuscule.",
+          "现在是秋天了。天气转凉了。早上的阳光清凉柔和，中午的阳光又热又干，傍晚的阳光艳丽却会很快消失。",
           "",
-          "fr/01504.mp3",
-          "zh/01504.mp3",
-          "xiàn zài shì qiū tiān le tiān qì zhuǎn liáng le zǎo shàng de yáng guāng qīng liáng róu hé zhōng wǔ de yáng guāng yòu rè yòu gàn shāng wǎn de yáng guāng yàn lì què huì hěn kuài xiāo shī",
+          "fr/12133.mp3",
+          "zh/12133.mp3",
+          "xian4 zai4 shi4 qiu1 tian1 le5 。 tian1 qi4 zhuan3 liang2 le5 。 zao3 shang4 de5 yang2 guang1 qing1 liang2 rou2 he2 ， zhong1 wu3 de5 yang2 guang1 you4 re4 you4 gan4 ， bang4 wan3 de5 yang2 guang1 yan4 li4 que4 hui4 hen3 kuai4 xiao1 shi1 。",
           ""
         ]
       ],
       "e": [
         [
-          "公司",
-          "société nf.,",
-          "",
-          "fr/01505.mp3",
-          "zh/01505.mp3",
-          "gōng sī",
-          "sosjete"
-        ],
-        [
-          "团体",
-          "IA",
-          "",
-          "fr/01506.mp3",
-          "zh/01506.mp3",
-          "tuán tǐ",
-          ""
-        ],
-        [
-          "",
-          "intégré,e ad.",
-          "",
-          "fr/01507.mp3",
-          "",
-          "",
-          "tegre"
+          "公司，团体",
+          "société",
+          "n.f.",
+          "fr/12134.mp3",
+          "zh/12134.mp3",
+          "gong1 si1 ， tuan2 ti3",
+          "sɔsjete"
         ],
         [
           "综合处理的",
-          "",
-          "",
-          "",
-          "zh/01508.mp3",
-          "zōng hé chǔ lǐ de",
-          ""
+          "intégré, e",
+          "adj.",
+          "fr/12135.mp3",
+          "zh/12135.mp3",
+          "zong1 he2 chu4 li3 de5",
+          "ɛ̃tegre"
         ],
         [
-          "",
+          "收集品，征集",
           "collection",
-          "",
-          "fr/01509.mp3",
-          "",
-          "",
-          "kol)leksj5"
-        ],
-        [
-          "收集品征集",
-          "",
-          "",
-          "",
-          "zh/01510.mp3",
-          "shōu jí pǐn zhēng jí",
-          ""
+          "n.f.",
+          "fr/12136.mp3",
+          "zh/12136.mp3",
+          "shou1 ji2 pin3 ， zheng1 ji2",
+          "kɔ(l)leksjɔ̃"
         ],
         [
           "活力",
-          "activitén",
-          "",
-          "fr/01511.mp3",
-          "zh/01511.mp3",
-          "huó lì",
+          "activité",
+          "n.f.",
+          "fr/12137.mp3",
+          "zh/12137.mp3",
+          "huo2 li4",
           "aktivite"
         ],
         [
           "钻",
-          "percer w.",
-          "",
-          "fr/01512.mp3",
-          "zh/01512.mp3",
-          "zuān",
+          "percer",
+          "v.t.",
+          "fr/12138.mp3",
+          "zh/12138.mp3",
+          "zuan1",
           "perse"
         ],
         [
           "使充气",
-          "gonfler w",
-          "",
-          "fr/01513.mp3",
-          "zh/01513.mp3",
-          "shǐ chōng qì",
-          "gšfle"
-        ],
-        [
-          "",
-          "Zsplendide",
-          "adj.",
-          "fr/01514.mp3",
-          "",
-          "",
-          "splädid"
+          "gonfler",
+          "v.t.",
+          "fr/12139.mp3",
+          "zh/12139.mp3",
+          "shi3 chong1 qi4",
+          "gɔ̃fle"
         ],
         [
           "灿烂的",
-          "",
-          "",
-          "",
-          "zh/01515.mp3",
-          "càn làn de",
-          ""
+          "splendide",
+          "adj.",
+          "fr/12140.mp3",
+          "zh/12140.mp3",
+          "can4 lan4 de5",
+          "splɑ̃did"
         ]
       ]
     }
