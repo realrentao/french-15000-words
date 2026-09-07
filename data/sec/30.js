@@ -1,5 +1,5 @@
 window.BOOK_DATA = window.BOOK_DATA || {};
-window.BOOK_DATA[30] = {
+window.BOOK_DATA[30] ={
   "gid": 30,
   "no": "1",
   "name": "在医院",
@@ -25,7 +25,7 @@ window.BOOK_DATA[30] = {
           "fr/13942.mp3",
           "zh/13942.mp3",
           "tài yáng xué",
-          "[tɑ̃:p]"
+          "[tɑ̃p]"
         ],
         [
           "眼",
@@ -142,7 +142,7 @@ window.BOOK_DATA[30] = {
           "fr/13955.mp3",
           "zh/13955.mp3",
           "zǔi chún",
-          "[lɛ:vr]"
+          "[lɛvr]"
         ],
         [
           "舌头",
@@ -151,7 +151,7 @@ window.BOOK_DATA[30] = {
           "fr/13956.mp3",
           "zh/13956.mp3",
           "shé tóu",
-          "[lɑ̃:g]"
+          "[lɑ̃g]"
         ],
         [
           "牙齿",
@@ -178,7 +178,7 @@ window.BOOK_DATA[30] = {
           "fr/13959.mp3",
           "zh/13959.mp3",
           "mén yá",
-          "[ɛ̃sizi:v]"
+          "[ɛ̃siziv]"
         ],
         [
           "耳朵",
@@ -214,7 +214,7 @@ window.BOOK_DATA[30] = {
           "fr/13963.mp3",
           "zh/13963.mp3",
           "yǎn pí",
-          "[popjɛ:r]"
+          "[popjɛr]"
         ],
         [
           "眼眶",
@@ -232,7 +232,7 @@ window.BOOK_DATA[30] = {
           "fr/13965.mp3",
           "zh/13965.mp3",
           "yǎn qiú",
-          "[glɔb ɔkylɛ:r]"
+          "[glɔb ɔkylɛr]"
         ],
         [
           "瞳孔",
@@ -250,7 +250,7 @@ window.BOOK_DATA[30] = {
           "fr/13967.mp3",
           "zh/13967.mp3",
           "hé",
-          "[maʃwa:r]"
+          "[maʃwar]"
         ]
       ],
       "s": [
@@ -326,7 +326,7 @@ window.BOOK_DATA[30] = {
           "fr/13975.mp3",
           "zh/13975.mp3",
           "xīn líng ， líng hún",
-          "[a:m]"
+          "[am]"
         ],
         [
           "骑兵",
@@ -350,7 +350,7 @@ window.BOOK_DATA[30] = {
           "fr/13977.mp3",
           "zh/13977.mp3",
           "shēn tǐ",
-          "[kɔ:r]"
+          "[kɔr]"
         ],
         [
           "头",
@@ -404,7 +404,7 @@ window.BOOK_DATA[30] = {
           "fr/13983.mp3",
           "zh/13983.mp3",
           "shǒu zhǎng",
-          "[po:m]"
+          "[pom]"
         ],
         [
           "大拇指",
@@ -440,7 +440,7 @@ window.BOOK_DATA[30] = {
           "fr/13987.mp3",
           "zh/13987.mp3",
           "wú míng zhǐ",
-          "[anylɛ:r]"
+          "[anylɛr]"
         ],
         [
           "脚",
@@ -458,7 +458,7 @@ window.BOOK_DATA[30] = {
           "fr/13989.mp3",
           "zh/13989.mp3",
           "tǔi",
-          "[ʒɑ̃:b]"
+          "[ʒɑ̃b]"
         ],
         [
           "胳膊",
@@ -485,7 +485,7 @@ window.BOOK_DATA[30] = {
           "fr/13992.mp3",
           "zh/13992.mp3",
           "jiān bǎng",
-          "[epo:l]"
+          "[epol]"
         ],
         [
           "腹部",
@@ -494,7 +494,7 @@ window.BOOK_DATA[30] = {
           "fr/13993.mp3",
           "zh/13993.mp3",
           "fù bù",
-          "[vɑ̃:tr]"
+          "[vɑ̃tr]"
         ],
         [
           "腰部",
@@ -503,7 +503,7 @@ window.BOOK_DATA[30] = {
           "fr/13994.mp3",
           "zh/13994.mp3",
           "yāo bù",
-          "[lɔ̃:b]"
+          "[lɔ̃b]"
         ],
         [
           "髋部",
@@ -512,7 +512,7 @@ window.BOOK_DATA[30] = {
           "fr/13995.mp3",
           "zh/13995.mp3",
           "kuān bù",
-          "[ɑ̃:ʃ]"
+          "[ɑ̃ʃ]"
         ],
         [
           "背部",
@@ -606,7 +606,7 @@ window.BOOK_DATA[30] = {
           "fr/14005.mp3",
           "zh/14005.mp3",
           "yì shí",
-          "[kɔ̃sjɑ̃:s]"
+          "[kɔ̃sjɑ̃s]"
         ],
         [
           "激情",
@@ -624,7 +624,7 @@ window.BOOK_DATA[30] = {
           "fr/14007.mp3",
           "zh/14007.mp3",
           "yě rén",
-          "[sova:ʒ]"
+          "[sovaʒ]"
         ],
         [
           "宁愿，宁可",
@@ -657,7 +657,7 @@ window.BOOK_DATA[30] = {
           "fr/14010.mp3",
           "zh/14010.mp3",
           "xiǎo tǔi",
-          "[ʒɑ̃:b]"
+          "[ʒɑ̃b]"
         ],
         [
           "大腿",
@@ -738,7 +738,7 @@ window.BOOK_DATA[30] = {
           "fr/14019.mp3",
           "zh/14019.mp3",
           "zhī",
-          "[mɑ̃:br]"
+          "[mɑ̃br]"
         ],
         [
           "肋骨",
@@ -747,7 +747,7 @@ window.BOOK_DATA[30] = {
           "fr/14020.mp3",
           "zh/14020.mp3",
           "lē gǔ",
-          "[ko:t]"
+          "[kot]"
         ],
         [
           "颅骨",
@@ -765,7 +765,7 @@ window.BOOK_DATA[30] = {
           "fr/14022.mp3",
           "zh/14022.mp3",
           "ruǎn gǔ",
-          "[kartila:ʒ]"
+          "[kartilaʒ]"
         ],
         [
           "肌肉",
@@ -1202,7 +1202,7 @@ window.BOOK_DATA[30] = {
           "fr/14069.mp3",
           "zh/14069.mp3",
           "rèn zhī de",
-          "[kɔgnitif, iv]"
+          "[kɔɲitif]"
         ],
         [
           "推理",
@@ -1325,7 +1325,7 @@ window.BOOK_DATA[30] = {
           "fr/14082.mp3",
           "zh/14082.mp3",
           "jiāo lǜ de",
-          "[ɑ̃ksjø, ø:z]"
+          "[ɑ̃ksjø, øz]"
         ],
         [
           "焦虑的",
@@ -1338,12 +1338,12 @@ window.BOOK_DATA[30] = {
         ],
         [
           "虚弱的",
-          "cathérétique",
+          "cachectique",
           "adj.",
           "fr/14084.mp3",
           "zh/14084.mp3",
           "xū ruò de",
-          "[katritik]"
+          "[kaʃɛktik]"
         ],
         [
           "恢复体力",
@@ -1370,7 +1370,7 @@ window.BOOK_DATA[30] = {
           "fr/14087.mp3",
           "zh/14087.mp3",
           "jīng lì chōng pèi de",
-          "[aktif, i:v]"
+          "[aktif, iv]"
         ],
         [
           "使忧愁",
@@ -1428,7 +1428,7 @@ window.BOOK_DATA[30] = {
           "fr/14093.mp3",
           "zh/14093.mp3",
           "huài de",
-          "[mɔ(o)vɛ, ɛ:z]"
+          "[mɔ(o)vɛ, ɛz]"
         ],
         [
           "不可分割的",
@@ -1479,7 +1479,7 @@ window.BOOK_DATA[30] = {
           "fr/14098.mp3",
           "zh/14098.mp3",
           "zhèng zhuàng",
-          "[sɛ̃pto:m]"
+          "[sɛ̃ptom]"
         ],
         [
           "脉搏",
@@ -1533,7 +1533,7 @@ window.BOOK_DATA[30] = {
           "fr/14104.mp3",
           "zh/14104.mp3",
           "kāi yào fāng",
-          "[prɛskri:r]"
+          "[prɛskrir]"
         ],
         [
           "明确地",
@@ -1578,7 +1578,7 @@ window.BOOK_DATA[30] = {
           "fr/14109.mp3",
           "zh/14109.mp3",
           "chū bù de",
-          "[preliminɛ:r]"
+          "[preliminɛr]"
         ],
         [
           "服用",
@@ -1587,7 +1587,7 @@ window.BOOK_DATA[30] = {
           "fr/14110.mp3",
           "zh/14110.mp3",
           "fú yòng",
-          "[prɑ̃:dr]"
+          "[prɑ̃dr]"
         ],
         [
           "治疗",
@@ -1614,7 +1614,7 @@ window.BOOK_DATA[30] = {
           "fr/14113.mp3",
           "zh/14113.mp3",
           "zhì liáo",
-          "[geri:r]"
+          "[gerir]"
         ],
         [
           "针灸",
@@ -1623,7 +1623,7 @@ window.BOOK_DATA[30] = {
           "fr/14114.mp3",
           "zh/14114.mp3",
           "zhēn jiǔ",
-          "[akypɔ̃kty:r]"
+          "[akypɔ̃ktyr]"
         ]
       ],
       "s": [
@@ -1672,7 +1672,7 @@ window.BOOK_DATA[30] = {
           "fr/14119.mp3",
           "zh/14119.mp3",
           "chuán rǎn de",
-          "[kɔ̃taʒjø, ø:z]"
+          "[kɔ̃taʒjø, øz]"
         ],
         [
           "奇怪的",
@@ -1681,7 +1681,7 @@ window.BOOK_DATA[30] = {
           "fr/14120.mp3",
           "zh/14120.mp3",
           "qí guài de",
-          "[biza:r]"
+          "[bizar]"
         ]
       ]
     },
@@ -1813,7 +1813,7 @@ window.BOOK_DATA[30] = {
           "fr/14134.mp3",
           "zh/14134.mp3",
           "jí zhěn kē",
-          "[servis de yrʒɑ̃:s]"
+          "[servis de yrʒɑ̃s]"
         ],
         [
           "手术室",
@@ -1840,7 +1840,7 @@ window.BOOK_DATA[30] = {
           "fr/14137.mp3",
           "zh/14137.mp3",
           "hòu zhěn shì",
-          "[salɔ̃ datɑ̃:t]"
+          "[salɔ̃ datɑ̃t]"
         ]
       ],
       "s": [
@@ -1907,7 +1907,7 @@ window.BOOK_DATA[30] = {
           "fr/14144.mp3",
           "zh/14144.mp3",
           "qīng shǎo nián",
-          "[adɔle(ɑ̃)sɑ̃, ɑ̃:t]"
+          "[adɔle(ɑ̃)sɑ̃, ɑ̃t]"
         ],
         [
           "免疫的",
@@ -1949,7 +1949,7 @@ window.BOOK_DATA[30] = {
           "fr/14148.mp3",
           "zh/14148.mp3",
           "huà yàn",
-          "[anali:z ʃimik]"
+          "[analiz ʃimik]"
         ],
         [
           "验血",
@@ -1958,7 +1958,7 @@ window.BOOK_DATA[30] = {
           "fr/14149.mp3",
           "zh/14149.mp3",
           "yàn xuè",
-          "[anali:z dy sɑ̃]"
+          "[analiz dy sɑ̃]"
         ],
         [
           "抽取",
@@ -1985,7 +1985,7 @@ window.BOOK_DATA[30] = {
           "fr/14152.mp3",
           "zh/14152.mp3",
           "hóng xuè qiú",
-          "[glɔbyl ru:ʒ dy sɑ̃]"
+          "[glɔbyl ruʒ dy sɑ̃]"
         ],
         [
           "细胞",
@@ -2012,7 +2012,7 @@ window.BOOK_DATA[30] = {
           "fr/14155.mp3",
           "zh/14155.mp3",
           "zǒng zhí",
-          "[valœ:r tɔtal]"
+          "[valœr tɔtal]"
         ],
         [
           "血小板",
@@ -2039,7 +2039,7 @@ window.BOOK_DATA[30] = {
           "fr/14158.mp3",
           "zh/14158.mp3",
           "hán liàng",
-          "[tənœ:r]"
+          "[tənœr]"
         ],
         [
           "体积",
@@ -2179,12 +2179,12 @@ window.BOOK_DATA[30] = {
         ],
         [
           "感染性",
-          "septicite",
+          "septicité",
           "f.",
           "fr/14173.mp3",
           "zh/14173.mp3",
           "gǎn rǎn xìng",
-          "[septisite]"
+          "[sɛptisite]"
         ],
         [
           "测量",
@@ -2202,7 +2202,7 @@ window.BOOK_DATA[30] = {
           "fr/14175.mp3",
           "zh/14175.mp3",
           "tǐ wēn",
-          "[tãperaty:r]"
+          "[tãperatyr]"
         ],
         [
           "体温计",
@@ -2256,7 +2256,7 @@ window.BOOK_DATA[30] = {
           "fr/14181.mp3",
           "zh/14181.mp3",
           "zhe liáng",
-          "[prã:dr frwa(ə)]"
+          "[prãdr frwa(ə)]"
         ],
         [
           "发汗",
@@ -2283,7 +2283,7 @@ window.BOOK_DATA[30] = {
           "fr/14184.mp3",
           "zh/14184.mp3",
           "yán zhòng de",
-          "[gra:v]"
+          "[grav]"
         ],
         [
           "严重的",
@@ -2301,7 +2301,7 @@ window.BOOK_DATA[30] = {
           "fr/14186.mp3",
           "zh/14186.mp3",
           "qīng wēi de",
-          "[leʒe, ɛ:r]"
+          "[leʒe, ɛr]"
         ],
         [
           "稍稍",
@@ -2856,7 +2856,7 @@ window.BOOK_DATA[30] = {
           "fr/14245.mp3",
           "zh/14245.mp3",
           "shòu zhé mó zhě",
-          "[marti:r]"
+          "[martir]"
         ]
       ]
     },
@@ -2871,7 +2871,7 @@ window.BOOK_DATA[30] = {
           "fr/14246.mp3",
           "zh/14246.mp3",
           "ái",
-          "[kɑ̃se:r]"
+          "[kɑ̃ser]"
         ],
         [
           "中风",
@@ -2916,7 +2916,7 @@ window.BOOK_DATA[30] = {
           "fr/14251.mp3",
           "zh/14251.mp3",
           "fèi jié hé",
-          "[tybɛrkylo:z pylmɔnɛ:r]"
+          "[tybɛrkyloz pylmɔnɛr]"
         ],
         [
           "白血病",
@@ -2934,7 +2934,7 @@ window.BOOK_DATA[30] = {
           "fr/14253.mp3",
           "zh/14253.mp3",
           "pò shāng fēng",
-          "[tetano:s]"
+          "[tetanos]"
         ],
         [
           "精神病",
@@ -2943,7 +2943,7 @@ window.BOOK_DATA[30] = {
           "fr/14254.mp3",
           "zh/14254.mp3",
           "jīng shén bìng",
-          "[psiko:z]"
+          "[psikoz]"
         ],
         [
           "瘫痪",
@@ -2970,7 +2970,7 @@ window.BOOK_DATA[30] = {
           "fr/14257.mp3",
           "zh/14257.mp3",
           "zhǒng liú",
-          "[tymœ:r]"
+          "[tymœr]"
         ],
         [
           "良性的",
@@ -2988,7 +2988,7 @@ window.BOOK_DATA[30] = {
           "fr/14259.mp3",
           "zh/14259.mp3",
           "è xìng de",
-          "[pɛrnisjø, ø:z]"
+          "[pɛrnisjø, øz]"
         ],
         [
           "心脏病",
@@ -3006,7 +3006,7 @@ window.BOOK_DATA[30] = {
           "fr/14261.mp3",
           "zh/14261.mp3",
           "yí chuán de",
-          "[ereditɛ:r]"
+          "[ereditɛr]"
         ]
       ],
       "s": [
@@ -3073,7 +3073,7 @@ window.BOOK_DATA[30] = {
           "fr/14268.mp3",
           "zh/14268.mp3",
           "qīng xiàng",
-          "[tɑ̃dɑ̃:s]"
+          "[tɑ̃dɑ̃s]"
         ],
         [
           "致癌的",
@@ -3471,12 +3471,12 @@ window.BOOK_DATA[30] = {
         ],
         [
           "当归",
-          "liguistique",
+          "ligustique",
           "f.",
           "fr/14311.mp3",
           "zh/14311.mp3",
           "dāng gūi",
-          "[ligistik]"
+          "[liɡystik]"
         ],
         [
           "鹿茸",
@@ -3838,7 +3838,7 @@ window.BOOK_DATA[30] = {
           "fr/14349.mp3",
           "zh/14349.mp3",
           "shǒu shù yī",
-          "[bluːzno ɔperatwar]"
+          "[bluz ɔperatwaʁ]"
         ],
         [
           "手术",
