@@ -90,7 +90,7 @@
     });
   }
 
-  /* ---------- 目录（篇 → Partie → Sección） ---------- */
+  /* ---------- 目录（篇 → Partie → Section） ---------- */
   function renderToc() {
     var toc = el("toc"), h = "";
     META.grupos.forEach(function (gr, gi) {
