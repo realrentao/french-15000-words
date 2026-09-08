@@ -25,7 +25,7 @@ window.BOOK_DATA[33] = {
           "fr/14600.mp3",
           "zh/14600.mp3",
           "fēn chā",
-          "[bifyrka(ə)sjɔ̃]"
+          "[bifyʁka(ə)sjɔ̃]"
         ],
         [
           "头皮屑",
@@ -52,7 +52,7 @@ window.BOOK_DATA[33] = {
           "fr/14603.mp3",
           "zh/14603.mp3",
           "duǎn de",
-          "[kur, t]"
+          "[kuʁ, t]"
         ],
         [
           "秃的",
@@ -97,7 +97,7 @@ window.BOOK_DATA[33] = {
           "fr/14608.mp3",
           "zh/14608.mp3",
           "nòng luàn",
-          "[bulverse]"
+          "[bulveʁse]"
         ],
         [
           "蓬乱的",
@@ -115,7 +115,7 @@ window.BOOK_DATA[33] = {
           "fr/14610.mp3",
           "zh/14610.mp3",
           "hùn luàn",
-          "[dezɔ̃rdr]"
+          "[dezɔ̃ʁdʁ]"
         ],
         [
           "假发",
@@ -124,7 +124,7 @@ window.BOOK_DATA[33] = {
           "fr/14611.mp3",
           "zh/14611.mp3",
           "jiǎ fā",
-          "[pe(ə)ryk]"
+          "[pe(ə)ʁyk]"
         ],
         [
           "假发",
@@ -142,7 +142,7 @@ window.BOOK_DATA[33] = {
           "fr/14613.mp3",
           "zh/14613.mp3",
           "juǎn fā",
-          "[frizyːr]"
+          "[fʁizyːʁ]"
         ],
         [
           "直的",
@@ -151,7 +151,7 @@ window.BOOK_DATA[33] = {
           "fr/14614.mp3",
           "zh/14614.mp3",
           "zhí de",
-          "[drwa, at]"
+          "[dʁwa, at]"
         ],
         [
           "干燥的",
@@ -169,7 +169,7 @@ window.BOOK_DATA[33] = {
           "fr/14616.mp3",
           "zh/14616.mp3",
           "xī shū de tóu fā",
-          "[ʃ(ə)vø rar]"
+          "[ʃ(ə)vø ʁaʁ]"
         ]
       ],
       "s": [
@@ -218,7 +218,7 @@ window.BOOK_DATA[33] = {
           "fr/14621.mp3",
           "zh/14621.mp3",
           "duō yú de",
-          "[parazit]"
+          "[paʁazit]"
         ],
         [
           "气候",
@@ -251,7 +251,7 @@ window.BOOK_DATA[33] = {
           "fr/14624.mp3",
           "zh/14624.mp3",
           "lǐ fā diàn",
-          "[salɔ̃ d(ə) kwafyːr]"
+          "[salɔ̃ d(ə) kwafyːʁ]"
         ],
         [
           "理发师",
@@ -260,7 +260,7 @@ window.BOOK_DATA[33] = {
           "fr/14625.mp3",
           "zh/14625.mp3",
           "lǐ fā shī",
-          "[artist kapil(l)εːr]"
+          "[aʁtist kapil(l)ɛːʁ]"
         ],
         [
           "理发师",
@@ -269,7 +269,7 @@ window.BOOK_DATA[33] = {
           "fr/14626.mp3",
           "zh/14626.mp3",
           "lǐ fā shī",
-          "[barbje]"
+          "[baʁbje]"
         ],
         [
           "理发",
@@ -278,7 +278,7 @@ window.BOOK_DATA[33] = {
           "fr/14627.mp3",
           "zh/14627.mp3",
           "lǐ fā",
-          "[s(ə) fεːr kupe lə ʃ(ə)vø]"
+          "[s(ə) fɛːʁ kupe lə ʃ(ə)vø]"
         ],
         [
           "发型",
@@ -287,7 +287,7 @@ window.BOOK_DATA[33] = {
           "fr/14628.mp3",
           "zh/14628.mp3",
           "fā xíng",
-          "[kwafyːr]"
+          "[kwafyːʁ]"
         ],
         [
           "发型",
@@ -341,7 +341,7 @@ window.BOOK_DATA[33] = {
           "fr/14634.mp3",
           "zh/14634.mp3",
           "liú hǎi ér",
-          "[frɑ̃ːʒ]"
+          "[fʁɑ̃ːʒ]"
         ],
         [
           "剪",
@@ -350,7 +350,7 @@ window.BOOK_DATA[33] = {
           "fr/14635.mp3",
           "zh/14635.mp3",
           "jiǎn",
-          "[tɔ̃ːdr]"
+          "[tɔ̃ːdʁ]"
         ],
         [
           "卷曲的",
@@ -359,7 +359,7 @@ window.BOOK_DATA[33] = {
           "fr/14636.mp3",
           "zh/14636.mp3",
           "juǎn qū de",
-          "[frize]"
+          "[fʁize]"
         ],
         [
           "烫发",
@@ -368,7 +368,7 @@ window.BOOK_DATA[33] = {
           "fr/14637.mp3",
           "zh/14637.mp3",
           "tàng fā",
-          "[frize lə ʃ(ə)vø]"
+          "[fʁize lə ʃ(ə)vø]"
         ],
         [
           "分开",
@@ -386,7 +386,7 @@ window.BOOK_DATA[33] = {
           "fr/14639.mp3",
           "zh/14639.mp3",
           "fēn kāi",
-          "[separe]"
+          "[sepaʁe]"
         ],
         [
           "边",
@@ -395,7 +395,7 @@ window.BOOK_DATA[33] = {
           "fr/14640.mp3",
           "zh/14640.mp3",
           "biān",
-          "[urlε]"
+          "[uʁlɛ]"
         ],
         [
           "中央",
@@ -462,7 +462,7 @@ window.BOOK_DATA[33] = {
           "fr/14647.mp3",
           "zh/14647.mp3",
           "zhǐ jiǎ hù lǐ",
-          "[manykyre]"
+          "[manykyʁe]"
         ],
         [
           "给梳头",
@@ -504,7 +504,7 @@ window.BOOK_DATA[33] = {
           "fr/14651.mp3",
           "zh/14651.mp3",
           "tóu fā yǎng hù",
-          "[swɛ̃ kapil(l)ɛːr]"
+          "[swɛ̃ kapil(l)ɛːʁ]"
         ],
         [
           "发夹",
@@ -522,7 +522,7 @@ window.BOOK_DATA[33] = {
           "fr/14653.mp3",
           "zh/14653.mp3",
           "juǎn qǐ",
-          "[r(ə)trusmɑ̃]"
+          "[ʁ(ə)tʁusmɑ̃]"
         ],
         [
           "乳胶",
@@ -540,7 +540,7 @@ window.BOOK_DATA[33] = {
           "fr/14655.mp3",
           "zh/14655.mp3",
           "chūi fēng jī",
-          "[seʃwaːr a ʃ(ə)vø]"
+          "[seʃwaːʁ a ʃ(ə)vø]"
         ],
         [
           "吹风机",
@@ -549,7 +549,7 @@ window.BOOK_DATA[33] = {
           "fr/14656.mp3",
           "zh/14656.mp3",
           "chūi fēng jī",
-          "[seʃʃavø]"
+          "[sɛʃʃ(ə)vø]"
         ],
         [
           "护发素",
@@ -558,7 +558,7 @@ window.BOOK_DATA[33] = {
           "fr/14657.mp3",
           "zh/14657.mp3",
           "hù fā sù",
-          "[kɔ̃disjɔ̃nœr]"
+          "[kɔ̃disjɔ̃nœʁ]"
         ],
         [
           "发蜡",
@@ -576,7 +576,7 @@ window.BOOK_DATA[33] = {
           "fr/14659.mp3",
           "zh/14659.mp3",
           "hù fā yòng pǐn",
-          "[artikl pur kɔ̃disjɔ̃n le ʃ(ə)vø]"
+          "[aʁtikl puʁ kɔ̃disjɔ̃n le ʃ(ə)vø]"
         ],
         [
           "夹子",
@@ -594,7 +594,7 @@ window.BOOK_DATA[33] = {
           "fr/14661.mp3",
           "zh/14661.mp3",
           "ruǎn huà",
-          "[amɔliːr]"
+          "[amɔliːʁ]"
         ],
         [
           "定型摩丝",
@@ -612,7 +612,7 @@ window.BOOK_DATA[33] = {
           "fr/14663.mp3",
           "zh/14663.mp3",
           "rǎn sè",
-          "[kɔlɔrasjɔ̃]"
+          "[kɔlɔʁasjɔ̃]"
         ],
         [
           "剪刀",
@@ -630,7 +630,7 @@ window.BOOK_DATA[33] = {
           "fr/14665.mp3",
           "zh/14665.mp3",
           "chōng xǐ",
-          "[rɛ̃se]"
+          "[ʁɛ̃se]"
         ],
         [
           "梳理",
@@ -697,7 +697,7 @@ window.BOOK_DATA[33] = {
           "fr/14672.mp3",
           "zh/14672.mp3",
           "qù tóu pí xiè de",
-          "[ɑ̃tipelikyler]"
+          "[ɑ̃tipelikyleʁ]"
         ],
         [
           "宫殿",
@@ -715,7 +715,7 @@ window.BOOK_DATA[33] = {
           "fr/14674.mp3",
           "zh/14674.mp3",
           "qí fú ， dǎo gào",
-          "[prije]"
+          "[pʁije]"
         ]
       ]
     }
