@@ -306,6 +306,22 @@
         d.secs.forEach(function (s) { out = out.concat(unitsOf(d.gid, s)); });
         cb(out);
       });
+    } else if (scope === "grupo") {
+      var gr = META.grupos[state.g];
+      var gids = gr.partes.map(function (pt) { return pt.gid; });
+      var pending = gids.length;
+      var finish = function () {
+        var out = [];
+        gr.partes.forEach(function (pt) {
+          var d = DATA[pt.gid]; if (!d) return;
+          d.secs.forEach(function (s) { out = out.concat(unitsOf(pt.gid, s)); });
+        });
+        cb(out);
+      };
+      if (!pending) { finish(); return; }
+      gids.forEach(function (gid) {
+        loadParte(gid, function () { if (--pending <= 0) finish(); });
+      });
     } else {
       loadAll(function () {
         var out = [];
@@ -335,6 +351,8 @@
   }
 
   function buildUnits(scope, cb) { collect(scope, function (u) { P.units = u; if (cb) cb(); }); }
+
+  function maybeShuffle() { if (el("randChk") && el("randChk").checked) shuffle(P.units); }
 
   function updateProgress() {
     var it = P.list[P.i];
@@ -415,8 +433,9 @@
     if (P.dirty || !P.list.length) {
       var sc = el("scopeSel").value;
       el("plLabel").textContent = sc === "all" ? "正在准备全书播放…"
+        : sc === "grupo" ? "正在准备本篇播放…"
         : sc === "parte" ? "正在准备本大类播放…" : "准备中…";
-      buildUnits(sc, function () { P.dirty = false; expand(); doStart(); });
+      buildUnits(sc, function () { P.dirty = false; maybeShuffle(); expand(); doStart(); });
     } else doStart();
   }
 
@@ -440,7 +459,7 @@
   function jumpUnit(delta) {
     if (!P.units.length || !P.list.length || P.dirty) {
       buildUnits(el("scopeSel").value, function () {
-        P.dirty = false; expand(); jumpUnit(delta);
+        P.dirty = false; maybeShuffle(); expand(); jumpUnit(delta);
       });
       return;
     }
@@ -628,6 +647,7 @@
     el("nextBtn").onclick = function () { jumpUnit(1); };
     el("modeSel").onchange = function () { P.dirty = true; expand(); P.i = 0; updateProgress(); };
     el("scopeSel").onchange = function () { P.dirty = true; pausePlay(); P.i = 0; updateProgress(); };
+    el("randChk").onchange = function () { P.dirty = true; P.i = 0; updateProgress(); };
     el("rateSel").onchange = function () {
       P.players.forEach(function (a) { a.playbackRate = rate(); });
     };
@@ -750,6 +770,22 @@
     } else if (scope === "parte") {
       loadParte(curParte().gid, function (d) {
         cb(d ? d.secs.map(function (s) { return { gid: curParte().gid, sec: s }; }) : []);
+      });
+    } else if (scope === "grupo") {
+      var gr = META.grupos[state.g];
+      var gids = gr.partes.map(function (pt) { return pt.gid; });
+      var pending = gids.length;
+      var finish = function () {
+        var list = [];
+        gr.partes.forEach(function (pt) {
+          var d = DATA[pt.gid]; if (!d) return;
+          d.secs.forEach(function (s) { list.push({ gid: pt.gid, sec: s }); });
+        });
+        cb(list);
+      };
+      if (!pending) { finish(); return; }
+      gids.forEach(function (gid) {
+        loadParte(gid, function () { if (--pending <= 0) finish(); });
       });
     } else {
       loadAll(function () {
