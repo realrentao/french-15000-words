@@ -480,21 +480,12 @@ window.BOOK_DATA[35] = {
           "[sɛrtifika veteriner]"
         ],
         [
-          "液体喷射器",
+          "液体喷射器；注射器",
           "seringue",
           "f.",
           "fr/14824.mp3",
-          "zh/14824.mp3",
-          "yè tǐ pēn shè qì",
-          "[s(ə)rɛ̃g]"
-        ],
-        [
-          "注射器",
-          "seringue",
-          "f.",
-          "fr/14825.mp3",
-          "zh/14825.mp3",
-          "zhù shè qì",
+          "zh/14898.mp3",
+          "yè tǐ pēn shè qì ； zhù shè qì",
           "[s(ə)rɛ̃g]"
         ],
         [
