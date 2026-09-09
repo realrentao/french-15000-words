@@ -34,9 +34,9 @@
   // 法语词性缩写 → 中文（用于中文翻译后的词性备注）
   var POS_CN = {
     m: "名(阳)", f: "名(阴)", nm: "名(阳)", nf: "名(阴)", minv: "名(阳·不变)",
-    n: "名", pl: "复",
-    adj: "形", vt: "动(及)", vi: "动(不及)", vpr: "动(代)", v: "动",
-    adv: "副", inv: "不变", prep: "介", prép: "介", conj: "连", pron: "代"
+    n: "名", pl: "复", mpl: "名(阳·复)", fpl: "名(阴·复)",
+    adj: "形", a: "形", vt: "动(及)", vi: "动(不及)", vpr: "动(代)", v: "动",
+    adv: "副", inv: "不变", prep: "介", prép: "介", conj: "连", pron: "代", num: "数"
   };
   function posCn(p) {
     if (!p) return "";
@@ -195,7 +195,7 @@
         + '<div class="body"><div class="line-es">'
         + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
         + (it[6] ? '<span class="ipa pron" title="法语音标">' + ipaWrap(it[6]) + '</span>' : '')
-        + '<span class="pos">' + esc(it[2]) + '</span></div>'
+        + '<span class="pos">' + posCn(it[2]) + '</span></div>'
         + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + zhHtml + '</div>' : '<div class="zh">' + zhHtml + '</div>')
         + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
         + '</div>'
