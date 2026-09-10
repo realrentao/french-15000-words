@@ -183,7 +183,7 @@ window.BOOK_DATA[32] = {
           "zh/14496.mp3",
           "tè bié de",
           "[partikylje, er]"
-        ],
+        , "fr/15742.mp3"],
         [
           "企业",
           "entreprise",
@@ -210,7 +210,7 @@ window.BOOK_DATA[32] = {
           "zh/14499.mp3",
           "kūi kōng",
           "[dekuveːr, ert]"
-        ]
+        , "fr/15743.mp3"]
       ]
     },
     {
@@ -306,7 +306,7 @@ window.BOOK_DATA[32] = {
           "zh/14509.mp3",
           "yú é",
           "[restɑ̃, -t]"
-        ],
+        , "fr/15744.mp3"],
         [
           "手续费",
           "agio",
@@ -409,7 +409,7 @@ window.BOOK_DATA[32] = {
           "zh/14520.mp3",
           "zhōng děng de",
           "[mwajɛ̃, ɛn]"
-        ],
+        , "fr/15518.mp3"],
         [
           "付款",
           "paiement",
@@ -861,7 +861,7 @@ window.BOOK_DATA[32] = {
           "zh/14568.mp3",
           "zhī fù de",
           "[akite]"
-        ],
+        , "fr/15745.mp3"],
         [
           "声明，宣告",
           "déclaration",
@@ -1132,7 +1132,7 @@ window.BOOK_DATA[32] = {
           "zh/14597.mp3",
           "chǔ hù",
           "[depozɑ̃, ɑ̃ːt]"
-        ],
+        , "fr/15746.mp3"],
         [
           "免费地",
           "franco",

@@ -1203,7 +1203,7 @@ window.BOOK_DATA[30] ={
           "zh/14069.mp3",
           "rèn zhī de",
           "[kɔɲitif]"
-        ],
+        , "fr/15716.mp3"],
         [
           "推理",
           "raisonnement",
@@ -1263,7 +1263,7 @@ window.BOOK_DATA[30] ={
           "zh/14075.mp3",
           "bù zú de",
           "[defisjɑ̃, ɑ̃t]"
-        ],
+        , "fr/15717.mp3"],
         [
           "健康的",
           "sain, e",
@@ -1272,7 +1272,7 @@ window.BOOK_DATA[30] ={
           "zh/14076.mp3",
           "jiàn kāng de",
           "[sɛ̃, ɛne]"
-        ],
+        , "fr/15718.mp3"],
         [
           "患病的",
           "atteint, e",
@@ -1281,7 +1281,7 @@ window.BOOK_DATA[30] ={
           "zh/14077.mp3",
           "huàn bìng de",
           "[atɛ̃, t]"
-        ],
+        , "fr/15719.mp3"],
         [
           "病",
           "maladie",
@@ -1317,7 +1317,7 @@ window.BOOK_DATA[30] ={
           "zh/14081.mp3",
           "zhèng cháng de",
           "[natyʁɛl]"
-        ],
+        , "fr/15720.mp3"],
         [
           "焦虑的",
           "anxieux, euse",
@@ -1326,7 +1326,7 @@ window.BOOK_DATA[30] ={
           "zh/14082.mp3",
           "jiāo lǜ de",
           "[ɑ̃ksjø, øz]"
-        ],
+        , "fr/15721.mp3"],
         [
           "焦虑的",
           "inquiet, ète",
@@ -1335,7 +1335,7 @@ window.BOOK_DATA[30] ={
           "zh/14083.mp3",
           "jiāo lǜ de",
           "[ɛ̃kjɛ, ɛt]"
-        ],
+        , "fr/15722.mp3"],
         [
           "虚弱的",
           "cachectique",
@@ -1371,7 +1371,7 @@ window.BOOK_DATA[30] ={
           "zh/14087.mp3",
           "jīng lì chōng pèi de",
           "[aktif, iv]"
-        ],
+        , "fr/15723.mp3"],
         [
           "使忧愁",
           "affliger",
@@ -1389,7 +1389,7 @@ window.BOOK_DATA[30] ={
           "zh/14089.mp3",
           "bù shū fú de",
           "[ʒɛ(ɛ)ne]"
-        ]
+        , "fr/15724.mp3"]
       ],
       "s": [
         [
@@ -1429,7 +1429,7 @@ window.BOOK_DATA[30] ={
           "zh/14093.mp3",
           "huài de",
           "[mɔ(o)vɛ, ɛz]"
-        ],
+        , "fr/15725.mp3"],
         [
           "不可分割的",
           "indissociable",
@@ -1751,7 +1751,7 @@ window.BOOK_DATA[30] ={
           "zh/14127.mp3",
           "wài kē yī shēng",
           "[ʃiʁyʁʒjɛ̃, ɛn]"
-        ],
+        , "fr/15726.mp3"],
         [
           "耳鼻喉科",
           "oto-rhino laryngologie",
@@ -1908,7 +1908,7 @@ window.BOOK_DATA[30] ={
           "zh/14144.mp3",
           "qīng shǎo nián",
           "[adɔle(ɑ̃)sɑ̃, ɑ̃t]"
-        ],
+        , "fr/15615.mp3"],
         [
           "免疫的",
           "immunitaire",
@@ -2302,7 +2302,7 @@ window.BOOK_DATA[30] ={
           "zh/14186.mp3",
           "qīng wēi de",
           "[leʒe, ɛʁ]"
-        ],
+        , "fr/15524.mp3"],
         [
           "稍稍",
           "un peu",
@@ -2387,7 +2387,7 @@ window.BOOK_DATA[30] ={
           "zh/14195.mp3",
           "nán fāng de",
           "[meʁidjɔnal]"
-        ]
+        , "fr/15727.mp3"]
       ]
     },
     {
@@ -2429,7 +2429,7 @@ window.BOOK_DATA[30] ={
           "zh/14199.mp3",
           "téng tòng de",
           "[duluʁø, øːz]"
-        ],
+        , "fr/15728.mp3"],
         [
           "头疼",
           "céphalalgie",
@@ -2519,7 +2519,7 @@ window.BOOK_DATA[30] ={
           "zh/14209.mp3",
           "shòu shāng de",
           "[ble(ɛ)se]"
-        ],
+        , "fr/15729.mp3"],
         [
           "伤口",
           "plaie",
@@ -2646,7 +2646,7 @@ window.BOOK_DATA[30] ={
           "zh/14222.mp3",
           "cháng jiàn de",
           "[kɔmɔ̃, yn]"
-        ],
+        , "fr/15730.mp3"],
         [
           "阑尾炎",
           "apendicite",
@@ -2980,7 +2980,7 @@ window.BOOK_DATA[30] ={
           "zh/14258.mp3",
           "liáng xìng de",
           "[benɛ̃, benɛ̃]"
-        ],
+        , "fr/15731.mp3"],
         [
           "恶性的",
           "pernicieux, -se",
@@ -2989,7 +2989,7 @@ window.BOOK_DATA[30] ={
           "zh/14259.mp3",
           "è xìng de",
           "[pɛʁnisjø, øz]"
-        ],
+        , "fr/15732.mp3"],
         [
           "心脏病",
           "cardiopathie",
@@ -3107,7 +3107,7 @@ window.BOOK_DATA[30] ={
           "zh/14271.mp3",
           "jiǎo mó de",
           "[kɔʁneɛ̃, ɛn]"
-        ],
+        , "fr/15733.mp3"],
         [
           "移植",
           "transplanter",
@@ -3161,7 +3161,7 @@ window.BOOK_DATA[30] ={
           "zh/14277.mp3",
           "yǒu shì lì de",
           "[vwajɑ̃, ɑ̃t]"
-        ],
+        , "fr/15734.mp3"],
         [
           "色盲的",
           "daltonien, enne",
@@ -3170,7 +3170,7 @@ window.BOOK_DATA[30] ={
           "zh/14278.mp3",
           "sè máng de",
           "[daltɔ̃njɛ̃, ɛn]"
-        ],
+        , "fr/15735.mp3"],
         [
           "远视",
           "vision éloignée",
@@ -3884,7 +3884,7 @@ window.BOOK_DATA[30] ={
           "zh/14354.mp3",
           "wài kē de",
           "[ʃiʁyʁʒikal]"
-        ],
+        , "fr/15736.mp3"],
         [
           "生命",
           "vie",

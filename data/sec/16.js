@@ -314,7 +314,7 @@ window.BOOK_DATA[16] = {
           "zh/10954.mp3",
           "zāi nàn xìng de",
           "[dezastr,z]"
-        ],
+        , "fr/15606.mp3"],
         [
           "灾难",
           "malheur",
@@ -990,7 +990,7 @@ window.BOOK_DATA[16] = {
           "zh/10074.mp3",
           "zhuàn qián de",
           "[lykratif, iv]"
-        ],
+        , "fr/15600.mp3"],
         [
           "利益增加",
           "I'intéret accru",
@@ -1327,7 +1327,7 @@ window.BOOK_DATA[16] = {
           "",
           "",
           "[3aponez]"
-        ],
+        , "fr/15607.mp3"],
         [
           "日本人",
           "",
@@ -1856,7 +1856,7 @@ window.BOOK_DATA[16] = {
           "zh/10124.mp3",
           "zhài wù rén",
           "[debitr,tris]"
-        ],
+        , "fr/15608.mp3"],
         [
           "借款方",
           "emprunteur,euse",
@@ -1865,7 +1865,7 @@ window.BOOK_DATA[16] = {
           "zh/10125.mp3",
           "jiè kuǎn fāng",
           "[áprtr,z]"
-        ],
+        , "fr/15609.mp3"],
         [
           "困境",
           "géne3en]",
@@ -2478,7 +2478,7 @@ window.BOOK_DATA[16] = {
           "zh/11053.mp3",
           "xiū mián de",
           "[ádormi]"
-        ],
+        , "fr/15610.mp3"],
         [
           "死的",
           "morte[mort",
@@ -3023,7 +3023,7 @@ window.BOOK_DATA[16] = {
           "",
           "",
           "[vjola át]"
-        ],
+        , "fr/15611.mp3"],
         [
           "猛烈的",
           "",
@@ -3272,7 +3272,7 @@ window.BOOK_DATA[16] = {
           "zh/11098.mp3",
           "xìng cún zhě",
           "[syrviva, á:t]"
-        ],
+        , "fr/15612.mp3"],
         [
           "受灾者",
           "victime y",

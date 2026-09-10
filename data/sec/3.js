@@ -423,7 +423,7 @@ window.BOOK_DATA[3] = {
           "zh/11294.mp3",
           "měi tiān de",
           "[kɔtidjɛ̃, ɛn]"
-        ],
+        , "fr/15542.mp3"],
         [
           "周末",
           "week-end",
@@ -748,7 +748,7 @@ window.BOOK_DATA[3] = {
           "zh/11329.mp3",
           "xiān qián de",
           "[presedɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15703.mp3"],
         [
           "空前的",
           "sans précédent",
@@ -824,7 +824,7 @@ window.BOOK_DATA[3] = {
           "zh/11337.mp3",
           "bēi tòng de",
           "[dɔlɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15707.mp3"],
         [
           "每个，各个",
           "chaque",
@@ -866,7 +866,7 @@ window.BOOK_DATA[3] = {
           "zh/00098.mp3",
           "yī",
           "[œ̃, yn]"
-        ],
+        , "fr/15708.mp3"],
         [
           "二",
           "deux",
@@ -1149,7 +1149,7 @@ window.BOOK_DATA[3] = {
           "zh/00132.mp3",
           "shēng mìng de",
           "[vital, o]"
-        ],
+        , "fr/15709.mp3"],
         [
           "较少，更少",
           "moins",
@@ -1167,7 +1167,7 @@ window.BOOK_DATA[3] = {
           "zh/00137.mp3",
           "kě pà de ，kǒng bù de",
           "[tɛ(e)rifjɑ̃, ɑ̃t]"
-        ],
+        , "fr/15710.mp3"],
         [
           "失去，丧失",
           "perdre",
@@ -1326,7 +1326,7 @@ window.BOOK_DATA[3] = {
           "zh/00155.mp3",
           "dì yī",
           "[pramje, ɛ:r]"
-        ],
+        , "fr/15711.mp3"],
         [
           "第二",
           "deuxième",
@@ -2003,7 +2003,7 @@ window.BOOK_DATA[3] = {
           "zh/11364.mp3",
           "zhōng biǎo jiàng",
           "[ɔrlɔʒe, ɛ:r]"
-        ],
+        , "fr/15712.mp3"],
         [
           "表带",
           "bracelet",
@@ -2332,7 +2332,7 @@ window.BOOK_DATA[3] = {
           "zh/11399.mp3",
           "zhòng duō de ， xǔ duō de",
           "[nɔ̃brø, øz]"
-        ],
+        , "fr/15582.mp3"],
         [
           "非宗教的",
           "civil, e",
@@ -2341,7 +2341,7 @@ window.BOOK_DATA[3] = {
           "zh/11400.mp3",
           "fēi zōng jiào de",
           "[sivil]"
-        ],
+        , "fr/15713.mp3"],
         [
           "宗教的",
           "religieux, se",
@@ -2350,7 +2350,7 @@ window.BOOK_DATA[3] = {
           "zh/11401.mp3",
           "zōng jiào de",
           "[r(ə)liʒjø, øz]"
-        ],
+        , "fr/15618.mp3"],
         [
           "重要的",
           "gros, se",
@@ -2359,7 +2359,7 @@ window.BOOK_DATA[3] = {
           "zh/11402.mp3",
           "zhòng yào de",
           "[gro, o:s]"
-        ],
+        , "fr/15544.mp3"],
         [
           "中国人的",
           "chinois, e",
@@ -2368,7 +2368,7 @@ window.BOOK_DATA[3] = {
           "zh/11403.mp3",
           "zhōng guó rén de",
           "[ʃinwa, az]"
-        ],
+        , "fr/15714.mp3"],
         [
           "被占用的",
           "pris, e",
@@ -2377,7 +2377,7 @@ window.BOOK_DATA[3] = {
           "zh/11404.mp3",
           "bèi zhàn yòng de",
           "[pri, i:z]"
-        ]
+        , "fr/15715.mp3"]
       ]
     },
     {
@@ -3079,7 +3079,7 @@ window.BOOK_DATA[3] = {
           "zh/11478.mp3",
           "kuài lè de",
           "[ʒwajø, ø:z]"
-        ],
+        , "fr/15697.mp3"],
         [
           "蜡烛",
           "chandelle",
@@ -3196,7 +3196,7 @@ window.BOOK_DATA[3] = {
           "zh/11491.mp3",
           "měi hǎo de",
           "[ɛkski, i:z]"
-        ]
+        , "fr/15531.mp3"]
       ],
       "s": [
         [

@@ -5,7 +5,7 @@
   var META = window.BOOK_META || { title: "", author: "", grupos: [], totalAll: 0 };
   var DATA = {};            // gid -> 分册数据
   var AUDIO = "audio/";
-  var SITE_VER = "20260910";   // 资源版本戳：更新内容后 bump 此值以破除浏览器/CDN 缓存
+  var SITE_VER = "20260911";   // 资源版本戳：更新内容后 bump 此值以破除浏览器/CDN 缓存
   var LS_DONE = "sv15000_done", LS_THEME = "sv15000_theme", LS_POS = "sv15000_pos";
   var LS_SRS = "sv15000_srs";
   var SRS_INT = [0, 10 * 60 * 1000, 60 * 60 * 1000, 864e5, 3 * 864e5, 7 * 864e5];
@@ -49,6 +49,55 @@
   function ipaWrap(ipa) {
     var t = String(ipa == null ? "" : ipa).trim().replace(/^\[+|\]+$/g, "").trim();
     return t ? "/" + t + "/" : "";
+  }
+  // 阴阳性：数据里 fr 形如 "fiancé, e" 表示阳/阴；阴性形式由规则派生（与后台生成阴性配音的逻辑一致）
+  var FEM_OV = {
+    "frais": "fraîche", "mou": "molle", "un": "une", "vieux": "vieille", "beau": "belle",
+    "blanc": "blanche", "roux": "rousse", "doux": "douce", "faux": "fausse", "sec": "sèche",
+    "gro": "gros", "sur": "sûr", "aigu": "aiguë", "invalidité": null, "précis": null, "civil": "civile",
+    "correcteur": "correctrice", "créateur": "créatrice", "spectateur": "spectatrice",
+    "régulateur": "régulatrice", "producteur": "productrice", "éducateur": "éducatrice",
+    "importateur": "importatrice", "débiteur": "débitrice", "emprunteur": "empruntrice",
+    "fabulateur": "fabulatrice", "majeur": "majeure", "mineur": "mineure", "supérieur": "supérieure",
+    "inférieur": "inférieure", "intérieur": "intérieure", "bas": "basse", "gros": "grosse",
+    "gras": "grasse", "épais": "épaisse", "rassis": "rassise", "complet": "complète", "inquiet": "inquiète"
+  };
+  var VOWSTR = "aeiouàâäéèêëïîôöùûü";
+  function _restoreCase(m, f) {
+    return m.charAt(0) === m.charAt(0).toUpperCase() ? (f.charAt(0).toUpperCase() + f.slice(1)) : f;
+  }
+  function feminize(m) {
+    if (!m) return null;
+    var lm = m.toLowerCase();
+    if (Object.prototype.hasOwnProperty.call(FEM_OV, lm)) { var f = FEM_OV[lm]; return f === null ? null : _restoreCase(m, f); }
+    if (lm.slice(-1) === "e" && lm.slice(-2) !== "é") return null;
+    if (lm.slice(-3) === "eux") return m.slice(0, -3) + "euse";
+    if (lm.slice(-3) === "oux") return m.slice(0, -3) + "ouse";
+    if (lm.slice(-3) === "ier") return m.slice(0, -3) + "ière";
+    if (lm.slice(-3) === "éen") return m.slice(0, -3) + "éenne";
+    if (lm.slice(-3) === "ien") return m.slice(0, -3) + "ienne";
+    if (lm.slice(-2) === "on") return m.slice(0, -2) + "onne";
+    if (lm.slice(-2) === "el") return m.slice(0, -2) + "elle";
+    if (lm.slice(-2) === "il") return m.slice(0, -2) + "ille";
+    if (lm.slice(-2) === "al") return m.slice(0, -2) + "ale";
+    if (lm.slice(-2) === "er" && lm.slice(-3) !== "ier") return m.slice(0, -2) + "ère";
+    if (lm.slice(-3) === "eur") return m.slice(0, -3) + "euse";
+    if (lm.slice(-3) === "ais") return m.slice(0, -3) + "aise";
+    if (lm.slice(-3) === "ois") return m.slice(0, -3) + "oise";
+    if (lm.slice(-1) === "c") { var prev = m.length >= 2 ? m.charAt(m.length - 2) : ""; return m.slice(0, -1) + (VOWSTR.indexOf(prev) < 0 ? "che" : "que"); }
+    if (lm.slice(-1) === "f") return m.slice(0, -1) + "ve";
+    if (lm.slice(-1) === "s") return m + "e";
+    if (lm.slice(-1) === "x") return m.slice(0, -1) + "se";
+    return m + "e";
+  }
+  // 把 ipa 字段（可能 "阳,阴"）拆成 [mascIPA, femIPA]
+  function splitIpa(ipa) {
+    var t = String(ipa == null ? "" : ipa).trim().replace(/^\[+|\]+$/g, "").trim();
+    if (!t) return ["", ""];
+    var parts = t.split(",");
+    var masc = parts[0].trim();
+    var fem = parts.length > 1 ? parts.slice(1).join(",").trim() : masc;
+    return [masc, fem];
   }
 
   /* ---------- localStorage ---------- */
@@ -192,16 +241,39 @@
     arr.forEach(function (it, i) {
       var id = uid(gid, sno, kind, i);
       var zhHtml = esc(it[0]);
-      h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
-        + '<div class="body"><div class="line-es">'
-        + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
-        + (it[6] ? '<span class="ipa pron" title="法语音标">' + ipaWrap(it[6]) + '</span>' : '')
-        + '<span class="pos">' + posCn(it[2]) + '</span></div>'
-        + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + zhHtml + '</div>' : '<div class="zh">' + zhHtml + '</div>')
-        + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
-        + '</div>'
-        + (it[3] ? '<button class="spk" data-a="' + AUDIO + it[3] + '" title="法语发音">🔊</button>' : '')
-        + (it[4] ? '<button class="spk" data-a="' + AUDIO + it[4] + '" title="中文发音">汉</button>' : '') + '</div>';
+      var isMF = it[7] && it[1].indexOf(",") >= 0;   // 阳/阴双行
+      if (isMF) {
+        var masc = it[1].split(",")[0].trim();
+        var fem = feminize(masc);
+        var ip = splitIpa(it[6]);
+        var mascIpa = ip[0], femIpa = ip[1] || ip[0];
+        h += '<div class="row mf" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
+          + '<div class="body">'
+          + '<div class="line-es mf-m"><span class="es" data-a="' + AUDIO + it[3] + '">' + esc(masc) + '</span>'
+          + (mascIpa ? '<span class="ipa pron" title="阳性音标">' + ipaWrap(mascIpa) + '</span>' : '')
+          + '<span class="g">m.</span><span class="pos">' + posCn(it[2]) + '</span></div>'
+          + (fem ? '<div class="line-es mf-f"><span class="es" data-a="' + AUDIO + it[7] + '">' + esc(fem) + '</span>'
+            + (femIpa ? '<span class="ipa pron" title="阴性音标">' + ipaWrap(femIpa) + '</span>' : '')
+            + '<span class="g">f.</span></div>' : '')
+          + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + zhHtml + '</div>' : '<div class="zh">' + zhHtml + '</div>')
+          + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
+          + '</div>'
+          + (it[3] ? '<button class="spk" data-a="' + AUDIO + it[3] + '" title="阳性发音">🔊</button>' : '')
+          + (fem && it[7] ? '<button class="spk" data-a="' + AUDIO + it[7] + '" title="阴性发音">♀</button>' : '')
+          + (it[4] ? '<button class="spk" data-a="' + AUDIO + it[4] + '" title="中文发音">汉</button>' : '')
+          + '</div>';
+      } else {
+        h += '<div class="row" id="' + id + '"><span class="idx">' + (i + 1) + '</span>'
+          + '<div class="body"><div class="line-es">'
+          + (it[3] ? '<span class="es" data-a="' + AUDIO + it[3] + '">' + esc(it[1]) + '</span>' : '<span class="es">' + esc(it[1]) + '</span>')
+          + (it[6] ? '<span class="ipa pron" title="法语音标">' + ipaWrap(it[6]) + '</span>' : '')
+          + '<span class="pos">' + posCn(it[2]) + '</span></div>'
+          + (it[4] ? '<div class="zh" data-a="' + AUDIO + it[4] + '">' + zhHtml + '</div>' : '<div class="zh">' + zhHtml + '</div>')
+          + (it[5] ? '<div class="py pron">' + esc(it[5]) + '</div>' : '')
+          + '</div>'
+          + (it[3] ? '<button class="spk" data-a="' + AUDIO + it[3] + '" title="法语发音">🔊</button>' : '')
+          + (it[4] ? '<button class="spk" data-a="' + AUDIO + it[4] + '" title="中文发音">汉</button>' : '') + '</div>';
+      }
     });
     return h + '</div>';
   }
@@ -281,13 +353,13 @@
   function unitsOf(gid, sec) {
     var out = [];
     sec.w.forEach(function (it, i) {
-      out.push({ id: uid(gid, sec.no, "w", i), kind: "w", es: it[1], zh: it[0], pos: it[2], ae: it[3], az: it[4] });
+      out.push({ id: uid(gid, sec.no, "w", i), kind: "w", es: it[1], zh: it[0], pos: it[2], ae: it[3], az: it[4], af: it[7] });
     });
     sec.s.forEach(function (it, i) {
-      out.push({ id: uid(gid, sec.no, "s", i), kind: "s", es: it[0], zh: it[1], ae: it[3], az: it[4] });
+      out.push({ id: uid(gid, sec.no, "s", i), kind: "s", es: it[0], zh: it[1], ae: it[3], az: it[4], af: it[7] });
     });
     sec.e.forEach(function (it, i) {
-      out.push({ id: uid(gid, sec.no, "e", i), kind: "e", es: it[1], zh: it[0], pos: it[2], ae: it[3], az: it[4] });
+      out.push({ id: uid(gid, sec.no, "e", i), kind: "e", es: it[1], zh: it[0], pos: it[2], ae: it[3], az: it[4], af: it[7] });
     });
     return out;
   }
@@ -338,13 +410,14 @@
   function expand() {
     var m = mode(), L = [];
     var pushFr = function (u) { if (u.ae) L.push({ src: AUDIO + u.ae, uid: u.id, lang: "fr" }); };
+    var pushFem = function (u) { if (u.af) L.push({ src: AUDIO + u.af, uid: u.id, lang: "fr" }); };
     var pushZh = function (u) { if (u.az) L.push({ src: AUDIO + u.az, uid: u.id, lang: "zh" }); };
     if (m === "fr-zh") {
-      P.units.forEach(function (u) { pushFr(u); pushZh(u); });
+      P.units.forEach(function (u) { pushFr(u); pushFem(u); pushZh(u); });
     } else if (m === "all-fr-zh") {
-      P.units.forEach(pushFr); P.units.forEach(pushZh);
+      P.units.forEach(pushFr); P.units.forEach(pushFem); P.units.forEach(pushZh);
     } else if (m === "fr-only") {
-      P.units.forEach(pushFr);
+      P.units.forEach(pushFr); P.units.forEach(pushFem);
     } else {
       P.units.forEach(pushZh);
     }

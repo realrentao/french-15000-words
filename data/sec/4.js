@@ -806,7 +806,7 @@ window.BOOK_DATA[4] ={
           "zh/13318.mp3",
           "wán quán de",
           "plɛ̃, ɛn"
-        ],
+        , "fr/15547.mp3"],
         [
           "鞭子",
           "fouet",
@@ -833,7 +833,7 @@ window.BOOK_DATA[4] ={
           "zh/13321.mp3",
           "dì yuē guó",
           "kɔ̃traktɑ̃, ɑ̃:t"
-        ]
+        , "fr/15845.mp3"]
       ]
     },
     {
@@ -1218,7 +1218,7 @@ window.BOOK_DATA[4] ={
           "zh/13362.mp3",
           "xíng rén",
           "pa(a)sɑ̃, ɑ̃:t"
-        ],
+        , "fr/15846.mp3"],
         [
           "人行道",
           "passage",
@@ -1399,7 +1399,7 @@ window.BOOK_DATA[4] ={
           "zh/13381.mp3",
           "qǐ gài",
           "mɑ̃djɑ̃, ɑ̃t"
-        ],
+        , "fr/15847.mp3"],
         [
           "通道",
           "passage",
@@ -1628,7 +1628,7 @@ window.BOOK_DATA[4] ={
           "zh/13406.mp3",
           "xiǎo táo qì",
           "kɔkɛ̃, in"
-        ],
+        , "fr/15848.mp3"],
         [
           "留宿",
           "loger",
@@ -1661,7 +1661,7 @@ window.BOOK_DATA[4] ={
           "zh/13409.mp3",
           "chéng kè",
           "pa(a)saʒe, ɛr"
-        ],
+        , "fr/15637.mp3"],
         [
           "车站",
           "station",
@@ -1760,7 +1760,7 @@ window.BOOK_DATA[4] ={
           "zh/13420.mp3",
           "miǎn fèi de",
           "gratɥi, ɥit"
-        ],
+        , "fr/15849.mp3"],
         [
           "预付费",
           "prépayement",
@@ -1796,7 +1796,7 @@ window.BOOK_DATA[4] ={
           "zh/13424.mp3",
           "chéng kè",
           "vwajaʒœ:r, ø:z"
-        ]
+        , "fr/15850.mp3"]
       ],
       "s": [
         [
@@ -1863,7 +1863,7 @@ window.BOOK_DATA[4] ={
           "zh/13431.mp3",
           "jiāo xiǎo kě ài",
           "miɲɔ̃, ɔn"
-        ],
+        , "fr/15851.mp3"],
         [
           "汽水",
           "soude",
@@ -1959,7 +1959,7 @@ window.BOOK_DATA[4] ={
           "zh/13441.mp3",
           "zhǔn shí de",
           "pɔ̃ktyɛl"
-        ],
+        , "fr/15664.mp3"],
         [
           "出示",
           "présenter",
@@ -2089,7 +2089,7 @@ window.BOOK_DATA[4] ={
           "zh/13455.mp3",
           "táo zǒu de rén",
           "evade"
-        ],
+        , "fr/15852.mp3"],
         [
           "最后，总之",
           "finalement",
@@ -2107,7 +2107,7 @@ window.BOOK_DATA[4] ={
           "zh/13457.mp3",
           "zhōng yāng de",
           "sɑ̃tral"
-        ],
+        , "fr/15853.mp3"],
         [
           "天气",
           "intempéries",
@@ -2203,7 +2203,7 @@ window.BOOK_DATA[4] ={
           "zh/13467.mp3",
           "xiǎo xīn de",
           "avize"
-        ],
+        , "fr/15854.mp3"],
         [
           "错过",
           "manquer",
@@ -2257,7 +2257,7 @@ window.BOOK_DATA[4] ={
           "zh/13473.mp3",
           "cán jí",
           "ɑ̃tikape"
-        ],
+        , "fr/15855.mp3"],
         [
           "残疾",
           "invalidité, e",
@@ -2393,7 +2393,7 @@ window.BOOK_DATA[4] ={
           "zh/13487.mp3",
           "yàn piào yuán",
           "kɔ̃trolœ:r, øz"
-        ],
+        , "fr/15856.mp3"],
         [
           "头顶",
           "vertex",
@@ -2830,7 +2830,7 @@ window.BOOK_DATA[4] ={
           "zh/13534.mp3",
           "shùi wù yuán",
           "rəsəvœr, øz"
-        ],
+        , "fr/15857.mp3"],
         [
           "毁坏",
           "démolir",
@@ -2917,7 +2917,7 @@ window.BOOK_DATA[4] ={
           "zh/13543.mp3",
           "guó jì de",
           "ɛ̃tɛrnasjɔnal"
-        ],
+        , "fr/15603.mp3"],
         [
           "时间表",
           "horaire",
@@ -3020,7 +3020,7 @@ window.BOOK_DATA[4] ={
           "zh/13554.mp3",
           "bèi dìng zùi de",
           "kɔ̃dane"
-        ],
+        , "fr/15858.mp3"],
         [
           "混合的",
           "mixte",
@@ -3170,7 +3170,7 @@ window.BOOK_DATA[4] ={
           "zh/13570.mp3",
           "jiǎn chá yuán",
           "kɔ̃trɔlœ:r, øz"
-        ],
+        , "fr/15856.mp3"],
         [
           "调度员",
           "régulateur, trice",
@@ -3179,7 +3179,7 @@ window.BOOK_DATA[4] ={
           "zh/13571.mp3",
           "diào dù yuán",
           "regylatœ:r, tris"
-        ]
+        , "fr/15859.mp3"]
       ],
       "s": [
         [
@@ -3369,7 +3369,7 @@ window.BOOK_DATA[4] ={
           "zh/13591.mp3",
           "gōng yòng de",
           "pyblik"
-        ],
+        , "fr/15860.mp3"],
         [
           "私人的",
           "privé, e",
@@ -3378,7 +3378,7 @@ window.BOOK_DATA[4] ={
           "zh/13592.mp3",
           "sī rén de",
           "prive"
-        ],
+        , "fr/15861.mp3"],
         [
           "停车线",
           "ligne d'arrêt",
@@ -3884,7 +3884,7 @@ window.BOOK_DATA[4] ={
           "zh/13646.mp3",
           "shēn de",
           "prɔfɔ̃, d"
-        ],
+        , "fr/15862.mp3"],
         [
           "港口费用",
           "frais portuaires",
@@ -4137,7 +4137,7 @@ window.BOOK_DATA[4] ={
           "zh/13673.mp3",
           "shōu fèi de",
           "pejɑ̃, ɑ̃t"
-        ],
+        , "fr/15863.mp3"],
         [
           "收费站",
           "péage",
@@ -4327,7 +4327,7 @@ window.BOOK_DATA[4] ={
           "zh/13693.mp3",
           "guān bì de",
           "klo, o:z"
-        ],
+        , "fr/15864.mp3"],
         [
           "信号灯",
           "signal",
@@ -4466,7 +4466,7 @@ window.BOOK_DATA[4] ={
           "zh/13708.mp3",
           "yí zhì de ， xiāng yīng de",
           "kɔrespɔ̃dɑ̃, ɑ̃:t"
-        ],
+        , "fr/15865.mp3"],
         [
           "暴力",
           "violence",
@@ -4508,7 +4508,7 @@ window.BOOK_DATA[4] ={
           "zh/13712.mp3",
           "hǎi guān rén yuán",
           "dwanje, ɛ:r"
-        ],
+        , "fr/15866.mp3"],
         [
           "税",
           "taxe",
@@ -4701,7 +4701,7 @@ window.BOOK_DATA[4] ={
           "zh/13733.mp3",
           "jìn kǒu shāng",
           "ɛ̃p ɔrtatœ:r, tris"
-        ],
+        , "fr/15867.mp3"],
         [
           "扣除",
           "déduire",
@@ -4719,7 +4719,7 @@ window.BOOK_DATA[4] ={
           "zh/13735.mp3",
           "zhī fù de",
           "akite"
-        ],
+        , "fr/15745.mp3"],
         [
           "满意",
           "satisfaction",
@@ -4770,7 +4770,7 @@ window.BOOK_DATA[4] ={
           "zh/13740.mp3",
           "yōng jǐ bù kān de",
           "ɑ̃kɔ̃bʀe"
-        ],
+        , "fr/15868.mp3"],
         [
           "失灵",
           "fonctionner mal",
@@ -4788,7 +4788,7 @@ window.BOOK_DATA[4] ={
           "zh/13742.mp3",
           "cū xīn de",
           "neglizɑ̃, t"
-        ],
+        , "fr/15809.mp3"],
         [
           "驾车",
           "conduire",
@@ -5415,7 +5415,7 @@ window.BOOK_DATA[4] ={
           "zh/13809.mp3",
           "bù ān de",
           "ɛ̃k je, t"
-        ],
+        , "fr/15722.mp3"],
         [
           "阻止",
           "empêcher",
@@ -5442,7 +5442,7 @@ window.BOOK_DATA[4] ={
           "zh/13812.mp3",
           "jié gòu xìng",
           "stryktyrɛl"
-        ],
+        , "fr/15869.mp3"],
         [
           "退化",
           "dégénérer",
@@ -5912,7 +5912,7 @@ window.BOOK_DATA[4] ={
           "zh/13862.mp3",
           "yīng guó de",
           "ɑ̃glɛ, ɛ:z"
-        ],
+        , "fr/15870.mp3"],
         [
           "德国的",
           "allemand, e",
@@ -5921,7 +5921,7 @@ window.BOOK_DATA[4] ={
           "zh/13863.mp3",
           "dé guó de",
           "almɑ̃, ɑ̃:d"
-        ],
+        , "fr/15871.mp3"],
         [
           "碰撞",
           "collision",
@@ -6382,7 +6382,7 @@ window.BOOK_DATA[4] ={
           "zh/13912.mp3",
           "shí yòng de",
           "aplike"
-        ],
+        , "fr/15872.mp3"],
         [
           "最大的，最高的",
           "maximum",
@@ -6400,7 +6400,7 @@ window.BOOK_DATA[4] ={
           "zh/13914.mp3",
           "zhì zào de",
           "manyfaktyrje, ɛ:r"
-        ]
+        , "fr/15873.mp3"]
       ]
     },
     {

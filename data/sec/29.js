@@ -183,7 +183,7 @@ window.BOOK_DATA[29] = {
           "",
           "",
           "[eternel]"
-        ],
+        , "fr/15573.mp3"],
         [
           "永久的",
           "",
@@ -857,7 +857,7 @@ window.BOOK_DATA[29] = {
           "zh/05210.mp3",
           "xiāng děng de",
           "[ekivala,t]"
-        ],
+        , "fr/15706.mp3"],
         [
           "近似地",
           "approxi mativement",

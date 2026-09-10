@@ -62,7 +62,7 @@ window.BOOK_DATA[7] = {
           "zh/06729.mp3",
           "yuán yì gōng rén",
           "[zardinje,er]"
-        ],
+        , "fr/15884.mp3"],
         [
           "种植",
           "plantage",
@@ -237,7 +237,7 @@ window.BOOK_DATA[7] = {
           "",
           "",
           "[peiz,an]"
-        ],
+        , "fr/15885.mp3"],
         [
           "农民",
           "",
@@ -1177,7 +1177,7 @@ window.BOOK_DATA[7] = {
           "",
           "",
           "[asosje]"
-        ],
+        , "fr/15886.mp3"],
         [
           "组合的",
           "",
@@ -1788,7 +1788,7 @@ window.BOOK_DATA[7] = {
           "zh/06913.mp3",
           "shāng rén",
           "[komersa, t]"
-        ],
+        , "fr/15887.mp3"],
         [
           "流通",
           "circuler i.",
@@ -1900,7 +1900,7 @@ window.BOOK_DATA[7] = {
           "",
           "",
           "[diver,ers]"
-        ],
+        , "fr/15888.mp3"],
         [
           "不同的",
           "",
@@ -1918,7 +1918,7 @@ window.BOOK_DATA[7] = {
           "",
           "",
           "[äsestral]"
-        ],
+        , "fr/15571.mp3"],
         [
           "祖先的",
           "",

@@ -333,7 +333,7 @@ window.BOOK_DATA[31] = {
           "zh/14410.mp3",
           "shì zhèn de",
           "[kɔmynal]"
-        ],
+        , "fr/15737.mp3"],
         [
           "郊区",
           "banlieue",
@@ -351,7 +351,7 @@ window.BOOK_DATA[31] = {
           "zh/14412.mp3",
           "xiāng cūn de",
           "[ryral]"
-        ],
+        , "fr/15738.mp3"],
         [
           "镇子",
           "bourg",
@@ -758,7 +758,7 @@ window.BOOK_DATA[31] = {
           "zh/14455.mp3",
           "sòng xìn zhě",
           "[pɔʁtœːr, z]"
-        ],
+        , "fr/15739.mp3"],
         [
           "贵重物品",
           "objet précieux",
@@ -812,7 +812,7 @@ window.BOOK_DATA[31] = {
           "zh/14461.mp3",
           "xì zhǎng de",
           "[elɑ̃se]"
-        ],
+        , "fr/15740.mp3"],
         [
           "胶带",
           "chatterton",
@@ -839,7 +839,7 @@ window.BOOK_DATA[31] = {
           "zh/14464.mp3",
           "jǐn jí de",
           "[yrʒɑ̃, ɑ̃ːt]"
-        ],
+        , "fr/15741.mp3"],
         [
           "本地的",
           "local, e",
@@ -848,7 +848,7 @@ window.BOOK_DATA[31] = {
           "zh/14465.mp3",
           "běn dì de",
           "[lɔkal]"
-        ],
+        , "fr/15605.mp3"],
         [
           "海外",
           "outre-mer",

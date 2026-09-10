@@ -369,7 +369,7 @@ window.BOOK_DATA[23] = {
           "zh/10702.mp3",
           "fàng shè xìng de",
           "[radjoaktif, iv]"
-        ]
+        , "fr/15651.mp3"]
       ],
       "s": [
         [
@@ -617,7 +617,7 @@ window.BOOK_DATA[23] = {
           "",
           "",
           ""
-        ],
+        , "fr/15652.mp3"],
         [
           "爆炸的",
           "",
@@ -843,7 +843,7 @@ window.BOOK_DATA[23] = {
           "",
           "",
           "[radjofonik]"
-        ],
+        , "fr/15653.mp3"],
         [
           "无线电广播的",
           "",

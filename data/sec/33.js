@@ -53,7 +53,7 @@ window.BOOK_DATA[33] = {
           "zh/14603.mp3",
           "duǎn de",
           "[kuʁ, t]"
-        ],
+        , "fr/15747.mp3"],
         [
           "秃的",
           "chauve",
@@ -71,7 +71,7 @@ window.BOOK_DATA[33] = {
           "zh/14605.mp3",
           "guāng tū de",
           "[pale]"
-        ],
+        , "fr/15748.mp3"],
         [
           "油性的",
           "huileux, se",
@@ -80,7 +80,7 @@ window.BOOK_DATA[33] = {
           "zh/14606.mp3",
           "yóu xìng de",
           "[ɥilø, z]"
-        ],
+        , "fr/15749.mp3"],
         [
           "一缕毛发",
           "un filet de cheveux",
@@ -107,7 +107,7 @@ window.BOOK_DATA[33] = {
           "zh/14609.mp3",
           "péng luàn de",
           "[eʃɑ̃vle]"
-        ],
+        , "fr/15750.mp3"],
         [
           "混乱",
           "désordre",
@@ -152,7 +152,7 @@ window.BOOK_DATA[33] = {
           "zh/14614.mp3",
           "zhí de",
           "[dʁwa, at]"
-        ],
+        , "fr/15751.mp3"],
         [
           "干燥的",
           "sec",
@@ -237,7 +237,7 @@ window.BOOK_DATA[33] = {
           "zh/14623.mp3",
           "dà lù xìng de",
           "[kɔ̃tinɑ̃tal]"
-        ]
+        , "fr/15752.mp3"]
       ]
     },
     {
@@ -360,7 +360,7 @@ window.BOOK_DATA[33] = {
           "zh/14636.mp3",
           "juǎn qū de",
           "[fʁize]"
-        ],
+        , "fr/15753.mp3"],
         [
           "烫发",
           "friser les cheveux",

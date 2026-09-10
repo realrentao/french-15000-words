@@ -472,7 +472,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           ""
-        ],
+        , "fr/15565.mp3"],
         [
           "造成大",
           "",
@@ -698,7 +698,7 @@ window.BOOK_DATA[13] = {
           "zh/08655.mp3",
           "què xìn de",
           "[syr]"
-        ],
+        , "fr/15566.mp3"],
         [
           "",
           "tellement",
@@ -915,7 +915,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           ""
-        ],
+        , "fr/15567.mp3"],
         [
           "紧迫的",
           "imminaát] adj.s",
@@ -933,7 +933,7 @@ window.BOOK_DATA[13] = {
           "zh/08680.mp3",
           "hòu de",
           "[epe,es]"
-        ],
+        , "fr/15525.mp3"],
         [
           "易碎的",
           "fragile",
@@ -1358,7 +1358,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[sud&,en]"
-        ],
+        , "fr/15568.mp3"],
         [
           "突然",
           "",
@@ -1918,7 +1918,7 @@ window.BOOK_DATA[13] = {
           "zh/08785.mp3",
           "zhèng shí de",
           "[avere]"
-        ],
+        , "fr/15569.mp3"],
         [
           "",
           "reconnaitre",
@@ -2459,7 +2459,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[terdi,it]"
-        ],
+        , "fr/15570.mp3"],
         [
           "被禁止的",
           "",
@@ -3995,7 +3995,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[äsestral]"
-        ],
+        , "fr/15571.mp3"],
         [
           "祖先的",
           "",
@@ -4320,7 +4320,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           ""
-        ],
+        , "fr/15572.mp3"],
         [
           "坦率的",
           "",
@@ -4338,7 +4338,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[eternel]"
-        ],
+        , "fr/15573.mp3"],
         [
           "永久的",
           "",
@@ -4551,7 +4551,7 @@ window.BOOK_DATA[13] = {
           "zh/09034.mp3",
           "fán mào de",
           "[egzybera,át]"
-        ]
+        , "fr/15574.mp3"]
       ],
       "s": [
         [
@@ -4988,7 +4988,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[mals,en]"
-        ],
+        , "fr/15575.mp3"],
         [
           "不卫生的",
           "",
@@ -5458,7 +5458,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           ""
-        ],
+        , "fr/15576.mp3"],
         [
           "巧合的",
           "ad.",
@@ -5599,7 +5599,7 @@ window.BOOK_DATA[13] = {
           "zh/09145.mp3",
           "píng de",
           "[deprime]"
-        ],
+        , "fr/15577.mp3"],
         [
           "地形",
           "topographie /.",
@@ -5892,7 +5892,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           ""
-        ],
+        , "fr/15578.mp3"],
         [
           "美味的",
           "",
@@ -6850,7 +6850,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[akcjä,at]"
-        ],
+        , "fr/15579.mp3"],
         [
           "舒适的",
           "",
@@ -6937,7 +6937,7 @@ window.BOOK_DATA[13] = {
           "zh/09287.mp3",
           "huáng dì de",
           "[&perjal]"
-        ],
+        , "fr/15580.mp3"],
         [
           "天安门",
           "la Place Tian'anmen y.",
@@ -7013,7 +7013,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[bektif,iv]"
-        ],
+        , "fr/15581.mp3"],
         [
           "客观的",
           "",
@@ -7537,7 +7537,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           ""
-        ],
+        , "fr/15582.mp3"],
         [
           "众多的",
           "adj.t",
@@ -7588,7 +7588,7 @@ window.BOOK_DATA[13] = {
           "zh/09356.mp3",
           "jī mì de",
           "[kšfidásjel]"
-        ],
+        , "fr/15583.mp3"],
         [
           "秘密的",
           "secretete",
@@ -7624,7 +7624,7 @@ window.BOOK_DATA[13] = {
           "zh/09360.mp3",
           "xiāo chú dí yì de",
           "[dezarma,át]"
-        ],
+        , "fr/15584.mp3"],
         [
           "侦察",
           "reconnaitre",
@@ -7799,7 +7799,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[kyrj,z]"
-        ],
+        , "fr/15585.mp3"],
         [
           "好奇的稀奇的",
           "",
@@ -8260,7 +8260,7 @@ window.BOOK_DATA[13] = {
           "",
           "",
           "[ksidätal]"
-        ],
+        , "fr/15586.mp3"],
         [
           "西方的",
           "",
@@ -8573,7 +8573,7 @@ window.BOOK_DATA[13] = {
           "zh/09461.mp3",
           "lù yíng zhě",
           "[kapr,z]"
-        ],
+        , "fr/15587.mp3"],
         [
           "露营区",
           "camping",

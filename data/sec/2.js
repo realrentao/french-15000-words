@@ -143,7 +143,7 @@ window.BOOK_DATA[2] ={
           "zh/12532.mp3",
           "huá lì de",
           "[lyksyrjɑ̃, ɑ̃t]"
-        ]
+        , "fr/15633.mp3"]
       ],
       "s": [
         [
@@ -830,7 +830,7 @@ window.BOOK_DATA[2] ={
           "zh/12605.mp3",
           "líng luàn",
           "[dezɔrdɔne]"
-        ],
+        , "fr/15634.mp3"],
         [
           "杂乱",
           "pêle-mêle",
@@ -866,7 +866,7 @@ window.BOOK_DATA[2] ={
           "zh/12609.mp3",
           "kuān chǎng de",
           "[spasjø, ø:z]"
-        ],
+        , "fr/15635.mp3"],
         [
           "狭小的",
           "étroit, e",
@@ -875,7 +875,7 @@ window.BOOK_DATA[2] ={
           "zh/12610.mp3",
           "xiá xiǎo de",
           "[etrwa, t]"
-        ],
+        , "fr/15519.mp3"],
         [
           "闲置的",
           "libre",
@@ -960,7 +960,7 @@ window.BOOK_DATA[2] ={
           "zh/12619.mp3",
           "dú lì de",
           "[ɛ̃d ep ɑ̃dɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15636.mp3"],
         [
           "小溪",
           "ruisseau",
@@ -1186,7 +1186,7 @@ window.BOOK_DATA[2] ={
           "zh/12643.mp3",
           "chéng kè",
           "[pa(a)saʒe, ɛ:r]"
-        ],
+        , "fr/15637.mp3"],
         [
           "方式",
           "moyen ̃",
@@ -1345,7 +1345,7 @@ window.BOOK_DATA[2] ={
           "zh/12660.mp3",
           "tòu míng de",
           "[tʁɑ̃spaʁɑ̃, ɑ̃t]"
-        ],
+        , "fr/15522.mp3"],
         [
           "易碎的",
           "fragile",
@@ -1466,7 +1466,7 @@ window.BOOK_DATA[2] ={
           "zh/12673.mp3",
           "dài xuè de",
           "[sɑ̃ɡlɑ̃, ɑ̃:t]"
-        ]
+        , "fr/15638.mp3"]
       ]
     },
     {
@@ -2225,7 +2225,7 @@ window.BOOK_DATA[2] ={
           "zh/12754.mp3",
           "jī liè de",
           "[aʃarne]"
-        ],
+        , "fr/15639.mp3"],
         [
           "乐观的",
           "optimiste",
@@ -2357,7 +2357,7 @@ window.BOOK_DATA[2] ={
           "zh/12768.mp3",
           "xué shí yuān bó de",
           "[savɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15640.mp3"],
         [
           "页",
           "page",
@@ -2514,7 +2514,7 @@ window.BOOK_DATA[2] ={
           "zh/12785.mp3",
           "jiā jù ， dòng chǎn",
           "[mɔbilje, ɛ:r]"
-        ],
+        , "fr/15641.mp3"],
         [
           "流利地",
           "couramment",
@@ -2803,7 +2803,7 @@ window.BOOK_DATA[2] ={
           "zh/12816.mp3",
           "bèi jìn zhǐ de",
           "[ɛ̃tɛrdi, it]"
-        ],
+        , "fr/15570.mp3"],
         [
           "汤",
           "soupe",
@@ -3300,7 +3300,7 @@ window.BOOK_DATA[2] ={
           "zh/12869.mp3",
           "xiàn shí de",
           "[aktyɛl]"
-        ],
+        , "fr/15595.mp3"],
         [
           "运转",
           "fonctionner",
@@ -3459,7 +3459,7 @@ window.BOOK_DATA[2] ={
           "zh/12886.mp3",
           "líng luàn de",
           "[dezɔrdɔne]"
-        ],
+        , "fr/15634.mp3"],
         [
           "晾晒",
           "exposer",
@@ -3658,7 +3658,7 @@ window.BOOK_DATA[2] ={
           "zh/12907.mp3",
           "mào shèng de",
           "[lyksyrjɑ̃, t]"
-        ],
+        , "fr/15633.mp3"],
         [
           "发芽",
           "germer",
@@ -3851,7 +3851,7 @@ window.BOOK_DATA[2] ={
           "zh/12928.mp3",
           "cū cāo de",
           "[grosje, ɛ:r]"
-        ]
+        , "fr/15598.mp3"]
       ]
     },
     {
@@ -4019,7 +4019,7 @@ window.BOOK_DATA[2] ={
           "zh/12946.mp3",
           "zhěng qí de",
           "[regylje, ɛr]"
-        ]
+        , "fr/15532.mp3"]
       ],
       "s": [
         [
@@ -4086,7 +4086,7 @@ window.BOOK_DATA[2] ={
           "zh/12953.mp3",
           "zhì lì de",
           "[ɛ̃te(ɛl)lɛktɥɛl]"
-        ],
+        , "fr/15642.mp3"],
         [
           "吸引力",
           "attraction",
@@ -4104,7 +4104,7 @@ window.BOOK_DATA[2] ={
           "zh/12955.mp3",
           "nài xīn de",
           "[pasjɑ̃, ɑ̃:t]"
-        ]
+        , "fr/15643.mp3"]
       ]
     },
     {
@@ -4254,7 +4254,7 @@ window.BOOK_DATA[2] ={
           "zh/12971.mp3",
           "jū zhù rén",
           "[abitɑ̃, ɑ̃:t]"
-        ]
+        , "fr/15644.mp3"]
       ],
       "s": [
         [
@@ -4444,7 +4444,7 @@ window.BOOK_DATA[2] ={
           "zh/12991.mp3",
           "kě zhé dié de",
           "[plijɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15645.mp3"],
         [
           "打开包装",
           "déballer",
@@ -4480,7 +4480,7 @@ window.BOOK_DATA[2] ={
           "zh/12995.mp3",
           "zhòng de",
           "[lur, urd]"
-        ],
+        , "fr/15646.mp3"],
         [
           "装满",
           "combler",
@@ -4905,7 +4905,7 @@ window.BOOK_DATA[2] ={
           "zh/13040.mp3",
           "dì chǎn",
           "[fɔ̃sje, ɛ:r]"
-        ],
+        , "fr/15647.mp3"],
         [
           "付定金",
           "arrhement",
@@ -5239,7 +5239,7 @@ window.BOOK_DATA[2] ={
           "zh/13076.mp3",
           "shē huá",
           "[lyksɥø, ø:z]"
-        ],
+        , "fr/15648.mp3"],
         [
           "预定座位",
           "place retenue",

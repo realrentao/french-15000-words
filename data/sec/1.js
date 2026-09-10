@@ -279,7 +279,7 @@ window.BOOK_DATA[1] ={
           "zh/11530.mp3",
           "chī sù de rén",
           "[veʒetarjɛ̃, ɛn]"
-        ],
+        , "fr/15526.mp3"],
         [
           "素食主义",
           "végétarisme",
@@ -306,7 +306,7 @@ window.BOOK_DATA[1] ={
           "zh/11533.mp3",
           "xīn là de",
           "[epise]"
-        ],
+        , "fr/15527.mp3"],
         [
           "咸的",
           "salé",
@@ -333,7 +333,7 @@ window.BOOK_DATA[1] ={
           "zh/11536.mp3",
           "tián de",
           "[du, dus]"
-        ],
+        , "fr/15528.mp3"],
         [
           "酸味的",
           "aigre",
@@ -360,7 +360,7 @@ window.BOOK_DATA[1] ={
           "zh/11539.mp3",
           "měi wèi de",
           "[delisjø, ø:z]"
-        ],
+        , "fr/15529.mp3"],
         [
           "美食家",
           "gourmet",
@@ -387,7 +387,7 @@ window.BOOK_DATA[1] ={
           "zh/11542.mp3",
           "kāi wèi de",
           "[apetisɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15530.mp3"],
         [
           "好吃的",
           "exquis, e",
@@ -396,7 +396,7 @@ window.BOOK_DATA[1] ={
           "zh/11543.mp3",
           "hǎo chī de",
           "[ɛkski, i:z]"
-        ],
+        , "fr/15531.mp3"],
         [
           "挑剔的",
           "dégoûté",
@@ -414,7 +414,7 @@ window.BOOK_DATA[1] ={
           "zh/11545.mp3",
           "yǒu guī lǜ de",
           "[regylje, ɛr]"
-        ],
+        , "fr/15532.mp3"],
         [
           "过敏的",
           "allergique",
@@ -752,7 +752,7 @@ window.BOOK_DATA[1] ={
           "zh/11581.mp3",
           "zhòng dà de",
           "[maʒœ:r]"
-        ]
+        , "fr/15533.mp3"]
       ]
     },
     {
@@ -1110,7 +1110,7 @@ window.BOOK_DATA[1] ={
           "zh/11619.mp3",
           "gè rén de",
           "[pɛʁsɔnɛl]"
-        ],
+        , "fr/15534.mp3"],
         [
           "流口水",
           "baver",
@@ -1222,7 +1222,7 @@ window.BOOK_DATA[1] ={
           "zh/11631.mp3",
           "gù dìng de",
           "[ʁegylje, ɛʁ]"
-        ],
+        , "fr/15532.mp3"],
         [
           "实现，认识",
           "réaliser",
@@ -1851,7 +1851,7 @@ window.BOOK_DATA[1] ={
           "zh/11698.mp3",
           "yóu nì de",
           "[gra, s]"
-        ],
+        , "fr/15535.mp3"],
         [
           "巧克力",
           "chocolat",
@@ -2095,7 +2095,7 @@ window.BOOK_DATA[1] ={
           "zh/11724.mp3",
           "rè de",
           "[ʃo, o:d]"
-        ],
+        , "fr/15506.mp3"],
         [
           "烤",
           "rôtir",
@@ -2505,7 +2505,7 @@ window.BOOK_DATA[1] ={
           "zh/11768.mp3",
           "jí zhōng de",
           "[kɔ̃sɑ̃tre]"
-        ],
+        , "fr/15536.mp3"],
         [
           "卡路里",
           "calorie",
@@ -3074,7 +3074,7 @@ window.BOOK_DATA[1] ={
           "zh/11829.mp3",
           "jié bīng de",
           "[glase]"
-        ]
+        , "fr/15537.mp3"]
       ]
     },
     {
@@ -3345,7 +3345,7 @@ window.BOOK_DATA[1] ={
           "zh/11858.mp3",
           "lì wài de ， yì cháng de",
           "[ɛksɛpsjɔnɛl]"
-        ]
+        , "fr/15538.mp3"]
       ]
     },
     {
@@ -3553,7 +3553,7 @@ window.BOOK_DATA[1] ={
           "zh/11880.mp3",
           "běn zhì de ， jī běn de",
           "[esɑ̃sjɛl]"
-        ],
+        , "fr/15539.mp3"],
         [
           "健康",
           "santé",
@@ -3842,7 +3842,7 @@ window.BOOK_DATA[1] ={
           "zh/11911.mp3",
           "zhǔ yào de",
           "[prɛ̃s ipal]"
-        ],
+        , "fr/15540.mp3"],
         [
           "沸腾的",
           "bouillant, e",
@@ -3851,7 +3851,7 @@ window.BOOK_DATA[1] ={
           "zh/11912.mp3",
           "fèi téng de",
           "[bujɑ̃, ɑ̃:t]"
-        ]
+        , "fr/15541.mp3"]
       ]
     },
     {
@@ -4312,7 +4312,7 @@ window.BOOK_DATA[1] ={
           "zh/11961.mp3",
           "rì cháng de",
           "[kɔtidjɛ, ɛn]"
-        ],
+        , "fr/15542.mp3"],
         [
           "权利",
           "droit",
@@ -4444,7 +4444,7 @@ window.BOOK_DATA[1] ={
           "zh/11975.mp3",
           "tí shén de",
           "[r(ə)mɔ̃tɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15543.mp3"],
         [
           "普施咖啡",
           "pousse café",
@@ -4529,7 +4529,7 @@ window.BOOK_DATA[1] ={
           "zh/11984.mp3",
           "féi pàng de ， hòu de",
           "[gro, o:s]"
-        ],
+        , "fr/15544.mp3"],
         [
           "药材",
           "médicament",
@@ -4824,7 +4824,7 @@ window.BOOK_DATA[1] ={
           "zh/12015.mp3",
           "fēng shèng de",
           "[kɔpjø, ø:z]"
-        ],
+        , "fr/15545.mp3"],
         [
           "简单的",
           "simple",
@@ -4869,7 +4869,7 @@ window.BOOK_DATA[1] ={
           "zh/12020.mp3",
           "lìng rén mǎn yì de",
           "[satisfazɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15546.mp3"],
         [
           "摆放",
           "placer",
@@ -4959,7 +4959,7 @@ window.BOOK_DATA[1] ={
           "zh/12030.mp3",
           "mǎn de",
           "[plɛ̃, ɛn]"
-        ],
+        , "fr/15547.mp3"],
         [
           "可以接受的",
           "acceptable",
@@ -5053,7 +5053,7 @@ window.BOOK_DATA[1] ={
           "zh/12040.mp3",
           "xìng fú de",
           "[œrø, øz]"
-        ]
+        , "fr/15548.mp3"]
       ]
     },
     {
@@ -5104,7 +5104,7 @@ window.BOOK_DATA[1] ={
           "zh/12045.mp3",
           "xiāng pèi de",
           "[kɔɔrdɔne]"
-        ],
+        , "fr/15549.mp3"],
         [
           "啤酒杯",
           "tasse de bière",
@@ -5270,7 +5270,7 @@ window.BOOK_DATA[1] ={
           "zh/12063.mp3",
           "zhuān yè de",
           "[spesjalize]"
-        ],
+        , "fr/15550.mp3"],
         [
           "发展",
           "développement",
@@ -5312,7 +5312,7 @@ window.BOOK_DATA[1] ={
           "zh/12067.mp3",
           "sū cuì de",
           "[krustijɑ̃, ɑ̃t]"
-        ],
+        , "fr/15551.mp3"],
         [
           "混杂的",
           "hétérogène",
@@ -5357,7 +5357,7 @@ window.BOOK_DATA[1] ={
           "zh/12072.mp3",
           "hán guǒ ròu de",
           "[pylpø, ø:z]"
-        ],
+        , "fr/15552.mp3"],
         [
           "葡萄干",
           "raisins secs",
@@ -5704,7 +5704,7 @@ window.BOOK_DATA[1] ={
           "zh/12109.mp3",
           "hǎi shēng de",
           "[marɛ̃, in]"
-        ],
+        , "fr/15553.mp3"],
         [
           "混合，搀和",
           "mélange",
@@ -5863,7 +5863,7 @@ window.BOOK_DATA[1] ={
           "zh/12126.mp3",
           "xīn xiān de",
           "[frɛ, frɛʃ]"
-        ],
+        , "fr/15554.mp3"],
         [
           "防腐剂",
           "préservateur",
@@ -5881,7 +5881,7 @@ window.BOOK_DATA[1] ={
           "zh/12128.mp3",
           "bù xīn xiān de",
           "[rasi, iz]"
-        ],
+        , "fr/15555.mp3"],
         [
           "添加剂",
           "additif",
@@ -5948,7 +5948,7 @@ window.BOOK_DATA[1] ={
           "zh/12135.mp3",
           "zōng hé chù lǐ de",
           "[ɛ̃tegre]"
-        ],
+        , "fr/15556.mp3"],
         [
           "收集品，征集",
           "collection",

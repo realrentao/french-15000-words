@@ -534,7 +534,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           ""
-        ],
+        , "fr/15680.mp3"],
         [
           "主席",
           "",
@@ -570,7 +570,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           "[personel]"
-        ],
+        , "fr/15534.mp3"],
         [
           "个人的",
           "",
@@ -615,7 +615,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           ""
-        ],
+        , "fr/15681.mp3"],
         [
           "商人",
           "",
@@ -633,7 +633,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           ""
-        ],
+        , "fr/15682.mp3"],
         [
           "爱花钱的",
           "",
@@ -1369,7 +1369,7 @@ window.BOOK_DATA[27] = {
           "zh/05754.mp3",
           "bù mǎn yì de",
           "[&satisfe,et]"
-        ],
+        , "fr/15683.mp3"],
         [
           "满意",
           "satisfaire",
@@ -1414,7 +1414,7 @@ window.BOOK_DATA[27] = {
           "zh/05759.mp3",
           "dà liàng de",
           "[nšbr,:z]"
-        ],
+        , "fr/15582.mp3"],
         [
           "减少",
           "diminuer",
@@ -1544,7 +1544,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           "[másyel]"
-        ],
+        , "fr/15684.mp3"],
         [
           "每月的",
           "",
@@ -1562,7 +1562,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           ""
-        ],
+        , "fr/15685.mp3"],
         [
           "国际的",
           "",
@@ -2001,7 +2001,7 @@ window.BOOK_DATA[27] = {
           "zh/04741.mp3",
           "yōu xiù de",
           "[eksepsjonel]"
-        ],
+        , "fr/15686.mp3"],
         [
           "普通的",
           "commune",
@@ -2140,7 +2140,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           "[bilateral]"
-        ],
+        , "fr/15687.mp3"],
         [
           "两面的双边的",
           "",
@@ -3160,7 +3160,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           "[plezáá:t]"
-        ],
+        , "fr/15688.mp3"],
         [
           "有趣的讨人喜欢的",
           "adj..",
@@ -3265,7 +3265,7 @@ window.BOOK_DATA[27] = {
           "zh/04854.mp3",
           "yǒu shì yè xīn de",
           "[átropraná,t]"
-        ],
+        , "fr/15689.mp3"],
         [
           "动力",
           "motivation",
@@ -3716,7 +3716,7 @@ window.BOOK_DATA[27] = {
           "zh/05685.mp3",
           "máng de",
           "[kype]"
-        ],
+        , "fr/15690.mp3"],
         [
           "闲散的",
           "désoeuvrée",
@@ -3927,7 +3927,7 @@ window.BOOK_DATA[27] = {
           "",
           "",
           "[ága3e]"
-        ],
+        , "fr/15691.mp3"],
         [
           "有政治倾向的",
           "",

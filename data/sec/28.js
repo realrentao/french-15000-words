@@ -228,7 +228,7 @@ window.BOOK_DATA[28] = {
           "",
           "",
           ""
-        ],
+        , "fr/15692.mp3"],
         [
           "有意义的",
           "iv]",
@@ -282,7 +282,7 @@ window.BOOK_DATA[28] = {
           "",
           "",
           ""
-        ],
+        , "fr/15693.mp3"],
         [
           "论证的",
           "",
@@ -441,7 +441,7 @@ window.BOOK_DATA[28] = {
           "zh/04950.mp3",
           "zhī shí yuān bó de",
           "[eklere]"
-        ],
+        , "fr/15694.mp3"],
         [
           "范围",
           "sphere",
@@ -955,7 +955,7 @@ window.BOOK_DATA[28] = {
           "zh/05910.mp3",
           "zhì liàng hǎo de",
           "[lwajal]"
-        ],
+        , "fr/15695.mp3"],
         [
           "相对地",
           "comparative- ment",
@@ -1072,7 +1072,7 @@ window.BOOK_DATA[28] = {
           "zh/05923.mp3",
           "quán shì jiè de",
           "[yniversel]"
-        ]
+        , "fr/15696.mp3"]
       ],
       "s": [
         [
@@ -1442,7 +1442,7 @@ window.BOOK_DATA[28] = {
           "zh/05938.mp3",
           "lìng rén gāo xìng de",
           "[3waj,z]"
-        ],
+        , "fr/15697.mp3"],
         [
           "不予考虑励同意给予",
           "Texclu acceptéde donner",
@@ -1487,7 +1487,7 @@ window.BOOK_DATA[28] = {
           "zh/05943.mp3",
           "zuì dī de",
           "[&ferjxxr]"
-        ]
+        , "fr/15564.mp3"]
       ],
       "s": [
         [
@@ -2122,7 +2122,7 @@ window.BOOK_DATA[28] = {
           "",
           "",
           "[bpoze]"
-        ],
+        , "fr/15698.mp3"],
         [
           "相对的",
           "",
@@ -2158,7 +2158,7 @@ window.BOOK_DATA[28] = {
           "zh/05979.mp3",
           "lǐ xiǎng de",
           "[ideal]"
-        ],
+        , "fr/15699.mp3"],
         [
           "",
           "témoignage",
@@ -2299,7 +2299,7 @@ window.BOOK_DATA[28] = {
           "zh/05055.mp3",
           "xū gòu de",
           "[fabylatcr,tris]"
-        ],
+        , "fr/15700.mp3"],
         [
           "混合",
           "melanger",
@@ -2461,7 +2461,7 @@ window.BOOK_DATA[28] = {
           "zh/05995.mp3",
           "yōu huì de",
           "[preferäsjel]"
-        ],
+        , "fr/15701.mp3"],
         [
           "利益",
           "profit",
@@ -2636,7 +2636,7 @@ window.BOOK_DATA[28] = {
           "",
           "",
           ""
-        ],
+        , "fr/15546.mp3"],
         [
           "满意的",
           "",
@@ -3246,7 +3246,7 @@ window.BOOK_DATA[28] = {
           "zh/05106.mp3",
           "xiǎo shuō jiā",
           "[romásje, er]"
-        ],
+        , "fr/15702.mp3"],
         [
           "片段",
           "passage .",
@@ -3706,7 +3706,7 @@ window.BOOK_DATA[28] = {
           "zh/05269.mp3",
           "yǐ qián de",
           "[preseda,t]"
-        ],
+        , "fr/15703.mp3"],
         [
           "需要",
           "nécessiter",
@@ -3878,7 +3878,7 @@ window.BOOK_DATA[28] = {
           "zh/06059.mp3",
           "mài fāng",
           "[vädr,z]"
-        ],
+        , "fr/15704.mp3"],
         [
           "价格",
           "prix",
@@ -3914,7 +3914,7 @@ window.BOOK_DATA[28] = {
           "zh/06063.mp3",
           "zǒng de",
           "[total]"
-        ],
+        , "fr/15599.mp3"],
         [
           "条款",
           "article",
@@ -4062,7 +4062,7 @@ window.BOOK_DATA[28] = {
           "",
           "",
           "[eträze,er]"
-        ],
+        , "fr/15631.mp3"],
         [
           "国外的",
           "",
@@ -4776,7 +4776,7 @@ window.BOOK_DATA[28] = {
           "",
           "",
           ""
-        ],
+        , "fr/15705.mp3"],
         [
           "集体的",
           "",

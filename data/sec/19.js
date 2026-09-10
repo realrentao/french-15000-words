@@ -804,7 +804,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           ""
-        ],
+        , "fr/15618.mp3"],
         [
           "宗教的",
           "",
@@ -831,7 +831,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           ""
-        ],
+        , "fr/15619.mp3"],
         [
           "确定的",
           "",
@@ -1215,7 +1215,7 @@ window.BOOK_DATA[19] = {
           "zh/10448.mp3",
           "bù dàng de",
           "[akorek,kt]"
-        ],
+        , "fr/15620.mp3"],
         [
           "假设",
           "supposer l.",
@@ -1449,7 +1449,7 @@ window.BOOK_DATA[19] = {
           "zh/10879.mp3",
           "tiān shēng de",
           "[naif,iv]"
-        ],
+        , "fr/15621.mp3"],
         [
           "染色体",
           "chromosome",
@@ -1750,7 +1750,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[&tegral]"
-        ],
+        , "fr/15622.mp3"],
         [
           "完整的",
           "",
@@ -2201,7 +2201,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[ä3ä,á:t]"
-        ],
+        , "fr/15623.mp3"],
         [
           "多变的",
           "",
@@ -2282,7 +2282,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[ksidätal]"
-        ],
+        , "fr/15586.mp3"],
         [
           "西方的",
           "",
@@ -2685,7 +2685,7 @@ window.BOOK_DATA[19] = {
           "zh/10515.mp3",
           "fàn rén",
           "[prionje,er]"
-        ],
+        , "fr/15624.mp3"],
         [
           "犯人",
           "condamné",
@@ -2851,7 +2851,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[tegral]"
-        ],
+        , "fr/15622.mp3"],
         [
           "完整的",
           "",
@@ -3194,7 +3194,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[potäsjel]"
-        ],
+        , "fr/15625.mp3"],
         [
           "潜在的",
           "",
@@ -3263,7 +3263,7 @@ window.BOOK_DATA[19] = {
           "zh/09674.mp3",
           "xuǎn jǔ rén",
           "[elektxr,tris]"
-        ],
+        , "fr/15626.mp3"],
         [
           "竞选",
           "participer une campagneélectorale c.",
@@ -3326,7 +3326,7 @@ window.BOOK_DATA[19] = {
           "zh/09681.mp3",
           "hòu xuǎn rén",
           "[kádida, at]"
-        ],
+        , "fr/15627.mp3"],
         [
           "反对者",
           "contradicteur",
@@ -3384,7 +3384,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           ""
-        ],
+        , "fr/15628.mp3"],
         [
           "组成的",
           "ad.",
@@ -3402,7 +3402,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[definitif,iv]"
-        ],
+        , "fr/15629.mp3"],
         [
           "最终的",
           "",
@@ -3420,7 +3420,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           ""
-        ],
+        , "fr/15630.mp3"],
         [
           "立法的",
           "",
@@ -3733,7 +3733,7 @@ window.BOOK_DATA[19] = {
           "zh/09724.mp3",
           "wài guó rén",
           "[eträze,er]"
-        ],
+        , "fr/15631.mp3"],
         [
           "分歧",
           "divergence /.",
@@ -4396,7 +4396,7 @@ window.BOOK_DATA[19] = {
           "",
           "",
           "[dividuel]"
-        ],
+        , "fr/15632.mp3"],
         [
           "个人的",
           "adj.A",

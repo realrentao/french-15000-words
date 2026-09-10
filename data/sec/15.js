@@ -874,7 +874,7 @@ window.BOOK_DATA[15] = {
           "zh/09853.mp3",
           "guó jì de",
           "[&ternasjonal]"
-        ],
+        , "fr/15603.mp3"],
         [
           "贸易顺差",
           "commerce balance favorable",
@@ -1040,7 +1040,7 @@ window.BOOK_DATA[15] = {
           "",
           "",
           "[patronal]"
-        ],
+        , "fr/15604.mp3"],
         [
           "资方的",
           "",
@@ -1971,7 +1971,7 @@ window.BOOK_DATA[15] = {
           "zh/09972.mp3",
           "dì fāng de",
           "[lokal]"
-        ]
+        , "fr/15605.mp3"]
       ]
     },
     {

@@ -242,7 +242,7 @@ window.BOOK_DATA[26] = {
           "zh/04613.mp3",
           "xuǎn zé de",
           "[selektif, iv]"
-        ],
+        , "fr/15672.mp3"],
         [
           "大学英语",
           "anglais d'université",
@@ -2518,7 +2518,7 @@ window.BOOK_DATA[26] = {
           "",
           "",
           "[ekolje,er]"
-        ],
+        , "fr/15673.mp3"],
         [
           "小学生",
           "",
@@ -2545,7 +2545,7 @@ window.BOOK_DATA[26] = {
           "",
           "",
           ""
-        ],
+        , "fr/15674.mp3"],
         [
           "失望的",
           "",
@@ -3011,7 +3011,7 @@ window.BOOK_DATA[26] = {
           "zh/04520.mp3",
           "xué shēng",
           "[etydä, t]"
-        ],
+        , "fr/15675.mp3"],
         [
           "同学",
           "camarade",
@@ -3137,7 +3137,7 @@ window.BOOK_DATA[26] = {
           "zh/04534.mp3",
           "dǎo shī",
           "[dykatr,tris]"
-        ],
+        , "fr/15676.mp3"],
         [
           "行政人员",
           "personne administrative /",
@@ -3222,7 +3222,7 @@ window.BOOK_DATA[26] = {
           "",
           "",
           ""
-        ],
+        , "fr/15677.mp3"],
         [
           "原始的",
           "",
@@ -3354,7 +3354,7 @@ window.BOOK_DATA[26] = {
           "zh/04557.mp3",
           "háng tiān",
           "[aerospasjal]"
-        ],
+        , "fr/15678.mp3"],
         [
           "光学",
           "optique",
@@ -3616,7 +3616,7 @@ window.BOOK_DATA[26] = {
           "zh/04585.mp3",
           "guò qī de",
           "[perime]"
-        ],
+        , "fr/15679.mp3"],
         [
           "借阅部",
           "Département de pret",

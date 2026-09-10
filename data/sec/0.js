@@ -237,7 +237,7 @@ window.BOOK_DATA[0] ={
           "zh/12165.mp3",
           "rè de",
           "[ʃo, o:d]"
-        ]
+        , "fr/15506.mp3"]
       ]
     },
     {
@@ -514,7 +514,7 @@ window.BOOK_DATA[0] ={
           "zh/12194.mp3",
           "lǜ sè de",
           "[vɛ:r, ɛrt]"
-        ],
+        , "fr/15507.mp3"],
         [
           "翡翠绿",
           "vert émeraude",
@@ -604,7 +604,7 @@ window.BOOK_DATA[0] ={
           "zh/12204.mp3",
           "hè sè",
           "[brœ̃, yn]"
-        ],
+        , "fr/15508.mp3"],
         [
           "米色",
           "beige",
@@ -839,7 +839,7 @@ window.BOOK_DATA[0] ={
           "zh/12229.mp3",
           "zǐ sè de",
           "[vjɔlɛ, ɛt]"
-        ],
+        , "fr/15509.mp3"],
         [
           "浅紫色",
           "violet clair",
@@ -1074,7 +1074,7 @@ window.BOOK_DATA[0] ={
           "zh/12254.mp3",
           "bái sè",
           "[blɑ̃, ɑ̃ʃ]"
-        ],
+        , "fr/15510.mp3"],
         [
           "象牙白",
           "ivoire",
@@ -1092,7 +1092,7 @@ window.BOOK_DATA[0] ={
           "zh/12256.mp3",
           "rǔ bái sè",
           "[letø, ø:z]"
-        ],
+        , "fr/15511.mp3"],
         [
           "灰色",
           "gris, e",
@@ -1101,7 +1101,7 @@ window.BOOK_DATA[0] ={
           "zh/12257.mp3",
           "huī sè",
           "[gri, z]"
-        ],
+        , "fr/15512.mp3"],
         [
           "棕色",
           "marron",
@@ -1228,7 +1228,7 @@ window.BOOK_DATA[0] ={
           "zh/12270.mp3",
           "（ fú zhuāng / yán sè ） xiāng pèi de",
           "[sejɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15513.mp3"],
         [
           "得体的",
           "convenable",
@@ -1264,7 +1264,7 @@ window.BOOK_DATA[0] ={
           "zh/12274.mp3",
           "piāo liàng yǎ zhì de",
           "[elegɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15514.mp3"],
         [
           "比例",
           "proportion",
@@ -1282,7 +1282,7 @@ window.BOOK_DATA[0] ={
           "zh/12276.mp3",
           "yùn dòng de",
           "[spɔrtif, iv]"
-        ],
+        , "fr/15515.mp3"],
         [
           "衣服的风格",
           "style",
@@ -1309,7 +1309,7 @@ window.BOOK_DATA[0] ={
           "zh/12279.mp3",
           "zuì jìn de",
           "[resɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15516.mp3"],
         [
           "适当的",
           "approprié",
@@ -1580,7 +1580,7 @@ window.BOOK_DATA[0] ={
           "zh/12308.mp3",
           "xiǎo hào de",
           "[p(ə)ti, it]"
-        ],
+        , "fr/15517.mp3"],
         [
           "中号的",
           "moyen, ne",
@@ -1589,7 +1589,7 @@ window.BOOK_DATA[0] ={
           "zh/12309.mp3",
           "zhōng hào de",
           "[mwajɛ̃, ɛn]"
-        ],
+        , "fr/15518.mp3"],
         [
           "大号的",
           "large",
@@ -2279,7 +2279,7 @@ window.BOOK_DATA[0] ={
           "zh/12383.mp3",
           "zhǎi de",
           "[etʃwa, t]"
-        ],
+        , "fr/15519.mp3"],
         [
           "末端",
           "bout",
@@ -2297,7 +2297,7 @@ window.BOOK_DATA[0] ={
           "zh/12385.mp3",
           "gāo dà de",
           "[gʃɑ̃, ɑ̃d]"
-        ]
+        , "fr/15520.mp3"]
       ]
     },
     {
@@ -2550,7 +2550,7 @@ window.BOOK_DATA[0] ={
           "zh/12412.mp3",
           "bù kě quē shǎo de",
           "[ɛ̃tegrɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15521.mp3"],
         [
           "放松，松开",
           "détendre",
@@ -2682,7 +2682,7 @@ window.BOOK_DATA[0] ={
           "zh/12426.mp3",
           "tòu míng de",
           "[trɑ̃sparɑ̃, ɑ̃:t]"
-        ],
+        , "fr/15522.mp3"],
         [
           "褶裙",
           "jupe à plis",
@@ -3038,7 +3038,7 @@ window.BOOK_DATA[0] ={
           "zh/12464.mp3",
           "gāo de",
           "[o, o:t]"
-        ]
+        , "fr/15523.mp3"]
       ]
     },
     {
@@ -3161,7 +3161,7 @@ window.BOOK_DATA[0] ={
           "zh/12477.mp3",
           "báo de",
           "[leʒe, ɛ:r]"
-        ],
+        , "fr/15524.mp3"],
         [
           "厚的",
           "épais, aisse",
@@ -3170,7 +3170,7 @@ window.BOOK_DATA[0] ={
           "zh/12478.mp3",
           "hòu de",
           "[epɛ, ɛs]"
-        ],
+        , "fr/15525.mp3"],
         [
           "松紧带",
           "élasticité",

@@ -345,7 +345,7 @@ window.BOOK_DATA[12] = {
           "",
           "",
           "[zwxrz]"
-        ],
+        , "fr/15559.mp3"],
         [
           "玩要者",
           "",
@@ -390,7 +390,7 @@ window.BOOK_DATA[12] = {
           "",
           "",
           ""
-        ],
+        , "fr/15560.mp3"],
         [
           "绝妙的",
           "",
@@ -947,7 +947,7 @@ window.BOOK_DATA[12] = {
           "zh/07673.mp3",
           "yùn dòng yuán",
           "[sportif,ixv]"
-        ],
+        , "fr/15515.mp3"],
         [
           "训练",
           "exercice",
@@ -1977,7 +1977,7 @@ window.BOOK_DATA[12] = {
           "zh/08594.mp3",
           "qíng lǎng de",
           "[kler]"
-        ],
+        , "fr/15561.mp3"],
         [
           "温暖的",
           "tempere,e",
@@ -2152,7 +2152,7 @@ window.BOOK_DATA[12] = {
           "zh/08602.mp3",
           "hǎi de",
           "[mar,in]"
-        ],
+        , "fr/15553.mp3"],
         [
           "汗衫",
           "maillot",
@@ -2839,7 +2839,7 @@ window.BOOK_DATA[12] = {
           "",
           "",
           "[gardjen]"
-        ],
+        , "fr/15562.mp3"],
         [
           "守门员",
           "nmnA",
@@ -3282,7 +3282,7 @@ window.BOOK_DATA[12] = {
           "",
           "",
           ""
-        ],
+        , "fr/15563.mp3"],
         [
           "观众",
           "",
@@ -3978,7 +3978,7 @@ window.BOOK_DATA[12] = {
           "",
           "",
           "[aferjr]"
-        ],
+        , "fr/15564.mp3"],
         [
           "低等的",
           "",

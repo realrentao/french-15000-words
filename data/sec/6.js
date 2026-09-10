@@ -644,7 +644,7 @@ window.BOOK_DATA[6] = {
           "",
           "",
           ""
-        ],
+        , "fr/15879.mp3"],
         [
           "使人烦恼的",
           "",
@@ -830,7 +830,7 @@ window.BOOK_DATA[6] = {
           "zh/06667.mp3",
           "huá xuě de rén",
           "[skjxir,:z]"
-        ],
+        , "fr/15882.mp3"],
         [
           "斜坡",
           "pente",
@@ -984,7 +984,7 @@ window.BOOK_DATA[6] = {
           "zh/06683.mp3",
           "kāi qiú rén",
           "[servr]"
-        ],
+        , "fr/15827.mp3"],
         [
           "瞄准",
           "pointer",
@@ -1219,7 +1219,7 @@ window.BOOK_DATA[6] = {
           "zh/06708.mp3",
           "yǒu qū xiàn měi de",
           "[siny,z]"
-        ],
+        , "fr/15883.mp3"],
         [
           "苗条的",
           "mince",

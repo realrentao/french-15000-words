@@ -468,7 +468,7 @@ window.BOOK_DATA[25] = {
           "zh/05295.mp3",
           "nǚ xìng de jiàn kāng zhuàng kuàng",
           "[femin&,in]"
-        ],
+        , "fr/15654.mp3"],
         [
           "到职日期",
           "date de dis ponibilité.",
@@ -865,7 +865,7 @@ window.BOOK_DATA[25] = {
           "zh/05308.mp3",
           "yǒu jìn qǔ xīn de",
           "[agresif, iv]"
-        ],
+        , "fr/15655.mp3"],
         [
           "友好的",
           "amical,e",
@@ -874,7 +874,7 @@ window.BOOK_DATA[25] = {
           "zh/05309.mp3",
           "yǒu hǎo de",
           "[amikal]"
-        ],
+        , "fr/15656.mp3"],
         [
           "渴求",
           "briguer t",
@@ -901,7 +901,7 @@ window.BOOK_DATA[25] = {
           "zh/05312.mp3",
           "dà dǎn de",
           "[odasj,iz]"
-        ],
+        , "fr/15657.mp3"],
         [
           "有能力的有能力的",
           "capable efficace",
@@ -919,7 +919,7 @@ window.BOOK_DATA[25] = {
           "zh/05314.mp3",
           "zǐ xì de",
           "[skrypyl,:z]"
-        ],
+        , "fr/15658.mp3"],
         [
           "率直的能胜任的",
           "droit compétent,",
@@ -1112,7 +1112,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           ""
-        ],
+        , "fr/15659.mp3"],
         [
           "阻塞的",
           "",
@@ -1139,7 +1139,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           "[syfizät]"
-        ],
+        , "fr/15660.mp3"],
         [
           "足够的",
           "",
@@ -1244,7 +1244,7 @@ window.BOOK_DATA[25] = {
           "zh/05335.mp3",
           "yì chōng dòng de",
           "[pylsif, iv]"
-        ],
+        , "fr/15661.mp3"],
         [
           "没有耐性的",
           "impatient",
@@ -1343,7 +1343,7 @@ window.BOOK_DATA[25] = {
           "zh/05347.mp3",
           "tiāo tī de",
           "[pinajxr,z]"
-        ],
+        , "fr/15662.mp3"],
         [
           "完美主义者",
           "Xper fectionniste",
@@ -1361,7 +1361,7 @@ window.BOOK_DATA[25] = {
           "zh/05349.mp3",
           "bǎo shǒu de",
           "[kservatif,iv]"
-        ],
+        , "fr/15663.mp3"],
         [
           "呆板的",
           "lourd,e",
@@ -1370,7 +1370,7 @@ window.BOOK_DATA[25] = {
           "zh/05351.mp3",
           "dāi bǎn de",
           "[lur,d]"
-        ]
+        , "fr/15646.mp3"]
       ],
       "s": [
         [
@@ -1428,7 +1428,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           "[pktuel]"
-        ],
+        , "fr/15664.mp3"],
         [
           "守时的",
           "",
@@ -1663,7 +1663,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           "[avoka, at]"
-        ],
+        , "fr/15665.mp3"],
         [
           "律师",
           "",
@@ -1997,7 +1997,7 @@ window.BOOK_DATA[25] = {
           "zh/05418.mp3",
           "míng què de",
           "[kaare]"
-        ],
+        , "fr/15666.mp3"],
         [
           "让让出",
           "céder .i.i",
@@ -2241,7 +2241,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           "[medikal]"
-        ],
+        , "fr/15667.mp3"],
         [
           "医学的",
           "",
@@ -2440,7 +2440,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           "[kple,et]"
-        ],
+        , "fr/15668.mp3"],
         [
           "完整的",
           "",
@@ -2458,7 +2458,7 @@ window.BOOK_DATA[25] = {
           "zh/05467.mp3",
           "gāng tiě de",
           "[fere]"
-        ],
+        , "fr/15669.mp3"],
         [
           "",
           "notamment",
@@ -2630,7 +2630,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           "[rapatrije]"
-        ],
+        , "fr/15670.mp3"],
         [
           "被遣送回国的人",
           "",
@@ -2702,7 +2702,7 @@ window.BOOK_DATA[25] = {
           "",
           "",
           ""
-        ],
+        , "fr/15671.mp3"],
         [
           "职业的",
           "",

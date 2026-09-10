@@ -206,7 +206,7 @@ window.BOOK_DATA[9] = {
           "zh/07316.mp3",
           "jiào duì yuán",
           "[korektr,tris]"
-        ],
+        , "fr/15892.mp3"],
         [
           "校对",
           "corriger",
@@ -408,7 +408,7 @@ window.BOOK_DATA[9] = {
           "",
           "",
           ""
-        ],
+        , "fr/15893.mp3"],
         [
           "热情的",
           "",
@@ -549,7 +549,7 @@ window.BOOK_DATA[9] = {
           "zh/07213.mp3",
           "zhì piàn",
           "[prodyktr,tris]"
-        ],
+        , "fr/15894.mp3"],
         [
           "主演",
           "jouer le rle prin- cipal zwe la rol pr& sipal]",
@@ -1393,7 +1393,7 @@ window.BOOK_DATA[9] = {
           "",
           "",
           ""
-        ],
+        , "fr/15890.mp3"],
         [
           "现代的",
           "",
@@ -1462,7 +1462,7 @@ window.BOOK_DATA[9] = {
           "zh/08150.mp3",
           "qì gōng",
           "[mádja,át]"
-        ],
+        , "fr/15847.mp3"],
         [
           "通道",
           "passage",
@@ -1691,7 +1691,7 @@ window.BOOK_DATA[9] = {
           "",
           "",
           "[kok in]"
-        ],
+        , "fr/15848.mp3"],
         [
           "小淘气",
           "",
@@ -1751,7 +1751,7 @@ window.BOOK_DATA[9] = {
           "zh/08181.mp3",
           "yǒu hǎo de",
           "[amikal, o]"
-        ],
+        , "fr/15656.mp3"],
         [
           "好的",
           "bonne",
@@ -1787,7 +1787,7 @@ window.BOOK_DATA[9] = {
           "zh/08185.mp3",
           "jī jí de",
           "[pozitif,-iv]"
-        ],
+        , "fr/15795.mp3"],
         [
           "善良的",
           "honnete",
@@ -1832,7 +1832,7 @@ window.BOOK_DATA[9] = {
           "zh/08190.mp3",
           "kě kào de",
           "[serj,z]"
-        ],
+        , "fr/15797.mp3"],
         [
           "聪明的",
           "sagace",
@@ -1850,7 +1850,7 @@ window.BOOK_DATA[9] = {
           "zh/08192.mp3",
           "jīng míng de",
           "[fyte]"
-        ],
+        , "fr/15798.mp3"],
         [
           "幽默地",
           "scherzando",
@@ -2250,7 +2250,7 @@ window.BOOK_DATA[9] = {
           "",
           "",
           ""
-        ],
+        , "fr/15895.mp3"],
         [
           "各自的",
           "adj..",
@@ -2467,7 +2467,7 @@ window.BOOK_DATA[9] = {
           "",
           "",
           ""
-        ],
+        , "fr/15896.mp3"],
         [
           "珠宝商",
           "",

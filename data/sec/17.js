@@ -215,7 +215,7 @@ window.BOOK_DATA[17] = {
           "zh/11148.mp3",
           "dào qiè fàn",
           "[volr,z]"
-        ],
+        , "fr/15613.mp3"],
         [
           "盗用",
           "détourner .",
@@ -278,7 +278,7 @@ window.BOOK_DATA[17] = {
           "zh/11155.mp3",
           "tōu lái de",
           "[derobe]"
-        ],
+        , "fr/15614.mp3"],
         [
           "盗窃行为",
           "cambriolage",
@@ -796,7 +796,7 @@ window.BOOK_DATA[17] = {
           "",
           "",
           ""
-        ],
+        , "fr/15615.mp3"],
         [
           "青少年",
           "",
@@ -859,7 +859,7 @@ window.BOOK_DATA[17] = {
           "",
           "",
           "[äkl,in]"
-        ],
+        , "fr/15616.mp3"],
         [
           "倾向于的",
           "",
@@ -1284,7 +1284,7 @@ window.BOOK_DATA[17] = {
           "",
           "",
           "[äbale]"
-        ],
+        , "fr/15617.mp3"],
         [
           "打包的",
           "",
