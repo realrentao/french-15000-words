@@ -5,6 +5,7 @@
   var META = window.BOOK_META || { title: "", author: "", grupos: [], totalAll: 0 };
   var DATA = {};            // gid -> 分册数据
   var AUDIO = "audio/";
+  var SITE_VER = "20260910";   // 资源版本戳：更新内容后 bump 此值以破除浏览器/CDN 缓存
   var LS_DONE = "sv15000_done", LS_THEME = "sv15000_theme", LS_POS = "sv15000_pos";
   var LS_SRS = "sv15000_srs";
   var SRS_INT = [0, 10 * 60 * 1000, 60 * 60 * 1000, 864e5, 3 * 864e5, 7 * 864e5];
@@ -72,7 +73,7 @@
   function loadParte(gid, cb) {
     if (DATA[gid]) { cb(DATA[gid]); return; }
     var s = document.createElement("script");
-    s.src = "data/sec/" + gid + ".js";
+    s.src = "data/sec/" + gid + ".js?v=" + SITE_VER;
     s.onload = function () {
       var d = (window.BOOK_DATA || {})[gid] || null;
       if (d) DATA[gid] = d;
