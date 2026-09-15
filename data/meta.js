@@ -3354,7 +3354,7 @@ window.BOOK_META={
       ]
     },
     {
-      "name": "社会生活热词",
+      "name": "生活热词",
       "partes": [
         {
           "gid": 50,
